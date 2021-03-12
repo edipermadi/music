@@ -1,0 +1,28 @@
+# Scale Lycritonic
+
+## Links
+
+- [Documentation](index.md)
+- [Scales Index](Scales.md)
+- [Modes Index](Modes.md)
+- [Chords Index](Chords.md)
+
+## Cardinality
+
+5 Notes
+
+## Perfection
+
+- 2 Perfect Pitch
+- 3 Imperfect Pitch
+- [false true true false false] Perfection Profile
+
+## Modes
+
+| Number | Mode | Notes | Illustration | Audio |
+|--------|------|-------|--------------|-------|
+| [403](https://ianring.com/musictheory/scales/403) | [Daptitonic](ModeDaptitonic.md) | C, C#, **E**, **G**, **G#**, C | ![CNaturalDaptitonic](ModeCNaturalDaptitonic.png) | [midi](ModeCNaturalDaptitonic.mid) [ogg](ModeCNaturalDaptitonic.ogg) | 
+| [611](https://ianring.com/musictheory/scales/611) | [Zynitonic](ModeZynitonic.md) | **C**, **C#**, F, F#, **A**, **C** | ![CNaturalZynitonic](ModeCNaturalZynitonic.png) | [midi](ModeCNaturalZynitonic.mid) [ogg](ModeCNaturalZynitonic.ogg) | 
+| [793](https://ianring.com/musictheory/scales/793) | [Mocritonic](ModeMocritonic.md) | **C**, **D#**, **E**, G#, A, **C** | ![CNaturalMocritonic](ModeCNaturalMocritonic.png) | [midi](ModeCNaturalMocritonic.mid) [ogg](ModeCNaturalMocritonic.ogg) | 
+| [2249](https://ianring.com/musictheory/scales/2249) | [Kygitonic](ModeKygitonic.md) | C, **D#**, **F#**, **G**, B, C | ![CNaturalKygitonic](ModeCNaturalKygitonic.png) | [midi](ModeCNaturalKygitonic.mid) [ogg](ModeCNaturalKygitonic.ogg) | 
+| [2353](https://ianring.com/musictheory/scales/2353) | [Lycritonic](ModeLycritonic.md) | **C**, E, F, **G#**, **B**, **C** | ![CNaturalLycritonic](ModeCNaturalLycritonic.png) | [midi](ModeCNaturalLycritonic.mid) [ogg](ModeCNaturalLycritonic.ogg) | 

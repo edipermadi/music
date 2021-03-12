@@ -1,0 +1,100 @@
+# Mode DSharpLalimic
+
+## Links
+
+- [Documentation](index.md)
+- [Scales Index](Scales.md)
+- [Modes Index](Modes.md)
+- [Chords Index](Chords.md)
+
+## Scale
+
+[Laptimic](ScaleLaptimic.md)
+
+## Mode
+
+[DSharpLalimic](ModeDSharpLalimic.md)
+
+## Tonic
+
+D#
+
+## Signature
+
+[CNaturalMajor]
+
+## Perfection
+
+ - 3 Perfect Notes
+
+ - 3 Imperfect Notes
+
+## Notes
+
+- D# (Imperfect)
+- E (Imperfect)
+- F## (Imperfect)
+- G#
+- A###
+- B##
+- D# (Imperfect)
+
+## Illustration
+
+![DSharpLalimic](ModeDSharpLalimic.png)
+
+## Relative Modes
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [411](https://ianring.com/musictheory/scales/411) | [Lygimic](ModeLygimic.md) | C | C, Db, Eb, Fb, G, Ab, C | ![CNaturalLygimic](ModeCNaturalLygimic.png) |
+| [867](https://ianring.com/musictheory/scales/867) | [Phrocrimic](ModePhrocrimic.md) | G | G, Ab, B#, C#, D#, E, G | ![GNaturalPhrocrimic](ModeGNaturalPhrocrimic.png) |
+| [1587](https://ianring.com/musictheory/scales/1587) | [Lalimic](ModeLalimic.md) | D# | D#, E, F##, G#, A###, B##, D# | ![DSharpLalimic](ModeDSharpLalimic.png) |
+| [1587](https://ianring.com/musictheory/scales/1587) | [Lalimic](ModeLalimic.md) | Eb | Eb, Fb, G, Ab, B#, C#, Eb | ![EFlatLalimic](ModeEFlatLalimic.png) |
+| [2253](https://ianring.com/musictheory/scales/2253) | [Logimic](ModeLogimic.md) | C# | C#, D#, E, F##, G#, A###, C# | ![CSharpLogimic](ModeCSharpLogimic.png) |
+| [2253](https://ianring.com/musictheory/scales/2253) | [Logimic](ModeLogimic.md) | Db | Db, Eb, Fb, G, Ab, B#, Db | ![DFlatLogimic](ModeDFlatLogimic.png) |
+| [2481](https://ianring.com/musictheory/scales/2481) | [Laptimic](ModeLaptimic.md) | G# | G#, A###, B##, C###, D##, E###, G# | ![GSharpLaptimic](ModeGSharpLaptimic.png) |
+| [2481](https://ianring.com/musictheory/scales/2481) | [Laptimic](ModeLaptimic.md) | Ab | Ab, B#, C#, D#, E, F##, Ab | ![AFlatLaptimic](ModeAFlatLaptimic.png) |
+| [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeSothimic.md) | E | E, F##, G#, A###, B##, C###, E | ![ENaturalSothimic](ModeENaturalSothimic.png) |
+
+## Chords
+
+### D#
+
+| Number | Root | Name | Notes | Illustration | Audio |
+|--------|------|------|-------|--------------|-------|
+| 137 | D# | [D#M##5](ChordDSharpMajorDoubleSharpFifth.md) | D#, F##, B# | ![D#M##5](ChordDSharpMajorDoubleSharpFifthRootPosition.png) | [midi](ChordDSharpMajorDoubleSharpFifthRootPosition.mid) [ogg](ChordDSharpMajorDoubleSharpFifthRootPosition.ogg) |
+| 265 | D# | [D#sus4##5](ChordDSharpSuspendedFourthDoubleSharpFifth.md) | D#, G#, B# | ![D#sus4##5](ChordDSharpSuspendedFourthDoubleSharpFifthRootPosition.png) | [midi](ChordDSharpSuspendedFourthDoubleSharpFifthRootPosition.mid) [ogg](ChordDSharpSuspendedFourthDoubleSharpFifthRootPosition.ogg) |
+| 266 | D# | [D#Q](ChordDSharpQuartal.md) | D#, G#, C# | ![D#Q](ChordDSharpQuartalRootPosition.png) | [midi](ChordDSharpQuartalRootPosition.mid) [ogg](ChordDSharpQuartalRootPosition.ogg) |
+
+### E
+
+| Number | Root | Name | Notes | Illustration | Audio |
+|--------|------|------|-------|--------------|-------|
+| 145 | E | [Em#5](ChordENaturalMinorSharpFifth.md) | E, G, C | ![Em#5](ChordENaturalMinorSharpFifthRootPosition.png) | [midi](ChordENaturalMinorSharpFifthRootPosition.mid) [ogg](ChordENaturalMinorSharpFifthRootPosition.ogg) |
+| 273 | E | [E+](ChordENaturalAugmented.md) | E, G#, B# | ![E+](ChordENaturalAugmentedRootPosition.png) | [midi](ChordENaturalAugmentedRootPosition.mid) [ogg](ChordENaturalAugmentedRootPosition.ogg) |
+| 273 | E | [E+7](ChordENaturalAugmentedAugmentedSeventh.md) | E, G#, B#, D## | ![E+7](ChordENaturalAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordENaturalAugmentedAugmentedSeventhRootPosition.mid) [ogg](ChordENaturalAugmentedAugmentedSeventhRootPosition.ogg) |
+| 274 | E | [EM##5](ChordENaturalMajorDoubleSharpFifth.md) | E, G#, C# | ![EM##5](ChordENaturalMajorDoubleSharpFifthRootPosition.png) | [midi](ChordENaturalMajorDoubleSharpFifthRootPosition.mid) [ogg](ChordENaturalMajorDoubleSharpFifthRootPosition.ogg) |
+| 281 | E | [E+(M7)](ChordENaturalAugmentedMajorSeventh.md) | E, G#, B#, D# | ![E+(M7)](ChordENaturalAugmentedMajorSeventhRootPosition.png) | [midi](ChordENaturalAugmentedMajorSeventhRootPosition.mid) [ogg](ChordENaturalAugmentedMajorSeventhRootPosition.ogg) |
+| 282 | E | [EM7##5](ChordENaturalMajorSeventhDoubleSharpFifth.md) | E, G#, C#, D# | ![EM7##5](ChordENaturalMajorSeventhDoubleSharpFifthRootPosition.png) | [midi](ChordENaturalMajorSeventhDoubleSharpFifthRootPosition.mid) [ogg](ChordENaturalMajorSeventhDoubleSharpFifthRootPosition.ogg) |
+
+### F##
+
+| Number | Root | Name | Notes | Illustration | Audio |
+|--------|------|------|-------|--------------|-------|
+
+### G#
+
+| Number | Root | Name | Notes | Illustration | Audio |
+|--------|------|------|-------|--------------|-------|
+
+### A###
+
+| Number | Root | Name | Notes | Illustration | Audio |
+|--------|------|------|-------|--------------|-------|
+
+### B##
+
+| Number | Root | Name | Notes | Illustration | Audio |
+|--------|------|------|-------|--------------|-------|
+

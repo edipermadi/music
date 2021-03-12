@@ -1,0 +1,99 @@
+# Mode DSharpPhrocrian
+
+## Links
+
+- [Documentation](index.md)
+- [Scales Index](Scales.md)
+- [Modes Index](Modes.md)
+- [Chords Index](Chords.md)
+
+## Scale
+
+[Laptian](ScaleLaptian.md)
+
+## Mode
+
+[DSharpPhrocrian](ModeDSharpPhrocrian.md)
+
+## Tonic
+
+D#
+
+## Signature
+
+[CNaturalMajor]
+
+## Perfection
+
+ - 4 Perfect Notes
+
+ - 3 Imperfect Notes
+
+## Notes
+
+- D#
+- E##
+- F##
+- G### (Imperfect)
+- A###
+- B## (Imperfect)
+- C## (Imperfect)
+- D#
+
+## Illustration
+
+![DSharpPhrocrian](ModeDSharpPhrocrian.png)
+
+## Relative Modes
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [829](https://ianring.com/musictheory/scales/829) | [Lygian](ModeLygian.md) | A# | A#, B#, C#, D, Eb, F#, G, A# | ![ASharpLygian](ModeASharpLygian.png) |
+| [829](https://ianring.com/musictheory/scales/829) | [Lygian](ModeLygian.md) | Bb | Bb, C, Db, Ebb, Fbb, Gb, Abb, Bb | ![BFlatLygian](ModeBFlatLygian.png) |
+| [979](https://ianring.com/musictheory/scales/979) | [Thogian](ModeThogian.md) | F# | F#, G, A#, B#, C#, D, Eb, F# | ![FSharpThogian](ModeFSharpThogian.png) |
+| [979](https://ianring.com/musictheory/scales/979) | [Thogian](ModeThogian.md) | Gb | Gb, Abb, Bb, C, Db, Ebb, Fbb, Gb | ![GFlatThogian](ModeGFlatThogian.png) |
+| [1231](https://ianring.com/musictheory/scales/1231) | [Logian](ModeLogian.md) | C | C, Db, Ebb, Fbb, Gb, Abb, Bb, C | ![CNaturalLogian](ModeCNaturalLogian.png) |
+| [2537](https://ianring.com/musictheory/scales/2537) | [Laptian](ModeLaptian.md) | G | G, A#, B#, C#, D, Eb, F#, G | ![GNaturalLaptian](ModeGNaturalLaptian.png) |
+| [2663](https://ianring.com/musictheory/scales/2663) | [Lalian](ModeLalian.md) | C# | C#, D, Eb, F#, G, A#, B#, C# | ![CSharpLalian](ModeCSharpLalian.png) |
+| [2663](https://ianring.com/musictheory/scales/2663) | [Lalian](ModeLalian.md) | Db | Db, Ebb, Fbb, Gb, Abb, Bb, C, Db | ![DFlatLalian](ModeDFlatLalian.png) |
+| [3379](https://ianring.com/musictheory/scales/3379) | [Sothian](ModeSothian.md) | D | D, Eb, F#, G, A#, B#, C#, D | ![DNaturalSothian](ModeDNaturalSothian.png) |
+| [3737](https://ianring.com/musictheory/scales/3737) | [Phrocrian](ModePhrocrian.md) | D# | D#, E##, F##, G###, A###, B##, C##, D# | ![DSharpPhrocrian](ModeDSharpPhrocrian.png) |
+| [3737](https://ianring.com/musictheory/scales/3737) | [Phrocrian](ModePhrocrian.md) | Eb | Eb, F#, G, A#, B#, C#, D, Eb | ![EFlatPhrocrian](ModeEFlatPhrocrian.png) |
+
+## Chords
+
+### D#
+
+| Number | Root | Name | Notes | Illustration | Audio |
+|--------|------|------|-------|--------------|-------|
+
+### E##
+
+| Number | Root | Name | Notes | Illustration | Audio |
+|--------|------|------|-------|--------------|-------|
+
+### F##
+
+| Number | Root | Name | Notes | Illustration | Audio |
+|--------|------|------|-------|--------------|-------|
+
+### G###
+
+| Number | Root | Name | Notes | Illustration | Audio |
+|--------|------|------|-------|--------------|-------|
+
+### A###
+
+| Number | Root | Name | Notes | Illustration | Audio |
+|--------|------|------|-------|--------------|-------|
+
+### B##
+
+| Number | Root | Name | Notes | Illustration | Audio |
+|--------|------|------|-------|--------------|-------|
+
+### C##
+
+| Number | Root | Name | Notes | Illustration | Audio |
+|--------|------|------|-------|--------------|-------|
+

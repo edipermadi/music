@@ -1,0 +1,31 @@
+# Scale Thagyllic
+
+## Links
+
+- [Documentation](index.md)
+- [Scales Index](Scales.md)
+- [Modes Index](Modes.md)
+- [Chords Index](Chords.md)
+
+## Cardinality
+
+8 Notes
+
+## Perfection
+
+- 5 Perfect Pitch
+- 3 Imperfect Pitch
+- [false true true false false true true true] Perfection Profile
+
+## Modes
+
+| Number | Mode | Notes | Illustration | Audio |
+|--------|------|-------|--------------|-------|
+| [503](https://ianring.com/musictheory/scales/503) | [Thoptyllic](ModeThoptyllic.md) | C, C#, **D**, **E**, F, F#, G, **G#**, C | ![CNaturalThoptyllic](ModeCNaturalThoptyllic.png) | [midi](ModeCNaturalThoptyllic.mid) [ogg](ModeCNaturalThoptyllic.ogg) | 
+| [1823](https://ianring.com/musictheory/scales/1823) | [Phralyllic](ModePhralyllic.md) | **C**, C#, D, D#, **E**, G#, A, **A#**, **C** | ![CNaturalPhralyllic](ModeCNaturalPhralyllic.png) | [midi](ModeCNaturalPhralyllic.mid) [ogg](ModeCNaturalPhralyllic.ogg) | 
+| [2299](https://ianring.com/musictheory/scales/2299) | [Phraptyllic](ModePhraptyllic.md) | C, **C#**, **D#**, E, F, F#, **G**, B, C | ![CNaturalPhraptyllic](ModeCNaturalPhraptyllic.png) | [midi](ModeCNaturalPhraptyllic.mid) [ogg](ModeCNaturalPhraptyllic.ogg) | 
+| [2959](https://ianring.com/musictheory/scales/2959) | [Dygyllic](ModeDygyllic.md) | C, C#, D, **D#**, G, G#, **A**, **B**, C | ![CNaturalDygyllic](ModeCNaturalDygyllic.png) | [midi](ModeCNaturalDygyllic.mid) [ogg](ModeCNaturalDygyllic.ogg) | 
+| [3197](https://ianring.com/musictheory/scales/3197) | [Gylyllic](ModeGylyllic.md) | **C**, **D**, D#, E, F, **F#**, A#, B, **C** | ![CNaturalGylyllic](ModeCNaturalGylyllic.png) | [midi](ModeCNaturalGylyllic.mid) [ogg](ModeCNaturalGylyllic.ogg) | 
+| [3527](https://ianring.com/musictheory/scales/3527) | [Ronyllic](ModeRonyllic.md) | C, C#, **D**, F#, G, **G#**, **A#**, B, C | ![CNaturalRonyllic](ModeCNaturalRonyllic.png) | [midi](ModeCNaturalRonyllic.mid) [ogg](ModeCNaturalRonyllic.ogg) | 
+| [3811](https://ianring.com/musictheory/scales/3811) | [Epogyllic](ModeEpogyllic.md) | C, **C#**, F, F#, **G**, **A**, A#, B, C | ![CNaturalEpogyllic](ModeCNaturalEpogyllic.png) | [midi](ModeCNaturalEpogyllic.mid) [ogg](ModeCNaturalEpogyllic.ogg) | 
+| [3953](https://ianring.com/musictheory/scales/3953) | [Thagyllic](ModeThagyllic.md) | **C**, E, F, **F#**, **G#**, A, A#, B, **C** | ![CNaturalThagyllic](ModeCNaturalThagyllic.png) | [midi](ModeCNaturalThagyllic.mid) [ogg](ModeCNaturalThagyllic.ogg) | 

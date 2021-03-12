@@ -1,0 +1,47 @@
+# Mode Borian
+
+## Links
+
+- [Documentation](index.md)
+- [Scales Index](Scales.md)
+- [Modes Index](Modes.md)
+- [Chords Index](Chords.md)
+
+## Parent Scale
+
+[Gacrian](ScaleGacrian.md)
+
+## Number
+
+[889](https://ianring.com/musictheory/scales/889)
+
+## Perfection
+
+- 3 Perfect notes
+- 4 Perfect notes
+
+## Perfection Profile
+
+[false false false true false true true]
+
+## Permutations
+
+| Tonic | Notes | Signature | Illustration | Audio |
+|-------|-------|-----------|--------------|-------|
+| [C](ModeCNaturalBorian.md) | **C**, **D#**, **E**, F, **Gb**, Ab, Bbb, **C** | C | ![CNaturalBorian](ModeCNaturalBorian.png) | [midi](ModeCNaturalBorian.mid) [ogg](ModeCNaturalBorian.ogg) |
+| [C#](ModeCSharpBorian.md) | **C#**, **D##**, **E#**, F#, **G**, A, Bb, **C#** | C | ![CSharpBorian](ModeCSharpBorian.png) | [midi](ModeCSharpBorian.mid) [ogg](ModeCSharpBorian.ogg) |
+| [Db](ModeDFlatBorian.md) | **Db**, **E**, **F**, Gb, **Abb**, Bbb, Cbb, **Db** | C | ![DFlatBorian](ModeDFlatBorian.png) | [midi](ModeDFlatBorian.mid) [ogg](ModeDFlatBorian.ogg) |
+| [D](ModeDNaturalBorian.md) | **D**, **E#**, **F#**, G, **Ab**, Bb, Cb, **D** | C | ![DNaturalBorian](ModeDNaturalBorian.png) | [midi](ModeDNaturalBorian.mid) [ogg](ModeDNaturalBorian.ogg) |
+| [D#](ModeDSharpBorian.md) | **D#**, **E##**, **F##**, G#, **A**, B, C, **D#** | C | ![DSharpBorian](ModeDSharpBorian.png) | [midi](ModeDSharpBorian.mid) [ogg](ModeDSharpBorian.ogg) |
+| [Eb](ModeEFlatBorian.md) | **Eb**, **F#**, **G**, Ab, **Bbb**, Cb, Dbb, **Eb** | C | ![EFlatBorian](ModeEFlatBorian.png) | [midi](ModeEFlatBorian.mid) [ogg](ModeEFlatBorian.ogg) |
+| [E](ModeENaturalBorian.md) | **E**, **F##**, **G#**, A, **Bb**, C, Db, **E** | C | ![ENaturalBorian](ModeENaturalBorian.png) | [midi](ModeENaturalBorian.mid) [ogg](ModeENaturalBorian.ogg) |
+| [F](ModeFNaturalBorian.md) | **F**, **G#**, **A**, Bb, **Cb**, Db, Ebb, **F** | C | ![FNaturalBorian](ModeFNaturalBorian.png) | [midi](ModeFNaturalBorian.mid) [ogg](ModeFNaturalBorian.ogg) |
+| [F#](ModeFSharpBorian.md) | **F#**, **G##**, **A#**, B, **C**, D, Eb, **F#** | C | ![FSharpBorian](ModeFSharpBorian.png) | [midi](ModeFSharpBorian.mid) [ogg](ModeFSharpBorian.ogg) |
+| [Gb](ModeGFlatBorian.md) | **Gb**, **A**, **Bb**, Cb, **Dbb**, Ebb, Fbb, **Gb** | C | ![GFlatBorian](ModeGFlatBorian.png) | [midi](ModeGFlatBorian.mid) [ogg](ModeGFlatBorian.ogg) |
+| [G](ModeGNaturalBorian.md) | **G**, **A#**, **B**, C, **Db**, Eb, Fb, **G** | C | ![GNaturalBorian](ModeGNaturalBorian.png) | [midi](ModeGNaturalBorian.mid) [ogg](ModeGNaturalBorian.ogg) |
+| [G#](ModeGSharpBorian.md) | **G#**, **A##**, **B#**, C#, **D**, E, F, **G#** | C | ![GSharpBorian](ModeGSharpBorian.png) | [midi](ModeGSharpBorian.mid) [ogg](ModeGSharpBorian.ogg) |
+| [Ab](ModeAFlatBorian.md) | **Ab**, **B**, **C**, Db, **Ebb**, Fb, Gbb, **Ab** | C | ![AFlatBorian](ModeAFlatBorian.png) | [midi](ModeAFlatBorian.mid) [ogg](ModeAFlatBorian.ogg) |
+| [A](ModeANaturalBorian.md) | **A**, **B#**, **C#**, D, **Eb**, F, Gb, **A** | C | ![ANaturalBorian](ModeANaturalBorian.png) | [midi](ModeANaturalBorian.mid) [ogg](ModeANaturalBorian.ogg) |
+| [A#](ModeASharpBorian.md) | **A#**, **B##**, **C##**, D#, **E**, F#, G, **A#** | C | ![ASharpBorian](ModeASharpBorian.png) | [midi](ModeASharpBorian.mid) [ogg](ModeASharpBorian.ogg) |
+| [Bb](ModeBFlatBorian.md) | **Bb**, **C#**, **D**, Eb, **Fb**, Gb, Abb, **Bb** | C | ![BFlatBorian](ModeBFlatBorian.png) | [midi](ModeBFlatBorian.mid) [ogg](ModeBFlatBorian.ogg) |
+| [B](ModeBNaturalBorian.md) | **B**, **C##**, **D#**, E, **F**, G, Ab, **B** | C | ![BNaturalBorian](ModeBNaturalBorian.png) | [midi](ModeBNaturalBorian.mid) [ogg](ModeBNaturalBorian.ogg) |

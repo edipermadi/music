@@ -1,0 +1,47 @@
+# Mode Dothian
+
+## Links
+
+- [Documentation](index.md)
+- [Scales Index](Scales.md)
+- [Modes Index](Modes.md)
+- [Chords Index](Chords.md)
+
+## Parent Scale
+
+[Bonian](ScaleBonian.md)
+
+## Number
+
+[2639](https://ianring.com/musictheory/scales/2639)
+
+## Perfection
+
+- 3 Perfect notes
+- 4 Perfect notes
+
+## Perfection Profile
+
+[false false true false true false true]
+
+## Permutations
+
+| Tonic | Notes | Signature | Illustration | Audio |
+|-------|-------|-----------|--------------|-------|
+| [C](ModeCNaturalDothian.md) | **C**, **Db**, Ebb, **Fbb**, Gb, **A**, B, **C** | C | ![CNaturalDothian](ModeCNaturalDothian.png) | [midi](ModeCNaturalDothian.mid) [ogg](ModeCNaturalDothian.ogg) |
+| [C#](ModeCSharpDothian.md) | **C#**, **D**, Eb, **Fb**, G, **A#**, B#, **C#** | C | ![CSharpDothian](ModeCSharpDothian.png) | [midi](ModeCSharpDothian.mid) [ogg](ModeCSharpDothian.ogg) |
+| [Db](ModeDFlatDothian.md) | **Db**, **Ebb**, Fbb, **Gbbb**, Abb, **Bb**, C, **Db** | C | ![DFlatDothian](ModeDFlatDothian.png) | [midi](ModeDFlatDothian.mid) [ogg](ModeDFlatDothian.ogg) |
+| [D](ModeDNaturalDothian.md) | **D**, **Eb**, Fb, **Gbb**, Ab, **B**, C#, **D** | C | ![DNaturalDothian](ModeDNaturalDothian.png) | [midi](ModeDNaturalDothian.mid) [ogg](ModeDNaturalDothian.ogg) |
+| [D#](ModeDSharpDothian.md) | **D#**, **E**, F, **Gb**, A, **B#**, C##, **D#** | C | ![DSharpDothian](ModeDSharpDothian.png) | [midi](ModeDSharpDothian.mid) [ogg](ModeDSharpDothian.ogg) |
+| [Eb](ModeEFlatDothian.md) | **Eb**, **Fb**, Gbb, **Abbb**, Bbb, **C**, D, **Eb** | C | ![EFlatDothian](ModeEFlatDothian.png) | [midi](ModeEFlatDothian.mid) [ogg](ModeEFlatDothian.ogg) |
+| [E](ModeENaturalDothian.md) | **E**, **F**, Gb, **Abb**, Bb, **C#**, D#, **E** | C | ![ENaturalDothian](ModeENaturalDothian.png) | [midi](ModeENaturalDothian.mid) [ogg](ModeENaturalDothian.ogg) |
+| [F](ModeFNaturalDothian.md) | **F**, **Gb**, Abb, **Bbbb**, Cb, **D**, E, **F** | C | ![FNaturalDothian](ModeFNaturalDothian.png) | [midi](ModeFNaturalDothian.mid) [ogg](ModeFNaturalDothian.ogg) |
+| [F#](ModeFSharpDothian.md) | **F#**, **G**, Ab, **Bbb**, C, **D#**, E#, **F#** | C | ![FSharpDothian](ModeFSharpDothian.png) | [midi](ModeFSharpDothian.mid) [ogg](ModeFSharpDothian.ogg) |
+| [Gb](ModeGFlatDothian.md) | **Gb**, **Abb**, Bbbb, **Cbbb**, Dbb, **Eb**, F, **Gb** | C | ![GFlatDothian](ModeGFlatDothian.png) | [midi](ModeGFlatDothian.mid) [ogg](ModeGFlatDothian.ogg) |
+| [G](ModeGNaturalDothian.md) | **G**, **Ab**, Bbb, **Cbb**, Db, **E**, F#, **G** | C | ![GNaturalDothian](ModeGNaturalDothian.png) | [midi](ModeGNaturalDothian.mid) [ogg](ModeGNaturalDothian.ogg) |
+| [G#](ModeGSharpDothian.md) | **G#**, **A**, Bb, **Cb**, D, **E#**, F##, **G#** | C | ![GSharpDothian](ModeGSharpDothian.png) | [midi](ModeGSharpDothian.mid) [ogg](ModeGSharpDothian.ogg) |
+| [Ab](ModeAFlatDothian.md) | **Ab**, **Bbb**, Cbb, **Dbbb**, Ebb, **F**, G, **Ab** | C | ![AFlatDothian](ModeAFlatDothian.png) | [midi](ModeAFlatDothian.mid) [ogg](ModeAFlatDothian.ogg) |
+| [A](ModeANaturalDothian.md) | **A**, **Bb**, Cb, **Dbb**, Eb, **F#**, G#, **A** | C | ![ANaturalDothian](ModeANaturalDothian.png) | [midi](ModeANaturalDothian.mid) [ogg](ModeANaturalDothian.ogg) |
+| [A#](ModeASharpDothian.md) | **A#**, **B**, C, **Db**, E, **F##**, G##, **A#** | C | ![ASharpDothian](ModeASharpDothian.png) | [midi](ModeASharpDothian.mid) [ogg](ModeASharpDothian.ogg) |
+| [Bb](ModeBFlatDothian.md) | **Bb**, **Cb**, Dbb, **Ebbb**, Fb, **G**, A, **Bb** | C | ![BFlatDothian](ModeBFlatDothian.png) | [midi](ModeBFlatDothian.mid) [ogg](ModeBFlatDothian.ogg) |
+| [B](ModeBNaturalDothian.md) | **B**, **C**, Db, **Ebb**, F, **G#**, A#, **B** | C | ![BNaturalDothian](ModeBNaturalDothian.png) | [midi](ModeBNaturalDothian.mid) [ogg](ModeBNaturalDothian.ogg) |
