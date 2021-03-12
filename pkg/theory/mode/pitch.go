@@ -10,6 +10,7 @@ func (m Mode) Pitches(givenOctave int) pitch.Pitches {
 
 	var previousOffset int
 	for idx, givenNote := range m.notes {
+		givenNote = givenNote.Normalize()
 		if idx > 0 && previousOffset >= givenNote.AbsoluteOffset() {
 			givenOctave++
 		}
