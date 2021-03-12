@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalLothimic.md) | C, D, E#, F##, **G##**, A#, C | C | ![CNaturalLothimic](ModeCNaturalLothimic.png) | [midi](ModeCNaturalLothimic.mid) [ogg](ModeCNaturalLothimic.ogg) |
-| [C#](ModeCSharpLothimic.md) | C#, D#, E##, F###, **G###**, A##, C# | C | ![CSharpLothimic](ModeCSharpLothimic.png) | [midi](ModeCSharpLothimic.mid) [ogg](ModeCSharpLothimic.ogg) |
-| [Db](ModeDFlatLothimic.md) | Db, Eb, F#, G#, **A#**, B, Db | C | ![DFlatLothimic](ModeDFlatLothimic.png) | [midi](ModeDFlatLothimic.mid) [ogg](ModeDFlatLothimic.ogg) |
-| [D](ModeDNaturalLothimic.md) | D, E, F##, G##, **A##**, B#, D | C | ![DNaturalLothimic](ModeDNaturalLothimic.png) | [midi](ModeDNaturalLothimic.mid) [ogg](ModeDNaturalLothimic.ogg) |
-| [D#](ModeDSharpLothimic.md) | D#, E#, F###, G###, **A###**, B##, D# | C | ![DSharpLothimic](ModeDSharpLothimic.png) | [midi](ModeDSharpLothimic.mid) [ogg](ModeDSharpLothimic.ogg) |
-| [Eb](ModeEFlatLothimic.md) | Eb, F, G#, A#, **B#**, C#, Eb | C | ![EFlatLothimic](ModeEFlatLothimic.png) | [midi](ModeEFlatLothimic.mid) [ogg](ModeEFlatLothimic.ogg) |
-| [E](ModeENaturalLothimic.md) | E, F#, G##, A##, **B##**, C##, E | C | ![ENaturalLothimic](ModeENaturalLothimic.png) | [midi](ModeENaturalLothimic.mid) [ogg](ModeENaturalLothimic.ogg) |
-| [F](ModeFNaturalLothimic.md) | F, G, A#, B#, **C##**, D#, F | C | ![FNaturalLothimic](ModeFNaturalLothimic.png) | [midi](ModeFNaturalLothimic.mid) [ogg](ModeFNaturalLothimic.ogg) |
-| [F#](ModeFSharpLothimic.md) | F#, G#, A##, B##, **C###**, D##, F# | C | ![FSharpLothimic](ModeFSharpLothimic.png) | [midi](ModeFSharpLothimic.mid) [ogg](ModeFSharpLothimic.ogg) |
-| [Gb](ModeGFlatLothimic.md) | Gb, Ab, B, C#, **D#**, E, Gb | C | ![GFlatLothimic](ModeGFlatLothimic.png) | [midi](ModeGFlatLothimic.mid) [ogg](ModeGFlatLothimic.ogg) |
-| [G](ModeGNaturalLothimic.md) | G, A, B#, C##, **D##**, E#, G | C | ![GNaturalLothimic](ModeGNaturalLothimic.png) | [midi](ModeGNaturalLothimic.mid) [ogg](ModeGNaturalLothimic.ogg) |
-| [G#](ModeGSharpLothimic.md) | G#, A#, B##, C###, **D###**, E##, G# | C | ![GSharpLothimic](ModeGSharpLothimic.png) | [midi](ModeGSharpLothimic.mid) [ogg](ModeGSharpLothimic.ogg) |
-| [Ab](ModeAFlatLothimic.md) | Ab, Bb, C#, D#, **E#**, F#, Ab | C | ![AFlatLothimic](ModeAFlatLothimic.png) | [midi](ModeAFlatLothimic.mid) [ogg](ModeAFlatLothimic.ogg) |
-| [A](ModeANaturalLothimic.md) | A, B, C##, D##, **E##**, F##, A | C | ![ANaturalLothimic](ModeANaturalLothimic.png) | [midi](ModeANaturalLothimic.mid) [ogg](ModeANaturalLothimic.ogg) |
-| [A#](ModeASharpLothimic.md) | A#, B#, C###, D###, **E###**, F###, A# | C | ![ASharpLothimic](ModeASharpLothimic.png) | [midi](ModeASharpLothimic.mid) [ogg](ModeASharpLothimic.ogg) |
-| [Bb](ModeBFlatLothimic.md) | Bb, C, D#, E#, **F##**, G#, Bb | C | ![BFlatLothimic](ModeBFlatLothimic.png) | [midi](ModeBFlatLothimic.mid) [ogg](ModeBFlatLothimic.ogg) |
-| [B](ModeBNaturalLothimic.md) | B, C#, D##, E##, **F###**, G##, B | C | ![BNaturalLothimic](ModeBNaturalLothimic.png) | [midi](ModeBNaturalLothimic.mid) [ogg](ModeBNaturalLothimic.ogg) |
+| [C](ModeCNaturalLothimic.md) | C, D, E#, F##, **G##**, A#, C | C | ![CNaturalLothimic](ModeCNaturalLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalLothimic.mid?raw=true) |
+| [C#](ModeCSharpLothimic.md) | C#, D#, E##, F###, **G###**, A##, C# | C | ![CSharpLothimic](ModeCSharpLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpLothimic.mid?raw=true) |
+| [Db](ModeDFlatLothimic.md) | Db, Eb, F#, G#, **A#**, B, Db | C | ![DFlatLothimic](ModeDFlatLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatLothimic.mid?raw=true) |
+| [D](ModeDNaturalLothimic.md) | D, E, F##, G##, **A##**, B#, D | C | ![DNaturalLothimic](ModeDNaturalLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalLothimic.mid?raw=true) |
+| [D#](ModeDSharpLothimic.md) | D#, E#, F###, G###, **A###**, B##, D# | C | ![DSharpLothimic](ModeDSharpLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpLothimic.mid?raw=true) |
+| [Eb](ModeEFlatLothimic.md) | Eb, F, G#, A#, **B#**, C#, Eb | C | ![EFlatLothimic](ModeEFlatLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatLothimic.mid?raw=true) |
+| [E](ModeENaturalLothimic.md) | E, F#, G##, A##, **B##**, C##, E | C | ![ENaturalLothimic](ModeENaturalLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalLothimic.mid?raw=true) |
+| [F](ModeFNaturalLothimic.md) | F, G, A#, B#, **C##**, D#, F | C | ![FNaturalLothimic](ModeFNaturalLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalLothimic.mid?raw=true) |
+| [F#](ModeFSharpLothimic.md) | F#, G#, A##, B##, **C###**, D##, F# | C | ![FSharpLothimic](ModeFSharpLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpLothimic.mid?raw=true) |
+| [Gb](ModeGFlatLothimic.md) | Gb, Ab, B, C#, **D#**, E, Gb | C | ![GFlatLothimic](ModeGFlatLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatLothimic.mid?raw=true) |
+| [G](ModeGNaturalLothimic.md) | G, A, B#, C##, **D##**, E#, G | C | ![GNaturalLothimic](ModeGNaturalLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalLothimic.mid?raw=true) |
+| [G#](ModeGSharpLothimic.md) | G#, A#, B##, C###, **D###**, E##, G# | C | ![GSharpLothimic](ModeGSharpLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpLothimic.mid?raw=true) |
+| [Ab](ModeAFlatLothimic.md) | Ab, Bb, C#, D#, **E#**, F#, Ab | C | ![AFlatLothimic](ModeAFlatLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatLothimic.mid?raw=true) |
+| [A](ModeANaturalLothimic.md) | A, B, C##, D##, **E##**, F##, A | C | ![ANaturalLothimic](ModeANaturalLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalLothimic.mid?raw=true) |
+| [A#](ModeASharpLothimic.md) | A#, B#, C###, D###, **E###**, F###, A# | C | ![ASharpLothimic](ModeASharpLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpLothimic.mid?raw=true) |
+| [Bb](ModeBFlatLothimic.md) | Bb, C, D#, E#, **F##**, G#, Bb | C | ![BFlatLothimic](ModeBFlatLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatLothimic.mid?raw=true) |
+| [B](ModeBNaturalLothimic.md) | B, C#, D##, E##, **F###**, G##, B | C | ![BNaturalLothimic](ModeBNaturalLothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalLothimic.mid?raw=true) |

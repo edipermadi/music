@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalPhrothian.md) | **C**, D, E, F, **G#**, A, **B**, **C** | C | ![CNaturalPhrothian](ModeCNaturalPhrothian.png) | [midi](ModeCNaturalPhrothian.mid) [ogg](ModeCNaturalPhrothian.ogg) |
-| [C#](ModeCSharpPhrothian.md) | **C#**, D#, E#, F#, **G##**, A#, **B#**, **C#** | C | ![CSharpPhrothian](ModeCSharpPhrothian.png) | [midi](ModeCSharpPhrothian.mid) [ogg](ModeCSharpPhrothian.ogg) |
-| [Db](ModeDFlatPhrothian.md) | **Db**, Eb, F, Gb, **A**, Bb, **C**, **Db** | C | ![DFlatPhrothian](ModeDFlatPhrothian.png) | [midi](ModeDFlatPhrothian.mid) [ogg](ModeDFlatPhrothian.ogg) |
-| [D](ModeDNaturalPhrothian.md) | **D**, E, F#, G, **A#**, B, **C#**, **D** | C | ![DNaturalPhrothian](ModeDNaturalPhrothian.png) | [midi](ModeDNaturalPhrothian.mid) [ogg](ModeDNaturalPhrothian.ogg) |
-| [D#](ModeDSharpPhrothian.md) | **D#**, E#, F##, G#, **A##**, B#, **C##**, **D#** | C | ![DSharpPhrothian](ModeDSharpPhrothian.png) | [midi](ModeDSharpPhrothian.mid) [ogg](ModeDSharpPhrothian.ogg) |
-| [Eb](ModeEFlatPhrothian.md) | **Eb**, F, G, Ab, **B**, C, **D**, **Eb** | C | ![EFlatPhrothian](ModeEFlatPhrothian.png) | [midi](ModeEFlatPhrothian.mid) [ogg](ModeEFlatPhrothian.ogg) |
-| [E](ModeENaturalPhrothian.md) | **E**, F#, G#, A, **B#**, C#, **D#**, **E** | C | ![ENaturalPhrothian](ModeENaturalPhrothian.png) | [midi](ModeENaturalPhrothian.mid) [ogg](ModeENaturalPhrothian.ogg) |
-| [F](ModeFNaturalPhrothian.md) | **F**, G, A, Bb, **C#**, D, **E**, **F** | C | ![FNaturalPhrothian](ModeFNaturalPhrothian.png) | [midi](ModeFNaturalPhrothian.mid) [ogg](ModeFNaturalPhrothian.ogg) |
-| [F#](ModeFSharpPhrothian.md) | **F#**, G#, A#, B, **C##**, D#, **E#**, **F#** | C | ![FSharpPhrothian](ModeFSharpPhrothian.png) | [midi](ModeFSharpPhrothian.mid) [ogg](ModeFSharpPhrothian.ogg) |
-| [Gb](ModeGFlatPhrothian.md) | **Gb**, Ab, Bb, Cb, **D**, Eb, **F**, **Gb** | C | ![GFlatPhrothian](ModeGFlatPhrothian.png) | [midi](ModeGFlatPhrothian.mid) [ogg](ModeGFlatPhrothian.ogg) |
-| [G](ModeGNaturalPhrothian.md) | **G**, A, B, C, **D#**, E, **F#**, **G** | C | ![GNaturalPhrothian](ModeGNaturalPhrothian.png) | [midi](ModeGNaturalPhrothian.mid) [ogg](ModeGNaturalPhrothian.ogg) |
-| [G#](ModeGSharpPhrothian.md) | **G#**, A#, B#, C#, **D##**, E#, **F##**, **G#** | C | ![GSharpPhrothian](ModeGSharpPhrothian.png) | [midi](ModeGSharpPhrothian.mid) [ogg](ModeGSharpPhrothian.ogg) |
-| [Ab](ModeAFlatPhrothian.md) | **Ab**, Bb, C, Db, **E**, F, **G**, **Ab** | C | ![AFlatPhrothian](ModeAFlatPhrothian.png) | [midi](ModeAFlatPhrothian.mid) [ogg](ModeAFlatPhrothian.ogg) |
-| [A](ModeANaturalPhrothian.md) | **A**, B, C#, D, **E#**, F#, **G#**, **A** | C | ![ANaturalPhrothian](ModeANaturalPhrothian.png) | [midi](ModeANaturalPhrothian.mid) [ogg](ModeANaturalPhrothian.ogg) |
-| [A#](ModeASharpPhrothian.md) | **A#**, B#, C##, D#, **E##**, F##, **G##**, **A#** | C | ![ASharpPhrothian](ModeASharpPhrothian.png) | [midi](ModeASharpPhrothian.mid) [ogg](ModeASharpPhrothian.ogg) |
-| [Bb](ModeBFlatPhrothian.md) | **Bb**, C, D, Eb, **F#**, G, **A**, **Bb** | C | ![BFlatPhrothian](ModeBFlatPhrothian.png) | [midi](ModeBFlatPhrothian.mid) [ogg](ModeBFlatPhrothian.ogg) |
-| [B](ModeBNaturalPhrothian.md) | **B**, C#, D#, E, **F##**, G#, **A#**, **B** | C | ![BNaturalPhrothian](ModeBNaturalPhrothian.png) | [midi](ModeBNaturalPhrothian.mid) [ogg](ModeBNaturalPhrothian.ogg) |
+| [C](ModeCNaturalPhrothian.md) | **C**, D, E, F, **G#**, A, **B**, **C** | C | ![CNaturalPhrothian](ModeCNaturalPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPhrothian.mid?raw=true) |
+| [C#](ModeCSharpPhrothian.md) | **C#**, D#, E#, F#, **G##**, A#, **B#**, **C#** | C | ![CSharpPhrothian](ModeCSharpPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpPhrothian.mid?raw=true) |
+| [Db](ModeDFlatPhrothian.md) | **Db**, Eb, F, Gb, **A**, Bb, **C**, **Db** | C | ![DFlatPhrothian](ModeDFlatPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatPhrothian.mid?raw=true) |
+| [D](ModeDNaturalPhrothian.md) | **D**, E, F#, G, **A#**, B, **C#**, **D** | C | ![DNaturalPhrothian](ModeDNaturalPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalPhrothian.mid?raw=true) |
+| [D#](ModeDSharpPhrothian.md) | **D#**, E#, F##, G#, **A##**, B#, **C##**, **D#** | C | ![DSharpPhrothian](ModeDSharpPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpPhrothian.mid?raw=true) |
+| [Eb](ModeEFlatPhrothian.md) | **Eb**, F, G, Ab, **B**, C, **D**, **Eb** | C | ![EFlatPhrothian](ModeEFlatPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatPhrothian.mid?raw=true) |
+| [E](ModeENaturalPhrothian.md) | **E**, F#, G#, A, **B#**, C#, **D#**, **E** | C | ![ENaturalPhrothian](ModeENaturalPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalPhrothian.mid?raw=true) |
+| [F](ModeFNaturalPhrothian.md) | **F**, G, A, Bb, **C#**, D, **E**, **F** | C | ![FNaturalPhrothian](ModeFNaturalPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalPhrothian.mid?raw=true) |
+| [F#](ModeFSharpPhrothian.md) | **F#**, G#, A#, B, **C##**, D#, **E#**, **F#** | C | ![FSharpPhrothian](ModeFSharpPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpPhrothian.mid?raw=true) |
+| [Gb](ModeGFlatPhrothian.md) | **Gb**, Ab, Bb, Cb, **D**, Eb, **F**, **Gb** | C | ![GFlatPhrothian](ModeGFlatPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatPhrothian.mid?raw=true) |
+| [G](ModeGNaturalPhrothian.md) | **G**, A, B, C, **D#**, E, **F#**, **G** | C | ![GNaturalPhrothian](ModeGNaturalPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalPhrothian.mid?raw=true) |
+| [G#](ModeGSharpPhrothian.md) | **G#**, A#, B#, C#, **D##**, E#, **F##**, **G#** | C | ![GSharpPhrothian](ModeGSharpPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpPhrothian.mid?raw=true) |
+| [Ab](ModeAFlatPhrothian.md) | **Ab**, Bb, C, Db, **E**, F, **G**, **Ab** | C | ![AFlatPhrothian](ModeAFlatPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatPhrothian.mid?raw=true) |
+| [A](ModeANaturalPhrothian.md) | **A**, B, C#, D, **E#**, F#, **G#**, **A** | C | ![ANaturalPhrothian](ModeANaturalPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalPhrothian.mid?raw=true) |
+| [A#](ModeASharpPhrothian.md) | **A#**, B#, C##, D#, **E##**, F##, **G##**, **A#** | C | ![ASharpPhrothian](ModeASharpPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpPhrothian.mid?raw=true) |
+| [Bb](ModeBFlatPhrothian.md) | **Bb**, C, D, Eb, **F#**, G, **A**, **Bb** | C | ![BFlatPhrothian](ModeBFlatPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatPhrothian.mid?raw=true) |
+| [B](ModeBNaturalPhrothian.md) | **B**, C#, D#, E, **F##**, G#, **A#**, **B** | C | ![BNaturalPhrothian](ModeBNaturalPhrothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalPhrothian.mid?raw=true) |

@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalRyryllic.md) | **C**, C#, E, F, **G#**, A, A#, **B**, **C** | C | ![CNaturalRyryllic](ModeCNaturalRyryllic.png) | [midi](ModeCNaturalRyryllic.mid) [ogg](ModeCNaturalRyryllic.ogg) |
-| [C#](ModeCSharpRyryllic.md) | **C#**, D, F, F#, **A**, A#, B, **C**, **C#** | C | ![CSharpRyryllic](ModeCSharpRyryllic.png) | [midi](ModeCSharpRyryllic.mid) [ogg](ModeCSharpRyryllic.ogg) |
-| [Db](ModeDFlatRyryllic.md) | **Db**, D, F, Gb, **A**, Bb, B, **C**, **Db** | C | ![DFlatRyryllic](ModeDFlatRyryllic.png) | [midi](ModeDFlatRyryllic.mid) [ogg](ModeDFlatRyryllic.ogg) |
-| [D](ModeDNaturalRyryllic.md) | **D**, D#, F#, G, **A#**, B, C, **C#**, **D** | C | ![DNaturalRyryllic](ModeDNaturalRyryllic.png) | [midi](ModeDNaturalRyryllic.mid) [ogg](ModeDNaturalRyryllic.ogg) |
-| [D#](ModeDSharpRyryllic.md) | **D#**, E, G, G#, **B**, C, C#, **D**, **D#** | C | ![DSharpRyryllic](ModeDSharpRyryllic.png) | [midi](ModeDSharpRyryllic.mid) [ogg](ModeDSharpRyryllic.ogg) |
-| [Eb](ModeEFlatRyryllic.md) | **Eb**, E, G, Ab, **B**, C, Db, **D**, **Eb** | C | ![EFlatRyryllic](ModeEFlatRyryllic.png) | [midi](ModeEFlatRyryllic.mid) [ogg](ModeEFlatRyryllic.ogg) |
-| [E](ModeENaturalRyryllic.md) | **E**, F, G#, A, **C**, C#, D, **D#**, **E** | C | ![ENaturalRyryllic](ModeENaturalRyryllic.png) | [midi](ModeENaturalRyryllic.mid) [ogg](ModeENaturalRyryllic.ogg) |
-| [F](ModeFNaturalRyryllic.md) | **F**, F#, A, A#, **C#**, D, D#, **E**, **F** | C | ![FNaturalRyryllic](ModeFNaturalRyryllic.png) | [midi](ModeFNaturalRyryllic.mid) [ogg](ModeFNaturalRyryllic.ogg) |
-| [F#](ModeFSharpRyryllic.md) | **F#**, G, A#, B, **D**, D#, E, **F**, **F#** | C | ![FSharpRyryllic](ModeFSharpRyryllic.png) | [midi](ModeFSharpRyryllic.mid) [ogg](ModeFSharpRyryllic.ogg) |
-| [Gb](ModeGFlatRyryllic.md) | **Gb**, G, Bb, B, **D**, Eb, E, **F**, **Gb** | C | ![GFlatRyryllic](ModeGFlatRyryllic.png) | [midi](ModeGFlatRyryllic.mid) [ogg](ModeGFlatRyryllic.ogg) |
-| [G](ModeGNaturalRyryllic.md) | **G**, G#, B, C, **D#**, E, F, **F#**, **G** | C | ![GNaturalRyryllic](ModeGNaturalRyryllic.png) | [midi](ModeGNaturalRyryllic.mid) [ogg](ModeGNaturalRyryllic.ogg) |
-| [G#](ModeGSharpRyryllic.md) | **G#**, A, C, C#, **E**, F, F#, **G**, **G#** | C | ![GSharpRyryllic](ModeGSharpRyryllic.png) | [midi](ModeGSharpRyryllic.mid) [ogg](ModeGSharpRyryllic.ogg) |
-| [Ab](ModeAFlatRyryllic.md) | **Ab**, A, C, Db, **E**, F, Gb, **G**, **Ab** | C | ![AFlatRyryllic](ModeAFlatRyryllic.png) | [midi](ModeAFlatRyryllic.mid) [ogg](ModeAFlatRyryllic.ogg) |
-| [A](ModeANaturalRyryllic.md) | **A**, A#, C#, D, **F**, F#, G, **G#**, **A** | C | ![ANaturalRyryllic](ModeANaturalRyryllic.png) | [midi](ModeANaturalRyryllic.mid) [ogg](ModeANaturalRyryllic.ogg) |
-| [A#](ModeASharpRyryllic.md) | **A#**, B, D, D#, **F#**, G, G#, **A**, **A#** | C | ![ASharpRyryllic](ModeASharpRyryllic.png) | [midi](ModeASharpRyryllic.mid) [ogg](ModeASharpRyryllic.ogg) |
-| [Bb](ModeBFlatRyryllic.md) | **Bb**, B, D, Eb, **Gb**, G, Ab, **A**, **Bb** | C | ![BFlatRyryllic](ModeBFlatRyryllic.png) | [midi](ModeBFlatRyryllic.mid) [ogg](ModeBFlatRyryllic.ogg) |
-| [B](ModeBNaturalRyryllic.md) | **B**, C, D#, E, **G**, G#, A, **A#**, **B** | C | ![BNaturalRyryllic](ModeBNaturalRyryllic.png) | [midi](ModeBNaturalRyryllic.mid) [ogg](ModeBNaturalRyryllic.ogg) |
+| [C](ModeCNaturalRyryllic.md) | **C**, C#, E, F, **G#**, A, A#, **B**, **C** | C | ![CNaturalRyryllic](ModeCNaturalRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalRyryllic.mid?raw=true) |
+| [C#](ModeCSharpRyryllic.md) | **C#**, D, F, F#, **A**, A#, B, **C**, **C#** | C | ![CSharpRyryllic](ModeCSharpRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpRyryllic.mid?raw=true) |
+| [Db](ModeDFlatRyryllic.md) | **Db**, D, F, Gb, **A**, Bb, B, **C**, **Db** | C | ![DFlatRyryllic](ModeDFlatRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatRyryllic.mid?raw=true) |
+| [D](ModeDNaturalRyryllic.md) | **D**, D#, F#, G, **A#**, B, C, **C#**, **D** | C | ![DNaturalRyryllic](ModeDNaturalRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalRyryllic.mid?raw=true) |
+| [D#](ModeDSharpRyryllic.md) | **D#**, E, G, G#, **B**, C, C#, **D**, **D#** | C | ![DSharpRyryllic](ModeDSharpRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpRyryllic.mid?raw=true) |
+| [Eb](ModeEFlatRyryllic.md) | **Eb**, E, G, Ab, **B**, C, Db, **D**, **Eb** | C | ![EFlatRyryllic](ModeEFlatRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatRyryllic.mid?raw=true) |
+| [E](ModeENaturalRyryllic.md) | **E**, F, G#, A, **C**, C#, D, **D#**, **E** | C | ![ENaturalRyryllic](ModeENaturalRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalRyryllic.mid?raw=true) |
+| [F](ModeFNaturalRyryllic.md) | **F**, F#, A, A#, **C#**, D, D#, **E**, **F** | C | ![FNaturalRyryllic](ModeFNaturalRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalRyryllic.mid?raw=true) |
+| [F#](ModeFSharpRyryllic.md) | **F#**, G, A#, B, **D**, D#, E, **F**, **F#** | C | ![FSharpRyryllic](ModeFSharpRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpRyryllic.mid?raw=true) |
+| [Gb](ModeGFlatRyryllic.md) | **Gb**, G, Bb, B, **D**, Eb, E, **F**, **Gb** | C | ![GFlatRyryllic](ModeGFlatRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatRyryllic.mid?raw=true) |
+| [G](ModeGNaturalRyryllic.md) | **G**, G#, B, C, **D#**, E, F, **F#**, **G** | C | ![GNaturalRyryllic](ModeGNaturalRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalRyryllic.mid?raw=true) |
+| [G#](ModeGSharpRyryllic.md) | **G#**, A, C, C#, **E**, F, F#, **G**, **G#** | C | ![GSharpRyryllic](ModeGSharpRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpRyryllic.mid?raw=true) |
+| [Ab](ModeAFlatRyryllic.md) | **Ab**, A, C, Db, **E**, F, Gb, **G**, **Ab** | C | ![AFlatRyryllic](ModeAFlatRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatRyryllic.mid?raw=true) |
+| [A](ModeANaturalRyryllic.md) | **A**, A#, C#, D, **F**, F#, G, **G#**, **A** | C | ![ANaturalRyryllic](ModeANaturalRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalRyryllic.mid?raw=true) |
+| [A#](ModeASharpRyryllic.md) | **A#**, B, D, D#, **F#**, G, G#, **A**, **A#** | C | ![ASharpRyryllic](ModeASharpRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpRyryllic.mid?raw=true) |
+| [Bb](ModeBFlatRyryllic.md) | **Bb**, B, D, Eb, **Gb**, G, Ab, **A**, **Bb** | C | ![BFlatRyryllic](ModeBFlatRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatRyryllic.mid?raw=true) |
+| [B](ModeBNaturalRyryllic.md) | **B**, C, D#, E, **G**, G#, A, **A#**, **B** | C | ![BNaturalRyryllic](ModeBNaturalRyryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalRyryllic.mid?raw=true) |

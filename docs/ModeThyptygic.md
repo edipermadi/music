@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalThyptygic.md) | C, C#, D, D#, G, G#, **A**, **A#**, **B**, C | C | ![CNaturalThyptygic](ModeCNaturalThyptygic.png) | [midi](ModeCNaturalThyptygic.mid) [ogg](ModeCNaturalThyptygic.ogg) |
-| [C#](ModeCSharpThyptygic.md) | C#, D, D#, E, G#, A, **A#**, **B**, **C**, C# | C | ![CSharpThyptygic](ModeCSharpThyptygic.png) | [midi](ModeCSharpThyptygic.mid) [ogg](ModeCSharpThyptygic.ogg) |
-| [Db](ModeDFlatThyptygic.md) | Db, D, Eb, E, Ab, A, **Bb**, **B**, **C**, Db | C | ![DFlatThyptygic](ModeDFlatThyptygic.png) | [midi](ModeDFlatThyptygic.mid) [ogg](ModeDFlatThyptygic.ogg) |
-| [D](ModeDNaturalThyptygic.md) | D, D#, E, F, A, A#, **B**, **C**, **C#**, D | C | ![DNaturalThyptygic](ModeDNaturalThyptygic.png) | [midi](ModeDNaturalThyptygic.mid) [ogg](ModeDNaturalThyptygic.ogg) |
-| [D#](ModeDSharpThyptygic.md) | D#, E, F, F#, A#, B, **C**, **C#**, **D**, D# | C | ![DSharpThyptygic](ModeDSharpThyptygic.png) | [midi](ModeDSharpThyptygic.mid) [ogg](ModeDSharpThyptygic.ogg) |
-| [Eb](ModeEFlatThyptygic.md) | Eb, E, F, Gb, Bb, B, **C**, **Db**, **D**, Eb | C | ![EFlatThyptygic](ModeEFlatThyptygic.png) | [midi](ModeEFlatThyptygic.mid) [ogg](ModeEFlatThyptygic.ogg) |
-| [E](ModeENaturalThyptygic.md) | E, F, F#, G, B, C, **C#**, **D**, **D#**, E | C | ![ENaturalThyptygic](ModeENaturalThyptygic.png) | [midi](ModeENaturalThyptygic.mid) [ogg](ModeENaturalThyptygic.ogg) |
-| [F](ModeFNaturalThyptygic.md) | F, F#, G, G#, C, C#, **D**, **D#**, **E**, F | C | ![FNaturalThyptygic](ModeFNaturalThyptygic.png) | [midi](ModeFNaturalThyptygic.mid) [ogg](ModeFNaturalThyptygic.ogg) |
-| [F#](ModeFSharpThyptygic.md) | F#, G, G#, A, C#, D, **D#**, **E**, **F**, F# | C | ![FSharpThyptygic](ModeFSharpThyptygic.png) | [midi](ModeFSharpThyptygic.mid) [ogg](ModeFSharpThyptygic.ogg) |
-| [Gb](ModeGFlatThyptygic.md) | Gb, G, Ab, A, Db, D, **Eb**, **E**, **F**, Gb | C | ![GFlatThyptygic](ModeGFlatThyptygic.png) | [midi](ModeGFlatThyptygic.mid) [ogg](ModeGFlatThyptygic.ogg) |
-| [G](ModeGNaturalThyptygic.md) | G, G#, A, A#, D, D#, **E**, **F**, **F#**, G | C | ![GNaturalThyptygic](ModeGNaturalThyptygic.png) | [midi](ModeGNaturalThyptygic.mid) [ogg](ModeGNaturalThyptygic.ogg) |
-| [G#](ModeGSharpThyptygic.md) | G#, A, A#, B, D#, E, **F**, **F#**, **G**, G# | C | ![GSharpThyptygic](ModeGSharpThyptygic.png) | [midi](ModeGSharpThyptygic.mid) [ogg](ModeGSharpThyptygic.ogg) |
-| [Ab](ModeAFlatThyptygic.md) | Ab, A, Bb, B, Eb, E, **F**, **Gb**, **G**, Ab | C | ![AFlatThyptygic](ModeAFlatThyptygic.png) | [midi](ModeAFlatThyptygic.mid) [ogg](ModeAFlatThyptygic.ogg) |
-| [A](ModeANaturalThyptygic.md) | A, A#, B, C, E, F, **F#**, **G**, **G#**, A | C | ![ANaturalThyptygic](ModeANaturalThyptygic.png) | [midi](ModeANaturalThyptygic.mid) [ogg](ModeANaturalThyptygic.ogg) |
-| [A#](ModeASharpThyptygic.md) | A#, B, C, C#, F, F#, **G**, **G#**, **A**, A# | C | ![ASharpThyptygic](ModeASharpThyptygic.png) | [midi](ModeASharpThyptygic.mid) [ogg](ModeASharpThyptygic.ogg) |
-| [Bb](ModeBFlatThyptygic.md) | Bb, B, C, Db, F, Gb, **G**, **Ab**, **A**, Bb | C | ![BFlatThyptygic](ModeBFlatThyptygic.png) | [midi](ModeBFlatThyptygic.mid) [ogg](ModeBFlatThyptygic.ogg) |
-| [B](ModeBNaturalThyptygic.md) | B, C, C#, D, F#, G, **G#**, **A**, **A#**, B | C | ![BNaturalThyptygic](ModeBNaturalThyptygic.png) | [midi](ModeBNaturalThyptygic.mid) [ogg](ModeBNaturalThyptygic.ogg) |
+| [C](ModeCNaturalThyptygic.md) | C, C#, D, D#, G, G#, **A**, **A#**, **B**, C | C | ![CNaturalThyptygic](ModeCNaturalThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThyptygic.mid?raw=true) |
+| [C#](ModeCSharpThyptygic.md) | C#, D, D#, E, G#, A, **A#**, **B**, **C**, C# | C | ![CSharpThyptygic](ModeCSharpThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpThyptygic.mid?raw=true) |
+| [Db](ModeDFlatThyptygic.md) | Db, D, Eb, E, Ab, A, **Bb**, **B**, **C**, Db | C | ![DFlatThyptygic](ModeDFlatThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatThyptygic.mid?raw=true) |
+| [D](ModeDNaturalThyptygic.md) | D, D#, E, F, A, A#, **B**, **C**, **C#**, D | C | ![DNaturalThyptygic](ModeDNaturalThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalThyptygic.mid?raw=true) |
+| [D#](ModeDSharpThyptygic.md) | D#, E, F, F#, A#, B, **C**, **C#**, **D**, D# | C | ![DSharpThyptygic](ModeDSharpThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpThyptygic.mid?raw=true) |
+| [Eb](ModeEFlatThyptygic.md) | Eb, E, F, Gb, Bb, B, **C**, **Db**, **D**, Eb | C | ![EFlatThyptygic](ModeEFlatThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatThyptygic.mid?raw=true) |
+| [E](ModeENaturalThyptygic.md) | E, F, F#, G, B, C, **C#**, **D**, **D#**, E | C | ![ENaturalThyptygic](ModeENaturalThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalThyptygic.mid?raw=true) |
+| [F](ModeFNaturalThyptygic.md) | F, F#, G, G#, C, C#, **D**, **D#**, **E**, F | C | ![FNaturalThyptygic](ModeFNaturalThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalThyptygic.mid?raw=true) |
+| [F#](ModeFSharpThyptygic.md) | F#, G, G#, A, C#, D, **D#**, **E**, **F**, F# | C | ![FSharpThyptygic](ModeFSharpThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpThyptygic.mid?raw=true) |
+| [Gb](ModeGFlatThyptygic.md) | Gb, G, Ab, A, Db, D, **Eb**, **E**, **F**, Gb | C | ![GFlatThyptygic](ModeGFlatThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatThyptygic.mid?raw=true) |
+| [G](ModeGNaturalThyptygic.md) | G, G#, A, A#, D, D#, **E**, **F**, **F#**, G | C | ![GNaturalThyptygic](ModeGNaturalThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalThyptygic.mid?raw=true) |
+| [G#](ModeGSharpThyptygic.md) | G#, A, A#, B, D#, E, **F**, **F#**, **G**, G# | C | ![GSharpThyptygic](ModeGSharpThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpThyptygic.mid?raw=true) |
+| [Ab](ModeAFlatThyptygic.md) | Ab, A, Bb, B, Eb, E, **F**, **Gb**, **G**, Ab | C | ![AFlatThyptygic](ModeAFlatThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatThyptygic.mid?raw=true) |
+| [A](ModeANaturalThyptygic.md) | A, A#, B, C, E, F, **F#**, **G**, **G#**, A | C | ![ANaturalThyptygic](ModeANaturalThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalThyptygic.mid?raw=true) |
+| [A#](ModeASharpThyptygic.md) | A#, B, C, C#, F, F#, **G**, **G#**, **A**, A# | C | ![ASharpThyptygic](ModeASharpThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpThyptygic.mid?raw=true) |
+| [Bb](ModeBFlatThyptygic.md) | Bb, B, C, Db, F, Gb, **G**, **Ab**, **A**, Bb | C | ![BFlatThyptygic](ModeBFlatThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatThyptygic.mid?raw=true) |
+| [B](ModeBNaturalThyptygic.md) | B, C, C#, D, F#, G, **G#**, **A**, **A#**, B | C | ![BNaturalThyptygic](ModeBNaturalThyptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalThyptygic.mid?raw=true) |

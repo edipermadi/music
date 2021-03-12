@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalBorian.md) | **C**, **D#**, **E**, F, **Gb**, Ab, Bbb, **C** | C | ![CNaturalBorian](ModeCNaturalBorian.png) | [midi](ModeCNaturalBorian.mid) [ogg](ModeCNaturalBorian.ogg) |
-| [C#](ModeCSharpBorian.md) | **C#**, **D##**, **E#**, F#, **G**, A, Bb, **C#** | C | ![CSharpBorian](ModeCSharpBorian.png) | [midi](ModeCSharpBorian.mid) [ogg](ModeCSharpBorian.ogg) |
-| [Db](ModeDFlatBorian.md) | **Db**, **E**, **F**, Gb, **Abb**, Bbb, Cbb, **Db** | C | ![DFlatBorian](ModeDFlatBorian.png) | [midi](ModeDFlatBorian.mid) [ogg](ModeDFlatBorian.ogg) |
-| [D](ModeDNaturalBorian.md) | **D**, **E#**, **F#**, G, **Ab**, Bb, Cb, **D** | C | ![DNaturalBorian](ModeDNaturalBorian.png) | [midi](ModeDNaturalBorian.mid) [ogg](ModeDNaturalBorian.ogg) |
-| [D#](ModeDSharpBorian.md) | **D#**, **E##**, **F##**, G#, **A**, B, C, **D#** | C | ![DSharpBorian](ModeDSharpBorian.png) | [midi](ModeDSharpBorian.mid) [ogg](ModeDSharpBorian.ogg) |
-| [Eb](ModeEFlatBorian.md) | **Eb**, **F#**, **G**, Ab, **Bbb**, Cb, Dbb, **Eb** | C | ![EFlatBorian](ModeEFlatBorian.png) | [midi](ModeEFlatBorian.mid) [ogg](ModeEFlatBorian.ogg) |
-| [E](ModeENaturalBorian.md) | **E**, **F##**, **G#**, A, **Bb**, C, Db, **E** | C | ![ENaturalBorian](ModeENaturalBorian.png) | [midi](ModeENaturalBorian.mid) [ogg](ModeENaturalBorian.ogg) |
-| [F](ModeFNaturalBorian.md) | **F**, **G#**, **A**, Bb, **Cb**, Db, Ebb, **F** | C | ![FNaturalBorian](ModeFNaturalBorian.png) | [midi](ModeFNaturalBorian.mid) [ogg](ModeFNaturalBorian.ogg) |
-| [F#](ModeFSharpBorian.md) | **F#**, **G##**, **A#**, B, **C**, D, Eb, **F#** | C | ![FSharpBorian](ModeFSharpBorian.png) | [midi](ModeFSharpBorian.mid) [ogg](ModeFSharpBorian.ogg) |
-| [Gb](ModeGFlatBorian.md) | **Gb**, **A**, **Bb**, Cb, **Dbb**, Ebb, Fbb, **Gb** | C | ![GFlatBorian](ModeGFlatBorian.png) | [midi](ModeGFlatBorian.mid) [ogg](ModeGFlatBorian.ogg) |
-| [G](ModeGNaturalBorian.md) | **G**, **A#**, **B**, C, **Db**, Eb, Fb, **G** | C | ![GNaturalBorian](ModeGNaturalBorian.png) | [midi](ModeGNaturalBorian.mid) [ogg](ModeGNaturalBorian.ogg) |
-| [G#](ModeGSharpBorian.md) | **G#**, **A##**, **B#**, C#, **D**, E, F, **G#** | C | ![GSharpBorian](ModeGSharpBorian.png) | [midi](ModeGSharpBorian.mid) [ogg](ModeGSharpBorian.ogg) |
-| [Ab](ModeAFlatBorian.md) | **Ab**, **B**, **C**, Db, **Ebb**, Fb, Gbb, **Ab** | C | ![AFlatBorian](ModeAFlatBorian.png) | [midi](ModeAFlatBorian.mid) [ogg](ModeAFlatBorian.ogg) |
-| [A](ModeANaturalBorian.md) | **A**, **B#**, **C#**, D, **Eb**, F, Gb, **A** | C | ![ANaturalBorian](ModeANaturalBorian.png) | [midi](ModeANaturalBorian.mid) [ogg](ModeANaturalBorian.ogg) |
-| [A#](ModeASharpBorian.md) | **A#**, **B##**, **C##**, D#, **E**, F#, G, **A#** | C | ![ASharpBorian](ModeASharpBorian.png) | [midi](ModeASharpBorian.mid) [ogg](ModeASharpBorian.ogg) |
-| [Bb](ModeBFlatBorian.md) | **Bb**, **C#**, **D**, Eb, **Fb**, Gb, Abb, **Bb** | C | ![BFlatBorian](ModeBFlatBorian.png) | [midi](ModeBFlatBorian.mid) [ogg](ModeBFlatBorian.ogg) |
-| [B](ModeBNaturalBorian.md) | **B**, **C##**, **D#**, E, **F**, G, Ab, **B** | C | ![BNaturalBorian](ModeBNaturalBorian.png) | [midi](ModeBNaturalBorian.mid) [ogg](ModeBNaturalBorian.ogg) |
+| [C](ModeCNaturalBorian.md) | **C**, **D#**, **E**, F, **Gb**, Ab, Bbb, **C** | C | ![CNaturalBorian](ModeCNaturalBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalBorian.mid?raw=true) |
+| [C#](ModeCSharpBorian.md) | **C#**, **D##**, **E#**, F#, **G**, A, Bb, **C#** | C | ![CSharpBorian](ModeCSharpBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpBorian.mid?raw=true) |
+| [Db](ModeDFlatBorian.md) | **Db**, **E**, **F**, Gb, **Abb**, Bbb, Cbb, **Db** | C | ![DFlatBorian](ModeDFlatBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatBorian.mid?raw=true) |
+| [D](ModeDNaturalBorian.md) | **D**, **E#**, **F#**, G, **Ab**, Bb, Cb, **D** | C | ![DNaturalBorian](ModeDNaturalBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalBorian.mid?raw=true) |
+| [D#](ModeDSharpBorian.md) | **D#**, **E##**, **F##**, G#, **A**, B, C, **D#** | C | ![DSharpBorian](ModeDSharpBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpBorian.mid?raw=true) |
+| [Eb](ModeEFlatBorian.md) | **Eb**, **F#**, **G**, Ab, **Bbb**, Cb, Dbb, **Eb** | C | ![EFlatBorian](ModeEFlatBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatBorian.mid?raw=true) |
+| [E](ModeENaturalBorian.md) | **E**, **F##**, **G#**, A, **Bb**, C, Db, **E** | C | ![ENaturalBorian](ModeENaturalBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalBorian.mid?raw=true) |
+| [F](ModeFNaturalBorian.md) | **F**, **G#**, **A**, Bb, **Cb**, Db, Ebb, **F** | C | ![FNaturalBorian](ModeFNaturalBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalBorian.mid?raw=true) |
+| [F#](ModeFSharpBorian.md) | **F#**, **G##**, **A#**, B, **C**, D, Eb, **F#** | C | ![FSharpBorian](ModeFSharpBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpBorian.mid?raw=true) |
+| [Gb](ModeGFlatBorian.md) | **Gb**, **A**, **Bb**, Cb, **Dbb**, Ebb, Fbb, **Gb** | C | ![GFlatBorian](ModeGFlatBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatBorian.mid?raw=true) |
+| [G](ModeGNaturalBorian.md) | **G**, **A#**, **B**, C, **Db**, Eb, Fb, **G** | C | ![GNaturalBorian](ModeGNaturalBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalBorian.mid?raw=true) |
+| [G#](ModeGSharpBorian.md) | **G#**, **A##**, **B#**, C#, **D**, E, F, **G#** | C | ![GSharpBorian](ModeGSharpBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpBorian.mid?raw=true) |
+| [Ab](ModeAFlatBorian.md) | **Ab**, **B**, **C**, Db, **Ebb**, Fb, Gbb, **Ab** | C | ![AFlatBorian](ModeAFlatBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatBorian.mid?raw=true) |
+| [A](ModeANaturalBorian.md) | **A**, **B#**, **C#**, D, **Eb**, F, Gb, **A** | C | ![ANaturalBorian](ModeANaturalBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalBorian.mid?raw=true) |
+| [A#](ModeASharpBorian.md) | **A#**, **B##**, **C##**, D#, **E**, F#, G, **A#** | C | ![ASharpBorian](ModeASharpBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpBorian.mid?raw=true) |
+| [Bb](ModeBFlatBorian.md) | **Bb**, **C#**, **D**, Eb, **Fb**, Gb, Abb, **Bb** | C | ![BFlatBorian](ModeBFlatBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatBorian.mid?raw=true) |
+| [B](ModeBNaturalBorian.md) | **B**, **C##**, **D#**, E, **F**, G, Ab, **B** | C | ![BNaturalBorian](ModeBNaturalBorian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalBorian.mid?raw=true) |

@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalRyphitonic.md) | C, **E**, **G**, **G#**, **A#**, C | C | ![CNaturalRyphitonic](ModeCNaturalRyphitonic.png) | [midi](ModeCNaturalRyphitonic.mid) [ogg](ModeCNaturalRyphitonic.ogg) |
-| [C#](ModeCSharpRyphitonic.md) | C#, **F**, **G#**, **A**, **B**, C# | C | ![CSharpRyphitonic](ModeCSharpRyphitonic.png) | [midi](ModeCSharpRyphitonic.mid) [ogg](ModeCSharpRyphitonic.ogg) |
-| [Db](ModeDFlatRyphitonic.md) | Db, **F**, **Ab**, **A**, **B**, Db | C | ![DFlatRyphitonic](ModeDFlatRyphitonic.png) | [midi](ModeDFlatRyphitonic.mid) [ogg](ModeDFlatRyphitonic.ogg) |
-| [D](ModeDNaturalRyphitonic.md) | D, **F#**, **A**, **A#**, **C**, D | C | ![DNaturalRyphitonic](ModeDNaturalRyphitonic.png) | [midi](ModeDNaturalRyphitonic.mid) [ogg](ModeDNaturalRyphitonic.ogg) |
-| [D#](ModeDSharpRyphitonic.md) | D#, **G**, **A#**, **B**, **C#**, D# | C | ![DSharpRyphitonic](ModeDSharpRyphitonic.png) | [midi](ModeDSharpRyphitonic.mid) [ogg](ModeDSharpRyphitonic.ogg) |
-| [Eb](ModeEFlatRyphitonic.md) | Eb, **G**, **Bb**, **B**, **Db**, Eb | C | ![EFlatRyphitonic](ModeEFlatRyphitonic.png) | [midi](ModeEFlatRyphitonic.mid) [ogg](ModeEFlatRyphitonic.ogg) |
-| [E](ModeENaturalRyphitonic.md) | E, **G#**, **B**, **C**, **D**, E | C | ![ENaturalRyphitonic](ModeENaturalRyphitonic.png) | [midi](ModeENaturalRyphitonic.mid) [ogg](ModeENaturalRyphitonic.ogg) |
-| [F](ModeFNaturalRyphitonic.md) | F, **A**, **C**, **C#**, **D#**, F | C | ![FNaturalRyphitonic](ModeFNaturalRyphitonic.png) | [midi](ModeFNaturalRyphitonic.mid) [ogg](ModeFNaturalRyphitonic.ogg) |
-| [F#](ModeFSharpRyphitonic.md) | F#, **A#**, **C#**, **D**, **E**, F# | C | ![FSharpRyphitonic](ModeFSharpRyphitonic.png) | [midi](ModeFSharpRyphitonic.mid) [ogg](ModeFSharpRyphitonic.ogg) |
-| [Gb](ModeGFlatRyphitonic.md) | Gb, **Bb**, **Db**, **D**, **E**, Gb | C | ![GFlatRyphitonic](ModeGFlatRyphitonic.png) | [midi](ModeGFlatRyphitonic.mid) [ogg](ModeGFlatRyphitonic.ogg) |
-| [G](ModeGNaturalRyphitonic.md) | G, **B**, **D**, **D#**, **F**, G | C | ![GNaturalRyphitonic](ModeGNaturalRyphitonic.png) | [midi](ModeGNaturalRyphitonic.mid) [ogg](ModeGNaturalRyphitonic.ogg) |
-| [G#](ModeGSharpRyphitonic.md) | G#, **C**, **D#**, **E**, **F#**, G# | C | ![GSharpRyphitonic](ModeGSharpRyphitonic.png) | [midi](ModeGSharpRyphitonic.mid) [ogg](ModeGSharpRyphitonic.ogg) |
-| [Ab](ModeAFlatRyphitonic.md) | Ab, **C**, **Eb**, **E**, **Gb**, Ab | C | ![AFlatRyphitonic](ModeAFlatRyphitonic.png) | [midi](ModeAFlatRyphitonic.mid) [ogg](ModeAFlatRyphitonic.ogg) |
-| [A](ModeANaturalRyphitonic.md) | A, **C#**, **E**, **F**, **G**, A | C | ![ANaturalRyphitonic](ModeANaturalRyphitonic.png) | [midi](ModeANaturalRyphitonic.mid) [ogg](ModeANaturalRyphitonic.ogg) |
-| [A#](ModeASharpRyphitonic.md) | A#, **D**, **F**, **F#**, **G#**, A# | C | ![ASharpRyphitonic](ModeASharpRyphitonic.png) | [midi](ModeASharpRyphitonic.mid) [ogg](ModeASharpRyphitonic.ogg) |
-| [Bb](ModeBFlatRyphitonic.md) | Bb, **D**, **F**, **Gb**, **Ab**, Bb | C | ![BFlatRyphitonic](ModeBFlatRyphitonic.png) | [midi](ModeBFlatRyphitonic.mid) [ogg](ModeBFlatRyphitonic.ogg) |
-| [B](ModeBNaturalRyphitonic.md) | B, **D#**, **F#**, **G**, **A**, B | C | ![BNaturalRyphitonic](ModeBNaturalRyphitonic.png) | [midi](ModeBNaturalRyphitonic.mid) [ogg](ModeBNaturalRyphitonic.ogg) |
+| [C](ModeCNaturalRyphitonic.md) | C, **E**, **G**, **G#**, **A#**, C | C | ![CNaturalRyphitonic](ModeCNaturalRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalRyphitonic.mid?raw=true) |
+| [C#](ModeCSharpRyphitonic.md) | C#, **F**, **G#**, **A**, **B**, C# | C | ![CSharpRyphitonic](ModeCSharpRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpRyphitonic.mid?raw=true) |
+| [Db](ModeDFlatRyphitonic.md) | Db, **F**, **Ab**, **A**, **B**, Db | C | ![DFlatRyphitonic](ModeDFlatRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatRyphitonic.mid?raw=true) |
+| [D](ModeDNaturalRyphitonic.md) | D, **F#**, **A**, **A#**, **C**, D | C | ![DNaturalRyphitonic](ModeDNaturalRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalRyphitonic.mid?raw=true) |
+| [D#](ModeDSharpRyphitonic.md) | D#, **G**, **A#**, **B**, **C#**, D# | C | ![DSharpRyphitonic](ModeDSharpRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpRyphitonic.mid?raw=true) |
+| [Eb](ModeEFlatRyphitonic.md) | Eb, **G**, **Bb**, **B**, **Db**, Eb | C | ![EFlatRyphitonic](ModeEFlatRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatRyphitonic.mid?raw=true) |
+| [E](ModeENaturalRyphitonic.md) | E, **G#**, **B**, **C**, **D**, E | C | ![ENaturalRyphitonic](ModeENaturalRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalRyphitonic.mid?raw=true) |
+| [F](ModeFNaturalRyphitonic.md) | F, **A**, **C**, **C#**, **D#**, F | C | ![FNaturalRyphitonic](ModeFNaturalRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalRyphitonic.mid?raw=true) |
+| [F#](ModeFSharpRyphitonic.md) | F#, **A#**, **C#**, **D**, **E**, F# | C | ![FSharpRyphitonic](ModeFSharpRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpRyphitonic.mid?raw=true) |
+| [Gb](ModeGFlatRyphitonic.md) | Gb, **Bb**, **Db**, **D**, **E**, Gb | C | ![GFlatRyphitonic](ModeGFlatRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatRyphitonic.mid?raw=true) |
+| [G](ModeGNaturalRyphitonic.md) | G, **B**, **D**, **D#**, **F**, G | C | ![GNaturalRyphitonic](ModeGNaturalRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalRyphitonic.mid?raw=true) |
+| [G#](ModeGSharpRyphitonic.md) | G#, **C**, **D#**, **E**, **F#**, G# | C | ![GSharpRyphitonic](ModeGSharpRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpRyphitonic.mid?raw=true) |
+| [Ab](ModeAFlatRyphitonic.md) | Ab, **C**, **Eb**, **E**, **Gb**, Ab | C | ![AFlatRyphitonic](ModeAFlatRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatRyphitonic.mid?raw=true) |
+| [A](ModeANaturalRyphitonic.md) | A, **C#**, **E**, **F**, **G**, A | C | ![ANaturalRyphitonic](ModeANaturalRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalRyphitonic.mid?raw=true) |
+| [A#](ModeASharpRyphitonic.md) | A#, **D**, **F**, **F#**, **G#**, A# | C | ![ASharpRyphitonic](ModeASharpRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpRyphitonic.mid?raw=true) |
+| [Bb](ModeBFlatRyphitonic.md) | Bb, **D**, **F**, **Gb**, **Ab**, Bb | C | ![BFlatRyphitonic](ModeBFlatRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatRyphitonic.mid?raw=true) |
+| [B](ModeBNaturalRyphitonic.md) | B, **D#**, **F#**, **G**, **A**, B | C | ![BNaturalRyphitonic](ModeBNaturalRyphitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalRyphitonic.mid?raw=true) |

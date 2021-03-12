@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalPadian.md) | C, **Db**, **Eb**, Fb, Gb, **Abb**, B, C | C | ![CNaturalPadian](ModeCNaturalPadian.png) | [midi](ModeCNaturalPadian.mid) [ogg](ModeCNaturalPadian.ogg) |
-| [C#](ModeCSharpPadian.md) | C#, **D**, **E**, F, G, **Ab**, B#, C# | C | ![CSharpPadian](ModeCSharpPadian.png) | [midi](ModeCSharpPadian.mid) [ogg](ModeCSharpPadian.ogg) |
-| [Db](ModeDFlatPadian.md) | Db, **Ebb**, **Fb**, Gbb, Abb, **Bbbb**, C, Db | C | ![DFlatPadian](ModeDFlatPadian.png) | [midi](ModeDFlatPadian.mid) [ogg](ModeDFlatPadian.ogg) |
-| [D](ModeDNaturalPadian.md) | D, **Eb**, **F**, Gb, Ab, **Bbb**, C#, D | C | ![DNaturalPadian](ModeDNaturalPadian.png) | [midi](ModeDNaturalPadian.mid) [ogg](ModeDNaturalPadian.ogg) |
-| [D#](ModeDSharpPadian.md) | D#, **E**, **F#**, G, A, **Bb**, C##, D# | C | ![DSharpPadian](ModeDSharpPadian.png) | [midi](ModeDSharpPadian.mid) [ogg](ModeDSharpPadian.ogg) |
-| [Eb](ModeEFlatPadian.md) | Eb, **Fb**, **Gb**, Abb, Bbb, **Cbb**, D, Eb | C | ![EFlatPadian](ModeEFlatPadian.png) | [midi](ModeEFlatPadian.mid) [ogg](ModeEFlatPadian.ogg) |
-| [E](ModeENaturalPadian.md) | E, **F**, **G**, Ab, Bb, **Cb**, D#, E | C | ![ENaturalPadian](ModeENaturalPadian.png) | [midi](ModeENaturalPadian.mid) [ogg](ModeENaturalPadian.ogg) |
-| [F](ModeFNaturalPadian.md) | F, **Gb**, **Ab**, Bbb, Cb, **Dbb**, E, F | C | ![FNaturalPadian](ModeFNaturalPadian.png) | [midi](ModeFNaturalPadian.mid) [ogg](ModeFNaturalPadian.ogg) |
-| [F#](ModeFSharpPadian.md) | F#, **G**, **A**, Bb, C, **Db**, E#, F# | C | ![FSharpPadian](ModeFSharpPadian.png) | [midi](ModeFSharpPadian.mid) [ogg](ModeFSharpPadian.ogg) |
-| [Gb](ModeGFlatPadian.md) | Gb, **Abb**, **Bbb**, Cbb, Dbb, **Ebbb**, F, Gb | C | ![GFlatPadian](ModeGFlatPadian.png) | [midi](ModeGFlatPadian.mid) [ogg](ModeGFlatPadian.ogg) |
-| [G](ModeGNaturalPadian.md) | G, **Ab**, **Bb**, Cb, Db, **Ebb**, F#, G | C | ![GNaturalPadian](ModeGNaturalPadian.png) | [midi](ModeGNaturalPadian.mid) [ogg](ModeGNaturalPadian.ogg) |
-| [G#](ModeGSharpPadian.md) | G#, **A**, **B**, C, D, **Eb**, F##, G# | C | ![GSharpPadian](ModeGSharpPadian.png) | [midi](ModeGSharpPadian.mid) [ogg](ModeGSharpPadian.ogg) |
-| [Ab](ModeAFlatPadian.md) | Ab, **Bbb**, **Cb**, Dbb, Ebb, **Fbb**, G, Ab | C | ![AFlatPadian](ModeAFlatPadian.png) | [midi](ModeAFlatPadian.mid) [ogg](ModeAFlatPadian.ogg) |
-| [A](ModeANaturalPadian.md) | A, **Bb**, **C**, Db, Eb, **Fb**, G#, A | C | ![ANaturalPadian](ModeANaturalPadian.png) | [midi](ModeANaturalPadian.mid) [ogg](ModeANaturalPadian.ogg) |
-| [A#](ModeASharpPadian.md) | A#, **B**, **C#**, D, E, **F**, G##, A# | C | ![ASharpPadian](ModeASharpPadian.png) | [midi](ModeASharpPadian.mid) [ogg](ModeASharpPadian.ogg) |
-| [Bb](ModeBFlatPadian.md) | Bb, **Cb**, **Db**, Ebb, Fb, **Gbb**, A, Bb | C | ![BFlatPadian](ModeBFlatPadian.png) | [midi](ModeBFlatPadian.mid) [ogg](ModeBFlatPadian.ogg) |
-| [B](ModeBNaturalPadian.md) | B, **C**, **D**, Eb, F, **Gb**, A#, B | C | ![BNaturalPadian](ModeBNaturalPadian.png) | [midi](ModeBNaturalPadian.mid) [ogg](ModeBNaturalPadian.ogg) |
+| [C](ModeCNaturalPadian.md) | C, **Db**, **Eb**, Fb, Gb, **Abb**, B, C | C | ![CNaturalPadian](ModeCNaturalPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPadian.mid?raw=true) |
+| [C#](ModeCSharpPadian.md) | C#, **D**, **E**, F, G, **Ab**, B#, C# | C | ![CSharpPadian](ModeCSharpPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpPadian.mid?raw=true) |
+| [Db](ModeDFlatPadian.md) | Db, **Ebb**, **Fb**, Gbb, Abb, **Bbbb**, C, Db | C | ![DFlatPadian](ModeDFlatPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatPadian.mid?raw=true) |
+| [D](ModeDNaturalPadian.md) | D, **Eb**, **F**, Gb, Ab, **Bbb**, C#, D | C | ![DNaturalPadian](ModeDNaturalPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalPadian.mid?raw=true) |
+| [D#](ModeDSharpPadian.md) | D#, **E**, **F#**, G, A, **Bb**, C##, D# | C | ![DSharpPadian](ModeDSharpPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpPadian.mid?raw=true) |
+| [Eb](ModeEFlatPadian.md) | Eb, **Fb**, **Gb**, Abb, Bbb, **Cbb**, D, Eb | C | ![EFlatPadian](ModeEFlatPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatPadian.mid?raw=true) |
+| [E](ModeENaturalPadian.md) | E, **F**, **G**, Ab, Bb, **Cb**, D#, E | C | ![ENaturalPadian](ModeENaturalPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalPadian.mid?raw=true) |
+| [F](ModeFNaturalPadian.md) | F, **Gb**, **Ab**, Bbb, Cb, **Dbb**, E, F | C | ![FNaturalPadian](ModeFNaturalPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalPadian.mid?raw=true) |
+| [F#](ModeFSharpPadian.md) | F#, **G**, **A**, Bb, C, **Db**, E#, F# | C | ![FSharpPadian](ModeFSharpPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpPadian.mid?raw=true) |
+| [Gb](ModeGFlatPadian.md) | Gb, **Abb**, **Bbb**, Cbb, Dbb, **Ebbb**, F, Gb | C | ![GFlatPadian](ModeGFlatPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatPadian.mid?raw=true) |
+| [G](ModeGNaturalPadian.md) | G, **Ab**, **Bb**, Cb, Db, **Ebb**, F#, G | C | ![GNaturalPadian](ModeGNaturalPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalPadian.mid?raw=true) |
+| [G#](ModeGSharpPadian.md) | G#, **A**, **B**, C, D, **Eb**, F##, G# | C | ![GSharpPadian](ModeGSharpPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpPadian.mid?raw=true) |
+| [Ab](ModeAFlatPadian.md) | Ab, **Bbb**, **Cb**, Dbb, Ebb, **Fbb**, G, Ab | C | ![AFlatPadian](ModeAFlatPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatPadian.mid?raw=true) |
+| [A](ModeANaturalPadian.md) | A, **Bb**, **C**, Db, Eb, **Fb**, G#, A | C | ![ANaturalPadian](ModeANaturalPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalPadian.mid?raw=true) |
+| [A#](ModeASharpPadian.md) | A#, **B**, **C#**, D, E, **F**, G##, A# | C | ![ASharpPadian](ModeASharpPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpPadian.mid?raw=true) |
+| [Bb](ModeBFlatPadian.md) | Bb, **Cb**, **Db**, Ebb, Fb, **Gbb**, A, Bb | C | ![BFlatPadian](ModeBFlatPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatPadian.mid?raw=true) |
+| [B](ModeBNaturalPadian.md) | B, **C**, **D**, Eb, F, **Gb**, A#, B | C | ![BNaturalPadian](ModeBNaturalPadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalPadian.mid?raw=true) |

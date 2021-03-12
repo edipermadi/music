@@ -21,5 +21,5 @@
 
 | Number | Mode | Notes | Illustration | Audio |
 |--------|------|-------|--------------|-------|
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | **C**, **D**, **F#**, **G#**, **C** | ![CNaturalDadic](ModeCNaturalDadic.png) | [midi](ModeCNaturalDadic.mid) [ogg](ModeCNaturalDadic.ogg) | 
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | **C**, **E**, **F#**, **A#**, **C** | ![CNaturalStathic](ModeCNaturalStathic.png) | [midi](ModeCNaturalStathic.mid) [ogg](ModeCNaturalStathic.ogg) | 
+| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | **C**, **D**, **F#**, **G#**, **C** | ![CNaturalDadic](ModeCNaturalDadic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDadic.mid?raw=true) | 
+| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | **C**, **E**, **F#**, **A#**, **C** | ![CNaturalStathic](ModeCNaturalStathic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalStathic.mid?raw=true) | 

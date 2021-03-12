@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalPhratonic.md) | **C**, C#, **D#**, F, G#, **C** | C | ![CNaturalPhratonic](ModeCNaturalPhratonic.png) | [midi](ModeCNaturalPhratonic.mid) [ogg](ModeCNaturalPhratonic.ogg) |
-| [C#](ModeCSharpPhratonic.md) | **C#**, D, **E**, F#, A, **C#** | C | ![CSharpPhratonic](ModeCSharpPhratonic.png) | [midi](ModeCSharpPhratonic.mid) [ogg](ModeCSharpPhratonic.ogg) |
-| [Db](ModeDFlatPhratonic.md) | **Db**, D, **E**, Gb, A, **Db** | C | ![DFlatPhratonic](ModeDFlatPhratonic.png) | [midi](ModeDFlatPhratonic.mid) [ogg](ModeDFlatPhratonic.ogg) |
-| [D](ModeDNaturalPhratonic.md) | **D**, D#, **F**, G, A#, **D** | C | ![DNaturalPhratonic](ModeDNaturalPhratonic.png) | [midi](ModeDNaturalPhratonic.mid) [ogg](ModeDNaturalPhratonic.ogg) |
-| [D#](ModeDSharpPhratonic.md) | **D#**, E, **F#**, G#, B, **D#** | C | ![DSharpPhratonic](ModeDSharpPhratonic.png) | [midi](ModeDSharpPhratonic.mid) [ogg](ModeDSharpPhratonic.ogg) |
-| [Eb](ModeEFlatPhratonic.md) | **Eb**, E, **Gb**, Ab, B, **Eb** | C | ![EFlatPhratonic](ModeEFlatPhratonic.png) | [midi](ModeEFlatPhratonic.mid) [ogg](ModeEFlatPhratonic.ogg) |
-| [E](ModeENaturalPhratonic.md) | **E**, F, **G**, A, C, **E** | C | ![ENaturalPhratonic](ModeENaturalPhratonic.png) | [midi](ModeENaturalPhratonic.mid) [ogg](ModeENaturalPhratonic.ogg) |
-| [F](ModeFNaturalPhratonic.md) | **F**, F#, **G#**, A#, C#, **F** | C | ![FNaturalPhratonic](ModeFNaturalPhratonic.png) | [midi](ModeFNaturalPhratonic.mid) [ogg](ModeFNaturalPhratonic.ogg) |
-| [F#](ModeFSharpPhratonic.md) | **F#**, G, **A**, B, D, **F#** | C | ![FSharpPhratonic](ModeFSharpPhratonic.png) | [midi](ModeFSharpPhratonic.mid) [ogg](ModeFSharpPhratonic.ogg) |
-| [Gb](ModeGFlatPhratonic.md) | **Gb**, G, **A**, B, D, **Gb** | C | ![GFlatPhratonic](ModeGFlatPhratonic.png) | [midi](ModeGFlatPhratonic.mid) [ogg](ModeGFlatPhratonic.ogg) |
-| [G](ModeGNaturalPhratonic.md) | **G**, G#, **A#**, C, D#, **G** | C | ![GNaturalPhratonic](ModeGNaturalPhratonic.png) | [midi](ModeGNaturalPhratonic.mid) [ogg](ModeGNaturalPhratonic.ogg) |
-| [G#](ModeGSharpPhratonic.md) | **G#**, A, **B**, C#, E, **G#** | C | ![GSharpPhratonic](ModeGSharpPhratonic.png) | [midi](ModeGSharpPhratonic.mid) [ogg](ModeGSharpPhratonic.ogg) |
-| [Ab](ModeAFlatPhratonic.md) | **Ab**, A, **B**, Db, E, **Ab** | C | ![AFlatPhratonic](ModeAFlatPhratonic.png) | [midi](ModeAFlatPhratonic.mid) [ogg](ModeAFlatPhratonic.ogg) |
-| [A](ModeANaturalPhratonic.md) | **A**, A#, **C**, D, F, **A** | C | ![ANaturalPhratonic](ModeANaturalPhratonic.png) | [midi](ModeANaturalPhratonic.mid) [ogg](ModeANaturalPhratonic.ogg) |
-| [A#](ModeASharpPhratonic.md) | **A#**, B, **C#**, D#, F#, **A#** | C | ![ASharpPhratonic](ModeASharpPhratonic.png) | [midi](ModeASharpPhratonic.mid) [ogg](ModeASharpPhratonic.ogg) |
-| [Bb](ModeBFlatPhratonic.md) | **Bb**, B, **Db**, Eb, Gb, **Bb** | C | ![BFlatPhratonic](ModeBFlatPhratonic.png) | [midi](ModeBFlatPhratonic.mid) [ogg](ModeBFlatPhratonic.ogg) |
-| [B](ModeBNaturalPhratonic.md) | **B**, C, **D**, E, G, **B** | C | ![BNaturalPhratonic](ModeBNaturalPhratonic.png) | [midi](ModeBNaturalPhratonic.mid) [ogg](ModeBNaturalPhratonic.ogg) |
+| [C](ModeCNaturalPhratonic.md) | **C**, C#, **D#**, F, G#, **C** | C | ![CNaturalPhratonic](ModeCNaturalPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPhratonic.mid?raw=true) |
+| [C#](ModeCSharpPhratonic.md) | **C#**, D, **E**, F#, A, **C#** | C | ![CSharpPhratonic](ModeCSharpPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpPhratonic.mid?raw=true) |
+| [Db](ModeDFlatPhratonic.md) | **Db**, D, **E**, Gb, A, **Db** | C | ![DFlatPhratonic](ModeDFlatPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatPhratonic.mid?raw=true) |
+| [D](ModeDNaturalPhratonic.md) | **D**, D#, **F**, G, A#, **D** | C | ![DNaturalPhratonic](ModeDNaturalPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalPhratonic.mid?raw=true) |
+| [D#](ModeDSharpPhratonic.md) | **D#**, E, **F#**, G#, B, **D#** | C | ![DSharpPhratonic](ModeDSharpPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpPhratonic.mid?raw=true) |
+| [Eb](ModeEFlatPhratonic.md) | **Eb**, E, **Gb**, Ab, B, **Eb** | C | ![EFlatPhratonic](ModeEFlatPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatPhratonic.mid?raw=true) |
+| [E](ModeENaturalPhratonic.md) | **E**, F, **G**, A, C, **E** | C | ![ENaturalPhratonic](ModeENaturalPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalPhratonic.mid?raw=true) |
+| [F](ModeFNaturalPhratonic.md) | **F**, F#, **G#**, A#, C#, **F** | C | ![FNaturalPhratonic](ModeFNaturalPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalPhratonic.mid?raw=true) |
+| [F#](ModeFSharpPhratonic.md) | **F#**, G, **A**, B, D, **F#** | C | ![FSharpPhratonic](ModeFSharpPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpPhratonic.mid?raw=true) |
+| [Gb](ModeGFlatPhratonic.md) | **Gb**, G, **A**, B, D, **Gb** | C | ![GFlatPhratonic](ModeGFlatPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatPhratonic.mid?raw=true) |
+| [G](ModeGNaturalPhratonic.md) | **G**, G#, **A#**, C, D#, **G** | C | ![GNaturalPhratonic](ModeGNaturalPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalPhratonic.mid?raw=true) |
+| [G#](ModeGSharpPhratonic.md) | **G#**, A, **B**, C#, E, **G#** | C | ![GSharpPhratonic](ModeGSharpPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpPhratonic.mid?raw=true) |
+| [Ab](ModeAFlatPhratonic.md) | **Ab**, A, **B**, Db, E, **Ab** | C | ![AFlatPhratonic](ModeAFlatPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatPhratonic.mid?raw=true) |
+| [A](ModeANaturalPhratonic.md) | **A**, A#, **C**, D, F, **A** | C | ![ANaturalPhratonic](ModeANaturalPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalPhratonic.mid?raw=true) |
+| [A#](ModeASharpPhratonic.md) | **A#**, B, **C#**, D#, F#, **A#** | C | ![ASharpPhratonic](ModeASharpPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpPhratonic.mid?raw=true) |
+| [Bb](ModeBFlatPhratonic.md) | **Bb**, B, **Db**, Eb, Gb, **Bb** | C | ![BFlatPhratonic](ModeBFlatPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatPhratonic.mid?raw=true) |
+| [B](ModeBNaturalPhratonic.md) | **B**, C, **D**, E, G, **B** | C | ![BNaturalPhratonic](ModeBNaturalPhratonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalPhratonic.mid?raw=true) |

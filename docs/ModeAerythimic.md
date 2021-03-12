@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalAerythimic.md) | **C**, Db, **E**, F, **G#**, A, **C** | C | ![CNaturalAerythimic](ModeCNaturalAerythimic.png) | [midi](ModeCNaturalAerythimic.mid) [ogg](ModeCNaturalAerythimic.ogg) |
-| [C#](ModeCSharpAerythimic.md) | **C#**, D, **E#**, F#, **G##**, A#, **C#** | C | ![CSharpAerythimic](ModeCSharpAerythimic.png) | [midi](ModeCSharpAerythimic.mid) [ogg](ModeCSharpAerythimic.ogg) |
-| [Db](ModeDFlatAerythimic.md) | **Db**, Ebb, **F**, Gb, **A**, Bb, **Db** | C | ![DFlatAerythimic](ModeDFlatAerythimic.png) | [midi](ModeDFlatAerythimic.mid) [ogg](ModeDFlatAerythimic.ogg) |
-| [D](ModeDNaturalAerythimic.md) | **D**, Eb, **F#**, G, **A#**, B, **D** | C | ![DNaturalAerythimic](ModeDNaturalAerythimic.png) | [midi](ModeDNaturalAerythimic.mid) [ogg](ModeDNaturalAerythimic.ogg) |
-| [D#](ModeDSharpAerythimic.md) | **D#**, E, **F##**, G#, **A##**, B#, **D#** | C | ![DSharpAerythimic](ModeDSharpAerythimic.png) | [midi](ModeDSharpAerythimic.mid) [ogg](ModeDSharpAerythimic.ogg) |
-| [Eb](ModeEFlatAerythimic.md) | **Eb**, Fb, **G**, Ab, **B**, C, **Eb** | C | ![EFlatAerythimic](ModeEFlatAerythimic.png) | [midi](ModeEFlatAerythimic.mid) [ogg](ModeEFlatAerythimic.ogg) |
-| [E](ModeENaturalAerythimic.md) | **E**, F, **G#**, A, **B#**, C#, **E** | C | ![ENaturalAerythimic](ModeENaturalAerythimic.png) | [midi](ModeENaturalAerythimic.mid) [ogg](ModeENaturalAerythimic.ogg) |
-| [F](ModeFNaturalAerythimic.md) | **F**, Gb, **A**, Bb, **C#**, D, **F** | C | ![FNaturalAerythimic](ModeFNaturalAerythimic.png) | [midi](ModeFNaturalAerythimic.mid) [ogg](ModeFNaturalAerythimic.ogg) |
-| [F#](ModeFSharpAerythimic.md) | **F#**, G, **A#**, B, **C##**, D#, **F#** | C | ![FSharpAerythimic](ModeFSharpAerythimic.png) | [midi](ModeFSharpAerythimic.mid) [ogg](ModeFSharpAerythimic.ogg) |
-| [Gb](ModeGFlatAerythimic.md) | **Gb**, Abb, **Bb**, Cb, **D**, Eb, **Gb** | C | ![GFlatAerythimic](ModeGFlatAerythimic.png) | [midi](ModeGFlatAerythimic.mid) [ogg](ModeGFlatAerythimic.ogg) |
-| [G](ModeGNaturalAerythimic.md) | **G**, Ab, **B**, C, **D#**, E, **G** | C | ![GNaturalAerythimic](ModeGNaturalAerythimic.png) | [midi](ModeGNaturalAerythimic.mid) [ogg](ModeGNaturalAerythimic.ogg) |
-| [G#](ModeGSharpAerythimic.md) | **G#**, A, **B#**, C#, **D##**, E#, **G#** | C | ![GSharpAerythimic](ModeGSharpAerythimic.png) | [midi](ModeGSharpAerythimic.mid) [ogg](ModeGSharpAerythimic.ogg) |
-| [Ab](ModeAFlatAerythimic.md) | **Ab**, Bbb, **C**, Db, **E**, F, **Ab** | C | ![AFlatAerythimic](ModeAFlatAerythimic.png) | [midi](ModeAFlatAerythimic.mid) [ogg](ModeAFlatAerythimic.ogg) |
-| [A](ModeANaturalAerythimic.md) | **A**, Bb, **C#**, D, **E#**, F#, **A** | C | ![ANaturalAerythimic](ModeANaturalAerythimic.png) | [midi](ModeANaturalAerythimic.mid) [ogg](ModeANaturalAerythimic.ogg) |
-| [A#](ModeASharpAerythimic.md) | **A#**, B, **C##**, D#, **E##**, F##, **A#** | C | ![ASharpAerythimic](ModeASharpAerythimic.png) | [midi](ModeASharpAerythimic.mid) [ogg](ModeASharpAerythimic.ogg) |
-| [Bb](ModeBFlatAerythimic.md) | **Bb**, Cb, **D**, Eb, **F#**, G, **Bb** | C | ![BFlatAerythimic](ModeBFlatAerythimic.png) | [midi](ModeBFlatAerythimic.mid) [ogg](ModeBFlatAerythimic.ogg) |
-| [B](ModeBNaturalAerythimic.md) | **B**, C, **D#**, E, **F##**, G#, **B** | C | ![BNaturalAerythimic](ModeBNaturalAerythimic.png) | [midi](ModeBNaturalAerythimic.mid) [ogg](ModeBNaturalAerythimic.ogg) |
+| [C](ModeCNaturalAerythimic.md) | **C**, Db, **E**, F, **G#**, A, **C** | C | ![CNaturalAerythimic](ModeCNaturalAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAerythimic.mid?raw=true) |
+| [C#](ModeCSharpAerythimic.md) | **C#**, D, **E#**, F#, **G##**, A#, **C#** | C | ![CSharpAerythimic](ModeCSharpAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpAerythimic.mid?raw=true) |
+| [Db](ModeDFlatAerythimic.md) | **Db**, Ebb, **F**, Gb, **A**, Bb, **Db** | C | ![DFlatAerythimic](ModeDFlatAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatAerythimic.mid?raw=true) |
+| [D](ModeDNaturalAerythimic.md) | **D**, Eb, **F#**, G, **A#**, B, **D** | C | ![DNaturalAerythimic](ModeDNaturalAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalAerythimic.mid?raw=true) |
+| [D#](ModeDSharpAerythimic.md) | **D#**, E, **F##**, G#, **A##**, B#, **D#** | C | ![DSharpAerythimic](ModeDSharpAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpAerythimic.mid?raw=true) |
+| [Eb](ModeEFlatAerythimic.md) | **Eb**, Fb, **G**, Ab, **B**, C, **Eb** | C | ![EFlatAerythimic](ModeEFlatAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatAerythimic.mid?raw=true) |
+| [E](ModeENaturalAerythimic.md) | **E**, F, **G#**, A, **B#**, C#, **E** | C | ![ENaturalAerythimic](ModeENaturalAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalAerythimic.mid?raw=true) |
+| [F](ModeFNaturalAerythimic.md) | **F**, Gb, **A**, Bb, **C#**, D, **F** | C | ![FNaturalAerythimic](ModeFNaturalAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalAerythimic.mid?raw=true) |
+| [F#](ModeFSharpAerythimic.md) | **F#**, G, **A#**, B, **C##**, D#, **F#** | C | ![FSharpAerythimic](ModeFSharpAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpAerythimic.mid?raw=true) |
+| [Gb](ModeGFlatAerythimic.md) | **Gb**, Abb, **Bb**, Cb, **D**, Eb, **Gb** | C | ![GFlatAerythimic](ModeGFlatAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatAerythimic.mid?raw=true) |
+| [G](ModeGNaturalAerythimic.md) | **G**, Ab, **B**, C, **D#**, E, **G** | C | ![GNaturalAerythimic](ModeGNaturalAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalAerythimic.mid?raw=true) |
+| [G#](ModeGSharpAerythimic.md) | **G#**, A, **B#**, C#, **D##**, E#, **G#** | C | ![GSharpAerythimic](ModeGSharpAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpAerythimic.mid?raw=true) |
+| [Ab](ModeAFlatAerythimic.md) | **Ab**, Bbb, **C**, Db, **E**, F, **Ab** | C | ![AFlatAerythimic](ModeAFlatAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatAerythimic.mid?raw=true) |
+| [A](ModeANaturalAerythimic.md) | **A**, Bb, **C#**, D, **E#**, F#, **A** | C | ![ANaturalAerythimic](ModeANaturalAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalAerythimic.mid?raw=true) |
+| [A#](ModeASharpAerythimic.md) | **A#**, B, **C##**, D#, **E##**, F##, **A#** | C | ![ASharpAerythimic](ModeASharpAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpAerythimic.mid?raw=true) |
+| [Bb](ModeBFlatAerythimic.md) | **Bb**, Cb, **D**, Eb, **F#**, G, **Bb** | C | ![BFlatAerythimic](ModeBFlatAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatAerythimic.mid?raw=true) |
+| [B](ModeBNaturalAerythimic.md) | **B**, C, **D#**, E, **F##**, G#, **B** | C | ![BNaturalAerythimic](ModeBNaturalAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalAerythimic.mid?raw=true) |

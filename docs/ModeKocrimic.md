@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalKocrimic.md) | C, **D##**, **E##**, **F##**, **G#**, A, C | C | ![CNaturalKocrimic](ModeCNaturalKocrimic.png) | [midi](ModeCNaturalKocrimic.mid) [ogg](ModeCNaturalKocrimic.ogg) |
-| [C#](ModeCSharpKocrimic.md) | C#, **D###**, **E###**, **F###**, **G##**, A#, C# | C | ![CSharpKocrimic](ModeCSharpKocrimic.png) | [midi](ModeCSharpKocrimic.mid) [ogg](ModeCSharpKocrimic.ogg) |
-| [Db](ModeDFlatKocrimic.md) | Db, **E#**, **F##**, **G#**, **A**, Bb, Db | C | ![DFlatKocrimic](ModeDFlatKocrimic.png) | [midi](ModeDFlatKocrimic.mid) [ogg](ModeDFlatKocrimic.ogg) |
-| [D](ModeDNaturalKocrimic.md) | D, **E##**, **F###**, **G##**, **A#**, B, D | C | ![DNaturalKocrimic](ModeDNaturalKocrimic.png) | [midi](ModeDNaturalKocrimic.mid) [ogg](ModeDNaturalKocrimic.ogg) |
-| [D#](ModeDSharpKocrimic.md) | D#, **E###**, **Cbbb**, **Cbb**, **Dbbb**, Dbb, D# | C | ![DSharpKocrimic](ModeDSharpKocrimic.png) | [midi](ModeDSharpKocrimic.mid) [ogg](ModeDSharpKocrimic.ogg) |
-| [Eb](ModeEFlatKocrimic.md) | Eb, **F##**, **G##**, **A#**, **B**, C, Eb | C | ![EFlatKocrimic](ModeEFlatKocrimic.png) | [midi](ModeEFlatKocrimic.mid) [ogg](ModeEFlatKocrimic.ogg) |
-| [E](ModeENaturalKocrimic.md) | E, **F###**, **G###**, **A##**, **B#**, C#, E | C | ![ENaturalKocrimic](ModeENaturalKocrimic.png) | [midi](ModeENaturalKocrimic.mid) [ogg](ModeENaturalKocrimic.ogg) |
-| [F](ModeFNaturalKocrimic.md) | F, **G##**, **A##**, **B#**, **C#**, D, F | C | ![FNaturalKocrimic](ModeFNaturalKocrimic.png) | [midi](ModeFNaturalKocrimic.mid) [ogg](ModeFNaturalKocrimic.ogg) |
-| [F#](ModeFSharpKocrimic.md) | F#, **G###**, **A###**, **B##**, **C##**, D#, F# | C | ![FSharpKocrimic](ModeFSharpKocrimic.png) | [midi](ModeFSharpKocrimic.mid) [ogg](ModeFSharpKocrimic.ogg) |
-| [Gb](ModeGFlatKocrimic.md) | Gb, **A#**, **B#**, **C#**, **D**, Eb, Gb | C | ![GFlatKocrimic](ModeGFlatKocrimic.png) | [midi](ModeGFlatKocrimic.mid) [ogg](ModeGFlatKocrimic.ogg) |
-| [G](ModeGNaturalKocrimic.md) | G, **A##**, **B##**, **C##**, **D#**, E, G | C | ![GNaturalKocrimic](ModeGNaturalKocrimic.png) | [midi](ModeGNaturalKocrimic.mid) [ogg](ModeGNaturalKocrimic.ogg) |
-| [G#](ModeGSharpKocrimic.md) | G#, **A###**, **B###**, **C###**, **D##**, E#, G# | C | ![GSharpKocrimic](ModeGSharpKocrimic.png) | [midi](ModeGSharpKocrimic.mid) [ogg](ModeGSharpKocrimic.ogg) |
-| [Ab](ModeAFlatKocrimic.md) | Ab, **B#**, **C##**, **D#**, **E**, F, Ab | C | ![AFlatKocrimic](ModeAFlatKocrimic.png) | [midi](ModeAFlatKocrimic.mid) [ogg](ModeAFlatKocrimic.ogg) |
-| [A](ModeANaturalKocrimic.md) | A, **B##**, **C###**, **D##**, **E#**, F#, A | C | ![ANaturalKocrimic](ModeANaturalKocrimic.png) | [midi](ModeANaturalKocrimic.mid) [ogg](ModeANaturalKocrimic.ogg) |
-| [A#](ModeASharpKocrimic.md) | A#, **B###**, **D##**, **E#**, **F#**, G, A# | C | ![ASharpKocrimic](ModeASharpKocrimic.png) | [midi](ModeASharpKocrimic.mid) [ogg](ModeASharpKocrimic.ogg) |
-| [Bb](ModeBFlatKocrimic.md) | Bb, **C##**, **D##**, **E#**, **F#**, G, Bb | C | ![BFlatKocrimic](ModeBFlatKocrimic.png) | [midi](ModeBFlatKocrimic.mid) [ogg](ModeBFlatKocrimic.ogg) |
-| [B](ModeBNaturalKocrimic.md) | B, **C###**, **D###**, **E##**, **F##**, G#, B | C | ![BNaturalKocrimic](ModeBNaturalKocrimic.png) | [midi](ModeBNaturalKocrimic.mid) [ogg](ModeBNaturalKocrimic.ogg) |
+| [C](ModeCNaturalKocrimic.md) | C, **D##**, **E##**, **F##**, **G#**, A, C | C | ![CNaturalKocrimic](ModeCNaturalKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKocrimic.mid?raw=true) |
+| [C#](ModeCSharpKocrimic.md) | C#, **D###**, **E###**, **F###**, **G##**, A#, C# | C | ![CSharpKocrimic](ModeCSharpKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpKocrimic.mid?raw=true) |
+| [Db](ModeDFlatKocrimic.md) | Db, **E#**, **F##**, **G#**, **A**, Bb, Db | C | ![DFlatKocrimic](ModeDFlatKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatKocrimic.mid?raw=true) |
+| [D](ModeDNaturalKocrimic.md) | D, **E##**, **F###**, **G##**, **A#**, B, D | C | ![DNaturalKocrimic](ModeDNaturalKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalKocrimic.mid?raw=true) |
+| [D#](ModeDSharpKocrimic.md) | D#, **E###**, **Cbbb**, **Cbb**, **Dbbb**, Dbb, D# | C | ![DSharpKocrimic](ModeDSharpKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpKocrimic.mid?raw=true) |
+| [Eb](ModeEFlatKocrimic.md) | Eb, **F##**, **G##**, **A#**, **B**, C, Eb | C | ![EFlatKocrimic](ModeEFlatKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatKocrimic.mid?raw=true) |
+| [E](ModeENaturalKocrimic.md) | E, **F###**, **G###**, **A##**, **B#**, C#, E | C | ![ENaturalKocrimic](ModeENaturalKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalKocrimic.mid?raw=true) |
+| [F](ModeFNaturalKocrimic.md) | F, **G##**, **A##**, **B#**, **C#**, D, F | C | ![FNaturalKocrimic](ModeFNaturalKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalKocrimic.mid?raw=true) |
+| [F#](ModeFSharpKocrimic.md) | F#, **G###**, **A###**, **B##**, **C##**, D#, F# | C | ![FSharpKocrimic](ModeFSharpKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpKocrimic.mid?raw=true) |
+| [Gb](ModeGFlatKocrimic.md) | Gb, **A#**, **B#**, **C#**, **D**, Eb, Gb | C | ![GFlatKocrimic](ModeGFlatKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatKocrimic.mid?raw=true) |
+| [G](ModeGNaturalKocrimic.md) | G, **A##**, **B##**, **C##**, **D#**, E, G | C | ![GNaturalKocrimic](ModeGNaturalKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalKocrimic.mid?raw=true) |
+| [G#](ModeGSharpKocrimic.md) | G#, **A###**, **B###**, **C###**, **D##**, E#, G# | C | ![GSharpKocrimic](ModeGSharpKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpKocrimic.mid?raw=true) |
+| [Ab](ModeAFlatKocrimic.md) | Ab, **B#**, **C##**, **D#**, **E**, F, Ab | C | ![AFlatKocrimic](ModeAFlatKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatKocrimic.mid?raw=true) |
+| [A](ModeANaturalKocrimic.md) | A, **B##**, **C###**, **D##**, **E#**, F#, A | C | ![ANaturalKocrimic](ModeANaturalKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalKocrimic.mid?raw=true) |
+| [A#](ModeASharpKocrimic.md) | A#, **B###**, **D##**, **E#**, **F#**, G, A# | C | ![ASharpKocrimic](ModeASharpKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpKocrimic.mid?raw=true) |
+| [Bb](ModeBFlatKocrimic.md) | Bb, **C##**, **D##**, **E#**, **F#**, G, Bb | C | ![BFlatKocrimic](ModeBFlatKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatKocrimic.mid?raw=true) |
+| [B](ModeBNaturalKocrimic.md) | B, **C###**, **D###**, **E##**, **F##**, G#, B | C | ![BNaturalKocrimic](ModeBNaturalKocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalKocrimic.mid?raw=true) |

@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalSaptian.md) | C, **D##**, E#, **F#**, **G**, A, Bb, C | C | ![CNaturalSaptian](ModeCNaturalSaptian.png) | [midi](ModeCNaturalSaptian.mid) [ogg](ModeCNaturalSaptian.ogg) |
-| [C#](ModeCSharpSaptian.md) | C#, **D###**, E##, **F##**, **G#**, A#, B, C# | C | ![CSharpSaptian](ModeCSharpSaptian.png) | [midi](ModeCSharpSaptian.mid) [ogg](ModeCSharpSaptian.ogg) |
-| [Db](ModeDFlatSaptian.md) | Db, **E#**, F#, **G**, **Ab**, Bb, Cb, Db | C | ![DFlatSaptian](ModeDFlatSaptian.png) | [midi](ModeDFlatSaptian.mid) [ogg](ModeDFlatSaptian.ogg) |
-| [D](ModeDNaturalSaptian.md) | D, **E##**, F##, **G#**, **A**, B, C, D | C | ![DNaturalSaptian](ModeDNaturalSaptian.png) | [midi](ModeDNaturalSaptian.mid) [ogg](ModeDNaturalSaptian.ogg) |
-| [D#](ModeDSharpSaptian.md) | D#, **E###**, F###, **G##**, **A#**, B#, C#, D# | C | ![DSharpSaptian](ModeDSharpSaptian.png) | [midi](ModeDSharpSaptian.mid) [ogg](ModeDSharpSaptian.ogg) |
-| [Eb](ModeEFlatSaptian.md) | Eb, **F##**, G#, **A**, **Bb**, C, Db, Eb | C | ![EFlatSaptian](ModeEFlatSaptian.png) | [midi](ModeEFlatSaptian.mid) [ogg](ModeEFlatSaptian.ogg) |
-| [E](ModeENaturalSaptian.md) | E, **F###**, G##, **A#**, **B**, C#, D, E | C | ![ENaturalSaptian](ModeENaturalSaptian.png) | [midi](ModeENaturalSaptian.mid) [ogg](ModeENaturalSaptian.ogg) |
-| [F](ModeFNaturalSaptian.md) | F, **G##**, A#, **B**, **C**, D, Eb, F | C | ![FNaturalSaptian](ModeFNaturalSaptian.png) | [midi](ModeFNaturalSaptian.mid) [ogg](ModeFNaturalSaptian.ogg) |
-| [F#](ModeFSharpSaptian.md) | F#, **G###**, A##, **B#**, **C#**, D#, E, F# | C | ![FSharpSaptian](ModeFSharpSaptian.png) | [midi](ModeFSharpSaptian.mid) [ogg](ModeFSharpSaptian.ogg) |
-| [Gb](ModeGFlatSaptian.md) | Gb, **A#**, B, **C**, **Db**, Eb, Fb, Gb | C | ![GFlatSaptian](ModeGFlatSaptian.png) | [midi](ModeGFlatSaptian.mid) [ogg](ModeGFlatSaptian.ogg) |
-| [G](ModeGNaturalSaptian.md) | G, **A##**, B#, **C#**, **D**, E, F, G | C | ![GNaturalSaptian](ModeGNaturalSaptian.png) | [midi](ModeGNaturalSaptian.mid) [ogg](ModeGNaturalSaptian.ogg) |
-| [G#](ModeGSharpSaptian.md) | G#, **A###**, B##, **C##**, **D#**, E#, F#, G# | C | ![GSharpSaptian](ModeGSharpSaptian.png) | [midi](ModeGSharpSaptian.mid) [ogg](ModeGSharpSaptian.ogg) |
-| [Ab](ModeAFlatSaptian.md) | Ab, **B#**, C#, **D**, **Eb**, F, Gb, Ab | C | ![AFlatSaptian](ModeAFlatSaptian.png) | [midi](ModeAFlatSaptian.mid) [ogg](ModeAFlatSaptian.ogg) |
-| [A](ModeANaturalSaptian.md) | A, **B##**, C##, **D#**, **E**, F#, G, A | C | ![ANaturalSaptian](ModeANaturalSaptian.png) | [midi](ModeANaturalSaptian.mid) [ogg](ModeANaturalSaptian.ogg) |
-| [A#](ModeASharpSaptian.md) | A#, **B###**, C###, **D##**, **E#**, F##, G#, A# | C | ![ASharpSaptian](ModeASharpSaptian.png) | [midi](ModeASharpSaptian.mid) [ogg](ModeASharpSaptian.ogg) |
-| [Bb](ModeBFlatSaptian.md) | Bb, **C##**, D#, **E**, **F**, G, Ab, Bb | C | ![BFlatSaptian](ModeBFlatSaptian.png) | [midi](ModeBFlatSaptian.mid) [ogg](ModeBFlatSaptian.ogg) |
-| [B](ModeBNaturalSaptian.md) | B, **C###**, D##, **E#**, **F#**, G#, A, B | C | ![BNaturalSaptian](ModeBNaturalSaptian.png) | [midi](ModeBNaturalSaptian.mid) [ogg](ModeBNaturalSaptian.ogg) |
+| [C](ModeCNaturalSaptian.md) | C, **D##**, E#, **F#**, **G**, A, Bb, C | C | ![CNaturalSaptian](ModeCNaturalSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalSaptian.mid?raw=true) |
+| [C#](ModeCSharpSaptian.md) | C#, **D###**, E##, **F##**, **G#**, A#, B, C# | C | ![CSharpSaptian](ModeCSharpSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpSaptian.mid?raw=true) |
+| [Db](ModeDFlatSaptian.md) | Db, **E#**, F#, **G**, **Ab**, Bb, Cb, Db | C | ![DFlatSaptian](ModeDFlatSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatSaptian.mid?raw=true) |
+| [D](ModeDNaturalSaptian.md) | D, **E##**, F##, **G#**, **A**, B, C, D | C | ![DNaturalSaptian](ModeDNaturalSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalSaptian.mid?raw=true) |
+| [D#](ModeDSharpSaptian.md) | D#, **E###**, F###, **G##**, **A#**, B#, C#, D# | C | ![DSharpSaptian](ModeDSharpSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpSaptian.mid?raw=true) |
+| [Eb](ModeEFlatSaptian.md) | Eb, **F##**, G#, **A**, **Bb**, C, Db, Eb | C | ![EFlatSaptian](ModeEFlatSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatSaptian.mid?raw=true) |
+| [E](ModeENaturalSaptian.md) | E, **F###**, G##, **A#**, **B**, C#, D, E | C | ![ENaturalSaptian](ModeENaturalSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalSaptian.mid?raw=true) |
+| [F](ModeFNaturalSaptian.md) | F, **G##**, A#, **B**, **C**, D, Eb, F | C | ![FNaturalSaptian](ModeFNaturalSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalSaptian.mid?raw=true) |
+| [F#](ModeFSharpSaptian.md) | F#, **G###**, A##, **B#**, **C#**, D#, E, F# | C | ![FSharpSaptian](ModeFSharpSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpSaptian.mid?raw=true) |
+| [Gb](ModeGFlatSaptian.md) | Gb, **A#**, B, **C**, **Db**, Eb, Fb, Gb | C | ![GFlatSaptian](ModeGFlatSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatSaptian.mid?raw=true) |
+| [G](ModeGNaturalSaptian.md) | G, **A##**, B#, **C#**, **D**, E, F, G | C | ![GNaturalSaptian](ModeGNaturalSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalSaptian.mid?raw=true) |
+| [G#](ModeGSharpSaptian.md) | G#, **A###**, B##, **C##**, **D#**, E#, F#, G# | C | ![GSharpSaptian](ModeGSharpSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpSaptian.mid?raw=true) |
+| [Ab](ModeAFlatSaptian.md) | Ab, **B#**, C#, **D**, **Eb**, F, Gb, Ab | C | ![AFlatSaptian](ModeAFlatSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatSaptian.mid?raw=true) |
+| [A](ModeANaturalSaptian.md) | A, **B##**, C##, **D#**, **E**, F#, G, A | C | ![ANaturalSaptian](ModeANaturalSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalSaptian.mid?raw=true) |
+| [A#](ModeASharpSaptian.md) | A#, **B###**, C###, **D##**, **E#**, F##, G#, A# | C | ![ASharpSaptian](ModeASharpSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpSaptian.mid?raw=true) |
+| [Bb](ModeBFlatSaptian.md) | Bb, **C##**, D#, **E**, **F**, G, Ab, Bb | C | ![BFlatSaptian](ModeBFlatSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatSaptian.mid?raw=true) |
+| [B](ModeBNaturalSaptian.md) | B, **C###**, D##, **E#**, **F#**, G#, A, B | C | ![BNaturalSaptian](ModeBNaturalSaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalSaptian.mid?raw=true) |

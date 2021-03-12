@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalGacrian.md) | C, **D#**, **E##**, **F##**, G#, **A**, B, C | C | ![CNaturalGacrian](ModeCNaturalGacrian.png) | [midi](ModeCNaturalGacrian.mid) [ogg](ModeCNaturalGacrian.ogg) |
-| [C#](ModeCSharpGacrian.md) | C#, **D##**, **E###**, **F###**, G##, **A#**, B#, C# | C | ![CSharpGacrian](ModeCSharpGacrian.png) | [midi](ModeCSharpGacrian.mid) [ogg](ModeCSharpGacrian.ogg) |
-| [Db](ModeDFlatGacrian.md) | Db, **E**, **F##**, **G#**, A, **Bb**, C, Db | C | ![DFlatGacrian](ModeDFlatGacrian.png) | [midi](ModeDFlatGacrian.mid) [ogg](ModeDFlatGacrian.ogg) |
-| [D](ModeDNaturalGacrian.md) | D, **E#**, **F###**, **G##**, A#, **B**, C#, D | C | ![DNaturalGacrian](ModeDNaturalGacrian.png) | [midi](ModeDNaturalGacrian.mid) [ogg](ModeDNaturalGacrian.ogg) |
-| [D#](ModeDSharpGacrian.md) | D#, **E##**, **Cbbb**, **Cbb**, Dbbb, **Dbb**, Ebb, D# | C | ![DSharpGacrian](ModeDSharpGacrian.png) | [midi](ModeDSharpGacrian.mid) [ogg](ModeDSharpGacrian.ogg) |
-| [Eb](ModeEFlatGacrian.md) | Eb, **F#**, **G##**, **A#**, B, **C**, D, Eb | C | ![EFlatGacrian](ModeEFlatGacrian.png) | [midi](ModeEFlatGacrian.mid) [ogg](ModeEFlatGacrian.ogg) |
-| [E](ModeENaturalGacrian.md) | E, **F##**, **G###**, **A##**, B#, **C#**, D#, E | C | ![ENaturalGacrian](ModeENaturalGacrian.png) | [midi](ModeENaturalGacrian.mid) [ogg](ModeENaturalGacrian.ogg) |
-| [F](ModeFNaturalGacrian.md) | F, **G#**, **A##**, **B#**, C#, **D**, E, F | C | ![FNaturalGacrian](ModeFNaturalGacrian.png) | [midi](ModeFNaturalGacrian.mid) [ogg](ModeFNaturalGacrian.ogg) |
-| [F#](ModeFSharpGacrian.md) | F#, **G##**, **A###**, **B##**, C##, **D#**, E#, F# | C | ![FSharpGacrian](ModeFSharpGacrian.png) | [midi](ModeFSharpGacrian.mid) [ogg](ModeFSharpGacrian.ogg) |
-| [Gb](ModeGFlatGacrian.md) | Gb, **A**, **B#**, **C#**, D, **Eb**, F, Gb | C | ![GFlatGacrian](ModeGFlatGacrian.png) | [midi](ModeGFlatGacrian.mid) [ogg](ModeGFlatGacrian.ogg) |
-| [G](ModeGNaturalGacrian.md) | G, **A#**, **B##**, **C##**, D#, **E**, F#, G | C | ![GNaturalGacrian](ModeGNaturalGacrian.png) | [midi](ModeGNaturalGacrian.mid) [ogg](ModeGNaturalGacrian.ogg) |
-| [G#](ModeGSharpGacrian.md) | G#, **A##**, **B###**, **C###**, D##, **E#**, F##, G# | C | ![GSharpGacrian](ModeGSharpGacrian.png) | [midi](ModeGSharpGacrian.mid) [ogg](ModeGSharpGacrian.ogg) |
-| [Ab](ModeAFlatGacrian.md) | Ab, **B**, **C##**, **D#**, E, **F**, G, Ab | C | ![AFlatGacrian](ModeAFlatGacrian.png) | [midi](ModeAFlatGacrian.mid) [ogg](ModeAFlatGacrian.ogg) |
-| [A](ModeANaturalGacrian.md) | A, **B#**, **C###**, **D##**, E#, **F#**, G#, A | C | ![ANaturalGacrian](ModeANaturalGacrian.png) | [midi](ModeANaturalGacrian.mid) [ogg](ModeANaturalGacrian.ogg) |
-| [A#](ModeASharpGacrian.md) | A#, **B##**, **D##**, **E#**, F#, **G**, A, A# | C | ![ASharpGacrian](ModeASharpGacrian.png) | [midi](ModeASharpGacrian.mid) [ogg](ModeASharpGacrian.ogg) |
-| [Bb](ModeBFlatGacrian.md) | Bb, **C#**, **D##**, **E#**, F#, **G**, A, Bb | C | ![BFlatGacrian](ModeBFlatGacrian.png) | [midi](ModeBFlatGacrian.mid) [ogg](ModeBFlatGacrian.ogg) |
-| [B](ModeBNaturalGacrian.md) | B, **C##**, **D###**, **E##**, F##, **G#**, A#, B | C | ![BNaturalGacrian](ModeBNaturalGacrian.png) | [midi](ModeBNaturalGacrian.mid) [ogg](ModeBNaturalGacrian.ogg) |
+| [C](ModeCNaturalGacrian.md) | C, **D#**, **E##**, **F##**, G#, **A**, B, C | C | ![CNaturalGacrian](ModeCNaturalGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalGacrian.mid?raw=true) |
+| [C#](ModeCSharpGacrian.md) | C#, **D##**, **E###**, **F###**, G##, **A#**, B#, C# | C | ![CSharpGacrian](ModeCSharpGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpGacrian.mid?raw=true) |
+| [Db](ModeDFlatGacrian.md) | Db, **E**, **F##**, **G#**, A, **Bb**, C, Db | C | ![DFlatGacrian](ModeDFlatGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatGacrian.mid?raw=true) |
+| [D](ModeDNaturalGacrian.md) | D, **E#**, **F###**, **G##**, A#, **B**, C#, D | C | ![DNaturalGacrian](ModeDNaturalGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalGacrian.mid?raw=true) |
+| [D#](ModeDSharpGacrian.md) | D#, **E##**, **Cbbb**, **Cbb**, Dbbb, **Dbb**, Ebb, D# | C | ![DSharpGacrian](ModeDSharpGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpGacrian.mid?raw=true) |
+| [Eb](ModeEFlatGacrian.md) | Eb, **F#**, **G##**, **A#**, B, **C**, D, Eb | C | ![EFlatGacrian](ModeEFlatGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatGacrian.mid?raw=true) |
+| [E](ModeENaturalGacrian.md) | E, **F##**, **G###**, **A##**, B#, **C#**, D#, E | C | ![ENaturalGacrian](ModeENaturalGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalGacrian.mid?raw=true) |
+| [F](ModeFNaturalGacrian.md) | F, **G#**, **A##**, **B#**, C#, **D**, E, F | C | ![FNaturalGacrian](ModeFNaturalGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalGacrian.mid?raw=true) |
+| [F#](ModeFSharpGacrian.md) | F#, **G##**, **A###**, **B##**, C##, **D#**, E#, F# | C | ![FSharpGacrian](ModeFSharpGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpGacrian.mid?raw=true) |
+| [Gb](ModeGFlatGacrian.md) | Gb, **A**, **B#**, **C#**, D, **Eb**, F, Gb | C | ![GFlatGacrian](ModeGFlatGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatGacrian.mid?raw=true) |
+| [G](ModeGNaturalGacrian.md) | G, **A#**, **B##**, **C##**, D#, **E**, F#, G | C | ![GNaturalGacrian](ModeGNaturalGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalGacrian.mid?raw=true) |
+| [G#](ModeGSharpGacrian.md) | G#, **A##**, **B###**, **C###**, D##, **E#**, F##, G# | C | ![GSharpGacrian](ModeGSharpGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpGacrian.mid?raw=true) |
+| [Ab](ModeAFlatGacrian.md) | Ab, **B**, **C##**, **D#**, E, **F**, G, Ab | C | ![AFlatGacrian](ModeAFlatGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatGacrian.mid?raw=true) |
+| [A](ModeANaturalGacrian.md) | A, **B#**, **C###**, **D##**, E#, **F#**, G#, A | C | ![ANaturalGacrian](ModeANaturalGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalGacrian.mid?raw=true) |
+| [A#](ModeASharpGacrian.md) | A#, **B##**, **D##**, **E#**, F#, **G**, A, A# | C | ![ASharpGacrian](ModeASharpGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpGacrian.mid?raw=true) |
+| [Bb](ModeBFlatGacrian.md) | Bb, **C#**, **D##**, **E#**, F#, **G**, A, Bb | C | ![BFlatGacrian](ModeBFlatGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatGacrian.mid?raw=true) |
+| [B](ModeBNaturalGacrian.md) | B, **C##**, **D###**, **E##**, F##, **G#**, A#, B | C | ![BNaturalGacrian](ModeBNaturalGacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalGacrian.mid?raw=true) |

@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalByrian.md) | **C**, **Db**, **Eb**, F, Gb, **A**, B, **C** | C | ![CNaturalByrian](ModeCNaturalByrian.png) | [midi](ModeCNaturalByrian.mid) [ogg](ModeCNaturalByrian.ogg) |
-| [C#](ModeCSharpByrian.md) | **C#**, **D**, **E**, F#, G, **A#**, B#, **C#** | C | ![CSharpByrian](ModeCSharpByrian.png) | [midi](ModeCSharpByrian.mid) [ogg](ModeCSharpByrian.ogg) |
-| [Db](ModeDFlatByrian.md) | **Db**, **Ebb**, **Fb**, Gb, Abb, **Bb**, C, **Db** | C | ![DFlatByrian](ModeDFlatByrian.png) | [midi](ModeDFlatByrian.mid) [ogg](ModeDFlatByrian.ogg) |
-| [D](ModeDNaturalByrian.md) | **D**, **Eb**, **F**, G, Ab, **B**, C#, **D** | C | ![DNaturalByrian](ModeDNaturalByrian.png) | [midi](ModeDNaturalByrian.mid) [ogg](ModeDNaturalByrian.ogg) |
-| [D#](ModeDSharpByrian.md) | **D#**, **E**, **F#**, G#, A, **B#**, C##, **D#** | C | ![DSharpByrian](ModeDSharpByrian.png) | [midi](ModeDSharpByrian.mid) [ogg](ModeDSharpByrian.ogg) |
-| [Eb](ModeEFlatByrian.md) | **Eb**, **Fb**, **Gb**, Ab, Bbb, **C**, D, **Eb** | C | ![EFlatByrian](ModeEFlatByrian.png) | [midi](ModeEFlatByrian.mid) [ogg](ModeEFlatByrian.ogg) |
-| [E](ModeENaturalByrian.md) | **E**, **F**, **G**, A, Bb, **C#**, D#, **E** | C | ![ENaturalByrian](ModeENaturalByrian.png) | [midi](ModeENaturalByrian.mid) [ogg](ModeENaturalByrian.ogg) |
-| [F](ModeFNaturalByrian.md) | **F**, **Gb**, **Ab**, Bb, Cb, **D**, E, **F** | C | ![FNaturalByrian](ModeFNaturalByrian.png) | [midi](ModeFNaturalByrian.mid) [ogg](ModeFNaturalByrian.ogg) |
-| [F#](ModeFSharpByrian.md) | **F#**, **G**, **A**, B, C, **D#**, E#, **F#** | C | ![FSharpByrian](ModeFSharpByrian.png) | [midi](ModeFSharpByrian.mid) [ogg](ModeFSharpByrian.ogg) |
-| [Gb](ModeGFlatByrian.md) | **Gb**, **Abb**, **Bbb**, Cb, Dbb, **Eb**, F, **Gb** | C | ![GFlatByrian](ModeGFlatByrian.png) | [midi](ModeGFlatByrian.mid) [ogg](ModeGFlatByrian.ogg) |
-| [G](ModeGNaturalByrian.md) | **G**, **Ab**, **Bb**, C, Db, **E**, F#, **G** | C | ![GNaturalByrian](ModeGNaturalByrian.png) | [midi](ModeGNaturalByrian.mid) [ogg](ModeGNaturalByrian.ogg) |
-| [G#](ModeGSharpByrian.md) | **G#**, **A**, **B**, C#, D, **E#**, F##, **G#** | C | ![GSharpByrian](ModeGSharpByrian.png) | [midi](ModeGSharpByrian.mid) [ogg](ModeGSharpByrian.ogg) |
-| [Ab](ModeAFlatByrian.md) | **Ab**, **Bbb**, **Cb**, Db, Ebb, **F**, G, **Ab** | C | ![AFlatByrian](ModeAFlatByrian.png) | [midi](ModeAFlatByrian.mid) [ogg](ModeAFlatByrian.ogg) |
-| [A](ModeANaturalByrian.md) | **A**, **Bb**, **C**, D, Eb, **F#**, G#, **A** | C | ![ANaturalByrian](ModeANaturalByrian.png) | [midi](ModeANaturalByrian.mid) [ogg](ModeANaturalByrian.ogg) |
-| [A#](ModeASharpByrian.md) | **A#**, **B**, **C#**, D#, E, **F##**, G##, **A#** | C | ![ASharpByrian](ModeASharpByrian.png) | [midi](ModeASharpByrian.mid) [ogg](ModeASharpByrian.ogg) |
-| [Bb](ModeBFlatByrian.md) | **Bb**, **Cb**, **Db**, Eb, Fb, **G**, A, **Bb** | C | ![BFlatByrian](ModeBFlatByrian.png) | [midi](ModeBFlatByrian.mid) [ogg](ModeBFlatByrian.ogg) |
-| [B](ModeBNaturalByrian.md) | **B**, **C**, **D**, E, F, **G#**, A#, **B** | C | ![BNaturalByrian](ModeBNaturalByrian.png) | [midi](ModeBNaturalByrian.mid) [ogg](ModeBNaturalByrian.ogg) |
+| [C](ModeCNaturalByrian.md) | **C**, **Db**, **Eb**, F, Gb, **A**, B, **C** | C | ![CNaturalByrian](ModeCNaturalByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalByrian.mid?raw=true) |
+| [C#](ModeCSharpByrian.md) | **C#**, **D**, **E**, F#, G, **A#**, B#, **C#** | C | ![CSharpByrian](ModeCSharpByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpByrian.mid?raw=true) |
+| [Db](ModeDFlatByrian.md) | **Db**, **Ebb**, **Fb**, Gb, Abb, **Bb**, C, **Db** | C | ![DFlatByrian](ModeDFlatByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatByrian.mid?raw=true) |
+| [D](ModeDNaturalByrian.md) | **D**, **Eb**, **F**, G, Ab, **B**, C#, **D** | C | ![DNaturalByrian](ModeDNaturalByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalByrian.mid?raw=true) |
+| [D#](ModeDSharpByrian.md) | **D#**, **E**, **F#**, G#, A, **B#**, C##, **D#** | C | ![DSharpByrian](ModeDSharpByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpByrian.mid?raw=true) |
+| [Eb](ModeEFlatByrian.md) | **Eb**, **Fb**, **Gb**, Ab, Bbb, **C**, D, **Eb** | C | ![EFlatByrian](ModeEFlatByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatByrian.mid?raw=true) |
+| [E](ModeENaturalByrian.md) | **E**, **F**, **G**, A, Bb, **C#**, D#, **E** | C | ![ENaturalByrian](ModeENaturalByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalByrian.mid?raw=true) |
+| [F](ModeFNaturalByrian.md) | **F**, **Gb**, **Ab**, Bb, Cb, **D**, E, **F** | C | ![FNaturalByrian](ModeFNaturalByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalByrian.mid?raw=true) |
+| [F#](ModeFSharpByrian.md) | **F#**, **G**, **A**, B, C, **D#**, E#, **F#** | C | ![FSharpByrian](ModeFSharpByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpByrian.mid?raw=true) |
+| [Gb](ModeGFlatByrian.md) | **Gb**, **Abb**, **Bbb**, Cb, Dbb, **Eb**, F, **Gb** | C | ![GFlatByrian](ModeGFlatByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatByrian.mid?raw=true) |
+| [G](ModeGNaturalByrian.md) | **G**, **Ab**, **Bb**, C, Db, **E**, F#, **G** | C | ![GNaturalByrian](ModeGNaturalByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalByrian.mid?raw=true) |
+| [G#](ModeGSharpByrian.md) | **G#**, **A**, **B**, C#, D, **E#**, F##, **G#** | C | ![GSharpByrian](ModeGSharpByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpByrian.mid?raw=true) |
+| [Ab](ModeAFlatByrian.md) | **Ab**, **Bbb**, **Cb**, Db, Ebb, **F**, G, **Ab** | C | ![AFlatByrian](ModeAFlatByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatByrian.mid?raw=true) |
+| [A](ModeANaturalByrian.md) | **A**, **Bb**, **C**, D, Eb, **F#**, G#, **A** | C | ![ANaturalByrian](ModeANaturalByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalByrian.mid?raw=true) |
+| [A#](ModeASharpByrian.md) | **A#**, **B**, **C#**, D#, E, **F##**, G##, **A#** | C | ![ASharpByrian](ModeASharpByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpByrian.mid?raw=true) |
+| [Bb](ModeBFlatByrian.md) | **Bb**, **Cb**, **Db**, Eb, Fb, **G**, A, **Bb** | C | ![BFlatByrian](ModeBFlatByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatByrian.mid?raw=true) |
+| [B](ModeBNaturalByrian.md) | **B**, **C**, **D**, E, F, **G#**, A#, **B** | C | ![BNaturalByrian](ModeBNaturalByrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalByrian.mid?raw=true) |

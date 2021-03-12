@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalLocryllic.md) | **C**, D#, E, F, G#, A, A#, **B**, **C** | C | ![CNaturalLocryllic](ModeCNaturalLocryllic.png) | [midi](ModeCNaturalLocryllic.mid) [ogg](ModeCNaturalLocryllic.ogg) |
-| [C#](ModeCSharpLocryllic.md) | **C#**, E, F, F#, A, A#, B, **C**, **C#** | C | ![CSharpLocryllic](ModeCSharpLocryllic.png) | [midi](ModeCSharpLocryllic.mid) [ogg](ModeCSharpLocryllic.ogg) |
-| [Db](ModeDFlatLocryllic.md) | **Db**, E, F, Gb, A, Bb, B, **C**, **Db** | C | ![DFlatLocryllic](ModeDFlatLocryllic.png) | [midi](ModeDFlatLocryllic.mid) [ogg](ModeDFlatLocryllic.ogg) |
-| [D](ModeDNaturalLocryllic.md) | **D**, F, F#, G, A#, B, C, **C#**, **D** | C | ![DNaturalLocryllic](ModeDNaturalLocryllic.png) | [midi](ModeDNaturalLocryllic.mid) [ogg](ModeDNaturalLocryllic.ogg) |
-| [D#](ModeDSharpLocryllic.md) | **D#**, F#, G, G#, B, C, C#, **D**, **D#** | C | ![DSharpLocryllic](ModeDSharpLocryllic.png) | [midi](ModeDSharpLocryllic.mid) [ogg](ModeDSharpLocryllic.ogg) |
-| [Eb](ModeEFlatLocryllic.md) | **Eb**, Gb, G, Ab, B, C, Db, **D**, **Eb** | C | ![EFlatLocryllic](ModeEFlatLocryllic.png) | [midi](ModeEFlatLocryllic.mid) [ogg](ModeEFlatLocryllic.ogg) |
-| [E](ModeENaturalLocryllic.md) | **E**, G, G#, A, C, C#, D, **D#**, **E** | C | ![ENaturalLocryllic](ModeENaturalLocryllic.png) | [midi](ModeENaturalLocryllic.mid) [ogg](ModeENaturalLocryllic.ogg) |
-| [F](ModeFNaturalLocryllic.md) | **F**, G#, A, A#, C#, D, D#, **E**, **F** | C | ![FNaturalLocryllic](ModeFNaturalLocryllic.png) | [midi](ModeFNaturalLocryllic.mid) [ogg](ModeFNaturalLocryllic.ogg) |
-| [F#](ModeFSharpLocryllic.md) | **F#**, A, A#, B, D, D#, E, **F**, **F#** | C | ![FSharpLocryllic](ModeFSharpLocryllic.png) | [midi](ModeFSharpLocryllic.mid) [ogg](ModeFSharpLocryllic.ogg) |
-| [Gb](ModeGFlatLocryllic.md) | **Gb**, A, Bb, B, D, Eb, E, **F**, **Gb** | C | ![GFlatLocryllic](ModeGFlatLocryllic.png) | [midi](ModeGFlatLocryllic.mid) [ogg](ModeGFlatLocryllic.ogg) |
-| [G](ModeGNaturalLocryllic.md) | **G**, A#, B, C, D#, E, F, **F#**, **G** | C | ![GNaturalLocryllic](ModeGNaturalLocryllic.png) | [midi](ModeGNaturalLocryllic.mid) [ogg](ModeGNaturalLocryllic.ogg) |
-| [G#](ModeGSharpLocryllic.md) | **G#**, B, C, C#, E, F, F#, **G**, **G#** | C | ![GSharpLocryllic](ModeGSharpLocryllic.png) | [midi](ModeGSharpLocryllic.mid) [ogg](ModeGSharpLocryllic.ogg) |
-| [Ab](ModeAFlatLocryllic.md) | **Ab**, B, C, Db, E, F, Gb, **G**, **Ab** | C | ![AFlatLocryllic](ModeAFlatLocryllic.png) | [midi](ModeAFlatLocryllic.mid) [ogg](ModeAFlatLocryllic.ogg) |
-| [A](ModeANaturalLocryllic.md) | **A**, C, C#, D, F, F#, G, **G#**, **A** | C | ![ANaturalLocryllic](ModeANaturalLocryllic.png) | [midi](ModeANaturalLocryllic.mid) [ogg](ModeANaturalLocryllic.ogg) |
-| [A#](ModeASharpLocryllic.md) | **A#**, C#, D, D#, F#, G, G#, **A**, **A#** | C | ![ASharpLocryllic](ModeASharpLocryllic.png) | [midi](ModeASharpLocryllic.mid) [ogg](ModeASharpLocryllic.ogg) |
-| [Bb](ModeBFlatLocryllic.md) | **Bb**, Db, D, Eb, Gb, G, Ab, **A**, **Bb** | C | ![BFlatLocryllic](ModeBFlatLocryllic.png) | [midi](ModeBFlatLocryllic.mid) [ogg](ModeBFlatLocryllic.ogg) |
-| [B](ModeBNaturalLocryllic.md) | **B**, D, D#, E, G, G#, A, **A#**, **B** | C | ![BNaturalLocryllic](ModeBNaturalLocryllic.png) | [midi](ModeBNaturalLocryllic.mid) [ogg](ModeBNaturalLocryllic.ogg) |
+| [C](ModeCNaturalLocryllic.md) | **C**, D#, E, F, G#, A, A#, **B**, **C** | C | ![CNaturalLocryllic](ModeCNaturalLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalLocryllic.mid?raw=true) |
+| [C#](ModeCSharpLocryllic.md) | **C#**, E, F, F#, A, A#, B, **C**, **C#** | C | ![CSharpLocryllic](ModeCSharpLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpLocryllic.mid?raw=true) |
+| [Db](ModeDFlatLocryllic.md) | **Db**, E, F, Gb, A, Bb, B, **C**, **Db** | C | ![DFlatLocryllic](ModeDFlatLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatLocryllic.mid?raw=true) |
+| [D](ModeDNaturalLocryllic.md) | **D**, F, F#, G, A#, B, C, **C#**, **D** | C | ![DNaturalLocryllic](ModeDNaturalLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalLocryllic.mid?raw=true) |
+| [D#](ModeDSharpLocryllic.md) | **D#**, F#, G, G#, B, C, C#, **D**, **D#** | C | ![DSharpLocryllic](ModeDSharpLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpLocryllic.mid?raw=true) |
+| [Eb](ModeEFlatLocryllic.md) | **Eb**, Gb, G, Ab, B, C, Db, **D**, **Eb** | C | ![EFlatLocryllic](ModeEFlatLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatLocryllic.mid?raw=true) |
+| [E](ModeENaturalLocryllic.md) | **E**, G, G#, A, C, C#, D, **D#**, **E** | C | ![ENaturalLocryllic](ModeENaturalLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalLocryllic.mid?raw=true) |
+| [F](ModeFNaturalLocryllic.md) | **F**, G#, A, A#, C#, D, D#, **E**, **F** | C | ![FNaturalLocryllic](ModeFNaturalLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalLocryllic.mid?raw=true) |
+| [F#](ModeFSharpLocryllic.md) | **F#**, A, A#, B, D, D#, E, **F**, **F#** | C | ![FSharpLocryllic](ModeFSharpLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpLocryllic.mid?raw=true) |
+| [Gb](ModeGFlatLocryllic.md) | **Gb**, A, Bb, B, D, Eb, E, **F**, **Gb** | C | ![GFlatLocryllic](ModeGFlatLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatLocryllic.mid?raw=true) |
+| [G](ModeGNaturalLocryllic.md) | **G**, A#, B, C, D#, E, F, **F#**, **G** | C | ![GNaturalLocryllic](ModeGNaturalLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalLocryllic.mid?raw=true) |
+| [G#](ModeGSharpLocryllic.md) | **G#**, B, C, C#, E, F, F#, **G**, **G#** | C | ![GSharpLocryllic](ModeGSharpLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpLocryllic.mid?raw=true) |
+| [Ab](ModeAFlatLocryllic.md) | **Ab**, B, C, Db, E, F, Gb, **G**, **Ab** | C | ![AFlatLocryllic](ModeAFlatLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatLocryllic.mid?raw=true) |
+| [A](ModeANaturalLocryllic.md) | **A**, C, C#, D, F, F#, G, **G#**, **A** | C | ![ANaturalLocryllic](ModeANaturalLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalLocryllic.mid?raw=true) |
+| [A#](ModeASharpLocryllic.md) | **A#**, C#, D, D#, F#, G, G#, **A**, **A#** | C | ![ASharpLocryllic](ModeASharpLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpLocryllic.mid?raw=true) |
+| [Bb](ModeBFlatLocryllic.md) | **Bb**, Db, D, Eb, Gb, G, Ab, **A**, **Bb** | C | ![BFlatLocryllic](ModeBFlatLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatLocryllic.mid?raw=true) |
+| [B](ModeBNaturalLocryllic.md) | **B**, D, D#, E, G, G#, A, **A#**, **B** | C | ![BNaturalLocryllic](ModeBNaturalLocryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalLocryllic.mid?raw=true) |

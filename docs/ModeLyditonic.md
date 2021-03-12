@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalLyditonic.md) | C, D#, **F#**, **G**, **A#**, C | C | ![CNaturalLyditonic](ModeCNaturalLyditonic.png) | [midi](ModeCNaturalLyditonic.mid) [ogg](ModeCNaturalLyditonic.ogg) |
-| [C#](ModeCSharpLyditonic.md) | C#, E, **G**, **G#**, **B**, C# | C | ![CSharpLyditonic](ModeCSharpLyditonic.png) | [midi](ModeCSharpLyditonic.mid) [ogg](ModeCSharpLyditonic.ogg) |
-| [Db](ModeDFlatLyditonic.md) | Db, E, **G**, **Ab**, **B**, Db | C | ![DFlatLyditonic](ModeDFlatLyditonic.png) | [midi](ModeDFlatLyditonic.mid) [ogg](ModeDFlatLyditonic.ogg) |
-| [D](ModeDNaturalLyditonic.md) | D, F, **G#**, **A**, **C**, D | C | ![DNaturalLyditonic](ModeDNaturalLyditonic.png) | [midi](ModeDNaturalLyditonic.mid) [ogg](ModeDNaturalLyditonic.ogg) |
-| [D#](ModeDSharpLyditonic.md) | D#, F#, **A**, **A#**, **C#**, D# | C | ![DSharpLyditonic](ModeDSharpLyditonic.png) | [midi](ModeDSharpLyditonic.mid) [ogg](ModeDSharpLyditonic.ogg) |
-| [Eb](ModeEFlatLyditonic.md) | Eb, Gb, **A**, **Bb**, **Db**, Eb | C | ![EFlatLyditonic](ModeEFlatLyditonic.png) | [midi](ModeEFlatLyditonic.mid) [ogg](ModeEFlatLyditonic.ogg) |
-| [E](ModeENaturalLyditonic.md) | E, G, **A#**, **B**, **D**, E | C | ![ENaturalLyditonic](ModeENaturalLyditonic.png) | [midi](ModeENaturalLyditonic.mid) [ogg](ModeENaturalLyditonic.ogg) |
-| [F](ModeFNaturalLyditonic.md) | F, G#, **B**, **C**, **D#**, F | C | ![FNaturalLyditonic](ModeFNaturalLyditonic.png) | [midi](ModeFNaturalLyditonic.mid) [ogg](ModeFNaturalLyditonic.ogg) |
-| [F#](ModeFSharpLyditonic.md) | F#, A, **C**, **C#**, **E**, F# | C | ![FSharpLyditonic](ModeFSharpLyditonic.png) | [midi](ModeFSharpLyditonic.mid) [ogg](ModeFSharpLyditonic.ogg) |
-| [Gb](ModeGFlatLyditonic.md) | Gb, A, **C**, **Db**, **E**, Gb | C | ![GFlatLyditonic](ModeGFlatLyditonic.png) | [midi](ModeGFlatLyditonic.mid) [ogg](ModeGFlatLyditonic.ogg) |
-| [G](ModeGNaturalLyditonic.md) | G, A#, **C#**, **D**, **F**, G | C | ![GNaturalLyditonic](ModeGNaturalLyditonic.png) | [midi](ModeGNaturalLyditonic.mid) [ogg](ModeGNaturalLyditonic.ogg) |
-| [G#](ModeGSharpLyditonic.md) | G#, B, **D**, **D#**, **F#**, G# | C | ![GSharpLyditonic](ModeGSharpLyditonic.png) | [midi](ModeGSharpLyditonic.mid) [ogg](ModeGSharpLyditonic.ogg) |
-| [Ab](ModeAFlatLyditonic.md) | Ab, B, **D**, **Eb**, **Gb**, Ab | C | ![AFlatLyditonic](ModeAFlatLyditonic.png) | [midi](ModeAFlatLyditonic.mid) [ogg](ModeAFlatLyditonic.ogg) |
-| [A](ModeANaturalLyditonic.md) | A, C, **D#**, **E**, **G**, A | C | ![ANaturalLyditonic](ModeANaturalLyditonic.png) | [midi](ModeANaturalLyditonic.mid) [ogg](ModeANaturalLyditonic.ogg) |
-| [A#](ModeASharpLyditonic.md) | A#, C#, **E**, **F**, **G#**, A# | C | ![ASharpLyditonic](ModeASharpLyditonic.png) | [midi](ModeASharpLyditonic.mid) [ogg](ModeASharpLyditonic.ogg) |
-| [Bb](ModeBFlatLyditonic.md) | Bb, Db, **E**, **F**, **Ab**, Bb | C | ![BFlatLyditonic](ModeBFlatLyditonic.png) | [midi](ModeBFlatLyditonic.mid) [ogg](ModeBFlatLyditonic.ogg) |
-| [B](ModeBNaturalLyditonic.md) | B, D, **F**, **F#**, **A**, B | C | ![BNaturalLyditonic](ModeBNaturalLyditonic.png) | [midi](ModeBNaturalLyditonic.mid) [ogg](ModeBNaturalLyditonic.ogg) |
+| [C](ModeCNaturalLyditonic.md) | C, D#, **F#**, **G**, **A#**, C | C | ![CNaturalLyditonic](ModeCNaturalLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalLyditonic.mid?raw=true) |
+| [C#](ModeCSharpLyditonic.md) | C#, E, **G**, **G#**, **B**, C# | C | ![CSharpLyditonic](ModeCSharpLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpLyditonic.mid?raw=true) |
+| [Db](ModeDFlatLyditonic.md) | Db, E, **G**, **Ab**, **B**, Db | C | ![DFlatLyditonic](ModeDFlatLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatLyditonic.mid?raw=true) |
+| [D](ModeDNaturalLyditonic.md) | D, F, **G#**, **A**, **C**, D | C | ![DNaturalLyditonic](ModeDNaturalLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalLyditonic.mid?raw=true) |
+| [D#](ModeDSharpLyditonic.md) | D#, F#, **A**, **A#**, **C#**, D# | C | ![DSharpLyditonic](ModeDSharpLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpLyditonic.mid?raw=true) |
+| [Eb](ModeEFlatLyditonic.md) | Eb, Gb, **A**, **Bb**, **Db**, Eb | C | ![EFlatLyditonic](ModeEFlatLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatLyditonic.mid?raw=true) |
+| [E](ModeENaturalLyditonic.md) | E, G, **A#**, **B**, **D**, E | C | ![ENaturalLyditonic](ModeENaturalLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalLyditonic.mid?raw=true) |
+| [F](ModeFNaturalLyditonic.md) | F, G#, **B**, **C**, **D#**, F | C | ![FNaturalLyditonic](ModeFNaturalLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalLyditonic.mid?raw=true) |
+| [F#](ModeFSharpLyditonic.md) | F#, A, **C**, **C#**, **E**, F# | C | ![FSharpLyditonic](ModeFSharpLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpLyditonic.mid?raw=true) |
+| [Gb](ModeGFlatLyditonic.md) | Gb, A, **C**, **Db**, **E**, Gb | C | ![GFlatLyditonic](ModeGFlatLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatLyditonic.mid?raw=true) |
+| [G](ModeGNaturalLyditonic.md) | G, A#, **C#**, **D**, **F**, G | C | ![GNaturalLyditonic](ModeGNaturalLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalLyditonic.mid?raw=true) |
+| [G#](ModeGSharpLyditonic.md) | G#, B, **D**, **D#**, **F#**, G# | C | ![GSharpLyditonic](ModeGSharpLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpLyditonic.mid?raw=true) |
+| [Ab](ModeAFlatLyditonic.md) | Ab, B, **D**, **Eb**, **Gb**, Ab | C | ![AFlatLyditonic](ModeAFlatLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatLyditonic.mid?raw=true) |
+| [A](ModeANaturalLyditonic.md) | A, C, **D#**, **E**, **G**, A | C | ![ANaturalLyditonic](ModeANaturalLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalLyditonic.mid?raw=true) |
+| [A#](ModeASharpLyditonic.md) | A#, C#, **E**, **F**, **G#**, A# | C | ![ASharpLyditonic](ModeASharpLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpLyditonic.mid?raw=true) |
+| [Bb](ModeBFlatLyditonic.md) | Bb, Db, **E**, **F**, **Ab**, Bb | C | ![BFlatLyditonic](ModeBFlatLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatLyditonic.mid?raw=true) |
+| [B](ModeBNaturalLyditonic.md) | B, D, **F**, **F#**, **A**, B | C | ![BNaturalLyditonic](ModeBNaturalLyditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalLyditonic.mid?raw=true) |

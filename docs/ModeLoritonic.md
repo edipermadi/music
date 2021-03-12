@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalLoritonic.md) | **C**, C#, F, **G#**, **A**, **C** | C | ![CNaturalLoritonic](ModeCNaturalLoritonic.png) | [midi](ModeCNaturalLoritonic.mid) [ogg](ModeCNaturalLoritonic.ogg) |
-| [C#](ModeCSharpLoritonic.md) | **C#**, D, F#, **A**, **A#**, **C#** | C | ![CSharpLoritonic](ModeCSharpLoritonic.png) | [midi](ModeCSharpLoritonic.mid) [ogg](ModeCSharpLoritonic.ogg) |
-| [Db](ModeDFlatLoritonic.md) | **Db**, D, Gb, **A**, **Bb**, **Db** | C | ![DFlatLoritonic](ModeDFlatLoritonic.png) | [midi](ModeDFlatLoritonic.mid) [ogg](ModeDFlatLoritonic.ogg) |
-| [D](ModeDNaturalLoritonic.md) | **D**, D#, G, **A#**, **B**, **D** | C | ![DNaturalLoritonic](ModeDNaturalLoritonic.png) | [midi](ModeDNaturalLoritonic.mid) [ogg](ModeDNaturalLoritonic.ogg) |
-| [D#](ModeDSharpLoritonic.md) | **D#**, E, G#, **B**, **C**, **D#** | C | ![DSharpLoritonic](ModeDSharpLoritonic.png) | [midi](ModeDSharpLoritonic.mid) [ogg](ModeDSharpLoritonic.ogg) |
-| [Eb](ModeEFlatLoritonic.md) | **Eb**, E, Ab, **B**, **C**, **Eb** | C | ![EFlatLoritonic](ModeEFlatLoritonic.png) | [midi](ModeEFlatLoritonic.mid) [ogg](ModeEFlatLoritonic.ogg) |
-| [E](ModeENaturalLoritonic.md) | **E**, F, A, **C**, **C#**, **E** | C | ![ENaturalLoritonic](ModeENaturalLoritonic.png) | [midi](ModeENaturalLoritonic.mid) [ogg](ModeENaturalLoritonic.ogg) |
-| [F](ModeFNaturalLoritonic.md) | **F**, F#, A#, **C#**, **D**, **F** | C | ![FNaturalLoritonic](ModeFNaturalLoritonic.png) | [midi](ModeFNaturalLoritonic.mid) [ogg](ModeFNaturalLoritonic.ogg) |
-| [F#](ModeFSharpLoritonic.md) | **F#**, G, B, **D**, **D#**, **F#** | C | ![FSharpLoritonic](ModeFSharpLoritonic.png) | [midi](ModeFSharpLoritonic.mid) [ogg](ModeFSharpLoritonic.ogg) |
-| [Gb](ModeGFlatLoritonic.md) | **Gb**, G, B, **D**, **Eb**, **Gb** | C | ![GFlatLoritonic](ModeGFlatLoritonic.png) | [midi](ModeGFlatLoritonic.mid) [ogg](ModeGFlatLoritonic.ogg) |
-| [G](ModeGNaturalLoritonic.md) | **G**, G#, C, **D#**, **E**, **G** | C | ![GNaturalLoritonic](ModeGNaturalLoritonic.png) | [midi](ModeGNaturalLoritonic.mid) [ogg](ModeGNaturalLoritonic.ogg) |
-| [G#](ModeGSharpLoritonic.md) | **G#**, A, C#, **E**, **F**, **G#** | C | ![GSharpLoritonic](ModeGSharpLoritonic.png) | [midi](ModeGSharpLoritonic.mid) [ogg](ModeGSharpLoritonic.ogg) |
-| [Ab](ModeAFlatLoritonic.md) | **Ab**, A, Db, **E**, **F**, **Ab** | C | ![AFlatLoritonic](ModeAFlatLoritonic.png) | [midi](ModeAFlatLoritonic.mid) [ogg](ModeAFlatLoritonic.ogg) |
-| [A](ModeANaturalLoritonic.md) | **A**, A#, D, **F**, **F#**, **A** | C | ![ANaturalLoritonic](ModeANaturalLoritonic.png) | [midi](ModeANaturalLoritonic.mid) [ogg](ModeANaturalLoritonic.ogg) |
-| [A#](ModeASharpLoritonic.md) | **A#**, B, D#, **F#**, **G**, **A#** | C | ![ASharpLoritonic](ModeASharpLoritonic.png) | [midi](ModeASharpLoritonic.mid) [ogg](ModeASharpLoritonic.ogg) |
-| [Bb](ModeBFlatLoritonic.md) | **Bb**, B, Eb, **Gb**, **G**, **Bb** | C | ![BFlatLoritonic](ModeBFlatLoritonic.png) | [midi](ModeBFlatLoritonic.mid) [ogg](ModeBFlatLoritonic.ogg) |
-| [B](ModeBNaturalLoritonic.md) | **B**, C, E, **G**, **G#**, **B** | C | ![BNaturalLoritonic](ModeBNaturalLoritonic.png) | [midi](ModeBNaturalLoritonic.mid) [ogg](ModeBNaturalLoritonic.ogg) |
+| [C](ModeCNaturalLoritonic.md) | **C**, C#, F, **G#**, **A**, **C** | C | ![CNaturalLoritonic](ModeCNaturalLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalLoritonic.mid?raw=true) |
+| [C#](ModeCSharpLoritonic.md) | **C#**, D, F#, **A**, **A#**, **C#** | C | ![CSharpLoritonic](ModeCSharpLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpLoritonic.mid?raw=true) |
+| [Db](ModeDFlatLoritonic.md) | **Db**, D, Gb, **A**, **Bb**, **Db** | C | ![DFlatLoritonic](ModeDFlatLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatLoritonic.mid?raw=true) |
+| [D](ModeDNaturalLoritonic.md) | **D**, D#, G, **A#**, **B**, **D** | C | ![DNaturalLoritonic](ModeDNaturalLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalLoritonic.mid?raw=true) |
+| [D#](ModeDSharpLoritonic.md) | **D#**, E, G#, **B**, **C**, **D#** | C | ![DSharpLoritonic](ModeDSharpLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpLoritonic.mid?raw=true) |
+| [Eb](ModeEFlatLoritonic.md) | **Eb**, E, Ab, **B**, **C**, **Eb** | C | ![EFlatLoritonic](ModeEFlatLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatLoritonic.mid?raw=true) |
+| [E](ModeENaturalLoritonic.md) | **E**, F, A, **C**, **C#**, **E** | C | ![ENaturalLoritonic](ModeENaturalLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalLoritonic.mid?raw=true) |
+| [F](ModeFNaturalLoritonic.md) | **F**, F#, A#, **C#**, **D**, **F** | C | ![FNaturalLoritonic](ModeFNaturalLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalLoritonic.mid?raw=true) |
+| [F#](ModeFSharpLoritonic.md) | **F#**, G, B, **D**, **D#**, **F#** | C | ![FSharpLoritonic](ModeFSharpLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpLoritonic.mid?raw=true) |
+| [Gb](ModeGFlatLoritonic.md) | **Gb**, G, B, **D**, **Eb**, **Gb** | C | ![GFlatLoritonic](ModeGFlatLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatLoritonic.mid?raw=true) |
+| [G](ModeGNaturalLoritonic.md) | **G**, G#, C, **D#**, **E**, **G** | C | ![GNaturalLoritonic](ModeGNaturalLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalLoritonic.mid?raw=true) |
+| [G#](ModeGSharpLoritonic.md) | **G#**, A, C#, **E**, **F**, **G#** | C | ![GSharpLoritonic](ModeGSharpLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpLoritonic.mid?raw=true) |
+| [Ab](ModeAFlatLoritonic.md) | **Ab**, A, Db, **E**, **F**, **Ab** | C | ![AFlatLoritonic](ModeAFlatLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatLoritonic.mid?raw=true) |
+| [A](ModeANaturalLoritonic.md) | **A**, A#, D, **F**, **F#**, **A** | C | ![ANaturalLoritonic](ModeANaturalLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalLoritonic.mid?raw=true) |
+| [A#](ModeASharpLoritonic.md) | **A#**, B, D#, **F#**, **G**, **A#** | C | ![ASharpLoritonic](ModeASharpLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpLoritonic.mid?raw=true) |
+| [Bb](ModeBFlatLoritonic.md) | **Bb**, B, Eb, **Gb**, **G**, **Bb** | C | ![BFlatLoritonic](ModeBFlatLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatLoritonic.mid?raw=true) |
+| [B](ModeBNaturalLoritonic.md) | **B**, C, E, **G**, **G#**, **B** | C | ![BNaturalLoritonic](ModeBNaturalLoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalLoritonic.mid?raw=true) |

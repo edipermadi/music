@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalAerothian.md) | C, **Db**, **Eb**, **Fb**, Gbb, **Abb**, Bbb, C | C | ![CNaturalAerothian](ModeCNaturalAerothian.png) | [midi](ModeCNaturalAerothian.mid) [ogg](ModeCNaturalAerothian.ogg) |
-| [C#](ModeCSharpAerothian.md) | C#, **D**, **E**, **F**, Gb, **Ab**, Bb, C# | C | ![CSharpAerothian](ModeCSharpAerothian.png) | [midi](ModeCSharpAerothian.mid) [ogg](ModeCSharpAerothian.ogg) |
-| [Db](ModeDFlatAerothian.md) | Db, **Ebb**, **Fb**, **Gbb**, Abbb, **Bbbb**, Cbb, Db | C | ![DFlatAerothian](ModeDFlatAerothian.png) | [midi](ModeDFlatAerothian.mid) [ogg](ModeDFlatAerothian.ogg) |
-| [D](ModeDNaturalAerothian.md) | D, **Eb**, **F**, **Gb**, Abb, **Bbb**, Cb, D | C | ![DNaturalAerothian](ModeDNaturalAerothian.png) | [midi](ModeDNaturalAerothian.mid) [ogg](ModeDNaturalAerothian.ogg) |
-| [D#](ModeDSharpAerothian.md) | D#, **E**, **F#**, **G**, Ab, **Bb**, C, D# | C | ![DSharpAerothian](ModeDSharpAerothian.png) | [midi](ModeDSharpAerothian.mid) [ogg](ModeDSharpAerothian.ogg) |
-| [Eb](ModeEFlatAerothian.md) | Eb, **Fb**, **Gb**, **Abb**, Bbbb, **Cbb**, Dbb, Eb | C | ![EFlatAerothian](ModeEFlatAerothian.png) | [midi](ModeEFlatAerothian.mid) [ogg](ModeEFlatAerothian.ogg) |
-| [E](ModeENaturalAerothian.md) | E, **F**, **G**, **Ab**, Bbb, **Cb**, Db, E | C | ![ENaturalAerothian](ModeENaturalAerothian.png) | [midi](ModeENaturalAerothian.mid) [ogg](ModeENaturalAerothian.ogg) |
-| [F](ModeFNaturalAerothian.md) | F, **Gb**, **Ab**, **Bbb**, Cbb, **Dbb**, Ebb, F | C | ![FNaturalAerothian](ModeFNaturalAerothian.png) | [midi](ModeFNaturalAerothian.mid) [ogg](ModeFNaturalAerothian.ogg) |
-| [F#](ModeFSharpAerothian.md) | F#, **G**, **A**, **Bb**, Cb, **Db**, Eb, F# | C | ![FSharpAerothian](ModeFSharpAerothian.png) | [midi](ModeFSharpAerothian.mid) [ogg](ModeFSharpAerothian.ogg) |
-| [Gb](ModeGFlatAerothian.md) | Gb, **Abb**, **Bbb**, **Cbb**, Dbbb, **Ebbb**, Fbb, Gb | C | ![GFlatAerothian](ModeGFlatAerothian.png) | [midi](ModeGFlatAerothian.mid) [ogg](ModeGFlatAerothian.ogg) |
-| [G](ModeGNaturalAerothian.md) | G, **Ab**, **Bb**, **Cb**, Dbb, **Ebb**, Fb, G | C | ![GNaturalAerothian](ModeGNaturalAerothian.png) | [midi](ModeGNaturalAerothian.mid) [ogg](ModeGNaturalAerothian.ogg) |
-| [G#](ModeGSharpAerothian.md) | G#, **A**, **B**, **C**, Db, **Eb**, F, G# | C | ![GSharpAerothian](ModeGSharpAerothian.png) | [midi](ModeGSharpAerothian.mid) [ogg](ModeGSharpAerothian.ogg) |
-| [Ab](ModeAFlatAerothian.md) | Ab, **Bbb**, **Cb**, **Dbb**, Ebbb, **Fbb**, Gbb, Ab | C | ![AFlatAerothian](ModeAFlatAerothian.png) | [midi](ModeAFlatAerothian.mid) [ogg](ModeAFlatAerothian.ogg) |
-| [A](ModeANaturalAerothian.md) | A, **Bb**, **C**, **Db**, Ebb, **Fb**, Gb, A | C | ![ANaturalAerothian](ModeANaturalAerothian.png) | [midi](ModeANaturalAerothian.mid) [ogg](ModeANaturalAerothian.ogg) |
-| [A#](ModeASharpAerothian.md) | A#, **B**, **C#**, **D**, Eb, **F**, G, A# | C | ![ASharpAerothian](ModeASharpAerothian.png) | [midi](ModeASharpAerothian.mid) [ogg](ModeASharpAerothian.ogg) |
-| [Bb](ModeBFlatAerothian.md) | Bb, **Cb**, **Db**, **Ebb**, Fbb, **Gbb**, Abb, Bb | C | ![BFlatAerothian](ModeBFlatAerothian.png) | [midi](ModeBFlatAerothian.mid) [ogg](ModeBFlatAerothian.ogg) |
-| [B](ModeBNaturalAerothian.md) | B, **C**, **D**, **Eb**, Fb, **Gb**, Ab, B | C | ![BNaturalAerothian](ModeBNaturalAerothian.png) | [midi](ModeBNaturalAerothian.mid) [ogg](ModeBNaturalAerothian.ogg) |
+| [C](ModeCNaturalAerothian.md) | C, **Db**, **Eb**, **Fb**, Gbb, **Abb**, Bbb, C | C | ![CNaturalAerothian](ModeCNaturalAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAerothian.mid?raw=true) |
+| [C#](ModeCSharpAerothian.md) | C#, **D**, **E**, **F**, Gb, **Ab**, Bb, C# | C | ![CSharpAerothian](ModeCSharpAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpAerothian.mid?raw=true) |
+| [Db](ModeDFlatAerothian.md) | Db, **Ebb**, **Fb**, **Gbb**, Abbb, **Bbbb**, Cbb, Db | C | ![DFlatAerothian](ModeDFlatAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatAerothian.mid?raw=true) |
+| [D](ModeDNaturalAerothian.md) | D, **Eb**, **F**, **Gb**, Abb, **Bbb**, Cb, D | C | ![DNaturalAerothian](ModeDNaturalAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalAerothian.mid?raw=true) |
+| [D#](ModeDSharpAerothian.md) | D#, **E**, **F#**, **G**, Ab, **Bb**, C, D# | C | ![DSharpAerothian](ModeDSharpAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpAerothian.mid?raw=true) |
+| [Eb](ModeEFlatAerothian.md) | Eb, **Fb**, **Gb**, **Abb**, Bbbb, **Cbb**, Dbb, Eb | C | ![EFlatAerothian](ModeEFlatAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatAerothian.mid?raw=true) |
+| [E](ModeENaturalAerothian.md) | E, **F**, **G**, **Ab**, Bbb, **Cb**, Db, E | C | ![ENaturalAerothian](ModeENaturalAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalAerothian.mid?raw=true) |
+| [F](ModeFNaturalAerothian.md) | F, **Gb**, **Ab**, **Bbb**, Cbb, **Dbb**, Ebb, F | C | ![FNaturalAerothian](ModeFNaturalAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalAerothian.mid?raw=true) |
+| [F#](ModeFSharpAerothian.md) | F#, **G**, **A**, **Bb**, Cb, **Db**, Eb, F# | C | ![FSharpAerothian](ModeFSharpAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpAerothian.mid?raw=true) |
+| [Gb](ModeGFlatAerothian.md) | Gb, **Abb**, **Bbb**, **Cbb**, Dbbb, **Ebbb**, Fbb, Gb | C | ![GFlatAerothian](ModeGFlatAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatAerothian.mid?raw=true) |
+| [G](ModeGNaturalAerothian.md) | G, **Ab**, **Bb**, **Cb**, Dbb, **Ebb**, Fb, G | C | ![GNaturalAerothian](ModeGNaturalAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalAerothian.mid?raw=true) |
+| [G#](ModeGSharpAerothian.md) | G#, **A**, **B**, **C**, Db, **Eb**, F, G# | C | ![GSharpAerothian](ModeGSharpAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpAerothian.mid?raw=true) |
+| [Ab](ModeAFlatAerothian.md) | Ab, **Bbb**, **Cb**, **Dbb**, Ebbb, **Fbb**, Gbb, Ab | C | ![AFlatAerothian](ModeAFlatAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatAerothian.mid?raw=true) |
+| [A](ModeANaturalAerothian.md) | A, **Bb**, **C**, **Db**, Ebb, **Fb**, Gb, A | C | ![ANaturalAerothian](ModeANaturalAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalAerothian.mid?raw=true) |
+| [A#](ModeASharpAerothian.md) | A#, **B**, **C#**, **D**, Eb, **F**, G, A# | C | ![ASharpAerothian](ModeASharpAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpAerothian.mid?raw=true) |
+| [Bb](ModeBFlatAerothian.md) | Bb, **Cb**, **Db**, **Ebb**, Fbb, **Gbb**, Abb, Bb | C | ![BFlatAerothian](ModeBFlatAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatAerothian.mid?raw=true) |
+| [B](ModeBNaturalAerothian.md) | B, **C**, **D**, **Eb**, Fb, **Gb**, Ab, B | C | ![BNaturalAerothian](ModeBNaturalAerothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalAerothian.mid?raw=true) |

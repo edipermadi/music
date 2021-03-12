@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalKyritonic.md) | C, **D#**, **G**, G#, **B**, C | C | ![CNaturalKyritonic](ModeCNaturalKyritonic.png) | [midi](ModeCNaturalKyritonic.mid) [ogg](ModeCNaturalKyritonic.ogg) |
-| [C#](ModeCSharpKyritonic.md) | C#, **E**, **G#**, A, **C**, C# | C | ![CSharpKyritonic](ModeCSharpKyritonic.png) | [midi](ModeCSharpKyritonic.mid) [ogg](ModeCSharpKyritonic.ogg) |
-| [Db](ModeDFlatKyritonic.md) | Db, **E**, **Ab**, A, **C**, Db | C | ![DFlatKyritonic](ModeDFlatKyritonic.png) | [midi](ModeDFlatKyritonic.mid) [ogg](ModeDFlatKyritonic.ogg) |
-| [D](ModeDNaturalKyritonic.md) | D, **F**, **A**, A#, **C#**, D | C | ![DNaturalKyritonic](ModeDNaturalKyritonic.png) | [midi](ModeDNaturalKyritonic.mid) [ogg](ModeDNaturalKyritonic.ogg) |
-| [D#](ModeDSharpKyritonic.md) | D#, **F#**, **A#**, B, **D**, D# | C | ![DSharpKyritonic](ModeDSharpKyritonic.png) | [midi](ModeDSharpKyritonic.mid) [ogg](ModeDSharpKyritonic.ogg) |
-| [Eb](ModeEFlatKyritonic.md) | Eb, **Gb**, **Bb**, B, **D**, Eb | C | ![EFlatKyritonic](ModeEFlatKyritonic.png) | [midi](ModeEFlatKyritonic.mid) [ogg](ModeEFlatKyritonic.ogg) |
-| [E](ModeENaturalKyritonic.md) | E, **G**, **B**, C, **D#**, E | C | ![ENaturalKyritonic](ModeENaturalKyritonic.png) | [midi](ModeENaturalKyritonic.mid) [ogg](ModeENaturalKyritonic.ogg) |
-| [F](ModeFNaturalKyritonic.md) | F, **G#**, **C**, C#, **E**, F | C | ![FNaturalKyritonic](ModeFNaturalKyritonic.png) | [midi](ModeFNaturalKyritonic.mid) [ogg](ModeFNaturalKyritonic.ogg) |
-| [F#](ModeFSharpKyritonic.md) | F#, **A**, **C#**, D, **F**, F# | C | ![FSharpKyritonic](ModeFSharpKyritonic.png) | [midi](ModeFSharpKyritonic.mid) [ogg](ModeFSharpKyritonic.ogg) |
-| [Gb](ModeGFlatKyritonic.md) | Gb, **A**, **Db**, D, **F**, Gb | C | ![GFlatKyritonic](ModeGFlatKyritonic.png) | [midi](ModeGFlatKyritonic.mid) [ogg](ModeGFlatKyritonic.ogg) |
-| [G](ModeGNaturalKyritonic.md) | G, **A#**, **D**, D#, **F#**, G | C | ![GNaturalKyritonic](ModeGNaturalKyritonic.png) | [midi](ModeGNaturalKyritonic.mid) [ogg](ModeGNaturalKyritonic.ogg) |
-| [G#](ModeGSharpKyritonic.md) | G#, **B**, **D#**, E, **G**, G# | C | ![GSharpKyritonic](ModeGSharpKyritonic.png) | [midi](ModeGSharpKyritonic.mid) [ogg](ModeGSharpKyritonic.ogg) |
-| [Ab](ModeAFlatKyritonic.md) | Ab, **B**, **Eb**, E, **G**, Ab | C | ![AFlatKyritonic](ModeAFlatKyritonic.png) | [midi](ModeAFlatKyritonic.mid) [ogg](ModeAFlatKyritonic.ogg) |
-| [A](ModeANaturalKyritonic.md) | A, **C**, **E**, F, **G#**, A | C | ![ANaturalKyritonic](ModeANaturalKyritonic.png) | [midi](ModeANaturalKyritonic.mid) [ogg](ModeANaturalKyritonic.ogg) |
-| [A#](ModeASharpKyritonic.md) | A#, **C#**, **F**, F#, **A**, A# | C | ![ASharpKyritonic](ModeASharpKyritonic.png) | [midi](ModeASharpKyritonic.mid) [ogg](ModeASharpKyritonic.ogg) |
-| [Bb](ModeBFlatKyritonic.md) | Bb, **Db**, **F**, Gb, **A**, Bb | C | ![BFlatKyritonic](ModeBFlatKyritonic.png) | [midi](ModeBFlatKyritonic.mid) [ogg](ModeBFlatKyritonic.ogg) |
-| [B](ModeBNaturalKyritonic.md) | B, **D**, **F#**, G, **A#**, B | C | ![BNaturalKyritonic](ModeBNaturalKyritonic.png) | [midi](ModeBNaturalKyritonic.mid) [ogg](ModeBNaturalKyritonic.ogg) |
+| [C](ModeCNaturalKyritonic.md) | C, **D#**, **G**, G#, **B**, C | C | ![CNaturalKyritonic](ModeCNaturalKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKyritonic.mid?raw=true) |
+| [C#](ModeCSharpKyritonic.md) | C#, **E**, **G#**, A, **C**, C# | C | ![CSharpKyritonic](ModeCSharpKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpKyritonic.mid?raw=true) |
+| [Db](ModeDFlatKyritonic.md) | Db, **E**, **Ab**, A, **C**, Db | C | ![DFlatKyritonic](ModeDFlatKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatKyritonic.mid?raw=true) |
+| [D](ModeDNaturalKyritonic.md) | D, **F**, **A**, A#, **C#**, D | C | ![DNaturalKyritonic](ModeDNaturalKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalKyritonic.mid?raw=true) |
+| [D#](ModeDSharpKyritonic.md) | D#, **F#**, **A#**, B, **D**, D# | C | ![DSharpKyritonic](ModeDSharpKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpKyritonic.mid?raw=true) |
+| [Eb](ModeEFlatKyritonic.md) | Eb, **Gb**, **Bb**, B, **D**, Eb | C | ![EFlatKyritonic](ModeEFlatKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatKyritonic.mid?raw=true) |
+| [E](ModeENaturalKyritonic.md) | E, **G**, **B**, C, **D#**, E | C | ![ENaturalKyritonic](ModeENaturalKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalKyritonic.mid?raw=true) |
+| [F](ModeFNaturalKyritonic.md) | F, **G#**, **C**, C#, **E**, F | C | ![FNaturalKyritonic](ModeFNaturalKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalKyritonic.mid?raw=true) |
+| [F#](ModeFSharpKyritonic.md) | F#, **A**, **C#**, D, **F**, F# | C | ![FSharpKyritonic](ModeFSharpKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpKyritonic.mid?raw=true) |
+| [Gb](ModeGFlatKyritonic.md) | Gb, **A**, **Db**, D, **F**, Gb | C | ![GFlatKyritonic](ModeGFlatKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatKyritonic.mid?raw=true) |
+| [G](ModeGNaturalKyritonic.md) | G, **A#**, **D**, D#, **F#**, G | C | ![GNaturalKyritonic](ModeGNaturalKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalKyritonic.mid?raw=true) |
+| [G#](ModeGSharpKyritonic.md) | G#, **B**, **D#**, E, **G**, G# | C | ![GSharpKyritonic](ModeGSharpKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpKyritonic.mid?raw=true) |
+| [Ab](ModeAFlatKyritonic.md) | Ab, **B**, **Eb**, E, **G**, Ab | C | ![AFlatKyritonic](ModeAFlatKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatKyritonic.mid?raw=true) |
+| [A](ModeANaturalKyritonic.md) | A, **C**, **E**, F, **G#**, A | C | ![ANaturalKyritonic](ModeANaturalKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalKyritonic.mid?raw=true) |
+| [A#](ModeASharpKyritonic.md) | A#, **C#**, **F**, F#, **A**, A# | C | ![ASharpKyritonic](ModeASharpKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpKyritonic.mid?raw=true) |
+| [Bb](ModeBFlatKyritonic.md) | Bb, **Db**, **F**, Gb, **A**, Bb | C | ![BFlatKyritonic](ModeBFlatKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatKyritonic.mid?raw=true) |
+| [B](ModeBNaturalKyritonic.md) | B, **D**, **F#**, G, **A#**, B | C | ![BNaturalKyritonic](ModeBNaturalKyritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalKyritonic.mid?raw=true) |

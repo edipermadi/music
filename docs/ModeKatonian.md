@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalKatonian.md) | C, Db, Eb, **F##**, G#, **A#**, **B**, C | C | ![CNaturalKatonian](ModeCNaturalKatonian.png) | [midi](ModeCNaturalKatonian.mid) [ogg](ModeCNaturalKatonian.ogg) |
-| [C#](ModeCSharpKatonian.md) | C#, D, E, **F###**, G##, **A##**, **B#**, C# | C | ![CSharpKatonian](ModeCSharpKatonian.png) | [midi](ModeCSharpKatonian.mid) [ogg](ModeCSharpKatonian.ogg) |
-| [Db](ModeDFlatKatonian.md) | Db, Ebb, Fb, **G#**, A, **B**, **C**, Db | C | ![DFlatKatonian](ModeDFlatKatonian.png) | [midi](ModeDFlatKatonian.mid) [ogg](ModeDFlatKatonian.ogg) |
-| [D](ModeDNaturalKatonian.md) | D, Eb, F, **G##**, A#, **B#**, **C#**, D | C | ![DNaturalKatonian](ModeDNaturalKatonian.png) | [midi](ModeDNaturalKatonian.mid) [ogg](ModeDNaturalKatonian.ogg) |
-| [D#](ModeDSharpKatonian.md) | D#, E, F#, **G###**, A##, **B##**, **C##**, D# | C | ![DSharpKatonian](ModeDSharpKatonian.png) | [midi](ModeDSharpKatonian.mid) [ogg](ModeDSharpKatonian.ogg) |
-| [Eb](ModeEFlatKatonian.md) | Eb, Fb, Gb, **A#**, B, **C#**, **D**, Eb | C | ![EFlatKatonian](ModeEFlatKatonian.png) | [midi](ModeEFlatKatonian.mid) [ogg](ModeEFlatKatonian.ogg) |
-| [E](ModeENaturalKatonian.md) | E, F, G, **A##**, B#, **C##**, **D#**, E | C | ![ENaturalKatonian](ModeENaturalKatonian.png) | [midi](ModeENaturalKatonian.mid) [ogg](ModeENaturalKatonian.ogg) |
-| [F](ModeFNaturalKatonian.md) | F, Gb, Ab, **B#**, C#, **D#**, **E**, F | C | ![FNaturalKatonian](ModeFNaturalKatonian.png) | [midi](ModeFNaturalKatonian.mid) [ogg](ModeFNaturalKatonian.ogg) |
-| [F#](ModeFSharpKatonian.md) | F#, G, A, **B##**, C##, **D##**, **E#**, F# | C | ![FSharpKatonian](ModeFSharpKatonian.png) | [midi](ModeFSharpKatonian.mid) [ogg](ModeFSharpKatonian.ogg) |
-| [Gb](ModeGFlatKatonian.md) | Gb, Abb, Bbb, **C#**, D, **E**, **F**, Gb | C | ![GFlatKatonian](ModeGFlatKatonian.png) | [midi](ModeGFlatKatonian.mid) [ogg](ModeGFlatKatonian.ogg) |
-| [G](ModeGNaturalKatonian.md) | G, Ab, Bb, **C##**, D#, **E#**, **F#**, G | C | ![GNaturalKatonian](ModeGNaturalKatonian.png) | [midi](ModeGNaturalKatonian.mid) [ogg](ModeGNaturalKatonian.ogg) |
-| [G#](ModeGSharpKatonian.md) | G#, A, B, **C###**, D##, **E##**, **F##**, G# | C | ![GSharpKatonian](ModeGSharpKatonian.png) | [midi](ModeGSharpKatonian.mid) [ogg](ModeGSharpKatonian.ogg) |
-| [Ab](ModeAFlatKatonian.md) | Ab, Bbb, Cb, **D#**, E, **F#**, **G**, Ab | C | ![AFlatKatonian](ModeAFlatKatonian.png) | [midi](ModeAFlatKatonian.mid) [ogg](ModeAFlatKatonian.ogg) |
-| [A](ModeANaturalKatonian.md) | A, Bb, C, **D##**, E#, **F##**, **G#**, A | C | ![ANaturalKatonian](ModeANaturalKatonian.png) | [midi](ModeANaturalKatonian.mid) [ogg](ModeANaturalKatonian.ogg) |
-| [A#](ModeASharpKatonian.md) | A#, B, C#, **D###**, E##, **F###**, **G##**, A# | C | ![ASharpKatonian](ModeASharpKatonian.png) | [midi](ModeASharpKatonian.mid) [ogg](ModeASharpKatonian.ogg) |
-| [Bb](ModeBFlatKatonian.md) | Bb, Cb, Db, **E#**, F#, **G#**, **A**, Bb | C | ![BFlatKatonian](ModeBFlatKatonian.png) | [midi](ModeBFlatKatonian.mid) [ogg](ModeBFlatKatonian.ogg) |
-| [B](ModeBNaturalKatonian.md) | B, C, D, **E##**, F##, **G##**, **A#**, B | C | ![BNaturalKatonian](ModeBNaturalKatonian.png) | [midi](ModeBNaturalKatonian.mid) [ogg](ModeBNaturalKatonian.ogg) |
+| [C](ModeCNaturalKatonian.md) | C, Db, Eb, **F##**, G#, **A#**, **B**, C | C | ![CNaturalKatonian](ModeCNaturalKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKatonian.mid?raw=true) |
+| [C#](ModeCSharpKatonian.md) | C#, D, E, **F###**, G##, **A##**, **B#**, C# | C | ![CSharpKatonian](ModeCSharpKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpKatonian.mid?raw=true) |
+| [Db](ModeDFlatKatonian.md) | Db, Ebb, Fb, **G#**, A, **B**, **C**, Db | C | ![DFlatKatonian](ModeDFlatKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatKatonian.mid?raw=true) |
+| [D](ModeDNaturalKatonian.md) | D, Eb, F, **G##**, A#, **B#**, **C#**, D | C | ![DNaturalKatonian](ModeDNaturalKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalKatonian.mid?raw=true) |
+| [D#](ModeDSharpKatonian.md) | D#, E, F#, **G###**, A##, **B##**, **C##**, D# | C | ![DSharpKatonian](ModeDSharpKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpKatonian.mid?raw=true) |
+| [Eb](ModeEFlatKatonian.md) | Eb, Fb, Gb, **A#**, B, **C#**, **D**, Eb | C | ![EFlatKatonian](ModeEFlatKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatKatonian.mid?raw=true) |
+| [E](ModeENaturalKatonian.md) | E, F, G, **A##**, B#, **C##**, **D#**, E | C | ![ENaturalKatonian](ModeENaturalKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalKatonian.mid?raw=true) |
+| [F](ModeFNaturalKatonian.md) | F, Gb, Ab, **B#**, C#, **D#**, **E**, F | C | ![FNaturalKatonian](ModeFNaturalKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalKatonian.mid?raw=true) |
+| [F#](ModeFSharpKatonian.md) | F#, G, A, **B##**, C##, **D##**, **E#**, F# | C | ![FSharpKatonian](ModeFSharpKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpKatonian.mid?raw=true) |
+| [Gb](ModeGFlatKatonian.md) | Gb, Abb, Bbb, **C#**, D, **E**, **F**, Gb | C | ![GFlatKatonian](ModeGFlatKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatKatonian.mid?raw=true) |
+| [G](ModeGNaturalKatonian.md) | G, Ab, Bb, **C##**, D#, **E#**, **F#**, G | C | ![GNaturalKatonian](ModeGNaturalKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalKatonian.mid?raw=true) |
+| [G#](ModeGSharpKatonian.md) | G#, A, B, **C###**, D##, **E##**, **F##**, G# | C | ![GSharpKatonian](ModeGSharpKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpKatonian.mid?raw=true) |
+| [Ab](ModeAFlatKatonian.md) | Ab, Bbb, Cb, **D#**, E, **F#**, **G**, Ab | C | ![AFlatKatonian](ModeAFlatKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatKatonian.mid?raw=true) |
+| [A](ModeANaturalKatonian.md) | A, Bb, C, **D##**, E#, **F##**, **G#**, A | C | ![ANaturalKatonian](ModeANaturalKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalKatonian.mid?raw=true) |
+| [A#](ModeASharpKatonian.md) | A#, B, C#, **D###**, E##, **F###**, **G##**, A# | C | ![ASharpKatonian](ModeASharpKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpKatonian.mid?raw=true) |
+| [Bb](ModeBFlatKatonian.md) | Bb, Cb, Db, **E#**, F#, **G#**, **A**, Bb | C | ![BFlatKatonian](ModeBFlatKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatKatonian.mid?raw=true) |
+| [B](ModeBNaturalKatonian.md) | B, C, D, **E##**, F##, **G##**, **A#**, B | C | ![BNaturalKatonian](ModeBNaturalKatonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalKatonian.mid?raw=true) |

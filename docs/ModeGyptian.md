@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalGyptian.md) | C, Db, E#, **F##**, **G#**, **A**, **B**, C | C | ![CNaturalGyptian](ModeCNaturalGyptian.png) | [midi](ModeCNaturalGyptian.mid) [ogg](ModeCNaturalGyptian.ogg) |
-| [C#](ModeCSharpGyptian.md) | C#, D, E##, **F###**, **G##**, **A#**, **B#**, C# | C | ![CSharpGyptian](ModeCSharpGyptian.png) | [midi](ModeCSharpGyptian.mid) [ogg](ModeCSharpGyptian.ogg) |
-| [Db](ModeDFlatGyptian.md) | Db, Ebb, F#, **G#**, **A**, **Bb**, **C**, Db | C | ![DFlatGyptian](ModeDFlatGyptian.png) | [midi](ModeDFlatGyptian.mid) [ogg](ModeDFlatGyptian.ogg) |
-| [D](ModeDNaturalGyptian.md) | D, Eb, F##, **G##**, **A#**, **B**, **C#**, D | C | ![DNaturalGyptian](ModeDNaturalGyptian.png) | [midi](ModeDNaturalGyptian.mid) [ogg](ModeDNaturalGyptian.ogg) |
-| [D#](ModeDSharpGyptian.md) | D#, E, F###, **G###**, **A##**, **B#**, **C##**, D# | C | ![DSharpGyptian](ModeDSharpGyptian.png) | [midi](ModeDSharpGyptian.mid) [ogg](ModeDSharpGyptian.ogg) |
-| [Eb](ModeEFlatGyptian.md) | Eb, Fb, G#, **A#**, **B**, **C**, **D**, Eb | C | ![EFlatGyptian](ModeEFlatGyptian.png) | [midi](ModeEFlatGyptian.mid) [ogg](ModeEFlatGyptian.ogg) |
-| [E](ModeENaturalGyptian.md) | E, F, G##, **A##**, **B#**, **C#**, **D#**, E | C | ![ENaturalGyptian](ModeENaturalGyptian.png) | [midi](ModeENaturalGyptian.mid) [ogg](ModeENaturalGyptian.ogg) |
-| [F](ModeFNaturalGyptian.md) | F, Gb, A#, **B#**, **C#**, **D**, **E**, F | C | ![FNaturalGyptian](ModeFNaturalGyptian.png) | [midi](ModeFNaturalGyptian.mid) [ogg](ModeFNaturalGyptian.ogg) |
-| [F#](ModeFSharpGyptian.md) | F#, G, A##, **B##**, **C##**, **D#**, **E#**, F# | C | ![FSharpGyptian](ModeFSharpGyptian.png) | [midi](ModeFSharpGyptian.mid) [ogg](ModeFSharpGyptian.ogg) |
-| [Gb](ModeGFlatGyptian.md) | Gb, Abb, B, **C#**, **D**, **Eb**, **F**, Gb | C | ![GFlatGyptian](ModeGFlatGyptian.png) | [midi](ModeGFlatGyptian.mid) [ogg](ModeGFlatGyptian.ogg) |
-| [G](ModeGNaturalGyptian.md) | G, Ab, B#, **C##**, **D#**, **E**, **F#**, G | C | ![GNaturalGyptian](ModeGNaturalGyptian.png) | [midi](ModeGNaturalGyptian.mid) [ogg](ModeGNaturalGyptian.ogg) |
-| [G#](ModeGSharpGyptian.md) | G#, A, B##, **C###**, **D##**, **E#**, **F##**, G# | C | ![GSharpGyptian](ModeGSharpGyptian.png) | [midi](ModeGSharpGyptian.mid) [ogg](ModeGSharpGyptian.ogg) |
-| [Ab](ModeAFlatGyptian.md) | Ab, Bbb, C#, **D#**, **E**, **F**, **G**, Ab | C | ![AFlatGyptian](ModeAFlatGyptian.png) | [midi](ModeAFlatGyptian.mid) [ogg](ModeAFlatGyptian.ogg) |
-| [A](ModeANaturalGyptian.md) | A, Bb, C##, **D##**, **E#**, **F#**, **G#**, A | C | ![ANaturalGyptian](ModeANaturalGyptian.png) | [midi](ModeANaturalGyptian.mid) [ogg](ModeANaturalGyptian.ogg) |
-| [A#](ModeASharpGyptian.md) | A#, B, C###, **D###**, **E##**, **F##**, **G##**, A# | C | ![ASharpGyptian](ModeASharpGyptian.png) | [midi](ModeASharpGyptian.mid) [ogg](ModeASharpGyptian.ogg) |
-| [Bb](ModeBFlatGyptian.md) | Bb, Cb, D#, **E#**, **F#**, **G**, **A**, Bb | C | ![BFlatGyptian](ModeBFlatGyptian.png) | [midi](ModeBFlatGyptian.mid) [ogg](ModeBFlatGyptian.ogg) |
-| [B](ModeBNaturalGyptian.md) | B, C, D##, **E##**, **F##**, **G#**, **A#**, B | C | ![BNaturalGyptian](ModeBNaturalGyptian.png) | [midi](ModeBNaturalGyptian.mid) [ogg](ModeBNaturalGyptian.ogg) |
+| [C](ModeCNaturalGyptian.md) | C, Db, E#, **F##**, **G#**, **A**, **B**, C | C | ![CNaturalGyptian](ModeCNaturalGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalGyptian.mid?raw=true) |
+| [C#](ModeCSharpGyptian.md) | C#, D, E##, **F###**, **G##**, **A#**, **B#**, C# | C | ![CSharpGyptian](ModeCSharpGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpGyptian.mid?raw=true) |
+| [Db](ModeDFlatGyptian.md) | Db, Ebb, F#, **G#**, **A**, **Bb**, **C**, Db | C | ![DFlatGyptian](ModeDFlatGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatGyptian.mid?raw=true) |
+| [D](ModeDNaturalGyptian.md) | D, Eb, F##, **G##**, **A#**, **B**, **C#**, D | C | ![DNaturalGyptian](ModeDNaturalGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalGyptian.mid?raw=true) |
+| [D#](ModeDSharpGyptian.md) | D#, E, F###, **G###**, **A##**, **B#**, **C##**, D# | C | ![DSharpGyptian](ModeDSharpGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpGyptian.mid?raw=true) |
+| [Eb](ModeEFlatGyptian.md) | Eb, Fb, G#, **A#**, **B**, **C**, **D**, Eb | C | ![EFlatGyptian](ModeEFlatGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatGyptian.mid?raw=true) |
+| [E](ModeENaturalGyptian.md) | E, F, G##, **A##**, **B#**, **C#**, **D#**, E | C | ![ENaturalGyptian](ModeENaturalGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalGyptian.mid?raw=true) |
+| [F](ModeFNaturalGyptian.md) | F, Gb, A#, **B#**, **C#**, **D**, **E**, F | C | ![FNaturalGyptian](ModeFNaturalGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalGyptian.mid?raw=true) |
+| [F#](ModeFSharpGyptian.md) | F#, G, A##, **B##**, **C##**, **D#**, **E#**, F# | C | ![FSharpGyptian](ModeFSharpGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpGyptian.mid?raw=true) |
+| [Gb](ModeGFlatGyptian.md) | Gb, Abb, B, **C#**, **D**, **Eb**, **F**, Gb | C | ![GFlatGyptian](ModeGFlatGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatGyptian.mid?raw=true) |
+| [G](ModeGNaturalGyptian.md) | G, Ab, B#, **C##**, **D#**, **E**, **F#**, G | C | ![GNaturalGyptian](ModeGNaturalGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalGyptian.mid?raw=true) |
+| [G#](ModeGSharpGyptian.md) | G#, A, B##, **C###**, **D##**, **E#**, **F##**, G# | C | ![GSharpGyptian](ModeGSharpGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpGyptian.mid?raw=true) |
+| [Ab](ModeAFlatGyptian.md) | Ab, Bbb, C#, **D#**, **E**, **F**, **G**, Ab | C | ![AFlatGyptian](ModeAFlatGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatGyptian.mid?raw=true) |
+| [A](ModeANaturalGyptian.md) | A, Bb, C##, **D##**, **E#**, **F#**, **G#**, A | C | ![ANaturalGyptian](ModeANaturalGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalGyptian.mid?raw=true) |
+| [A#](ModeASharpGyptian.md) | A#, B, C###, **D###**, **E##**, **F##**, **G##**, A# | C | ![ASharpGyptian](ModeASharpGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpGyptian.mid?raw=true) |
+| [Bb](ModeBFlatGyptian.md) | Bb, Cb, D#, **E#**, **F#**, **G**, **A**, Bb | C | ![BFlatGyptian](ModeBFlatGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatGyptian.mid?raw=true) |
+| [B](ModeBNaturalGyptian.md) | B, C, D##, **E##**, **F##**, **G#**, **A#**, B | C | ![BNaturalGyptian](ModeBNaturalGyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalGyptian.mid?raw=true) |

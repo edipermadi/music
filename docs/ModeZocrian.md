@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalZocrian.md) | C, **D**, **E##**, F##, **G#**, **A#**, B, C | C | ![CNaturalZocrian](ModeCNaturalZocrian.png) | [midi](ModeCNaturalZocrian.mid) [ogg](ModeCNaturalZocrian.ogg) |
-| [C#](ModeCSharpZocrian.md) | C#, **D#**, **E###**, F###, **G##**, **A##**, B#, C# | C | ![CSharpZocrian](ModeCSharpZocrian.png) | [midi](ModeCSharpZocrian.mid) [ogg](ModeCSharpZocrian.ogg) |
-| [Db](ModeDFlatZocrian.md) | Db, **Eb**, **F##**, G#, **A**, **B**, C, Db | C | ![DFlatZocrian](ModeDFlatZocrian.png) | [midi](ModeDFlatZocrian.mid) [ogg](ModeDFlatZocrian.ogg) |
-| [D](ModeDNaturalZocrian.md) | D, **E**, **F###**, G##, **A#**, **B#**, C#, D | C | ![DNaturalZocrian](ModeDNaturalZocrian.png) | [midi](ModeDNaturalZocrian.mid) [ogg](ModeDNaturalZocrian.ogg) |
-| [D#](ModeDSharpZocrian.md) | D#, **E#**, **Cbbb**, Cbb, **Dbbb**, **Ebbb**, Fbbb, D# | C | ![DSharpZocrian](ModeDSharpZocrian.png) | [midi](ModeDSharpZocrian.mid) [ogg](ModeDSharpZocrian.ogg) |
-| [Eb](ModeEFlatZocrian.md) | Eb, **F**, **G##**, A#, **B**, **C#**, D, Eb | C | ![EFlatZocrian](ModeEFlatZocrian.png) | [midi](ModeEFlatZocrian.mid) [ogg](ModeEFlatZocrian.ogg) |
-| [E](ModeENaturalZocrian.md) | E, **F#**, **G###**, A##, **B#**, **C##**, D#, E | C | ![ENaturalZocrian](ModeENaturalZocrian.png) | [midi](ModeENaturalZocrian.mid) [ogg](ModeENaturalZocrian.ogg) |
-| [F](ModeFNaturalZocrian.md) | F, **G**, **A##**, B#, **C#**, **D#**, E, F | C | ![FNaturalZocrian](ModeFNaturalZocrian.png) | [midi](ModeFNaturalZocrian.mid) [ogg](ModeFNaturalZocrian.ogg) |
-| [F#](ModeFSharpZocrian.md) | F#, **G#**, **A###**, B##, **C##**, **D##**, E#, F# | C | ![FSharpZocrian](ModeFSharpZocrian.png) | [midi](ModeFSharpZocrian.mid) [ogg](ModeFSharpZocrian.ogg) |
-| [Gb](ModeGFlatZocrian.md) | Gb, **Ab**, **B#**, C#, **D**, **E**, F, Gb | C | ![GFlatZocrian](ModeGFlatZocrian.png) | [midi](ModeGFlatZocrian.mid) [ogg](ModeGFlatZocrian.ogg) |
-| [G](ModeGNaturalZocrian.md) | G, **A**, **B##**, C##, **D#**, **E#**, F#, G | C | ![GNaturalZocrian](ModeGNaturalZocrian.png) | [midi](ModeGNaturalZocrian.mid) [ogg](ModeGNaturalZocrian.ogg) |
-| [G#](ModeGSharpZocrian.md) | G#, **A#**, **B###**, C###, **D##**, **E##**, F##, G# | C | ![GSharpZocrian](ModeGSharpZocrian.png) | [midi](ModeGSharpZocrian.mid) [ogg](ModeGSharpZocrian.ogg) |
-| [Ab](ModeAFlatZocrian.md) | Ab, **Bb**, **C##**, D#, **E**, **F#**, G, Ab | C | ![AFlatZocrian](ModeAFlatZocrian.png) | [midi](ModeAFlatZocrian.mid) [ogg](ModeAFlatZocrian.ogg) |
-| [A](ModeANaturalZocrian.md) | A, **B**, **C###**, D##, **E#**, **F##**, G#, A | C | ![ANaturalZocrian](ModeANaturalZocrian.png) | [midi](ModeANaturalZocrian.mid) [ogg](ModeANaturalZocrian.ogg) |
-| [A#](ModeASharpZocrian.md) | A#, **B#**, **D##**, E#, **F#**, **G#**, A, A# | C | ![ASharpZocrian](ModeASharpZocrian.png) | [midi](ModeASharpZocrian.mid) [ogg](ModeASharpZocrian.ogg) |
-| [Bb](ModeBFlatZocrian.md) | Bb, **C**, **D##**, E#, **F#**, **G#**, A, Bb | C | ![BFlatZocrian](ModeBFlatZocrian.png) | [midi](ModeBFlatZocrian.mid) [ogg](ModeBFlatZocrian.ogg) |
-| [B](ModeBNaturalZocrian.md) | B, **C#**, **D###**, E##, **F##**, **G##**, A#, B | C | ![BNaturalZocrian](ModeBNaturalZocrian.png) | [midi](ModeBNaturalZocrian.mid) [ogg](ModeBNaturalZocrian.ogg) |
+| [C](ModeCNaturalZocrian.md) | C, **D**, **E##**, F##, **G#**, **A#**, B, C | C | ![CNaturalZocrian](ModeCNaturalZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalZocrian.mid?raw=true) |
+| [C#](ModeCSharpZocrian.md) | C#, **D#**, **E###**, F###, **G##**, **A##**, B#, C# | C | ![CSharpZocrian](ModeCSharpZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpZocrian.mid?raw=true) |
+| [Db](ModeDFlatZocrian.md) | Db, **Eb**, **F##**, G#, **A**, **B**, C, Db | C | ![DFlatZocrian](ModeDFlatZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatZocrian.mid?raw=true) |
+| [D](ModeDNaturalZocrian.md) | D, **E**, **F###**, G##, **A#**, **B#**, C#, D | C | ![DNaturalZocrian](ModeDNaturalZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalZocrian.mid?raw=true) |
+| [D#](ModeDSharpZocrian.md) | D#, **E#**, **Cbbb**, Cbb, **Dbbb**, **Ebbb**, Fbbb, D# | C | ![DSharpZocrian](ModeDSharpZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpZocrian.mid?raw=true) |
+| [Eb](ModeEFlatZocrian.md) | Eb, **F**, **G##**, A#, **B**, **C#**, D, Eb | C | ![EFlatZocrian](ModeEFlatZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatZocrian.mid?raw=true) |
+| [E](ModeENaturalZocrian.md) | E, **F#**, **G###**, A##, **B#**, **C##**, D#, E | C | ![ENaturalZocrian](ModeENaturalZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalZocrian.mid?raw=true) |
+| [F](ModeFNaturalZocrian.md) | F, **G**, **A##**, B#, **C#**, **D#**, E, F | C | ![FNaturalZocrian](ModeFNaturalZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalZocrian.mid?raw=true) |
+| [F#](ModeFSharpZocrian.md) | F#, **G#**, **A###**, B##, **C##**, **D##**, E#, F# | C | ![FSharpZocrian](ModeFSharpZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpZocrian.mid?raw=true) |
+| [Gb](ModeGFlatZocrian.md) | Gb, **Ab**, **B#**, C#, **D**, **E**, F, Gb | C | ![GFlatZocrian](ModeGFlatZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatZocrian.mid?raw=true) |
+| [G](ModeGNaturalZocrian.md) | G, **A**, **B##**, C##, **D#**, **E#**, F#, G | C | ![GNaturalZocrian](ModeGNaturalZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalZocrian.mid?raw=true) |
+| [G#](ModeGSharpZocrian.md) | G#, **A#**, **B###**, C###, **D##**, **E##**, F##, G# | C | ![GSharpZocrian](ModeGSharpZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpZocrian.mid?raw=true) |
+| [Ab](ModeAFlatZocrian.md) | Ab, **Bb**, **C##**, D#, **E**, **F#**, G, Ab | C | ![AFlatZocrian](ModeAFlatZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatZocrian.mid?raw=true) |
+| [A](ModeANaturalZocrian.md) | A, **B**, **C###**, D##, **E#**, **F##**, G#, A | C | ![ANaturalZocrian](ModeANaturalZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalZocrian.mid?raw=true) |
+| [A#](ModeASharpZocrian.md) | A#, **B#**, **D##**, E#, **F#**, **G#**, A, A# | C | ![ASharpZocrian](ModeASharpZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpZocrian.mid?raw=true) |
+| [Bb](ModeBFlatZocrian.md) | Bb, **C**, **D##**, E#, **F#**, **G#**, A, Bb | C | ![BFlatZocrian](ModeBFlatZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatZocrian.mid?raw=true) |
+| [B](ModeBNaturalZocrian.md) | B, **C#**, **D###**, E##, **F##**, **G##**, A#, B | C | ![BNaturalZocrian](ModeBNaturalZocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalZocrian.mid?raw=true) |

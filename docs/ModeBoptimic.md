@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalBoptimic.md) | **C**, D#, **E**, **F#**, G#, **A#**, **C** | C | ![CNaturalBoptimic](ModeCNaturalBoptimic.png) | [midi](ModeCNaturalBoptimic.mid) [ogg](ModeCNaturalBoptimic.ogg) |
-| [C#](ModeCSharpBoptimic.md) | **C#**, D##, **E#**, **F##**, G##, **A##**, **C#** | C | ![CSharpBoptimic](ModeCSharpBoptimic.png) | [midi](ModeCSharpBoptimic.mid) [ogg](ModeCSharpBoptimic.ogg) |
-| [Db](ModeDFlatBoptimic.md) | **Db**, E, **F**, **G**, A, **B**, **Db** | C | ![DFlatBoptimic](ModeDFlatBoptimic.png) | [midi](ModeDFlatBoptimic.mid) [ogg](ModeDFlatBoptimic.ogg) |
-| [D](ModeDNaturalBoptimic.md) | **D**, E#, **F#**, **G#**, A#, **B#**, **D** | C | ![DNaturalBoptimic](ModeDNaturalBoptimic.png) | [midi](ModeDNaturalBoptimic.mid) [ogg](ModeDNaturalBoptimic.ogg) |
-| [D#](ModeDSharpBoptimic.md) | **D#**, E##, **F##**, **G##**, A##, **B##**, **D#** | C | ![DSharpBoptimic](ModeDSharpBoptimic.png) | [midi](ModeDSharpBoptimic.mid) [ogg](ModeDSharpBoptimic.ogg) |
-| [Eb](ModeEFlatBoptimic.md) | **Eb**, F#, **G**, **A**, B, **C#**, **Eb** | C | ![EFlatBoptimic](ModeEFlatBoptimic.png) | [midi](ModeEFlatBoptimic.mid) [ogg](ModeEFlatBoptimic.ogg) |
-| [E](ModeENaturalBoptimic.md) | **E**, F##, **G#**, **A#**, B#, **C##**, **E** | C | ![ENaturalBoptimic](ModeENaturalBoptimic.png) | [midi](ModeENaturalBoptimic.mid) [ogg](ModeENaturalBoptimic.ogg) |
-| [F](ModeFNaturalBoptimic.md) | **F**, G#, **A**, **B**, C#, **D#**, **F** | C | ![FNaturalBoptimic](ModeFNaturalBoptimic.png) | [midi](ModeFNaturalBoptimic.mid) [ogg](ModeFNaturalBoptimic.ogg) |
-| [F#](ModeFSharpBoptimic.md) | **F#**, G##, **A#**, **B#**, C##, **D##**, **F#** | C | ![FSharpBoptimic](ModeFSharpBoptimic.png) | [midi](ModeFSharpBoptimic.mid) [ogg](ModeFSharpBoptimic.ogg) |
-| [Gb](ModeGFlatBoptimic.md) | **Gb**, A, **Bb**, **C**, D, **E**, **Gb** | C | ![GFlatBoptimic](ModeGFlatBoptimic.png) | [midi](ModeGFlatBoptimic.mid) [ogg](ModeGFlatBoptimic.ogg) |
-| [G](ModeGNaturalBoptimic.md) | **G**, A#, **B**, **C#**, D#, **E#**, **G** | C | ![GNaturalBoptimic](ModeGNaturalBoptimic.png) | [midi](ModeGNaturalBoptimic.mid) [ogg](ModeGNaturalBoptimic.ogg) |
-| [G#](ModeGSharpBoptimic.md) | **G#**, A##, **B#**, **C##**, D##, **E##**, **G#** | C | ![GSharpBoptimic](ModeGSharpBoptimic.png) | [midi](ModeGSharpBoptimic.mid) [ogg](ModeGSharpBoptimic.ogg) |
-| [Ab](ModeAFlatBoptimic.md) | **Ab**, B, **C**, **D**, E, **F#**, **Ab** | C | ![AFlatBoptimic](ModeAFlatBoptimic.png) | [midi](ModeAFlatBoptimic.mid) [ogg](ModeAFlatBoptimic.ogg) |
-| [A](ModeANaturalBoptimic.md) | **A**, B#, **C#**, **D#**, E#, **F##**, **A** | C | ![ANaturalBoptimic](ModeANaturalBoptimic.png) | [midi](ModeANaturalBoptimic.mid) [ogg](ModeANaturalBoptimic.ogg) |
-| [A#](ModeASharpBoptimic.md) | **A#**, B##, **C##**, **D##**, E##, **F###**, **A#** | C | ![ASharpBoptimic](ModeASharpBoptimic.png) | [midi](ModeASharpBoptimic.mid) [ogg](ModeASharpBoptimic.ogg) |
-| [Bb](ModeBFlatBoptimic.md) | **Bb**, C#, **D**, **E**, F#, **G#**, **Bb** | C | ![BFlatBoptimic](ModeBFlatBoptimic.png) | [midi](ModeBFlatBoptimic.mid) [ogg](ModeBFlatBoptimic.ogg) |
-| [B](ModeBNaturalBoptimic.md) | **B**, C##, **D#**, **E#**, F##, **G##**, **B** | C | ![BNaturalBoptimic](ModeBNaturalBoptimic.png) | [midi](ModeBNaturalBoptimic.mid) [ogg](ModeBNaturalBoptimic.ogg) |
+| [C](ModeCNaturalBoptimic.md) | **C**, D#, **E**, **F#**, G#, **A#**, **C** | C | ![CNaturalBoptimic](ModeCNaturalBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalBoptimic.mid?raw=true) |
+| [C#](ModeCSharpBoptimic.md) | **C#**, D##, **E#**, **F##**, G##, **A##**, **C#** | C | ![CSharpBoptimic](ModeCSharpBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpBoptimic.mid?raw=true) |
+| [Db](ModeDFlatBoptimic.md) | **Db**, E, **F**, **G**, A, **B**, **Db** | C | ![DFlatBoptimic](ModeDFlatBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatBoptimic.mid?raw=true) |
+| [D](ModeDNaturalBoptimic.md) | **D**, E#, **F#**, **G#**, A#, **B#**, **D** | C | ![DNaturalBoptimic](ModeDNaturalBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalBoptimic.mid?raw=true) |
+| [D#](ModeDSharpBoptimic.md) | **D#**, E##, **F##**, **G##**, A##, **B##**, **D#** | C | ![DSharpBoptimic](ModeDSharpBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpBoptimic.mid?raw=true) |
+| [Eb](ModeEFlatBoptimic.md) | **Eb**, F#, **G**, **A**, B, **C#**, **Eb** | C | ![EFlatBoptimic](ModeEFlatBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatBoptimic.mid?raw=true) |
+| [E](ModeENaturalBoptimic.md) | **E**, F##, **G#**, **A#**, B#, **C##**, **E** | C | ![ENaturalBoptimic](ModeENaturalBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalBoptimic.mid?raw=true) |
+| [F](ModeFNaturalBoptimic.md) | **F**, G#, **A**, **B**, C#, **D#**, **F** | C | ![FNaturalBoptimic](ModeFNaturalBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalBoptimic.mid?raw=true) |
+| [F#](ModeFSharpBoptimic.md) | **F#**, G##, **A#**, **B#**, C##, **D##**, **F#** | C | ![FSharpBoptimic](ModeFSharpBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpBoptimic.mid?raw=true) |
+| [Gb](ModeGFlatBoptimic.md) | **Gb**, A, **Bb**, **C**, D, **E**, **Gb** | C | ![GFlatBoptimic](ModeGFlatBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatBoptimic.mid?raw=true) |
+| [G](ModeGNaturalBoptimic.md) | **G**, A#, **B**, **C#**, D#, **E#**, **G** | C | ![GNaturalBoptimic](ModeGNaturalBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalBoptimic.mid?raw=true) |
+| [G#](ModeGSharpBoptimic.md) | **G#**, A##, **B#**, **C##**, D##, **E##**, **G#** | C | ![GSharpBoptimic](ModeGSharpBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpBoptimic.mid?raw=true) |
+| [Ab](ModeAFlatBoptimic.md) | **Ab**, B, **C**, **D**, E, **F#**, **Ab** | C | ![AFlatBoptimic](ModeAFlatBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatBoptimic.mid?raw=true) |
+| [A](ModeANaturalBoptimic.md) | **A**, B#, **C#**, **D#**, E#, **F##**, **A** | C | ![ANaturalBoptimic](ModeANaturalBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalBoptimic.mid?raw=true) |
+| [A#](ModeASharpBoptimic.md) | **A#**, B##, **C##**, **D##**, E##, **F###**, **A#** | C | ![ASharpBoptimic](ModeASharpBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpBoptimic.mid?raw=true) |
+| [Bb](ModeBFlatBoptimic.md) | **Bb**, C#, **D**, **E**, F#, **G#**, **Bb** | C | ![BFlatBoptimic](ModeBFlatBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatBoptimic.mid?raw=true) |
+| [B](ModeBNaturalBoptimic.md) | **B**, C##, **D#**, **E#**, F##, **G##**, **B** | C | ![BNaturalBoptimic](ModeBNaturalBoptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalBoptimic.mid?raw=true) |

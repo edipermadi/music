@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalEpothyllic.md) | C, **C#**, E, F#, **G**, A, **A#**, B, C | C | ![CNaturalEpothyllic](ModeCNaturalEpothyllic.png) | [midi](ModeCNaturalEpothyllic.mid) [ogg](ModeCNaturalEpothyllic.ogg) |
-| [C#](ModeCSharpEpothyllic.md) | C#, **D**, F, G, **G#**, A#, **B**, C, C# | C | ![CSharpEpothyllic](ModeCSharpEpothyllic.png) | [midi](ModeCSharpEpothyllic.mid) [ogg](ModeCSharpEpothyllic.ogg) |
-| [Db](ModeDFlatEpothyllic.md) | Db, **D**, F, G, **Ab**, Bb, **B**, C, Db | C | ![DFlatEpothyllic](ModeDFlatEpothyllic.png) | [midi](ModeDFlatEpothyllic.mid) [ogg](ModeDFlatEpothyllic.ogg) |
-| [D](ModeDNaturalEpothyllic.md) | D, **D#**, F#, G#, **A**, B, **C**, C#, D | C | ![DNaturalEpothyllic](ModeDNaturalEpothyllic.png) | [midi](ModeDNaturalEpothyllic.mid) [ogg](ModeDNaturalEpothyllic.ogg) |
-| [D#](ModeDSharpEpothyllic.md) | D#, **E**, G, A, **A#**, C, **C#**, D, D# | C | ![DSharpEpothyllic](ModeDSharpEpothyllic.png) | [midi](ModeDSharpEpothyllic.mid) [ogg](ModeDSharpEpothyllic.ogg) |
-| [Eb](ModeEFlatEpothyllic.md) | Eb, **E**, G, A, **Bb**, C, **Db**, D, Eb | C | ![EFlatEpothyllic](ModeEFlatEpothyllic.png) | [midi](ModeEFlatEpothyllic.mid) [ogg](ModeEFlatEpothyllic.ogg) |
-| [E](ModeENaturalEpothyllic.md) | E, **F**, G#, A#, **B**, C#, **D**, D#, E | C | ![ENaturalEpothyllic](ModeENaturalEpothyllic.png) | [midi](ModeENaturalEpothyllic.mid) [ogg](ModeENaturalEpothyllic.ogg) |
-| [F](ModeFNaturalEpothyllic.md) | F, **F#**, A, B, **C**, D, **D#**, E, F | C | ![FNaturalEpothyllic](ModeFNaturalEpothyllic.png) | [midi](ModeFNaturalEpothyllic.mid) [ogg](ModeFNaturalEpothyllic.ogg) |
-| [F#](ModeFSharpEpothyllic.md) | F#, **G**, A#, C, **C#**, D#, **E**, F, F# | C | ![FSharpEpothyllic](ModeFSharpEpothyllic.png) | [midi](ModeFSharpEpothyllic.mid) [ogg](ModeFSharpEpothyllic.ogg) |
-| [Gb](ModeGFlatEpothyllic.md) | Gb, **G**, Bb, C, **Db**, Eb, **E**, F, Gb | C | ![GFlatEpothyllic](ModeGFlatEpothyllic.png) | [midi](ModeGFlatEpothyllic.mid) [ogg](ModeGFlatEpothyllic.ogg) |
-| [G](ModeGNaturalEpothyllic.md) | G, **G#**, B, C#, **D**, E, **F**, F#, G | C | ![GNaturalEpothyllic](ModeGNaturalEpothyllic.png) | [midi](ModeGNaturalEpothyllic.mid) [ogg](ModeGNaturalEpothyllic.ogg) |
-| [G#](ModeGSharpEpothyllic.md) | G#, **A**, C, D, **D#**, F, **F#**, G, G# | C | ![GSharpEpothyllic](ModeGSharpEpothyllic.png) | [midi](ModeGSharpEpothyllic.mid) [ogg](ModeGSharpEpothyllic.ogg) |
-| [Ab](ModeAFlatEpothyllic.md) | Ab, **A**, C, D, **Eb**, F, **Gb**, G, Ab | C | ![AFlatEpothyllic](ModeAFlatEpothyllic.png) | [midi](ModeAFlatEpothyllic.mid) [ogg](ModeAFlatEpothyllic.ogg) |
-| [A](ModeANaturalEpothyllic.md) | A, **A#**, C#, D#, **E**, F#, **G**, G#, A | C | ![ANaturalEpothyllic](ModeANaturalEpothyllic.png) | [midi](ModeANaturalEpothyllic.mid) [ogg](ModeANaturalEpothyllic.ogg) |
-| [A#](ModeASharpEpothyllic.md) | A#, **B**, D, E, **F**, G, **G#**, A, A# | C | ![ASharpEpothyllic](ModeASharpEpothyllic.png) | [midi](ModeASharpEpothyllic.mid) [ogg](ModeASharpEpothyllic.ogg) |
-| [Bb](ModeBFlatEpothyllic.md) | Bb, **B**, D, E, **F**, G, **Ab**, A, Bb | C | ![BFlatEpothyllic](ModeBFlatEpothyllic.png) | [midi](ModeBFlatEpothyllic.mid) [ogg](ModeBFlatEpothyllic.ogg) |
-| [B](ModeBNaturalEpothyllic.md) | B, **C**, D#, F, **F#**, G#, **A**, A#, B | C | ![BNaturalEpothyllic](ModeBNaturalEpothyllic.png) | [midi](ModeBNaturalEpothyllic.mid) [ogg](ModeBNaturalEpothyllic.ogg) |
+| [C](ModeCNaturalEpothyllic.md) | C, **C#**, E, F#, **G**, A, **A#**, B, C | C | ![CNaturalEpothyllic](ModeCNaturalEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalEpothyllic.mid?raw=true) |
+| [C#](ModeCSharpEpothyllic.md) | C#, **D**, F, G, **G#**, A#, **B**, C, C# | C | ![CSharpEpothyllic](ModeCSharpEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpEpothyllic.mid?raw=true) |
+| [Db](ModeDFlatEpothyllic.md) | Db, **D**, F, G, **Ab**, Bb, **B**, C, Db | C | ![DFlatEpothyllic](ModeDFlatEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatEpothyllic.mid?raw=true) |
+| [D](ModeDNaturalEpothyllic.md) | D, **D#**, F#, G#, **A**, B, **C**, C#, D | C | ![DNaturalEpothyllic](ModeDNaturalEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalEpothyllic.mid?raw=true) |
+| [D#](ModeDSharpEpothyllic.md) | D#, **E**, G, A, **A#**, C, **C#**, D, D# | C | ![DSharpEpothyllic](ModeDSharpEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpEpothyllic.mid?raw=true) |
+| [Eb](ModeEFlatEpothyllic.md) | Eb, **E**, G, A, **Bb**, C, **Db**, D, Eb | C | ![EFlatEpothyllic](ModeEFlatEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatEpothyllic.mid?raw=true) |
+| [E](ModeENaturalEpothyllic.md) | E, **F**, G#, A#, **B**, C#, **D**, D#, E | C | ![ENaturalEpothyllic](ModeENaturalEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalEpothyllic.mid?raw=true) |
+| [F](ModeFNaturalEpothyllic.md) | F, **F#**, A, B, **C**, D, **D#**, E, F | C | ![FNaturalEpothyllic](ModeFNaturalEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalEpothyllic.mid?raw=true) |
+| [F#](ModeFSharpEpothyllic.md) | F#, **G**, A#, C, **C#**, D#, **E**, F, F# | C | ![FSharpEpothyllic](ModeFSharpEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpEpothyllic.mid?raw=true) |
+| [Gb](ModeGFlatEpothyllic.md) | Gb, **G**, Bb, C, **Db**, Eb, **E**, F, Gb | C | ![GFlatEpothyllic](ModeGFlatEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatEpothyllic.mid?raw=true) |
+| [G](ModeGNaturalEpothyllic.md) | G, **G#**, B, C#, **D**, E, **F**, F#, G | C | ![GNaturalEpothyllic](ModeGNaturalEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalEpothyllic.mid?raw=true) |
+| [G#](ModeGSharpEpothyllic.md) | G#, **A**, C, D, **D#**, F, **F#**, G, G# | C | ![GSharpEpothyllic](ModeGSharpEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpEpothyllic.mid?raw=true) |
+| [Ab](ModeAFlatEpothyllic.md) | Ab, **A**, C, D, **Eb**, F, **Gb**, G, Ab | C | ![AFlatEpothyllic](ModeAFlatEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatEpothyllic.mid?raw=true) |
+| [A](ModeANaturalEpothyllic.md) | A, **A#**, C#, D#, **E**, F#, **G**, G#, A | C | ![ANaturalEpothyllic](ModeANaturalEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalEpothyllic.mid?raw=true) |
+| [A#](ModeASharpEpothyllic.md) | A#, **B**, D, E, **F**, G, **G#**, A, A# | C | ![ASharpEpothyllic](ModeASharpEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpEpothyllic.mid?raw=true) |
+| [Bb](ModeBFlatEpothyllic.md) | Bb, **B**, D, E, **F**, G, **Ab**, A, Bb | C | ![BFlatEpothyllic](ModeBFlatEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatEpothyllic.mid?raw=true) |
+| [B](ModeBNaturalEpothyllic.md) | B, **C**, D#, F, **F#**, G#, **A**, A#, B | C | ![BNaturalEpothyllic](ModeBNaturalEpothyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalEpothyllic.mid?raw=true) |

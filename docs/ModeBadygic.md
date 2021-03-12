@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalBadygic.md) | C, C#, D, E, G, **G#**, A, **A#**, **B**, C | C | ![CNaturalBadygic](ModeCNaturalBadygic.png) | [midi](ModeCNaturalBadygic.mid) [ogg](ModeCNaturalBadygic.ogg) |
-| [C#](ModeCSharpBadygic.md) | C#, D, D#, F, G#, **A**, A#, **B**, **C**, C# | C | ![CSharpBadygic](ModeCSharpBadygic.png) | [midi](ModeCSharpBadygic.mid) [ogg](ModeCSharpBadygic.ogg) |
-| [Db](ModeDFlatBadygic.md) | Db, D, Eb, F, Ab, **A**, Bb, **B**, **C**, Db | C | ![DFlatBadygic](ModeDFlatBadygic.png) | [midi](ModeDFlatBadygic.mid) [ogg](ModeDFlatBadygic.ogg) |
-| [D](ModeDNaturalBadygic.md) | D, D#, E, F#, A, **A#**, B, **C**, **C#**, D | C | ![DNaturalBadygic](ModeDNaturalBadygic.png) | [midi](ModeDNaturalBadygic.mid) [ogg](ModeDNaturalBadygic.ogg) |
-| [D#](ModeDSharpBadygic.md) | D#, E, F, G, A#, **B**, C, **C#**, **D**, D# | C | ![DSharpBadygic](ModeDSharpBadygic.png) | [midi](ModeDSharpBadygic.mid) [ogg](ModeDSharpBadygic.ogg) |
-| [Eb](ModeEFlatBadygic.md) | Eb, E, F, G, Bb, **B**, C, **Db**, **D**, Eb | C | ![EFlatBadygic](ModeEFlatBadygic.png) | [midi](ModeEFlatBadygic.mid) [ogg](ModeEFlatBadygic.ogg) |
-| [E](ModeENaturalBadygic.md) | E, F, F#, G#, B, **C**, C#, **D**, **D#**, E | C | ![ENaturalBadygic](ModeENaturalBadygic.png) | [midi](ModeENaturalBadygic.mid) [ogg](ModeENaturalBadygic.ogg) |
-| [F](ModeFNaturalBadygic.md) | F, F#, G, A, C, **C#**, D, **D#**, **E**, F | C | ![FNaturalBadygic](ModeFNaturalBadygic.png) | [midi](ModeFNaturalBadygic.mid) [ogg](ModeFNaturalBadygic.ogg) |
-| [F#](ModeFSharpBadygic.md) | F#, G, G#, A#, C#, **D**, D#, **E**, **F**, F# | C | ![FSharpBadygic](ModeFSharpBadygic.png) | [midi](ModeFSharpBadygic.mid) [ogg](ModeFSharpBadygic.ogg) |
-| [Gb](ModeGFlatBadygic.md) | Gb, G, Ab, Bb, Db, **D**, Eb, **E**, **F**, Gb | C | ![GFlatBadygic](ModeGFlatBadygic.png) | [midi](ModeGFlatBadygic.mid) [ogg](ModeGFlatBadygic.ogg) |
-| [G](ModeGNaturalBadygic.md) | G, G#, A, B, D, **D#**, E, **F**, **F#**, G | C | ![GNaturalBadygic](ModeGNaturalBadygic.png) | [midi](ModeGNaturalBadygic.mid) [ogg](ModeGNaturalBadygic.ogg) |
-| [G#](ModeGSharpBadygic.md) | G#, A, A#, C, D#, **E**, F, **F#**, **G**, G# | C | ![GSharpBadygic](ModeGSharpBadygic.png) | [midi](ModeGSharpBadygic.mid) [ogg](ModeGSharpBadygic.ogg) |
-| [Ab](ModeAFlatBadygic.md) | Ab, A, Bb, C, Eb, **E**, F, **Gb**, **G**, Ab | C | ![AFlatBadygic](ModeAFlatBadygic.png) | [midi](ModeAFlatBadygic.mid) [ogg](ModeAFlatBadygic.ogg) |
-| [A](ModeANaturalBadygic.md) | A, A#, B, C#, E, **F**, F#, **G**, **G#**, A | C | ![ANaturalBadygic](ModeANaturalBadygic.png) | [midi](ModeANaturalBadygic.mid) [ogg](ModeANaturalBadygic.ogg) |
-| [A#](ModeASharpBadygic.md) | A#, B, C, D, F, **F#**, G, **G#**, **A**, A# | C | ![ASharpBadygic](ModeASharpBadygic.png) | [midi](ModeASharpBadygic.mid) [ogg](ModeASharpBadygic.ogg) |
-| [Bb](ModeBFlatBadygic.md) | Bb, B, C, D, F, **Gb**, G, **Ab**, **A**, Bb | C | ![BFlatBadygic](ModeBFlatBadygic.png) | [midi](ModeBFlatBadygic.mid) [ogg](ModeBFlatBadygic.ogg) |
-| [B](ModeBNaturalBadygic.md) | B, C, C#, D#, F#, **G**, G#, **A**, **A#**, B | C | ![BNaturalBadygic](ModeBNaturalBadygic.png) | [midi](ModeBNaturalBadygic.mid) [ogg](ModeBNaturalBadygic.ogg) |
+| [C](ModeCNaturalBadygic.md) | C, C#, D, E, G, **G#**, A, **A#**, **B**, C | C | ![CNaturalBadygic](ModeCNaturalBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalBadygic.mid?raw=true) |
+| [C#](ModeCSharpBadygic.md) | C#, D, D#, F, G#, **A**, A#, **B**, **C**, C# | C | ![CSharpBadygic](ModeCSharpBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpBadygic.mid?raw=true) |
+| [Db](ModeDFlatBadygic.md) | Db, D, Eb, F, Ab, **A**, Bb, **B**, **C**, Db | C | ![DFlatBadygic](ModeDFlatBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatBadygic.mid?raw=true) |
+| [D](ModeDNaturalBadygic.md) | D, D#, E, F#, A, **A#**, B, **C**, **C#**, D | C | ![DNaturalBadygic](ModeDNaturalBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalBadygic.mid?raw=true) |
+| [D#](ModeDSharpBadygic.md) | D#, E, F, G, A#, **B**, C, **C#**, **D**, D# | C | ![DSharpBadygic](ModeDSharpBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpBadygic.mid?raw=true) |
+| [Eb](ModeEFlatBadygic.md) | Eb, E, F, G, Bb, **B**, C, **Db**, **D**, Eb | C | ![EFlatBadygic](ModeEFlatBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatBadygic.mid?raw=true) |
+| [E](ModeENaturalBadygic.md) | E, F, F#, G#, B, **C**, C#, **D**, **D#**, E | C | ![ENaturalBadygic](ModeENaturalBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalBadygic.mid?raw=true) |
+| [F](ModeFNaturalBadygic.md) | F, F#, G, A, C, **C#**, D, **D#**, **E**, F | C | ![FNaturalBadygic](ModeFNaturalBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalBadygic.mid?raw=true) |
+| [F#](ModeFSharpBadygic.md) | F#, G, G#, A#, C#, **D**, D#, **E**, **F**, F# | C | ![FSharpBadygic](ModeFSharpBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpBadygic.mid?raw=true) |
+| [Gb](ModeGFlatBadygic.md) | Gb, G, Ab, Bb, Db, **D**, Eb, **E**, **F**, Gb | C | ![GFlatBadygic](ModeGFlatBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatBadygic.mid?raw=true) |
+| [G](ModeGNaturalBadygic.md) | G, G#, A, B, D, **D#**, E, **F**, **F#**, G | C | ![GNaturalBadygic](ModeGNaturalBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalBadygic.mid?raw=true) |
+| [G#](ModeGSharpBadygic.md) | G#, A, A#, C, D#, **E**, F, **F#**, **G**, G# | C | ![GSharpBadygic](ModeGSharpBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpBadygic.mid?raw=true) |
+| [Ab](ModeAFlatBadygic.md) | Ab, A, Bb, C, Eb, **E**, F, **Gb**, **G**, Ab | C | ![AFlatBadygic](ModeAFlatBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatBadygic.mid?raw=true) |
+| [A](ModeANaturalBadygic.md) | A, A#, B, C#, E, **F**, F#, **G**, **G#**, A | C | ![ANaturalBadygic](ModeANaturalBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalBadygic.mid?raw=true) |
+| [A#](ModeASharpBadygic.md) | A#, B, C, D, F, **F#**, G, **G#**, **A**, A# | C | ![ASharpBadygic](ModeASharpBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpBadygic.mid?raw=true) |
+| [Bb](ModeBFlatBadygic.md) | Bb, B, C, D, F, **Gb**, G, **Ab**, **A**, Bb | C | ![BFlatBadygic](ModeBFlatBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatBadygic.mid?raw=true) |
+| [B](ModeBNaturalBadygic.md) | B, C, C#, D#, F#, **G**, G#, **A**, **A#**, B | C | ![BNaturalBadygic](ModeBNaturalBadygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalBadygic.mid?raw=true) |

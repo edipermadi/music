@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalLydian.md) | C, D, E, **F#**, G, A, B, C | G | ![CNaturalLydian](ModeCNaturalLydian.png) | [midi](ModeCNaturalLydian.mid) [ogg](ModeCNaturalLydian.ogg) |
-| [C#](ModeCSharpLydian.md) | C#, D#, E#, **F##**, G#, A#, B#, C# | Ab | ![CSharpLydian](ModeCSharpLydian.png) | [midi](ModeCSharpLydian.mid) [ogg](ModeCSharpLydian.ogg) |
-| [Db](ModeDFlatLydian.md) | Db, Eb, F, **G**, Ab, Bb, C, Db | Ab | ![DFlatLydian](ModeDFlatLydian.png) | [midi](ModeDFlatLydian.mid) [ogg](ModeDFlatLydian.ogg) |
-| [D](ModeDNaturalLydian.md) | D, E, F#, **G#**, A, B, C#, D | A | ![DNaturalLydian](ModeDNaturalLydian.png) | [midi](ModeDNaturalLydian.mid) [ogg](ModeDNaturalLydian.ogg) |
-| [D#](ModeDSharpLydian.md) | D#, E#, F##, **G##**, A#, B#, C##, D# | Bb | ![DSharpLydian](ModeDSharpLydian.png) | [midi](ModeDSharpLydian.mid) [ogg](ModeDSharpLydian.ogg) |
-| [Eb](ModeEFlatLydian.md) | Eb, F, G, **A**, Bb, C, D, Eb | Bb | ![EFlatLydian](ModeEFlatLydian.png) | [midi](ModeEFlatLydian.mid) [ogg](ModeEFlatLydian.ogg) |
-| [E](ModeENaturalLydian.md) | E, F#, G#, **A#**, B, C#, D#, E | B | ![ENaturalLydian](ModeENaturalLydian.png) | [midi](ModeENaturalLydian.mid) [ogg](ModeENaturalLydian.ogg) |
-| [F](ModeFNaturalLydian.md) | F, G, A, **B**, C, D, E, F | C | ![FNaturalLydian](ModeFNaturalLydian.png) | [midi](ModeFNaturalLydian.mid) [ogg](ModeFNaturalLydian.ogg) |
-| [F#](ModeFSharpLydian.md) | F#, G#, A#, **B#**, C#, D#, E#, F# | Db, C# | ![FSharpLydian](ModeFSharpLydian.png) | [midi](ModeFSharpLydian.mid) [ogg](ModeFSharpLydian.ogg) |
-| [Gb](ModeGFlatLydian.md) | Gb, Ab, Bb, **C**, Db, Eb, F, Gb | Db, C# | ![GFlatLydian](ModeGFlatLydian.png) | [midi](ModeGFlatLydian.mid) [ogg](ModeGFlatLydian.ogg) |
-| [G](ModeGNaturalLydian.md) | G, A, B, **C#**, D, E, F#, G | D | ![GNaturalLydian](ModeGNaturalLydian.png) | [midi](ModeGNaturalLydian.mid) [ogg](ModeGNaturalLydian.ogg) |
-| [G#](ModeGSharpLydian.md) | G#, A#, B#, **C##**, D#, E#, F##, G# | Eb | ![GSharpLydian](ModeGSharpLydian.png) | [midi](ModeGSharpLydian.mid) [ogg](ModeGSharpLydian.ogg) |
-| [Ab](ModeAFlatLydian.md) | Ab, Bb, C, **D**, Eb, F, G, Ab | Eb | ![AFlatLydian](ModeAFlatLydian.png) | [midi](ModeAFlatLydian.mid) [ogg](ModeAFlatLydian.ogg) |
-| [A](ModeANaturalLydian.md) | A, B, C#, **D#**, E, F#, G#, A | E | ![ANaturalLydian](ModeANaturalLydian.png) | [midi](ModeANaturalLydian.mid) [ogg](ModeANaturalLydian.ogg) |
-| [A#](ModeASharpLydian.md) | A#, B#, C##, **D##**, E#, F##, G##, A# | F | ![ASharpLydian](ModeASharpLydian.png) | [midi](ModeASharpLydian.mid) [ogg](ModeASharpLydian.ogg) |
-| [Bb](ModeBFlatLydian.md) | Bb, C, D, **E**, F, G, A, Bb | F | ![BFlatLydian](ModeBFlatLydian.png) | [midi](ModeBFlatLydian.mid) [ogg](ModeBFlatLydian.ogg) |
-| [B](ModeBNaturalLydian.md) | B, C#, D#, **E#**, F#, G#, A#, B | F#, Gb | ![BNaturalLydian](ModeBNaturalLydian.png) | [midi](ModeBNaturalLydian.mid) [ogg](ModeBNaturalLydian.ogg) |
+| [C](ModeCNaturalLydian.md) | C, D, E, **F#**, G, A, B, C | G | ![CNaturalLydian](ModeCNaturalLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalLydian.mid?raw=true) |
+| [C#](ModeCSharpLydian.md) | C#, D#, E#, **F##**, G#, A#, B#, C# | Ab | ![CSharpLydian](ModeCSharpLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpLydian.mid?raw=true) |
+| [Db](ModeDFlatLydian.md) | Db, Eb, F, **G**, Ab, Bb, C, Db | Ab | ![DFlatLydian](ModeDFlatLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatLydian.mid?raw=true) |
+| [D](ModeDNaturalLydian.md) | D, E, F#, **G#**, A, B, C#, D | A | ![DNaturalLydian](ModeDNaturalLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalLydian.mid?raw=true) |
+| [D#](ModeDSharpLydian.md) | D#, E#, F##, **G##**, A#, B#, C##, D# | Bb | ![DSharpLydian](ModeDSharpLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpLydian.mid?raw=true) |
+| [Eb](ModeEFlatLydian.md) | Eb, F, G, **A**, Bb, C, D, Eb | Bb | ![EFlatLydian](ModeEFlatLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatLydian.mid?raw=true) |
+| [E](ModeENaturalLydian.md) | E, F#, G#, **A#**, B, C#, D#, E | B | ![ENaturalLydian](ModeENaturalLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalLydian.mid?raw=true) |
+| [F](ModeFNaturalLydian.md) | F, G, A, **B**, C, D, E, F | C | ![FNaturalLydian](ModeFNaturalLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalLydian.mid?raw=true) |
+| [F#](ModeFSharpLydian.md) | F#, G#, A#, **B#**, C#, D#, E#, F# | Db, C# | ![FSharpLydian](ModeFSharpLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpLydian.mid?raw=true) |
+| [Gb](ModeGFlatLydian.md) | Gb, Ab, Bb, **C**, Db, Eb, F, Gb | Db, C# | ![GFlatLydian](ModeGFlatLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatLydian.mid?raw=true) |
+| [G](ModeGNaturalLydian.md) | G, A, B, **C#**, D, E, F#, G | D | ![GNaturalLydian](ModeGNaturalLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalLydian.mid?raw=true) |
+| [G#](ModeGSharpLydian.md) | G#, A#, B#, **C##**, D#, E#, F##, G# | Eb | ![GSharpLydian](ModeGSharpLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpLydian.mid?raw=true) |
+| [Ab](ModeAFlatLydian.md) | Ab, Bb, C, **D**, Eb, F, G, Ab | Eb | ![AFlatLydian](ModeAFlatLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatLydian.mid?raw=true) |
+| [A](ModeANaturalLydian.md) | A, B, C#, **D#**, E, F#, G#, A | E | ![ANaturalLydian](ModeANaturalLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalLydian.mid?raw=true) |
+| [A#](ModeASharpLydian.md) | A#, B#, C##, **D##**, E#, F##, G##, A# | F | ![ASharpLydian](ModeASharpLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpLydian.mid?raw=true) |
+| [Bb](ModeBFlatLydian.md) | Bb, C, D, **E**, F, G, A, Bb | F | ![BFlatLydian](ModeBFlatLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatLydian.mid?raw=true) |
+| [B](ModeBNaturalLydian.md) | B, C#, D#, **E#**, F#, G#, A#, B | F#, Gb | ![BNaturalLydian](ModeBNaturalLydian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalLydian.mid?raw=true) |

@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalBothitonic.md) | **C**, **D**, **E**, **F#**, **G#**, **C** | C | ![CNaturalBothitonic](ModeCNaturalBothitonic.png) | [midi](ModeCNaturalBothitonic.mid) [ogg](ModeCNaturalBothitonic.ogg) |
-| [C#](ModeCSharpBothitonic.md) | **C#**, **D#**, **F**, **G**, **A**, **C#** | C | ![CSharpBothitonic](ModeCSharpBothitonic.png) | [midi](ModeCSharpBothitonic.mid) [ogg](ModeCSharpBothitonic.ogg) |
-| [Db](ModeDFlatBothitonic.md) | **Db**, **Eb**, **F**, **G**, **A**, **Db** | C | ![DFlatBothitonic](ModeDFlatBothitonic.png) | [midi](ModeDFlatBothitonic.mid) [ogg](ModeDFlatBothitonic.ogg) |
-| [D](ModeDNaturalBothitonic.md) | **D**, **E**, **F#**, **G#**, **A#**, **D** | C | ![DNaturalBothitonic](ModeDNaturalBothitonic.png) | [midi](ModeDNaturalBothitonic.mid) [ogg](ModeDNaturalBothitonic.ogg) |
-| [D#](ModeDSharpBothitonic.md) | **D#**, **F**, **G**, **A**, **B**, **D#** | C | ![DSharpBothitonic](ModeDSharpBothitonic.png) | [midi](ModeDSharpBothitonic.mid) [ogg](ModeDSharpBothitonic.ogg) |
-| [Eb](ModeEFlatBothitonic.md) | **Eb**, **F**, **G**, **A**, **B**, **Eb** | C | ![EFlatBothitonic](ModeEFlatBothitonic.png) | [midi](ModeEFlatBothitonic.mid) [ogg](ModeEFlatBothitonic.ogg) |
-| [E](ModeENaturalBothitonic.md) | **E**, **F#**, **G#**, **A#**, **C**, **E** | C | ![ENaturalBothitonic](ModeENaturalBothitonic.png) | [midi](ModeENaturalBothitonic.mid) [ogg](ModeENaturalBothitonic.ogg) |
-| [F](ModeFNaturalBothitonic.md) | **F**, **G**, **A**, **B**, **C#**, **F** | C | ![FNaturalBothitonic](ModeFNaturalBothitonic.png) | [midi](ModeFNaturalBothitonic.mid) [ogg](ModeFNaturalBothitonic.ogg) |
-| [F#](ModeFSharpBothitonic.md) | **F#**, **G#**, **A#**, **C**, **D**, **F#** | C | ![FSharpBothitonic](ModeFSharpBothitonic.png) | [midi](ModeFSharpBothitonic.mid) [ogg](ModeFSharpBothitonic.ogg) |
-| [Gb](ModeGFlatBothitonic.md) | **Gb**, **Ab**, **Bb**, **C**, **D**, **Gb** | C | ![GFlatBothitonic](ModeGFlatBothitonic.png) | [midi](ModeGFlatBothitonic.mid) [ogg](ModeGFlatBothitonic.ogg) |
-| [G](ModeGNaturalBothitonic.md) | **G**, **A**, **B**, **C#**, **D#**, **G** | C | ![GNaturalBothitonic](ModeGNaturalBothitonic.png) | [midi](ModeGNaturalBothitonic.mid) [ogg](ModeGNaturalBothitonic.ogg) |
-| [G#](ModeGSharpBothitonic.md) | **G#**, **A#**, **C**, **D**, **E**, **G#** | C | ![GSharpBothitonic](ModeGSharpBothitonic.png) | [midi](ModeGSharpBothitonic.mid) [ogg](ModeGSharpBothitonic.ogg) |
-| [Ab](ModeAFlatBothitonic.md) | **Ab**, **Bb**, **C**, **D**, **E**, **Ab** | C | ![AFlatBothitonic](ModeAFlatBothitonic.png) | [midi](ModeAFlatBothitonic.mid) [ogg](ModeAFlatBothitonic.ogg) |
-| [A](ModeANaturalBothitonic.md) | **A**, **B**, **C#**, **D#**, **F**, **A** | C | ![ANaturalBothitonic](ModeANaturalBothitonic.png) | [midi](ModeANaturalBothitonic.mid) [ogg](ModeANaturalBothitonic.ogg) |
-| [A#](ModeASharpBothitonic.md) | **A#**, **C**, **D**, **E**, **F#**, **A#** | C | ![ASharpBothitonic](ModeASharpBothitonic.png) | [midi](ModeASharpBothitonic.mid) [ogg](ModeASharpBothitonic.ogg) |
-| [Bb](ModeBFlatBothitonic.md) | **Bb**, **C**, **D**, **E**, **Gb**, **Bb** | C | ![BFlatBothitonic](ModeBFlatBothitonic.png) | [midi](ModeBFlatBothitonic.mid) [ogg](ModeBFlatBothitonic.ogg) |
-| [B](ModeBNaturalBothitonic.md) | **B**, **C#**, **D#**, **F**, **G**, **B** | C | ![BNaturalBothitonic](ModeBNaturalBothitonic.png) | [midi](ModeBNaturalBothitonic.mid) [ogg](ModeBNaturalBothitonic.ogg) |
+| [C](ModeCNaturalBothitonic.md) | **C**, **D**, **E**, **F#**, **G#**, **C** | C | ![CNaturalBothitonic](ModeCNaturalBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalBothitonic.mid?raw=true) |
+| [C#](ModeCSharpBothitonic.md) | **C#**, **D#**, **F**, **G**, **A**, **C#** | C | ![CSharpBothitonic](ModeCSharpBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpBothitonic.mid?raw=true) |
+| [Db](ModeDFlatBothitonic.md) | **Db**, **Eb**, **F**, **G**, **A**, **Db** | C | ![DFlatBothitonic](ModeDFlatBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatBothitonic.mid?raw=true) |
+| [D](ModeDNaturalBothitonic.md) | **D**, **E**, **F#**, **G#**, **A#**, **D** | C | ![DNaturalBothitonic](ModeDNaturalBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalBothitonic.mid?raw=true) |
+| [D#](ModeDSharpBothitonic.md) | **D#**, **F**, **G**, **A**, **B**, **D#** | C | ![DSharpBothitonic](ModeDSharpBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpBothitonic.mid?raw=true) |
+| [Eb](ModeEFlatBothitonic.md) | **Eb**, **F**, **G**, **A**, **B**, **Eb** | C | ![EFlatBothitonic](ModeEFlatBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatBothitonic.mid?raw=true) |
+| [E](ModeENaturalBothitonic.md) | **E**, **F#**, **G#**, **A#**, **C**, **E** | C | ![ENaturalBothitonic](ModeENaturalBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalBothitonic.mid?raw=true) |
+| [F](ModeFNaturalBothitonic.md) | **F**, **G**, **A**, **B**, **C#**, **F** | C | ![FNaturalBothitonic](ModeFNaturalBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalBothitonic.mid?raw=true) |
+| [F#](ModeFSharpBothitonic.md) | **F#**, **G#**, **A#**, **C**, **D**, **F#** | C | ![FSharpBothitonic](ModeFSharpBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpBothitonic.mid?raw=true) |
+| [Gb](ModeGFlatBothitonic.md) | **Gb**, **Ab**, **Bb**, **C**, **D**, **Gb** | C | ![GFlatBothitonic](ModeGFlatBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatBothitonic.mid?raw=true) |
+| [G](ModeGNaturalBothitonic.md) | **G**, **A**, **B**, **C#**, **D#**, **G** | C | ![GNaturalBothitonic](ModeGNaturalBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalBothitonic.mid?raw=true) |
+| [G#](ModeGSharpBothitonic.md) | **G#**, **A#**, **C**, **D**, **E**, **G#** | C | ![GSharpBothitonic](ModeGSharpBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpBothitonic.mid?raw=true) |
+| [Ab](ModeAFlatBothitonic.md) | **Ab**, **Bb**, **C**, **D**, **E**, **Ab** | C | ![AFlatBothitonic](ModeAFlatBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatBothitonic.mid?raw=true) |
+| [A](ModeANaturalBothitonic.md) | **A**, **B**, **C#**, **D#**, **F**, **A** | C | ![ANaturalBothitonic](ModeANaturalBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalBothitonic.mid?raw=true) |
+| [A#](ModeASharpBothitonic.md) | **A#**, **C**, **D**, **E**, **F#**, **A#** | C | ![ASharpBothitonic](ModeASharpBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpBothitonic.mid?raw=true) |
+| [Bb](ModeBFlatBothitonic.md) | **Bb**, **C**, **D**, **E**, **Gb**, **Bb** | C | ![BFlatBothitonic](ModeBFlatBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatBothitonic.mid?raw=true) |
+| [B](ModeBNaturalBothitonic.md) | **B**, **C#**, **D#**, **F**, **G**, **B** | C | ![BNaturalBothitonic](ModeBNaturalBothitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalBothitonic.mid?raw=true) |

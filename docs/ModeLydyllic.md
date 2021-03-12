@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalLydyllic.md) | **C**, D#, F, **F#**, G#, **A**, A#, B, **C** | C | ![CNaturalLydyllic](ModeCNaturalLydyllic.png) | [midi](ModeCNaturalLydyllic.mid) [ogg](ModeCNaturalLydyllic.ogg) |
-| [C#](ModeCSharpLydyllic.md) | **C#**, E, F#, **G**, A, **A#**, B, C, **C#** | C | ![CSharpLydyllic](ModeCSharpLydyllic.png) | [midi](ModeCSharpLydyllic.mid) [ogg](ModeCSharpLydyllic.ogg) |
-| [Db](ModeDFlatLydyllic.md) | **Db**, E, Gb, **G**, A, **Bb**, B, C, **Db** | C | ![DFlatLydyllic](ModeDFlatLydyllic.png) | [midi](ModeDFlatLydyllic.mid) [ogg](ModeDFlatLydyllic.ogg) |
-| [D](ModeDNaturalLydyllic.md) | **D**, F, G, **G#**, A#, **B**, C, C#, **D** | C | ![DNaturalLydyllic](ModeDNaturalLydyllic.png) | [midi](ModeDNaturalLydyllic.mid) [ogg](ModeDNaturalLydyllic.ogg) |
-| [D#](ModeDSharpLydyllic.md) | **D#**, F#, G#, **A**, B, **C**, C#, D, **D#** | C | ![DSharpLydyllic](ModeDSharpLydyllic.png) | [midi](ModeDSharpLydyllic.mid) [ogg](ModeDSharpLydyllic.ogg) |
-| [Eb](ModeEFlatLydyllic.md) | **Eb**, Gb, Ab, **A**, B, **C**, Db, D, **Eb** | C | ![EFlatLydyllic](ModeEFlatLydyllic.png) | [midi](ModeEFlatLydyllic.mid) [ogg](ModeEFlatLydyllic.ogg) |
-| [E](ModeENaturalLydyllic.md) | **E**, G, A, **A#**, C, **C#**, D, D#, **E** | C | ![ENaturalLydyllic](ModeENaturalLydyllic.png) | [midi](ModeENaturalLydyllic.mid) [ogg](ModeENaturalLydyllic.ogg) |
-| [F](ModeFNaturalLydyllic.md) | **F**, G#, A#, **B**, C#, **D**, D#, E, **F** | C | ![FNaturalLydyllic](ModeFNaturalLydyllic.png) | [midi](ModeFNaturalLydyllic.mid) [ogg](ModeFNaturalLydyllic.ogg) |
-| [F#](ModeFSharpLydyllic.md) | **F#**, A, B, **C**, D, **D#**, E, F, **F#** | C | ![FSharpLydyllic](ModeFSharpLydyllic.png) | [midi](ModeFSharpLydyllic.mid) [ogg](ModeFSharpLydyllic.ogg) |
-| [Gb](ModeGFlatLydyllic.md) | **Gb**, A, B, **C**, D, **Eb**, E, F, **Gb** | C | ![GFlatLydyllic](ModeGFlatLydyllic.png) | [midi](ModeGFlatLydyllic.mid) [ogg](ModeGFlatLydyllic.ogg) |
-| [G](ModeGNaturalLydyllic.md) | **G**, A#, C, **C#**, D#, **E**, F, F#, **G** | C | ![GNaturalLydyllic](ModeGNaturalLydyllic.png) | [midi](ModeGNaturalLydyllic.mid) [ogg](ModeGNaturalLydyllic.ogg) |
-| [G#](ModeGSharpLydyllic.md) | **G#**, B, C#, **D**, E, **F**, F#, G, **G#** | C | ![GSharpLydyllic](ModeGSharpLydyllic.png) | [midi](ModeGSharpLydyllic.mid) [ogg](ModeGSharpLydyllic.ogg) |
-| [Ab](ModeAFlatLydyllic.md) | **Ab**, B, Db, **D**, E, **F**, Gb, G, **Ab** | C | ![AFlatLydyllic](ModeAFlatLydyllic.png) | [midi](ModeAFlatLydyllic.mid) [ogg](ModeAFlatLydyllic.ogg) |
-| [A](ModeANaturalLydyllic.md) | **A**, C, D, **D#**, F, **F#**, G, G#, **A** | C | ![ANaturalLydyllic](ModeANaturalLydyllic.png) | [midi](ModeANaturalLydyllic.mid) [ogg](ModeANaturalLydyllic.ogg) |
-| [A#](ModeASharpLydyllic.md) | **A#**, C#, D#, **E**, F#, **G**, G#, A, **A#** | C | ![ASharpLydyllic](ModeASharpLydyllic.png) | [midi](ModeASharpLydyllic.mid) [ogg](ModeASharpLydyllic.ogg) |
-| [Bb](ModeBFlatLydyllic.md) | **Bb**, Db, Eb, **E**, Gb, **G**, Ab, A, **Bb** | C | ![BFlatLydyllic](ModeBFlatLydyllic.png) | [midi](ModeBFlatLydyllic.mid) [ogg](ModeBFlatLydyllic.ogg) |
-| [B](ModeBNaturalLydyllic.md) | **B**, D, E, **F**, G, **G#**, A, A#, **B** | C | ![BNaturalLydyllic](ModeBNaturalLydyllic.png) | [midi](ModeBNaturalLydyllic.mid) [ogg](ModeBNaturalLydyllic.ogg) |
+| [C](ModeCNaturalLydyllic.md) | **C**, D#, F, **F#**, G#, **A**, A#, B, **C** | C | ![CNaturalLydyllic](ModeCNaturalLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalLydyllic.mid?raw=true) |
+| [C#](ModeCSharpLydyllic.md) | **C#**, E, F#, **G**, A, **A#**, B, C, **C#** | C | ![CSharpLydyllic](ModeCSharpLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpLydyllic.mid?raw=true) |
+| [Db](ModeDFlatLydyllic.md) | **Db**, E, Gb, **G**, A, **Bb**, B, C, **Db** | C | ![DFlatLydyllic](ModeDFlatLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatLydyllic.mid?raw=true) |
+| [D](ModeDNaturalLydyllic.md) | **D**, F, G, **G#**, A#, **B**, C, C#, **D** | C | ![DNaturalLydyllic](ModeDNaturalLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalLydyllic.mid?raw=true) |
+| [D#](ModeDSharpLydyllic.md) | **D#**, F#, G#, **A**, B, **C**, C#, D, **D#** | C | ![DSharpLydyllic](ModeDSharpLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpLydyllic.mid?raw=true) |
+| [Eb](ModeEFlatLydyllic.md) | **Eb**, Gb, Ab, **A**, B, **C**, Db, D, **Eb** | C | ![EFlatLydyllic](ModeEFlatLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatLydyllic.mid?raw=true) |
+| [E](ModeENaturalLydyllic.md) | **E**, G, A, **A#**, C, **C#**, D, D#, **E** | C | ![ENaturalLydyllic](ModeENaturalLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalLydyllic.mid?raw=true) |
+| [F](ModeFNaturalLydyllic.md) | **F**, G#, A#, **B**, C#, **D**, D#, E, **F** | C | ![FNaturalLydyllic](ModeFNaturalLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalLydyllic.mid?raw=true) |
+| [F#](ModeFSharpLydyllic.md) | **F#**, A, B, **C**, D, **D#**, E, F, **F#** | C | ![FSharpLydyllic](ModeFSharpLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpLydyllic.mid?raw=true) |
+| [Gb](ModeGFlatLydyllic.md) | **Gb**, A, B, **C**, D, **Eb**, E, F, **Gb** | C | ![GFlatLydyllic](ModeGFlatLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatLydyllic.mid?raw=true) |
+| [G](ModeGNaturalLydyllic.md) | **G**, A#, C, **C#**, D#, **E**, F, F#, **G** | C | ![GNaturalLydyllic](ModeGNaturalLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalLydyllic.mid?raw=true) |
+| [G#](ModeGSharpLydyllic.md) | **G#**, B, C#, **D**, E, **F**, F#, G, **G#** | C | ![GSharpLydyllic](ModeGSharpLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpLydyllic.mid?raw=true) |
+| [Ab](ModeAFlatLydyllic.md) | **Ab**, B, Db, **D**, E, **F**, Gb, G, **Ab** | C | ![AFlatLydyllic](ModeAFlatLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatLydyllic.mid?raw=true) |
+| [A](ModeANaturalLydyllic.md) | **A**, C, D, **D#**, F, **F#**, G, G#, **A** | C | ![ANaturalLydyllic](ModeANaturalLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalLydyllic.mid?raw=true) |
+| [A#](ModeASharpLydyllic.md) | **A#**, C#, D#, **E**, F#, **G**, G#, A, **A#** | C | ![ASharpLydyllic](ModeASharpLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpLydyllic.mid?raw=true) |
+| [Bb](ModeBFlatLydyllic.md) | **Bb**, Db, Eb, **E**, Gb, **G**, Ab, A, **Bb** | C | ![BFlatLydyllic](ModeBFlatLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatLydyllic.mid?raw=true) |
+| [B](ModeBNaturalLydyllic.md) | **B**, D, E, **F**, G, **G#**, A, A#, **B** | C | ![BNaturalLydyllic](ModeBNaturalLydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalLydyllic.mid?raw=true) |

@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalRothimic.md) | **C**, D#, E#, **F#**, G###, A##, **C** | C | ![CNaturalRothimic](ModeCNaturalRothimic.png) | [midi](ModeCNaturalRothimic.mid) [ogg](ModeCNaturalRothimic.ogg) |
-| [C#](ModeCSharpRothimic.md) | **C#**, D##, E##, **F##**, Cb, Dbb, **C#** | C | ![CSharpRothimic](ModeCSharpRothimic.png) | [midi](ModeCSharpRothimic.mid) [ogg](ModeCSharpRothimic.ogg) |
-| [Db](ModeDFlatRothimic.md) | **Db**, E, F#, **G**, A##, B#, **Db** | C | ![DFlatRothimic](ModeDFlatRothimic.png) | [midi](ModeDFlatRothimic.mid) [ogg](ModeDFlatRothimic.ogg) |
-| [D](ModeDNaturalRothimic.md) | **D**, E#, F##, **G#**, A###, B##, **D** | C | ![DNaturalRothimic](ModeDNaturalRothimic.png) | [midi](ModeDNaturalRothimic.mid) [ogg](ModeDNaturalRothimic.ogg) |
-| [D#](ModeDSharpRothimic.md) | **D#**, E##, F###, **G##**, Db, Ebb, **D#** | C | ![DSharpRothimic](ModeDSharpRothimic.png) | [midi](ModeDSharpRothimic.mid) [ogg](ModeDSharpRothimic.ogg) |
-| [Eb](ModeEFlatRothimic.md) | **Eb**, F#, G#, **A**, B##, C##, **Eb** | C | ![EFlatRothimic](ModeEFlatRothimic.png) | [midi](ModeEFlatRothimic.mid) [ogg](ModeEFlatRothimic.ogg) |
-| [E](ModeENaturalRothimic.md) | **E**, F##, G##, **A#**, B###, C###, **E** | C | ![ENaturalRothimic](ModeENaturalRothimic.png) | [midi](ModeENaturalRothimic.mid) [ogg](ModeENaturalRothimic.ogg) |
-| [F](ModeFNaturalRothimic.md) | **F**, G#, A#, **B**, C###, D##, **F** | C | ![FNaturalRothimic](ModeFNaturalRothimic.png) | [midi](ModeFNaturalRothimic.mid) [ogg](ModeFNaturalRothimic.ogg) |
-| [F#](ModeFSharpRothimic.md) | **F#**, G##, A##, **B#**, D##, E#, **F#** | C | ![FSharpRothimic](ModeFSharpRothimic.png) | [midi](ModeFSharpRothimic.mid) [ogg](ModeFSharpRothimic.ogg) |
-| [Gb](ModeGFlatRothimic.md) | **Gb**, A, B, **C**, D##, E#, **Gb** | C | ![GFlatRothimic](ModeGFlatRothimic.png) | [midi](ModeGFlatRothimic.mid) [ogg](ModeGFlatRothimic.ogg) |
-| [G](ModeGNaturalRothimic.md) | **G**, A#, B#, **C#**, D###, E##, **G** | C | ![GNaturalRothimic](ModeGNaturalRothimic.png) | [midi](ModeGNaturalRothimic.mid) [ogg](ModeGNaturalRothimic.ogg) |
-| [G#](ModeGSharpRothimic.md) | **G#**, A##, B##, **C##**, E##, F##, **G#** | C | ![GSharpRothimic](ModeGSharpRothimic.png) | [midi](ModeGSharpRothimic.mid) [ogg](ModeGSharpRothimic.ogg) |
-| [Ab](ModeAFlatRothimic.md) | **Ab**, B, C#, **D**, E##, F##, **Ab** | C | ![AFlatRothimic](ModeAFlatRothimic.png) | [midi](ModeAFlatRothimic.mid) [ogg](ModeAFlatRothimic.ogg) |
-| [A](ModeANaturalRothimic.md) | **A**, B#, C##, **D#**, E###, F###, **A** | C | ![ANaturalRothimic](ModeANaturalRothimic.png) | [midi](ModeANaturalRothimic.mid) [ogg](ModeANaturalRothimic.ogg) |
-| [A#](ModeASharpRothimic.md) | **A#**, B##, C###, **D##**, F###, G##, **A#** | C | ![ASharpRothimic](ModeASharpRothimic.png) | [midi](ModeASharpRothimic.mid) [ogg](ModeASharpRothimic.ogg) |
-| [Bb](ModeBFlatRothimic.md) | **Bb**, C#, D#, **E**, F###, G##, **Bb** | C | ![BFlatRothimic](ModeBFlatRothimic.png) | [midi](ModeBFlatRothimic.mid) [ogg](ModeBFlatRothimic.ogg) |
-| [B](ModeBNaturalRothimic.md) | **B**, C##, D##, **E#**, Cbbb, Cbb, **B** | C | ![BNaturalRothimic](ModeBNaturalRothimic.png) | [midi](ModeBNaturalRothimic.mid) [ogg](ModeBNaturalRothimic.ogg) |
+| [C](ModeCNaturalRothimic.md) | **C**, D#, E#, **F#**, G###, A##, **C** | C | ![CNaturalRothimic](ModeCNaturalRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalRothimic.mid?raw=true) |
+| [C#](ModeCSharpRothimic.md) | **C#**, D##, E##, **F##**, Cb, Dbb, **C#** | C | ![CSharpRothimic](ModeCSharpRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpRothimic.mid?raw=true) |
+| [Db](ModeDFlatRothimic.md) | **Db**, E, F#, **G**, A##, B#, **Db** | C | ![DFlatRothimic](ModeDFlatRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatRothimic.mid?raw=true) |
+| [D](ModeDNaturalRothimic.md) | **D**, E#, F##, **G#**, A###, B##, **D** | C | ![DNaturalRothimic](ModeDNaturalRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalRothimic.mid?raw=true) |
+| [D#](ModeDSharpRothimic.md) | **D#**, E##, F###, **G##**, Db, Ebb, **D#** | C | ![DSharpRothimic](ModeDSharpRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpRothimic.mid?raw=true) |
+| [Eb](ModeEFlatRothimic.md) | **Eb**, F#, G#, **A**, B##, C##, **Eb** | C | ![EFlatRothimic](ModeEFlatRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatRothimic.mid?raw=true) |
+| [E](ModeENaturalRothimic.md) | **E**, F##, G##, **A#**, B###, C###, **E** | C | ![ENaturalRothimic](ModeENaturalRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalRothimic.mid?raw=true) |
+| [F](ModeFNaturalRothimic.md) | **F**, G#, A#, **B**, C###, D##, **F** | C | ![FNaturalRothimic](ModeFNaturalRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalRothimic.mid?raw=true) |
+| [F#](ModeFSharpRothimic.md) | **F#**, G##, A##, **B#**, D##, E#, **F#** | C | ![FSharpRothimic](ModeFSharpRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpRothimic.mid?raw=true) |
+| [Gb](ModeGFlatRothimic.md) | **Gb**, A, B, **C**, D##, E#, **Gb** | C | ![GFlatRothimic](ModeGFlatRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatRothimic.mid?raw=true) |
+| [G](ModeGNaturalRothimic.md) | **G**, A#, B#, **C#**, D###, E##, **G** | C | ![GNaturalRothimic](ModeGNaturalRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalRothimic.mid?raw=true) |
+| [G#](ModeGSharpRothimic.md) | **G#**, A##, B##, **C##**, E##, F##, **G#** | C | ![GSharpRothimic](ModeGSharpRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpRothimic.mid?raw=true) |
+| [Ab](ModeAFlatRothimic.md) | **Ab**, B, C#, **D**, E##, F##, **Ab** | C | ![AFlatRothimic](ModeAFlatRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatRothimic.mid?raw=true) |
+| [A](ModeANaturalRothimic.md) | **A**, B#, C##, **D#**, E###, F###, **A** | C | ![ANaturalRothimic](ModeANaturalRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalRothimic.mid?raw=true) |
+| [A#](ModeASharpRothimic.md) | **A#**, B##, C###, **D##**, F###, G##, **A#** | C | ![ASharpRothimic](ModeASharpRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpRothimic.mid?raw=true) |
+| [Bb](ModeBFlatRothimic.md) | **Bb**, C#, D#, **E**, F###, G##, **Bb** | C | ![BFlatRothimic](ModeBFlatRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatRothimic.mid?raw=true) |
+| [B](ModeBNaturalRothimic.md) | **B**, C##, D##, **E#**, Cbbb, Cbb, **B** | C | ![BNaturalRothimic](ModeBNaturalRothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalRothimic.mid?raw=true) |

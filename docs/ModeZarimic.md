@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalZarimic.md) | **C**, **D**, E#, **F#**, G###, A##, **C** | C | ![CNaturalZarimic](ModeCNaturalZarimic.png) | [midi](ModeCNaturalZarimic.mid) [ogg](ModeCNaturalZarimic.ogg) |
-| [C#](ModeCSharpZarimic.md) | **C#**, **D#**, E##, **F##**, Cb, Dbb, **C#** | C | ![CSharpZarimic](ModeCSharpZarimic.png) | [midi](ModeCSharpZarimic.mid) [ogg](ModeCSharpZarimic.ogg) |
-| [Db](ModeDFlatZarimic.md) | **Db**, **Eb**, F#, **G**, A##, B#, **Db** | C | ![DFlatZarimic](ModeDFlatZarimic.png) | [midi](ModeDFlatZarimic.mid) [ogg](ModeDFlatZarimic.ogg) |
-| [D](ModeDNaturalZarimic.md) | **D**, **E**, F##, **G#**, A###, B##, **D** | C | ![DNaturalZarimic](ModeDNaturalZarimic.png) | [midi](ModeDNaturalZarimic.mid) [ogg](ModeDNaturalZarimic.ogg) |
-| [D#](ModeDSharpZarimic.md) | **D#**, **E#**, F###, **G##**, Db, Ebb, **D#** | C | ![DSharpZarimic](ModeDSharpZarimic.png) | [midi](ModeDSharpZarimic.mid) [ogg](ModeDSharpZarimic.ogg) |
-| [Eb](ModeEFlatZarimic.md) | **Eb**, **F**, G#, **A**, B##, C##, **Eb** | C | ![EFlatZarimic](ModeEFlatZarimic.png) | [midi](ModeEFlatZarimic.mid) [ogg](ModeEFlatZarimic.ogg) |
-| [E](ModeENaturalZarimic.md) | **E**, **F#**, G##, **A#**, B###, C###, **E** | C | ![ENaturalZarimic](ModeENaturalZarimic.png) | [midi](ModeENaturalZarimic.mid) [ogg](ModeENaturalZarimic.ogg) |
-| [F](ModeFNaturalZarimic.md) | **F**, **G**, A#, **B**, C###, D##, **F** | C | ![FNaturalZarimic](ModeFNaturalZarimic.png) | [midi](ModeFNaturalZarimic.mid) [ogg](ModeFNaturalZarimic.ogg) |
-| [F#](ModeFSharpZarimic.md) | **F#**, **G#**, A##, **B#**, D##, E#, **F#** | C | ![FSharpZarimic](ModeFSharpZarimic.png) | [midi](ModeFSharpZarimic.mid) [ogg](ModeFSharpZarimic.ogg) |
-| [Gb](ModeGFlatZarimic.md) | **Gb**, **Ab**, B, **C**, D##, E#, **Gb** | C | ![GFlatZarimic](ModeGFlatZarimic.png) | [midi](ModeGFlatZarimic.mid) [ogg](ModeGFlatZarimic.ogg) |
-| [G](ModeGNaturalZarimic.md) | **G**, **A**, B#, **C#**, D###, E##, **G** | C | ![GNaturalZarimic](ModeGNaturalZarimic.png) | [midi](ModeGNaturalZarimic.mid) [ogg](ModeGNaturalZarimic.ogg) |
-| [G#](ModeGSharpZarimic.md) | **G#**, **A#**, B##, **C##**, E##, F##, **G#** | C | ![GSharpZarimic](ModeGSharpZarimic.png) | [midi](ModeGSharpZarimic.mid) [ogg](ModeGSharpZarimic.ogg) |
-| [Ab](ModeAFlatZarimic.md) | **Ab**, **Bb**, C#, **D**, E##, F##, **Ab** | C | ![AFlatZarimic](ModeAFlatZarimic.png) | [midi](ModeAFlatZarimic.mid) [ogg](ModeAFlatZarimic.ogg) |
-| [A](ModeANaturalZarimic.md) | **A**, **B**, C##, **D#**, E###, F###, **A** | C | ![ANaturalZarimic](ModeANaturalZarimic.png) | [midi](ModeANaturalZarimic.mid) [ogg](ModeANaturalZarimic.ogg) |
-| [A#](ModeASharpZarimic.md) | **A#**, **B#**, C###, **D##**, F###, G##, **A#** | C | ![ASharpZarimic](ModeASharpZarimic.png) | [midi](ModeASharpZarimic.mid) [ogg](ModeASharpZarimic.ogg) |
-| [Bb](ModeBFlatZarimic.md) | **Bb**, **C**, D#, **E**, F###, G##, **Bb** | C | ![BFlatZarimic](ModeBFlatZarimic.png) | [midi](ModeBFlatZarimic.mid) [ogg](ModeBFlatZarimic.ogg) |
-| [B](ModeBNaturalZarimic.md) | **B**, **C#**, D##, **E#**, Cbbb, Cbb, **B** | C | ![BNaturalZarimic](ModeBNaturalZarimic.png) | [midi](ModeBNaturalZarimic.mid) [ogg](ModeBNaturalZarimic.ogg) |
+| [C](ModeCNaturalZarimic.md) | **C**, **D**, E#, **F#**, G###, A##, **C** | C | ![CNaturalZarimic](ModeCNaturalZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalZarimic.mid?raw=true) |
+| [C#](ModeCSharpZarimic.md) | **C#**, **D#**, E##, **F##**, Cb, Dbb, **C#** | C | ![CSharpZarimic](ModeCSharpZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpZarimic.mid?raw=true) |
+| [Db](ModeDFlatZarimic.md) | **Db**, **Eb**, F#, **G**, A##, B#, **Db** | C | ![DFlatZarimic](ModeDFlatZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatZarimic.mid?raw=true) |
+| [D](ModeDNaturalZarimic.md) | **D**, **E**, F##, **G#**, A###, B##, **D** | C | ![DNaturalZarimic](ModeDNaturalZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalZarimic.mid?raw=true) |
+| [D#](ModeDSharpZarimic.md) | **D#**, **E#**, F###, **G##**, Db, Ebb, **D#** | C | ![DSharpZarimic](ModeDSharpZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpZarimic.mid?raw=true) |
+| [Eb](ModeEFlatZarimic.md) | **Eb**, **F**, G#, **A**, B##, C##, **Eb** | C | ![EFlatZarimic](ModeEFlatZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatZarimic.mid?raw=true) |
+| [E](ModeENaturalZarimic.md) | **E**, **F#**, G##, **A#**, B###, C###, **E** | C | ![ENaturalZarimic](ModeENaturalZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalZarimic.mid?raw=true) |
+| [F](ModeFNaturalZarimic.md) | **F**, **G**, A#, **B**, C###, D##, **F** | C | ![FNaturalZarimic](ModeFNaturalZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalZarimic.mid?raw=true) |
+| [F#](ModeFSharpZarimic.md) | **F#**, **G#**, A##, **B#**, D##, E#, **F#** | C | ![FSharpZarimic](ModeFSharpZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpZarimic.mid?raw=true) |
+| [Gb](ModeGFlatZarimic.md) | **Gb**, **Ab**, B, **C**, D##, E#, **Gb** | C | ![GFlatZarimic](ModeGFlatZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatZarimic.mid?raw=true) |
+| [G](ModeGNaturalZarimic.md) | **G**, **A**, B#, **C#**, D###, E##, **G** | C | ![GNaturalZarimic](ModeGNaturalZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalZarimic.mid?raw=true) |
+| [G#](ModeGSharpZarimic.md) | **G#**, **A#**, B##, **C##**, E##, F##, **G#** | C | ![GSharpZarimic](ModeGSharpZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpZarimic.mid?raw=true) |
+| [Ab](ModeAFlatZarimic.md) | **Ab**, **Bb**, C#, **D**, E##, F##, **Ab** | C | ![AFlatZarimic](ModeAFlatZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatZarimic.mid?raw=true) |
+| [A](ModeANaturalZarimic.md) | **A**, **B**, C##, **D#**, E###, F###, **A** | C | ![ANaturalZarimic](ModeANaturalZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalZarimic.mid?raw=true) |
+| [A#](ModeASharpZarimic.md) | **A#**, **B#**, C###, **D##**, F###, G##, **A#** | C | ![ASharpZarimic](ModeASharpZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpZarimic.mid?raw=true) |
+| [Bb](ModeBFlatZarimic.md) | **Bb**, **C**, D#, **E**, F###, G##, **Bb** | C | ![BFlatZarimic](ModeBFlatZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatZarimic.mid?raw=true) |
+| [B](ModeBNaturalZarimic.md) | **B**, **C#**, D##, **E#**, Cbbb, Cbb, **B** | C | ![BNaturalZarimic](ModeBNaturalZarimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalZarimic.mid?raw=true) |

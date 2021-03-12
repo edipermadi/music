@@ -21,7 +21,7 @@
 
 | Number | Mode | Notes | Illustration | Audio |
 |--------|------|-------|--------------|-------|
-| [975](https://ianring.com/musictheory/scales/975) | [Katogyllic](ModeKatogyllic.md) | C, C#, D, **D#**, F#, G, G#, **A**, C | ![CNaturalKatogyllic](ModeCNaturalKatogyllic.png) | [midi](ModeCNaturalKatogyllic.mid) [ogg](ModeCNaturalKatogyllic.ogg) | 
-| [2535](https://ianring.com/musictheory/scales/2535) | [Zygyllic](ModeZygyllic.md) | C, C#, **D**, F, F#, G, **G#**, B, C | ![CNaturalZygyllic](ModeCNaturalZygyllic.png) | [midi](ModeCNaturalZygyllic.mid) [ogg](ModeCNaturalZygyllic.ogg) | 
-| [3315](https://ianring.com/musictheory/scales/3315) | [Aeralyllic](ModeAeralyllic.md) | C, **C#**, E, F, F#, **G**, A#, B, C | ![CNaturalAeralyllic](ModeCNaturalAeralyllic.png) | [midi](ModeCNaturalAeralyllic.mid) [ogg](ModeCNaturalAeralyllic.ogg) | 
-| [3705](https://ianring.com/musictheory/scales/3705) | [Sydyllic](ModeSydyllic.md) | **C**, D#, E, F, **F#**, A, A#, B, **C** | ![CNaturalSydyllic](ModeCNaturalSydyllic.png) | [midi](ModeCNaturalSydyllic.mid) [ogg](ModeCNaturalSydyllic.ogg) | 
+| [975](https://ianring.com/musictheory/scales/975) | [Katogyllic](ModeKatogyllic.md) | C, C#, D, **D#**, F#, G, G#, **A**, C | ![CNaturalKatogyllic](ModeCNaturalKatogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKatogyllic.mid?raw=true) | 
+| [2535](https://ianring.com/musictheory/scales/2535) | [Zygyllic](ModeZygyllic.md) | C, C#, **D**, F, F#, G, **G#**, B, C | ![CNaturalZygyllic](ModeCNaturalZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalZygyllic.mid?raw=true) | 
+| [3315](https://ianring.com/musictheory/scales/3315) | [Aeralyllic](ModeAeralyllic.md) | C, **C#**, E, F, F#, **G**, A#, B, C | ![CNaturalAeralyllic](ModeCNaturalAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAeralyllic.mid?raw=true) | 
+| [3705](https://ianring.com/musictheory/scales/3705) | [Sydyllic](ModeSydyllic.md) | **C**, D#, E, F, **F#**, A, A#, B, **C** | ![CNaturalSydyllic](ModeCNaturalSydyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalSydyllic.mid?raw=true) | 

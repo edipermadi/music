@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalEpanian.md) | **C**, Db, **Ebb**, **Fbb**, **Gbbb**, Abbb, Bbbb, **C** | C | ![CNaturalEpanian](ModeCNaturalEpanian.png) | [midi](ModeCNaturalEpanian.mid) [ogg](ModeCNaturalEpanian.ogg) |
-| [C#](ModeCSharpEpanian.md) | **C#**, D, **Eb**, **Fb**, **Gbb**, Abb, Bbb, **C#** | C | ![CSharpEpanian](ModeCSharpEpanian.png) | [midi](ModeCSharpEpanian.mid) [ogg](ModeCSharpEpanian.ogg) |
-| [Db](ModeDFlatEpanian.md) | **Db**, Ebb, **Fbb**, **Gbbb**, **D###**, E###, Cbbb, **Db** | C | ![DFlatEpanian](ModeDFlatEpanian.png) | [midi](ModeDFlatEpanian.mid) [ogg](ModeDFlatEpanian.ogg) |
-| [D](ModeDNaturalEpanian.md) | **D**, Eb, **Fb**, **Gbb**, **Abbb**, Bbbb, Cbb, **D** | C | ![DNaturalEpanian](ModeDNaturalEpanian.png) | [midi](ModeDNaturalEpanian.mid) [ogg](ModeDNaturalEpanian.ogg) |
-| [D#](ModeDSharpEpanian.md) | **D#**, E, **F**, **Gb**, **Abb**, Bbb, Cb, **D#** | C | ![DSharpEpanian](ModeDSharpEpanian.png) | [midi](ModeDSharpEpanian.mid) [ogg](ModeDSharpEpanian.ogg) |
-| [Eb](ModeEFlatEpanian.md) | **Eb**, Fb, **Gbb**, **Abbb**, **E###**, Cbbb, Dbbb, **Eb** | C | ![EFlatEpanian](ModeEFlatEpanian.png) | [midi](ModeEFlatEpanian.mid) [ogg](ModeEFlatEpanian.ogg) |
-| [E](ModeENaturalEpanian.md) | **E**, F, **Gb**, **Abb**, **Bbbb**, Cbb, Dbb, **E** | C | ![ENaturalEpanian](ModeENaturalEpanian.png) | [midi](ModeENaturalEpanian.mid) [ogg](ModeENaturalEpanian.ogg) |
-| [F](ModeFNaturalEpanian.md) | **F**, Gb, **Abb**, **Bbbb**, **Cbbb**, Dbbb, Ebbb, **F** | C | ![FNaturalEpanian](ModeFNaturalEpanian.png) | [midi](ModeFNaturalEpanian.mid) [ogg](ModeFNaturalEpanian.ogg) |
-| [F#](ModeFSharpEpanian.md) | **F#**, G, **Ab**, **Bbb**, **Cbb**, Dbb, Ebb, **F#** | C | ![FSharpEpanian](ModeFSharpEpanian.png) | [midi](ModeFSharpEpanian.mid) [ogg](ModeFSharpEpanian.ogg) |
-| [Gb](ModeGFlatEpanian.md) | **Gb**, Abb, **Bbbb**, **Cbbb**, **Cbb**, Dbb, Ebb, **Gb** | C | ![GFlatEpanian](ModeGFlatEpanian.png) | [midi](ModeGFlatEpanian.mid) [ogg](ModeGFlatEpanian.ogg) |
-| [G](ModeGNaturalEpanian.md) | **G**, Ab, **Bbb**, **Cbb**, **Dbbb**, Ebbb, Fbb, **G** | C | ![GNaturalEpanian](ModeGNaturalEpanian.png) | [midi](ModeGNaturalEpanian.mid) [ogg](ModeGNaturalEpanian.ogg) |
-| [G#](ModeGSharpEpanian.md) | **G#**, A, **Bb**, **Cb**, **Dbb**, Ebb, Fb, **G#** | C | ![GSharpEpanian](ModeGSharpEpanian.png) | [midi](ModeGSharpEpanian.mid) [ogg](ModeGSharpEpanian.ogg) |
-| [Ab](ModeAFlatEpanian.md) | **Ab**, Bbb, **Cbb**, **Dbbb**, **Dbb**, Ebb, Fb, **Ab** | C | ![AFlatEpanian](ModeAFlatEpanian.png) | [midi](ModeAFlatEpanian.mid) [ogg](ModeAFlatEpanian.ogg) |
-| [A](ModeANaturalEpanian.md) | **A**, Bb, **Cb**, **Dbb**, **Ebbb**, Fbb, Gbb, **A** | C | ![ANaturalEpanian](ModeANaturalEpanian.png) | [midi](ModeANaturalEpanian.mid) [ogg](ModeANaturalEpanian.ogg) |
-| [A#](ModeASharpEpanian.md) | **A#**, B, **C**, **Db**, **Ebb**, Fb, Gb, **A#** | C | ![ASharpEpanian](ModeASharpEpanian.png) | [midi](ModeASharpEpanian.mid) [ogg](ModeASharpEpanian.ogg) |
-| [Bb](ModeBFlatEpanian.md) | **Bb**, Cb, **Dbb**, **Ebbb**, **Fbbb**, Gbbb, Abbb, **Bb** | C | ![BFlatEpanian](ModeBFlatEpanian.png) | [midi](ModeBFlatEpanian.mid) [ogg](ModeBFlatEpanian.ogg) |
-| [B](ModeBNaturalEpanian.md) | **B**, C, **Db**, **Ebb**, **Fbb**, Gbb, Abb, **B** | C | ![BNaturalEpanian](ModeBNaturalEpanian.png) | [midi](ModeBNaturalEpanian.mid) [ogg](ModeBNaturalEpanian.ogg) |
+| [C](ModeCNaturalEpanian.md) | **C**, Db, **Ebb**, **Fbb**, **Gbbb**, Abbb, Bbbb, **C** | C | ![CNaturalEpanian](ModeCNaturalEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalEpanian.mid?raw=true) |
+| [C#](ModeCSharpEpanian.md) | **C#**, D, **Eb**, **Fb**, **Gbb**, Abb, Bbb, **C#** | C | ![CSharpEpanian](ModeCSharpEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpEpanian.mid?raw=true) |
+| [Db](ModeDFlatEpanian.md) | **Db**, Ebb, **Fbb**, **Gbbb**, **D###**, E###, Cbbb, **Db** | C | ![DFlatEpanian](ModeDFlatEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatEpanian.mid?raw=true) |
+| [D](ModeDNaturalEpanian.md) | **D**, Eb, **Fb**, **Gbb**, **Abbb**, Bbbb, Cbb, **D** | C | ![DNaturalEpanian](ModeDNaturalEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalEpanian.mid?raw=true) |
+| [D#](ModeDSharpEpanian.md) | **D#**, E, **F**, **Gb**, **Abb**, Bbb, Cb, **D#** | C | ![DSharpEpanian](ModeDSharpEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpEpanian.mid?raw=true) |
+| [Eb](ModeEFlatEpanian.md) | **Eb**, Fb, **Gbb**, **Abbb**, **E###**, Cbbb, Dbbb, **Eb** | C | ![EFlatEpanian](ModeEFlatEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatEpanian.mid?raw=true) |
+| [E](ModeENaturalEpanian.md) | **E**, F, **Gb**, **Abb**, **Bbbb**, Cbb, Dbb, **E** | C | ![ENaturalEpanian](ModeENaturalEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalEpanian.mid?raw=true) |
+| [F](ModeFNaturalEpanian.md) | **F**, Gb, **Abb**, **Bbbb**, **Cbbb**, Dbbb, Ebbb, **F** | C | ![FNaturalEpanian](ModeFNaturalEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalEpanian.mid?raw=true) |
+| [F#](ModeFSharpEpanian.md) | **F#**, G, **Ab**, **Bbb**, **Cbb**, Dbb, Ebb, **F#** | C | ![FSharpEpanian](ModeFSharpEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpEpanian.mid?raw=true) |
+| [Gb](ModeGFlatEpanian.md) | **Gb**, Abb, **Bbbb**, **Cbbb**, **Cbb**, Dbb, Ebb, **Gb** | C | ![GFlatEpanian](ModeGFlatEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatEpanian.mid?raw=true) |
+| [G](ModeGNaturalEpanian.md) | **G**, Ab, **Bbb**, **Cbb**, **Dbbb**, Ebbb, Fbb, **G** | C | ![GNaturalEpanian](ModeGNaturalEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalEpanian.mid?raw=true) |
+| [G#](ModeGSharpEpanian.md) | **G#**, A, **Bb**, **Cb**, **Dbb**, Ebb, Fb, **G#** | C | ![GSharpEpanian](ModeGSharpEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpEpanian.mid?raw=true) |
+| [Ab](ModeAFlatEpanian.md) | **Ab**, Bbb, **Cbb**, **Dbbb**, **Dbb**, Ebb, Fb, **Ab** | C | ![AFlatEpanian](ModeAFlatEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatEpanian.mid?raw=true) |
+| [A](ModeANaturalEpanian.md) | **A**, Bb, **Cb**, **Dbb**, **Ebbb**, Fbb, Gbb, **A** | C | ![ANaturalEpanian](ModeANaturalEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalEpanian.mid?raw=true) |
+| [A#](ModeASharpEpanian.md) | **A#**, B, **C**, **Db**, **Ebb**, Fb, Gb, **A#** | C | ![ASharpEpanian](ModeASharpEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpEpanian.mid?raw=true) |
+| [Bb](ModeBFlatEpanian.md) | **Bb**, Cb, **Dbb**, **Ebbb**, **Fbbb**, Gbbb, Abbb, **Bb** | C | ![BFlatEpanian](ModeBFlatEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatEpanian.mid?raw=true) |
+| [B](ModeBNaturalEpanian.md) | **B**, C, **Db**, **Ebb**, **Fbb**, Gbb, Abb, **B** | C | ![BNaturalEpanian](ModeBNaturalEpanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalEpanian.mid?raw=true) |

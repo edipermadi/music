@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalSocrian.md) | **C**, Db, E, F, **G#**, A, **B**, **C** | C | ![CNaturalSocrian](ModeCNaturalSocrian.png) | [midi](ModeCNaturalSocrian.mid) [ogg](ModeCNaturalSocrian.ogg) |
-| [C#](ModeCSharpSocrian.md) | **C#**, D, E#, F#, **G##**, A#, **B#**, **C#** | C | ![CSharpSocrian](ModeCSharpSocrian.png) | [midi](ModeCSharpSocrian.mid) [ogg](ModeCSharpSocrian.ogg) |
-| [Db](ModeDFlatSocrian.md) | **Db**, Ebb, F, Gb, **A**, Bb, **C**, **Db** | C | ![DFlatSocrian](ModeDFlatSocrian.png) | [midi](ModeDFlatSocrian.mid) [ogg](ModeDFlatSocrian.ogg) |
-| [D](ModeDNaturalSocrian.md) | **D**, Eb, F#, G, **A#**, B, **C#**, **D** | C | ![DNaturalSocrian](ModeDNaturalSocrian.png) | [midi](ModeDNaturalSocrian.mid) [ogg](ModeDNaturalSocrian.ogg) |
-| [D#](ModeDSharpSocrian.md) | **D#**, E, F##, G#, **A##**, B#, **C##**, **D#** | C | ![DSharpSocrian](ModeDSharpSocrian.png) | [midi](ModeDSharpSocrian.mid) [ogg](ModeDSharpSocrian.ogg) |
-| [Eb](ModeEFlatSocrian.md) | **Eb**, Fb, G, Ab, **B**, C, **D**, **Eb** | C | ![EFlatSocrian](ModeEFlatSocrian.png) | [midi](ModeEFlatSocrian.mid) [ogg](ModeEFlatSocrian.ogg) |
-| [E](ModeENaturalSocrian.md) | **E**, F, G#, A, **B#**, C#, **D#**, **E** | C | ![ENaturalSocrian](ModeENaturalSocrian.png) | [midi](ModeENaturalSocrian.mid) [ogg](ModeENaturalSocrian.ogg) |
-| [F](ModeFNaturalSocrian.md) | **F**, Gb, A, Bb, **C#**, D, **E**, **F** | C | ![FNaturalSocrian](ModeFNaturalSocrian.png) | [midi](ModeFNaturalSocrian.mid) [ogg](ModeFNaturalSocrian.ogg) |
-| [F#](ModeFSharpSocrian.md) | **F#**, G, A#, B, **C##**, D#, **E#**, **F#** | C | ![FSharpSocrian](ModeFSharpSocrian.png) | [midi](ModeFSharpSocrian.mid) [ogg](ModeFSharpSocrian.ogg) |
-| [Gb](ModeGFlatSocrian.md) | **Gb**, Abb, Bb, Cb, **D**, Eb, **F**, **Gb** | C | ![GFlatSocrian](ModeGFlatSocrian.png) | [midi](ModeGFlatSocrian.mid) [ogg](ModeGFlatSocrian.ogg) |
-| [G](ModeGNaturalSocrian.md) | **G**, Ab, B, C, **D#**, E, **F#**, **G** | C | ![GNaturalSocrian](ModeGNaturalSocrian.png) | [midi](ModeGNaturalSocrian.mid) [ogg](ModeGNaturalSocrian.ogg) |
-| [G#](ModeGSharpSocrian.md) | **G#**, A, B#, C#, **D##**, E#, **F##**, **G#** | C | ![GSharpSocrian](ModeGSharpSocrian.png) | [midi](ModeGSharpSocrian.mid) [ogg](ModeGSharpSocrian.ogg) |
-| [Ab](ModeAFlatSocrian.md) | **Ab**, Bbb, C, Db, **E**, F, **G**, **Ab** | C | ![AFlatSocrian](ModeAFlatSocrian.png) | [midi](ModeAFlatSocrian.mid) [ogg](ModeAFlatSocrian.ogg) |
-| [A](ModeANaturalSocrian.md) | **A**, Bb, C#, D, **E#**, F#, **G#**, **A** | C | ![ANaturalSocrian](ModeANaturalSocrian.png) | [midi](ModeANaturalSocrian.mid) [ogg](ModeANaturalSocrian.ogg) |
-| [A#](ModeASharpSocrian.md) | **A#**, B, C##, D#, **E##**, F##, **G##**, **A#** | C | ![ASharpSocrian](ModeASharpSocrian.png) | [midi](ModeASharpSocrian.mid) [ogg](ModeASharpSocrian.ogg) |
-| [Bb](ModeBFlatSocrian.md) | **Bb**, Cb, D, Eb, **F#**, G, **A**, **Bb** | C | ![BFlatSocrian](ModeBFlatSocrian.png) | [midi](ModeBFlatSocrian.mid) [ogg](ModeBFlatSocrian.ogg) |
-| [B](ModeBNaturalSocrian.md) | **B**, C, D#, E, **F##**, G#, **A#**, **B** | C | ![BNaturalSocrian](ModeBNaturalSocrian.png) | [midi](ModeBNaturalSocrian.mid) [ogg](ModeBNaturalSocrian.ogg) |
+| [C](ModeCNaturalSocrian.md) | **C**, Db, E, F, **G#**, A, **B**, **C** | C | ![CNaturalSocrian](ModeCNaturalSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalSocrian.mid?raw=true) |
+| [C#](ModeCSharpSocrian.md) | **C#**, D, E#, F#, **G##**, A#, **B#**, **C#** | C | ![CSharpSocrian](ModeCSharpSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpSocrian.mid?raw=true) |
+| [Db](ModeDFlatSocrian.md) | **Db**, Ebb, F, Gb, **A**, Bb, **C**, **Db** | C | ![DFlatSocrian](ModeDFlatSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatSocrian.mid?raw=true) |
+| [D](ModeDNaturalSocrian.md) | **D**, Eb, F#, G, **A#**, B, **C#**, **D** | C | ![DNaturalSocrian](ModeDNaturalSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalSocrian.mid?raw=true) |
+| [D#](ModeDSharpSocrian.md) | **D#**, E, F##, G#, **A##**, B#, **C##**, **D#** | C | ![DSharpSocrian](ModeDSharpSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpSocrian.mid?raw=true) |
+| [Eb](ModeEFlatSocrian.md) | **Eb**, Fb, G, Ab, **B**, C, **D**, **Eb** | C | ![EFlatSocrian](ModeEFlatSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatSocrian.mid?raw=true) |
+| [E](ModeENaturalSocrian.md) | **E**, F, G#, A, **B#**, C#, **D#**, **E** | C | ![ENaturalSocrian](ModeENaturalSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalSocrian.mid?raw=true) |
+| [F](ModeFNaturalSocrian.md) | **F**, Gb, A, Bb, **C#**, D, **E**, **F** | C | ![FNaturalSocrian](ModeFNaturalSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalSocrian.mid?raw=true) |
+| [F#](ModeFSharpSocrian.md) | **F#**, G, A#, B, **C##**, D#, **E#**, **F#** | C | ![FSharpSocrian](ModeFSharpSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpSocrian.mid?raw=true) |
+| [Gb](ModeGFlatSocrian.md) | **Gb**, Abb, Bb, Cb, **D**, Eb, **F**, **Gb** | C | ![GFlatSocrian](ModeGFlatSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatSocrian.mid?raw=true) |
+| [G](ModeGNaturalSocrian.md) | **G**, Ab, B, C, **D#**, E, **F#**, **G** | C | ![GNaturalSocrian](ModeGNaturalSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalSocrian.mid?raw=true) |
+| [G#](ModeGSharpSocrian.md) | **G#**, A, B#, C#, **D##**, E#, **F##**, **G#** | C | ![GSharpSocrian](ModeGSharpSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpSocrian.mid?raw=true) |
+| [Ab](ModeAFlatSocrian.md) | **Ab**, Bbb, C, Db, **E**, F, **G**, **Ab** | C | ![AFlatSocrian](ModeAFlatSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatSocrian.mid?raw=true) |
+| [A](ModeANaturalSocrian.md) | **A**, Bb, C#, D, **E#**, F#, **G#**, **A** | C | ![ANaturalSocrian](ModeANaturalSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalSocrian.mid?raw=true) |
+| [A#](ModeASharpSocrian.md) | **A#**, B, C##, D#, **E##**, F##, **G##**, **A#** | C | ![ASharpSocrian](ModeASharpSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpSocrian.mid?raw=true) |
+| [Bb](ModeBFlatSocrian.md) | **Bb**, Cb, D, Eb, **F#**, G, **A**, **Bb** | C | ![BFlatSocrian](ModeBFlatSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatSocrian.mid?raw=true) |
+| [B](ModeBNaturalSocrian.md) | **B**, C, D#, E, **F##**, G#, **A#**, **B** | C | ![BNaturalSocrian](ModeBNaturalSocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalSocrian.mid?raw=true) |

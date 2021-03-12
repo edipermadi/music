@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalAeralyllic.md) | C, **C#**, E, F, F#, **G**, A#, B, C | C | ![CNaturalAeralyllic](ModeCNaturalAeralyllic.png) | [midi](ModeCNaturalAeralyllic.mid) [ogg](ModeCNaturalAeralyllic.ogg) |
-| [C#](ModeCSharpAeralyllic.md) | C#, **D**, F, F#, G, **G#**, B, C, C# | C | ![CSharpAeralyllic](ModeCSharpAeralyllic.png) | [midi](ModeCSharpAeralyllic.mid) [ogg](ModeCSharpAeralyllic.ogg) |
-| [Db](ModeDFlatAeralyllic.md) | Db, **D**, F, Gb, G, **Ab**, B, C, Db | C | ![DFlatAeralyllic](ModeDFlatAeralyllic.png) | [midi](ModeDFlatAeralyllic.mid) [ogg](ModeDFlatAeralyllic.ogg) |
-| [D](ModeDNaturalAeralyllic.md) | D, **D#**, F#, G, G#, **A**, C, C#, D | C | ![DNaturalAeralyllic](ModeDNaturalAeralyllic.png) | [midi](ModeDNaturalAeralyllic.mid) [ogg](ModeDNaturalAeralyllic.ogg) |
-| [D#](ModeDSharpAeralyllic.md) | D#, **E**, G, G#, A, **A#**, C#, D, D# | C | ![DSharpAeralyllic](ModeDSharpAeralyllic.png) | [midi](ModeDSharpAeralyllic.mid) [ogg](ModeDSharpAeralyllic.ogg) |
-| [Eb](ModeEFlatAeralyllic.md) | Eb, **E**, G, Ab, A, **Bb**, Db, D, Eb | C | ![EFlatAeralyllic](ModeEFlatAeralyllic.png) | [midi](ModeEFlatAeralyllic.mid) [ogg](ModeEFlatAeralyllic.ogg) |
-| [E](ModeENaturalAeralyllic.md) | E, **F**, G#, A, A#, **B**, D, D#, E | C | ![ENaturalAeralyllic](ModeENaturalAeralyllic.png) | [midi](ModeENaturalAeralyllic.mid) [ogg](ModeENaturalAeralyllic.ogg) |
-| [F](ModeFNaturalAeralyllic.md) | F, **F#**, A, A#, B, **C**, D#, E, F | C | ![FNaturalAeralyllic](ModeFNaturalAeralyllic.png) | [midi](ModeFNaturalAeralyllic.mid) [ogg](ModeFNaturalAeralyllic.ogg) |
-| [F#](ModeFSharpAeralyllic.md) | F#, **G**, A#, B, C, **C#**, E, F, F# | C | ![FSharpAeralyllic](ModeFSharpAeralyllic.png) | [midi](ModeFSharpAeralyllic.mid) [ogg](ModeFSharpAeralyllic.ogg) |
-| [Gb](ModeGFlatAeralyllic.md) | Gb, **G**, Bb, B, C, **Db**, E, F, Gb | C | ![GFlatAeralyllic](ModeGFlatAeralyllic.png) | [midi](ModeGFlatAeralyllic.mid) [ogg](ModeGFlatAeralyllic.ogg) |
-| [G](ModeGNaturalAeralyllic.md) | G, **G#**, B, C, C#, **D**, F, F#, G | C | ![GNaturalAeralyllic](ModeGNaturalAeralyllic.png) | [midi](ModeGNaturalAeralyllic.mid) [ogg](ModeGNaturalAeralyllic.ogg) |
-| [G#](ModeGSharpAeralyllic.md) | G#, **A**, C, C#, D, **D#**, F#, G, G# | C | ![GSharpAeralyllic](ModeGSharpAeralyllic.png) | [midi](ModeGSharpAeralyllic.mid) [ogg](ModeGSharpAeralyllic.ogg) |
-| [Ab](ModeAFlatAeralyllic.md) | Ab, **A**, C, Db, D, **Eb**, Gb, G, Ab | C | ![AFlatAeralyllic](ModeAFlatAeralyllic.png) | [midi](ModeAFlatAeralyllic.mid) [ogg](ModeAFlatAeralyllic.ogg) |
-| [A](ModeANaturalAeralyllic.md) | A, **A#**, C#, D, D#, **E**, G, G#, A | C | ![ANaturalAeralyllic](ModeANaturalAeralyllic.png) | [midi](ModeANaturalAeralyllic.mid) [ogg](ModeANaturalAeralyllic.ogg) |
-| [A#](ModeASharpAeralyllic.md) | A#, **B**, D, D#, E, **F**, G#, A, A# | C | ![ASharpAeralyllic](ModeASharpAeralyllic.png) | [midi](ModeASharpAeralyllic.mid) [ogg](ModeASharpAeralyllic.ogg) |
-| [Bb](ModeBFlatAeralyllic.md) | Bb, **B**, D, Eb, E, **F**, Ab, A, Bb | C | ![BFlatAeralyllic](ModeBFlatAeralyllic.png) | [midi](ModeBFlatAeralyllic.mid) [ogg](ModeBFlatAeralyllic.ogg) |
-| [B](ModeBNaturalAeralyllic.md) | B, **C**, D#, E, F, **F#**, A, A#, B | C | ![BNaturalAeralyllic](ModeBNaturalAeralyllic.png) | [midi](ModeBNaturalAeralyllic.mid) [ogg](ModeBNaturalAeralyllic.ogg) |
+| [C](ModeCNaturalAeralyllic.md) | C, **C#**, E, F, F#, **G**, A#, B, C | C | ![CNaturalAeralyllic](ModeCNaturalAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAeralyllic.mid?raw=true) |
+| [C#](ModeCSharpAeralyllic.md) | C#, **D**, F, F#, G, **G#**, B, C, C# | C | ![CSharpAeralyllic](ModeCSharpAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpAeralyllic.mid?raw=true) |
+| [Db](ModeDFlatAeralyllic.md) | Db, **D**, F, Gb, G, **Ab**, B, C, Db | C | ![DFlatAeralyllic](ModeDFlatAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatAeralyllic.mid?raw=true) |
+| [D](ModeDNaturalAeralyllic.md) | D, **D#**, F#, G, G#, **A**, C, C#, D | C | ![DNaturalAeralyllic](ModeDNaturalAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalAeralyllic.mid?raw=true) |
+| [D#](ModeDSharpAeralyllic.md) | D#, **E**, G, G#, A, **A#**, C#, D, D# | C | ![DSharpAeralyllic](ModeDSharpAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpAeralyllic.mid?raw=true) |
+| [Eb](ModeEFlatAeralyllic.md) | Eb, **E**, G, Ab, A, **Bb**, Db, D, Eb | C | ![EFlatAeralyllic](ModeEFlatAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatAeralyllic.mid?raw=true) |
+| [E](ModeENaturalAeralyllic.md) | E, **F**, G#, A, A#, **B**, D, D#, E | C | ![ENaturalAeralyllic](ModeENaturalAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalAeralyllic.mid?raw=true) |
+| [F](ModeFNaturalAeralyllic.md) | F, **F#**, A, A#, B, **C**, D#, E, F | C | ![FNaturalAeralyllic](ModeFNaturalAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalAeralyllic.mid?raw=true) |
+| [F#](ModeFSharpAeralyllic.md) | F#, **G**, A#, B, C, **C#**, E, F, F# | C | ![FSharpAeralyllic](ModeFSharpAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpAeralyllic.mid?raw=true) |
+| [Gb](ModeGFlatAeralyllic.md) | Gb, **G**, Bb, B, C, **Db**, E, F, Gb | C | ![GFlatAeralyllic](ModeGFlatAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatAeralyllic.mid?raw=true) |
+| [G](ModeGNaturalAeralyllic.md) | G, **G#**, B, C, C#, **D**, F, F#, G | C | ![GNaturalAeralyllic](ModeGNaturalAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalAeralyllic.mid?raw=true) |
+| [G#](ModeGSharpAeralyllic.md) | G#, **A**, C, C#, D, **D#**, F#, G, G# | C | ![GSharpAeralyllic](ModeGSharpAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpAeralyllic.mid?raw=true) |
+| [Ab](ModeAFlatAeralyllic.md) | Ab, **A**, C, Db, D, **Eb**, Gb, G, Ab | C | ![AFlatAeralyllic](ModeAFlatAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatAeralyllic.mid?raw=true) |
+| [A](ModeANaturalAeralyllic.md) | A, **A#**, C#, D, D#, **E**, G, G#, A | C | ![ANaturalAeralyllic](ModeANaturalAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalAeralyllic.mid?raw=true) |
+| [A#](ModeASharpAeralyllic.md) | A#, **B**, D, D#, E, **F**, G#, A, A# | C | ![ASharpAeralyllic](ModeASharpAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpAeralyllic.mid?raw=true) |
+| [Bb](ModeBFlatAeralyllic.md) | Bb, **B**, D, Eb, E, **F**, Ab, A, Bb | C | ![BFlatAeralyllic](ModeBFlatAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatAeralyllic.mid?raw=true) |
+| [B](ModeBNaturalAeralyllic.md) | B, **C**, D#, E, F, **F#**, A, A#, B | C | ![BNaturalAeralyllic](ModeBNaturalAeralyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalAeralyllic.mid?raw=true) |

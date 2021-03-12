@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalTharian.md) | C, Db, E#, **F##**, **G#**, A#, **B**, C | C | ![CNaturalTharian](ModeCNaturalTharian.png) | [midi](ModeCNaturalTharian.mid) [ogg](ModeCNaturalTharian.ogg) |
-| [C#](ModeCSharpTharian.md) | C#, D, E##, **F###**, **G##**, A##, **B#**, C# | C | ![CSharpTharian](ModeCSharpTharian.png) | [midi](ModeCSharpTharian.mid) [ogg](ModeCSharpTharian.ogg) |
-| [Db](ModeDFlatTharian.md) | Db, Ebb, F#, **G#**, **A**, B, **C**, Db | C | ![DFlatTharian](ModeDFlatTharian.png) | [midi](ModeDFlatTharian.mid) [ogg](ModeDFlatTharian.ogg) |
-| [D](ModeDNaturalTharian.md) | D, Eb, F##, **G##**, **A#**, B#, **C#**, D | C | ![DNaturalTharian](ModeDNaturalTharian.png) | [midi](ModeDNaturalTharian.mid) [ogg](ModeDNaturalTharian.ogg) |
-| [D#](ModeDSharpTharian.md) | D#, E, F###, **G###**, **A##**, B##, **C##**, D# | C | ![DSharpTharian](ModeDSharpTharian.png) | [midi](ModeDSharpTharian.mid) [ogg](ModeDSharpTharian.ogg) |
-| [Eb](ModeEFlatTharian.md) | Eb, Fb, G#, **A#**, **B**, C#, **D**, Eb | C | ![EFlatTharian](ModeEFlatTharian.png) | [midi](ModeEFlatTharian.mid) [ogg](ModeEFlatTharian.ogg) |
-| [E](ModeENaturalTharian.md) | E, F, G##, **A##**, **B#**, C##, **D#**, E | C | ![ENaturalTharian](ModeENaturalTharian.png) | [midi](ModeENaturalTharian.mid) [ogg](ModeENaturalTharian.ogg) |
-| [F](ModeFNaturalTharian.md) | F, Gb, A#, **B#**, **C#**, D#, **E**, F | C | ![FNaturalTharian](ModeFNaturalTharian.png) | [midi](ModeFNaturalTharian.mid) [ogg](ModeFNaturalTharian.ogg) |
-| [F#](ModeFSharpTharian.md) | F#, G, A##, **B##**, **C##**, D##, **E#**, F# | C | ![FSharpTharian](ModeFSharpTharian.png) | [midi](ModeFSharpTharian.mid) [ogg](ModeFSharpTharian.ogg) |
-| [Gb](ModeGFlatTharian.md) | Gb, Abb, B, **C#**, **D**, E, **F**, Gb | C | ![GFlatTharian](ModeGFlatTharian.png) | [midi](ModeGFlatTharian.mid) [ogg](ModeGFlatTharian.ogg) |
-| [G](ModeGNaturalTharian.md) | G, Ab, B#, **C##**, **D#**, E#, **F#**, G | C | ![GNaturalTharian](ModeGNaturalTharian.png) | [midi](ModeGNaturalTharian.mid) [ogg](ModeGNaturalTharian.ogg) |
-| [G#](ModeGSharpTharian.md) | G#, A, B##, **C###**, **D##**, E##, **F##**, G# | C | ![GSharpTharian](ModeGSharpTharian.png) | [midi](ModeGSharpTharian.mid) [ogg](ModeGSharpTharian.ogg) |
-| [Ab](ModeAFlatTharian.md) | Ab, Bbb, C#, **D#**, **E**, F#, **G**, Ab | C | ![AFlatTharian](ModeAFlatTharian.png) | [midi](ModeAFlatTharian.mid) [ogg](ModeAFlatTharian.ogg) |
-| [A](ModeANaturalTharian.md) | A, Bb, C##, **D##**, **E#**, F##, **G#**, A | C | ![ANaturalTharian](ModeANaturalTharian.png) | [midi](ModeANaturalTharian.mid) [ogg](ModeANaturalTharian.ogg) |
-| [A#](ModeASharpTharian.md) | A#, B, C###, **D###**, **E##**, F###, **G##**, A# | C | ![ASharpTharian](ModeASharpTharian.png) | [midi](ModeASharpTharian.mid) [ogg](ModeASharpTharian.ogg) |
-| [Bb](ModeBFlatTharian.md) | Bb, Cb, D#, **E#**, **F#**, G#, **A**, Bb | C | ![BFlatTharian](ModeBFlatTharian.png) | [midi](ModeBFlatTharian.mid) [ogg](ModeBFlatTharian.ogg) |
-| [B](ModeBNaturalTharian.md) | B, C, D##, **E##**, **F##**, G##, **A#**, B | C | ![BNaturalTharian](ModeBNaturalTharian.png) | [midi](ModeBNaturalTharian.mid) [ogg](ModeBNaturalTharian.ogg) |
+| [C](ModeCNaturalTharian.md) | C, Db, E#, **F##**, **G#**, A#, **B**, C | C | ![CNaturalTharian](ModeCNaturalTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalTharian.mid?raw=true) |
+| [C#](ModeCSharpTharian.md) | C#, D, E##, **F###**, **G##**, A##, **B#**, C# | C | ![CSharpTharian](ModeCSharpTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpTharian.mid?raw=true) |
+| [Db](ModeDFlatTharian.md) | Db, Ebb, F#, **G#**, **A**, B, **C**, Db | C | ![DFlatTharian](ModeDFlatTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatTharian.mid?raw=true) |
+| [D](ModeDNaturalTharian.md) | D, Eb, F##, **G##**, **A#**, B#, **C#**, D | C | ![DNaturalTharian](ModeDNaturalTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalTharian.mid?raw=true) |
+| [D#](ModeDSharpTharian.md) | D#, E, F###, **G###**, **A##**, B##, **C##**, D# | C | ![DSharpTharian](ModeDSharpTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpTharian.mid?raw=true) |
+| [Eb](ModeEFlatTharian.md) | Eb, Fb, G#, **A#**, **B**, C#, **D**, Eb | C | ![EFlatTharian](ModeEFlatTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatTharian.mid?raw=true) |
+| [E](ModeENaturalTharian.md) | E, F, G##, **A##**, **B#**, C##, **D#**, E | C | ![ENaturalTharian](ModeENaturalTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalTharian.mid?raw=true) |
+| [F](ModeFNaturalTharian.md) | F, Gb, A#, **B#**, **C#**, D#, **E**, F | C | ![FNaturalTharian](ModeFNaturalTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalTharian.mid?raw=true) |
+| [F#](ModeFSharpTharian.md) | F#, G, A##, **B##**, **C##**, D##, **E#**, F# | C | ![FSharpTharian](ModeFSharpTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpTharian.mid?raw=true) |
+| [Gb](ModeGFlatTharian.md) | Gb, Abb, B, **C#**, **D**, E, **F**, Gb | C | ![GFlatTharian](ModeGFlatTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatTharian.mid?raw=true) |
+| [G](ModeGNaturalTharian.md) | G, Ab, B#, **C##**, **D#**, E#, **F#**, G | C | ![GNaturalTharian](ModeGNaturalTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalTharian.mid?raw=true) |
+| [G#](ModeGSharpTharian.md) | G#, A, B##, **C###**, **D##**, E##, **F##**, G# | C | ![GSharpTharian](ModeGSharpTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpTharian.mid?raw=true) |
+| [Ab](ModeAFlatTharian.md) | Ab, Bbb, C#, **D#**, **E**, F#, **G**, Ab | C | ![AFlatTharian](ModeAFlatTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatTharian.mid?raw=true) |
+| [A](ModeANaturalTharian.md) | A, Bb, C##, **D##**, **E#**, F##, **G#**, A | C | ![ANaturalTharian](ModeANaturalTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalTharian.mid?raw=true) |
+| [A#](ModeASharpTharian.md) | A#, B, C###, **D###**, **E##**, F###, **G##**, A# | C | ![ASharpTharian](ModeASharpTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpTharian.mid?raw=true) |
+| [Bb](ModeBFlatTharian.md) | Bb, Cb, D#, **E#**, **F#**, G#, **A**, Bb | C | ![BFlatTharian](ModeBFlatTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatTharian.mid?raw=true) |
+| [B](ModeBNaturalTharian.md) | B, C, D##, **E##**, **F##**, G##, **A#**, B | C | ![BNaturalTharian](ModeBNaturalTharian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalTharian.mid?raw=true) |

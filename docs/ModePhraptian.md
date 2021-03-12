@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalPhraptian.md) | C, D#, E#, **F##**, **G##**, A#, **B**, C | C | ![CNaturalPhraptian](ModeCNaturalPhraptian.png) | [midi](ModeCNaturalPhraptian.mid) [ogg](ModeCNaturalPhraptian.ogg) |
-| [C#](ModeCSharpPhraptian.md) | C#, D##, E##, **F###**, **G###**, A##, **B#**, C# | C | ![CSharpPhraptian](ModeCSharpPhraptian.png) | [midi](ModeCSharpPhraptian.mid) [ogg](ModeCSharpPhraptian.ogg) |
-| [Db](ModeDFlatPhraptian.md) | Db, E, F#, **G#**, **A#**, B, **C**, Db | C | ![DFlatPhraptian](ModeDFlatPhraptian.png) | [midi](ModeDFlatPhraptian.mid) [ogg](ModeDFlatPhraptian.ogg) |
-| [D](ModeDNaturalPhraptian.md) | D, E#, F##, **G##**, **A##**, B#, **C#**, D | C | ![DNaturalPhraptian](ModeDNaturalPhraptian.png) | [midi](ModeDNaturalPhraptian.mid) [ogg](ModeDNaturalPhraptian.ogg) |
-| [D#](ModeDSharpPhraptian.md) | D#, E##, F###, **G###**, **A###**, B##, **C##**, D# | C | ![DSharpPhraptian](ModeDSharpPhraptian.png) | [midi](ModeDSharpPhraptian.mid) [ogg](ModeDSharpPhraptian.ogg) |
-| [Eb](ModeEFlatPhraptian.md) | Eb, F#, G#, **A#**, **B#**, C#, **D**, Eb | C | ![EFlatPhraptian](ModeEFlatPhraptian.png) | [midi](ModeEFlatPhraptian.mid) [ogg](ModeEFlatPhraptian.ogg) |
-| [E](ModeENaturalPhraptian.md) | E, F##, G##, **A##**, **B##**, C##, **D#**, E | C | ![ENaturalPhraptian](ModeENaturalPhraptian.png) | [midi](ModeENaturalPhraptian.mid) [ogg](ModeENaturalPhraptian.ogg) |
-| [F](ModeFNaturalPhraptian.md) | F, G#, A#, **B#**, **C##**, D#, **E**, F | C | ![FNaturalPhraptian](ModeFNaturalPhraptian.png) | [midi](ModeFNaturalPhraptian.mid) [ogg](ModeFNaturalPhraptian.ogg) |
-| [F#](ModeFSharpPhraptian.md) | F#, G##, A##, **B##**, **C###**, D##, **E#**, F# | C | ![FSharpPhraptian](ModeFSharpPhraptian.png) | [midi](ModeFSharpPhraptian.mid) [ogg](ModeFSharpPhraptian.ogg) |
-| [Gb](ModeGFlatPhraptian.md) | Gb, A, B, **C#**, **D#**, E, **F**, Gb | C | ![GFlatPhraptian](ModeGFlatPhraptian.png) | [midi](ModeGFlatPhraptian.mid) [ogg](ModeGFlatPhraptian.ogg) |
-| [G](ModeGNaturalPhraptian.md) | G, A#, B#, **C##**, **D##**, E#, **F#**, G | C | ![GNaturalPhraptian](ModeGNaturalPhraptian.png) | [midi](ModeGNaturalPhraptian.mid) [ogg](ModeGNaturalPhraptian.ogg) |
-| [G#](ModeGSharpPhraptian.md) | G#, A##, B##, **C###**, **D###**, E##, **F##**, G# | C | ![GSharpPhraptian](ModeGSharpPhraptian.png) | [midi](ModeGSharpPhraptian.mid) [ogg](ModeGSharpPhraptian.ogg) |
-| [Ab](ModeAFlatPhraptian.md) | Ab, B, C#, **D#**, **E#**, F#, **G**, Ab | C | ![AFlatPhraptian](ModeAFlatPhraptian.png) | [midi](ModeAFlatPhraptian.mid) [ogg](ModeAFlatPhraptian.ogg) |
-| [A](ModeANaturalPhraptian.md) | A, B#, C##, **D##**, **E##**, F##, **G#**, A | C | ![ANaturalPhraptian](ModeANaturalPhraptian.png) | [midi](ModeANaturalPhraptian.mid) [ogg](ModeANaturalPhraptian.ogg) |
-| [A#](ModeASharpPhraptian.md) | A#, B##, C###, **D###**, **E###**, F###, **G##**, A# | C | ![ASharpPhraptian](ModeASharpPhraptian.png) | [midi](ModeASharpPhraptian.mid) [ogg](ModeASharpPhraptian.ogg) |
-| [Bb](ModeBFlatPhraptian.md) | Bb, C#, D#, **E#**, **F##**, G#, **A**, Bb | C | ![BFlatPhraptian](ModeBFlatPhraptian.png) | [midi](ModeBFlatPhraptian.mid) [ogg](ModeBFlatPhraptian.ogg) |
-| [B](ModeBNaturalPhraptian.md) | B, C##, D##, **E##**, **F###**, G##, **A#**, B | C | ![BNaturalPhraptian](ModeBNaturalPhraptian.png) | [midi](ModeBNaturalPhraptian.mid) [ogg](ModeBNaturalPhraptian.ogg) |
+| [C](ModeCNaturalPhraptian.md) | C, D#, E#, **F##**, **G##**, A#, **B**, C | C | ![CNaturalPhraptian](ModeCNaturalPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPhraptian.mid?raw=true) |
+| [C#](ModeCSharpPhraptian.md) | C#, D##, E##, **F###**, **G###**, A##, **B#**, C# | C | ![CSharpPhraptian](ModeCSharpPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpPhraptian.mid?raw=true) |
+| [Db](ModeDFlatPhraptian.md) | Db, E, F#, **G#**, **A#**, B, **C**, Db | C | ![DFlatPhraptian](ModeDFlatPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatPhraptian.mid?raw=true) |
+| [D](ModeDNaturalPhraptian.md) | D, E#, F##, **G##**, **A##**, B#, **C#**, D | C | ![DNaturalPhraptian](ModeDNaturalPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalPhraptian.mid?raw=true) |
+| [D#](ModeDSharpPhraptian.md) | D#, E##, F###, **G###**, **A###**, B##, **C##**, D# | C | ![DSharpPhraptian](ModeDSharpPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpPhraptian.mid?raw=true) |
+| [Eb](ModeEFlatPhraptian.md) | Eb, F#, G#, **A#**, **B#**, C#, **D**, Eb | C | ![EFlatPhraptian](ModeEFlatPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatPhraptian.mid?raw=true) |
+| [E](ModeENaturalPhraptian.md) | E, F##, G##, **A##**, **B##**, C##, **D#**, E | C | ![ENaturalPhraptian](ModeENaturalPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalPhraptian.mid?raw=true) |
+| [F](ModeFNaturalPhraptian.md) | F, G#, A#, **B#**, **C##**, D#, **E**, F | C | ![FNaturalPhraptian](ModeFNaturalPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalPhraptian.mid?raw=true) |
+| [F#](ModeFSharpPhraptian.md) | F#, G##, A##, **B##**, **C###**, D##, **E#**, F# | C | ![FSharpPhraptian](ModeFSharpPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpPhraptian.mid?raw=true) |
+| [Gb](ModeGFlatPhraptian.md) | Gb, A, B, **C#**, **D#**, E, **F**, Gb | C | ![GFlatPhraptian](ModeGFlatPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatPhraptian.mid?raw=true) |
+| [G](ModeGNaturalPhraptian.md) | G, A#, B#, **C##**, **D##**, E#, **F#**, G | C | ![GNaturalPhraptian](ModeGNaturalPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalPhraptian.mid?raw=true) |
+| [G#](ModeGSharpPhraptian.md) | G#, A##, B##, **C###**, **D###**, E##, **F##**, G# | C | ![GSharpPhraptian](ModeGSharpPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpPhraptian.mid?raw=true) |
+| [Ab](ModeAFlatPhraptian.md) | Ab, B, C#, **D#**, **E#**, F#, **G**, Ab | C | ![AFlatPhraptian](ModeAFlatPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatPhraptian.mid?raw=true) |
+| [A](ModeANaturalPhraptian.md) | A, B#, C##, **D##**, **E##**, F##, **G#**, A | C | ![ANaturalPhraptian](ModeANaturalPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalPhraptian.mid?raw=true) |
+| [A#](ModeASharpPhraptian.md) | A#, B##, C###, **D###**, **E###**, F###, **G##**, A# | C | ![ASharpPhraptian](ModeASharpPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpPhraptian.mid?raw=true) |
+| [Bb](ModeBFlatPhraptian.md) | Bb, C#, D#, **E#**, **F##**, G#, **A**, Bb | C | ![BFlatPhraptian](ModeBFlatPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatPhraptian.mid?raw=true) |
+| [B](ModeBNaturalPhraptian.md) | B, C##, D##, **E##**, **F###**, G##, **A#**, B | C | ![BNaturalPhraptian](ModeBNaturalPhraptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalPhraptian.mid?raw=true) |

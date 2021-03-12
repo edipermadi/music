@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalThanimic.md) | **C**, **Db**, E#, **Cbbb**, Cbb, **Dbbb**, **C** | C | ![CNaturalThanimic](ModeCNaturalThanimic.png) | [midi](ModeCNaturalThanimic.mid) [ogg](ModeCNaturalThanimic.ogg) |
-| [C#](ModeCSharpThanimic.md) | **C#**, **D**, E##, **Cbb**, Dbbb, **Dbb**, **C#** | C | ![CSharpThanimic](ModeCSharpThanimic.png) | [midi](ModeCSharpThanimic.mid) [ogg](ModeCSharpThanimic.ogg) |
-| [Db](ModeDFlatThanimic.md) | **Db**, **Ebb**, F#, **G###**, A##, **B#**, **Db** | C | ![DFlatThanimic](ModeDFlatThanimic.png) | [midi](ModeDFlatThanimic.mid) [ogg](ModeDFlatThanimic.ogg) |
-| [D](ModeDNaturalThanimic.md) | **D**, **Eb**, F##, **Cb**, Dbb, **Ebbb**, **D** | C | ![DNaturalThanimic](ModeDNaturalThanimic.png) | [midi](ModeDNaturalThanimic.mid) [ogg](ModeDNaturalThanimic.ogg) |
-| [D#](ModeDSharpThanimic.md) | **D#**, **E**, F###, **Dbb**, Ebbb, **Fbbb**, **D#** | C | ![DSharpThanimic](ModeDSharpThanimic.png) | [midi](ModeDSharpThanimic.mid) [ogg](ModeDSharpThanimic.ogg) |
-| [Eb](ModeEFlatThanimic.md) | **Eb**, **Fb**, G#, **A###**, B##, **C##**, **Eb** | C | ![EFlatThanimic](ModeEFlatThanimic.png) | [midi](ModeEFlatThanimic.mid) [ogg](ModeEFlatThanimic.ogg) |
-| [E](ModeENaturalThanimic.md) | **E**, **F**, G##, **Db**, Ebb, **Fbb**, **E** | C | ![ENaturalThanimic](ModeENaturalThanimic.png) | [midi](ModeENaturalThanimic.mid) [ogg](ModeENaturalThanimic.ogg) |
-| [F](ModeFNaturalThanimic.md) | **F**, **Gb**, A#, **B###**, C###, **D##**, **F** | C | ![FNaturalThanimic](ModeFNaturalThanimic.png) | [midi](ModeFNaturalThanimic.mid) [ogg](ModeFNaturalThanimic.ogg) |
-| [F#](ModeFSharpThanimic.md) | **F#**, **G**, A##, **C###**, D##, **E#**, **F#** | C | ![FSharpThanimic](ModeFSharpThanimic.png) | [midi](ModeFSharpThanimic.mid) [ogg](ModeFSharpThanimic.ogg) |
-| [Gb](ModeGFlatThanimic.md) | **Gb**, **Abb**, B, **C###**, D##, **E#**, **Gb** | C | ![GFlatThanimic](ModeGFlatThanimic.png) | [midi](ModeGFlatThanimic.mid) [ogg](ModeGFlatThanimic.ogg) |
-| [G](ModeGNaturalThanimic.md) | **G**, **Ab**, B#, **D##**, E#, **F#**, **G** | C | ![GNaturalThanimic](ModeGNaturalThanimic.png) | [midi](ModeGNaturalThanimic.mid) [ogg](ModeGNaturalThanimic.ogg) |
-| [G#](ModeGSharpThanimic.md) | **G#**, **A**, B##, **D###**, E##, **F##**, **G#** | C | ![GSharpThanimic](ModeGSharpThanimic.png) | [midi](ModeGSharpThanimic.mid) [ogg](ModeGSharpThanimic.ogg) |
-| [Ab](ModeAFlatThanimic.md) | **Ab**, **Bbb**, C#, **D###**, E##, **F##**, **Ab** | C | ![AFlatThanimic](ModeAFlatThanimic.png) | [midi](ModeAFlatThanimic.mid) [ogg](ModeAFlatThanimic.ogg) |
-| [A](ModeANaturalThanimic.md) | **A**, **Bb**, C##, **E##**, F##, **G#**, **A** | C | ![ANaturalThanimic](ModeANaturalThanimic.png) | [midi](ModeANaturalThanimic.mid) [ogg](ModeANaturalThanimic.ogg) |
-| [A#](ModeASharpThanimic.md) | **A#**, **B**, C###, **E###**, F###, **G##**, **A#** | C | ![ASharpThanimic](ModeASharpThanimic.png) | [midi](ModeASharpThanimic.mid) [ogg](ModeASharpThanimic.ogg) |
-| [Bb](ModeBFlatThanimic.md) | **Bb**, **Cb**, D#, **E###**, F###, **G##**, **Bb** | C | ![BFlatThanimic](ModeBFlatThanimic.png) | [midi](ModeBFlatThanimic.mid) [ogg](ModeBFlatThanimic.ogg) |
-| [B](ModeBNaturalThanimic.md) | **B**, **C**, D##, **F###**, G##, **A#**, **B** | C | ![BNaturalThanimic](ModeBNaturalThanimic.png) | [midi](ModeBNaturalThanimic.mid) [ogg](ModeBNaturalThanimic.ogg) |
+| [C](ModeCNaturalThanimic.md) | **C**, **Db**, E#, **Cbbb**, Cbb, **Dbbb**, **C** | C | ![CNaturalThanimic](ModeCNaturalThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThanimic.mid?raw=true) |
+| [C#](ModeCSharpThanimic.md) | **C#**, **D**, E##, **Cbb**, Dbbb, **Dbb**, **C#** | C | ![CSharpThanimic](ModeCSharpThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpThanimic.mid?raw=true) |
+| [Db](ModeDFlatThanimic.md) | **Db**, **Ebb**, F#, **G###**, A##, **B#**, **Db** | C | ![DFlatThanimic](ModeDFlatThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatThanimic.mid?raw=true) |
+| [D](ModeDNaturalThanimic.md) | **D**, **Eb**, F##, **Cb**, Dbb, **Ebbb**, **D** | C | ![DNaturalThanimic](ModeDNaturalThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalThanimic.mid?raw=true) |
+| [D#](ModeDSharpThanimic.md) | **D#**, **E**, F###, **Dbb**, Ebbb, **Fbbb**, **D#** | C | ![DSharpThanimic](ModeDSharpThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpThanimic.mid?raw=true) |
+| [Eb](ModeEFlatThanimic.md) | **Eb**, **Fb**, G#, **A###**, B##, **C##**, **Eb** | C | ![EFlatThanimic](ModeEFlatThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatThanimic.mid?raw=true) |
+| [E](ModeENaturalThanimic.md) | **E**, **F**, G##, **Db**, Ebb, **Fbb**, **E** | C | ![ENaturalThanimic](ModeENaturalThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalThanimic.mid?raw=true) |
+| [F](ModeFNaturalThanimic.md) | **F**, **Gb**, A#, **B###**, C###, **D##**, **F** | C | ![FNaturalThanimic](ModeFNaturalThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalThanimic.mid?raw=true) |
+| [F#](ModeFSharpThanimic.md) | **F#**, **G**, A##, **C###**, D##, **E#**, **F#** | C | ![FSharpThanimic](ModeFSharpThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpThanimic.mid?raw=true) |
+| [Gb](ModeGFlatThanimic.md) | **Gb**, **Abb**, B, **C###**, D##, **E#**, **Gb** | C | ![GFlatThanimic](ModeGFlatThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatThanimic.mid?raw=true) |
+| [G](ModeGNaturalThanimic.md) | **G**, **Ab**, B#, **D##**, E#, **F#**, **G** | C | ![GNaturalThanimic](ModeGNaturalThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalThanimic.mid?raw=true) |
+| [G#](ModeGSharpThanimic.md) | **G#**, **A**, B##, **D###**, E##, **F##**, **G#** | C | ![GSharpThanimic](ModeGSharpThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpThanimic.mid?raw=true) |
+| [Ab](ModeAFlatThanimic.md) | **Ab**, **Bbb**, C#, **D###**, E##, **F##**, **Ab** | C | ![AFlatThanimic](ModeAFlatThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatThanimic.mid?raw=true) |
+| [A](ModeANaturalThanimic.md) | **A**, **Bb**, C##, **E##**, F##, **G#**, **A** | C | ![ANaturalThanimic](ModeANaturalThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalThanimic.mid?raw=true) |
+| [A#](ModeASharpThanimic.md) | **A#**, **B**, C###, **E###**, F###, **G##**, **A#** | C | ![ASharpThanimic](ModeASharpThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpThanimic.mid?raw=true) |
+| [Bb](ModeBFlatThanimic.md) | **Bb**, **Cb**, D#, **E###**, F###, **G##**, **Bb** | C | ![BFlatThanimic](ModeBFlatThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatThanimic.mid?raw=true) |
+| [B](ModeBNaturalThanimic.md) | **B**, **C**, D##, **F###**, G##, **A#**, **B** | C | ![BNaturalThanimic](ModeBNaturalThanimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalThanimic.mid?raw=true) |

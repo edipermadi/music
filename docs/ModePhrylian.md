@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalPhrylian.md) | C, **Db**, Eb, F#, **G**, **A**, **Bb**, C | C | ![CNaturalPhrylian](ModeCNaturalPhrylian.png) | [midi](ModeCNaturalPhrylian.mid) [ogg](ModeCNaturalPhrylian.ogg) |
-| [C#](ModeCSharpPhrylian.md) | C#, **D**, E, F##, **G#**, **A#**, **B**, C# | C | ![CSharpPhrylian](ModeCSharpPhrylian.png) | [midi](ModeCSharpPhrylian.mid) [ogg](ModeCSharpPhrylian.ogg) |
-| [Db](ModeDFlatPhrylian.md) | Db, **Ebb**, Fb, G, **Ab**, **Bb**, **Cb**, Db | C | ![DFlatPhrylian](ModeDFlatPhrylian.png) | [midi](ModeDFlatPhrylian.mid) [ogg](ModeDFlatPhrylian.ogg) |
-| [D](ModeDNaturalPhrylian.md) | D, **Eb**, F, G#, **A**, **B**, **C**, D | C | ![DNaturalPhrylian](ModeDNaturalPhrylian.png) | [midi](ModeDNaturalPhrylian.mid) [ogg](ModeDNaturalPhrylian.ogg) |
-| [D#](ModeDSharpPhrylian.md) | D#, **E**, F#, G##, **A#**, **B#**, **C#**, D# | C | ![DSharpPhrylian](ModeDSharpPhrylian.png) | [midi](ModeDSharpPhrylian.mid) [ogg](ModeDSharpPhrylian.ogg) |
-| [Eb](ModeEFlatPhrylian.md) | Eb, **Fb**, Gb, A, **Bb**, **C**, **Db**, Eb | C | ![EFlatPhrylian](ModeEFlatPhrylian.png) | [midi](ModeEFlatPhrylian.mid) [ogg](ModeEFlatPhrylian.ogg) |
-| [E](ModeENaturalPhrylian.md) | E, **F**, G, A#, **B**, **C#**, **D**, E | C | ![ENaturalPhrylian](ModeENaturalPhrylian.png) | [midi](ModeENaturalPhrylian.mid) [ogg](ModeENaturalPhrylian.ogg) |
-| [F](ModeFNaturalPhrylian.md) | F, **Gb**, Ab, B, **C**, **D**, **Eb**, F | C | ![FNaturalPhrylian](ModeFNaturalPhrylian.png) | [midi](ModeFNaturalPhrylian.mid) [ogg](ModeFNaturalPhrylian.ogg) |
-| [F#](ModeFSharpPhrylian.md) | F#, **G**, A, B#, **C#**, **D#**, **E**, F# | C | ![FSharpPhrylian](ModeFSharpPhrylian.png) | [midi](ModeFSharpPhrylian.mid) [ogg](ModeFSharpPhrylian.ogg) |
-| [Gb](ModeGFlatPhrylian.md) | Gb, **Abb**, Bbb, C, **Db**, **Eb**, **Fb**, Gb | C | ![GFlatPhrylian](ModeGFlatPhrylian.png) | [midi](ModeGFlatPhrylian.mid) [ogg](ModeGFlatPhrylian.ogg) |
-| [G](ModeGNaturalPhrylian.md) | G, **Ab**, Bb, C#, **D**, **E**, **F**, G | C | ![GNaturalPhrylian](ModeGNaturalPhrylian.png) | [midi](ModeGNaturalPhrylian.mid) [ogg](ModeGNaturalPhrylian.ogg) |
-| [G#](ModeGSharpPhrylian.md) | G#, **A**, B, C##, **D#**, **E#**, **F#**, G# | C | ![GSharpPhrylian](ModeGSharpPhrylian.png) | [midi](ModeGSharpPhrylian.mid) [ogg](ModeGSharpPhrylian.ogg) |
-| [Ab](ModeAFlatPhrylian.md) | Ab, **Bbb**, Cb, D, **Eb**, **F**, **Gb**, Ab | C | ![AFlatPhrylian](ModeAFlatPhrylian.png) | [midi](ModeAFlatPhrylian.mid) [ogg](ModeAFlatPhrylian.ogg) |
-| [A](ModeANaturalPhrylian.md) | A, **Bb**, C, D#, **E**, **F#**, **G**, A | C | ![ANaturalPhrylian](ModeANaturalPhrylian.png) | [midi](ModeANaturalPhrylian.mid) [ogg](ModeANaturalPhrylian.ogg) |
-| [A#](ModeASharpPhrylian.md) | A#, **B**, C#, D##, **E#**, **F##**, **G#**, A# | C | ![ASharpPhrylian](ModeASharpPhrylian.png) | [midi](ModeASharpPhrylian.mid) [ogg](ModeASharpPhrylian.ogg) |
-| [Bb](ModeBFlatPhrylian.md) | Bb, **Cb**, Db, E, **F**, **G**, **Ab**, Bb | C | ![BFlatPhrylian](ModeBFlatPhrylian.png) | [midi](ModeBFlatPhrylian.mid) [ogg](ModeBFlatPhrylian.ogg) |
-| [B](ModeBNaturalPhrylian.md) | B, **C**, D, E#, **F#**, **G#**, **A**, B | C | ![BNaturalPhrylian](ModeBNaturalPhrylian.png) | [midi](ModeBNaturalPhrylian.mid) [ogg](ModeBNaturalPhrylian.ogg) |
+| [C](ModeCNaturalPhrylian.md) | C, **Db**, Eb, F#, **G**, **A**, **Bb**, C | C | ![CNaturalPhrylian](ModeCNaturalPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPhrylian.mid?raw=true) |
+| [C#](ModeCSharpPhrylian.md) | C#, **D**, E, F##, **G#**, **A#**, **B**, C# | C | ![CSharpPhrylian](ModeCSharpPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpPhrylian.mid?raw=true) |
+| [Db](ModeDFlatPhrylian.md) | Db, **Ebb**, Fb, G, **Ab**, **Bb**, **Cb**, Db | C | ![DFlatPhrylian](ModeDFlatPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatPhrylian.mid?raw=true) |
+| [D](ModeDNaturalPhrylian.md) | D, **Eb**, F, G#, **A**, **B**, **C**, D | C | ![DNaturalPhrylian](ModeDNaturalPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalPhrylian.mid?raw=true) |
+| [D#](ModeDSharpPhrylian.md) | D#, **E**, F#, G##, **A#**, **B#**, **C#**, D# | C | ![DSharpPhrylian](ModeDSharpPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpPhrylian.mid?raw=true) |
+| [Eb](ModeEFlatPhrylian.md) | Eb, **Fb**, Gb, A, **Bb**, **C**, **Db**, Eb | C | ![EFlatPhrylian](ModeEFlatPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatPhrylian.mid?raw=true) |
+| [E](ModeENaturalPhrylian.md) | E, **F**, G, A#, **B**, **C#**, **D**, E | C | ![ENaturalPhrylian](ModeENaturalPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalPhrylian.mid?raw=true) |
+| [F](ModeFNaturalPhrylian.md) | F, **Gb**, Ab, B, **C**, **D**, **Eb**, F | C | ![FNaturalPhrylian](ModeFNaturalPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalPhrylian.mid?raw=true) |
+| [F#](ModeFSharpPhrylian.md) | F#, **G**, A, B#, **C#**, **D#**, **E**, F# | C | ![FSharpPhrylian](ModeFSharpPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpPhrylian.mid?raw=true) |
+| [Gb](ModeGFlatPhrylian.md) | Gb, **Abb**, Bbb, C, **Db**, **Eb**, **Fb**, Gb | C | ![GFlatPhrylian](ModeGFlatPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatPhrylian.mid?raw=true) |
+| [G](ModeGNaturalPhrylian.md) | G, **Ab**, Bb, C#, **D**, **E**, **F**, G | C | ![GNaturalPhrylian](ModeGNaturalPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalPhrylian.mid?raw=true) |
+| [G#](ModeGSharpPhrylian.md) | G#, **A**, B, C##, **D#**, **E#**, **F#**, G# | C | ![GSharpPhrylian](ModeGSharpPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpPhrylian.mid?raw=true) |
+| [Ab](ModeAFlatPhrylian.md) | Ab, **Bbb**, Cb, D, **Eb**, **F**, **Gb**, Ab | C | ![AFlatPhrylian](ModeAFlatPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatPhrylian.mid?raw=true) |
+| [A](ModeANaturalPhrylian.md) | A, **Bb**, C, D#, **E**, **F#**, **G**, A | C | ![ANaturalPhrylian](ModeANaturalPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalPhrylian.mid?raw=true) |
+| [A#](ModeASharpPhrylian.md) | A#, **B**, C#, D##, **E#**, **F##**, **G#**, A# | C | ![ASharpPhrylian](ModeASharpPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpPhrylian.mid?raw=true) |
+| [Bb](ModeBFlatPhrylian.md) | Bb, **Cb**, Db, E, **F**, **G**, **Ab**, Bb | C | ![BFlatPhrylian](ModeBFlatPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatPhrylian.mid?raw=true) |
+| [B](ModeBNaturalPhrylian.md) | B, **C**, D, E#, **F#**, **G#**, **A**, B | C | ![BNaturalPhrylian](ModeBNaturalPhrylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalPhrylian.mid?raw=true) |

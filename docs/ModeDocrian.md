@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalDocrian.md) | **C**, **D#**, E, F, G#, A, **B**, **C** | C | ![CNaturalDocrian](ModeCNaturalDocrian.png) | [midi](ModeCNaturalDocrian.mid) [ogg](ModeCNaturalDocrian.ogg) |
-| [C#](ModeCSharpDocrian.md) | **C#**, **D##**, E#, F#, G##, A#, **B#**, **C#** | C | ![CSharpDocrian](ModeCSharpDocrian.png) | [midi](ModeCSharpDocrian.mid) [ogg](ModeCSharpDocrian.ogg) |
-| [Db](ModeDFlatDocrian.md) | **Db**, **E**, F, Gb, A, Bb, **C**, **Db** | C | ![DFlatDocrian](ModeDFlatDocrian.png) | [midi](ModeDFlatDocrian.mid) [ogg](ModeDFlatDocrian.ogg) |
-| [D](ModeDNaturalDocrian.md) | **D**, **E#**, F#, G, A#, B, **C#**, **D** | C | ![DNaturalDocrian](ModeDNaturalDocrian.png) | [midi](ModeDNaturalDocrian.mid) [ogg](ModeDNaturalDocrian.ogg) |
-| [D#](ModeDSharpDocrian.md) | **D#**, **E##**, F##, G#, A##, B#, **C##**, **D#** | C | ![DSharpDocrian](ModeDSharpDocrian.png) | [midi](ModeDSharpDocrian.mid) [ogg](ModeDSharpDocrian.ogg) |
-| [Eb](ModeEFlatDocrian.md) | **Eb**, **F#**, G, Ab, B, C, **D**, **Eb** | C | ![EFlatDocrian](ModeEFlatDocrian.png) | [midi](ModeEFlatDocrian.mid) [ogg](ModeEFlatDocrian.ogg) |
-| [E](ModeENaturalDocrian.md) | **E**, **F##**, G#, A, B#, C#, **D#**, **E** | C | ![ENaturalDocrian](ModeENaturalDocrian.png) | [midi](ModeENaturalDocrian.mid) [ogg](ModeENaturalDocrian.ogg) |
-| [F](ModeFNaturalDocrian.md) | **F**, **G#**, A, Bb, C#, D, **E**, **F** | C | ![FNaturalDocrian](ModeFNaturalDocrian.png) | [midi](ModeFNaturalDocrian.mid) [ogg](ModeFNaturalDocrian.ogg) |
-| [F#](ModeFSharpDocrian.md) | **F#**, **G##**, A#, B, C##, D#, **E#**, **F#** | C | ![FSharpDocrian](ModeFSharpDocrian.png) | [midi](ModeFSharpDocrian.mid) [ogg](ModeFSharpDocrian.ogg) |
-| [Gb](ModeGFlatDocrian.md) | **Gb**, **A**, Bb, Cb, D, Eb, **F**, **Gb** | C | ![GFlatDocrian](ModeGFlatDocrian.png) | [midi](ModeGFlatDocrian.mid) [ogg](ModeGFlatDocrian.ogg) |
-| [G](ModeGNaturalDocrian.md) | **G**, **A#**, B, C, D#, E, **F#**, **G** | C | ![GNaturalDocrian](ModeGNaturalDocrian.png) | [midi](ModeGNaturalDocrian.mid) [ogg](ModeGNaturalDocrian.ogg) |
-| [G#](ModeGSharpDocrian.md) | **G#**, **A##**, B#, C#, D##, E#, **F##**, **G#** | C | ![GSharpDocrian](ModeGSharpDocrian.png) | [midi](ModeGSharpDocrian.mid) [ogg](ModeGSharpDocrian.ogg) |
-| [Ab](ModeAFlatDocrian.md) | **Ab**, **B**, C, Db, E, F, **G**, **Ab** | C | ![AFlatDocrian](ModeAFlatDocrian.png) | [midi](ModeAFlatDocrian.mid) [ogg](ModeAFlatDocrian.ogg) |
-| [A](ModeANaturalDocrian.md) | **A**, **B#**, C#, D, E#, F#, **G#**, **A** | C | ![ANaturalDocrian](ModeANaturalDocrian.png) | [midi](ModeANaturalDocrian.mid) [ogg](ModeANaturalDocrian.ogg) |
-| [A#](ModeASharpDocrian.md) | **A#**, **B##**, C##, D#, E##, F##, **G##**, **A#** | C | ![ASharpDocrian](ModeASharpDocrian.png) | [midi](ModeASharpDocrian.mid) [ogg](ModeASharpDocrian.ogg) |
-| [Bb](ModeBFlatDocrian.md) | **Bb**, **C#**, D, Eb, F#, G, **A**, **Bb** | C | ![BFlatDocrian](ModeBFlatDocrian.png) | [midi](ModeBFlatDocrian.mid) [ogg](ModeBFlatDocrian.ogg) |
-| [B](ModeBNaturalDocrian.md) | **B**, **C##**, D#, E, F##, G#, **A#**, **B** | C | ![BNaturalDocrian](ModeBNaturalDocrian.png) | [midi](ModeBNaturalDocrian.mid) [ogg](ModeBNaturalDocrian.ogg) |
+| [C](ModeCNaturalDocrian.md) | **C**, **D#**, E, F, G#, A, **B**, **C** | C | ![CNaturalDocrian](ModeCNaturalDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDocrian.mid?raw=true) |
+| [C#](ModeCSharpDocrian.md) | **C#**, **D##**, E#, F#, G##, A#, **B#**, **C#** | C | ![CSharpDocrian](ModeCSharpDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpDocrian.mid?raw=true) |
+| [Db](ModeDFlatDocrian.md) | **Db**, **E**, F, Gb, A, Bb, **C**, **Db** | C | ![DFlatDocrian](ModeDFlatDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatDocrian.mid?raw=true) |
+| [D](ModeDNaturalDocrian.md) | **D**, **E#**, F#, G, A#, B, **C#**, **D** | C | ![DNaturalDocrian](ModeDNaturalDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalDocrian.mid?raw=true) |
+| [D#](ModeDSharpDocrian.md) | **D#**, **E##**, F##, G#, A##, B#, **C##**, **D#** | C | ![DSharpDocrian](ModeDSharpDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpDocrian.mid?raw=true) |
+| [Eb](ModeEFlatDocrian.md) | **Eb**, **F#**, G, Ab, B, C, **D**, **Eb** | C | ![EFlatDocrian](ModeEFlatDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatDocrian.mid?raw=true) |
+| [E](ModeENaturalDocrian.md) | **E**, **F##**, G#, A, B#, C#, **D#**, **E** | C | ![ENaturalDocrian](ModeENaturalDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalDocrian.mid?raw=true) |
+| [F](ModeFNaturalDocrian.md) | **F**, **G#**, A, Bb, C#, D, **E**, **F** | C | ![FNaturalDocrian](ModeFNaturalDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalDocrian.mid?raw=true) |
+| [F#](ModeFSharpDocrian.md) | **F#**, **G##**, A#, B, C##, D#, **E#**, **F#** | C | ![FSharpDocrian](ModeFSharpDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpDocrian.mid?raw=true) |
+| [Gb](ModeGFlatDocrian.md) | **Gb**, **A**, Bb, Cb, D, Eb, **F**, **Gb** | C | ![GFlatDocrian](ModeGFlatDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatDocrian.mid?raw=true) |
+| [G](ModeGNaturalDocrian.md) | **G**, **A#**, B, C, D#, E, **F#**, **G** | C | ![GNaturalDocrian](ModeGNaturalDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalDocrian.mid?raw=true) |
+| [G#](ModeGSharpDocrian.md) | **G#**, **A##**, B#, C#, D##, E#, **F##**, **G#** | C | ![GSharpDocrian](ModeGSharpDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpDocrian.mid?raw=true) |
+| [Ab](ModeAFlatDocrian.md) | **Ab**, **B**, C, Db, E, F, **G**, **Ab** | C | ![AFlatDocrian](ModeAFlatDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatDocrian.mid?raw=true) |
+| [A](ModeANaturalDocrian.md) | **A**, **B#**, C#, D, E#, F#, **G#**, **A** | C | ![ANaturalDocrian](ModeANaturalDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalDocrian.mid?raw=true) |
+| [A#](ModeASharpDocrian.md) | **A#**, **B##**, C##, D#, E##, F##, **G##**, **A#** | C | ![ASharpDocrian](ModeASharpDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpDocrian.mid?raw=true) |
+| [Bb](ModeBFlatDocrian.md) | **Bb**, **C#**, D, Eb, F#, G, **A**, **Bb** | C | ![BFlatDocrian](ModeBFlatDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatDocrian.mid?raw=true) |
+| [B](ModeBNaturalDocrian.md) | **B**, **C##**, D#, E, F##, G#, **A#**, **B** | C | ![BNaturalDocrian](ModeBNaturalDocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalDocrian.mid?raw=true) |

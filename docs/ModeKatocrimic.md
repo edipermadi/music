@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalKatocrimic.md) | **C**, D, **Eb**, **Fb**, G#, A, **C** | C | ![CNaturalKatocrimic](ModeCNaturalKatocrimic.png) | [midi](ModeCNaturalKatocrimic.mid) [ogg](ModeCNaturalKatocrimic.ogg) |
-| [C#](ModeCSharpKatocrimic.md) | **C#**, D#, **E**, **F**, G##, A#, **C#** | C | ![CSharpKatocrimic](ModeCSharpKatocrimic.png) | [midi](ModeCSharpKatocrimic.mid) [ogg](ModeCSharpKatocrimic.ogg) |
-| [Db](ModeDFlatKatocrimic.md) | **Db**, Eb, **Fb**, **Gbb**, A, Bb, **Db** | C | ![DFlatKatocrimic](ModeDFlatKatocrimic.png) | [midi](ModeDFlatKatocrimic.mid) [ogg](ModeDFlatKatocrimic.ogg) |
-| [D](ModeDNaturalKatocrimic.md) | **D**, E, **F**, **Gb**, A#, B, **D** | C | ![DNaturalKatocrimic](ModeDNaturalKatocrimic.png) | [midi](ModeDNaturalKatocrimic.mid) [ogg](ModeDNaturalKatocrimic.ogg) |
-| [D#](ModeDSharpKatocrimic.md) | **D#**, E#, **F#**, **G**, A##, B#, **D#** | C | ![DSharpKatocrimic](ModeDSharpKatocrimic.png) | [midi](ModeDSharpKatocrimic.mid) [ogg](ModeDSharpKatocrimic.ogg) |
-| [Eb](ModeEFlatKatocrimic.md) | **Eb**, F, **Gb**, **Abb**, B, C, **Eb** | C | ![EFlatKatocrimic](ModeEFlatKatocrimic.png) | [midi](ModeEFlatKatocrimic.mid) [ogg](ModeEFlatKatocrimic.ogg) |
-| [E](ModeENaturalKatocrimic.md) | **E**, F#, **G**, **Ab**, B#, C#, **E** | C | ![ENaturalKatocrimic](ModeENaturalKatocrimic.png) | [midi](ModeENaturalKatocrimic.mid) [ogg](ModeENaturalKatocrimic.ogg) |
-| [F](ModeFNaturalKatocrimic.md) | **F**, G, **Ab**, **Bbb**, C#, D, **F** | C | ![FNaturalKatocrimic](ModeFNaturalKatocrimic.png) | [midi](ModeFNaturalKatocrimic.mid) [ogg](ModeFNaturalKatocrimic.ogg) |
-| [F#](ModeFSharpKatocrimic.md) | **F#**, G#, **A**, **Bb**, C##, D#, **F#** | C | ![FSharpKatocrimic](ModeFSharpKatocrimic.png) | [midi](ModeFSharpKatocrimic.mid) [ogg](ModeFSharpKatocrimic.ogg) |
-| [Gb](ModeGFlatKatocrimic.md) | **Gb**, Ab, **Bbb**, **Cbb**, D, Eb, **Gb** | C | ![GFlatKatocrimic](ModeGFlatKatocrimic.png) | [midi](ModeGFlatKatocrimic.mid) [ogg](ModeGFlatKatocrimic.ogg) |
-| [G](ModeGNaturalKatocrimic.md) | **G**, A, **Bb**, **Cb**, D#, E, **G** | C | ![GNaturalKatocrimic](ModeGNaturalKatocrimic.png) | [midi](ModeGNaturalKatocrimic.mid) [ogg](ModeGNaturalKatocrimic.ogg) |
-| [G#](ModeGSharpKatocrimic.md) | **G#**, A#, **B**, **C**, D##, E#, **G#** | C | ![GSharpKatocrimic](ModeGSharpKatocrimic.png) | [midi](ModeGSharpKatocrimic.mid) [ogg](ModeGSharpKatocrimic.ogg) |
-| [Ab](ModeAFlatKatocrimic.md) | **Ab**, Bb, **Cb**, **Dbb**, E, F, **Ab** | C | ![AFlatKatocrimic](ModeAFlatKatocrimic.png) | [midi](ModeAFlatKatocrimic.mid) [ogg](ModeAFlatKatocrimic.ogg) |
-| [A](ModeANaturalKatocrimic.md) | **A**, B, **C**, **Db**, E#, F#, **A** | C | ![ANaturalKatocrimic](ModeANaturalKatocrimic.png) | [midi](ModeANaturalKatocrimic.mid) [ogg](ModeANaturalKatocrimic.ogg) |
-| [A#](ModeASharpKatocrimic.md) | **A#**, B#, **C#**, **D**, E##, F##, **A#** | C | ![ASharpKatocrimic](ModeASharpKatocrimic.png) | [midi](ModeASharpKatocrimic.mid) [ogg](ModeASharpKatocrimic.ogg) |
-| [Bb](ModeBFlatKatocrimic.md) | **Bb**, C, **Db**, **Ebb**, F#, G, **Bb** | C | ![BFlatKatocrimic](ModeBFlatKatocrimic.png) | [midi](ModeBFlatKatocrimic.mid) [ogg](ModeBFlatKatocrimic.ogg) |
-| [B](ModeBNaturalKatocrimic.md) | **B**, C#, **D**, **Eb**, F##, G#, **B** | C | ![BNaturalKatocrimic](ModeBNaturalKatocrimic.png) | [midi](ModeBNaturalKatocrimic.mid) [ogg](ModeBNaturalKatocrimic.ogg) |
+| [C](ModeCNaturalKatocrimic.md) | **C**, D, **Eb**, **Fb**, G#, A, **C** | C | ![CNaturalKatocrimic](ModeCNaturalKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKatocrimic.mid?raw=true) |
+| [C#](ModeCSharpKatocrimic.md) | **C#**, D#, **E**, **F**, G##, A#, **C#** | C | ![CSharpKatocrimic](ModeCSharpKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpKatocrimic.mid?raw=true) |
+| [Db](ModeDFlatKatocrimic.md) | **Db**, Eb, **Fb**, **Gbb**, A, Bb, **Db** | C | ![DFlatKatocrimic](ModeDFlatKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatKatocrimic.mid?raw=true) |
+| [D](ModeDNaturalKatocrimic.md) | **D**, E, **F**, **Gb**, A#, B, **D** | C | ![DNaturalKatocrimic](ModeDNaturalKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalKatocrimic.mid?raw=true) |
+| [D#](ModeDSharpKatocrimic.md) | **D#**, E#, **F#**, **G**, A##, B#, **D#** | C | ![DSharpKatocrimic](ModeDSharpKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpKatocrimic.mid?raw=true) |
+| [Eb](ModeEFlatKatocrimic.md) | **Eb**, F, **Gb**, **Abb**, B, C, **Eb** | C | ![EFlatKatocrimic](ModeEFlatKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatKatocrimic.mid?raw=true) |
+| [E](ModeENaturalKatocrimic.md) | **E**, F#, **G**, **Ab**, B#, C#, **E** | C | ![ENaturalKatocrimic](ModeENaturalKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalKatocrimic.mid?raw=true) |
+| [F](ModeFNaturalKatocrimic.md) | **F**, G, **Ab**, **Bbb**, C#, D, **F** | C | ![FNaturalKatocrimic](ModeFNaturalKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalKatocrimic.mid?raw=true) |
+| [F#](ModeFSharpKatocrimic.md) | **F#**, G#, **A**, **Bb**, C##, D#, **F#** | C | ![FSharpKatocrimic](ModeFSharpKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpKatocrimic.mid?raw=true) |
+| [Gb](ModeGFlatKatocrimic.md) | **Gb**, Ab, **Bbb**, **Cbb**, D, Eb, **Gb** | C | ![GFlatKatocrimic](ModeGFlatKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatKatocrimic.mid?raw=true) |
+| [G](ModeGNaturalKatocrimic.md) | **G**, A, **Bb**, **Cb**, D#, E, **G** | C | ![GNaturalKatocrimic](ModeGNaturalKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalKatocrimic.mid?raw=true) |
+| [G#](ModeGSharpKatocrimic.md) | **G#**, A#, **B**, **C**, D##, E#, **G#** | C | ![GSharpKatocrimic](ModeGSharpKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpKatocrimic.mid?raw=true) |
+| [Ab](ModeAFlatKatocrimic.md) | **Ab**, Bb, **Cb**, **Dbb**, E, F, **Ab** | C | ![AFlatKatocrimic](ModeAFlatKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatKatocrimic.mid?raw=true) |
+| [A](ModeANaturalKatocrimic.md) | **A**, B, **C**, **Db**, E#, F#, **A** | C | ![ANaturalKatocrimic](ModeANaturalKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalKatocrimic.mid?raw=true) |
+| [A#](ModeASharpKatocrimic.md) | **A#**, B#, **C#**, **D**, E##, F##, **A#** | C | ![ASharpKatocrimic](ModeASharpKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpKatocrimic.mid?raw=true) |
+| [Bb](ModeBFlatKatocrimic.md) | **Bb**, C, **Db**, **Ebb**, F#, G, **Bb** | C | ![BFlatKatocrimic](ModeBFlatKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatKatocrimic.mid?raw=true) |
+| [B](ModeBNaturalKatocrimic.md) | **B**, C#, **D**, **Eb**, F##, G#, **B** | C | ![BNaturalKatocrimic](ModeBNaturalKatocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalKatocrimic.mid?raw=true) |

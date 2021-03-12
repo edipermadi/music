@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalBoptygic.md) | C, C#, D#, F, F#, **G**, G#, **A**, A#, C | C | ![CNaturalBoptygic](ModeCNaturalBoptygic.png) | [midi](ModeCNaturalBoptygic.mid) [ogg](ModeCNaturalBoptygic.ogg) |
-| [C#](ModeCSharpBoptygic.md) | C#, D, E, F#, G, **G#**, A, **A#**, B, C# | C | ![CSharpBoptygic](ModeCSharpBoptygic.png) | [midi](ModeCSharpBoptygic.mid) [ogg](ModeCSharpBoptygic.ogg) |
-| [Db](ModeDFlatBoptygic.md) | Db, D, E, Gb, G, **Ab**, A, **Bb**, B, Db | C | ![DFlatBoptygic](ModeDFlatBoptygic.png) | [midi](ModeDFlatBoptygic.mid) [ogg](ModeDFlatBoptygic.ogg) |
-| [D](ModeDNaturalBoptygic.md) | D, D#, F, G, G#, **A**, A#, **B**, C, D | C | ![DNaturalBoptygic](ModeDNaturalBoptygic.png) | [midi](ModeDNaturalBoptygic.mid) [ogg](ModeDNaturalBoptygic.ogg) |
-| [D#](ModeDSharpBoptygic.md) | D#, E, F#, G#, A, **A#**, B, **C**, C#, D# | C | ![DSharpBoptygic](ModeDSharpBoptygic.png) | [midi](ModeDSharpBoptygic.mid) [ogg](ModeDSharpBoptygic.ogg) |
-| [Eb](ModeEFlatBoptygic.md) | Eb, E, Gb, Ab, A, **Bb**, B, **C**, Db, Eb | C | ![EFlatBoptygic](ModeEFlatBoptygic.png) | [midi](ModeEFlatBoptygic.mid) [ogg](ModeEFlatBoptygic.ogg) |
-| [E](ModeENaturalBoptygic.md) | E, F, G, A, A#, **B**, C, **C#**, D, E | C | ![ENaturalBoptygic](ModeENaturalBoptygic.png) | [midi](ModeENaturalBoptygic.mid) [ogg](ModeENaturalBoptygic.ogg) |
-| [F](ModeFNaturalBoptygic.md) | F, F#, G#, A#, B, **C**, C#, **D**, D#, F | C | ![FNaturalBoptygic](ModeFNaturalBoptygic.png) | [midi](ModeFNaturalBoptygic.mid) [ogg](ModeFNaturalBoptygic.ogg) |
-| [F#](ModeFSharpBoptygic.md) | F#, G, A, B, C, **C#**, D, **D#**, E, F# | C | ![FSharpBoptygic](ModeFSharpBoptygic.png) | [midi](ModeFSharpBoptygic.mid) [ogg](ModeFSharpBoptygic.ogg) |
-| [Gb](ModeGFlatBoptygic.md) | Gb, G, A, B, C, **Db**, D, **Eb**, E, Gb | C | ![GFlatBoptygic](ModeGFlatBoptygic.png) | [midi](ModeGFlatBoptygic.mid) [ogg](ModeGFlatBoptygic.ogg) |
-| [G](ModeGNaturalBoptygic.md) | G, G#, A#, C, C#, **D**, D#, **E**, F, G | C | ![GNaturalBoptygic](ModeGNaturalBoptygic.png) | [midi](ModeGNaturalBoptygic.mid) [ogg](ModeGNaturalBoptygic.ogg) |
-| [G#](ModeGSharpBoptygic.md) | G#, A, B, C#, D, **D#**, E, **F**, F#, G# | C | ![GSharpBoptygic](ModeGSharpBoptygic.png) | [midi](ModeGSharpBoptygic.mid) [ogg](ModeGSharpBoptygic.ogg) |
-| [Ab](ModeAFlatBoptygic.md) | Ab, A, B, Db, D, **Eb**, E, **F**, Gb, Ab | C | ![AFlatBoptygic](ModeAFlatBoptygic.png) | [midi](ModeAFlatBoptygic.mid) [ogg](ModeAFlatBoptygic.ogg) |
-| [A](ModeANaturalBoptygic.md) | A, A#, C, D, D#, **E**, F, **F#**, G, A | C | ![ANaturalBoptygic](ModeANaturalBoptygic.png) | [midi](ModeANaturalBoptygic.mid) [ogg](ModeANaturalBoptygic.ogg) |
-| [A#](ModeASharpBoptygic.md) | A#, B, C#, D#, E, **F**, F#, **G**, G#, A# | C | ![ASharpBoptygic](ModeASharpBoptygic.png) | [midi](ModeASharpBoptygic.mid) [ogg](ModeASharpBoptygic.ogg) |
-| [Bb](ModeBFlatBoptygic.md) | Bb, B, Db, Eb, E, **F**, Gb, **G**, Ab, Bb | C | ![BFlatBoptygic](ModeBFlatBoptygic.png) | [midi](ModeBFlatBoptygic.mid) [ogg](ModeBFlatBoptygic.ogg) |
-| [B](ModeBNaturalBoptygic.md) | B, C, D, E, F, **F#**, G, **G#**, A, B | C | ![BNaturalBoptygic](ModeBNaturalBoptygic.png) | [midi](ModeBNaturalBoptygic.mid) [ogg](ModeBNaturalBoptygic.ogg) |
+| [C](ModeCNaturalBoptygic.md) | C, C#, D#, F, F#, **G**, G#, **A**, A#, C | C | ![CNaturalBoptygic](ModeCNaturalBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalBoptygic.mid?raw=true) |
+| [C#](ModeCSharpBoptygic.md) | C#, D, E, F#, G, **G#**, A, **A#**, B, C# | C | ![CSharpBoptygic](ModeCSharpBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpBoptygic.mid?raw=true) |
+| [Db](ModeDFlatBoptygic.md) | Db, D, E, Gb, G, **Ab**, A, **Bb**, B, Db | C | ![DFlatBoptygic](ModeDFlatBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatBoptygic.mid?raw=true) |
+| [D](ModeDNaturalBoptygic.md) | D, D#, F, G, G#, **A**, A#, **B**, C, D | C | ![DNaturalBoptygic](ModeDNaturalBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalBoptygic.mid?raw=true) |
+| [D#](ModeDSharpBoptygic.md) | D#, E, F#, G#, A, **A#**, B, **C**, C#, D# | C | ![DSharpBoptygic](ModeDSharpBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpBoptygic.mid?raw=true) |
+| [Eb](ModeEFlatBoptygic.md) | Eb, E, Gb, Ab, A, **Bb**, B, **C**, Db, Eb | C | ![EFlatBoptygic](ModeEFlatBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatBoptygic.mid?raw=true) |
+| [E](ModeENaturalBoptygic.md) | E, F, G, A, A#, **B**, C, **C#**, D, E | C | ![ENaturalBoptygic](ModeENaturalBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalBoptygic.mid?raw=true) |
+| [F](ModeFNaturalBoptygic.md) | F, F#, G#, A#, B, **C**, C#, **D**, D#, F | C | ![FNaturalBoptygic](ModeFNaturalBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalBoptygic.mid?raw=true) |
+| [F#](ModeFSharpBoptygic.md) | F#, G, A, B, C, **C#**, D, **D#**, E, F# | C | ![FSharpBoptygic](ModeFSharpBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpBoptygic.mid?raw=true) |
+| [Gb](ModeGFlatBoptygic.md) | Gb, G, A, B, C, **Db**, D, **Eb**, E, Gb | C | ![GFlatBoptygic](ModeGFlatBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatBoptygic.mid?raw=true) |
+| [G](ModeGNaturalBoptygic.md) | G, G#, A#, C, C#, **D**, D#, **E**, F, G | C | ![GNaturalBoptygic](ModeGNaturalBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalBoptygic.mid?raw=true) |
+| [G#](ModeGSharpBoptygic.md) | G#, A, B, C#, D, **D#**, E, **F**, F#, G# | C | ![GSharpBoptygic](ModeGSharpBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpBoptygic.mid?raw=true) |
+| [Ab](ModeAFlatBoptygic.md) | Ab, A, B, Db, D, **Eb**, E, **F**, Gb, Ab | C | ![AFlatBoptygic](ModeAFlatBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatBoptygic.mid?raw=true) |
+| [A](ModeANaturalBoptygic.md) | A, A#, C, D, D#, **E**, F, **F#**, G, A | C | ![ANaturalBoptygic](ModeANaturalBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalBoptygic.mid?raw=true) |
+| [A#](ModeASharpBoptygic.md) | A#, B, C#, D#, E, **F**, F#, **G**, G#, A# | C | ![ASharpBoptygic](ModeASharpBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpBoptygic.mid?raw=true) |
+| [Bb](ModeBFlatBoptygic.md) | Bb, B, Db, Eb, E, **F**, Gb, **G**, Ab, Bb | C | ![BFlatBoptygic](ModeBFlatBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatBoptygic.mid?raw=true) |
+| [B](ModeBNaturalBoptygic.md) | B, C, D, E, F, **F#**, G, **G#**, A, B | C | ![BNaturalBoptygic](ModeBNaturalBoptygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalBoptygic.mid?raw=true) |

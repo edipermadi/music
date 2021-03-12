@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalMycrimic.md) | **C**, **D##**, E#, **F#**, **G#**, A#, **C** | C | ![CNaturalMycrimic](ModeCNaturalMycrimic.png) | [midi](ModeCNaturalMycrimic.mid) [ogg](ModeCNaturalMycrimic.ogg) |
-| [C#](ModeCSharpMycrimic.md) | **C#**, **D###**, E##, **F##**, **G##**, A##, **C#** | C | ![CSharpMycrimic](ModeCSharpMycrimic.png) | [midi](ModeCSharpMycrimic.mid) [ogg](ModeCSharpMycrimic.ogg) |
-| [Db](ModeDFlatMycrimic.md) | **Db**, **E#**, F#, **G**, **A**, B, **Db** | C | ![DFlatMycrimic](ModeDFlatMycrimic.png) | [midi](ModeDFlatMycrimic.mid) [ogg](ModeDFlatMycrimic.ogg) |
-| [D](ModeDNaturalMycrimic.md) | **D**, **E##**, F##, **G#**, **A#**, B#, **D** | C | ![DNaturalMycrimic](ModeDNaturalMycrimic.png) | [midi](ModeDNaturalMycrimic.mid) [ogg](ModeDNaturalMycrimic.ogg) |
-| [D#](ModeDSharpMycrimic.md) | **D#**, **E###**, F###, **G##**, **A##**, B##, **D#** | C | ![DSharpMycrimic](ModeDSharpMycrimic.png) | [midi](ModeDSharpMycrimic.mid) [ogg](ModeDSharpMycrimic.ogg) |
-| [Eb](ModeEFlatMycrimic.md) | **Eb**, **F##**, G#, **A**, **B**, C#, **Eb** | C | ![EFlatMycrimic](ModeEFlatMycrimic.png) | [midi](ModeEFlatMycrimic.mid) [ogg](ModeEFlatMycrimic.ogg) |
-| [E](ModeENaturalMycrimic.md) | **E**, **F###**, G##, **A#**, **B#**, C##, **E** | C | ![ENaturalMycrimic](ModeENaturalMycrimic.png) | [midi](ModeENaturalMycrimic.mid) [ogg](ModeENaturalMycrimic.ogg) |
-| [F](ModeFNaturalMycrimic.md) | **F**, **G##**, A#, **B**, **C#**, D#, **F** | C | ![FNaturalMycrimic](ModeFNaturalMycrimic.png) | [midi](ModeFNaturalMycrimic.mid) [ogg](ModeFNaturalMycrimic.ogg) |
-| [F#](ModeFSharpMycrimic.md) | **F#**, **G###**, A##, **B#**, **C##**, D##, **F#** | C | ![FSharpMycrimic](ModeFSharpMycrimic.png) | [midi](ModeFSharpMycrimic.mid) [ogg](ModeFSharpMycrimic.ogg) |
-| [Gb](ModeGFlatMycrimic.md) | **Gb**, **A#**, B, **C**, **D**, E, **Gb** | C | ![GFlatMycrimic](ModeGFlatMycrimic.png) | [midi](ModeGFlatMycrimic.mid) [ogg](ModeGFlatMycrimic.ogg) |
-| [G](ModeGNaturalMycrimic.md) | **G**, **A##**, B#, **C#**, **D#**, E#, **G** | C | ![GNaturalMycrimic](ModeGNaturalMycrimic.png) | [midi](ModeGNaturalMycrimic.mid) [ogg](ModeGNaturalMycrimic.ogg) |
-| [G#](ModeGSharpMycrimic.md) | **G#**, **A###**, B##, **C##**, **D##**, E##, **G#** | C | ![GSharpMycrimic](ModeGSharpMycrimic.png) | [midi](ModeGSharpMycrimic.mid) [ogg](ModeGSharpMycrimic.ogg) |
-| [Ab](ModeAFlatMycrimic.md) | **Ab**, **B#**, C#, **D**, **E**, F#, **Ab** | C | ![AFlatMycrimic](ModeAFlatMycrimic.png) | [midi](ModeAFlatMycrimic.mid) [ogg](ModeAFlatMycrimic.ogg) |
-| [A](ModeANaturalMycrimic.md) | **A**, **B##**, C##, **D#**, **E#**, F##, **A** | C | ![ANaturalMycrimic](ModeANaturalMycrimic.png) | [midi](ModeANaturalMycrimic.mid) [ogg](ModeANaturalMycrimic.ogg) |
-| [A#](ModeASharpMycrimic.md) | **A#**, **B###**, C###, **D##**, **E##**, F###, **A#** | C | ![ASharpMycrimic](ModeASharpMycrimic.png) | [midi](ModeASharpMycrimic.mid) [ogg](ModeASharpMycrimic.ogg) |
-| [Bb](ModeBFlatMycrimic.md) | **Bb**, **C##**, D#, **E**, **F#**, G#, **Bb** | C | ![BFlatMycrimic](ModeBFlatMycrimic.png) | [midi](ModeBFlatMycrimic.mid) [ogg](ModeBFlatMycrimic.ogg) |
-| [B](ModeBNaturalMycrimic.md) | **B**, **C###**, D##, **E#**, **F##**, G##, **B** | C | ![BNaturalMycrimic](ModeBNaturalMycrimic.png) | [midi](ModeBNaturalMycrimic.mid) [ogg](ModeBNaturalMycrimic.ogg) |
+| [C](ModeCNaturalMycrimic.md) | **C**, **D##**, E#, **F#**, **G#**, A#, **C** | C | ![CNaturalMycrimic](ModeCNaturalMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMycrimic.mid?raw=true) |
+| [C#](ModeCSharpMycrimic.md) | **C#**, **D###**, E##, **F##**, **G##**, A##, **C#** | C | ![CSharpMycrimic](ModeCSharpMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpMycrimic.mid?raw=true) |
+| [Db](ModeDFlatMycrimic.md) | **Db**, **E#**, F#, **G**, **A**, B, **Db** | C | ![DFlatMycrimic](ModeDFlatMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatMycrimic.mid?raw=true) |
+| [D](ModeDNaturalMycrimic.md) | **D**, **E##**, F##, **G#**, **A#**, B#, **D** | C | ![DNaturalMycrimic](ModeDNaturalMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalMycrimic.mid?raw=true) |
+| [D#](ModeDSharpMycrimic.md) | **D#**, **E###**, F###, **G##**, **A##**, B##, **D#** | C | ![DSharpMycrimic](ModeDSharpMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpMycrimic.mid?raw=true) |
+| [Eb](ModeEFlatMycrimic.md) | **Eb**, **F##**, G#, **A**, **B**, C#, **Eb** | C | ![EFlatMycrimic](ModeEFlatMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatMycrimic.mid?raw=true) |
+| [E](ModeENaturalMycrimic.md) | **E**, **F###**, G##, **A#**, **B#**, C##, **E** | C | ![ENaturalMycrimic](ModeENaturalMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalMycrimic.mid?raw=true) |
+| [F](ModeFNaturalMycrimic.md) | **F**, **G##**, A#, **B**, **C#**, D#, **F** | C | ![FNaturalMycrimic](ModeFNaturalMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalMycrimic.mid?raw=true) |
+| [F#](ModeFSharpMycrimic.md) | **F#**, **G###**, A##, **B#**, **C##**, D##, **F#** | C | ![FSharpMycrimic](ModeFSharpMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpMycrimic.mid?raw=true) |
+| [Gb](ModeGFlatMycrimic.md) | **Gb**, **A#**, B, **C**, **D**, E, **Gb** | C | ![GFlatMycrimic](ModeGFlatMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatMycrimic.mid?raw=true) |
+| [G](ModeGNaturalMycrimic.md) | **G**, **A##**, B#, **C#**, **D#**, E#, **G** | C | ![GNaturalMycrimic](ModeGNaturalMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalMycrimic.mid?raw=true) |
+| [G#](ModeGSharpMycrimic.md) | **G#**, **A###**, B##, **C##**, **D##**, E##, **G#** | C | ![GSharpMycrimic](ModeGSharpMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpMycrimic.mid?raw=true) |
+| [Ab](ModeAFlatMycrimic.md) | **Ab**, **B#**, C#, **D**, **E**, F#, **Ab** | C | ![AFlatMycrimic](ModeAFlatMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatMycrimic.mid?raw=true) |
+| [A](ModeANaturalMycrimic.md) | **A**, **B##**, C##, **D#**, **E#**, F##, **A** | C | ![ANaturalMycrimic](ModeANaturalMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalMycrimic.mid?raw=true) |
+| [A#](ModeASharpMycrimic.md) | **A#**, **B###**, C###, **D##**, **E##**, F###, **A#** | C | ![ASharpMycrimic](ModeASharpMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpMycrimic.mid?raw=true) |
+| [Bb](ModeBFlatMycrimic.md) | **Bb**, **C##**, D#, **E**, **F#**, G#, **Bb** | C | ![BFlatMycrimic](ModeBFlatMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatMycrimic.mid?raw=true) |
+| [B](ModeBNaturalMycrimic.md) | **B**, **C###**, D##, **E#**, **F##**, G##, **B** | C | ![BNaturalMycrimic](ModeBNaturalMycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalMycrimic.mid?raw=true) |

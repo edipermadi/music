@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalGothian.md) | **C**, **D**, **E**, F, **Gb**, **Ab**, Bb, **C** | C | ![CNaturalGothian](ModeCNaturalGothian.png) | [midi](ModeCNaturalGothian.mid) [ogg](ModeCNaturalGothian.ogg) |
-| [C#](ModeCSharpGothian.md) | **C#**, **D#**, **E#**, F#, **G**, **A**, B, **C#** | C | ![CSharpGothian](ModeCSharpGothian.png) | [midi](ModeCSharpGothian.mid) [ogg](ModeCSharpGothian.ogg) |
-| [Db](ModeDFlatGothian.md) | **Db**, **Eb**, **F**, Gb, **Abb**, **Bbb**, Cb, **Db** | C | ![DFlatGothian](ModeDFlatGothian.png) | [midi](ModeDFlatGothian.mid) [ogg](ModeDFlatGothian.ogg) |
-| [D](ModeDNaturalGothian.md) | **D**, **E**, **F#**, G, **Ab**, **Bb**, C, **D** | C | ![DNaturalGothian](ModeDNaturalGothian.png) | [midi](ModeDNaturalGothian.mid) [ogg](ModeDNaturalGothian.ogg) |
-| [D#](ModeDSharpGothian.md) | **D#**, **E#**, **F##**, G#, **A**, **B**, C#, **D#** | C | ![DSharpGothian](ModeDSharpGothian.png) | [midi](ModeDSharpGothian.mid) [ogg](ModeDSharpGothian.ogg) |
-| [Eb](ModeEFlatGothian.md) | **Eb**, **F**, **G**, Ab, **Bbb**, **Cb**, Db, **Eb** | C | ![EFlatGothian](ModeEFlatGothian.png) | [midi](ModeEFlatGothian.mid) [ogg](ModeEFlatGothian.ogg) |
-| [E](ModeENaturalGothian.md) | **E**, **F#**, **G#**, A, **Bb**, **C**, D, **E** | C | ![ENaturalGothian](ModeENaturalGothian.png) | [midi](ModeENaturalGothian.mid) [ogg](ModeENaturalGothian.ogg) |
-| [F](ModeFNaturalGothian.md) | **F**, **G**, **A**, Bb, **Cb**, **Db**, Eb, **F** | C | ![FNaturalGothian](ModeFNaturalGothian.png) | [midi](ModeFNaturalGothian.mid) [ogg](ModeFNaturalGothian.ogg) |
-| [F#](ModeFSharpGothian.md) | **F#**, **G#**, **A#**, B, **C**, **D**, E, **F#** | C | ![FSharpGothian](ModeFSharpGothian.png) | [midi](ModeFSharpGothian.mid) [ogg](ModeFSharpGothian.ogg) |
-| [Gb](ModeGFlatGothian.md) | **Gb**, **Ab**, **Bb**, Cb, **Dbb**, **Ebb**, Fb, **Gb** | C | ![GFlatGothian](ModeGFlatGothian.png) | [midi](ModeGFlatGothian.mid) [ogg](ModeGFlatGothian.ogg) |
-| [G](ModeGNaturalGothian.md) | **G**, **A**, **B**, C, **Db**, **Eb**, F, **G** | C | ![GNaturalGothian](ModeGNaturalGothian.png) | [midi](ModeGNaturalGothian.mid) [ogg](ModeGNaturalGothian.ogg) |
-| [G#](ModeGSharpGothian.md) | **G#**, **A#**, **B#**, C#, **D**, **E**, F#, **G#** | C | ![GSharpGothian](ModeGSharpGothian.png) | [midi](ModeGSharpGothian.mid) [ogg](ModeGSharpGothian.ogg) |
-| [Ab](ModeAFlatGothian.md) | **Ab**, **Bb**, **C**, Db, **Ebb**, **Fb**, Gb, **Ab** | C | ![AFlatGothian](ModeAFlatGothian.png) | [midi](ModeAFlatGothian.mid) [ogg](ModeAFlatGothian.ogg) |
-| [A](ModeANaturalGothian.md) | **A**, **B**, **C#**, D, **Eb**, **F**, G, **A** | C | ![ANaturalGothian](ModeANaturalGothian.png) | [midi](ModeANaturalGothian.mid) [ogg](ModeANaturalGothian.ogg) |
-| [A#](ModeASharpGothian.md) | **A#**, **B#**, **C##**, D#, **E**, **F#**, G#, **A#** | C | ![ASharpGothian](ModeASharpGothian.png) | [midi](ModeASharpGothian.mid) [ogg](ModeASharpGothian.ogg) |
-| [Bb](ModeBFlatGothian.md) | **Bb**, **C**, **D**, Eb, **Fb**, **Gb**, Ab, **Bb** | C | ![BFlatGothian](ModeBFlatGothian.png) | [midi](ModeBFlatGothian.mid) [ogg](ModeBFlatGothian.ogg) |
-| [B](ModeBNaturalGothian.md) | **B**, **C#**, **D#**, E, **F**, **G**, A, **B** | C | ![BNaturalGothian](ModeBNaturalGothian.png) | [midi](ModeBNaturalGothian.mid) [ogg](ModeBNaturalGothian.ogg) |
+| [C](ModeCNaturalGothian.md) | **C**, **D**, **E**, F, **Gb**, **Ab**, Bb, **C** | C | ![CNaturalGothian](ModeCNaturalGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalGothian.mid?raw=true) |
+| [C#](ModeCSharpGothian.md) | **C#**, **D#**, **E#**, F#, **G**, **A**, B, **C#** | C | ![CSharpGothian](ModeCSharpGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpGothian.mid?raw=true) |
+| [Db](ModeDFlatGothian.md) | **Db**, **Eb**, **F**, Gb, **Abb**, **Bbb**, Cb, **Db** | C | ![DFlatGothian](ModeDFlatGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatGothian.mid?raw=true) |
+| [D](ModeDNaturalGothian.md) | **D**, **E**, **F#**, G, **Ab**, **Bb**, C, **D** | C | ![DNaturalGothian](ModeDNaturalGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalGothian.mid?raw=true) |
+| [D#](ModeDSharpGothian.md) | **D#**, **E#**, **F##**, G#, **A**, **B**, C#, **D#** | C | ![DSharpGothian](ModeDSharpGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpGothian.mid?raw=true) |
+| [Eb](ModeEFlatGothian.md) | **Eb**, **F**, **G**, Ab, **Bbb**, **Cb**, Db, **Eb** | C | ![EFlatGothian](ModeEFlatGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatGothian.mid?raw=true) |
+| [E](ModeENaturalGothian.md) | **E**, **F#**, **G#**, A, **Bb**, **C**, D, **E** | C | ![ENaturalGothian](ModeENaturalGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalGothian.mid?raw=true) |
+| [F](ModeFNaturalGothian.md) | **F**, **G**, **A**, Bb, **Cb**, **Db**, Eb, **F** | C | ![FNaturalGothian](ModeFNaturalGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalGothian.mid?raw=true) |
+| [F#](ModeFSharpGothian.md) | **F#**, **G#**, **A#**, B, **C**, **D**, E, **F#** | C | ![FSharpGothian](ModeFSharpGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpGothian.mid?raw=true) |
+| [Gb](ModeGFlatGothian.md) | **Gb**, **Ab**, **Bb**, Cb, **Dbb**, **Ebb**, Fb, **Gb** | C | ![GFlatGothian](ModeGFlatGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatGothian.mid?raw=true) |
+| [G](ModeGNaturalGothian.md) | **G**, **A**, **B**, C, **Db**, **Eb**, F, **G** | C | ![GNaturalGothian](ModeGNaturalGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalGothian.mid?raw=true) |
+| [G#](ModeGSharpGothian.md) | **G#**, **A#**, **B#**, C#, **D**, **E**, F#, **G#** | C | ![GSharpGothian](ModeGSharpGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpGothian.mid?raw=true) |
+| [Ab](ModeAFlatGothian.md) | **Ab**, **Bb**, **C**, Db, **Ebb**, **Fb**, Gb, **Ab** | C | ![AFlatGothian](ModeAFlatGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatGothian.mid?raw=true) |
+| [A](ModeANaturalGothian.md) | **A**, **B**, **C#**, D, **Eb**, **F**, G, **A** | C | ![ANaturalGothian](ModeANaturalGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalGothian.mid?raw=true) |
+| [A#](ModeASharpGothian.md) | **A#**, **B#**, **C##**, D#, **E**, **F#**, G#, **A#** | C | ![ASharpGothian](ModeASharpGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpGothian.mid?raw=true) |
+| [Bb](ModeBFlatGothian.md) | **Bb**, **C**, **D**, Eb, **Fb**, **Gb**, Ab, **Bb** | C | ![BFlatGothian](ModeBFlatGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatGothian.mid?raw=true) |
+| [B](ModeBNaturalGothian.md) | **B**, **C#**, **D#**, E, **F**, **G**, A, **B** | C | ![BNaturalGothian](ModeBNaturalGothian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalGothian.mid?raw=true) |

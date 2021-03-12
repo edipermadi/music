@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalZadian.md) | C, **Db**, Eb, **Fb**, Gbb, **Abb**, Bb, C | C | ![CNaturalZadian](ModeCNaturalZadian.png) | [midi](ModeCNaturalZadian.mid) [ogg](ModeCNaturalZadian.ogg) |
-| [C#](ModeCSharpZadian.md) | C#, **D**, E, **F**, Gb, **Ab**, B, C# | C | ![CSharpZadian](ModeCSharpZadian.png) | [midi](ModeCSharpZadian.mid) [ogg](ModeCSharpZadian.ogg) |
-| [Db](ModeDFlatZadian.md) | Db, **Ebb**, Fb, **Gbb**, Abbb, **Bbbb**, Cb, Db | C | ![DFlatZadian](ModeDFlatZadian.png) | [midi](ModeDFlatZadian.mid) [ogg](ModeDFlatZadian.ogg) |
-| [D](ModeDNaturalZadian.md) | D, **Eb**, F, **Gb**, Abb, **Bbb**, C, D | C | ![DNaturalZadian](ModeDNaturalZadian.png) | [midi](ModeDNaturalZadian.mid) [ogg](ModeDNaturalZadian.ogg) |
-| [D#](ModeDSharpZadian.md) | D#, **E**, F#, **G**, Ab, **Bb**, C#, D# | C | ![DSharpZadian](ModeDSharpZadian.png) | [midi](ModeDSharpZadian.mid) [ogg](ModeDSharpZadian.ogg) |
-| [Eb](ModeEFlatZadian.md) | Eb, **Fb**, Gb, **Abb**, Bbbb, **Cbb**, Db, Eb | C | ![EFlatZadian](ModeEFlatZadian.png) | [midi](ModeEFlatZadian.mid) [ogg](ModeEFlatZadian.ogg) |
-| [E](ModeENaturalZadian.md) | E, **F**, G, **Ab**, Bbb, **Cb**, D, E | C | ![ENaturalZadian](ModeENaturalZadian.png) | [midi](ModeENaturalZadian.mid) [ogg](ModeENaturalZadian.ogg) |
-| [F](ModeFNaturalZadian.md) | F, **Gb**, Ab, **Bbb**, Cbb, **Dbb**, Eb, F | C | ![FNaturalZadian](ModeFNaturalZadian.png) | [midi](ModeFNaturalZadian.mid) [ogg](ModeFNaturalZadian.ogg) |
-| [F#](ModeFSharpZadian.md) | F#, **G**, A, **Bb**, Cb, **Db**, E, F# | C | ![FSharpZadian](ModeFSharpZadian.png) | [midi](ModeFSharpZadian.mid) [ogg](ModeFSharpZadian.ogg) |
-| [Gb](ModeGFlatZadian.md) | Gb, **Abb**, Bbb, **Cbb**, Dbbb, **Ebbb**, Fb, Gb | C | ![GFlatZadian](ModeGFlatZadian.png) | [midi](ModeGFlatZadian.mid) [ogg](ModeGFlatZadian.ogg) |
-| [G](ModeGNaturalZadian.md) | G, **Ab**, Bb, **Cb**, Dbb, **Ebb**, F, G | C | ![GNaturalZadian](ModeGNaturalZadian.png) | [midi](ModeGNaturalZadian.mid) [ogg](ModeGNaturalZadian.ogg) |
-| [G#](ModeGSharpZadian.md) | G#, **A**, B, **C**, Db, **Eb**, F#, G# | C | ![GSharpZadian](ModeGSharpZadian.png) | [midi](ModeGSharpZadian.mid) [ogg](ModeGSharpZadian.ogg) |
-| [Ab](ModeAFlatZadian.md) | Ab, **Bbb**, Cb, **Dbb**, Ebbb, **Fbb**, Gb, Ab | C | ![AFlatZadian](ModeAFlatZadian.png) | [midi](ModeAFlatZadian.mid) [ogg](ModeAFlatZadian.ogg) |
-| [A](ModeANaturalZadian.md) | A, **Bb**, C, **Db**, Ebb, **Fb**, G, A | C | ![ANaturalZadian](ModeANaturalZadian.png) | [midi](ModeANaturalZadian.mid) [ogg](ModeANaturalZadian.ogg) |
-| [A#](ModeASharpZadian.md) | A#, **B**, C#, **D**, Eb, **F**, G#, A# | C | ![ASharpZadian](ModeASharpZadian.png) | [midi](ModeASharpZadian.mid) [ogg](ModeASharpZadian.ogg) |
-| [Bb](ModeBFlatZadian.md) | Bb, **Cb**, Db, **Ebb**, Fbb, **Gbb**, Ab, Bb | C | ![BFlatZadian](ModeBFlatZadian.png) | [midi](ModeBFlatZadian.mid) [ogg](ModeBFlatZadian.ogg) |
-| [B](ModeBNaturalZadian.md) | B, **C**, D, **Eb**, Fb, **Gb**, A, B | C | ![BNaturalZadian](ModeBNaturalZadian.png) | [midi](ModeBNaturalZadian.mid) [ogg](ModeBNaturalZadian.ogg) |
+| [C](ModeCNaturalZadian.md) | C, **Db**, Eb, **Fb**, Gbb, **Abb**, Bb, C | C | ![CNaturalZadian](ModeCNaturalZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalZadian.mid?raw=true) |
+| [C#](ModeCSharpZadian.md) | C#, **D**, E, **F**, Gb, **Ab**, B, C# | C | ![CSharpZadian](ModeCSharpZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpZadian.mid?raw=true) |
+| [Db](ModeDFlatZadian.md) | Db, **Ebb**, Fb, **Gbb**, Abbb, **Bbbb**, Cb, Db | C | ![DFlatZadian](ModeDFlatZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatZadian.mid?raw=true) |
+| [D](ModeDNaturalZadian.md) | D, **Eb**, F, **Gb**, Abb, **Bbb**, C, D | C | ![DNaturalZadian](ModeDNaturalZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalZadian.mid?raw=true) |
+| [D#](ModeDSharpZadian.md) | D#, **E**, F#, **G**, Ab, **Bb**, C#, D# | C | ![DSharpZadian](ModeDSharpZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpZadian.mid?raw=true) |
+| [Eb](ModeEFlatZadian.md) | Eb, **Fb**, Gb, **Abb**, Bbbb, **Cbb**, Db, Eb | C | ![EFlatZadian](ModeEFlatZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatZadian.mid?raw=true) |
+| [E](ModeENaturalZadian.md) | E, **F**, G, **Ab**, Bbb, **Cb**, D, E | C | ![ENaturalZadian](ModeENaturalZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalZadian.mid?raw=true) |
+| [F](ModeFNaturalZadian.md) | F, **Gb**, Ab, **Bbb**, Cbb, **Dbb**, Eb, F | C | ![FNaturalZadian](ModeFNaturalZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalZadian.mid?raw=true) |
+| [F#](ModeFSharpZadian.md) | F#, **G**, A, **Bb**, Cb, **Db**, E, F# | C | ![FSharpZadian](ModeFSharpZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpZadian.mid?raw=true) |
+| [Gb](ModeGFlatZadian.md) | Gb, **Abb**, Bbb, **Cbb**, Dbbb, **Ebbb**, Fb, Gb | C | ![GFlatZadian](ModeGFlatZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatZadian.mid?raw=true) |
+| [G](ModeGNaturalZadian.md) | G, **Ab**, Bb, **Cb**, Dbb, **Ebb**, F, G | C | ![GNaturalZadian](ModeGNaturalZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalZadian.mid?raw=true) |
+| [G#](ModeGSharpZadian.md) | G#, **A**, B, **C**, Db, **Eb**, F#, G# | C | ![GSharpZadian](ModeGSharpZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpZadian.mid?raw=true) |
+| [Ab](ModeAFlatZadian.md) | Ab, **Bbb**, Cb, **Dbb**, Ebbb, **Fbb**, Gb, Ab | C | ![AFlatZadian](ModeAFlatZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatZadian.mid?raw=true) |
+| [A](ModeANaturalZadian.md) | A, **Bb**, C, **Db**, Ebb, **Fb**, G, A | C | ![ANaturalZadian](ModeANaturalZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalZadian.mid?raw=true) |
+| [A#](ModeASharpZadian.md) | A#, **B**, C#, **D**, Eb, **F**, G#, A# | C | ![ASharpZadian](ModeASharpZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpZadian.mid?raw=true) |
+| [Bb](ModeBFlatZadian.md) | Bb, **Cb**, Db, **Ebb**, Fbb, **Gbb**, Ab, Bb | C | ![BFlatZadian](ModeBFlatZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatZadian.mid?raw=true) |
+| [B](ModeBNaturalZadian.md) | B, **C**, D, **Eb**, Fb, **Gb**, A, B | C | ![BNaturalZadian](ModeBNaturalZadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalZadian.mid?raw=true) |

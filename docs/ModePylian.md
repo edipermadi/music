@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalPylian.md) | C, **Db**, Ebb, F, G, **A**, **B**, C | C | ![CNaturalPylian](ModeCNaturalPylian.png) | [midi](ModeCNaturalPylian.mid) [ogg](ModeCNaturalPylian.ogg) |
-| [C#](ModeCSharpPylian.md) | C#, **D**, Eb, F#, G#, **A#**, **B#**, C# | C | ![CSharpPylian](ModeCSharpPylian.png) | [midi](ModeCSharpPylian.mid) [ogg](ModeCSharpPylian.ogg) |
-| [Db](ModeDFlatPylian.md) | Db, **Ebb**, Fbb, Gb, Ab, **Bb**, **C**, Db | C | ![DFlatPylian](ModeDFlatPylian.png) | [midi](ModeDFlatPylian.mid) [ogg](ModeDFlatPylian.ogg) |
-| [D](ModeDNaturalPylian.md) | D, **Eb**, Fb, G, A, **B**, **C#**, D | C | ![DNaturalPylian](ModeDNaturalPylian.png) | [midi](ModeDNaturalPylian.mid) [ogg](ModeDNaturalPylian.ogg) |
-| [D#](ModeDSharpPylian.md) | D#, **E**, F, G#, A#, **B#**, **C##**, D# | C | ![DSharpPylian](ModeDSharpPylian.png) | [midi](ModeDSharpPylian.mid) [ogg](ModeDSharpPylian.ogg) |
-| [Eb](ModeEFlatPylian.md) | Eb, **Fb**, Gbb, Ab, Bb, **C**, **D**, Eb | C | ![EFlatPylian](ModeEFlatPylian.png) | [midi](ModeEFlatPylian.mid) [ogg](ModeEFlatPylian.ogg) |
-| [E](ModeENaturalPylian.md) | E, **F**, Gb, A, B, **C#**, **D#**, E | C | ![ENaturalPylian](ModeENaturalPylian.png) | [midi](ModeENaturalPylian.mid) [ogg](ModeENaturalPylian.ogg) |
-| [F](ModeFNaturalPylian.md) | F, **Gb**, Abb, Bb, C, **D**, **E**, F | C | ![FNaturalPylian](ModeFNaturalPylian.png) | [midi](ModeFNaturalPylian.mid) [ogg](ModeFNaturalPylian.ogg) |
-| [F#](ModeFSharpPylian.md) | F#, **G**, Ab, B, C#, **D#**, **E#**, F# | C | ![FSharpPylian](ModeFSharpPylian.png) | [midi](ModeFSharpPylian.mid) [ogg](ModeFSharpPylian.ogg) |
-| [Gb](ModeGFlatPylian.md) | Gb, **Abb**, Bbbb, Cb, Db, **Eb**, **F**, Gb | C | ![GFlatPylian](ModeGFlatPylian.png) | [midi](ModeGFlatPylian.mid) [ogg](ModeGFlatPylian.ogg) |
-| [G](ModeGNaturalPylian.md) | G, **Ab**, Bbb, C, D, **E**, **F#**, G | C | ![GNaturalPylian](ModeGNaturalPylian.png) | [midi](ModeGNaturalPylian.mid) [ogg](ModeGNaturalPylian.ogg) |
-| [G#](ModeGSharpPylian.md) | G#, **A**, Bb, C#, D#, **E#**, **F##**, G# | C | ![GSharpPylian](ModeGSharpPylian.png) | [midi](ModeGSharpPylian.mid) [ogg](ModeGSharpPylian.ogg) |
-| [Ab](ModeAFlatPylian.md) | Ab, **Bbb**, Cbb, Db, Eb, **F**, **G**, Ab | C | ![AFlatPylian](ModeAFlatPylian.png) | [midi](ModeAFlatPylian.mid) [ogg](ModeAFlatPylian.ogg) |
-| [A](ModeANaturalPylian.md) | A, **Bb**, Cb, D, E, **F#**, **G#**, A | C | ![ANaturalPylian](ModeANaturalPylian.png) | [midi](ModeANaturalPylian.mid) [ogg](ModeANaturalPylian.ogg) |
-| [A#](ModeASharpPylian.md) | A#, **B**, C, D#, E#, **F##**, **G##**, A# | C | ![ASharpPylian](ModeASharpPylian.png) | [midi](ModeASharpPylian.mid) [ogg](ModeASharpPylian.ogg) |
-| [Bb](ModeBFlatPylian.md) | Bb, **Cb**, Dbb, Eb, F, **G**, **A**, Bb | C | ![BFlatPylian](ModeBFlatPylian.png) | [midi](ModeBFlatPylian.mid) [ogg](ModeBFlatPylian.ogg) |
-| [B](ModeBNaturalPylian.md) | B, **C**, Db, E, F#, **G#**, **A#**, B | C | ![BNaturalPylian](ModeBNaturalPylian.png) | [midi](ModeBNaturalPylian.mid) [ogg](ModeBNaturalPylian.ogg) |
+| [C](ModeCNaturalPylian.md) | C, **Db**, Ebb, F, G, **A**, **B**, C | C | ![CNaturalPylian](ModeCNaturalPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPylian.mid?raw=true) |
+| [C#](ModeCSharpPylian.md) | C#, **D**, Eb, F#, G#, **A#**, **B#**, C# | C | ![CSharpPylian](ModeCSharpPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpPylian.mid?raw=true) |
+| [Db](ModeDFlatPylian.md) | Db, **Ebb**, Fbb, Gb, Ab, **Bb**, **C**, Db | C | ![DFlatPylian](ModeDFlatPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatPylian.mid?raw=true) |
+| [D](ModeDNaturalPylian.md) | D, **Eb**, Fb, G, A, **B**, **C#**, D | C | ![DNaturalPylian](ModeDNaturalPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalPylian.mid?raw=true) |
+| [D#](ModeDSharpPylian.md) | D#, **E**, F, G#, A#, **B#**, **C##**, D# | C | ![DSharpPylian](ModeDSharpPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpPylian.mid?raw=true) |
+| [Eb](ModeEFlatPylian.md) | Eb, **Fb**, Gbb, Ab, Bb, **C**, **D**, Eb | C | ![EFlatPylian](ModeEFlatPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatPylian.mid?raw=true) |
+| [E](ModeENaturalPylian.md) | E, **F**, Gb, A, B, **C#**, **D#**, E | C | ![ENaturalPylian](ModeENaturalPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalPylian.mid?raw=true) |
+| [F](ModeFNaturalPylian.md) | F, **Gb**, Abb, Bb, C, **D**, **E**, F | C | ![FNaturalPylian](ModeFNaturalPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalPylian.mid?raw=true) |
+| [F#](ModeFSharpPylian.md) | F#, **G**, Ab, B, C#, **D#**, **E#**, F# | C | ![FSharpPylian](ModeFSharpPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpPylian.mid?raw=true) |
+| [Gb](ModeGFlatPylian.md) | Gb, **Abb**, Bbbb, Cb, Db, **Eb**, **F**, Gb | C | ![GFlatPylian](ModeGFlatPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatPylian.mid?raw=true) |
+| [G](ModeGNaturalPylian.md) | G, **Ab**, Bbb, C, D, **E**, **F#**, G | C | ![GNaturalPylian](ModeGNaturalPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalPylian.mid?raw=true) |
+| [G#](ModeGSharpPylian.md) | G#, **A**, Bb, C#, D#, **E#**, **F##**, G# | C | ![GSharpPylian](ModeGSharpPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpPylian.mid?raw=true) |
+| [Ab](ModeAFlatPylian.md) | Ab, **Bbb**, Cbb, Db, Eb, **F**, **G**, Ab | C | ![AFlatPylian](ModeAFlatPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatPylian.mid?raw=true) |
+| [A](ModeANaturalPylian.md) | A, **Bb**, Cb, D, E, **F#**, **G#**, A | C | ![ANaturalPylian](ModeANaturalPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalPylian.mid?raw=true) |
+| [A#](ModeASharpPylian.md) | A#, **B**, C, D#, E#, **F##**, **G##**, A# | C | ![ASharpPylian](ModeASharpPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpPylian.mid?raw=true) |
+| [Bb](ModeBFlatPylian.md) | Bb, **Cb**, Dbb, Eb, F, **G**, **A**, Bb | C | ![BFlatPylian](ModeBFlatPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatPylian.mid?raw=true) |
+| [B](ModeBNaturalPylian.md) | B, **C**, Db, E, F#, **G#**, **A#**, B | C | ![BNaturalPylian](ModeBNaturalPylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalPylian.mid?raw=true) |

@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalRyphian.md) | C, **D**, E, **F#**, G, **Ab**, B, C | C | ![CNaturalRyphian](ModeCNaturalRyphian.png) | [midi](ModeCNaturalRyphian.mid) [ogg](ModeCNaturalRyphian.ogg) |
-| [C#](ModeCSharpRyphian.md) | C#, **D#**, E#, **F##**, G#, **A**, B#, C# | C | ![CSharpRyphian](ModeCSharpRyphian.png) | [midi](ModeCSharpRyphian.mid) [ogg](ModeCSharpRyphian.ogg) |
-| [Db](ModeDFlatRyphian.md) | Db, **Eb**, F, **G**, Ab, **Bbb**, C, Db | C | ![DFlatRyphian](ModeDFlatRyphian.png) | [midi](ModeDFlatRyphian.mid) [ogg](ModeDFlatRyphian.ogg) |
-| [D](ModeDNaturalRyphian.md) | D, **E**, F#, **G#**, A, **Bb**, C#, D | C | ![DNaturalRyphian](ModeDNaturalRyphian.png) | [midi](ModeDNaturalRyphian.mid) [ogg](ModeDNaturalRyphian.ogg) |
-| [D#](ModeDSharpRyphian.md) | D#, **E#**, F##, **G##**, A#, **B**, C##, D# | C | ![DSharpRyphian](ModeDSharpRyphian.png) | [midi](ModeDSharpRyphian.mid) [ogg](ModeDSharpRyphian.ogg) |
-| [Eb](ModeEFlatRyphian.md) | Eb, **F**, G, **A**, Bb, **Cb**, D, Eb | C | ![EFlatRyphian](ModeEFlatRyphian.png) | [midi](ModeEFlatRyphian.mid) [ogg](ModeEFlatRyphian.ogg) |
-| [E](ModeENaturalRyphian.md) | E, **F#**, G#, **A#**, B, **C**, D#, E | C | ![ENaturalRyphian](ModeENaturalRyphian.png) | [midi](ModeENaturalRyphian.mid) [ogg](ModeENaturalRyphian.ogg) |
-| [F](ModeFNaturalRyphian.md) | F, **G**, A, **B**, C, **Db**, E, F | C | ![FNaturalRyphian](ModeFNaturalRyphian.png) | [midi](ModeFNaturalRyphian.mid) [ogg](ModeFNaturalRyphian.ogg) |
-| [F#](ModeFSharpRyphian.md) | F#, **G#**, A#, **B#**, C#, **D**, E#, F# | C | ![FSharpRyphian](ModeFSharpRyphian.png) | [midi](ModeFSharpRyphian.mid) [ogg](ModeFSharpRyphian.ogg) |
-| [Gb](ModeGFlatRyphian.md) | Gb, **Ab**, Bb, **C**, Db, **Ebb**, F, Gb | C | ![GFlatRyphian](ModeGFlatRyphian.png) | [midi](ModeGFlatRyphian.mid) [ogg](ModeGFlatRyphian.ogg) |
-| [G](ModeGNaturalRyphian.md) | G, **A**, B, **C#**, D, **Eb**, F#, G | C | ![GNaturalRyphian](ModeGNaturalRyphian.png) | [midi](ModeGNaturalRyphian.mid) [ogg](ModeGNaturalRyphian.ogg) |
-| [G#](ModeGSharpRyphian.md) | G#, **A#**, B#, **C##**, D#, **E**, F##, G# | C | ![GSharpRyphian](ModeGSharpRyphian.png) | [midi](ModeGSharpRyphian.mid) [ogg](ModeGSharpRyphian.ogg) |
-| [Ab](ModeAFlatRyphian.md) | Ab, **Bb**, C, **D**, Eb, **Fb**, G, Ab | C | ![AFlatRyphian](ModeAFlatRyphian.png) | [midi](ModeAFlatRyphian.mid) [ogg](ModeAFlatRyphian.ogg) |
-| [A](ModeANaturalRyphian.md) | A, **B**, C#, **D#**, E, **F**, G#, A | C | ![ANaturalRyphian](ModeANaturalRyphian.png) | [midi](ModeANaturalRyphian.mid) [ogg](ModeANaturalRyphian.ogg) |
-| [A#](ModeASharpRyphian.md) | A#, **B#**, C##, **D##**, E#, **F#**, G##, A# | C | ![ASharpRyphian](ModeASharpRyphian.png) | [midi](ModeASharpRyphian.mid) [ogg](ModeASharpRyphian.ogg) |
-| [Bb](ModeBFlatRyphian.md) | Bb, **C**, D, **E**, F, **Gb**, A, Bb | C | ![BFlatRyphian](ModeBFlatRyphian.png) | [midi](ModeBFlatRyphian.mid) [ogg](ModeBFlatRyphian.ogg) |
-| [B](ModeBNaturalRyphian.md) | B, **C#**, D#, **E#**, F#, **G**, A#, B | C | ![BNaturalRyphian](ModeBNaturalRyphian.png) | [midi](ModeBNaturalRyphian.mid) [ogg](ModeBNaturalRyphian.ogg) |
+| [C](ModeCNaturalRyphian.md) | C, **D**, E, **F#**, G, **Ab**, B, C | C | ![CNaturalRyphian](ModeCNaturalRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalRyphian.mid?raw=true) |
+| [C#](ModeCSharpRyphian.md) | C#, **D#**, E#, **F##**, G#, **A**, B#, C# | C | ![CSharpRyphian](ModeCSharpRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpRyphian.mid?raw=true) |
+| [Db](ModeDFlatRyphian.md) | Db, **Eb**, F, **G**, Ab, **Bbb**, C, Db | C | ![DFlatRyphian](ModeDFlatRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatRyphian.mid?raw=true) |
+| [D](ModeDNaturalRyphian.md) | D, **E**, F#, **G#**, A, **Bb**, C#, D | C | ![DNaturalRyphian](ModeDNaturalRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalRyphian.mid?raw=true) |
+| [D#](ModeDSharpRyphian.md) | D#, **E#**, F##, **G##**, A#, **B**, C##, D# | C | ![DSharpRyphian](ModeDSharpRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpRyphian.mid?raw=true) |
+| [Eb](ModeEFlatRyphian.md) | Eb, **F**, G, **A**, Bb, **Cb**, D, Eb | C | ![EFlatRyphian](ModeEFlatRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatRyphian.mid?raw=true) |
+| [E](ModeENaturalRyphian.md) | E, **F#**, G#, **A#**, B, **C**, D#, E | C | ![ENaturalRyphian](ModeENaturalRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalRyphian.mid?raw=true) |
+| [F](ModeFNaturalRyphian.md) | F, **G**, A, **B**, C, **Db**, E, F | C | ![FNaturalRyphian](ModeFNaturalRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalRyphian.mid?raw=true) |
+| [F#](ModeFSharpRyphian.md) | F#, **G#**, A#, **B#**, C#, **D**, E#, F# | C | ![FSharpRyphian](ModeFSharpRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpRyphian.mid?raw=true) |
+| [Gb](ModeGFlatRyphian.md) | Gb, **Ab**, Bb, **C**, Db, **Ebb**, F, Gb | C | ![GFlatRyphian](ModeGFlatRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatRyphian.mid?raw=true) |
+| [G](ModeGNaturalRyphian.md) | G, **A**, B, **C#**, D, **Eb**, F#, G | C | ![GNaturalRyphian](ModeGNaturalRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalRyphian.mid?raw=true) |
+| [G#](ModeGSharpRyphian.md) | G#, **A#**, B#, **C##**, D#, **E**, F##, G# | C | ![GSharpRyphian](ModeGSharpRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpRyphian.mid?raw=true) |
+| [Ab](ModeAFlatRyphian.md) | Ab, **Bb**, C, **D**, Eb, **Fb**, G, Ab | C | ![AFlatRyphian](ModeAFlatRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatRyphian.mid?raw=true) |
+| [A](ModeANaturalRyphian.md) | A, **B**, C#, **D#**, E, **F**, G#, A | C | ![ANaturalRyphian](ModeANaturalRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalRyphian.mid?raw=true) |
+| [A#](ModeASharpRyphian.md) | A#, **B#**, C##, **D##**, E#, **F#**, G##, A# | C | ![ASharpRyphian](ModeASharpRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpRyphian.mid?raw=true) |
+| [Bb](ModeBFlatRyphian.md) | Bb, **C**, D, **E**, F, **Gb**, A, Bb | C | ![BFlatRyphian](ModeBFlatRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatRyphian.mid?raw=true) |
+| [B](ModeBNaturalRyphian.md) | B, **C#**, D#, **E#**, F#, **G**, A#, B | C | ![BNaturalRyphian](ModeBNaturalRyphian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalRyphian.mid?raw=true) |

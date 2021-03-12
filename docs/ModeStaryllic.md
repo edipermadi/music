@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalStaryllic.md) | C, D, D#, **F#**, G, G#, **A**, **A#**, C | C | ![CNaturalStaryllic](ModeCNaturalStaryllic.png) | [midi](ModeCNaturalStaryllic.mid) [ogg](ModeCNaturalStaryllic.ogg) |
-| [C#](ModeCSharpStaryllic.md) | C#, D#, E, **G**, G#, A, **A#**, **B**, C# | C | ![CSharpStaryllic](ModeCSharpStaryllic.png) | [midi](ModeCSharpStaryllic.mid) [ogg](ModeCSharpStaryllic.ogg) |
-| [Db](ModeDFlatStaryllic.md) | Db, Eb, E, **G**, Ab, A, **Bb**, **B**, Db | C | ![DFlatStaryllic](ModeDFlatStaryllic.png) | [midi](ModeDFlatStaryllic.mid) [ogg](ModeDFlatStaryllic.ogg) |
-| [D](ModeDNaturalStaryllic.md) | D, E, F, **G#**, A, A#, **B**, **C**, D | C | ![DNaturalStaryllic](ModeDNaturalStaryllic.png) | [midi](ModeDNaturalStaryllic.mid) [ogg](ModeDNaturalStaryllic.ogg) |
-| [D#](ModeDSharpStaryllic.md) | D#, F, F#, **A**, A#, B, **C**, **C#**, D# | C | ![DSharpStaryllic](ModeDSharpStaryllic.png) | [midi](ModeDSharpStaryllic.mid) [ogg](ModeDSharpStaryllic.ogg) |
-| [Eb](ModeEFlatStaryllic.md) | Eb, F, Gb, **A**, Bb, B, **C**, **Db**, Eb | C | ![EFlatStaryllic](ModeEFlatStaryllic.png) | [midi](ModeEFlatStaryllic.mid) [ogg](ModeEFlatStaryllic.ogg) |
-| [E](ModeENaturalStaryllic.md) | E, F#, G, **A#**, B, C, **C#**, **D**, E | C | ![ENaturalStaryllic](ModeENaturalStaryllic.png) | [midi](ModeENaturalStaryllic.mid) [ogg](ModeENaturalStaryllic.ogg) |
-| [F](ModeFNaturalStaryllic.md) | F, G, G#, **B**, C, C#, **D**, **D#**, F | C | ![FNaturalStaryllic](ModeFNaturalStaryllic.png) | [midi](ModeFNaturalStaryllic.mid) [ogg](ModeFNaturalStaryllic.ogg) |
-| [F#](ModeFSharpStaryllic.md) | F#, G#, A, **C**, C#, D, **D#**, **E**, F# | C | ![FSharpStaryllic](ModeFSharpStaryllic.png) | [midi](ModeFSharpStaryllic.mid) [ogg](ModeFSharpStaryllic.ogg) |
-| [Gb](ModeGFlatStaryllic.md) | Gb, Ab, A, **C**, Db, D, **Eb**, **E**, Gb | C | ![GFlatStaryllic](ModeGFlatStaryllic.png) | [midi](ModeGFlatStaryllic.mid) [ogg](ModeGFlatStaryllic.ogg) |
-| [G](ModeGNaturalStaryllic.md) | G, A, A#, **C#**, D, D#, **E**, **F**, G | C | ![GNaturalStaryllic](ModeGNaturalStaryllic.png) | [midi](ModeGNaturalStaryllic.mid) [ogg](ModeGNaturalStaryllic.ogg) |
-| [G#](ModeGSharpStaryllic.md) | G#, A#, B, **D**, D#, E, **F**, **F#**, G# | C | ![GSharpStaryllic](ModeGSharpStaryllic.png) | [midi](ModeGSharpStaryllic.mid) [ogg](ModeGSharpStaryllic.ogg) |
-| [Ab](ModeAFlatStaryllic.md) | Ab, Bb, B, **D**, Eb, E, **F**, **Gb**, Ab | C | ![AFlatStaryllic](ModeAFlatStaryllic.png) | [midi](ModeAFlatStaryllic.mid) [ogg](ModeAFlatStaryllic.ogg) |
-| [A](ModeANaturalStaryllic.md) | A, B, C, **D#**, E, F, **F#**, **G**, A | C | ![ANaturalStaryllic](ModeANaturalStaryllic.png) | [midi](ModeANaturalStaryllic.mid) [ogg](ModeANaturalStaryllic.ogg) |
-| [A#](ModeASharpStaryllic.md) | A#, C, C#, **E**, F, F#, **G**, **G#**, A# | C | ![ASharpStaryllic](ModeASharpStaryllic.png) | [midi](ModeASharpStaryllic.mid) [ogg](ModeASharpStaryllic.ogg) |
-| [Bb](ModeBFlatStaryllic.md) | Bb, C, Db, **E**, F, Gb, **G**, **Ab**, Bb | C | ![BFlatStaryllic](ModeBFlatStaryllic.png) | [midi](ModeBFlatStaryllic.mid) [ogg](ModeBFlatStaryllic.ogg) |
-| [B](ModeBNaturalStaryllic.md) | B, C#, D, **F**, F#, G, **G#**, **A**, B | C | ![BNaturalStaryllic](ModeBNaturalStaryllic.png) | [midi](ModeBNaturalStaryllic.mid) [ogg](ModeBNaturalStaryllic.ogg) |
+| [C](ModeCNaturalStaryllic.md) | C, D, D#, **F#**, G, G#, **A**, **A#**, C | C | ![CNaturalStaryllic](ModeCNaturalStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalStaryllic.mid?raw=true) |
+| [C#](ModeCSharpStaryllic.md) | C#, D#, E, **G**, G#, A, **A#**, **B**, C# | C | ![CSharpStaryllic](ModeCSharpStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpStaryllic.mid?raw=true) |
+| [Db](ModeDFlatStaryllic.md) | Db, Eb, E, **G**, Ab, A, **Bb**, **B**, Db | C | ![DFlatStaryllic](ModeDFlatStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatStaryllic.mid?raw=true) |
+| [D](ModeDNaturalStaryllic.md) | D, E, F, **G#**, A, A#, **B**, **C**, D | C | ![DNaturalStaryllic](ModeDNaturalStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalStaryllic.mid?raw=true) |
+| [D#](ModeDSharpStaryllic.md) | D#, F, F#, **A**, A#, B, **C**, **C#**, D# | C | ![DSharpStaryllic](ModeDSharpStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpStaryllic.mid?raw=true) |
+| [Eb](ModeEFlatStaryllic.md) | Eb, F, Gb, **A**, Bb, B, **C**, **Db**, Eb | C | ![EFlatStaryllic](ModeEFlatStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatStaryllic.mid?raw=true) |
+| [E](ModeENaturalStaryllic.md) | E, F#, G, **A#**, B, C, **C#**, **D**, E | C | ![ENaturalStaryllic](ModeENaturalStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalStaryllic.mid?raw=true) |
+| [F](ModeFNaturalStaryllic.md) | F, G, G#, **B**, C, C#, **D**, **D#**, F | C | ![FNaturalStaryllic](ModeFNaturalStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalStaryllic.mid?raw=true) |
+| [F#](ModeFSharpStaryllic.md) | F#, G#, A, **C**, C#, D, **D#**, **E**, F# | C | ![FSharpStaryllic](ModeFSharpStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpStaryllic.mid?raw=true) |
+| [Gb](ModeGFlatStaryllic.md) | Gb, Ab, A, **C**, Db, D, **Eb**, **E**, Gb | C | ![GFlatStaryllic](ModeGFlatStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatStaryllic.mid?raw=true) |
+| [G](ModeGNaturalStaryllic.md) | G, A, A#, **C#**, D, D#, **E**, **F**, G | C | ![GNaturalStaryllic](ModeGNaturalStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalStaryllic.mid?raw=true) |
+| [G#](ModeGSharpStaryllic.md) | G#, A#, B, **D**, D#, E, **F**, **F#**, G# | C | ![GSharpStaryllic](ModeGSharpStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpStaryllic.mid?raw=true) |
+| [Ab](ModeAFlatStaryllic.md) | Ab, Bb, B, **D**, Eb, E, **F**, **Gb**, Ab | C | ![AFlatStaryllic](ModeAFlatStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatStaryllic.mid?raw=true) |
+| [A](ModeANaturalStaryllic.md) | A, B, C, **D#**, E, F, **F#**, **G**, A | C | ![ANaturalStaryllic](ModeANaturalStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalStaryllic.mid?raw=true) |
+| [A#](ModeASharpStaryllic.md) | A#, C, C#, **E**, F, F#, **G**, **G#**, A# | C | ![ASharpStaryllic](ModeASharpStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpStaryllic.mid?raw=true) |
+| [Bb](ModeBFlatStaryllic.md) | Bb, C, Db, **E**, F, Gb, **G**, **Ab**, Bb | C | ![BFlatStaryllic](ModeBFlatStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatStaryllic.mid?raw=true) |
+| [B](ModeBNaturalStaryllic.md) | B, C#, D, **F**, F#, G, **G#**, **A**, B | C | ![BNaturalStaryllic](ModeBNaturalStaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalStaryllic.mid?raw=true) |

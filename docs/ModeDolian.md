@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalDolian.md) | C, **D#**, E, F, **G**, A, **B**, C | C | ![CNaturalDolian](ModeCNaturalDolian.png) | [midi](ModeCNaturalDolian.mid) [ogg](ModeCNaturalDolian.ogg) |
-| [C#](ModeCSharpDolian.md) | C#, **D##**, E#, F#, **G#**, A#, **B#**, C# | C | ![CSharpDolian](ModeCSharpDolian.png) | [midi](ModeCSharpDolian.mid) [ogg](ModeCSharpDolian.ogg) |
-| [Db](ModeDFlatDolian.md) | Db, **E**, F, Gb, **Ab**, Bb, **C**, Db | C | ![DFlatDolian](ModeDFlatDolian.png) | [midi](ModeDFlatDolian.mid) [ogg](ModeDFlatDolian.ogg) |
-| [D](ModeDNaturalDolian.md) | D, **E#**, F#, G, **A**, B, **C#**, D | C | ![DNaturalDolian](ModeDNaturalDolian.png) | [midi](ModeDNaturalDolian.mid) [ogg](ModeDNaturalDolian.ogg) |
-| [D#](ModeDSharpDolian.md) | D#, **E##**, F##, G#, **A#**, B#, **C##**, D# | C | ![DSharpDolian](ModeDSharpDolian.png) | [midi](ModeDSharpDolian.mid) [ogg](ModeDSharpDolian.ogg) |
-| [Eb](ModeEFlatDolian.md) | Eb, **F#**, G, Ab, **Bb**, C, **D**, Eb | C | ![EFlatDolian](ModeEFlatDolian.png) | [midi](ModeEFlatDolian.mid) [ogg](ModeEFlatDolian.ogg) |
-| [E](ModeENaturalDolian.md) | E, **F##**, G#, A, **B**, C#, **D#**, E | C | ![ENaturalDolian](ModeENaturalDolian.png) | [midi](ModeENaturalDolian.mid) [ogg](ModeENaturalDolian.ogg) |
-| [F](ModeFNaturalDolian.md) | F, **G#**, A, Bb, **C**, D, **E**, F | C | ![FNaturalDolian](ModeFNaturalDolian.png) | [midi](ModeFNaturalDolian.mid) [ogg](ModeFNaturalDolian.ogg) |
-| [F#](ModeFSharpDolian.md) | F#, **G##**, A#, B, **C#**, D#, **E#**, F# | C | ![FSharpDolian](ModeFSharpDolian.png) | [midi](ModeFSharpDolian.mid) [ogg](ModeFSharpDolian.ogg) |
-| [Gb](ModeGFlatDolian.md) | Gb, **A**, Bb, Cb, **Db**, Eb, **F**, Gb | C | ![GFlatDolian](ModeGFlatDolian.png) | [midi](ModeGFlatDolian.mid) [ogg](ModeGFlatDolian.ogg) |
-| [G](ModeGNaturalDolian.md) | G, **A#**, B, C, **D**, E, **F#**, G | C | ![GNaturalDolian](ModeGNaturalDolian.png) | [midi](ModeGNaturalDolian.mid) [ogg](ModeGNaturalDolian.ogg) |
-| [G#](ModeGSharpDolian.md) | G#, **A##**, B#, C#, **D#**, E#, **F##**, G# | C | ![GSharpDolian](ModeGSharpDolian.png) | [midi](ModeGSharpDolian.mid) [ogg](ModeGSharpDolian.ogg) |
-| [Ab](ModeAFlatDolian.md) | Ab, **B**, C, Db, **Eb**, F, **G**, Ab | C | ![AFlatDolian](ModeAFlatDolian.png) | [midi](ModeAFlatDolian.mid) [ogg](ModeAFlatDolian.ogg) |
-| [A](ModeANaturalDolian.md) | A, **B#**, C#, D, **E**, F#, **G#**, A | C | ![ANaturalDolian](ModeANaturalDolian.png) | [midi](ModeANaturalDolian.mid) [ogg](ModeANaturalDolian.ogg) |
-| [A#](ModeASharpDolian.md) | A#, **B##**, C##, D#, **E#**, F##, **G##**, A# | C | ![ASharpDolian](ModeASharpDolian.png) | [midi](ModeASharpDolian.mid) [ogg](ModeASharpDolian.ogg) |
-| [Bb](ModeBFlatDolian.md) | Bb, **C#**, D, Eb, **F**, G, **A**, Bb | C | ![BFlatDolian](ModeBFlatDolian.png) | [midi](ModeBFlatDolian.mid) [ogg](ModeBFlatDolian.ogg) |
-| [B](ModeBNaturalDolian.md) | B, **C##**, D#, E, **F#**, G#, **A#**, B | C | ![BNaturalDolian](ModeBNaturalDolian.png) | [midi](ModeBNaturalDolian.mid) [ogg](ModeBNaturalDolian.ogg) |
+| [C](ModeCNaturalDolian.md) | C, **D#**, E, F, **G**, A, **B**, C | C | ![CNaturalDolian](ModeCNaturalDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDolian.mid?raw=true) |
+| [C#](ModeCSharpDolian.md) | C#, **D##**, E#, F#, **G#**, A#, **B#**, C# | C | ![CSharpDolian](ModeCSharpDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpDolian.mid?raw=true) |
+| [Db](ModeDFlatDolian.md) | Db, **E**, F, Gb, **Ab**, Bb, **C**, Db | C | ![DFlatDolian](ModeDFlatDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatDolian.mid?raw=true) |
+| [D](ModeDNaturalDolian.md) | D, **E#**, F#, G, **A**, B, **C#**, D | C | ![DNaturalDolian](ModeDNaturalDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalDolian.mid?raw=true) |
+| [D#](ModeDSharpDolian.md) | D#, **E##**, F##, G#, **A#**, B#, **C##**, D# | C | ![DSharpDolian](ModeDSharpDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpDolian.mid?raw=true) |
+| [Eb](ModeEFlatDolian.md) | Eb, **F#**, G, Ab, **Bb**, C, **D**, Eb | C | ![EFlatDolian](ModeEFlatDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatDolian.mid?raw=true) |
+| [E](ModeENaturalDolian.md) | E, **F##**, G#, A, **B**, C#, **D#**, E | C | ![ENaturalDolian](ModeENaturalDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalDolian.mid?raw=true) |
+| [F](ModeFNaturalDolian.md) | F, **G#**, A, Bb, **C**, D, **E**, F | C | ![FNaturalDolian](ModeFNaturalDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalDolian.mid?raw=true) |
+| [F#](ModeFSharpDolian.md) | F#, **G##**, A#, B, **C#**, D#, **E#**, F# | C | ![FSharpDolian](ModeFSharpDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpDolian.mid?raw=true) |
+| [Gb](ModeGFlatDolian.md) | Gb, **A**, Bb, Cb, **Db**, Eb, **F**, Gb | C | ![GFlatDolian](ModeGFlatDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatDolian.mid?raw=true) |
+| [G](ModeGNaturalDolian.md) | G, **A#**, B, C, **D**, E, **F#**, G | C | ![GNaturalDolian](ModeGNaturalDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalDolian.mid?raw=true) |
+| [G#](ModeGSharpDolian.md) | G#, **A##**, B#, C#, **D#**, E#, **F##**, G# | C | ![GSharpDolian](ModeGSharpDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpDolian.mid?raw=true) |
+| [Ab](ModeAFlatDolian.md) | Ab, **B**, C, Db, **Eb**, F, **G**, Ab | C | ![AFlatDolian](ModeAFlatDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatDolian.mid?raw=true) |
+| [A](ModeANaturalDolian.md) | A, **B#**, C#, D, **E**, F#, **G#**, A | C | ![ANaturalDolian](ModeANaturalDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalDolian.mid?raw=true) |
+| [A#](ModeASharpDolian.md) | A#, **B##**, C##, D#, **E#**, F##, **G##**, A# | C | ![ASharpDolian](ModeASharpDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpDolian.mid?raw=true) |
+| [Bb](ModeBFlatDolian.md) | Bb, **C#**, D, Eb, **F**, G, **A**, Bb | C | ![BFlatDolian](ModeBFlatDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatDolian.mid?raw=true) |
+| [B](ModeBNaturalDolian.md) | B, **C##**, D#, E, **F#**, G#, **A#**, B | C | ![BNaturalDolian](ModeBNaturalDolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalDolian.mid?raw=true) |

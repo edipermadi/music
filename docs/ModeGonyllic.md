@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalGonyllic.md) | **C**, D, D#, **E**, F, **F#**, A, A#, **C** | C | ![CNaturalGonyllic](ModeCNaturalGonyllic.png) | [midi](ModeCNaturalGonyllic.mid) [ogg](ModeCNaturalGonyllic.ogg) |
-| [C#](ModeCSharpGonyllic.md) | **C#**, D#, E, **F**, F#, **G**, A#, B, **C#** | C | ![CSharpGonyllic](ModeCSharpGonyllic.png) | [midi](ModeCSharpGonyllic.mid) [ogg](ModeCSharpGonyllic.ogg) |
-| [Db](ModeDFlatGonyllic.md) | **Db**, Eb, E, **F**, Gb, **G**, Bb, B, **Db** | C | ![DFlatGonyllic](ModeDFlatGonyllic.png) | [midi](ModeDFlatGonyllic.mid) [ogg](ModeDFlatGonyllic.ogg) |
-| [D](ModeDNaturalGonyllic.md) | **D**, E, F, **F#**, G, **G#**, B, C, **D** | C | ![DNaturalGonyllic](ModeDNaturalGonyllic.png) | [midi](ModeDNaturalGonyllic.mid) [ogg](ModeDNaturalGonyllic.ogg) |
-| [D#](ModeDSharpGonyllic.md) | **D#**, F, F#, **G**, G#, **A**, C, C#, **D#** | C | ![DSharpGonyllic](ModeDSharpGonyllic.png) | [midi](ModeDSharpGonyllic.mid) [ogg](ModeDSharpGonyllic.ogg) |
-| [Eb](ModeEFlatGonyllic.md) | **Eb**, F, Gb, **G**, Ab, **A**, C, Db, **Eb** | C | ![EFlatGonyllic](ModeEFlatGonyllic.png) | [midi](ModeEFlatGonyllic.mid) [ogg](ModeEFlatGonyllic.ogg) |
-| [E](ModeENaturalGonyllic.md) | **E**, F#, G, **G#**, A, **A#**, C#, D, **E** | C | ![ENaturalGonyllic](ModeENaturalGonyllic.png) | [midi](ModeENaturalGonyllic.mid) [ogg](ModeENaturalGonyllic.ogg) |
-| [F](ModeFNaturalGonyllic.md) | **F**, G, G#, **A**, A#, **B**, D, D#, **F** | C | ![FNaturalGonyllic](ModeFNaturalGonyllic.png) | [midi](ModeFNaturalGonyllic.mid) [ogg](ModeFNaturalGonyllic.ogg) |
-| [F#](ModeFSharpGonyllic.md) | **F#**, G#, A, **A#**, B, **C**, D#, E, **F#** | C | ![FSharpGonyllic](ModeFSharpGonyllic.png) | [midi](ModeFSharpGonyllic.mid) [ogg](ModeFSharpGonyllic.ogg) |
-| [Gb](ModeGFlatGonyllic.md) | **Gb**, Ab, A, **Bb**, B, **C**, Eb, E, **Gb** | C | ![GFlatGonyllic](ModeGFlatGonyllic.png) | [midi](ModeGFlatGonyllic.mid) [ogg](ModeGFlatGonyllic.ogg) |
-| [G](ModeGNaturalGonyllic.md) | **G**, A, A#, **B**, C, **C#**, E, F, **G** | C | ![GNaturalGonyllic](ModeGNaturalGonyllic.png) | [midi](ModeGNaturalGonyllic.mid) [ogg](ModeGNaturalGonyllic.ogg) |
-| [G#](ModeGSharpGonyllic.md) | **G#**, A#, B, **C**, C#, **D**, F, F#, **G#** | C | ![GSharpGonyllic](ModeGSharpGonyllic.png) | [midi](ModeGSharpGonyllic.mid) [ogg](ModeGSharpGonyllic.ogg) |
-| [Ab](ModeAFlatGonyllic.md) | **Ab**, Bb, B, **C**, Db, **D**, F, Gb, **Ab** | C | ![AFlatGonyllic](ModeAFlatGonyllic.png) | [midi](ModeAFlatGonyllic.mid) [ogg](ModeAFlatGonyllic.ogg) |
-| [A](ModeANaturalGonyllic.md) | **A**, B, C, **C#**, D, **D#**, F#, G, **A** | C | ![ANaturalGonyllic](ModeANaturalGonyllic.png) | [midi](ModeANaturalGonyllic.mid) [ogg](ModeANaturalGonyllic.ogg) |
-| [A#](ModeASharpGonyllic.md) | **A#**, C, C#, **D**, D#, **E**, G, G#, **A#** | C | ![ASharpGonyllic](ModeASharpGonyllic.png) | [midi](ModeASharpGonyllic.mid) [ogg](ModeASharpGonyllic.ogg) |
-| [Bb](ModeBFlatGonyllic.md) | **Bb**, C, Db, **D**, Eb, **E**, G, Ab, **Bb** | C | ![BFlatGonyllic](ModeBFlatGonyllic.png) | [midi](ModeBFlatGonyllic.mid) [ogg](ModeBFlatGonyllic.ogg) |
-| [B](ModeBNaturalGonyllic.md) | **B**, C#, D, **D#**, E, **F**, G#, A, **B** | C | ![BNaturalGonyllic](ModeBNaturalGonyllic.png) | [midi](ModeBNaturalGonyllic.mid) [ogg](ModeBNaturalGonyllic.ogg) |
+| [C](ModeCNaturalGonyllic.md) | **C**, D, D#, **E**, F, **F#**, A, A#, **C** | C | ![CNaturalGonyllic](ModeCNaturalGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalGonyllic.mid?raw=true) |
+| [C#](ModeCSharpGonyllic.md) | **C#**, D#, E, **F**, F#, **G**, A#, B, **C#** | C | ![CSharpGonyllic](ModeCSharpGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpGonyllic.mid?raw=true) |
+| [Db](ModeDFlatGonyllic.md) | **Db**, Eb, E, **F**, Gb, **G**, Bb, B, **Db** | C | ![DFlatGonyllic](ModeDFlatGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatGonyllic.mid?raw=true) |
+| [D](ModeDNaturalGonyllic.md) | **D**, E, F, **F#**, G, **G#**, B, C, **D** | C | ![DNaturalGonyllic](ModeDNaturalGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalGonyllic.mid?raw=true) |
+| [D#](ModeDSharpGonyllic.md) | **D#**, F, F#, **G**, G#, **A**, C, C#, **D#** | C | ![DSharpGonyllic](ModeDSharpGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpGonyllic.mid?raw=true) |
+| [Eb](ModeEFlatGonyllic.md) | **Eb**, F, Gb, **G**, Ab, **A**, C, Db, **Eb** | C | ![EFlatGonyllic](ModeEFlatGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatGonyllic.mid?raw=true) |
+| [E](ModeENaturalGonyllic.md) | **E**, F#, G, **G#**, A, **A#**, C#, D, **E** | C | ![ENaturalGonyllic](ModeENaturalGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalGonyllic.mid?raw=true) |
+| [F](ModeFNaturalGonyllic.md) | **F**, G, G#, **A**, A#, **B**, D, D#, **F** | C | ![FNaturalGonyllic](ModeFNaturalGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalGonyllic.mid?raw=true) |
+| [F#](ModeFSharpGonyllic.md) | **F#**, G#, A, **A#**, B, **C**, D#, E, **F#** | C | ![FSharpGonyllic](ModeFSharpGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpGonyllic.mid?raw=true) |
+| [Gb](ModeGFlatGonyllic.md) | **Gb**, Ab, A, **Bb**, B, **C**, Eb, E, **Gb** | C | ![GFlatGonyllic](ModeGFlatGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatGonyllic.mid?raw=true) |
+| [G](ModeGNaturalGonyllic.md) | **G**, A, A#, **B**, C, **C#**, E, F, **G** | C | ![GNaturalGonyllic](ModeGNaturalGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalGonyllic.mid?raw=true) |
+| [G#](ModeGSharpGonyllic.md) | **G#**, A#, B, **C**, C#, **D**, F, F#, **G#** | C | ![GSharpGonyllic](ModeGSharpGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpGonyllic.mid?raw=true) |
+| [Ab](ModeAFlatGonyllic.md) | **Ab**, Bb, B, **C**, Db, **D**, F, Gb, **Ab** | C | ![AFlatGonyllic](ModeAFlatGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatGonyllic.mid?raw=true) |
+| [A](ModeANaturalGonyllic.md) | **A**, B, C, **C#**, D, **D#**, F#, G, **A** | C | ![ANaturalGonyllic](ModeANaturalGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalGonyllic.mid?raw=true) |
+| [A#](ModeASharpGonyllic.md) | **A#**, C, C#, **D**, D#, **E**, G, G#, **A#** | C | ![ASharpGonyllic](ModeASharpGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpGonyllic.mid?raw=true) |
+| [Bb](ModeBFlatGonyllic.md) | **Bb**, C, Db, **D**, Eb, **E**, G, Ab, **Bb** | C | ![BFlatGonyllic](ModeBFlatGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatGonyllic.mid?raw=true) |
+| [B](ModeBNaturalGonyllic.md) | **B**, C#, D, **D#**, E, **F**, G#, A, **B** | C | ![BNaturalGonyllic](ModeBNaturalGonyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalGonyllic.mid?raw=true) |

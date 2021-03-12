@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalGarian.md) | C, **Db**, E, F#, **G**, A, B, C | C | ![CNaturalGarian](ModeCNaturalGarian.png) | [midi](ModeCNaturalGarian.mid) [ogg](ModeCNaturalGarian.ogg) |
-| [C#](ModeCSharpGarian.md) | C#, **D**, E#, F##, **G#**, A#, B#, C# | C | ![CSharpGarian](ModeCSharpGarian.png) | [midi](ModeCSharpGarian.mid) [ogg](ModeCSharpGarian.ogg) |
-| [Db](ModeDFlatGarian.md) | Db, **Ebb**, F, G, **Ab**, Bb, C, Db | C | ![DFlatGarian](ModeDFlatGarian.png) | [midi](ModeDFlatGarian.mid) [ogg](ModeDFlatGarian.ogg) |
-| [D](ModeDNaturalGarian.md) | D, **Eb**, F#, G#, **A**, B, C#, D | C | ![DNaturalGarian](ModeDNaturalGarian.png) | [midi](ModeDNaturalGarian.mid) [ogg](ModeDNaturalGarian.ogg) |
-| [D#](ModeDSharpGarian.md) | D#, **E**, F##, G##, **A#**, B#, C##, D# | C | ![DSharpGarian](ModeDSharpGarian.png) | [midi](ModeDSharpGarian.mid) [ogg](ModeDSharpGarian.ogg) |
-| [Eb](ModeEFlatGarian.md) | Eb, **Fb**, G, A, **Bb**, C, D, Eb | C | ![EFlatGarian](ModeEFlatGarian.png) | [midi](ModeEFlatGarian.mid) [ogg](ModeEFlatGarian.ogg) |
-| [E](ModeENaturalGarian.md) | E, **F**, G#, A#, **B**, C#, D#, E | C | ![ENaturalGarian](ModeENaturalGarian.png) | [midi](ModeENaturalGarian.mid) [ogg](ModeENaturalGarian.ogg) |
-| [F](ModeFNaturalGarian.md) | F, **Gb**, A, B, **C**, D, E, F | C | ![FNaturalGarian](ModeFNaturalGarian.png) | [midi](ModeFNaturalGarian.mid) [ogg](ModeFNaturalGarian.ogg) |
-| [F#](ModeFSharpGarian.md) | F#, **G**, A#, B#, **C#**, D#, E#, F# | C | ![FSharpGarian](ModeFSharpGarian.png) | [midi](ModeFSharpGarian.mid) [ogg](ModeFSharpGarian.ogg) |
-| [Gb](ModeGFlatGarian.md) | Gb, **Abb**, Bb, C, **Db**, Eb, F, Gb | C | ![GFlatGarian](ModeGFlatGarian.png) | [midi](ModeGFlatGarian.mid) [ogg](ModeGFlatGarian.ogg) |
-| [G](ModeGNaturalGarian.md) | G, **Ab**, B, C#, **D**, E, F#, G | C | ![GNaturalGarian](ModeGNaturalGarian.png) | [midi](ModeGNaturalGarian.mid) [ogg](ModeGNaturalGarian.ogg) |
-| [G#](ModeGSharpGarian.md) | G#, **A**, B#, C##, **D#**, E#, F##, G# | C | ![GSharpGarian](ModeGSharpGarian.png) | [midi](ModeGSharpGarian.mid) [ogg](ModeGSharpGarian.ogg) |
-| [Ab](ModeAFlatGarian.md) | Ab, **Bbb**, C, D, **Eb**, F, G, Ab | C | ![AFlatGarian](ModeAFlatGarian.png) | [midi](ModeAFlatGarian.mid) [ogg](ModeAFlatGarian.ogg) |
-| [A](ModeANaturalGarian.md) | A, **Bb**, C#, D#, **E**, F#, G#, A | C | ![ANaturalGarian](ModeANaturalGarian.png) | [midi](ModeANaturalGarian.mid) [ogg](ModeANaturalGarian.ogg) |
-| [A#](ModeASharpGarian.md) | A#, **B**, C##, D##, **E#**, F##, G##, A# | C | ![ASharpGarian](ModeASharpGarian.png) | [midi](ModeASharpGarian.mid) [ogg](ModeASharpGarian.ogg) |
-| [Bb](ModeBFlatGarian.md) | Bb, **Cb**, D, E, **F**, G, A, Bb | C | ![BFlatGarian](ModeBFlatGarian.png) | [midi](ModeBFlatGarian.mid) [ogg](ModeBFlatGarian.ogg) |
-| [B](ModeBNaturalGarian.md) | B, **C**, D#, E#, **F#**, G#, A#, B | C | ![BNaturalGarian](ModeBNaturalGarian.png) | [midi](ModeBNaturalGarian.mid) [ogg](ModeBNaturalGarian.ogg) |
+| [C](ModeCNaturalGarian.md) | C, **Db**, E, F#, **G**, A, B, C | C | ![CNaturalGarian](ModeCNaturalGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalGarian.mid?raw=true) |
+| [C#](ModeCSharpGarian.md) | C#, **D**, E#, F##, **G#**, A#, B#, C# | C | ![CSharpGarian](ModeCSharpGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpGarian.mid?raw=true) |
+| [Db](ModeDFlatGarian.md) | Db, **Ebb**, F, G, **Ab**, Bb, C, Db | C | ![DFlatGarian](ModeDFlatGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatGarian.mid?raw=true) |
+| [D](ModeDNaturalGarian.md) | D, **Eb**, F#, G#, **A**, B, C#, D | C | ![DNaturalGarian](ModeDNaturalGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalGarian.mid?raw=true) |
+| [D#](ModeDSharpGarian.md) | D#, **E**, F##, G##, **A#**, B#, C##, D# | C | ![DSharpGarian](ModeDSharpGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpGarian.mid?raw=true) |
+| [Eb](ModeEFlatGarian.md) | Eb, **Fb**, G, A, **Bb**, C, D, Eb | C | ![EFlatGarian](ModeEFlatGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatGarian.mid?raw=true) |
+| [E](ModeENaturalGarian.md) | E, **F**, G#, A#, **B**, C#, D#, E | C | ![ENaturalGarian](ModeENaturalGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalGarian.mid?raw=true) |
+| [F](ModeFNaturalGarian.md) | F, **Gb**, A, B, **C**, D, E, F | C | ![FNaturalGarian](ModeFNaturalGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalGarian.mid?raw=true) |
+| [F#](ModeFSharpGarian.md) | F#, **G**, A#, B#, **C#**, D#, E#, F# | C | ![FSharpGarian](ModeFSharpGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpGarian.mid?raw=true) |
+| [Gb](ModeGFlatGarian.md) | Gb, **Abb**, Bb, C, **Db**, Eb, F, Gb | C | ![GFlatGarian](ModeGFlatGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatGarian.mid?raw=true) |
+| [G](ModeGNaturalGarian.md) | G, **Ab**, B, C#, **D**, E, F#, G | C | ![GNaturalGarian](ModeGNaturalGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalGarian.mid?raw=true) |
+| [G#](ModeGSharpGarian.md) | G#, **A**, B#, C##, **D#**, E#, F##, G# | C | ![GSharpGarian](ModeGSharpGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpGarian.mid?raw=true) |
+| [Ab](ModeAFlatGarian.md) | Ab, **Bbb**, C, D, **Eb**, F, G, Ab | C | ![AFlatGarian](ModeAFlatGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatGarian.mid?raw=true) |
+| [A](ModeANaturalGarian.md) | A, **Bb**, C#, D#, **E**, F#, G#, A | C | ![ANaturalGarian](ModeANaturalGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalGarian.mid?raw=true) |
+| [A#](ModeASharpGarian.md) | A#, **B**, C##, D##, **E#**, F##, G##, A# | C | ![ASharpGarian](ModeASharpGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpGarian.mid?raw=true) |
+| [Bb](ModeBFlatGarian.md) | Bb, **Cb**, D, E, **F**, G, A, Bb | C | ![BFlatGarian](ModeBFlatGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatGarian.mid?raw=true) |
+| [B](ModeBNaturalGarian.md) | B, **C**, D#, E#, **F#**, G#, A#, B | C | ![BNaturalGarian](ModeBNaturalGarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalGarian.mid?raw=true) |

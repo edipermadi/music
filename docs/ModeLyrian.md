@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalLyrian.md) | C, **Db**, E, F#, **G**, **A#**, B, C | C | ![CNaturalLyrian](ModeCNaturalLyrian.png) | [midi](ModeCNaturalLyrian.mid) [ogg](ModeCNaturalLyrian.ogg) |
-| [C#](ModeCSharpLyrian.md) | C#, **D**, E#, F##, **G#**, **A##**, B#, C# | C | ![CSharpLyrian](ModeCSharpLyrian.png) | [midi](ModeCSharpLyrian.mid) [ogg](ModeCSharpLyrian.ogg) |
-| [Db](ModeDFlatLyrian.md) | Db, **Ebb**, F, G, **Ab**, **B**, C, Db | C | ![DFlatLyrian](ModeDFlatLyrian.png) | [midi](ModeDFlatLyrian.mid) [ogg](ModeDFlatLyrian.ogg) |
-| [D](ModeDNaturalLyrian.md) | D, **Eb**, F#, G#, **A**, **B#**, C#, D | C | ![DNaturalLyrian](ModeDNaturalLyrian.png) | [midi](ModeDNaturalLyrian.mid) [ogg](ModeDNaturalLyrian.ogg) |
-| [D#](ModeDSharpLyrian.md) | D#, **E**, F##, G##, **A#**, **B##**, C##, D# | C | ![DSharpLyrian](ModeDSharpLyrian.png) | [midi](ModeDSharpLyrian.mid) [ogg](ModeDSharpLyrian.ogg) |
-| [Eb](ModeEFlatLyrian.md) | Eb, **Fb**, G, A, **Bb**, **C#**, D, Eb | C | ![EFlatLyrian](ModeEFlatLyrian.png) | [midi](ModeEFlatLyrian.mid) [ogg](ModeEFlatLyrian.ogg) |
-| [E](ModeENaturalLyrian.md) | E, **F**, G#, A#, **B**, **C##**, D#, E | C | ![ENaturalLyrian](ModeENaturalLyrian.png) | [midi](ModeENaturalLyrian.mid) [ogg](ModeENaturalLyrian.ogg) |
-| [F](ModeFNaturalLyrian.md) | F, **Gb**, A, B, **C**, **D#**, E, F | C | ![FNaturalLyrian](ModeFNaturalLyrian.png) | [midi](ModeFNaturalLyrian.mid) [ogg](ModeFNaturalLyrian.ogg) |
-| [F#](ModeFSharpLyrian.md) | F#, **G**, A#, B#, **C#**, **D##**, E#, F# | C | ![FSharpLyrian](ModeFSharpLyrian.png) | [midi](ModeFSharpLyrian.mid) [ogg](ModeFSharpLyrian.ogg) |
-| [Gb](ModeGFlatLyrian.md) | Gb, **Abb**, Bb, C, **Db**, **E**, F, Gb | C | ![GFlatLyrian](ModeGFlatLyrian.png) | [midi](ModeGFlatLyrian.mid) [ogg](ModeGFlatLyrian.ogg) |
-| [G](ModeGNaturalLyrian.md) | G, **Ab**, B, C#, **D**, **E#**, F#, G | C | ![GNaturalLyrian](ModeGNaturalLyrian.png) | [midi](ModeGNaturalLyrian.mid) [ogg](ModeGNaturalLyrian.ogg) |
-| [G#](ModeGSharpLyrian.md) | G#, **A**, B#, C##, **D#**, **E##**, F##, G# | C | ![GSharpLyrian](ModeGSharpLyrian.png) | [midi](ModeGSharpLyrian.mid) [ogg](ModeGSharpLyrian.ogg) |
-| [Ab](ModeAFlatLyrian.md) | Ab, **Bbb**, C, D, **Eb**, **F#**, G, Ab | C | ![AFlatLyrian](ModeAFlatLyrian.png) | [midi](ModeAFlatLyrian.mid) [ogg](ModeAFlatLyrian.ogg) |
-| [A](ModeANaturalLyrian.md) | A, **Bb**, C#, D#, **E**, **F##**, G#, A | C | ![ANaturalLyrian](ModeANaturalLyrian.png) | [midi](ModeANaturalLyrian.mid) [ogg](ModeANaturalLyrian.ogg) |
-| [A#](ModeASharpLyrian.md) | A#, **B**, C##, D##, **E#**, **F###**, G##, A# | C | ![ASharpLyrian](ModeASharpLyrian.png) | [midi](ModeASharpLyrian.mid) [ogg](ModeASharpLyrian.ogg) |
-| [Bb](ModeBFlatLyrian.md) | Bb, **Cb**, D, E, **F**, **G#**, A, Bb | C | ![BFlatLyrian](ModeBFlatLyrian.png) | [midi](ModeBFlatLyrian.mid) [ogg](ModeBFlatLyrian.ogg) |
-| [B](ModeBNaturalLyrian.md) | B, **C**, D#, E#, **F#**, **G##**, A#, B | C | ![BNaturalLyrian](ModeBNaturalLyrian.png) | [midi](ModeBNaturalLyrian.mid) [ogg](ModeBNaturalLyrian.ogg) |
+| [C](ModeCNaturalLyrian.md) | C, **Db**, E, F#, **G**, **A#**, B, C | C | ![CNaturalLyrian](ModeCNaturalLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalLyrian.mid?raw=true) |
+| [C#](ModeCSharpLyrian.md) | C#, **D**, E#, F##, **G#**, **A##**, B#, C# | C | ![CSharpLyrian](ModeCSharpLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpLyrian.mid?raw=true) |
+| [Db](ModeDFlatLyrian.md) | Db, **Ebb**, F, G, **Ab**, **B**, C, Db | C | ![DFlatLyrian](ModeDFlatLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatLyrian.mid?raw=true) |
+| [D](ModeDNaturalLyrian.md) | D, **Eb**, F#, G#, **A**, **B#**, C#, D | C | ![DNaturalLyrian](ModeDNaturalLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalLyrian.mid?raw=true) |
+| [D#](ModeDSharpLyrian.md) | D#, **E**, F##, G##, **A#**, **B##**, C##, D# | C | ![DSharpLyrian](ModeDSharpLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpLyrian.mid?raw=true) |
+| [Eb](ModeEFlatLyrian.md) | Eb, **Fb**, G, A, **Bb**, **C#**, D, Eb | C | ![EFlatLyrian](ModeEFlatLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatLyrian.mid?raw=true) |
+| [E](ModeENaturalLyrian.md) | E, **F**, G#, A#, **B**, **C##**, D#, E | C | ![ENaturalLyrian](ModeENaturalLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalLyrian.mid?raw=true) |
+| [F](ModeFNaturalLyrian.md) | F, **Gb**, A, B, **C**, **D#**, E, F | C | ![FNaturalLyrian](ModeFNaturalLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalLyrian.mid?raw=true) |
+| [F#](ModeFSharpLyrian.md) | F#, **G**, A#, B#, **C#**, **D##**, E#, F# | C | ![FSharpLyrian](ModeFSharpLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpLyrian.mid?raw=true) |
+| [Gb](ModeGFlatLyrian.md) | Gb, **Abb**, Bb, C, **Db**, **E**, F, Gb | C | ![GFlatLyrian](ModeGFlatLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatLyrian.mid?raw=true) |
+| [G](ModeGNaturalLyrian.md) | G, **Ab**, B, C#, **D**, **E#**, F#, G | C | ![GNaturalLyrian](ModeGNaturalLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalLyrian.mid?raw=true) |
+| [G#](ModeGSharpLyrian.md) | G#, **A**, B#, C##, **D#**, **E##**, F##, G# | C | ![GSharpLyrian](ModeGSharpLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpLyrian.mid?raw=true) |
+| [Ab](ModeAFlatLyrian.md) | Ab, **Bbb**, C, D, **Eb**, **F#**, G, Ab | C | ![AFlatLyrian](ModeAFlatLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatLyrian.mid?raw=true) |
+| [A](ModeANaturalLyrian.md) | A, **Bb**, C#, D#, **E**, **F##**, G#, A | C | ![ANaturalLyrian](ModeANaturalLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalLyrian.mid?raw=true) |
+| [A#](ModeASharpLyrian.md) | A#, **B**, C##, D##, **E#**, **F###**, G##, A# | C | ![ASharpLyrian](ModeASharpLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpLyrian.mid?raw=true) |
+| [Bb](ModeBFlatLyrian.md) | Bb, **Cb**, D, E, **F**, **G#**, A, Bb | C | ![BFlatLyrian](ModeBFlatLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatLyrian.mid?raw=true) |
+| [B](ModeBNaturalLyrian.md) | B, **C**, D#, E#, **F#**, **G##**, A#, B | C | ![BNaturalLyrian](ModeBNaturalLyrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalLyrian.mid?raw=true) |

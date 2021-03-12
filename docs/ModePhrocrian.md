@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalPhrocrian.md) | C, D#, E, **F##**, G##, **A#**, **B**, C | C | ![CNaturalPhrocrian](ModeCNaturalPhrocrian.png) | [midi](ModeCNaturalPhrocrian.mid) [ogg](ModeCNaturalPhrocrian.ogg) |
-| [C#](ModeCSharpPhrocrian.md) | C#, D##, E#, **F###**, G###, **A##**, **B#**, C# | C | ![CSharpPhrocrian](ModeCSharpPhrocrian.png) | [midi](ModeCSharpPhrocrian.mid) [ogg](ModeCSharpPhrocrian.ogg) |
-| [Db](ModeDFlatPhrocrian.md) | Db, E, F, **G#**, A#, **B**, **C**, Db | C | ![DFlatPhrocrian](ModeDFlatPhrocrian.png) | [midi](ModeDFlatPhrocrian.mid) [ogg](ModeDFlatPhrocrian.ogg) |
-| [D](ModeDNaturalPhrocrian.md) | D, E#, F#, **G##**, A##, **B#**, **C#**, D | C | ![DNaturalPhrocrian](ModeDNaturalPhrocrian.png) | [midi](ModeDNaturalPhrocrian.mid) [ogg](ModeDNaturalPhrocrian.ogg) |
-| [D#](ModeDSharpPhrocrian.md) | D#, E##, F##, **G###**, A###, **B##**, **C##**, D# | C | ![DSharpPhrocrian](ModeDSharpPhrocrian.png) | [midi](ModeDSharpPhrocrian.mid) [ogg](ModeDSharpPhrocrian.ogg) |
-| [Eb](ModeEFlatPhrocrian.md) | Eb, F#, G, **A#**, B#, **C#**, **D**, Eb | C | ![EFlatPhrocrian](ModeEFlatPhrocrian.png) | [midi](ModeEFlatPhrocrian.mid) [ogg](ModeEFlatPhrocrian.ogg) |
-| [E](ModeENaturalPhrocrian.md) | E, F##, G#, **A##**, B##, **C##**, **D#**, E | C | ![ENaturalPhrocrian](ModeENaturalPhrocrian.png) | [midi](ModeENaturalPhrocrian.mid) [ogg](ModeENaturalPhrocrian.ogg) |
-| [F](ModeFNaturalPhrocrian.md) | F, G#, A, **B#**, C##, **D#**, **E**, F | C | ![FNaturalPhrocrian](ModeFNaturalPhrocrian.png) | [midi](ModeFNaturalPhrocrian.mid) [ogg](ModeFNaturalPhrocrian.ogg) |
-| [F#](ModeFSharpPhrocrian.md) | F#, G##, A#, **B##**, C###, **D##**, **E#**, F# | C | ![FSharpPhrocrian](ModeFSharpPhrocrian.png) | [midi](ModeFSharpPhrocrian.mid) [ogg](ModeFSharpPhrocrian.ogg) |
-| [Gb](ModeGFlatPhrocrian.md) | Gb, A, Bb, **C#**, D#, **E**, **F**, Gb | C | ![GFlatPhrocrian](ModeGFlatPhrocrian.png) | [midi](ModeGFlatPhrocrian.mid) [ogg](ModeGFlatPhrocrian.ogg) |
-| [G](ModeGNaturalPhrocrian.md) | G, A#, B, **C##**, D##, **E#**, **F#**, G | C | ![GNaturalPhrocrian](ModeGNaturalPhrocrian.png) | [midi](ModeGNaturalPhrocrian.mid) [ogg](ModeGNaturalPhrocrian.ogg) |
-| [G#](ModeGSharpPhrocrian.md) | G#, A##, B#, **C###**, D###, **E##**, **F##**, G# | C | ![GSharpPhrocrian](ModeGSharpPhrocrian.png) | [midi](ModeGSharpPhrocrian.mid) [ogg](ModeGSharpPhrocrian.ogg) |
-| [Ab](ModeAFlatPhrocrian.md) | Ab, B, C, **D#**, E#, **F#**, **G**, Ab | C | ![AFlatPhrocrian](ModeAFlatPhrocrian.png) | [midi](ModeAFlatPhrocrian.mid) [ogg](ModeAFlatPhrocrian.ogg) |
-| [A](ModeANaturalPhrocrian.md) | A, B#, C#, **D##**, E##, **F##**, **G#**, A | C | ![ANaturalPhrocrian](ModeANaturalPhrocrian.png) | [midi](ModeANaturalPhrocrian.mid) [ogg](ModeANaturalPhrocrian.ogg) |
-| [A#](ModeASharpPhrocrian.md) | A#, B##, C##, **D###**, E###, **F###**, **G##**, A# | C | ![ASharpPhrocrian](ModeASharpPhrocrian.png) | [midi](ModeASharpPhrocrian.mid) [ogg](ModeASharpPhrocrian.ogg) |
-| [Bb](ModeBFlatPhrocrian.md) | Bb, C#, D, **E#**, F##, **G#**, **A**, Bb | C | ![BFlatPhrocrian](ModeBFlatPhrocrian.png) | [midi](ModeBFlatPhrocrian.mid) [ogg](ModeBFlatPhrocrian.ogg) |
-| [B](ModeBNaturalPhrocrian.md) | B, C##, D#, **E##**, F###, **G##**, **A#**, B | C | ![BNaturalPhrocrian](ModeBNaturalPhrocrian.png) | [midi](ModeBNaturalPhrocrian.mid) [ogg](ModeBNaturalPhrocrian.ogg) |
+| [C](ModeCNaturalPhrocrian.md) | C, D#, E, **F##**, G##, **A#**, **B**, C | C | ![CNaturalPhrocrian](ModeCNaturalPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPhrocrian.mid?raw=true) |
+| [C#](ModeCSharpPhrocrian.md) | C#, D##, E#, **F###**, G###, **A##**, **B#**, C# | C | ![CSharpPhrocrian](ModeCSharpPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpPhrocrian.mid?raw=true) |
+| [Db](ModeDFlatPhrocrian.md) | Db, E, F, **G#**, A#, **B**, **C**, Db | C | ![DFlatPhrocrian](ModeDFlatPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatPhrocrian.mid?raw=true) |
+| [D](ModeDNaturalPhrocrian.md) | D, E#, F#, **G##**, A##, **B#**, **C#**, D | C | ![DNaturalPhrocrian](ModeDNaturalPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalPhrocrian.mid?raw=true) |
+| [D#](ModeDSharpPhrocrian.md) | D#, E##, F##, **G###**, A###, **B##**, **C##**, D# | C | ![DSharpPhrocrian](ModeDSharpPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpPhrocrian.mid?raw=true) |
+| [Eb](ModeEFlatPhrocrian.md) | Eb, F#, G, **A#**, B#, **C#**, **D**, Eb | C | ![EFlatPhrocrian](ModeEFlatPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatPhrocrian.mid?raw=true) |
+| [E](ModeENaturalPhrocrian.md) | E, F##, G#, **A##**, B##, **C##**, **D#**, E | C | ![ENaturalPhrocrian](ModeENaturalPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalPhrocrian.mid?raw=true) |
+| [F](ModeFNaturalPhrocrian.md) | F, G#, A, **B#**, C##, **D#**, **E**, F | C | ![FNaturalPhrocrian](ModeFNaturalPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalPhrocrian.mid?raw=true) |
+| [F#](ModeFSharpPhrocrian.md) | F#, G##, A#, **B##**, C###, **D##**, **E#**, F# | C | ![FSharpPhrocrian](ModeFSharpPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpPhrocrian.mid?raw=true) |
+| [Gb](ModeGFlatPhrocrian.md) | Gb, A, Bb, **C#**, D#, **E**, **F**, Gb | C | ![GFlatPhrocrian](ModeGFlatPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatPhrocrian.mid?raw=true) |
+| [G](ModeGNaturalPhrocrian.md) | G, A#, B, **C##**, D##, **E#**, **F#**, G | C | ![GNaturalPhrocrian](ModeGNaturalPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalPhrocrian.mid?raw=true) |
+| [G#](ModeGSharpPhrocrian.md) | G#, A##, B#, **C###**, D###, **E##**, **F##**, G# | C | ![GSharpPhrocrian](ModeGSharpPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpPhrocrian.mid?raw=true) |
+| [Ab](ModeAFlatPhrocrian.md) | Ab, B, C, **D#**, E#, **F#**, **G**, Ab | C | ![AFlatPhrocrian](ModeAFlatPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatPhrocrian.mid?raw=true) |
+| [A](ModeANaturalPhrocrian.md) | A, B#, C#, **D##**, E##, **F##**, **G#**, A | C | ![ANaturalPhrocrian](ModeANaturalPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalPhrocrian.mid?raw=true) |
+| [A#](ModeASharpPhrocrian.md) | A#, B##, C##, **D###**, E###, **F###**, **G##**, A# | C | ![ASharpPhrocrian](ModeASharpPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpPhrocrian.mid?raw=true) |
+| [Bb](ModeBFlatPhrocrian.md) | Bb, C#, D, **E#**, F##, **G#**, **A**, Bb | C | ![BFlatPhrocrian](ModeBFlatPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatPhrocrian.mid?raw=true) |
+| [B](ModeBNaturalPhrocrian.md) | B, C##, D#, **E##**, F###, **G##**, **A#**, B | C | ![BNaturalPhrocrian](ModeBNaturalPhrocrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalPhrocrian.mid?raw=true) |

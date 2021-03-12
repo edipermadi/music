@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalDanyllian.md) | C, C#, D, **E**, F, F#, G, **G#**, A, A#, C | C | ![CNaturalDanyllian](ModeCNaturalDanyllian.png) | [midi](ModeCNaturalDanyllian.mid) [ogg](ModeCNaturalDanyllian.ogg) |
-| [C#](ModeCSharpDanyllian.md) | C#, D, D#, **F**, F#, G, G#, **A**, A#, B, C# | C | ![CSharpDanyllian](ModeCSharpDanyllian.png) | [midi](ModeCSharpDanyllian.mid) [ogg](ModeCSharpDanyllian.ogg) |
-| [Db](ModeDFlatDanyllian.md) | Db, D, Eb, **F**, Gb, G, Ab, **A**, Bb, B, Db | C | ![DFlatDanyllian](ModeDFlatDanyllian.png) | [midi](ModeDFlatDanyllian.mid) [ogg](ModeDFlatDanyllian.ogg) |
-| [D](ModeDNaturalDanyllian.md) | D, D#, E, **F#**, G, G#, A, **A#**, B, C, D | C | ![DNaturalDanyllian](ModeDNaturalDanyllian.png) | [midi](ModeDNaturalDanyllian.mid) [ogg](ModeDNaturalDanyllian.ogg) |
-| [D#](ModeDSharpDanyllian.md) | D#, E, F, **G**, G#, A, A#, **B**, C, C#, D# | C | ![DSharpDanyllian](ModeDSharpDanyllian.png) | [midi](ModeDSharpDanyllian.mid) [ogg](ModeDSharpDanyllian.ogg) |
-| [Eb](ModeEFlatDanyllian.md) | Eb, E, F, **G**, Ab, A, Bb, **B**, C, Db, Eb | C | ![EFlatDanyllian](ModeEFlatDanyllian.png) | [midi](ModeEFlatDanyllian.mid) [ogg](ModeEFlatDanyllian.ogg) |
-| [E](ModeENaturalDanyllian.md) | E, F, F#, **G#**, A, A#, B, **C**, C#, D, E | C | ![ENaturalDanyllian](ModeENaturalDanyllian.png) | [midi](ModeENaturalDanyllian.mid) [ogg](ModeENaturalDanyllian.ogg) |
-| [F](ModeFNaturalDanyllian.md) | F, F#, G, **A**, A#, B, C, **C#**, D, D#, F | C | ![FNaturalDanyllian](ModeFNaturalDanyllian.png) | [midi](ModeFNaturalDanyllian.mid) [ogg](ModeFNaturalDanyllian.ogg) |
-| [F#](ModeFSharpDanyllian.md) | F#, G, G#, **A#**, B, C, C#, **D**, D#, E, F# | C | ![FSharpDanyllian](ModeFSharpDanyllian.png) | [midi](ModeFSharpDanyllian.mid) [ogg](ModeFSharpDanyllian.ogg) |
-| [Gb](ModeGFlatDanyllian.md) | Gb, G, Ab, **Bb**, B, C, Db, **D**, Eb, E, Gb | C | ![GFlatDanyllian](ModeGFlatDanyllian.png) | [midi](ModeGFlatDanyllian.mid) [ogg](ModeGFlatDanyllian.ogg) |
-| [G](ModeGNaturalDanyllian.md) | G, G#, A, **B**, C, C#, D, **D#**, E, F, G | C | ![GNaturalDanyllian](ModeGNaturalDanyllian.png) | [midi](ModeGNaturalDanyllian.mid) [ogg](ModeGNaturalDanyllian.ogg) |
-| [G#](ModeGSharpDanyllian.md) | G#, A, A#, **C**, C#, D, D#, **E**, F, F#, G# | C | ![GSharpDanyllian](ModeGSharpDanyllian.png) | [midi](ModeGSharpDanyllian.mid) [ogg](ModeGSharpDanyllian.ogg) |
-| [Ab](ModeAFlatDanyllian.md) | Ab, A, Bb, **C**, Db, D, Eb, **E**, F, Gb, Ab | C | ![AFlatDanyllian](ModeAFlatDanyllian.png) | [midi](ModeAFlatDanyllian.mid) [ogg](ModeAFlatDanyllian.ogg) |
-| [A](ModeANaturalDanyllian.md) | A, A#, B, **C#**, D, D#, E, **F**, F#, G, A | C | ![ANaturalDanyllian](ModeANaturalDanyllian.png) | [midi](ModeANaturalDanyllian.mid) [ogg](ModeANaturalDanyllian.ogg) |
-| [A#](ModeASharpDanyllian.md) | A#, B, C, **D**, D#, E, F, **F#**, G, G#, A# | C | ![ASharpDanyllian](ModeASharpDanyllian.png) | [midi](ModeASharpDanyllian.mid) [ogg](ModeASharpDanyllian.ogg) |
-| [Bb](ModeBFlatDanyllian.md) | Bb, B, C, **D**, Eb, E, F, **Gb**, G, Ab, Bb | C | ![BFlatDanyllian](ModeBFlatDanyllian.png) | [midi](ModeBFlatDanyllian.mid) [ogg](ModeBFlatDanyllian.ogg) |
-| [B](ModeBNaturalDanyllian.md) | B, C, C#, **D#**, E, F, F#, **G**, G#, A, B | C | ![BNaturalDanyllian](ModeBNaturalDanyllian.png) | [midi](ModeBNaturalDanyllian.mid) [ogg](ModeBNaturalDanyllian.ogg) |
+| [C](ModeCNaturalDanyllian.md) | C, C#, D, **E**, F, F#, G, **G#**, A, A#, C | C | ![CNaturalDanyllian](ModeCNaturalDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDanyllian.mid?raw=true) |
+| [C#](ModeCSharpDanyllian.md) | C#, D, D#, **F**, F#, G, G#, **A**, A#, B, C# | C | ![CSharpDanyllian](ModeCSharpDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpDanyllian.mid?raw=true) |
+| [Db](ModeDFlatDanyllian.md) | Db, D, Eb, **F**, Gb, G, Ab, **A**, Bb, B, Db | C | ![DFlatDanyllian](ModeDFlatDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatDanyllian.mid?raw=true) |
+| [D](ModeDNaturalDanyllian.md) | D, D#, E, **F#**, G, G#, A, **A#**, B, C, D | C | ![DNaturalDanyllian](ModeDNaturalDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalDanyllian.mid?raw=true) |
+| [D#](ModeDSharpDanyllian.md) | D#, E, F, **G**, G#, A, A#, **B**, C, C#, D# | C | ![DSharpDanyllian](ModeDSharpDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpDanyllian.mid?raw=true) |
+| [Eb](ModeEFlatDanyllian.md) | Eb, E, F, **G**, Ab, A, Bb, **B**, C, Db, Eb | C | ![EFlatDanyllian](ModeEFlatDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatDanyllian.mid?raw=true) |
+| [E](ModeENaturalDanyllian.md) | E, F, F#, **G#**, A, A#, B, **C**, C#, D, E | C | ![ENaturalDanyllian](ModeENaturalDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalDanyllian.mid?raw=true) |
+| [F](ModeFNaturalDanyllian.md) | F, F#, G, **A**, A#, B, C, **C#**, D, D#, F | C | ![FNaturalDanyllian](ModeFNaturalDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalDanyllian.mid?raw=true) |
+| [F#](ModeFSharpDanyllian.md) | F#, G, G#, **A#**, B, C, C#, **D**, D#, E, F# | C | ![FSharpDanyllian](ModeFSharpDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpDanyllian.mid?raw=true) |
+| [Gb](ModeGFlatDanyllian.md) | Gb, G, Ab, **Bb**, B, C, Db, **D**, Eb, E, Gb | C | ![GFlatDanyllian](ModeGFlatDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatDanyllian.mid?raw=true) |
+| [G](ModeGNaturalDanyllian.md) | G, G#, A, **B**, C, C#, D, **D#**, E, F, G | C | ![GNaturalDanyllian](ModeGNaturalDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalDanyllian.mid?raw=true) |
+| [G#](ModeGSharpDanyllian.md) | G#, A, A#, **C**, C#, D, D#, **E**, F, F#, G# | C | ![GSharpDanyllian](ModeGSharpDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpDanyllian.mid?raw=true) |
+| [Ab](ModeAFlatDanyllian.md) | Ab, A, Bb, **C**, Db, D, Eb, **E**, F, Gb, Ab | C | ![AFlatDanyllian](ModeAFlatDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatDanyllian.mid?raw=true) |
+| [A](ModeANaturalDanyllian.md) | A, A#, B, **C#**, D, D#, E, **F**, F#, G, A | C | ![ANaturalDanyllian](ModeANaturalDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalDanyllian.mid?raw=true) |
+| [A#](ModeASharpDanyllian.md) | A#, B, C, **D**, D#, E, F, **F#**, G, G#, A# | C | ![ASharpDanyllian](ModeASharpDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpDanyllian.mid?raw=true) |
+| [Bb](ModeBFlatDanyllian.md) | Bb, B, C, **D**, Eb, E, F, **Gb**, G, Ab, Bb | C | ![BFlatDanyllian](ModeBFlatDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatDanyllian.mid?raw=true) |
+| [B](ModeBNaturalDanyllian.md) | B, C, C#, **D#**, E, F, F#, **G**, G#, A, B | C | ![BNaturalDanyllian](ModeBNaturalDanyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalDanyllian.mid?raw=true) |

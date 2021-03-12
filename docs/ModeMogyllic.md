@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalMogyllic.md) | **C**, C#, **D#**, E, F#, G#, A, B, **C** | C | ![CNaturalMogyllic](ModeCNaturalMogyllic.png) | [midi](ModeCNaturalMogyllic.mid) [ogg](ModeCNaturalMogyllic.ogg) |
-| [C#](ModeCSharpMogyllic.md) | **C#**, D, **E**, F, G, A, A#, C, **C#** | C | ![CSharpMogyllic](ModeCSharpMogyllic.png) | [midi](ModeCSharpMogyllic.mid) [ogg](ModeCSharpMogyllic.ogg) |
-| [Db](ModeDFlatMogyllic.md) | **Db**, D, **E**, F, G, A, Bb, C, **Db** | C | ![DFlatMogyllic](ModeDFlatMogyllic.png) | [midi](ModeDFlatMogyllic.mid) [ogg](ModeDFlatMogyllic.ogg) |
-| [D](ModeDNaturalMogyllic.md) | **D**, D#, **F**, F#, G#, A#, B, C#, **D** | C | ![DNaturalMogyllic](ModeDNaturalMogyllic.png) | [midi](ModeDNaturalMogyllic.mid) [ogg](ModeDNaturalMogyllic.ogg) |
-| [D#](ModeDSharpMogyllic.md) | **D#**, E, **F#**, G, A, B, C, D, **D#** | C | ![DSharpMogyllic](ModeDSharpMogyllic.png) | [midi](ModeDSharpMogyllic.mid) [ogg](ModeDSharpMogyllic.ogg) |
-| [Eb](ModeEFlatMogyllic.md) | **Eb**, E, **Gb**, G, A, B, C, D, **Eb** | C | ![EFlatMogyllic](ModeEFlatMogyllic.png) | [midi](ModeEFlatMogyllic.mid) [ogg](ModeEFlatMogyllic.ogg) |
-| [E](ModeENaturalMogyllic.md) | **E**, F, **G**, G#, A#, C, C#, D#, **E** | C | ![ENaturalMogyllic](ModeENaturalMogyllic.png) | [midi](ModeENaturalMogyllic.mid) [ogg](ModeENaturalMogyllic.ogg) |
-| [F](ModeFNaturalMogyllic.md) | **F**, F#, **G#**, A, B, C#, D, E, **F** | C | ![FNaturalMogyllic](ModeFNaturalMogyllic.png) | [midi](ModeFNaturalMogyllic.mid) [ogg](ModeFNaturalMogyllic.ogg) |
-| [F#](ModeFSharpMogyllic.md) | **F#**, G, **A**, A#, C, D, D#, F, **F#** | C | ![FSharpMogyllic](ModeFSharpMogyllic.png) | [midi](ModeFSharpMogyllic.mid) [ogg](ModeFSharpMogyllic.ogg) |
-| [Gb](ModeGFlatMogyllic.md) | **Gb**, G, **A**, Bb, C, D, Eb, F, **Gb** | C | ![GFlatMogyllic](ModeGFlatMogyllic.png) | [midi](ModeGFlatMogyllic.mid) [ogg](ModeGFlatMogyllic.ogg) |
-| [G](ModeGNaturalMogyllic.md) | **G**, G#, **A#**, B, C#, D#, E, F#, **G** | C | ![GNaturalMogyllic](ModeGNaturalMogyllic.png) | [midi](ModeGNaturalMogyllic.mid) [ogg](ModeGNaturalMogyllic.ogg) |
-| [G#](ModeGSharpMogyllic.md) | **G#**, A, **B**, C, D, E, F, G, **G#** | C | ![GSharpMogyllic](ModeGSharpMogyllic.png) | [midi](ModeGSharpMogyllic.mid) [ogg](ModeGSharpMogyllic.ogg) |
-| [Ab](ModeAFlatMogyllic.md) | **Ab**, A, **B**, C, D, E, F, G, **Ab** | C | ![AFlatMogyllic](ModeAFlatMogyllic.png) | [midi](ModeAFlatMogyllic.mid) [ogg](ModeAFlatMogyllic.ogg) |
-| [A](ModeANaturalMogyllic.md) | **A**, A#, **C**, C#, D#, F, F#, G#, **A** | C | ![ANaturalMogyllic](ModeANaturalMogyllic.png) | [midi](ModeANaturalMogyllic.mid) [ogg](ModeANaturalMogyllic.ogg) |
-| [A#](ModeASharpMogyllic.md) | **A#**, B, **C#**, D, E, F#, G, A, **A#** | C | ![ASharpMogyllic](ModeASharpMogyllic.png) | [midi](ModeASharpMogyllic.mid) [ogg](ModeASharpMogyllic.ogg) |
-| [Bb](ModeBFlatMogyllic.md) | **Bb**, B, **Db**, D, E, Gb, G, A, **Bb** | C | ![BFlatMogyllic](ModeBFlatMogyllic.png) | [midi](ModeBFlatMogyllic.mid) [ogg](ModeBFlatMogyllic.ogg) |
-| [B](ModeBNaturalMogyllic.md) | **B**, C, **D**, D#, F, G, G#, A#, **B** | C | ![BNaturalMogyllic](ModeBNaturalMogyllic.png) | [midi](ModeBNaturalMogyllic.mid) [ogg](ModeBNaturalMogyllic.ogg) |
+| [C](ModeCNaturalMogyllic.md) | **C**, C#, **D#**, E, F#, G#, A, B, **C** | C | ![CNaturalMogyllic](ModeCNaturalMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMogyllic.mid?raw=true) |
+| [C#](ModeCSharpMogyllic.md) | **C#**, D, **E**, F, G, A, A#, C, **C#** | C | ![CSharpMogyllic](ModeCSharpMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpMogyllic.mid?raw=true) |
+| [Db](ModeDFlatMogyllic.md) | **Db**, D, **E**, F, G, A, Bb, C, **Db** | C | ![DFlatMogyllic](ModeDFlatMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatMogyllic.mid?raw=true) |
+| [D](ModeDNaturalMogyllic.md) | **D**, D#, **F**, F#, G#, A#, B, C#, **D** | C | ![DNaturalMogyllic](ModeDNaturalMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalMogyllic.mid?raw=true) |
+| [D#](ModeDSharpMogyllic.md) | **D#**, E, **F#**, G, A, B, C, D, **D#** | C | ![DSharpMogyllic](ModeDSharpMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpMogyllic.mid?raw=true) |
+| [Eb](ModeEFlatMogyllic.md) | **Eb**, E, **Gb**, G, A, B, C, D, **Eb** | C | ![EFlatMogyllic](ModeEFlatMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatMogyllic.mid?raw=true) |
+| [E](ModeENaturalMogyllic.md) | **E**, F, **G**, G#, A#, C, C#, D#, **E** | C | ![ENaturalMogyllic](ModeENaturalMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalMogyllic.mid?raw=true) |
+| [F](ModeFNaturalMogyllic.md) | **F**, F#, **G#**, A, B, C#, D, E, **F** | C | ![FNaturalMogyllic](ModeFNaturalMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalMogyllic.mid?raw=true) |
+| [F#](ModeFSharpMogyllic.md) | **F#**, G, **A**, A#, C, D, D#, F, **F#** | C | ![FSharpMogyllic](ModeFSharpMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpMogyllic.mid?raw=true) |
+| [Gb](ModeGFlatMogyllic.md) | **Gb**, G, **A**, Bb, C, D, Eb, F, **Gb** | C | ![GFlatMogyllic](ModeGFlatMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatMogyllic.mid?raw=true) |
+| [G](ModeGNaturalMogyllic.md) | **G**, G#, **A#**, B, C#, D#, E, F#, **G** | C | ![GNaturalMogyllic](ModeGNaturalMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalMogyllic.mid?raw=true) |
+| [G#](ModeGSharpMogyllic.md) | **G#**, A, **B**, C, D, E, F, G, **G#** | C | ![GSharpMogyllic](ModeGSharpMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpMogyllic.mid?raw=true) |
+| [Ab](ModeAFlatMogyllic.md) | **Ab**, A, **B**, C, D, E, F, G, **Ab** | C | ![AFlatMogyllic](ModeAFlatMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatMogyllic.mid?raw=true) |
+| [A](ModeANaturalMogyllic.md) | **A**, A#, **C**, C#, D#, F, F#, G#, **A** | C | ![ANaturalMogyllic](ModeANaturalMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalMogyllic.mid?raw=true) |
+| [A#](ModeASharpMogyllic.md) | **A#**, B, **C#**, D, E, F#, G, A, **A#** | C | ![ASharpMogyllic](ModeASharpMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpMogyllic.mid?raw=true) |
+| [Bb](ModeBFlatMogyllic.md) | **Bb**, B, **Db**, D, E, Gb, G, A, **Bb** | C | ![BFlatMogyllic](ModeBFlatMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatMogyllic.mid?raw=true) |
+| [B](ModeBNaturalMogyllic.md) | **B**, C, **D**, D#, F, G, G#, A#, **B** | C | ![BNaturalMogyllic](ModeBNaturalMogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalMogyllic.mid?raw=true) |

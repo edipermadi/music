@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalDolimic.md) | **C**, Db, **E**, F, **G#**, A#, **C** | C | ![CNaturalDolimic](ModeCNaturalDolimic.png) | [midi](ModeCNaturalDolimic.mid) [ogg](ModeCNaturalDolimic.ogg) |
-| [C#](ModeCSharpDolimic.md) | **C#**, D, **E#**, F#, **G##**, A##, **C#** | C | ![CSharpDolimic](ModeCSharpDolimic.png) | [midi](ModeCSharpDolimic.mid) [ogg](ModeCSharpDolimic.ogg) |
-| [Db](ModeDFlatDolimic.md) | **Db**, Ebb, **F**, Gb, **A**, B, **Db** | C | ![DFlatDolimic](ModeDFlatDolimic.png) | [midi](ModeDFlatDolimic.mid) [ogg](ModeDFlatDolimic.ogg) |
-| [D](ModeDNaturalDolimic.md) | **D**, Eb, **F#**, G, **A#**, B#, **D** | C | ![DNaturalDolimic](ModeDNaturalDolimic.png) | [midi](ModeDNaturalDolimic.mid) [ogg](ModeDNaturalDolimic.ogg) |
-| [D#](ModeDSharpDolimic.md) | **D#**, E, **F##**, G#, **A##**, B##, **D#** | C | ![DSharpDolimic](ModeDSharpDolimic.png) | [midi](ModeDSharpDolimic.mid) [ogg](ModeDSharpDolimic.ogg) |
-| [Eb](ModeEFlatDolimic.md) | **Eb**, Fb, **G**, Ab, **B**, C#, **Eb** | C | ![EFlatDolimic](ModeEFlatDolimic.png) | [midi](ModeEFlatDolimic.mid) [ogg](ModeEFlatDolimic.ogg) |
-| [E](ModeENaturalDolimic.md) | **E**, F, **G#**, A, **B#**, C##, **E** | C | ![ENaturalDolimic](ModeENaturalDolimic.png) | [midi](ModeENaturalDolimic.mid) [ogg](ModeENaturalDolimic.ogg) |
-| [F](ModeFNaturalDolimic.md) | **F**, Gb, **A**, Bb, **C#**, D#, **F** | C | ![FNaturalDolimic](ModeFNaturalDolimic.png) | [midi](ModeFNaturalDolimic.mid) [ogg](ModeFNaturalDolimic.ogg) |
-| [F#](ModeFSharpDolimic.md) | **F#**, G, **A#**, B, **C##**, D##, **F#** | C | ![FSharpDolimic](ModeFSharpDolimic.png) | [midi](ModeFSharpDolimic.mid) [ogg](ModeFSharpDolimic.ogg) |
-| [Gb](ModeGFlatDolimic.md) | **Gb**, Abb, **Bb**, Cb, **D**, E, **Gb** | C | ![GFlatDolimic](ModeGFlatDolimic.png) | [midi](ModeGFlatDolimic.mid) [ogg](ModeGFlatDolimic.ogg) |
-| [G](ModeGNaturalDolimic.md) | **G**, Ab, **B**, C, **D#**, E#, **G** | C | ![GNaturalDolimic](ModeGNaturalDolimic.png) | [midi](ModeGNaturalDolimic.mid) [ogg](ModeGNaturalDolimic.ogg) |
-| [G#](ModeGSharpDolimic.md) | **G#**, A, **B#**, C#, **D##**, E##, **G#** | C | ![GSharpDolimic](ModeGSharpDolimic.png) | [midi](ModeGSharpDolimic.mid) [ogg](ModeGSharpDolimic.ogg) |
-| [Ab](ModeAFlatDolimic.md) | **Ab**, Bbb, **C**, Db, **E**, F#, **Ab** | C | ![AFlatDolimic](ModeAFlatDolimic.png) | [midi](ModeAFlatDolimic.mid) [ogg](ModeAFlatDolimic.ogg) |
-| [A](ModeANaturalDolimic.md) | **A**, Bb, **C#**, D, **E#**, F##, **A** | C | ![ANaturalDolimic](ModeANaturalDolimic.png) | [midi](ModeANaturalDolimic.mid) [ogg](ModeANaturalDolimic.ogg) |
-| [A#](ModeASharpDolimic.md) | **A#**, B, **C##**, D#, **E##**, F###, **A#** | C | ![ASharpDolimic](ModeASharpDolimic.png) | [midi](ModeASharpDolimic.mid) [ogg](ModeASharpDolimic.ogg) |
-| [Bb](ModeBFlatDolimic.md) | **Bb**, Cb, **D**, Eb, **F#**, G#, **Bb** | C | ![BFlatDolimic](ModeBFlatDolimic.png) | [midi](ModeBFlatDolimic.mid) [ogg](ModeBFlatDolimic.ogg) |
-| [B](ModeBNaturalDolimic.md) | **B**, C, **D#**, E, **F##**, G##, **B** | C | ![BNaturalDolimic](ModeBNaturalDolimic.png) | [midi](ModeBNaturalDolimic.mid) [ogg](ModeBNaturalDolimic.ogg) |
+| [C](ModeCNaturalDolimic.md) | **C**, Db, **E**, F, **G#**, A#, **C** | C | ![CNaturalDolimic](ModeCNaturalDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDolimic.mid?raw=true) |
+| [C#](ModeCSharpDolimic.md) | **C#**, D, **E#**, F#, **G##**, A##, **C#** | C | ![CSharpDolimic](ModeCSharpDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpDolimic.mid?raw=true) |
+| [Db](ModeDFlatDolimic.md) | **Db**, Ebb, **F**, Gb, **A**, B, **Db** | C | ![DFlatDolimic](ModeDFlatDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatDolimic.mid?raw=true) |
+| [D](ModeDNaturalDolimic.md) | **D**, Eb, **F#**, G, **A#**, B#, **D** | C | ![DNaturalDolimic](ModeDNaturalDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalDolimic.mid?raw=true) |
+| [D#](ModeDSharpDolimic.md) | **D#**, E, **F##**, G#, **A##**, B##, **D#** | C | ![DSharpDolimic](ModeDSharpDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpDolimic.mid?raw=true) |
+| [Eb](ModeEFlatDolimic.md) | **Eb**, Fb, **G**, Ab, **B**, C#, **Eb** | C | ![EFlatDolimic](ModeEFlatDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatDolimic.mid?raw=true) |
+| [E](ModeENaturalDolimic.md) | **E**, F, **G#**, A, **B#**, C##, **E** | C | ![ENaturalDolimic](ModeENaturalDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalDolimic.mid?raw=true) |
+| [F](ModeFNaturalDolimic.md) | **F**, Gb, **A**, Bb, **C#**, D#, **F** | C | ![FNaturalDolimic](ModeFNaturalDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalDolimic.mid?raw=true) |
+| [F#](ModeFSharpDolimic.md) | **F#**, G, **A#**, B, **C##**, D##, **F#** | C | ![FSharpDolimic](ModeFSharpDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpDolimic.mid?raw=true) |
+| [Gb](ModeGFlatDolimic.md) | **Gb**, Abb, **Bb**, Cb, **D**, E, **Gb** | C | ![GFlatDolimic](ModeGFlatDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatDolimic.mid?raw=true) |
+| [G](ModeGNaturalDolimic.md) | **G**, Ab, **B**, C, **D#**, E#, **G** | C | ![GNaturalDolimic](ModeGNaturalDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalDolimic.mid?raw=true) |
+| [G#](ModeGSharpDolimic.md) | **G#**, A, **B#**, C#, **D##**, E##, **G#** | C | ![GSharpDolimic](ModeGSharpDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpDolimic.mid?raw=true) |
+| [Ab](ModeAFlatDolimic.md) | **Ab**, Bbb, **C**, Db, **E**, F#, **Ab** | C | ![AFlatDolimic](ModeAFlatDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatDolimic.mid?raw=true) |
+| [A](ModeANaturalDolimic.md) | **A**, Bb, **C#**, D, **E#**, F##, **A** | C | ![ANaturalDolimic](ModeANaturalDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalDolimic.mid?raw=true) |
+| [A#](ModeASharpDolimic.md) | **A#**, B, **C##**, D#, **E##**, F###, **A#** | C | ![ASharpDolimic](ModeASharpDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpDolimic.mid?raw=true) |
+| [Bb](ModeBFlatDolimic.md) | **Bb**, Cb, **D**, Eb, **F#**, G#, **Bb** | C | ![BFlatDolimic](ModeBFlatDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatDolimic.mid?raw=true) |
+| [B](ModeBNaturalDolimic.md) | **B**, C, **D#**, E, **F##**, G##, **B** | C | ![BNaturalDolimic](ModeBNaturalDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalDolimic.mid?raw=true) |

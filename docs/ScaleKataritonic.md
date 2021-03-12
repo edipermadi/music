@@ -21,8 +21,8 @@
 
 | Number | Mode | Notes | Illustration | Audio |
 |--------|------|-------|--------------|-------|
-| [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | **C**, D, **E**, **F#**, A, **C** | ![CNaturalThonitonic](ModeCNaturalThonitonic.png) | [midi](ModeCNaturalThonitonic.mid) [ogg](ModeCNaturalThonitonic.ogg) | 
-| [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | C, **D#**, F, **G**, **A**, C | ![CNaturalSylitonic](ModeCNaturalSylitonic.png) | [midi](ModeCNaturalSylitonic.mid) [ogg](ModeCNaturalSylitonic.ogg) | 
-| [1173](https://ianring.com/musictheory/scales/1173) | [Phropitonic](ModePhropitonic.md) | C, **D**, **E**, G, **A#**, C | ![CNaturalPhropitonic](ModeCNaturalPhropitonic.png) | [midi](ModeCNaturalPhropitonic.mid) [ogg](ModeCNaturalPhropitonic.ogg) | 
-| [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | **C**, **D**, F, **G#**, A#, **C** | ![CNaturalStaditonic](ModeCNaturalStaditonic.png) | [midi](ModeCNaturalStaditonic.mid) [ogg](ModeCNaturalStaditonic.ogg) | 
-| [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | **C**, D#, **F#**, G#, **A#**, **C** | ![CNaturalKataritonic](ModeCNaturalKataritonic.png) | [midi](ModeCNaturalKataritonic.mid) [ogg](ModeCNaturalKataritonic.ogg) | 
+| [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | **C**, D, **E**, **F#**, A, **C** | ![CNaturalThonitonic](ModeCNaturalThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThonitonic.mid?raw=true) | 
+| [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | C, **D#**, F, **G**, **A**, C | ![CNaturalSylitonic](ModeCNaturalSylitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalSylitonic.mid?raw=true) | 
+| [1173](https://ianring.com/musictheory/scales/1173) | [Phropitonic](ModePhropitonic.md) | C, **D**, **E**, G, **A#**, C | ![CNaturalPhropitonic](ModeCNaturalPhropitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPhropitonic.mid?raw=true) | 
+| [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | **C**, **D**, F, **G#**, A#, **C** | ![CNaturalStaditonic](ModeCNaturalStaditonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalStaditonic.mid?raw=true) | 
+| [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | **C**, D#, **F#**, G#, **A#**, **C** | ![CNaturalKataritonic](ModeCNaturalKataritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKataritonic.mid?raw=true) | 

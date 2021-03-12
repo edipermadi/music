@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalZagian.md) | C, **D**, E, **F#**, G, **A#**, B, C | C | ![CNaturalZagian](ModeCNaturalZagian.png) | [midi](ModeCNaturalZagian.mid) [ogg](ModeCNaturalZagian.ogg) |
-| [C#](ModeCSharpZagian.md) | C#, **D#**, E#, **F##**, G#, **A##**, B#, C# | C | ![CSharpZagian](ModeCSharpZagian.png) | [midi](ModeCSharpZagian.mid) [ogg](ModeCSharpZagian.ogg) |
-| [Db](ModeDFlatZagian.md) | Db, **Eb**, F, **G**, Ab, **B**, C, Db | C | ![DFlatZagian](ModeDFlatZagian.png) | [midi](ModeDFlatZagian.mid) [ogg](ModeDFlatZagian.ogg) |
-| [D](ModeDNaturalZagian.md) | D, **E**, F#, **G#**, A, **B#**, C#, D | C | ![DNaturalZagian](ModeDNaturalZagian.png) | [midi](ModeDNaturalZagian.mid) [ogg](ModeDNaturalZagian.ogg) |
-| [D#](ModeDSharpZagian.md) | D#, **E#**, F##, **G##**, A#, **B##**, C##, D# | C | ![DSharpZagian](ModeDSharpZagian.png) | [midi](ModeDSharpZagian.mid) [ogg](ModeDSharpZagian.ogg) |
-| [Eb](ModeEFlatZagian.md) | Eb, **F**, G, **A**, Bb, **C#**, D, Eb | C | ![EFlatZagian](ModeEFlatZagian.png) | [midi](ModeEFlatZagian.mid) [ogg](ModeEFlatZagian.ogg) |
-| [E](ModeENaturalZagian.md) | E, **F#**, G#, **A#**, B, **C##**, D#, E | C | ![ENaturalZagian](ModeENaturalZagian.png) | [midi](ModeENaturalZagian.mid) [ogg](ModeENaturalZagian.ogg) |
-| [F](ModeFNaturalZagian.md) | F, **G**, A, **B**, C, **D#**, E, F | C | ![FNaturalZagian](ModeFNaturalZagian.png) | [midi](ModeFNaturalZagian.mid) [ogg](ModeFNaturalZagian.ogg) |
-| [F#](ModeFSharpZagian.md) | F#, **G#**, A#, **B#**, C#, **D##**, E#, F# | C | ![FSharpZagian](ModeFSharpZagian.png) | [midi](ModeFSharpZagian.mid) [ogg](ModeFSharpZagian.ogg) |
-| [Gb](ModeGFlatZagian.md) | Gb, **Ab**, Bb, **C**, Db, **E**, F, Gb | C | ![GFlatZagian](ModeGFlatZagian.png) | [midi](ModeGFlatZagian.mid) [ogg](ModeGFlatZagian.ogg) |
-| [G](ModeGNaturalZagian.md) | G, **A**, B, **C#**, D, **E#**, F#, G | C | ![GNaturalZagian](ModeGNaturalZagian.png) | [midi](ModeGNaturalZagian.mid) [ogg](ModeGNaturalZagian.ogg) |
-| [G#](ModeGSharpZagian.md) | G#, **A#**, B#, **C##**, D#, **E##**, F##, G# | C | ![GSharpZagian](ModeGSharpZagian.png) | [midi](ModeGSharpZagian.mid) [ogg](ModeGSharpZagian.ogg) |
-| [Ab](ModeAFlatZagian.md) | Ab, **Bb**, C, **D**, Eb, **F#**, G, Ab | C | ![AFlatZagian](ModeAFlatZagian.png) | [midi](ModeAFlatZagian.mid) [ogg](ModeAFlatZagian.ogg) |
-| [A](ModeANaturalZagian.md) | A, **B**, C#, **D#**, E, **F##**, G#, A | C | ![ANaturalZagian](ModeANaturalZagian.png) | [midi](ModeANaturalZagian.mid) [ogg](ModeANaturalZagian.ogg) |
-| [A#](ModeASharpZagian.md) | A#, **B#**, C##, **D##**, E#, **F###**, G##, A# | C | ![ASharpZagian](ModeASharpZagian.png) | [midi](ModeASharpZagian.mid) [ogg](ModeASharpZagian.ogg) |
-| [Bb](ModeBFlatZagian.md) | Bb, **C**, D, **E**, F, **G#**, A, Bb | C | ![BFlatZagian](ModeBFlatZagian.png) | [midi](ModeBFlatZagian.mid) [ogg](ModeBFlatZagian.ogg) |
-| [B](ModeBNaturalZagian.md) | B, **C#**, D#, **E#**, F#, **G##**, A#, B | C | ![BNaturalZagian](ModeBNaturalZagian.png) | [midi](ModeBNaturalZagian.mid) [ogg](ModeBNaturalZagian.ogg) |
+| [C](ModeCNaturalZagian.md) | C, **D**, E, **F#**, G, **A#**, B, C | C | ![CNaturalZagian](ModeCNaturalZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalZagian.mid?raw=true) |
+| [C#](ModeCSharpZagian.md) | C#, **D#**, E#, **F##**, G#, **A##**, B#, C# | C | ![CSharpZagian](ModeCSharpZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpZagian.mid?raw=true) |
+| [Db](ModeDFlatZagian.md) | Db, **Eb**, F, **G**, Ab, **B**, C, Db | C | ![DFlatZagian](ModeDFlatZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatZagian.mid?raw=true) |
+| [D](ModeDNaturalZagian.md) | D, **E**, F#, **G#**, A, **B#**, C#, D | C | ![DNaturalZagian](ModeDNaturalZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalZagian.mid?raw=true) |
+| [D#](ModeDSharpZagian.md) | D#, **E#**, F##, **G##**, A#, **B##**, C##, D# | C | ![DSharpZagian](ModeDSharpZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpZagian.mid?raw=true) |
+| [Eb](ModeEFlatZagian.md) | Eb, **F**, G, **A**, Bb, **C#**, D, Eb | C | ![EFlatZagian](ModeEFlatZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatZagian.mid?raw=true) |
+| [E](ModeENaturalZagian.md) | E, **F#**, G#, **A#**, B, **C##**, D#, E | C | ![ENaturalZagian](ModeENaturalZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalZagian.mid?raw=true) |
+| [F](ModeFNaturalZagian.md) | F, **G**, A, **B**, C, **D#**, E, F | C | ![FNaturalZagian](ModeFNaturalZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalZagian.mid?raw=true) |
+| [F#](ModeFSharpZagian.md) | F#, **G#**, A#, **B#**, C#, **D##**, E#, F# | C | ![FSharpZagian](ModeFSharpZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpZagian.mid?raw=true) |
+| [Gb](ModeGFlatZagian.md) | Gb, **Ab**, Bb, **C**, Db, **E**, F, Gb | C | ![GFlatZagian](ModeGFlatZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatZagian.mid?raw=true) |
+| [G](ModeGNaturalZagian.md) | G, **A**, B, **C#**, D, **E#**, F#, G | C | ![GNaturalZagian](ModeGNaturalZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalZagian.mid?raw=true) |
+| [G#](ModeGSharpZagian.md) | G#, **A#**, B#, **C##**, D#, **E##**, F##, G# | C | ![GSharpZagian](ModeGSharpZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpZagian.mid?raw=true) |
+| [Ab](ModeAFlatZagian.md) | Ab, **Bb**, C, **D**, Eb, **F#**, G, Ab | C | ![AFlatZagian](ModeAFlatZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatZagian.mid?raw=true) |
+| [A](ModeANaturalZagian.md) | A, **B**, C#, **D#**, E, **F##**, G#, A | C | ![ANaturalZagian](ModeANaturalZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalZagian.mid?raw=true) |
+| [A#](ModeASharpZagian.md) | A#, **B#**, C##, **D##**, E#, **F###**, G##, A# | C | ![ASharpZagian](ModeASharpZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpZagian.mid?raw=true) |
+| [Bb](ModeBFlatZagian.md) | Bb, **C**, D, **E**, F, **G#**, A, Bb | C | ![BFlatZagian](ModeBFlatZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatZagian.mid?raw=true) |
+| [B](ModeBNaturalZagian.md) | B, **C#**, D#, **E#**, F#, **G##**, A#, B | C | ![BNaturalZagian](ModeBNaturalZagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalZagian.mid?raw=true) |

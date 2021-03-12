@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalBadian.md) | C, **D#**, E#, **F#**, **G**, Ab, **Bbb**, C | C | ![CNaturalBadian](ModeCNaturalBadian.png) | [midi](ModeCNaturalBadian.mid) [ogg](ModeCNaturalBadian.ogg) |
-| [C#](ModeCSharpBadian.md) | C#, **D##**, E##, **F##**, **G#**, A, **Bb**, C# | C | ![CSharpBadian](ModeCSharpBadian.png) | [midi](ModeCSharpBadian.mid) [ogg](ModeCSharpBadian.ogg) |
-| [Db](ModeDFlatBadian.md) | Db, **E**, F#, **G**, **Ab**, Bbb, **Cbb**, Db | C | ![DFlatBadian](ModeDFlatBadian.png) | [midi](ModeDFlatBadian.mid) [ogg](ModeDFlatBadian.ogg) |
-| [D](ModeDNaturalBadian.md) | D, **E#**, F##, **G#**, **A**, Bb, **Cb**, D | C | ![DNaturalBadian](ModeDNaturalBadian.png) | [midi](ModeDNaturalBadian.mid) [ogg](ModeDNaturalBadian.ogg) |
-| [D#](ModeDSharpBadian.md) | D#, **E##**, F###, **G##**, **A#**, B, **C**, D# | C | ![DSharpBadian](ModeDSharpBadian.png) | [midi](ModeDSharpBadian.mid) [ogg](ModeDSharpBadian.ogg) |
-| [Eb](ModeEFlatBadian.md) | Eb, **F#**, G#, **A**, **Bb**, Cb, **Dbb**, Eb | C | ![EFlatBadian](ModeEFlatBadian.png) | [midi](ModeEFlatBadian.mid) [ogg](ModeEFlatBadian.ogg) |
-| [E](ModeENaturalBadian.md) | E, **F##**, G##, **A#**, **B**, C, **Db**, E | C | ![ENaturalBadian](ModeENaturalBadian.png) | [midi](ModeENaturalBadian.mid) [ogg](ModeENaturalBadian.ogg) |
-| [F](ModeFNaturalBadian.md) | F, **G#**, A#, **B**, **C**, Db, **Ebb**, F | C | ![FNaturalBadian](ModeFNaturalBadian.png) | [midi](ModeFNaturalBadian.mid) [ogg](ModeFNaturalBadian.ogg) |
-| [F#](ModeFSharpBadian.md) | F#, **G##**, A##, **B#**, **C#**, D, **Eb**, F# | C | ![FSharpBadian](ModeFSharpBadian.png) | [midi](ModeFSharpBadian.mid) [ogg](ModeFSharpBadian.ogg) |
-| [Gb](ModeGFlatBadian.md) | Gb, **A**, B, **C**, **Db**, Ebb, **Fbb**, Gb | C | ![GFlatBadian](ModeGFlatBadian.png) | [midi](ModeGFlatBadian.mid) [ogg](ModeGFlatBadian.ogg) |
-| [G](ModeGNaturalBadian.md) | G, **A#**, B#, **C#**, **D**, Eb, **Fb**, G | C | ![GNaturalBadian](ModeGNaturalBadian.png) | [midi](ModeGNaturalBadian.mid) [ogg](ModeGNaturalBadian.ogg) |
-| [G#](ModeGSharpBadian.md) | G#, **A##**, B##, **C##**, **D#**, E, **F**, G# | C | ![GSharpBadian](ModeGSharpBadian.png) | [midi](ModeGSharpBadian.mid) [ogg](ModeGSharpBadian.ogg) |
-| [Ab](ModeAFlatBadian.md) | Ab, **B**, C#, **D**, **Eb**, Fb, **Gbb**, Ab | C | ![AFlatBadian](ModeAFlatBadian.png) | [midi](ModeAFlatBadian.mid) [ogg](ModeAFlatBadian.ogg) |
-| [A](ModeANaturalBadian.md) | A, **B#**, C##, **D#**, **E**, F, **Gb**, A | C | ![ANaturalBadian](ModeANaturalBadian.png) | [midi](ModeANaturalBadian.mid) [ogg](ModeANaturalBadian.ogg) |
-| [A#](ModeASharpBadian.md) | A#, **B##**, C###, **D##**, **E#**, F#, **G**, A# | C | ![ASharpBadian](ModeASharpBadian.png) | [midi](ModeASharpBadian.mid) [ogg](ModeASharpBadian.ogg) |
-| [Bb](ModeBFlatBadian.md) | Bb, **C#**, D#, **E**, **F**, Gb, **Abb**, Bb | C | ![BFlatBadian](ModeBFlatBadian.png) | [midi](ModeBFlatBadian.mid) [ogg](ModeBFlatBadian.ogg) |
-| [B](ModeBNaturalBadian.md) | B, **C##**, D##, **E#**, **F#**, G, **Ab**, B | C | ![BNaturalBadian](ModeBNaturalBadian.png) | [midi](ModeBNaturalBadian.mid) [ogg](ModeBNaturalBadian.ogg) |
+| [C](ModeCNaturalBadian.md) | C, **D#**, E#, **F#**, **G**, Ab, **Bbb**, C | C | ![CNaturalBadian](ModeCNaturalBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalBadian.mid?raw=true) |
+| [C#](ModeCSharpBadian.md) | C#, **D##**, E##, **F##**, **G#**, A, **Bb**, C# | C | ![CSharpBadian](ModeCSharpBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpBadian.mid?raw=true) |
+| [Db](ModeDFlatBadian.md) | Db, **E**, F#, **G**, **Ab**, Bbb, **Cbb**, Db | C | ![DFlatBadian](ModeDFlatBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatBadian.mid?raw=true) |
+| [D](ModeDNaturalBadian.md) | D, **E#**, F##, **G#**, **A**, Bb, **Cb**, D | C | ![DNaturalBadian](ModeDNaturalBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalBadian.mid?raw=true) |
+| [D#](ModeDSharpBadian.md) | D#, **E##**, F###, **G##**, **A#**, B, **C**, D# | C | ![DSharpBadian](ModeDSharpBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpBadian.mid?raw=true) |
+| [Eb](ModeEFlatBadian.md) | Eb, **F#**, G#, **A**, **Bb**, Cb, **Dbb**, Eb | C | ![EFlatBadian](ModeEFlatBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatBadian.mid?raw=true) |
+| [E](ModeENaturalBadian.md) | E, **F##**, G##, **A#**, **B**, C, **Db**, E | C | ![ENaturalBadian](ModeENaturalBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalBadian.mid?raw=true) |
+| [F](ModeFNaturalBadian.md) | F, **G#**, A#, **B**, **C**, Db, **Ebb**, F | C | ![FNaturalBadian](ModeFNaturalBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalBadian.mid?raw=true) |
+| [F#](ModeFSharpBadian.md) | F#, **G##**, A##, **B#**, **C#**, D, **Eb**, F# | C | ![FSharpBadian](ModeFSharpBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpBadian.mid?raw=true) |
+| [Gb](ModeGFlatBadian.md) | Gb, **A**, B, **C**, **Db**, Ebb, **Fbb**, Gb | C | ![GFlatBadian](ModeGFlatBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatBadian.mid?raw=true) |
+| [G](ModeGNaturalBadian.md) | G, **A#**, B#, **C#**, **D**, Eb, **Fb**, G | C | ![GNaturalBadian](ModeGNaturalBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalBadian.mid?raw=true) |
+| [G#](ModeGSharpBadian.md) | G#, **A##**, B##, **C##**, **D#**, E, **F**, G# | C | ![GSharpBadian](ModeGSharpBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpBadian.mid?raw=true) |
+| [Ab](ModeAFlatBadian.md) | Ab, **B**, C#, **D**, **Eb**, Fb, **Gbb**, Ab | C | ![AFlatBadian](ModeAFlatBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatBadian.mid?raw=true) |
+| [A](ModeANaturalBadian.md) | A, **B#**, C##, **D#**, **E**, F, **Gb**, A | C | ![ANaturalBadian](ModeANaturalBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalBadian.mid?raw=true) |
+| [A#](ModeASharpBadian.md) | A#, **B##**, C###, **D##**, **E#**, F#, **G**, A# | C | ![ASharpBadian](ModeASharpBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpBadian.mid?raw=true) |
+| [Bb](ModeBFlatBadian.md) | Bb, **C#**, D#, **E**, **F**, Gb, **Abb**, Bb | C | ![BFlatBadian](ModeBFlatBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatBadian.mid?raw=true) |
+| [B](ModeBNaturalBadian.md) | B, **C##**, D##, **E#**, **F#**, G, **Ab**, B | C | ![BNaturalBadian](ModeBNaturalBadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalBadian.mid?raw=true) |

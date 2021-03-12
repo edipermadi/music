@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalZacryllic.md) | **C**, C#, D#, **E**, F, G#, A, A#, **C** | C | ![CNaturalZacryllic](ModeCNaturalZacryllic.png) | [midi](ModeCNaturalZacryllic.mid) [ogg](ModeCNaturalZacryllic.ogg) |
-| [C#](ModeCSharpZacryllic.md) | **C#**, D, E, **F**, F#, A, A#, B, **C#** | C | ![CSharpZacryllic](ModeCSharpZacryllic.png) | [midi](ModeCSharpZacryllic.mid) [ogg](ModeCSharpZacryllic.ogg) |
-| [Db](ModeDFlatZacryllic.md) | **Db**, D, E, **F**, Gb, A, Bb, B, **Db** | C | ![DFlatZacryllic](ModeDFlatZacryllic.png) | [midi](ModeDFlatZacryllic.mid) [ogg](ModeDFlatZacryllic.ogg) |
-| [D](ModeDNaturalZacryllic.md) | **D**, D#, F, **F#**, G, A#, B, C, **D** | C | ![DNaturalZacryllic](ModeDNaturalZacryllic.png) | [midi](ModeDNaturalZacryllic.mid) [ogg](ModeDNaturalZacryllic.ogg) |
-| [D#](ModeDSharpZacryllic.md) | **D#**, E, F#, **G**, G#, B, C, C#, **D#** | C | ![DSharpZacryllic](ModeDSharpZacryllic.png) | [midi](ModeDSharpZacryllic.mid) [ogg](ModeDSharpZacryllic.ogg) |
-| [Eb](ModeEFlatZacryllic.md) | **Eb**, E, Gb, **G**, Ab, B, C, Db, **Eb** | C | ![EFlatZacryllic](ModeEFlatZacryllic.png) | [midi](ModeEFlatZacryllic.mid) [ogg](ModeEFlatZacryllic.ogg) |
-| [E](ModeENaturalZacryllic.md) | **E**, F, G, **G#**, A, C, C#, D, **E** | C | ![ENaturalZacryllic](ModeENaturalZacryllic.png) | [midi](ModeENaturalZacryllic.mid) [ogg](ModeENaturalZacryllic.ogg) |
-| [F](ModeFNaturalZacryllic.md) | **F**, F#, G#, **A**, A#, C#, D, D#, **F** | C | ![FNaturalZacryllic](ModeFNaturalZacryllic.png) | [midi](ModeFNaturalZacryllic.mid) [ogg](ModeFNaturalZacryllic.ogg) |
-| [F#](ModeFSharpZacryllic.md) | **F#**, G, A, **A#**, B, D, D#, E, **F#** | C | ![FSharpZacryllic](ModeFSharpZacryllic.png) | [midi](ModeFSharpZacryllic.mid) [ogg](ModeFSharpZacryllic.ogg) |
-| [Gb](ModeGFlatZacryllic.md) | **Gb**, G, A, **Bb**, B, D, Eb, E, **Gb** | C | ![GFlatZacryllic](ModeGFlatZacryllic.png) | [midi](ModeGFlatZacryllic.mid) [ogg](ModeGFlatZacryllic.ogg) |
-| [G](ModeGNaturalZacryllic.md) | **G**, G#, A#, **B**, C, D#, E, F, **G** | C | ![GNaturalZacryllic](ModeGNaturalZacryllic.png) | [midi](ModeGNaturalZacryllic.mid) [ogg](ModeGNaturalZacryllic.ogg) |
-| [G#](ModeGSharpZacryllic.md) | **G#**, A, B, **C**, C#, E, F, F#, **G#** | C | ![GSharpZacryllic](ModeGSharpZacryllic.png) | [midi](ModeGSharpZacryllic.mid) [ogg](ModeGSharpZacryllic.ogg) |
-| [Ab](ModeAFlatZacryllic.md) | **Ab**, A, B, **C**, Db, E, F, Gb, **Ab** | C | ![AFlatZacryllic](ModeAFlatZacryllic.png) | [midi](ModeAFlatZacryllic.mid) [ogg](ModeAFlatZacryllic.ogg) |
-| [A](ModeANaturalZacryllic.md) | **A**, A#, C, **C#**, D, F, F#, G, **A** | C | ![ANaturalZacryllic](ModeANaturalZacryllic.png) | [midi](ModeANaturalZacryllic.mid) [ogg](ModeANaturalZacryllic.ogg) |
-| [A#](ModeASharpZacryllic.md) | **A#**, B, C#, **D**, D#, F#, G, G#, **A#** | C | ![ASharpZacryllic](ModeASharpZacryllic.png) | [midi](ModeASharpZacryllic.mid) [ogg](ModeASharpZacryllic.ogg) |
-| [Bb](ModeBFlatZacryllic.md) | **Bb**, B, Db, **D**, Eb, Gb, G, Ab, **Bb** | C | ![BFlatZacryllic](ModeBFlatZacryllic.png) | [midi](ModeBFlatZacryllic.mid) [ogg](ModeBFlatZacryllic.ogg) |
-| [B](ModeBNaturalZacryllic.md) | **B**, C, D, **D#**, E, G, G#, A, **B** | C | ![BNaturalZacryllic](ModeBNaturalZacryllic.png) | [midi](ModeBNaturalZacryllic.mid) [ogg](ModeBNaturalZacryllic.ogg) |
+| [C](ModeCNaturalZacryllic.md) | **C**, C#, D#, **E**, F, G#, A, A#, **C** | C | ![CNaturalZacryllic](ModeCNaturalZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalZacryllic.mid?raw=true) |
+| [C#](ModeCSharpZacryllic.md) | **C#**, D, E, **F**, F#, A, A#, B, **C#** | C | ![CSharpZacryllic](ModeCSharpZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpZacryllic.mid?raw=true) |
+| [Db](ModeDFlatZacryllic.md) | **Db**, D, E, **F**, Gb, A, Bb, B, **Db** | C | ![DFlatZacryllic](ModeDFlatZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatZacryllic.mid?raw=true) |
+| [D](ModeDNaturalZacryllic.md) | **D**, D#, F, **F#**, G, A#, B, C, **D** | C | ![DNaturalZacryllic](ModeDNaturalZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalZacryllic.mid?raw=true) |
+| [D#](ModeDSharpZacryllic.md) | **D#**, E, F#, **G**, G#, B, C, C#, **D#** | C | ![DSharpZacryllic](ModeDSharpZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpZacryllic.mid?raw=true) |
+| [Eb](ModeEFlatZacryllic.md) | **Eb**, E, Gb, **G**, Ab, B, C, Db, **Eb** | C | ![EFlatZacryllic](ModeEFlatZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatZacryllic.mid?raw=true) |
+| [E](ModeENaturalZacryllic.md) | **E**, F, G, **G#**, A, C, C#, D, **E** | C | ![ENaturalZacryllic](ModeENaturalZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalZacryllic.mid?raw=true) |
+| [F](ModeFNaturalZacryllic.md) | **F**, F#, G#, **A**, A#, C#, D, D#, **F** | C | ![FNaturalZacryllic](ModeFNaturalZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalZacryllic.mid?raw=true) |
+| [F#](ModeFSharpZacryllic.md) | **F#**, G, A, **A#**, B, D, D#, E, **F#** | C | ![FSharpZacryllic](ModeFSharpZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpZacryllic.mid?raw=true) |
+| [Gb](ModeGFlatZacryllic.md) | **Gb**, G, A, **Bb**, B, D, Eb, E, **Gb** | C | ![GFlatZacryllic](ModeGFlatZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatZacryllic.mid?raw=true) |
+| [G](ModeGNaturalZacryllic.md) | **G**, G#, A#, **B**, C, D#, E, F, **G** | C | ![GNaturalZacryllic](ModeGNaturalZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalZacryllic.mid?raw=true) |
+| [G#](ModeGSharpZacryllic.md) | **G#**, A, B, **C**, C#, E, F, F#, **G#** | C | ![GSharpZacryllic](ModeGSharpZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpZacryllic.mid?raw=true) |
+| [Ab](ModeAFlatZacryllic.md) | **Ab**, A, B, **C**, Db, E, F, Gb, **Ab** | C | ![AFlatZacryllic](ModeAFlatZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatZacryllic.mid?raw=true) |
+| [A](ModeANaturalZacryllic.md) | **A**, A#, C, **C#**, D, F, F#, G, **A** | C | ![ANaturalZacryllic](ModeANaturalZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalZacryllic.mid?raw=true) |
+| [A#](ModeASharpZacryllic.md) | **A#**, B, C#, **D**, D#, F#, G, G#, **A#** | C | ![ASharpZacryllic](ModeASharpZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpZacryllic.mid?raw=true) |
+| [Bb](ModeBFlatZacryllic.md) | **Bb**, B, Db, **D**, Eb, Gb, G, Ab, **Bb** | C | ![BFlatZacryllic](ModeBFlatZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatZacryllic.mid?raw=true) |
+| [B](ModeBNaturalZacryllic.md) | **B**, C, D, **D#**, E, G, G#, A, **B** | C | ![BNaturalZacryllic](ModeBNaturalZacryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalZacryllic.mid?raw=true) |

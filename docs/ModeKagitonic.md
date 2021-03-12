@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalKagitonic.md) | C, **D#**, F, **G**, **B**, C | C | ![CNaturalKagitonic](ModeCNaturalKagitonic.png) | [midi](ModeCNaturalKagitonic.mid) [ogg](ModeCNaturalKagitonic.ogg) |
-| [C#](ModeCSharpKagitonic.md) | C#, **E**, F#, **G#**, **C**, C# | C | ![CSharpKagitonic](ModeCSharpKagitonic.png) | [midi](ModeCSharpKagitonic.mid) [ogg](ModeCSharpKagitonic.ogg) |
-| [Db](ModeDFlatKagitonic.md) | Db, **E**, Gb, **Ab**, **C**, Db | C | ![DFlatKagitonic](ModeDFlatKagitonic.png) | [midi](ModeDFlatKagitonic.mid) [ogg](ModeDFlatKagitonic.ogg) |
-| [D](ModeDNaturalKagitonic.md) | D, **F**, G, **A**, **C#**, D | C | ![DNaturalKagitonic](ModeDNaturalKagitonic.png) | [midi](ModeDNaturalKagitonic.mid) [ogg](ModeDNaturalKagitonic.ogg) |
-| [D#](ModeDSharpKagitonic.md) | D#, **F#**, G#, **A#**, **D**, D# | C | ![DSharpKagitonic](ModeDSharpKagitonic.png) | [midi](ModeDSharpKagitonic.mid) [ogg](ModeDSharpKagitonic.ogg) |
-| [Eb](ModeEFlatKagitonic.md) | Eb, **Gb**, Ab, **Bb**, **D**, Eb | C | ![EFlatKagitonic](ModeEFlatKagitonic.png) | [midi](ModeEFlatKagitonic.mid) [ogg](ModeEFlatKagitonic.ogg) |
-| [E](ModeENaturalKagitonic.md) | E, **G**, A, **B**, **D#**, E | C | ![ENaturalKagitonic](ModeENaturalKagitonic.png) | [midi](ModeENaturalKagitonic.mid) [ogg](ModeENaturalKagitonic.ogg) |
-| [F](ModeFNaturalKagitonic.md) | F, **G#**, A#, **C**, **E**, F | C | ![FNaturalKagitonic](ModeFNaturalKagitonic.png) | [midi](ModeFNaturalKagitonic.mid) [ogg](ModeFNaturalKagitonic.ogg) |
-| [F#](ModeFSharpKagitonic.md) | F#, **A**, B, **C#**, **F**, F# | C | ![FSharpKagitonic](ModeFSharpKagitonic.png) | [midi](ModeFSharpKagitonic.mid) [ogg](ModeFSharpKagitonic.ogg) |
-| [Gb](ModeGFlatKagitonic.md) | Gb, **A**, B, **Db**, **F**, Gb | C | ![GFlatKagitonic](ModeGFlatKagitonic.png) | [midi](ModeGFlatKagitonic.mid) [ogg](ModeGFlatKagitonic.ogg) |
-| [G](ModeGNaturalKagitonic.md) | G, **A#**, C, **D**, **F#**, G | C | ![GNaturalKagitonic](ModeGNaturalKagitonic.png) | [midi](ModeGNaturalKagitonic.mid) [ogg](ModeGNaturalKagitonic.ogg) |
-| [G#](ModeGSharpKagitonic.md) | G#, **B**, C#, **D#**, **G**, G# | C | ![GSharpKagitonic](ModeGSharpKagitonic.png) | [midi](ModeGSharpKagitonic.mid) [ogg](ModeGSharpKagitonic.ogg) |
-| [Ab](ModeAFlatKagitonic.md) | Ab, **B**, Db, **Eb**, **G**, Ab | C | ![AFlatKagitonic](ModeAFlatKagitonic.png) | [midi](ModeAFlatKagitonic.mid) [ogg](ModeAFlatKagitonic.ogg) |
-| [A](ModeANaturalKagitonic.md) | A, **C**, D, **E**, **G#**, A | C | ![ANaturalKagitonic](ModeANaturalKagitonic.png) | [midi](ModeANaturalKagitonic.mid) [ogg](ModeANaturalKagitonic.ogg) |
-| [A#](ModeASharpKagitonic.md) | A#, **C#**, D#, **F**, **A**, A# | C | ![ASharpKagitonic](ModeASharpKagitonic.png) | [midi](ModeASharpKagitonic.mid) [ogg](ModeASharpKagitonic.ogg) |
-| [Bb](ModeBFlatKagitonic.md) | Bb, **Db**, Eb, **F**, **A**, Bb | C | ![BFlatKagitonic](ModeBFlatKagitonic.png) | [midi](ModeBFlatKagitonic.mid) [ogg](ModeBFlatKagitonic.ogg) |
-| [B](ModeBNaturalKagitonic.md) | B, **D**, E, **F#**, **A#**, B | C | ![BNaturalKagitonic](ModeBNaturalKagitonic.png) | [midi](ModeBNaturalKagitonic.mid) [ogg](ModeBNaturalKagitonic.ogg) |
+| [C](ModeCNaturalKagitonic.md) | C, **D#**, F, **G**, **B**, C | C | ![CNaturalKagitonic](ModeCNaturalKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKagitonic.mid?raw=true) |
+| [C#](ModeCSharpKagitonic.md) | C#, **E**, F#, **G#**, **C**, C# | C | ![CSharpKagitonic](ModeCSharpKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpKagitonic.mid?raw=true) |
+| [Db](ModeDFlatKagitonic.md) | Db, **E**, Gb, **Ab**, **C**, Db | C | ![DFlatKagitonic](ModeDFlatKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatKagitonic.mid?raw=true) |
+| [D](ModeDNaturalKagitonic.md) | D, **F**, G, **A**, **C#**, D | C | ![DNaturalKagitonic](ModeDNaturalKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalKagitonic.mid?raw=true) |
+| [D#](ModeDSharpKagitonic.md) | D#, **F#**, G#, **A#**, **D**, D# | C | ![DSharpKagitonic](ModeDSharpKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpKagitonic.mid?raw=true) |
+| [Eb](ModeEFlatKagitonic.md) | Eb, **Gb**, Ab, **Bb**, **D**, Eb | C | ![EFlatKagitonic](ModeEFlatKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatKagitonic.mid?raw=true) |
+| [E](ModeENaturalKagitonic.md) | E, **G**, A, **B**, **D#**, E | C | ![ENaturalKagitonic](ModeENaturalKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalKagitonic.mid?raw=true) |
+| [F](ModeFNaturalKagitonic.md) | F, **G#**, A#, **C**, **E**, F | C | ![FNaturalKagitonic](ModeFNaturalKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalKagitonic.mid?raw=true) |
+| [F#](ModeFSharpKagitonic.md) | F#, **A**, B, **C#**, **F**, F# | C | ![FSharpKagitonic](ModeFSharpKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpKagitonic.mid?raw=true) |
+| [Gb](ModeGFlatKagitonic.md) | Gb, **A**, B, **Db**, **F**, Gb | C | ![GFlatKagitonic](ModeGFlatKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatKagitonic.mid?raw=true) |
+| [G](ModeGNaturalKagitonic.md) | G, **A#**, C, **D**, **F#**, G | C | ![GNaturalKagitonic](ModeGNaturalKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalKagitonic.mid?raw=true) |
+| [G#](ModeGSharpKagitonic.md) | G#, **B**, C#, **D#**, **G**, G# | C | ![GSharpKagitonic](ModeGSharpKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpKagitonic.mid?raw=true) |
+| [Ab](ModeAFlatKagitonic.md) | Ab, **B**, Db, **Eb**, **G**, Ab | C | ![AFlatKagitonic](ModeAFlatKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatKagitonic.mid?raw=true) |
+| [A](ModeANaturalKagitonic.md) | A, **C**, D, **E**, **G#**, A | C | ![ANaturalKagitonic](ModeANaturalKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalKagitonic.mid?raw=true) |
+| [A#](ModeASharpKagitonic.md) | A#, **C#**, D#, **F**, **A**, A# | C | ![ASharpKagitonic](ModeASharpKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpKagitonic.mid?raw=true) |
+| [Bb](ModeBFlatKagitonic.md) | Bb, **Db**, Eb, **F**, **A**, Bb | C | ![BFlatKagitonic](ModeBFlatKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatKagitonic.mid?raw=true) |
+| [B](ModeBNaturalKagitonic.md) | B, **D**, E, **F#**, **A#**, B | C | ![BNaturalKagitonic](ModeBNaturalKagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalKagitonic.mid?raw=true) |

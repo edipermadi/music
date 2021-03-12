@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalPoritonic.md) | C, **E**, F, **G**, **G#**, C | C | ![CNaturalPoritonic](ModeCNaturalPoritonic.png) | [midi](ModeCNaturalPoritonic.mid) [ogg](ModeCNaturalPoritonic.ogg) |
-| [C#](ModeCSharpPoritonic.md) | C#, **F**, F#, **G#**, **A**, C# | C | ![CSharpPoritonic](ModeCSharpPoritonic.png) | [midi](ModeCSharpPoritonic.mid) [ogg](ModeCSharpPoritonic.ogg) |
-| [Db](ModeDFlatPoritonic.md) | Db, **F**, Gb, **Ab**, **A**, Db | C | ![DFlatPoritonic](ModeDFlatPoritonic.png) | [midi](ModeDFlatPoritonic.mid) [ogg](ModeDFlatPoritonic.ogg) |
-| [D](ModeDNaturalPoritonic.md) | D, **F#**, G, **A**, **A#**, D | C | ![DNaturalPoritonic](ModeDNaturalPoritonic.png) | [midi](ModeDNaturalPoritonic.mid) [ogg](ModeDNaturalPoritonic.ogg) |
-| [D#](ModeDSharpPoritonic.md) | D#, **G**, G#, **A#**, **B**, D# | C | ![DSharpPoritonic](ModeDSharpPoritonic.png) | [midi](ModeDSharpPoritonic.mid) [ogg](ModeDSharpPoritonic.ogg) |
-| [Eb](ModeEFlatPoritonic.md) | Eb, **G**, Ab, **Bb**, **B**, Eb | C | ![EFlatPoritonic](ModeEFlatPoritonic.png) | [midi](ModeEFlatPoritonic.mid) [ogg](ModeEFlatPoritonic.ogg) |
-| [E](ModeENaturalPoritonic.md) | E, **G#**, A, **B**, **C**, E | C | ![ENaturalPoritonic](ModeENaturalPoritonic.png) | [midi](ModeENaturalPoritonic.mid) [ogg](ModeENaturalPoritonic.ogg) |
-| [F](ModeFNaturalPoritonic.md) | F, **A**, A#, **C**, **C#**, F | C | ![FNaturalPoritonic](ModeFNaturalPoritonic.png) | [midi](ModeFNaturalPoritonic.mid) [ogg](ModeFNaturalPoritonic.ogg) |
-| [F#](ModeFSharpPoritonic.md) | F#, **A#**, B, **C#**, **D**, F# | C | ![FSharpPoritonic](ModeFSharpPoritonic.png) | [midi](ModeFSharpPoritonic.mid) [ogg](ModeFSharpPoritonic.ogg) |
-| [Gb](ModeGFlatPoritonic.md) | Gb, **Bb**, B, **Db**, **D**, Gb | C | ![GFlatPoritonic](ModeGFlatPoritonic.png) | [midi](ModeGFlatPoritonic.mid) [ogg](ModeGFlatPoritonic.ogg) |
-| [G](ModeGNaturalPoritonic.md) | G, **B**, C, **D**, **D#**, G | C | ![GNaturalPoritonic](ModeGNaturalPoritonic.png) | [midi](ModeGNaturalPoritonic.mid) [ogg](ModeGNaturalPoritonic.ogg) |
-| [G#](ModeGSharpPoritonic.md) | G#, **C**, C#, **D#**, **E**, G# | C | ![GSharpPoritonic](ModeGSharpPoritonic.png) | [midi](ModeGSharpPoritonic.mid) [ogg](ModeGSharpPoritonic.ogg) |
-| [Ab](ModeAFlatPoritonic.md) | Ab, **C**, Db, **Eb**, **E**, Ab | C | ![AFlatPoritonic](ModeAFlatPoritonic.png) | [midi](ModeAFlatPoritonic.mid) [ogg](ModeAFlatPoritonic.ogg) |
-| [A](ModeANaturalPoritonic.md) | A, **C#**, D, **E**, **F**, A | C | ![ANaturalPoritonic](ModeANaturalPoritonic.png) | [midi](ModeANaturalPoritonic.mid) [ogg](ModeANaturalPoritonic.ogg) |
-| [A#](ModeASharpPoritonic.md) | A#, **D**, D#, **F**, **F#**, A# | C | ![ASharpPoritonic](ModeASharpPoritonic.png) | [midi](ModeASharpPoritonic.mid) [ogg](ModeASharpPoritonic.ogg) |
-| [Bb](ModeBFlatPoritonic.md) | Bb, **D**, Eb, **F**, **Gb**, Bb | C | ![BFlatPoritonic](ModeBFlatPoritonic.png) | [midi](ModeBFlatPoritonic.mid) [ogg](ModeBFlatPoritonic.ogg) |
-| [B](ModeBNaturalPoritonic.md) | B, **D#**, E, **F#**, **G**, B | C | ![BNaturalPoritonic](ModeBNaturalPoritonic.png) | [midi](ModeBNaturalPoritonic.mid) [ogg](ModeBNaturalPoritonic.ogg) |
+| [C](ModeCNaturalPoritonic.md) | C, **E**, F, **G**, **G#**, C | C | ![CNaturalPoritonic](ModeCNaturalPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPoritonic.mid?raw=true) |
+| [C#](ModeCSharpPoritonic.md) | C#, **F**, F#, **G#**, **A**, C# | C | ![CSharpPoritonic](ModeCSharpPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpPoritonic.mid?raw=true) |
+| [Db](ModeDFlatPoritonic.md) | Db, **F**, Gb, **Ab**, **A**, Db | C | ![DFlatPoritonic](ModeDFlatPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatPoritonic.mid?raw=true) |
+| [D](ModeDNaturalPoritonic.md) | D, **F#**, G, **A**, **A#**, D | C | ![DNaturalPoritonic](ModeDNaturalPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalPoritonic.mid?raw=true) |
+| [D#](ModeDSharpPoritonic.md) | D#, **G**, G#, **A#**, **B**, D# | C | ![DSharpPoritonic](ModeDSharpPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpPoritonic.mid?raw=true) |
+| [Eb](ModeEFlatPoritonic.md) | Eb, **G**, Ab, **Bb**, **B**, Eb | C | ![EFlatPoritonic](ModeEFlatPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatPoritonic.mid?raw=true) |
+| [E](ModeENaturalPoritonic.md) | E, **G#**, A, **B**, **C**, E | C | ![ENaturalPoritonic](ModeENaturalPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalPoritonic.mid?raw=true) |
+| [F](ModeFNaturalPoritonic.md) | F, **A**, A#, **C**, **C#**, F | C | ![FNaturalPoritonic](ModeFNaturalPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalPoritonic.mid?raw=true) |
+| [F#](ModeFSharpPoritonic.md) | F#, **A#**, B, **C#**, **D**, F# | C | ![FSharpPoritonic](ModeFSharpPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpPoritonic.mid?raw=true) |
+| [Gb](ModeGFlatPoritonic.md) | Gb, **Bb**, B, **Db**, **D**, Gb | C | ![GFlatPoritonic](ModeGFlatPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatPoritonic.mid?raw=true) |
+| [G](ModeGNaturalPoritonic.md) | G, **B**, C, **D**, **D#**, G | C | ![GNaturalPoritonic](ModeGNaturalPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalPoritonic.mid?raw=true) |
+| [G#](ModeGSharpPoritonic.md) | G#, **C**, C#, **D#**, **E**, G# | C | ![GSharpPoritonic](ModeGSharpPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpPoritonic.mid?raw=true) |
+| [Ab](ModeAFlatPoritonic.md) | Ab, **C**, Db, **Eb**, **E**, Ab | C | ![AFlatPoritonic](ModeAFlatPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatPoritonic.mid?raw=true) |
+| [A](ModeANaturalPoritonic.md) | A, **C#**, D, **E**, **F**, A | C | ![ANaturalPoritonic](ModeANaturalPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalPoritonic.mid?raw=true) |
+| [A#](ModeASharpPoritonic.md) | A#, **D**, D#, **F**, **F#**, A# | C | ![ASharpPoritonic](ModeASharpPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpPoritonic.mid?raw=true) |
+| [Bb](ModeBFlatPoritonic.md) | Bb, **D**, Eb, **F**, **Gb**, Bb | C | ![BFlatPoritonic](ModeBFlatPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatPoritonic.mid?raw=true) |
+| [B](ModeBNaturalPoritonic.md) | B, **D#**, E, **F#**, **G**, B | C | ![BNaturalPoritonic](ModeBNaturalPoritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalPoritonic.mid?raw=true) |

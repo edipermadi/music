@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalKothimic.md) | **C**, D, E#, **F#**, **G#**, **A**, **C** | C | ![CNaturalKothimic](ModeCNaturalKothimic.png) | [midi](ModeCNaturalKothimic.mid) [ogg](ModeCNaturalKothimic.ogg) |
-| [C#](ModeCSharpKothimic.md) | **C#**, D#, E##, **F##**, **G##**, **A#**, **C#** | C | ![CSharpKothimic](ModeCSharpKothimic.png) | [midi](ModeCSharpKothimic.mid) [ogg](ModeCSharpKothimic.ogg) |
-| [Db](ModeDFlatKothimic.md) | **Db**, Eb, F#, **G**, **A**, **Bb**, **Db** | C | ![DFlatKothimic](ModeDFlatKothimic.png) | [midi](ModeDFlatKothimic.mid) [ogg](ModeDFlatKothimic.ogg) |
-| [D](ModeDNaturalKothimic.md) | **D**, E, F##, **G#**, **A#**, **B**, **D** | C | ![DNaturalKothimic](ModeDNaturalKothimic.png) | [midi](ModeDNaturalKothimic.mid) [ogg](ModeDNaturalKothimic.ogg) |
-| [D#](ModeDSharpKothimic.md) | **D#**, E#, F###, **G##**, **A##**, **B#**, **D#** | C | ![DSharpKothimic](ModeDSharpKothimic.png) | [midi](ModeDSharpKothimic.mid) [ogg](ModeDSharpKothimic.ogg) |
-| [Eb](ModeEFlatKothimic.md) | **Eb**, F, G#, **A**, **B**, **C**, **Eb** | C | ![EFlatKothimic](ModeEFlatKothimic.png) | [midi](ModeEFlatKothimic.mid) [ogg](ModeEFlatKothimic.ogg) |
-| [E](ModeENaturalKothimic.md) | **E**, F#, G##, **A#**, **B#**, **C#**, **E** | C | ![ENaturalKothimic](ModeENaturalKothimic.png) | [midi](ModeENaturalKothimic.mid) [ogg](ModeENaturalKothimic.ogg) |
-| [F](ModeFNaturalKothimic.md) | **F**, G, A#, **B**, **C#**, **D**, **F** | C | ![FNaturalKothimic](ModeFNaturalKothimic.png) | [midi](ModeFNaturalKothimic.mid) [ogg](ModeFNaturalKothimic.ogg) |
-| [F#](ModeFSharpKothimic.md) | **F#**, G#, A##, **B#**, **C##**, **D#**, **F#** | C | ![FSharpKothimic](ModeFSharpKothimic.png) | [midi](ModeFSharpKothimic.mid) [ogg](ModeFSharpKothimic.ogg) |
-| [Gb](ModeGFlatKothimic.md) | **Gb**, Ab, B, **C**, **D**, **Eb**, **Gb** | C | ![GFlatKothimic](ModeGFlatKothimic.png) | [midi](ModeGFlatKothimic.mid) [ogg](ModeGFlatKothimic.ogg) |
-| [G](ModeGNaturalKothimic.md) | **G**, A, B#, **C#**, **D#**, **E**, **G** | C | ![GNaturalKothimic](ModeGNaturalKothimic.png) | [midi](ModeGNaturalKothimic.mid) [ogg](ModeGNaturalKothimic.ogg) |
-| [G#](ModeGSharpKothimic.md) | **G#**, A#, B##, **C##**, **D##**, **E#**, **G#** | C | ![GSharpKothimic](ModeGSharpKothimic.png) | [midi](ModeGSharpKothimic.mid) [ogg](ModeGSharpKothimic.ogg) |
-| [Ab](ModeAFlatKothimic.md) | **Ab**, Bb, C#, **D**, **E**, **F**, **Ab** | C | ![AFlatKothimic](ModeAFlatKothimic.png) | [midi](ModeAFlatKothimic.mid) [ogg](ModeAFlatKothimic.ogg) |
-| [A](ModeANaturalKothimic.md) | **A**, B, C##, **D#**, **E#**, **F#**, **A** | C | ![ANaturalKothimic](ModeANaturalKothimic.png) | [midi](ModeANaturalKothimic.mid) [ogg](ModeANaturalKothimic.ogg) |
-| [A#](ModeASharpKothimic.md) | **A#**, B#, C###, **D##**, **E##**, **F##**, **A#** | C | ![ASharpKothimic](ModeASharpKothimic.png) | [midi](ModeASharpKothimic.mid) [ogg](ModeASharpKothimic.ogg) |
-| [Bb](ModeBFlatKothimic.md) | **Bb**, C, D#, **E**, **F#**, **G**, **Bb** | C | ![BFlatKothimic](ModeBFlatKothimic.png) | [midi](ModeBFlatKothimic.mid) [ogg](ModeBFlatKothimic.ogg) |
-| [B](ModeBNaturalKothimic.md) | **B**, C#, D##, **E#**, **F##**, **G#**, **B** | C | ![BNaturalKothimic](ModeBNaturalKothimic.png) | [midi](ModeBNaturalKothimic.mid) [ogg](ModeBNaturalKothimic.ogg) |
+| [C](ModeCNaturalKothimic.md) | **C**, D, E#, **F#**, **G#**, **A**, **C** | C | ![CNaturalKothimic](ModeCNaturalKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKothimic.mid?raw=true) |
+| [C#](ModeCSharpKothimic.md) | **C#**, D#, E##, **F##**, **G##**, **A#**, **C#** | C | ![CSharpKothimic](ModeCSharpKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpKothimic.mid?raw=true) |
+| [Db](ModeDFlatKothimic.md) | **Db**, Eb, F#, **G**, **A**, **Bb**, **Db** | C | ![DFlatKothimic](ModeDFlatKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatKothimic.mid?raw=true) |
+| [D](ModeDNaturalKothimic.md) | **D**, E, F##, **G#**, **A#**, **B**, **D** | C | ![DNaturalKothimic](ModeDNaturalKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalKothimic.mid?raw=true) |
+| [D#](ModeDSharpKothimic.md) | **D#**, E#, F###, **G##**, **A##**, **B#**, **D#** | C | ![DSharpKothimic](ModeDSharpKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpKothimic.mid?raw=true) |
+| [Eb](ModeEFlatKothimic.md) | **Eb**, F, G#, **A**, **B**, **C**, **Eb** | C | ![EFlatKothimic](ModeEFlatKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatKothimic.mid?raw=true) |
+| [E](ModeENaturalKothimic.md) | **E**, F#, G##, **A#**, **B#**, **C#**, **E** | C | ![ENaturalKothimic](ModeENaturalKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalKothimic.mid?raw=true) |
+| [F](ModeFNaturalKothimic.md) | **F**, G, A#, **B**, **C#**, **D**, **F** | C | ![FNaturalKothimic](ModeFNaturalKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalKothimic.mid?raw=true) |
+| [F#](ModeFSharpKothimic.md) | **F#**, G#, A##, **B#**, **C##**, **D#**, **F#** | C | ![FSharpKothimic](ModeFSharpKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpKothimic.mid?raw=true) |
+| [Gb](ModeGFlatKothimic.md) | **Gb**, Ab, B, **C**, **D**, **Eb**, **Gb** | C | ![GFlatKothimic](ModeGFlatKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatKothimic.mid?raw=true) |
+| [G](ModeGNaturalKothimic.md) | **G**, A, B#, **C#**, **D#**, **E**, **G** | C | ![GNaturalKothimic](ModeGNaturalKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalKothimic.mid?raw=true) |
+| [G#](ModeGSharpKothimic.md) | **G#**, A#, B##, **C##**, **D##**, **E#**, **G#** | C | ![GSharpKothimic](ModeGSharpKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpKothimic.mid?raw=true) |
+| [Ab](ModeAFlatKothimic.md) | **Ab**, Bb, C#, **D**, **E**, **F**, **Ab** | C | ![AFlatKothimic](ModeAFlatKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatKothimic.mid?raw=true) |
+| [A](ModeANaturalKothimic.md) | **A**, B, C##, **D#**, **E#**, **F#**, **A** | C | ![ANaturalKothimic](ModeANaturalKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalKothimic.mid?raw=true) |
+| [A#](ModeASharpKothimic.md) | **A#**, B#, C###, **D##**, **E##**, **F##**, **A#** | C | ![ASharpKothimic](ModeASharpKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpKothimic.mid?raw=true) |
+| [Bb](ModeBFlatKothimic.md) | **Bb**, C, D#, **E**, **F#**, **G**, **Bb** | C | ![BFlatKothimic](ModeBFlatKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatKothimic.mid?raw=true) |
+| [B](ModeBNaturalKothimic.md) | **B**, C#, D##, **E#**, **F##**, **G#**, **B** | C | ![BNaturalKothimic](ModeBNaturalKothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalKothimic.mid?raw=true) |

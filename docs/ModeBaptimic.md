@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalBaptimic.md) | **C**, D, E#, **F###**, **G##**, **A##**, **C** | C | ![CNaturalBaptimic](ModeCNaturalBaptimic.png) | [midi](ModeCNaturalBaptimic.mid) [ogg](ModeCNaturalBaptimic.ogg) |
-| [C#](ModeCSharpBaptimic.md) | **C#**, D#, E##, **Cbbb**, **Cbb**, **Dbb**, **C#** | C | ![CSharpBaptimic](ModeCSharpBaptimic.png) | [midi](ModeCSharpBaptimic.mid) [ogg](ModeCSharpBaptimic.ogg) |
-| [Db](ModeDFlatBaptimic.md) | **Db**, Eb, F#, **G##**, **A#**, **B#**, **Db** | C | ![DFlatBaptimic](ModeDFlatBaptimic.png) | [midi](ModeDFlatBaptimic.mid) [ogg](ModeDFlatBaptimic.ogg) |
-| [D](ModeDNaturalBaptimic.md) | **D**, E, F##, **G###**, **A##**, **B##**, **D** | C | ![DNaturalBaptimic](ModeDNaturalBaptimic.png) | [midi](ModeDNaturalBaptimic.mid) [ogg](ModeDNaturalBaptimic.ogg) |
-| [D#](ModeDSharpBaptimic.md) | **D#**, E#, F###, **Cb**, **Dbb**, **Ebb**, **D#** | C | ![DSharpBaptimic](ModeDSharpBaptimic.png) | [midi](ModeDSharpBaptimic.mid) [ogg](ModeDSharpBaptimic.ogg) |
-| [Eb](ModeEFlatBaptimic.md) | **Eb**, F, G#, **A##**, **B#**, **C##**, **Eb** | C | ![EFlatBaptimic](ModeEFlatBaptimic.png) | [midi](ModeEFlatBaptimic.mid) [ogg](ModeEFlatBaptimic.ogg) |
-| [E](ModeENaturalBaptimic.md) | **E**, F#, G##, **A###**, **B##**, **C###**, **E** | C | ![ENaturalBaptimic](ModeENaturalBaptimic.png) | [midi](ModeENaturalBaptimic.mid) [ogg](ModeENaturalBaptimic.ogg) |
-| [F](ModeFNaturalBaptimic.md) | **F**, G, A#, **B##**, **C##**, **D##**, **F** | C | ![FNaturalBaptimic](ModeFNaturalBaptimic.png) | [midi](ModeFNaturalBaptimic.mid) [ogg](ModeFNaturalBaptimic.ogg) |
-| [F#](ModeFSharpBaptimic.md) | **F#**, G#, A##, **B###**, **C###**, **D###**, **F#** | C | ![FSharpBaptimic](ModeFSharpBaptimic.png) | [midi](ModeFSharpBaptimic.mid) [ogg](ModeFSharpBaptimic.ogg) |
-| [Gb](ModeGFlatBaptimic.md) | **Gb**, Ab, B, **C##**, **D#**, **E#**, **Gb** | C | ![GFlatBaptimic](ModeGFlatBaptimic.png) | [midi](ModeGFlatBaptimic.mid) [ogg](ModeGFlatBaptimic.ogg) |
-| [G](ModeGNaturalBaptimic.md) | **G**, A, B#, **C###**, **D##**, **E##**, **G** | C | ![GNaturalBaptimic](ModeGNaturalBaptimic.png) | [midi](ModeGNaturalBaptimic.mid) [ogg](ModeGNaturalBaptimic.ogg) |
-| [G#](ModeGSharpBaptimic.md) | **G#**, A#, B##, **D##**, **E#**, **F##**, **G#** | C | ![GSharpBaptimic](ModeGSharpBaptimic.png) | [midi](ModeGSharpBaptimic.mid) [ogg](ModeGSharpBaptimic.ogg) |
-| [Ab](ModeAFlatBaptimic.md) | **Ab**, Bb, C#, **D##**, **E#**, **F##**, **Ab** | C | ![AFlatBaptimic](ModeAFlatBaptimic.png) | [midi](ModeAFlatBaptimic.mid) [ogg](ModeAFlatBaptimic.ogg) |
-| [A](ModeANaturalBaptimic.md) | **A**, B, C##, **D###**, **E##**, **F###**, **A** | C | ![ANaturalBaptimic](ModeANaturalBaptimic.png) | [midi](ModeANaturalBaptimic.mid) [ogg](ModeANaturalBaptimic.ogg) |
-| [A#](ModeASharpBaptimic.md) | **A#**, B#, C###, **E##**, **F##**, **G##**, **A#** | C | ![ASharpBaptimic](ModeASharpBaptimic.png) | [midi](ModeASharpBaptimic.mid) [ogg](ModeASharpBaptimic.ogg) |
-| [Bb](ModeBFlatBaptimic.md) | **Bb**, C, D#, **E##**, **F##**, **G##**, **Bb** | C | ![BFlatBaptimic](ModeBFlatBaptimic.png) | [midi](ModeBFlatBaptimic.mid) [ogg](ModeBFlatBaptimic.ogg) |
-| [B](ModeBNaturalBaptimic.md) | **B**, C#, D##, **E###**, **F###**, **G###**, **B** | C | ![BNaturalBaptimic](ModeBNaturalBaptimic.png) | [midi](ModeBNaturalBaptimic.mid) [ogg](ModeBNaturalBaptimic.ogg) |
+| [C](ModeCNaturalBaptimic.md) | **C**, D, E#, **F###**, **G##**, **A##**, **C** | C | ![CNaturalBaptimic](ModeCNaturalBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalBaptimic.mid?raw=true) |
+| [C#](ModeCSharpBaptimic.md) | **C#**, D#, E##, **Cbbb**, **Cbb**, **Dbb**, **C#** | C | ![CSharpBaptimic](ModeCSharpBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpBaptimic.mid?raw=true) |
+| [Db](ModeDFlatBaptimic.md) | **Db**, Eb, F#, **G##**, **A#**, **B#**, **Db** | C | ![DFlatBaptimic](ModeDFlatBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatBaptimic.mid?raw=true) |
+| [D](ModeDNaturalBaptimic.md) | **D**, E, F##, **G###**, **A##**, **B##**, **D** | C | ![DNaturalBaptimic](ModeDNaturalBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalBaptimic.mid?raw=true) |
+| [D#](ModeDSharpBaptimic.md) | **D#**, E#, F###, **Cb**, **Dbb**, **Ebb**, **D#** | C | ![DSharpBaptimic](ModeDSharpBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpBaptimic.mid?raw=true) |
+| [Eb](ModeEFlatBaptimic.md) | **Eb**, F, G#, **A##**, **B#**, **C##**, **Eb** | C | ![EFlatBaptimic](ModeEFlatBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatBaptimic.mid?raw=true) |
+| [E](ModeENaturalBaptimic.md) | **E**, F#, G##, **A###**, **B##**, **C###**, **E** | C | ![ENaturalBaptimic](ModeENaturalBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalBaptimic.mid?raw=true) |
+| [F](ModeFNaturalBaptimic.md) | **F**, G, A#, **B##**, **C##**, **D##**, **F** | C | ![FNaturalBaptimic](ModeFNaturalBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalBaptimic.mid?raw=true) |
+| [F#](ModeFSharpBaptimic.md) | **F#**, G#, A##, **B###**, **C###**, **D###**, **F#** | C | ![FSharpBaptimic](ModeFSharpBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpBaptimic.mid?raw=true) |
+| [Gb](ModeGFlatBaptimic.md) | **Gb**, Ab, B, **C##**, **D#**, **E#**, **Gb** | C | ![GFlatBaptimic](ModeGFlatBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatBaptimic.mid?raw=true) |
+| [G](ModeGNaturalBaptimic.md) | **G**, A, B#, **C###**, **D##**, **E##**, **G** | C | ![GNaturalBaptimic](ModeGNaturalBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalBaptimic.mid?raw=true) |
+| [G#](ModeGSharpBaptimic.md) | **G#**, A#, B##, **D##**, **E#**, **F##**, **G#** | C | ![GSharpBaptimic](ModeGSharpBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpBaptimic.mid?raw=true) |
+| [Ab](ModeAFlatBaptimic.md) | **Ab**, Bb, C#, **D##**, **E#**, **F##**, **Ab** | C | ![AFlatBaptimic](ModeAFlatBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatBaptimic.mid?raw=true) |
+| [A](ModeANaturalBaptimic.md) | **A**, B, C##, **D###**, **E##**, **F###**, **A** | C | ![ANaturalBaptimic](ModeANaturalBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalBaptimic.mid?raw=true) |
+| [A#](ModeASharpBaptimic.md) | **A#**, B#, C###, **E##**, **F##**, **G##**, **A#** | C | ![ASharpBaptimic](ModeASharpBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpBaptimic.mid?raw=true) |
+| [Bb](ModeBFlatBaptimic.md) | **Bb**, C, D#, **E##**, **F##**, **G##**, **Bb** | C | ![BFlatBaptimic](ModeBFlatBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatBaptimic.mid?raw=true) |
+| [B](ModeBNaturalBaptimic.md) | **B**, C#, D##, **E###**, **F###**, **G###**, **B** | C | ![BNaturalBaptimic](ModeBNaturalBaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalBaptimic.mid?raw=true) |

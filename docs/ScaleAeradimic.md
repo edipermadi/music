@@ -21,6 +21,6 @@
 
 | Number | Mode | Notes | Illustration | Audio |
 |--------|------|-------|--------------|-------|
-| [845](https://ianring.com/musictheory/scales/845) | [Zyrimic](ModeZyrimic.md) | **C**, D, **Eb**, **F#**, G#, **A**, **C** | ![CNaturalZyrimic](ModeCNaturalZyrimic.png) | [midi](ModeCNaturalZyrimic.mid) [ogg](ModeCNaturalZyrimic.ogg) | 
-| [1235](https://ianring.com/musictheory/scales/1235) | [Stylimic](ModeStylimic.md) | C, **Db**, **E**, F#, **G**, **A#**, C | ![CNaturalStylimic](ModeCNaturalStylimic.png) | [midi](ModeCNaturalStylimic.mid) [ogg](ModeCNaturalStylimic.ogg) | 
-| [2665](https://ianring.com/musictheory/scales/2665) | [Aeradimic](ModeAeradimic.md) | **C**, **D#**, E#, **F#**, **G##**, A##, **C** | ![CNaturalAeradimic](ModeCNaturalAeradimic.png) | [midi](ModeCNaturalAeradimic.mid) [ogg](ModeCNaturalAeradimic.ogg) | 
+| [845](https://ianring.com/musictheory/scales/845) | [Zyrimic](ModeZyrimic.md) | **C**, D, **Eb**, **F#**, G#, **A**, **C** | ![CNaturalZyrimic](ModeCNaturalZyrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalZyrimic.mid?raw=true) | 
+| [1235](https://ianring.com/musictheory/scales/1235) | [Stylimic](ModeStylimic.md) | C, **Db**, **E**, F#, **G**, **A#**, C | ![CNaturalStylimic](ModeCNaturalStylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalStylimic.mid?raw=true) | 
+| [2665](https://ianring.com/musictheory/scales/2665) | [Aeradimic](ModeAeradimic.md) | **C**, **D#**, E#, **F#**, **G##**, A##, **C** | ![CNaturalAeradimic](ModeCNaturalAeradimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAeradimic.mid?raw=true) | 
