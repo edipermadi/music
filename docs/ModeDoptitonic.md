@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalDoptitonic.md) | **C**, C#, E, **G#**, **B**, **C** | C | ![CNaturalDoptitonic](ModeCNaturalDoptitonic.png) | [midi](ModeCNaturalDoptitonic.mid) [ogg](ModeCNaturalDoptitonic.ogg) |
-| [C#](ModeCSharpDoptitonic.md) | **C#**, D, F, **A**, **C**, **C#** | C | ![CSharpDoptitonic](ModeCSharpDoptitonic.png) | [midi](ModeCSharpDoptitonic.mid) [ogg](ModeCSharpDoptitonic.ogg) |
-| [Db](ModeDFlatDoptitonic.md) | **Db**, D, F, **A**, **C**, **Db** | C | ![DFlatDoptitonic](ModeDFlatDoptitonic.png) | [midi](ModeDFlatDoptitonic.mid) [ogg](ModeDFlatDoptitonic.ogg) |
-| [D](ModeDNaturalDoptitonic.md) | **D**, D#, F#, **A#**, **C#**, **D** | C | ![DNaturalDoptitonic](ModeDNaturalDoptitonic.png) | [midi](ModeDNaturalDoptitonic.mid) [ogg](ModeDNaturalDoptitonic.ogg) |
-| [D#](ModeDSharpDoptitonic.md) | **D#**, E, G, **B**, **D**, **D#** | C | ![DSharpDoptitonic](ModeDSharpDoptitonic.png) | [midi](ModeDSharpDoptitonic.mid) [ogg](ModeDSharpDoptitonic.ogg) |
-| [Eb](ModeEFlatDoptitonic.md) | **Eb**, E, G, **B**, **D**, **Eb** | C | ![EFlatDoptitonic](ModeEFlatDoptitonic.png) | [midi](ModeEFlatDoptitonic.mid) [ogg](ModeEFlatDoptitonic.ogg) |
-| [E](ModeENaturalDoptitonic.md) | **E**, F, G#, **C**, **D#**, **E** | C | ![ENaturalDoptitonic](ModeENaturalDoptitonic.png) | [midi](ModeENaturalDoptitonic.mid) [ogg](ModeENaturalDoptitonic.ogg) |
-| [F](ModeFNaturalDoptitonic.md) | **F**, F#, A, **C#**, **E**, **F** | C | ![FNaturalDoptitonic](ModeFNaturalDoptitonic.png) | [midi](ModeFNaturalDoptitonic.mid) [ogg](ModeFNaturalDoptitonic.ogg) |
-| [F#](ModeFSharpDoptitonic.md) | **F#**, G, A#, **D**, **F**, **F#** | C | ![FSharpDoptitonic](ModeFSharpDoptitonic.png) | [midi](ModeFSharpDoptitonic.mid) [ogg](ModeFSharpDoptitonic.ogg) |
-| [Gb](ModeGFlatDoptitonic.md) | **Gb**, G, Bb, **D**, **F**, **Gb** | C | ![GFlatDoptitonic](ModeGFlatDoptitonic.png) | [midi](ModeGFlatDoptitonic.mid) [ogg](ModeGFlatDoptitonic.ogg) |
-| [G](ModeGNaturalDoptitonic.md) | **G**, G#, B, **D#**, **F#**, **G** | C | ![GNaturalDoptitonic](ModeGNaturalDoptitonic.png) | [midi](ModeGNaturalDoptitonic.mid) [ogg](ModeGNaturalDoptitonic.ogg) |
-| [G#](ModeGSharpDoptitonic.md) | **G#**, A, C, **E**, **G**, **G#** | C | ![GSharpDoptitonic](ModeGSharpDoptitonic.png) | [midi](ModeGSharpDoptitonic.mid) [ogg](ModeGSharpDoptitonic.ogg) |
-| [Ab](ModeAFlatDoptitonic.md) | **Ab**, A, C, **E**, **G**, **Ab** | C | ![AFlatDoptitonic](ModeAFlatDoptitonic.png) | [midi](ModeAFlatDoptitonic.mid) [ogg](ModeAFlatDoptitonic.ogg) |
-| [A](ModeANaturalDoptitonic.md) | **A**, A#, C#, **F**, **G#**, **A** | C | ![ANaturalDoptitonic](ModeANaturalDoptitonic.png) | [midi](ModeANaturalDoptitonic.mid) [ogg](ModeANaturalDoptitonic.ogg) |
-| [A#](ModeASharpDoptitonic.md) | **A#**, B, D, **F#**, **A**, **A#** | C | ![ASharpDoptitonic](ModeASharpDoptitonic.png) | [midi](ModeASharpDoptitonic.mid) [ogg](ModeASharpDoptitonic.ogg) |
-| [Bb](ModeBFlatDoptitonic.md) | **Bb**, B, D, **Gb**, **A**, **Bb** | C | ![BFlatDoptitonic](ModeBFlatDoptitonic.png) | [midi](ModeBFlatDoptitonic.mid) [ogg](ModeBFlatDoptitonic.ogg) |
-| [B](ModeBNaturalDoptitonic.md) | **B**, C, D#, **G**, **A#**, **B** | C | ![BNaturalDoptitonic](ModeBNaturalDoptitonic.png) | [midi](ModeBNaturalDoptitonic.mid) [ogg](ModeBNaturalDoptitonic.ogg) |
+| [C](ModeCNaturalDoptitonic.md) | **C**, C#, E, **G#**, **B**, **C** | C | ![CNaturalDoptitonic](ModeCNaturalDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDoptitonic.mid?raw=true) |
+| [C#](ModeCSharpDoptitonic.md) | **C#**, D, F, **A**, **C**, **C#** | C | ![CSharpDoptitonic](ModeCSharpDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpDoptitonic.mid?raw=true) |
+| [Db](ModeDFlatDoptitonic.md) | **Db**, D, F, **A**, **C**, **Db** | C | ![DFlatDoptitonic](ModeDFlatDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatDoptitonic.mid?raw=true) |
+| [D](ModeDNaturalDoptitonic.md) | **D**, D#, F#, **A#**, **C#**, **D** | C | ![DNaturalDoptitonic](ModeDNaturalDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalDoptitonic.mid?raw=true) |
+| [D#](ModeDSharpDoptitonic.md) | **D#**, E, G, **B**, **D**, **D#** | C | ![DSharpDoptitonic](ModeDSharpDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpDoptitonic.mid?raw=true) |
+| [Eb](ModeEFlatDoptitonic.md) | **Eb**, E, G, **B**, **D**, **Eb** | C | ![EFlatDoptitonic](ModeEFlatDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatDoptitonic.mid?raw=true) |
+| [E](ModeENaturalDoptitonic.md) | **E**, F, G#, **C**, **D#**, **E** | C | ![ENaturalDoptitonic](ModeENaturalDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalDoptitonic.mid?raw=true) |
+| [F](ModeFNaturalDoptitonic.md) | **F**, F#, A, **C#**, **E**, **F** | C | ![FNaturalDoptitonic](ModeFNaturalDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalDoptitonic.mid?raw=true) |
+| [F#](ModeFSharpDoptitonic.md) | **F#**, G, A#, **D**, **F**, **F#** | C | ![FSharpDoptitonic](ModeFSharpDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpDoptitonic.mid?raw=true) |
+| [Gb](ModeGFlatDoptitonic.md) | **Gb**, G, Bb, **D**, **F**, **Gb** | C | ![GFlatDoptitonic](ModeGFlatDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatDoptitonic.mid?raw=true) |
+| [G](ModeGNaturalDoptitonic.md) | **G**, G#, B, **D#**, **F#**, **G** | C | ![GNaturalDoptitonic](ModeGNaturalDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalDoptitonic.mid?raw=true) |
+| [G#](ModeGSharpDoptitonic.md) | **G#**, A, C, **E**, **G**, **G#** | C | ![GSharpDoptitonic](ModeGSharpDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpDoptitonic.mid?raw=true) |
+| [Ab](ModeAFlatDoptitonic.md) | **Ab**, A, C, **E**, **G**, **Ab** | C | ![AFlatDoptitonic](ModeAFlatDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatDoptitonic.mid?raw=true) |
+| [A](ModeANaturalDoptitonic.md) | **A**, A#, C#, **F**, **G#**, **A** | C | ![ANaturalDoptitonic](ModeANaturalDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalDoptitonic.mid?raw=true) |
+| [A#](ModeASharpDoptitonic.md) | **A#**, B, D, **F#**, **A**, **A#** | C | ![ASharpDoptitonic](ModeASharpDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpDoptitonic.mid?raw=true) |
+| [Bb](ModeBFlatDoptitonic.md) | **Bb**, B, D, **Gb**, **A**, **Bb** | C | ![BFlatDoptitonic](ModeBFlatDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatDoptitonic.mid?raw=true) |
+| [B](ModeBNaturalDoptitonic.md) | **B**, C, D#, **G**, **A#**, **B** | C | ![BNaturalDoptitonic](ModeBNaturalDoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalDoptitonic.mid?raw=true) |

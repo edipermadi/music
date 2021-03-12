@@ -63,10 +63,10 @@ D#
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 132 | G | [G5](ChordGNaturalPowerChord.md) | G, D | ![G5](ChordGNaturalPowerChordRootPosition.png) | [midi](ChordGNaturalPowerChordRootPosition.mid) [ogg](ChordGNaturalPowerChordRootPosition.ogg) |
-| 1156 | G | [Gm](ChordGNaturalMinor.md) | G, Bb, D | ![Gm](ChordGNaturalMinorRootPosition.png) | [midi](ChordGNaturalMinorRootPosition.mid) [ogg](ChordGNaturalMinorRootPosition.ogg) |
-| 1156 | G | [Gm(add(#9))](ChordGNaturalMinorAddSharpNinth.md) | G, Bb, D, A# | ![Gm(add(#9))](ChordGNaturalMinorAddSharpNinthRootPosition.png) | [midi](ChordGNaturalMinorAddSharpNinthRootPosition.mid) [ogg](ChordGNaturalMinorAddSharpNinthRootPosition.ogg) |
-| 1160 | G | [Gm#5](ChordGNaturalMinorSharpFifth.md) | G, Bb, Eb | ![Gm#5](ChordGNaturalMinorSharpFifthRootPosition.png) | [midi](ChordGNaturalMinorSharpFifthRootPosition.mid) [ogg](ChordGNaturalMinorSharpFifthRootPosition.ogg) |
+| 132 | G | [G5](ChordGNaturalPowerChord.md) | G, D | ![G5](ChordGNaturalPowerChordRootPosition.png) | [midi](ChordGNaturalPowerChordRootPosition.mid) |
+| 1156 | G | [Gm](ChordGNaturalMinor.md) | G, Bb, D | ![Gm](ChordGNaturalMinorRootPosition.png) | [midi](ChordGNaturalMinorRootPosition.mid) |
+| 1156 | G | [Gm(add(#9))](ChordGNaturalMinorAddSharpNinth.md) | G, Bb, D, A# | ![Gm(add(#9))](ChordGNaturalMinorAddSharpNinthRootPosition.png) | [midi](ChordGNaturalMinorAddSharpNinthRootPosition.mid) |
+| 1160 | G | [Gm#5](ChordGNaturalMinorSharpFifth.md) | G, Bb, Eb | ![Gm#5](ChordGNaturalMinorSharpFifthRootPosition.png) | [midi](ChordGNaturalMinorSharpFifthRootPosition.mid) |
 
 ### A#
 
@@ -77,5 +77,5 @@ D#
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 1156 | D | [Dsus4#5](ChordDNaturalSuspendedFourthSharpFifth.md) | D, G, A# | ![Dsus4#5](ChordDNaturalSuspendedFourthSharpFifthRootPosition.png) | [midi](ChordDNaturalSuspendedFourthSharpFifthRootPosition.mid) [ogg](ChordDNaturalSuspendedFourthSharpFifthRootPosition.ogg) |
+| 1156 | D | [Dsus4#5](ChordDNaturalSuspendedFourthSharpFifth.md) | D, G, A# | ![Dsus4#5](ChordDNaturalSuspendedFourthSharpFifthRootPosition.png) | [midi](ChordDNaturalSuspendedFourthSharpFifthRootPosition.mid) |
 

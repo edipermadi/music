@@ -58,16 +58,16 @@ C
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 81 | C | [CMb5](ChordCNaturalMajorFlatFifth.md) | C, E, Gb | ![CMb5](ChordCNaturalMajorFlatFifthRootPosition.png) | [midi](ChordCNaturalMajorFlatFifthRootPosition.mid) [ogg](ChordCNaturalMajorFlatFifthRootPosition.ogg) |
-| 1105 | C | [C7b5](ChordCNaturalDominantSeventhFlatFifth.md) | C, E, Gb, Bb | ![C7b5](ChordCNaturalDominantSeventhFlatFifthRootPosition.png) | [midi](ChordCNaturalDominantSeventhFlatFifthRootPosition.mid) [ogg](ChordCNaturalDominantSeventhFlatFifthRootPosition.ogg) |
+| 81 | C | [CMb5](ChordCNaturalMajorFlatFifth.md) | C, E, Gb | ![CMb5](ChordCNaturalMajorFlatFifthRootPosition.png) | [midi](ChordCNaturalMajorFlatFifthRootPosition.mid) |
+| 1105 | C | [C7b5](ChordCNaturalDominantSeventhFlatFifth.md) | C, E, Gb, Bb | ![C7b5](ChordCNaturalDominantSeventhFlatFifthRootPosition.png) | [midi](ChordCNaturalDominantSeventhFlatFifthRootPosition.mid) |
 
 ### E
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 1104 | E | [Esus2b5](ChordENaturalSuspendedSecondFlatFifth.md) | E, F#, Bb | ![Esus2b5](ChordENaturalSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordENaturalSuspendedSecondFlatFifthRootPosition.mid) [ogg](ChordENaturalSuspendedSecondFlatFifthRootPosition.ogg) |
-| 81 | E | [Esus2#5](ChordENaturalSuspendedSecondSharpFifth.md) | E, F#, B# | ![Esus2#5](ChordENaturalSuspendedSecondSharpFifthRootPosition.png) | [midi](ChordENaturalSuspendedSecondSharpFifthRootPosition.mid) [ogg](ChordENaturalSuspendedSecondSharpFifthRootPosition.ogg) |
-| 1105 | E | [Esus2b5add(#5)](ChordENaturalSuspendedSecondFlatFifthAddSharpFifth.md) | E, F#, Bb, B# | ![Esus2b5add(#5)](ChordENaturalSuspendedSecondFlatFifthAddSharpFifthRootPosition.png) | [midi](ChordENaturalSuspendedSecondFlatFifthAddSharpFifthRootPosition.mid) [ogg](ChordENaturalSuspendedSecondFlatFifthAddSharpFifthRootPosition.ogg) |
+| 1104 | E | [Esus2b5](ChordENaturalSuspendedSecondFlatFifth.md) | E, F#, Bb | ![Esus2b5](ChordENaturalSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordENaturalSuspendedSecondFlatFifthRootPosition.mid) |
+| 81 | E | [Esus2#5](ChordENaturalSuspendedSecondSharpFifth.md) | E, F#, B# | ![Esus2#5](ChordENaturalSuspendedSecondSharpFifthRootPosition.png) | [midi](ChordENaturalSuspendedSecondSharpFifthRootPosition.mid) |
+| 1105 | E | [Esus2b5add(#5)](ChordENaturalSuspendedSecondFlatFifthAddSharpFifth.md) | E, F#, Bb, B# | ![Esus2b5add(#5)](ChordENaturalSuspendedSecondFlatFifthAddSharpFifthRootPosition.png) | [midi](ChordENaturalSuspendedSecondFlatFifthAddSharpFifthRootPosition.mid) |
 
 ### F#
 

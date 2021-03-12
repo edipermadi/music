@@ -63,15 +63,15 @@ C#
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 146 | C# | [C#o](ChordCSharpDiminished.md) | C#, E, G | ![C#o](ChordCSharpDiminishedRootPosition.png) | [midi](ChordCSharpDiminishedRootPosition.mid) [ogg](ChordCSharpDiminishedRootPosition.ogg) |
-| 258 | C# | [C#5](ChordCSharpPowerChord.md) | C#, G# | ![C#5](ChordCSharpPowerChordRootPosition.png) | [midi](ChordCSharpPowerChordRootPosition.mid) [ogg](ChordCSharpPowerChordRootPosition.ogg) |
-| 274 | C# | [C#m](ChordCSharpMinor.md) | C#, E, G# | ![C#m](ChordCSharpMinorRootPosition.png) | [midi](ChordCSharpMinorRootPosition.mid) [ogg](ChordCSharpMinorRootPosition.ogg) |
-| 274 | C# | [C#m(add(#9))](ChordCSharpMinorAddSharpNinth.md) | C#, E, G#, D## | ![C#m(add(#9))](ChordCSharpMinorAddSharpNinthRootPosition.png) | [midi](ChordCSharpMinorAddSharpNinthRootPosition.mid) [ogg](ChordCSharpMinorAddSharpNinthRootPosition.ogg) |
-| 386 | C# | [C#lyd](ChordCSharpLydian.md) | C#, F##, G# | ![C#lyd](ChordCSharpLydianRootPosition.png) | [midi](ChordCSharpLydianRootPosition.mid) [ogg](ChordCSharpLydianRootPosition.ogg) |
-| 402 | C# | [C#m(add(#4))](ChordCSharpMinorAddSharpFourth.md) | C#, E, F##, G# | ![C#m(add(#4))](ChordCSharpMinorAddSharpFourthRootPosition.png) | [midi](ChordCSharpMinorAddSharpFourthRootPosition.mid) [ogg](ChordCSharpMinorAddSharpFourthRootPosition.ogg) |
-| 530 | C# | [C#m#5](ChordCSharpMinorSharpFifth.md) | C#, E, A | ![C#m#5](ChordCSharpMinorSharpFifthRootPosition.png) | [midi](ChordCSharpMinorSharpFifthRootPosition.mid) [ogg](ChordCSharpMinorSharpFifthRootPosition.ogg) |
-| 1170 | C# | [C#o7](ChordCSharpFullDiminishedSeventh.md) | C#, E, G, Bb | ![C#o7](ChordCSharpFullDiminishedSeventhRootPosition.png) | [midi](ChordCSharpFullDiminishedSeventhRootPosition.mid) [ogg](ChordCSharpFullDiminishedSeventhRootPosition.ogg) |
-| 1298 | C# | [C#m6](ChordCSharpMinorSixth.md) | C#, E, G#, A# | ![C#m6](ChordCSharpMinorSixthRootPosition.png) | [midi](ChordCSharpMinorSixthRootPosition.mid) [ogg](ChordCSharpMinorSixthRootPosition.ogg) |
+| 146 | C# | [C#o](ChordCSharpDiminished.md) | C#, E, G | ![C#o](ChordCSharpDiminishedRootPosition.png) | [midi](ChordCSharpDiminishedRootPosition.mid) |
+| 258 | C# | [C#5](ChordCSharpPowerChord.md) | C#, G# | ![C#5](ChordCSharpPowerChordRootPosition.png) | [midi](ChordCSharpPowerChordRootPosition.mid) |
+| 274 | C# | [C#m](ChordCSharpMinor.md) | C#, E, G# | ![C#m](ChordCSharpMinorRootPosition.png) | [midi](ChordCSharpMinorRootPosition.mid) |
+| 274 | C# | [C#m(add(#9))](ChordCSharpMinorAddSharpNinth.md) | C#, E, G#, D## | ![C#m(add(#9))](ChordCSharpMinorAddSharpNinthRootPosition.png) | [midi](ChordCSharpMinorAddSharpNinthRootPosition.mid) |
+| 386 | C# | [C#lyd](ChordCSharpLydian.md) | C#, F##, G# | ![C#lyd](ChordCSharpLydianRootPosition.png) | [midi](ChordCSharpLydianRootPosition.mid) |
+| 402 | C# | [C#m(add(#4))](ChordCSharpMinorAddSharpFourth.md) | C#, E, F##, G# | ![C#m(add(#4))](ChordCSharpMinorAddSharpFourthRootPosition.png) | [midi](ChordCSharpMinorAddSharpFourthRootPosition.mid) |
+| 530 | C# | [C#m#5](ChordCSharpMinorSharpFifth.md) | C#, E, A | ![C#m#5](ChordCSharpMinorSharpFifthRootPosition.png) | [midi](ChordCSharpMinorSharpFifthRootPosition.mid) |
+| 1170 | C# | [C#o7](ChordCSharpFullDiminishedSeventh.md) | C#, E, G, Bb | ![C#o7](ChordCSharpFullDiminishedSeventhRootPosition.png) | [midi](ChordCSharpFullDiminishedSeventhRootPosition.mid) |
+| 1298 | C# | [C#m6](ChordCSharpMinorSixth.md) | C#, E, G#, A# | ![C#m6](ChordCSharpMinorSixthRootPosition.png) | [midi](ChordCSharpMinorSixthRootPosition.mid) |
 
 ### D##
 

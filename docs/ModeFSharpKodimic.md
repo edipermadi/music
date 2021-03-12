@@ -62,12 +62,12 @@ F#
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 577 | F# | [F#o](ChordFSharpDiminished.md) | F#, A, C | ![F#o](ChordFSharpDiminishedRootPosition.png) | [midi](ChordFSharpDiminishedRootPosition.mid) [ogg](ChordFSharpDiminishedRootPosition.ogg) |
-| 1089 | F# | [F#Mb5](ChordFSharpMajorFlatFifth.md) | F#, A#, C | ![F#Mb5](ChordFSharpMajorFlatFifthRootPosition.png) | [midi](ChordFSharpMajorFlatFifthRootPosition.mid) [ogg](ChordFSharpMajorFlatFifthRootPosition.ogg) |
-| 593 | F# | [F#ø7](ChordFSharpHalfDiminishedSeventh.md) | F#, A, C, E | ![F#ø7](ChordFSharpHalfDiminishedSeventhRootPosition.png) | [midi](ChordFSharpHalfDiminishedSeventhRootPosition.mid) [ogg](ChordFSharpHalfDiminishedSeventhRootPosition.ogg) |
-| 1105 | F# | [F#7b5](ChordFSharpDominantSeventhFlatFifth.md) | F#, A#, C, E | ![F#7b5](ChordFSharpDominantSeventhFlatFifthRootPosition.png) | [midi](ChordFSharpDominantSeventhFlatFifthRootPosition.mid) [ogg](ChordFSharpDominantSeventhFlatFifthRootPosition.ogg) |
-| 609 | F# | [F#oM7](ChordFSharpDiminishedMajorSeventh.md) | F#, A, C, E# | ![F#oM7](ChordFSharpDiminishedMajorSeventhRootPosition.png) | [midi](ChordFSharpDiminishedMajorSeventhRootPosition.mid) [ogg](ChordFSharpDiminishedMajorSeventhRootPosition.ogg) |
-| 1121 | F# | [F#M7b5](ChordFSharpMajorSeventhFlatFifth.md) | F#, A#, C, E# | ![F#M7b5](ChordFSharpMajorSeventhFlatFifthRootPosition.png) | [midi](ChordFSharpMajorSeventhFlatFifthRootPosition.mid) [ogg](ChordFSharpMajorSeventhFlatFifthRootPosition.ogg) |
+| 577 | F# | [F#o](ChordFSharpDiminished.md) | F#, A, C | ![F#o](ChordFSharpDiminishedRootPosition.png) | [midi](ChordFSharpDiminishedRootPosition.mid) |
+| 1089 | F# | [F#Mb5](ChordFSharpMajorFlatFifth.md) | F#, A#, C | ![F#Mb5](ChordFSharpMajorFlatFifthRootPosition.png) | [midi](ChordFSharpMajorFlatFifthRootPosition.mid) |
+| 593 | F# | [F#ø7](ChordFSharpHalfDiminishedSeventh.md) | F#, A, C, E | ![F#ø7](ChordFSharpHalfDiminishedSeventhRootPosition.png) | [midi](ChordFSharpHalfDiminishedSeventhRootPosition.mid) |
+| 1105 | F# | [F#7b5](ChordFSharpDominantSeventhFlatFifth.md) | F#, A#, C, E | ![F#7b5](ChordFSharpDominantSeventhFlatFifthRootPosition.png) | [midi](ChordFSharpDominantSeventhFlatFifthRootPosition.mid) |
+| 609 | F# | [F#oM7](ChordFSharpDiminishedMajorSeventh.md) | F#, A, C, E# | ![F#oM7](ChordFSharpDiminishedMajorSeventhRootPosition.png) | [midi](ChordFSharpDiminishedMajorSeventhRootPosition.mid) |
+| 1121 | F# | [F#M7b5](ChordFSharpMajorSeventhFlatFifth.md) | F#, A#, C, E# | ![F#M7b5](ChordFSharpMajorSeventhFlatFifthRootPosition.png) | [midi](ChordFSharpMajorSeventhFlatFifthRootPosition.mid) |
 
 ### G##
 

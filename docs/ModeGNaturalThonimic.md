@@ -62,12 +62,12 @@ G
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 2178 | G | [GMb5](ChordGNaturalMajorFlatFifth.md) | G, B, Db | ![GMb5](ChordGNaturalMajorFlatFifthRootPosition.png) | [midi](ChordGNaturalMajorFlatFifthRootPosition.mid) [ogg](ChordGNaturalMajorFlatFifthRootPosition.ogg) |
-| 131 | G | [Gsus4b5](ChordGNaturalSuspendedFourthFlatFifth.md) | G, C, Db | ![Gsus4b5](ChordGNaturalSuspendedFourthFlatFifthRootPosition.png) | [midi](ChordGNaturalSuspendedFourthFlatFifthRootPosition.mid) [ogg](ChordGNaturalSuspendedFourthFlatFifthRootPosition.ogg) |
-| 161 | G | [GQ](ChordGNaturalQuartal.md) | G, C, F | ![GQ](ChordGNaturalQuartalRootPosition.png) | [midi](ChordGNaturalQuartalRootPosition.mid) [ogg](ChordGNaturalQuartalRootPosition.ogg) |
-| 2210 | G | [G7b5](ChordGNaturalDominantSeventhFlatFifth.md) | G, B, Db, F | ![G7b5](ChordGNaturalDominantSeventhFlatFifthRootPosition.png) | [midi](ChordGNaturalDominantSeventhFlatFifthRootPosition.mid) [ogg](ChordGNaturalDominantSeventhFlatFifthRootPosition.ogg) |
-| 193 | G | [GQ+](ChordGNaturalQuartalAugmented.md) | G, C, F# | ![GQ+](ChordGNaturalQuartalAugmentedRootPosition.png) | [midi](ChordGNaturalQuartalAugmentedRootPosition.mid) [ogg](ChordGNaturalQuartalAugmentedRootPosition.ogg) |
-| 2242 | G | [GM7b5](ChordGNaturalMajorSeventhFlatFifth.md) | G, B, Db, F# | ![GM7b5](ChordGNaturalMajorSeventhFlatFifthRootPosition.png) | [midi](ChordGNaturalMajorSeventhFlatFifthRootPosition.mid) [ogg](ChordGNaturalMajorSeventhFlatFifthRootPosition.ogg) |
+| 2178 | G | [GMb5](ChordGNaturalMajorFlatFifth.md) | G, B, Db | ![GMb5](ChordGNaturalMajorFlatFifthRootPosition.png) | [midi](ChordGNaturalMajorFlatFifthRootPosition.mid) |
+| 131 | G | [Gsus4b5](ChordGNaturalSuspendedFourthFlatFifth.md) | G, C, Db | ![Gsus4b5](ChordGNaturalSuspendedFourthFlatFifthRootPosition.png) | [midi](ChordGNaturalSuspendedFourthFlatFifthRootPosition.mid) |
+| 161 | G | [GQ](ChordGNaturalQuartal.md) | G, C, F | ![GQ](ChordGNaturalQuartalRootPosition.png) | [midi](ChordGNaturalQuartalRootPosition.mid) |
+| 2210 | G | [G7b5](ChordGNaturalDominantSeventhFlatFifth.md) | G, B, Db, F | ![G7b5](ChordGNaturalDominantSeventhFlatFifthRootPosition.png) | [midi](ChordGNaturalDominantSeventhFlatFifthRootPosition.mid) |
+| 193 | G | [GQ+](ChordGNaturalQuartalAugmented.md) | G, C, F# | ![GQ+](ChordGNaturalQuartalAugmentedRootPosition.png) | [midi](ChordGNaturalQuartalAugmentedRootPosition.mid) |
+| 2242 | G | [GM7b5](ChordGNaturalMajorSeventhFlatFifth.md) | G, B, Db, F# | ![GM7b5](ChordGNaturalMajorSeventhFlatFifthRootPosition.png) | [midi](ChordGNaturalMajorSeventhFlatFifthRootPosition.mid) |
 
 ### A##
 

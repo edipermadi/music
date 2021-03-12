@@ -57,25 +57,25 @@ C
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 273 | C | [C+](ChordCNaturalAugmented.md) | C, E, G# | ![C+](ChordCNaturalAugmentedRootPosition.png) | [midi](ChordCNaturalAugmentedRootPosition.mid) [ogg](ChordCNaturalAugmentedRootPosition.ogg) |
-| 273 | C | [C+7](ChordCNaturalAugmentedAugmentedSeventh.md) | C, E, G#, B# | ![C+7](ChordCNaturalAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordCNaturalAugmentedAugmentedSeventhRootPosition.mid) [ogg](ChordCNaturalAugmentedAugmentedSeventhRootPosition.ogg) |
-| 289 | C | [Csus4#5](ChordCNaturalSuspendedFourthSharpFifth.md) | C, F, G# | ![Csus4#5](ChordCNaturalSuspendedFourthSharpFifthRootPosition.png) | [midi](ChordCNaturalSuspendedFourthSharpFifthRootPosition.mid) [ogg](ChordCNaturalSuspendedFourthSharpFifthRootPosition.ogg) |
+| 273 | C | [C+](ChordCNaturalAugmented.md) | C, E, G# | ![C+](ChordCNaturalAugmentedRootPosition.png) | [midi](ChordCNaturalAugmentedRootPosition.mid) |
+| 273 | C | [C+7](ChordCNaturalAugmentedAugmentedSeventh.md) | C, E, G#, B# | ![C+7](ChordCNaturalAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordCNaturalAugmentedAugmentedSeventhRootPosition.mid) |
+| 289 | C | [Csus4#5](ChordCNaturalSuspendedFourthSharpFifth.md) | C, F, G# | ![Csus4#5](ChordCNaturalSuspendedFourthSharpFifthRootPosition.png) | [midi](ChordCNaturalSuspendedFourthSharpFifthRootPosition.mid) |
 
 ### E
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 273 | E | [E+](ChordENaturalAugmented.md) | E, G#, B# | ![E+](ChordENaturalAugmentedRootPosition.png) | [midi](ChordENaturalAugmentedRootPosition.mid) [ogg](ChordENaturalAugmentedRootPosition.ogg) |
-| 273 | E | [E+7](ChordENaturalAugmentedAugmentedSeventh.md) | E, G#, B#, D## | ![E+7](ChordENaturalAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordENaturalAugmentedAugmentedSeventhRootPosition.mid) [ogg](ChordENaturalAugmentedAugmentedSeventhRootPosition.ogg) |
+| 273 | E | [E+](ChordENaturalAugmented.md) | E, G#, B# | ![E+](ChordENaturalAugmentedRootPosition.png) | [midi](ChordENaturalAugmentedRootPosition.mid) |
+| 273 | E | [E+7](ChordENaturalAugmentedAugmentedSeventh.md) | E, G#, B#, D## | ![E+7](ChordENaturalAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordENaturalAugmentedAugmentedSeventhRootPosition.mid) |
 
 ### F
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 33 | F | [F5](ChordFNaturalPowerChord.md) | F, C | ![F5](ChordFNaturalPowerChordRootPosition.png) | [midi](ChordFNaturalPowerChordRootPosition.mid) [ogg](ChordFNaturalPowerChordRootPosition.ogg) |
-| 289 | F | [Fm](ChordFNaturalMinor.md) | F, Ab, C | ![Fm](ChordFNaturalMinorRootPosition.png) | [midi](ChordFNaturalMinorRootPosition.mid) [ogg](ChordFNaturalMinorRootPosition.ogg) |
-| 289 | F | [Fm(add(#9))](ChordFNaturalMinorAddSharpNinth.md) | F, Ab, C, G# | ![Fm(add(#9))](ChordFNaturalMinorAddSharpNinthRootPosition.png) | [midi](ChordFNaturalMinorAddSharpNinthRootPosition.mid) [ogg](ChordFNaturalMinorAddSharpNinthRootPosition.ogg) |
-| 305 | F | [Fm(M7)](ChordFNaturalMinorMajorSeventh.md) | F, Ab, C, E | ![Fm(M7)](ChordFNaturalMinorMajorSeventhRootPosition.png) | [midi](ChordFNaturalMinorMajorSeventhRootPosition.mid) [ogg](ChordFNaturalMinorMajorSeventhRootPosition.ogg) |
+| 33 | F | [F5](ChordFNaturalPowerChord.md) | F, C | ![F5](ChordFNaturalPowerChordRootPosition.png) | [midi](ChordFNaturalPowerChordRootPosition.mid) |
+| 289 | F | [Fm](ChordFNaturalMinor.md) | F, Ab, C | ![Fm](ChordFNaturalMinorRootPosition.png) | [midi](ChordFNaturalMinorRootPosition.mid) |
+| 289 | F | [Fm(add(#9))](ChordFNaturalMinorAddSharpNinth.md) | F, Ab, C, G# | ![Fm(add(#9))](ChordFNaturalMinorAddSharpNinthRootPosition.png) | [midi](ChordFNaturalMinorAddSharpNinthRootPosition.mid) |
+| 305 | F | [Fm(M7)](ChordFNaturalMinorMajorSeventh.md) | F, Ab, C, E | ![Fm(M7)](ChordFNaturalMinorMajorSeventhRootPosition.png) | [midi](ChordFNaturalMinorMajorSeventhRootPosition.mid) |
 
 ### G#
 

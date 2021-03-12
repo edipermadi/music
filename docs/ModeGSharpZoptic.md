@@ -74,7 +74,7 @@ G#
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 1296 | E | [EMb5](ChordENaturalMajorFlatFifth.md) | E, G#, Bb | ![EMb5](ChordENaturalMajorFlatFifthRootPosition.png) | [midi](ChordENaturalMajorFlatFifthRootPosition.mid) [ogg](ChordENaturalMajorFlatFifthRootPosition.ogg) |
-| 274 | E | [EM##5](ChordENaturalMajorDoubleSharpFifth.md) | E, G#, C# | ![EM##5](ChordENaturalMajorDoubleSharpFifthRootPosition.png) | [midi](ChordENaturalMajorDoubleSharpFifthRootPosition.mid) [ogg](ChordENaturalMajorDoubleSharpFifthRootPosition.ogg) |
-| 1298 | E | [EM6b5](ChordENaturalMajorSixthFlatFifth.md) | E, G#, Bb, C# | ![EM6b5](ChordENaturalMajorSixthFlatFifthRootPosition.png) | [midi](ChordENaturalMajorSixthFlatFifthRootPosition.mid) [ogg](ChordENaturalMajorSixthFlatFifthRootPosition.ogg) |
+| 1296 | E | [EMb5](ChordENaturalMajorFlatFifth.md) | E, G#, Bb | ![EMb5](ChordENaturalMajorFlatFifthRootPosition.png) | [midi](ChordENaturalMajorFlatFifthRootPosition.mid) |
+| 274 | E | [EM##5](ChordENaturalMajorDoubleSharpFifth.md) | E, G#, C# | ![EM##5](ChordENaturalMajorDoubleSharpFifthRootPosition.png) | [midi](ChordENaturalMajorDoubleSharpFifthRootPosition.mid) |
+| 1298 | E | [EM6b5](ChordENaturalMajorSixthFlatFifth.md) | E, G#, Bb, C# | ![EM6b5](ChordENaturalMajorSixthFlatFifthRootPosition.png) | [midi](ChordENaturalMajorSixthFlatFifthRootPosition.mid) |
 

@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalPhrocrimic.md) | **C**, Db, E#, F#, **G#**, **A**, **C** | C | ![CNaturalPhrocrimic](ModeCNaturalPhrocrimic.png) | [midi](ModeCNaturalPhrocrimic.mid) [ogg](ModeCNaturalPhrocrimic.ogg) |
-| [C#](ModeCSharpPhrocrimic.md) | **C#**, D, E##, F##, **G##**, **A#**, **C#** | C | ![CSharpPhrocrimic](ModeCSharpPhrocrimic.png) | [midi](ModeCSharpPhrocrimic.mid) [ogg](ModeCSharpPhrocrimic.ogg) |
-| [Db](ModeDFlatPhrocrimic.md) | **Db**, Ebb, F#, G, **A**, **Bb**, **Db** | C | ![DFlatPhrocrimic](ModeDFlatPhrocrimic.png) | [midi](ModeDFlatPhrocrimic.mid) [ogg](ModeDFlatPhrocrimic.ogg) |
-| [D](ModeDNaturalPhrocrimic.md) | **D**, Eb, F##, G#, **A#**, **B**, **D** | C | ![DNaturalPhrocrimic](ModeDNaturalPhrocrimic.png) | [midi](ModeDNaturalPhrocrimic.mid) [ogg](ModeDNaturalPhrocrimic.ogg) |
-| [D#](ModeDSharpPhrocrimic.md) | **D#**, E, F###, G##, **A##**, **B#**, **D#** | C | ![DSharpPhrocrimic](ModeDSharpPhrocrimic.png) | [midi](ModeDSharpPhrocrimic.mid) [ogg](ModeDSharpPhrocrimic.ogg) |
-| [Eb](ModeEFlatPhrocrimic.md) | **Eb**, Fb, G#, A, **B**, **C**, **Eb** | C | ![EFlatPhrocrimic](ModeEFlatPhrocrimic.png) | [midi](ModeEFlatPhrocrimic.mid) [ogg](ModeEFlatPhrocrimic.ogg) |
-| [E](ModeENaturalPhrocrimic.md) | **E**, F, G##, A#, **B#**, **C#**, **E** | C | ![ENaturalPhrocrimic](ModeENaturalPhrocrimic.png) | [midi](ModeENaturalPhrocrimic.mid) [ogg](ModeENaturalPhrocrimic.ogg) |
-| [F](ModeFNaturalPhrocrimic.md) | **F**, Gb, A#, B, **C#**, **D**, **F** | C | ![FNaturalPhrocrimic](ModeFNaturalPhrocrimic.png) | [midi](ModeFNaturalPhrocrimic.mid) [ogg](ModeFNaturalPhrocrimic.ogg) |
-| [F#](ModeFSharpPhrocrimic.md) | **F#**, G, A##, B#, **C##**, **D#**, **F#** | C | ![FSharpPhrocrimic](ModeFSharpPhrocrimic.png) | [midi](ModeFSharpPhrocrimic.mid) [ogg](ModeFSharpPhrocrimic.ogg) |
-| [Gb](ModeGFlatPhrocrimic.md) | **Gb**, Abb, B, C, **D**, **Eb**, **Gb** | C | ![GFlatPhrocrimic](ModeGFlatPhrocrimic.png) | [midi](ModeGFlatPhrocrimic.mid) [ogg](ModeGFlatPhrocrimic.ogg) |
-| [G](ModeGNaturalPhrocrimic.md) | **G**, Ab, B#, C#, **D#**, **E**, **G** | C | ![GNaturalPhrocrimic](ModeGNaturalPhrocrimic.png) | [midi](ModeGNaturalPhrocrimic.mid) [ogg](ModeGNaturalPhrocrimic.ogg) |
-| [G#](ModeGSharpPhrocrimic.md) | **G#**, A, B##, C##, **D##**, **E#**, **G#** | C | ![GSharpPhrocrimic](ModeGSharpPhrocrimic.png) | [midi](ModeGSharpPhrocrimic.mid) [ogg](ModeGSharpPhrocrimic.ogg) |
-| [Ab](ModeAFlatPhrocrimic.md) | **Ab**, Bbb, C#, D, **E**, **F**, **Ab** | C | ![AFlatPhrocrimic](ModeAFlatPhrocrimic.png) | [midi](ModeAFlatPhrocrimic.mid) [ogg](ModeAFlatPhrocrimic.ogg) |
-| [A](ModeANaturalPhrocrimic.md) | **A**, Bb, C##, D#, **E#**, **F#**, **A** | C | ![ANaturalPhrocrimic](ModeANaturalPhrocrimic.png) | [midi](ModeANaturalPhrocrimic.mid) [ogg](ModeANaturalPhrocrimic.ogg) |
-| [A#](ModeASharpPhrocrimic.md) | **A#**, B, C###, D##, **E##**, **F##**, **A#** | C | ![ASharpPhrocrimic](ModeASharpPhrocrimic.png) | [midi](ModeASharpPhrocrimic.mid) [ogg](ModeASharpPhrocrimic.ogg) |
-| [Bb](ModeBFlatPhrocrimic.md) | **Bb**, Cb, D#, E, **F#**, **G**, **Bb** | C | ![BFlatPhrocrimic](ModeBFlatPhrocrimic.png) | [midi](ModeBFlatPhrocrimic.mid) [ogg](ModeBFlatPhrocrimic.ogg) |
-| [B](ModeBNaturalPhrocrimic.md) | **B**, C, D##, E#, **F##**, **G#**, **B** | C | ![BNaturalPhrocrimic](ModeBNaturalPhrocrimic.png) | [midi](ModeBNaturalPhrocrimic.mid) [ogg](ModeBNaturalPhrocrimic.ogg) |
+| [C](ModeCNaturalPhrocrimic.md) | **C**, Db, E#, F#, **G#**, **A**, **C** | C | ![CNaturalPhrocrimic](ModeCNaturalPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPhrocrimic.mid?raw=true) |
+| [C#](ModeCSharpPhrocrimic.md) | **C#**, D, E##, F##, **G##**, **A#**, **C#** | C | ![CSharpPhrocrimic](ModeCSharpPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpPhrocrimic.mid?raw=true) |
+| [Db](ModeDFlatPhrocrimic.md) | **Db**, Ebb, F#, G, **A**, **Bb**, **Db** | C | ![DFlatPhrocrimic](ModeDFlatPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatPhrocrimic.mid?raw=true) |
+| [D](ModeDNaturalPhrocrimic.md) | **D**, Eb, F##, G#, **A#**, **B**, **D** | C | ![DNaturalPhrocrimic](ModeDNaturalPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalPhrocrimic.mid?raw=true) |
+| [D#](ModeDSharpPhrocrimic.md) | **D#**, E, F###, G##, **A##**, **B#**, **D#** | C | ![DSharpPhrocrimic](ModeDSharpPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpPhrocrimic.mid?raw=true) |
+| [Eb](ModeEFlatPhrocrimic.md) | **Eb**, Fb, G#, A, **B**, **C**, **Eb** | C | ![EFlatPhrocrimic](ModeEFlatPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatPhrocrimic.mid?raw=true) |
+| [E](ModeENaturalPhrocrimic.md) | **E**, F, G##, A#, **B#**, **C#**, **E** | C | ![ENaturalPhrocrimic](ModeENaturalPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalPhrocrimic.mid?raw=true) |
+| [F](ModeFNaturalPhrocrimic.md) | **F**, Gb, A#, B, **C#**, **D**, **F** | C | ![FNaturalPhrocrimic](ModeFNaturalPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalPhrocrimic.mid?raw=true) |
+| [F#](ModeFSharpPhrocrimic.md) | **F#**, G, A##, B#, **C##**, **D#**, **F#** | C | ![FSharpPhrocrimic](ModeFSharpPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpPhrocrimic.mid?raw=true) |
+| [Gb](ModeGFlatPhrocrimic.md) | **Gb**, Abb, B, C, **D**, **Eb**, **Gb** | C | ![GFlatPhrocrimic](ModeGFlatPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatPhrocrimic.mid?raw=true) |
+| [G](ModeGNaturalPhrocrimic.md) | **G**, Ab, B#, C#, **D#**, **E**, **G** | C | ![GNaturalPhrocrimic](ModeGNaturalPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalPhrocrimic.mid?raw=true) |
+| [G#](ModeGSharpPhrocrimic.md) | **G#**, A, B##, C##, **D##**, **E#**, **G#** | C | ![GSharpPhrocrimic](ModeGSharpPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpPhrocrimic.mid?raw=true) |
+| [Ab](ModeAFlatPhrocrimic.md) | **Ab**, Bbb, C#, D, **E**, **F**, **Ab** | C | ![AFlatPhrocrimic](ModeAFlatPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatPhrocrimic.mid?raw=true) |
+| [A](ModeANaturalPhrocrimic.md) | **A**, Bb, C##, D#, **E#**, **F#**, **A** | C | ![ANaturalPhrocrimic](ModeANaturalPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalPhrocrimic.mid?raw=true) |
+| [A#](ModeASharpPhrocrimic.md) | **A#**, B, C###, D##, **E##**, **F##**, **A#** | C | ![ASharpPhrocrimic](ModeASharpPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpPhrocrimic.mid?raw=true) |
+| [Bb](ModeBFlatPhrocrimic.md) | **Bb**, Cb, D#, E, **F#**, **G**, **Bb** | C | ![BFlatPhrocrimic](ModeBFlatPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatPhrocrimic.mid?raw=true) |
+| [B](ModeBNaturalPhrocrimic.md) | **B**, C, D##, E#, **F##**, **G#**, **B** | C | ![BNaturalPhrocrimic](ModeBNaturalPhrocrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalPhrocrimic.mid?raw=true) |

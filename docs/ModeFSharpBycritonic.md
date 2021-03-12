@@ -66,9 +66,9 @@ F#
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 1544 | A | [Aloc](ChordANaturalLocrian.md) | A, Bb, Eb | ![Aloc](ChordANaturalLocrianRootPosition.png) | [midi](ChordANaturalLocrianRootPosition.mid) [ogg](ChordANaturalLocrianRootPosition.ogg) |
-| 521 | A | [Ao](ChordANaturalDiminished.md) | A, C, Eb | ![Ao](ChordANaturalDiminishedRootPosition.png) | [midi](ChordANaturalDiminishedRootPosition.mid) [ogg](ChordANaturalDiminishedRootPosition.ogg) |
-| 585 | A | [Ao7](ChordANaturalFullDiminishedSeventh.md) | A, C, Eb, Gb | ![Ao7](ChordANaturalFullDiminishedSeventhRootPosition.png) | [midi](ChordANaturalFullDiminishedSeventhRootPosition.mid) [ogg](ChordANaturalFullDiminishedSeventhRootPosition.ogg) |
+| 1544 | A | [Aloc](ChordANaturalLocrian.md) | A, Bb, Eb | ![Aloc](ChordANaturalLocrianRootPosition.png) | [midi](ChordANaturalLocrianRootPosition.mid) |
+| 521 | A | [Ao](ChordANaturalDiminished.md) | A, C, Eb | ![Ao](ChordANaturalDiminishedRootPosition.png) | [midi](ChordANaturalDiminishedRootPosition.mid) |
+| 585 | A | [Ao7](ChordANaturalFullDiminishedSeventh.md) | A, C, Eb, Gb | ![Ao7](ChordANaturalFullDiminishedSeventhRootPosition.png) | [midi](ChordANaturalFullDiminishedSeventhRootPosition.mid) |
 
 ### A#
 
@@ -79,9 +79,9 @@ F#
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 73 | C | [Co](ChordCNaturalDiminished.md) | C, Eb, Gb | ![Co](ChordCNaturalDiminishedRootPosition.png) | [midi](ChordCNaturalDiminishedRootPosition.mid) [ogg](ChordCNaturalDiminishedRootPosition.ogg) |
-| 585 | C | [Co7](ChordCNaturalFullDiminishedSeventh.md) | C, Eb, Gb, Bbb | ![Co7](ChordCNaturalFullDiminishedSeventhRootPosition.png) | [midi](ChordCNaturalFullDiminishedSeventhRootPosition.mid) [ogg](ChordCNaturalFullDiminishedSeventhRootPosition.ogg) |
-| 1097 | C | [Cø7](ChordCNaturalHalfDiminishedSeventh.md) | C, Eb, Gb, Bb | ![Cø7](ChordCNaturalHalfDiminishedSeventhRootPosition.png) | [midi](ChordCNaturalHalfDiminishedSeventhRootPosition.mid) [ogg](ChordCNaturalHalfDiminishedSeventhRootPosition.ogg) |
+| 73 | C | [Co](ChordCNaturalDiminished.md) | C, Eb, Gb | ![Co](ChordCNaturalDiminishedRootPosition.png) | [midi](ChordCNaturalDiminishedRootPosition.mid) |
+| 585 | C | [Co7](ChordCNaturalFullDiminishedSeventh.md) | C, Eb, Gb, Bbb | ![Co7](ChordCNaturalFullDiminishedSeventhRootPosition.png) | [midi](ChordCNaturalFullDiminishedSeventhRootPosition.mid) |
+| 1097 | C | [Cø7](ChordCNaturalHalfDiminishedSeventh.md) | C, Eb, Gb, Bb | ![Cø7](ChordCNaturalHalfDiminishedSeventhRootPosition.png) | [midi](ChordCNaturalHalfDiminishedSeventhRootPosition.mid) |
 
 ### D#
 

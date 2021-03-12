@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalPyrric.md) | **C**, **C#**, F, **A**, **C** | C | ![CNaturalPyrric](ModeCNaturalPyrric.png) | [midi](ModeCNaturalPyrric.mid) [ogg](ModeCNaturalPyrric.ogg) |
-| [C#](ModeCSharpPyrric.md) | **C#**, **D**, F#, **A#**, **C#** | C | ![CSharpPyrric](ModeCSharpPyrric.png) | [midi](ModeCSharpPyrric.mid) [ogg](ModeCSharpPyrric.ogg) |
-| [Db](ModeDFlatPyrric.md) | **Db**, **D**, Gb, **Bb**, **Db** | C | ![DFlatPyrric](ModeDFlatPyrric.png) | [midi](ModeDFlatPyrric.mid) [ogg](ModeDFlatPyrric.ogg) |
-| [D](ModeDNaturalPyrric.md) | **D**, **D#**, G, **B**, **D** | C | ![DNaturalPyrric](ModeDNaturalPyrric.png) | [midi](ModeDNaturalPyrric.mid) [ogg](ModeDNaturalPyrric.ogg) |
-| [D#](ModeDSharpPyrric.md) | **D#**, **E**, G#, **C**, **D#** | C | ![DSharpPyrric](ModeDSharpPyrric.png) | [midi](ModeDSharpPyrric.mid) [ogg](ModeDSharpPyrric.ogg) |
-| [Eb](ModeEFlatPyrric.md) | **Eb**, **E**, Ab, **C**, **Eb** | C | ![EFlatPyrric](ModeEFlatPyrric.png) | [midi](ModeEFlatPyrric.mid) [ogg](ModeEFlatPyrric.ogg) |
-| [E](ModeENaturalPyrric.md) | **E**, **F**, A, **C#**, **E** | C | ![ENaturalPyrric](ModeENaturalPyrric.png) | [midi](ModeENaturalPyrric.mid) [ogg](ModeENaturalPyrric.ogg) |
-| [F](ModeFNaturalPyrric.md) | **F**, **F#**, A#, **D**, **F** | C | ![FNaturalPyrric](ModeFNaturalPyrric.png) | [midi](ModeFNaturalPyrric.mid) [ogg](ModeFNaturalPyrric.ogg) |
-| [F#](ModeFSharpPyrric.md) | **F#**, **G**, B, **D#**, **F#** | C | ![FSharpPyrric](ModeFSharpPyrric.png) | [midi](ModeFSharpPyrric.mid) [ogg](ModeFSharpPyrric.ogg) |
-| [Gb](ModeGFlatPyrric.md) | **Gb**, **G**, B, **Eb**, **Gb** | C | ![GFlatPyrric](ModeGFlatPyrric.png) | [midi](ModeGFlatPyrric.mid) [ogg](ModeGFlatPyrric.ogg) |
-| [G](ModeGNaturalPyrric.md) | **G**, **G#**, C, **E**, **G** | C | ![GNaturalPyrric](ModeGNaturalPyrric.png) | [midi](ModeGNaturalPyrric.mid) [ogg](ModeGNaturalPyrric.ogg) |
-| [G#](ModeGSharpPyrric.md) | **G#**, **A**, C#, **F**, **G#** | C | ![GSharpPyrric](ModeGSharpPyrric.png) | [midi](ModeGSharpPyrric.mid) [ogg](ModeGSharpPyrric.ogg) |
-| [Ab](ModeAFlatPyrric.md) | **Ab**, **A**, Db, **F**, **Ab** | C | ![AFlatPyrric](ModeAFlatPyrric.png) | [midi](ModeAFlatPyrric.mid) [ogg](ModeAFlatPyrric.ogg) |
-| [A](ModeANaturalPyrric.md) | **A**, **A#**, D, **F#**, **A** | C | ![ANaturalPyrric](ModeANaturalPyrric.png) | [midi](ModeANaturalPyrric.mid) [ogg](ModeANaturalPyrric.ogg) |
-| [A#](ModeASharpPyrric.md) | **A#**, **B**, D#, **G**, **A#** | C | ![ASharpPyrric](ModeASharpPyrric.png) | [midi](ModeASharpPyrric.mid) [ogg](ModeASharpPyrric.ogg) |
-| [Bb](ModeBFlatPyrric.md) | **Bb**, **B**, Eb, **G**, **Bb** | C | ![BFlatPyrric](ModeBFlatPyrric.png) | [midi](ModeBFlatPyrric.mid) [ogg](ModeBFlatPyrric.ogg) |
-| [B](ModeBNaturalPyrric.md) | **B**, **C**, E, **G#**, **B** | C | ![BNaturalPyrric](ModeBNaturalPyrric.png) | [midi](ModeBNaturalPyrric.mid) [ogg](ModeBNaturalPyrric.ogg) |
+| [C](ModeCNaturalPyrric.md) | **C**, **C#**, F, **A**, **C** | C | ![CNaturalPyrric](ModeCNaturalPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPyrric.mid?raw=true) |
+| [C#](ModeCSharpPyrric.md) | **C#**, **D**, F#, **A#**, **C#** | C | ![CSharpPyrric](ModeCSharpPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpPyrric.mid?raw=true) |
+| [Db](ModeDFlatPyrric.md) | **Db**, **D**, Gb, **Bb**, **Db** | C | ![DFlatPyrric](ModeDFlatPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatPyrric.mid?raw=true) |
+| [D](ModeDNaturalPyrric.md) | **D**, **D#**, G, **B**, **D** | C | ![DNaturalPyrric](ModeDNaturalPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalPyrric.mid?raw=true) |
+| [D#](ModeDSharpPyrric.md) | **D#**, **E**, G#, **C**, **D#** | C | ![DSharpPyrric](ModeDSharpPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpPyrric.mid?raw=true) |
+| [Eb](ModeEFlatPyrric.md) | **Eb**, **E**, Ab, **C**, **Eb** | C | ![EFlatPyrric](ModeEFlatPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatPyrric.mid?raw=true) |
+| [E](ModeENaturalPyrric.md) | **E**, **F**, A, **C#**, **E** | C | ![ENaturalPyrric](ModeENaturalPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalPyrric.mid?raw=true) |
+| [F](ModeFNaturalPyrric.md) | **F**, **F#**, A#, **D**, **F** | C | ![FNaturalPyrric](ModeFNaturalPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalPyrric.mid?raw=true) |
+| [F#](ModeFSharpPyrric.md) | **F#**, **G**, B, **D#**, **F#** | C | ![FSharpPyrric](ModeFSharpPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpPyrric.mid?raw=true) |
+| [Gb](ModeGFlatPyrric.md) | **Gb**, **G**, B, **Eb**, **Gb** | C | ![GFlatPyrric](ModeGFlatPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatPyrric.mid?raw=true) |
+| [G](ModeGNaturalPyrric.md) | **G**, **G#**, C, **E**, **G** | C | ![GNaturalPyrric](ModeGNaturalPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalPyrric.mid?raw=true) |
+| [G#](ModeGSharpPyrric.md) | **G#**, **A**, C#, **F**, **G#** | C | ![GSharpPyrric](ModeGSharpPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpPyrric.mid?raw=true) |
+| [Ab](ModeAFlatPyrric.md) | **Ab**, **A**, Db, **F**, **Ab** | C | ![AFlatPyrric](ModeAFlatPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatPyrric.mid?raw=true) |
+| [A](ModeANaturalPyrric.md) | **A**, **A#**, D, **F#**, **A** | C | ![ANaturalPyrric](ModeANaturalPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalPyrric.mid?raw=true) |
+| [A#](ModeASharpPyrric.md) | **A#**, **B**, D#, **G**, **A#** | C | ![ASharpPyrric](ModeASharpPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpPyrric.mid?raw=true) |
+| [Bb](ModeBFlatPyrric.md) | **Bb**, **B**, Eb, **G**, **Bb** | C | ![BFlatPyrric](ModeBFlatPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatPyrric.mid?raw=true) |
+| [B](ModeBNaturalPyrric.md) | **B**, **C**, E, **G#**, **B** | C | ![BNaturalPyrric](ModeBNaturalPyrric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalPyrric.mid?raw=true) |

@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalThalitonic.md) | C, **C#**, F, **G**, A#, C | C | ![CNaturalThalitonic](ModeCNaturalThalitonic.png) | [midi](ModeCNaturalThalitonic.mid) [ogg](ModeCNaturalThalitonic.ogg) |
-| [C#](ModeCSharpThalitonic.md) | C#, **D**, F#, **G#**, B, C# | C | ![CSharpThalitonic](ModeCSharpThalitonic.png) | [midi](ModeCSharpThalitonic.mid) [ogg](ModeCSharpThalitonic.ogg) |
-| [Db](ModeDFlatThalitonic.md) | Db, **D**, Gb, **Ab**, B, Db | C | ![DFlatThalitonic](ModeDFlatThalitonic.png) | [midi](ModeDFlatThalitonic.mid) [ogg](ModeDFlatThalitonic.ogg) |
-| [D](ModeDNaturalThalitonic.md) | D, **D#**, G, **A**, C, D | C | ![DNaturalThalitonic](ModeDNaturalThalitonic.png) | [midi](ModeDNaturalThalitonic.mid) [ogg](ModeDNaturalThalitonic.ogg) |
-| [D#](ModeDSharpThalitonic.md) | D#, **E**, G#, **A#**, C#, D# | C | ![DSharpThalitonic](ModeDSharpThalitonic.png) | [midi](ModeDSharpThalitonic.mid) [ogg](ModeDSharpThalitonic.ogg) |
-| [Eb](ModeEFlatThalitonic.md) | Eb, **E**, Ab, **Bb**, Db, Eb | C | ![EFlatThalitonic](ModeEFlatThalitonic.png) | [midi](ModeEFlatThalitonic.mid) [ogg](ModeEFlatThalitonic.ogg) |
-| [E](ModeENaturalThalitonic.md) | E, **F**, A, **B**, D, E | C | ![ENaturalThalitonic](ModeENaturalThalitonic.png) | [midi](ModeENaturalThalitonic.mid) [ogg](ModeENaturalThalitonic.ogg) |
-| [F](ModeFNaturalThalitonic.md) | F, **F#**, A#, **C**, D#, F | C | ![FNaturalThalitonic](ModeFNaturalThalitonic.png) | [midi](ModeFNaturalThalitonic.mid) [ogg](ModeFNaturalThalitonic.ogg) |
-| [F#](ModeFSharpThalitonic.md) | F#, **G**, B, **C#**, E, F# | C | ![FSharpThalitonic](ModeFSharpThalitonic.png) | [midi](ModeFSharpThalitonic.mid) [ogg](ModeFSharpThalitonic.ogg) |
-| [Gb](ModeGFlatThalitonic.md) | Gb, **G**, B, **Db**, E, Gb | C | ![GFlatThalitonic](ModeGFlatThalitonic.png) | [midi](ModeGFlatThalitonic.mid) [ogg](ModeGFlatThalitonic.ogg) |
-| [G](ModeGNaturalThalitonic.md) | G, **G#**, C, **D**, F, G | C | ![GNaturalThalitonic](ModeGNaturalThalitonic.png) | [midi](ModeGNaturalThalitonic.mid) [ogg](ModeGNaturalThalitonic.ogg) |
-| [G#](ModeGSharpThalitonic.md) | G#, **A**, C#, **D#**, F#, G# | C | ![GSharpThalitonic](ModeGSharpThalitonic.png) | [midi](ModeGSharpThalitonic.mid) [ogg](ModeGSharpThalitonic.ogg) |
-| [Ab](ModeAFlatThalitonic.md) | Ab, **A**, Db, **Eb**, Gb, Ab | C | ![AFlatThalitonic](ModeAFlatThalitonic.png) | [midi](ModeAFlatThalitonic.mid) [ogg](ModeAFlatThalitonic.ogg) |
-| [A](ModeANaturalThalitonic.md) | A, **A#**, D, **E**, G, A | C | ![ANaturalThalitonic](ModeANaturalThalitonic.png) | [midi](ModeANaturalThalitonic.mid) [ogg](ModeANaturalThalitonic.ogg) |
-| [A#](ModeASharpThalitonic.md) | A#, **B**, D#, **F**, G#, A# | C | ![ASharpThalitonic](ModeASharpThalitonic.png) | [midi](ModeASharpThalitonic.mid) [ogg](ModeASharpThalitonic.ogg) |
-| [Bb](ModeBFlatThalitonic.md) | Bb, **B**, Eb, **F**, Ab, Bb | C | ![BFlatThalitonic](ModeBFlatThalitonic.png) | [midi](ModeBFlatThalitonic.mid) [ogg](ModeBFlatThalitonic.ogg) |
-| [B](ModeBNaturalThalitonic.md) | B, **C**, E, **F#**, A, B | C | ![BNaturalThalitonic](ModeBNaturalThalitonic.png) | [midi](ModeBNaturalThalitonic.mid) [ogg](ModeBNaturalThalitonic.ogg) |
+| [C](ModeCNaturalThalitonic.md) | C, **C#**, F, **G**, A#, C | C | ![CNaturalThalitonic](ModeCNaturalThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThalitonic.mid?raw=true) |
+| [C#](ModeCSharpThalitonic.md) | C#, **D**, F#, **G#**, B, C# | C | ![CSharpThalitonic](ModeCSharpThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpThalitonic.mid?raw=true) |
+| [Db](ModeDFlatThalitonic.md) | Db, **D**, Gb, **Ab**, B, Db | C | ![DFlatThalitonic](ModeDFlatThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatThalitonic.mid?raw=true) |
+| [D](ModeDNaturalThalitonic.md) | D, **D#**, G, **A**, C, D | C | ![DNaturalThalitonic](ModeDNaturalThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalThalitonic.mid?raw=true) |
+| [D#](ModeDSharpThalitonic.md) | D#, **E**, G#, **A#**, C#, D# | C | ![DSharpThalitonic](ModeDSharpThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpThalitonic.mid?raw=true) |
+| [Eb](ModeEFlatThalitonic.md) | Eb, **E**, Ab, **Bb**, Db, Eb | C | ![EFlatThalitonic](ModeEFlatThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatThalitonic.mid?raw=true) |
+| [E](ModeENaturalThalitonic.md) | E, **F**, A, **B**, D, E | C | ![ENaturalThalitonic](ModeENaturalThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalThalitonic.mid?raw=true) |
+| [F](ModeFNaturalThalitonic.md) | F, **F#**, A#, **C**, D#, F | C | ![FNaturalThalitonic](ModeFNaturalThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalThalitonic.mid?raw=true) |
+| [F#](ModeFSharpThalitonic.md) | F#, **G**, B, **C#**, E, F# | C | ![FSharpThalitonic](ModeFSharpThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpThalitonic.mid?raw=true) |
+| [Gb](ModeGFlatThalitonic.md) | Gb, **G**, B, **Db**, E, Gb | C | ![GFlatThalitonic](ModeGFlatThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatThalitonic.mid?raw=true) |
+| [G](ModeGNaturalThalitonic.md) | G, **G#**, C, **D**, F, G | C | ![GNaturalThalitonic](ModeGNaturalThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalThalitonic.mid?raw=true) |
+| [G#](ModeGSharpThalitonic.md) | G#, **A**, C#, **D#**, F#, G# | C | ![GSharpThalitonic](ModeGSharpThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpThalitonic.mid?raw=true) |
+| [Ab](ModeAFlatThalitonic.md) | Ab, **A**, Db, **Eb**, Gb, Ab | C | ![AFlatThalitonic](ModeAFlatThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatThalitonic.mid?raw=true) |
+| [A](ModeANaturalThalitonic.md) | A, **A#**, D, **E**, G, A | C | ![ANaturalThalitonic](ModeANaturalThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalThalitonic.mid?raw=true) |
+| [A#](ModeASharpThalitonic.md) | A#, **B**, D#, **F**, G#, A# | C | ![ASharpThalitonic](ModeASharpThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpThalitonic.mid?raw=true) |
+| [Bb](ModeBFlatThalitonic.md) | Bb, **B**, Eb, **F**, Ab, Bb | C | ![BFlatThalitonic](ModeBFlatThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatThalitonic.mid?raw=true) |
+| [B](ModeBNaturalThalitonic.md) | B, **C**, E, **F#**, A, B | C | ![BNaturalThalitonic](ModeBNaturalThalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalThalitonic.mid?raw=true) |

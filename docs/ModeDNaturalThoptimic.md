@@ -63,10 +63,10 @@ D
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 292 | D | [Do](ChordDNaturalDiminished.md) | D, F, Ab | ![Do](ChordDNaturalDiminishedRootPosition.png) | [midi](ChordDNaturalDiminishedRootPosition.mid) [ogg](ChordDNaturalDiminishedRootPosition.ogg) |
-| 1060 | D | [Dm#5](ChordDNaturalMinorSharpFifth.md) | D, F, Bb | ![Dm#5](ChordDNaturalMinorSharpFifthRootPosition.png) | [midi](ChordDNaturalMinorSharpFifthRootPosition.mid) [ogg](ChordDNaturalMinorSharpFifthRootPosition.ogg) |
-| 2340 | D | [Do7](ChordDNaturalFullDiminishedSeventh.md) | D, F, Ab, Cb | ![Do7](ChordDNaturalFullDiminishedSeventhRootPosition.png) | [midi](ChordDNaturalFullDiminishedSeventhRootPosition.mid) [ogg](ChordDNaturalFullDiminishedSeventhRootPosition.ogg) |
-| 294 | D | [DoM7](ChordDNaturalDiminishedMajorSeventh.md) | D, F, Ab, C# | ![DoM7](ChordDNaturalDiminishedMajorSeventhRootPosition.png) | [midi](ChordDNaturalDiminishedMajorSeventhRootPosition.mid) [ogg](ChordDNaturalDiminishedMajorSeventhRootPosition.ogg) |
+| 292 | D | [Do](ChordDNaturalDiminished.md) | D, F, Ab | ![Do](ChordDNaturalDiminishedRootPosition.png) | [midi](ChordDNaturalDiminishedRootPosition.mid) |
+| 1060 | D | [Dm#5](ChordDNaturalMinorSharpFifth.md) | D, F, Bb | ![Dm#5](ChordDNaturalMinorSharpFifthRootPosition.png) | [midi](ChordDNaturalMinorSharpFifthRootPosition.mid) |
+| 2340 | D | [Do7](ChordDNaturalFullDiminishedSeventh.md) | D, F, Ab, Cb | ![Do7](ChordDNaturalFullDiminishedSeventhRootPosition.png) | [midi](ChordDNaturalFullDiminishedSeventhRootPosition.mid) |
+| 294 | D | [DoM7](ChordDNaturalDiminishedMajorSeventh.md) | D, F, Ab, C# | ![DoM7](ChordDNaturalDiminishedMajorSeventhRootPosition.png) | [midi](ChordDNaturalDiminishedMajorSeventhRootPosition.mid) |
 
 ### E#
 

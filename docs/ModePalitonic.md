@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalPalitonic.md) | **C**, **D**, **E**, F, **G#**, **C** | C | ![CNaturalPalitonic](ModeCNaturalPalitonic.png) | [midi](ModeCNaturalPalitonic.mid) [ogg](ModeCNaturalPalitonic.ogg) |
-| [C#](ModeCSharpPalitonic.md) | **C#**, **D#**, **F**, F#, **A**, **C#** | C | ![CSharpPalitonic](ModeCSharpPalitonic.png) | [midi](ModeCSharpPalitonic.mid) [ogg](ModeCSharpPalitonic.ogg) |
-| [Db](ModeDFlatPalitonic.md) | **Db**, **Eb**, **F**, Gb, **A**, **Db** | C | ![DFlatPalitonic](ModeDFlatPalitonic.png) | [midi](ModeDFlatPalitonic.mid) [ogg](ModeDFlatPalitonic.ogg) |
-| [D](ModeDNaturalPalitonic.md) | **D**, **E**, **F#**, G, **A#**, **D** | C | ![DNaturalPalitonic](ModeDNaturalPalitonic.png) | [midi](ModeDNaturalPalitonic.mid) [ogg](ModeDNaturalPalitonic.ogg) |
-| [D#](ModeDSharpPalitonic.md) | **D#**, **F**, **G**, G#, **B**, **D#** | C | ![DSharpPalitonic](ModeDSharpPalitonic.png) | [midi](ModeDSharpPalitonic.mid) [ogg](ModeDSharpPalitonic.ogg) |
-| [Eb](ModeEFlatPalitonic.md) | **Eb**, **F**, **G**, Ab, **B**, **Eb** | C | ![EFlatPalitonic](ModeEFlatPalitonic.png) | [midi](ModeEFlatPalitonic.mid) [ogg](ModeEFlatPalitonic.ogg) |
-| [E](ModeENaturalPalitonic.md) | **E**, **F#**, **G#**, A, **C**, **E** | C | ![ENaturalPalitonic](ModeENaturalPalitonic.png) | [midi](ModeENaturalPalitonic.mid) [ogg](ModeENaturalPalitonic.ogg) |
-| [F](ModeFNaturalPalitonic.md) | **F**, **G**, **A**, A#, **C#**, **F** | C | ![FNaturalPalitonic](ModeFNaturalPalitonic.png) | [midi](ModeFNaturalPalitonic.mid) [ogg](ModeFNaturalPalitonic.ogg) |
-| [F#](ModeFSharpPalitonic.md) | **F#**, **G#**, **A#**, B, **D**, **F#** | C | ![FSharpPalitonic](ModeFSharpPalitonic.png) | [midi](ModeFSharpPalitonic.mid) [ogg](ModeFSharpPalitonic.ogg) |
-| [Gb](ModeGFlatPalitonic.md) | **Gb**, **Ab**, **Bb**, B, **D**, **Gb** | C | ![GFlatPalitonic](ModeGFlatPalitonic.png) | [midi](ModeGFlatPalitonic.mid) [ogg](ModeGFlatPalitonic.ogg) |
-| [G](ModeGNaturalPalitonic.md) | **G**, **A**, **B**, C, **D#**, **G** | C | ![GNaturalPalitonic](ModeGNaturalPalitonic.png) | [midi](ModeGNaturalPalitonic.mid) [ogg](ModeGNaturalPalitonic.ogg) |
-| [G#](ModeGSharpPalitonic.md) | **G#**, **A#**, **C**, C#, **E**, **G#** | C | ![GSharpPalitonic](ModeGSharpPalitonic.png) | [midi](ModeGSharpPalitonic.mid) [ogg](ModeGSharpPalitonic.ogg) |
-| [Ab](ModeAFlatPalitonic.md) | **Ab**, **Bb**, **C**, Db, **E**, **Ab** | C | ![AFlatPalitonic](ModeAFlatPalitonic.png) | [midi](ModeAFlatPalitonic.mid) [ogg](ModeAFlatPalitonic.ogg) |
-| [A](ModeANaturalPalitonic.md) | **A**, **B**, **C#**, D, **F**, **A** | C | ![ANaturalPalitonic](ModeANaturalPalitonic.png) | [midi](ModeANaturalPalitonic.mid) [ogg](ModeANaturalPalitonic.ogg) |
-| [A#](ModeASharpPalitonic.md) | **A#**, **C**, **D**, D#, **F#**, **A#** | C | ![ASharpPalitonic](ModeASharpPalitonic.png) | [midi](ModeASharpPalitonic.mid) [ogg](ModeASharpPalitonic.ogg) |
-| [Bb](ModeBFlatPalitonic.md) | **Bb**, **C**, **D**, Eb, **Gb**, **Bb** | C | ![BFlatPalitonic](ModeBFlatPalitonic.png) | [midi](ModeBFlatPalitonic.mid) [ogg](ModeBFlatPalitonic.ogg) |
-| [B](ModeBNaturalPalitonic.md) | **B**, **C#**, **D#**, E, **G**, **B** | C | ![BNaturalPalitonic](ModeBNaturalPalitonic.png) | [midi](ModeBNaturalPalitonic.mid) [ogg](ModeBNaturalPalitonic.ogg) |
+| [C](ModeCNaturalPalitonic.md) | **C**, **D**, **E**, F, **G#**, **C** | C | ![CNaturalPalitonic](ModeCNaturalPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPalitonic.mid?raw=true) |
+| [C#](ModeCSharpPalitonic.md) | **C#**, **D#**, **F**, F#, **A**, **C#** | C | ![CSharpPalitonic](ModeCSharpPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpPalitonic.mid?raw=true) |
+| [Db](ModeDFlatPalitonic.md) | **Db**, **Eb**, **F**, Gb, **A**, **Db** | C | ![DFlatPalitonic](ModeDFlatPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatPalitonic.mid?raw=true) |
+| [D](ModeDNaturalPalitonic.md) | **D**, **E**, **F#**, G, **A#**, **D** | C | ![DNaturalPalitonic](ModeDNaturalPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalPalitonic.mid?raw=true) |
+| [D#](ModeDSharpPalitonic.md) | **D#**, **F**, **G**, G#, **B**, **D#** | C | ![DSharpPalitonic](ModeDSharpPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpPalitonic.mid?raw=true) |
+| [Eb](ModeEFlatPalitonic.md) | **Eb**, **F**, **G**, Ab, **B**, **Eb** | C | ![EFlatPalitonic](ModeEFlatPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatPalitonic.mid?raw=true) |
+| [E](ModeENaturalPalitonic.md) | **E**, **F#**, **G#**, A, **C**, **E** | C | ![ENaturalPalitonic](ModeENaturalPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalPalitonic.mid?raw=true) |
+| [F](ModeFNaturalPalitonic.md) | **F**, **G**, **A**, A#, **C#**, **F** | C | ![FNaturalPalitonic](ModeFNaturalPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalPalitonic.mid?raw=true) |
+| [F#](ModeFSharpPalitonic.md) | **F#**, **G#**, **A#**, B, **D**, **F#** | C | ![FSharpPalitonic](ModeFSharpPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpPalitonic.mid?raw=true) |
+| [Gb](ModeGFlatPalitonic.md) | **Gb**, **Ab**, **Bb**, B, **D**, **Gb** | C | ![GFlatPalitonic](ModeGFlatPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatPalitonic.mid?raw=true) |
+| [G](ModeGNaturalPalitonic.md) | **G**, **A**, **B**, C, **D#**, **G** | C | ![GNaturalPalitonic](ModeGNaturalPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalPalitonic.mid?raw=true) |
+| [G#](ModeGSharpPalitonic.md) | **G#**, **A#**, **C**, C#, **E**, **G#** | C | ![GSharpPalitonic](ModeGSharpPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpPalitonic.mid?raw=true) |
+| [Ab](ModeAFlatPalitonic.md) | **Ab**, **Bb**, **C**, Db, **E**, **Ab** | C | ![AFlatPalitonic](ModeAFlatPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatPalitonic.mid?raw=true) |
+| [A](ModeANaturalPalitonic.md) | **A**, **B**, **C#**, D, **F**, **A** | C | ![ANaturalPalitonic](ModeANaturalPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalPalitonic.mid?raw=true) |
+| [A#](ModeASharpPalitonic.md) | **A#**, **C**, **D**, D#, **F#**, **A#** | C | ![ASharpPalitonic](ModeASharpPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpPalitonic.mid?raw=true) |
+| [Bb](ModeBFlatPalitonic.md) | **Bb**, **C**, **D**, Eb, **Gb**, **Bb** | C | ![BFlatPalitonic](ModeBFlatPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatPalitonic.mid?raw=true) |
+| [B](ModeBNaturalPalitonic.md) | **B**, **C#**, **D#**, E, **G**, **B** | C | ![BNaturalPalitonic](ModeBNaturalPalitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalPalitonic.mid?raw=true) |

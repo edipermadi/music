@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalBaryllic.md) | **C**, C#, **D#**, F, F#, G#, **A**, B, **C** | C | ![CNaturalBaryllic](ModeCNaturalBaryllic.png) | [midi](ModeCNaturalBaryllic.mid) [ogg](ModeCNaturalBaryllic.ogg) |
-| [C#](ModeCSharpBaryllic.md) | **C#**, D, **E**, F#, G, A, **A#**, C, **C#** | C | ![CSharpBaryllic](ModeCSharpBaryllic.png) | [midi](ModeCSharpBaryllic.mid) [ogg](ModeCSharpBaryllic.ogg) |
-| [Db](ModeDFlatBaryllic.md) | **Db**, D, **E**, Gb, G, A, **Bb**, C, **Db** | C | ![DFlatBaryllic](ModeDFlatBaryllic.png) | [midi](ModeDFlatBaryllic.mid) [ogg](ModeDFlatBaryllic.ogg) |
-| [D](ModeDNaturalBaryllic.md) | **D**, D#, **F**, G, G#, A#, **B**, C#, **D** | C | ![DNaturalBaryllic](ModeDNaturalBaryllic.png) | [midi](ModeDNaturalBaryllic.mid) [ogg](ModeDNaturalBaryllic.ogg) |
-| [D#](ModeDSharpBaryllic.md) | **D#**, E, **F#**, G#, A, B, **C**, D, **D#** | C | ![DSharpBaryllic](ModeDSharpBaryllic.png) | [midi](ModeDSharpBaryllic.mid) [ogg](ModeDSharpBaryllic.ogg) |
-| [Eb](ModeEFlatBaryllic.md) | **Eb**, E, **Gb**, Ab, A, B, **C**, D, **Eb** | C | ![EFlatBaryllic](ModeEFlatBaryllic.png) | [midi](ModeEFlatBaryllic.mid) [ogg](ModeEFlatBaryllic.ogg) |
-| [E](ModeENaturalBaryllic.md) | **E**, F, **G**, A, A#, C, **C#**, D#, **E** | C | ![ENaturalBaryllic](ModeENaturalBaryllic.png) | [midi](ModeENaturalBaryllic.mid) [ogg](ModeENaturalBaryllic.ogg) |
-| [F](ModeFNaturalBaryllic.md) | **F**, F#, **G#**, A#, B, C#, **D**, E, **F** | C | ![FNaturalBaryllic](ModeFNaturalBaryllic.png) | [midi](ModeFNaturalBaryllic.mid) [ogg](ModeFNaturalBaryllic.ogg) |
-| [F#](ModeFSharpBaryllic.md) | **F#**, G, **A**, B, C, D, **D#**, F, **F#** | C | ![FSharpBaryllic](ModeFSharpBaryllic.png) | [midi](ModeFSharpBaryllic.mid) [ogg](ModeFSharpBaryllic.ogg) |
-| [Gb](ModeGFlatBaryllic.md) | **Gb**, G, **A**, B, C, D, **Eb**, F, **Gb** | C | ![GFlatBaryllic](ModeGFlatBaryllic.png) | [midi](ModeGFlatBaryllic.mid) [ogg](ModeGFlatBaryllic.ogg) |
-| [G](ModeGNaturalBaryllic.md) | **G**, G#, **A#**, C, C#, D#, **E**, F#, **G** | C | ![GNaturalBaryllic](ModeGNaturalBaryllic.png) | [midi](ModeGNaturalBaryllic.mid) [ogg](ModeGNaturalBaryllic.ogg) |
-| [G#](ModeGSharpBaryllic.md) | **G#**, A, **B**, C#, D, E, **F**, G, **G#** | C | ![GSharpBaryllic](ModeGSharpBaryllic.png) | [midi](ModeGSharpBaryllic.mid) [ogg](ModeGSharpBaryllic.ogg) |
-| [Ab](ModeAFlatBaryllic.md) | **Ab**, A, **B**, Db, D, E, **F**, G, **Ab** | C | ![AFlatBaryllic](ModeAFlatBaryllic.png) | [midi](ModeAFlatBaryllic.mid) [ogg](ModeAFlatBaryllic.ogg) |
-| [A](ModeANaturalBaryllic.md) | **A**, A#, **C**, D, D#, F, **F#**, G#, **A** | C | ![ANaturalBaryllic](ModeANaturalBaryllic.png) | [midi](ModeANaturalBaryllic.mid) [ogg](ModeANaturalBaryllic.ogg) |
-| [A#](ModeASharpBaryllic.md) | **A#**, B, **C#**, D#, E, F#, **G**, A, **A#** | C | ![ASharpBaryllic](ModeASharpBaryllic.png) | [midi](ModeASharpBaryllic.mid) [ogg](ModeASharpBaryllic.ogg) |
-| [Bb](ModeBFlatBaryllic.md) | **Bb**, B, **Db**, Eb, E, Gb, **G**, A, **Bb** | C | ![BFlatBaryllic](ModeBFlatBaryllic.png) | [midi](ModeBFlatBaryllic.mid) [ogg](ModeBFlatBaryllic.ogg) |
-| [B](ModeBNaturalBaryllic.md) | **B**, C, **D**, E, F, G, **G#**, A#, **B** | C | ![BNaturalBaryllic](ModeBNaturalBaryllic.png) | [midi](ModeBNaturalBaryllic.mid) [ogg](ModeBNaturalBaryllic.ogg) |
+| [C](ModeCNaturalBaryllic.md) | **C**, C#, **D#**, F, F#, G#, **A**, B, **C** | C | ![CNaturalBaryllic](ModeCNaturalBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalBaryllic.mid?raw=true) |
+| [C#](ModeCSharpBaryllic.md) | **C#**, D, **E**, F#, G, A, **A#**, C, **C#** | C | ![CSharpBaryllic](ModeCSharpBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpBaryllic.mid?raw=true) |
+| [Db](ModeDFlatBaryllic.md) | **Db**, D, **E**, Gb, G, A, **Bb**, C, **Db** | C | ![DFlatBaryllic](ModeDFlatBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatBaryllic.mid?raw=true) |
+| [D](ModeDNaturalBaryllic.md) | **D**, D#, **F**, G, G#, A#, **B**, C#, **D** | C | ![DNaturalBaryllic](ModeDNaturalBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalBaryllic.mid?raw=true) |
+| [D#](ModeDSharpBaryllic.md) | **D#**, E, **F#**, G#, A, B, **C**, D, **D#** | C | ![DSharpBaryllic](ModeDSharpBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpBaryllic.mid?raw=true) |
+| [Eb](ModeEFlatBaryllic.md) | **Eb**, E, **Gb**, Ab, A, B, **C**, D, **Eb** | C | ![EFlatBaryllic](ModeEFlatBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatBaryllic.mid?raw=true) |
+| [E](ModeENaturalBaryllic.md) | **E**, F, **G**, A, A#, C, **C#**, D#, **E** | C | ![ENaturalBaryllic](ModeENaturalBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalBaryllic.mid?raw=true) |
+| [F](ModeFNaturalBaryllic.md) | **F**, F#, **G#**, A#, B, C#, **D**, E, **F** | C | ![FNaturalBaryllic](ModeFNaturalBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalBaryllic.mid?raw=true) |
+| [F#](ModeFSharpBaryllic.md) | **F#**, G, **A**, B, C, D, **D#**, F, **F#** | C | ![FSharpBaryllic](ModeFSharpBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpBaryllic.mid?raw=true) |
+| [Gb](ModeGFlatBaryllic.md) | **Gb**, G, **A**, B, C, D, **Eb**, F, **Gb** | C | ![GFlatBaryllic](ModeGFlatBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatBaryllic.mid?raw=true) |
+| [G](ModeGNaturalBaryllic.md) | **G**, G#, **A#**, C, C#, D#, **E**, F#, **G** | C | ![GNaturalBaryllic](ModeGNaturalBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalBaryllic.mid?raw=true) |
+| [G#](ModeGSharpBaryllic.md) | **G#**, A, **B**, C#, D, E, **F**, G, **G#** | C | ![GSharpBaryllic](ModeGSharpBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpBaryllic.mid?raw=true) |
+| [Ab](ModeAFlatBaryllic.md) | **Ab**, A, **B**, Db, D, E, **F**, G, **Ab** | C | ![AFlatBaryllic](ModeAFlatBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatBaryllic.mid?raw=true) |
+| [A](ModeANaturalBaryllic.md) | **A**, A#, **C**, D, D#, F, **F#**, G#, **A** | C | ![ANaturalBaryllic](ModeANaturalBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalBaryllic.mid?raw=true) |
+| [A#](ModeASharpBaryllic.md) | **A#**, B, **C#**, D#, E, F#, **G**, A, **A#** | C | ![ASharpBaryllic](ModeASharpBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpBaryllic.mid?raw=true) |
+| [Bb](ModeBFlatBaryllic.md) | **Bb**, B, **Db**, Eb, E, Gb, **G**, A, **Bb** | C | ![BFlatBaryllic](ModeBFlatBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatBaryllic.mid?raw=true) |
+| [B](ModeBNaturalBaryllic.md) | **B**, C, **D**, E, F, G, **G#**, A#, **B** | C | ![BNaturalBaryllic](ModeBNaturalBaryllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalBaryllic.mid?raw=true) |

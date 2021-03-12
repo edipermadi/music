@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalSorygic.md) | C, D, D#, E, F, G, A, A#, **B**, C | C | ![CNaturalSorygic](ModeCNaturalSorygic.png) | [midi](ModeCNaturalSorygic.mid) [ogg](ModeCNaturalSorygic.ogg) |
-| [C#](ModeCSharpSorygic.md) | C#, D#, E, F, F#, G#, A#, B, **C**, C# | C | ![CSharpSorygic](ModeCSharpSorygic.png) | [midi](ModeCSharpSorygic.mid) [ogg](ModeCSharpSorygic.ogg) |
-| [Db](ModeDFlatSorygic.md) | Db, Eb, E, F, Gb, Ab, Bb, B, **C**, Db | C | ![DFlatSorygic](ModeDFlatSorygic.png) | [midi](ModeDFlatSorygic.mid) [ogg](ModeDFlatSorygic.ogg) |
-| [D](ModeDNaturalSorygic.md) | D, E, F, F#, G, A, B, C, **C#**, D | C | ![DNaturalSorygic](ModeDNaturalSorygic.png) | [midi](ModeDNaturalSorygic.mid) [ogg](ModeDNaturalSorygic.ogg) |
-| [D#](ModeDSharpSorygic.md) | D#, F, F#, G, G#, A#, C, C#, **D**, D# | C | ![DSharpSorygic](ModeDSharpSorygic.png) | [midi](ModeDSharpSorygic.mid) [ogg](ModeDSharpSorygic.ogg) |
-| [Eb](ModeEFlatSorygic.md) | Eb, F, Gb, G, Ab, Bb, C, Db, **D**, Eb | C | ![EFlatSorygic](ModeEFlatSorygic.png) | [midi](ModeEFlatSorygic.mid) [ogg](ModeEFlatSorygic.ogg) |
-| [E](ModeENaturalSorygic.md) | E, F#, G, G#, A, B, C#, D, **D#**, E | C | ![ENaturalSorygic](ModeENaturalSorygic.png) | [midi](ModeENaturalSorygic.mid) [ogg](ModeENaturalSorygic.ogg) |
-| [F](ModeFNaturalSorygic.md) | F, G, G#, A, A#, C, D, D#, **E**, F | C | ![FNaturalSorygic](ModeFNaturalSorygic.png) | [midi](ModeFNaturalSorygic.mid) [ogg](ModeFNaturalSorygic.ogg) |
-| [F#](ModeFSharpSorygic.md) | F#, G#, A, A#, B, C#, D#, E, **F**, F# | C | ![FSharpSorygic](ModeFSharpSorygic.png) | [midi](ModeFSharpSorygic.mid) [ogg](ModeFSharpSorygic.ogg) |
-| [Gb](ModeGFlatSorygic.md) | Gb, Ab, A, Bb, B, Db, Eb, E, **F**, Gb | C | ![GFlatSorygic](ModeGFlatSorygic.png) | [midi](ModeGFlatSorygic.mid) [ogg](ModeGFlatSorygic.ogg) |
-| [G](ModeGNaturalSorygic.md) | G, A, A#, B, C, D, E, F, **F#**, G | C | ![GNaturalSorygic](ModeGNaturalSorygic.png) | [midi](ModeGNaturalSorygic.mid) [ogg](ModeGNaturalSorygic.ogg) |
-| [G#](ModeGSharpSorygic.md) | G#, A#, B, C, C#, D#, F, F#, **G**, G# | C | ![GSharpSorygic](ModeGSharpSorygic.png) | [midi](ModeGSharpSorygic.mid) [ogg](ModeGSharpSorygic.ogg) |
-| [Ab](ModeAFlatSorygic.md) | Ab, Bb, B, C, Db, Eb, F, Gb, **G**, Ab | C | ![AFlatSorygic](ModeAFlatSorygic.png) | [midi](ModeAFlatSorygic.mid) [ogg](ModeAFlatSorygic.ogg) |
-| [A](ModeANaturalSorygic.md) | A, B, C, C#, D, E, F#, G, **G#**, A | C | ![ANaturalSorygic](ModeANaturalSorygic.png) | [midi](ModeANaturalSorygic.mid) [ogg](ModeANaturalSorygic.ogg) |
-| [A#](ModeASharpSorygic.md) | A#, C, C#, D, D#, F, G, G#, **A**, A# | C | ![ASharpSorygic](ModeASharpSorygic.png) | [midi](ModeASharpSorygic.mid) [ogg](ModeASharpSorygic.ogg) |
-| [Bb](ModeBFlatSorygic.md) | Bb, C, Db, D, Eb, F, G, Ab, **A**, Bb | C | ![BFlatSorygic](ModeBFlatSorygic.png) | [midi](ModeBFlatSorygic.mid) [ogg](ModeBFlatSorygic.ogg) |
-| [B](ModeBNaturalSorygic.md) | B, C#, D, D#, E, F#, G#, A, **A#**, B | C | ![BNaturalSorygic](ModeBNaturalSorygic.png) | [midi](ModeBNaturalSorygic.mid) [ogg](ModeBNaturalSorygic.ogg) |
+| [C](ModeCNaturalSorygic.md) | C, D, D#, E, F, G, A, A#, **B**, C | C | ![CNaturalSorygic](ModeCNaturalSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalSorygic.mid?raw=true) |
+| [C#](ModeCSharpSorygic.md) | C#, D#, E, F, F#, G#, A#, B, **C**, C# | C | ![CSharpSorygic](ModeCSharpSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpSorygic.mid?raw=true) |
+| [Db](ModeDFlatSorygic.md) | Db, Eb, E, F, Gb, Ab, Bb, B, **C**, Db | C | ![DFlatSorygic](ModeDFlatSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatSorygic.mid?raw=true) |
+| [D](ModeDNaturalSorygic.md) | D, E, F, F#, G, A, B, C, **C#**, D | C | ![DNaturalSorygic](ModeDNaturalSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalSorygic.mid?raw=true) |
+| [D#](ModeDSharpSorygic.md) | D#, F, F#, G, G#, A#, C, C#, **D**, D# | C | ![DSharpSorygic](ModeDSharpSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpSorygic.mid?raw=true) |
+| [Eb](ModeEFlatSorygic.md) | Eb, F, Gb, G, Ab, Bb, C, Db, **D**, Eb | C | ![EFlatSorygic](ModeEFlatSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatSorygic.mid?raw=true) |
+| [E](ModeENaturalSorygic.md) | E, F#, G, G#, A, B, C#, D, **D#**, E | C | ![ENaturalSorygic](ModeENaturalSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalSorygic.mid?raw=true) |
+| [F](ModeFNaturalSorygic.md) | F, G, G#, A, A#, C, D, D#, **E**, F | C | ![FNaturalSorygic](ModeFNaturalSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalSorygic.mid?raw=true) |
+| [F#](ModeFSharpSorygic.md) | F#, G#, A, A#, B, C#, D#, E, **F**, F# | C | ![FSharpSorygic](ModeFSharpSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpSorygic.mid?raw=true) |
+| [Gb](ModeGFlatSorygic.md) | Gb, Ab, A, Bb, B, Db, Eb, E, **F**, Gb | C | ![GFlatSorygic](ModeGFlatSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatSorygic.mid?raw=true) |
+| [G](ModeGNaturalSorygic.md) | G, A, A#, B, C, D, E, F, **F#**, G | C | ![GNaturalSorygic](ModeGNaturalSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalSorygic.mid?raw=true) |
+| [G#](ModeGSharpSorygic.md) | G#, A#, B, C, C#, D#, F, F#, **G**, G# | C | ![GSharpSorygic](ModeGSharpSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpSorygic.mid?raw=true) |
+| [Ab](ModeAFlatSorygic.md) | Ab, Bb, B, C, Db, Eb, F, Gb, **G**, Ab | C | ![AFlatSorygic](ModeAFlatSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatSorygic.mid?raw=true) |
+| [A](ModeANaturalSorygic.md) | A, B, C, C#, D, E, F#, G, **G#**, A | C | ![ANaturalSorygic](ModeANaturalSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalSorygic.mid?raw=true) |
+| [A#](ModeASharpSorygic.md) | A#, C, C#, D, D#, F, G, G#, **A**, A# | C | ![ASharpSorygic](ModeASharpSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpSorygic.mid?raw=true) |
+| [Bb](ModeBFlatSorygic.md) | Bb, C, Db, D, Eb, F, G, Ab, **A**, Bb | C | ![BFlatSorygic](ModeBFlatSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatSorygic.mid?raw=true) |
+| [B](ModeBNaturalSorygic.md) | B, C#, D, D#, E, F#, G#, A, **A#**, B | C | ![BNaturalSorygic](ModeBNaturalSorygic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalSorygic.mid?raw=true) |

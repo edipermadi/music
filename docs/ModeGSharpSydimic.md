@@ -63,9 +63,9 @@ G#
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 1284 | G# | [G#sus2b5](ChordGSharpSuspendedSecondFlatFifth.md) | G#, A#, D | ![G#sus2b5](ChordGSharpSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordGSharpSuspendedSecondFlatFifthRootPosition.mid) [ogg](ChordGSharpSuspendedSecondFlatFifthRootPosition.ogg) |
-| 1296 | G# | [G#sus2#5](ChordGSharpSuspendedSecondSharpFifth.md) | G#, A#, D## | ![G#sus2#5](ChordGSharpSuspendedSecondSharpFifthRootPosition.png) | [midi](ChordGSharpSuspendedSecondSharpFifthRootPosition.mid) [ogg](ChordGSharpSuspendedSecondSharpFifthRootPosition.ogg) |
-| 1300 | G# | [G#sus2b5add(#5)](ChordGSharpSuspendedSecondFlatFifthAddSharpFifth.md) | G#, A#, D, D## | ![G#sus2b5add(#5)](ChordGSharpSuspendedSecondFlatFifthAddSharpFifthRootPosition.png) | [midi](ChordGSharpSuspendedSecondFlatFifthAddSharpFifthRootPosition.mid) [ogg](ChordGSharpSuspendedSecondFlatFifthAddSharpFifthRootPosition.ogg) |
+| 1284 | G# | [G#sus2b5](ChordGSharpSuspendedSecondFlatFifth.md) | G#, A#, D | ![G#sus2b5](ChordGSharpSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordGSharpSuspendedSecondFlatFifthRootPosition.mid) |
+| 1296 | G# | [G#sus2#5](ChordGSharpSuspendedSecondSharpFifth.md) | G#, A#, D## | ![G#sus2#5](ChordGSharpSuspendedSecondSharpFifthRootPosition.png) | [midi](ChordGSharpSuspendedSecondSharpFifthRootPosition.mid) |
+| 1300 | G# | [G#sus2b5add(#5)](ChordGSharpSuspendedSecondFlatFifthAddSharpFifth.md) | G#, A#, D, D## | ![G#sus2b5add(#5)](ChordGSharpSuspendedSecondFlatFifthAddSharpFifthRootPosition.png) | [midi](ChordGSharpSuspendedSecondFlatFifthAddSharpFifthRootPosition.mid) |
 
 ### A#
 

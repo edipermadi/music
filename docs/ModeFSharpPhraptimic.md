@@ -62,11 +62,11 @@ F#
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 580 | F# | [F#m#5](ChordFSharpMinorSharpFifth.md) | F#, A, D | ![F#m#5](ChordFSharpMinorSharpFifthRootPosition.png) | [midi](ChordFSharpMinorSharpFifthRootPosition.mid) [ogg](ChordFSharpMinorSharpFifthRootPosition.ogg) |
-| 1092 | F# | [F#+](ChordFSharpAugmented.md) | F#, A#, C## | ![F#+](ChordFSharpAugmentedRootPosition.png) | [midi](ChordFSharpAugmentedRootPosition.mid) [ogg](ChordFSharpAugmentedRootPosition.ogg) |
-| 1092 | F# | [F#+7](ChordFSharpAugmentedAugmentedSeventh.md) | F#, A#, C##, E## | ![F#+7](ChordFSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordFSharpAugmentedAugmentedSeventhRootPosition.mid) [ogg](ChordFSharpAugmentedAugmentedSeventhRootPosition.ogg) |
-| 596 | F# | [F#m7#5](ChordFSharpMinorSeventhSharpFifth.md) | F#, A, C##, E | ![F#m7#5](ChordFSharpMinorSeventhSharpFifthRootPosition.png) | [midi](ChordFSharpMinorSeventhSharpFifthRootPosition.mid) [ogg](ChordFSharpMinorSeventhSharpFifthRootPosition.ogg) |
-| 1124 | F# | [F#+(M7)](ChordFSharpAugmentedMajorSeventh.md) | F#, A#, C##, E# | ![F#+(M7)](ChordFSharpAugmentedMajorSeventhRootPosition.png) | [midi](ChordFSharpAugmentedMajorSeventhRootPosition.mid) [ogg](ChordFSharpAugmentedMajorSeventhRootPosition.ogg) |
+| 580 | F# | [F#m#5](ChordFSharpMinorSharpFifth.md) | F#, A, D | ![F#m#5](ChordFSharpMinorSharpFifthRootPosition.png) | [midi](ChordFSharpMinorSharpFifthRootPosition.mid) |
+| 1092 | F# | [F#+](ChordFSharpAugmented.md) | F#, A#, C## | ![F#+](ChordFSharpAugmentedRootPosition.png) | [midi](ChordFSharpAugmentedRootPosition.mid) |
+| 1092 | F# | [F#+7](ChordFSharpAugmentedAugmentedSeventh.md) | F#, A#, C##, E## | ![F#+7](ChordFSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordFSharpAugmentedAugmentedSeventhRootPosition.mid) |
+| 596 | F# | [F#m7#5](ChordFSharpMinorSeventhSharpFifth.md) | F#, A, C##, E | ![F#m7#5](ChordFSharpMinorSeventhSharpFifthRootPosition.png) | [midi](ChordFSharpMinorSeventhSharpFifthRootPosition.mid) |
+| 1124 | F# | [F#+(M7)](ChordFSharpAugmentedMajorSeventh.md) | F#, A#, C##, E# | ![F#+(M7)](ChordFSharpAugmentedMajorSeventhRootPosition.png) | [midi](ChordFSharpAugmentedMajorSeventhRootPosition.mid) |
 
 ### G##
 

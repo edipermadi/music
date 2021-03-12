@@ -82,11 +82,11 @@ Eb
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 2068 | B | [Bmbb5](ChordBNaturalMinorDoubleFlatFifth.md) | B, D, E | ![Bmbb5](ChordBNaturalMinorDoubleFlatFifthRootPosition.png) | [midi](ChordBNaturalMinorDoubleFlatFifthRootPosition.mid) [ogg](ChordBNaturalMinorDoubleFlatFifthRootPosition.ogg) |
-| 2312 | B | [BM##5](ChordBNaturalMajorDoubleSharpFifth.md) | B, D#, G# | ![BM##5](ChordBNaturalMajorDoubleSharpFifthRootPosition.png) | [midi](ChordBNaturalMajorDoubleSharpFifthRootPosition.mid) [ogg](ChordBNaturalMajorDoubleSharpFifthRootPosition.ogg) |
-| 2320 | B | [Bsus4##5](ChordBNaturalSuspendedFourthDoubleSharpFifth.md) | B, E, G# | ![Bsus4##5](ChordBNaturalSuspendedFourthDoubleSharpFifthRootPosition.png) | [midi](ChordBNaturalSuspendedFourthDoubleSharpFifthRootPosition.mid) [ogg](ChordBNaturalSuspendedFourthDoubleSharpFifthRootPosition.ogg) |
-| 2576 | B | [BQ](ChordBNaturalQuartal.md) | B, E, A | ![BQ](ChordBNaturalQuartalRootPosition.png) | [midi](ChordBNaturalQuartalRootPosition.mid) [ogg](ChordBNaturalQuartalRootPosition.ogg) |
-| 2580 | B | [Bm7bb5](ChordBNaturalMinorSeventhDoubleFlatFifth.md) | B, D, E, A | ![Bm7bb5](ChordBNaturalMinorSeventhDoubleFlatFifthRootPosition.png) | [midi](ChordBNaturalMinorSeventhDoubleFlatFifthRootPosition.mid) [ogg](ChordBNaturalMinorSeventhDoubleFlatFifthRootPosition.ogg) |
+| 2068 | B | [Bmbb5](ChordBNaturalMinorDoubleFlatFifth.md) | B, D, E | ![Bmbb5](ChordBNaturalMinorDoubleFlatFifthRootPosition.png) | [midi](ChordBNaturalMinorDoubleFlatFifthRootPosition.mid) |
+| 2312 | B | [BM##5](ChordBNaturalMajorDoubleSharpFifth.md) | B, D#, G# | ![BM##5](ChordBNaturalMajorDoubleSharpFifthRootPosition.png) | [midi](ChordBNaturalMajorDoubleSharpFifthRootPosition.mid) |
+| 2320 | B | [Bsus4##5](ChordBNaturalSuspendedFourthDoubleSharpFifth.md) | B, E, G# | ![Bsus4##5](ChordBNaturalSuspendedFourthDoubleSharpFifthRootPosition.png) | [midi](ChordBNaturalSuspendedFourthDoubleSharpFifthRootPosition.mid) |
+| 2576 | B | [BQ](ChordBNaturalQuartal.md) | B, E, A | ![BQ](ChordBNaturalQuartalRootPosition.png) | [midi](ChordBNaturalQuartalRootPosition.mid) |
+| 2580 | B | [Bm7bb5](ChordBNaturalMinorSeventhDoubleFlatFifth.md) | B, D, E, A | ![Bm7bb5](ChordBNaturalMinorSeventhDoubleFlatFifthRootPosition.png) | [midi](ChordBNaturalMinorSeventhDoubleFlatFifthRootPosition.mid) |
 
 ### C##
 

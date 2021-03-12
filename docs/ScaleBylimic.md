@@ -21,9 +21,9 @@
 
 | Number | Mode | Notes | Illustration | Audio |
 |--------|------|-------|--------------|-------|
-| [427](https://ianring.com/musictheory/scales/427) | [Zothimic](ModeZothimic.md) | C, Db, **Eb**, F, **G**, Ab, C | ![CNaturalZothimic](ModeCNaturalZothimic.png) | [midi](ModeCNaturalZothimic.mid) [ogg](ModeCNaturalZothimic.ogg) | 
-| [1379](https://ianring.com/musictheory/scales/1379) | [Kycrimic](ModeKycrimic.md) | **C**, Db, E#, F#, **G#**, A#, **C** | ![CNaturalKycrimic](ModeCNaturalKycrimic.png) | [midi](ModeCNaturalKycrimic.mid) [ogg](ModeCNaturalKycrimic.ogg) | 
-| [1421](https://ianring.com/musictheory/scales/1421) | [Aeolaphimic](ModeAeolaphimic.md) | C, **D**, Eb, F##, G#, **A#**, C | ![CNaturalAeolaphimic](ModeCNaturalAeolaphimic.png) | [midi](ModeCNaturalAeolaphimic.mid) [ogg](ModeCNaturalAeolaphimic.ogg) | 
-| [1589](https://ianring.com/musictheory/scales/1589) | [Ionagimic](ModeIonagimic.md) | **C**, D, **E**, F, G##, A#, **C** | ![CNaturalIonagimic](ModeCNaturalIonagimic.png) | [midi](ModeCNaturalIonagimic.mid) [ogg](ModeCNaturalIonagimic.ogg) | 
-| [2261](https://ianring.com/musictheory/scales/2261) | [Phrolimic](ModePhrolimic.md) | C, **D**, E, **F#**, G, A##, C | ![CNaturalPhrolimic](ModeCNaturalPhrolimic.png) | [midi](ModeCNaturalPhrolimic.mid) [ogg](ModeCNaturalPhrolimic.ogg) | 
-| [2737](https://ianring.com/musictheory/scales/2737) | [Bylimic](ModeBylimic.md) | C, D##, E#, **F##**, G##, **A##**, C | ![CNaturalBylimic](ModeCNaturalBylimic.png) | [midi](ModeCNaturalBylimic.mid) [ogg](ModeCNaturalBylimic.ogg) | 
+| [427](https://ianring.com/musictheory/scales/427) | [Zothimic](ModeZothimic.md) | C, Db, **Eb**, F, **G**, Ab, C | ![CNaturalZothimic](ModeCNaturalZothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalZothimic.mid?raw=true) | 
+| [1379](https://ianring.com/musictheory/scales/1379) | [Kycrimic](ModeKycrimic.md) | **C**, Db, E#, F#, **G#**, A#, **C** | ![CNaturalKycrimic](ModeCNaturalKycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKycrimic.mid?raw=true) | 
+| [1421](https://ianring.com/musictheory/scales/1421) | [Aeolaphimic](ModeAeolaphimic.md) | C, **D**, Eb, F##, G#, **A#**, C | ![CNaturalAeolaphimic](ModeCNaturalAeolaphimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAeolaphimic.mid?raw=true) | 
+| [1589](https://ianring.com/musictheory/scales/1589) | [Ionagimic](ModeIonagimic.md) | **C**, D, **E**, F, G##, A#, **C** | ![CNaturalIonagimic](ModeCNaturalIonagimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalIonagimic.mid?raw=true) | 
+| [2261](https://ianring.com/musictheory/scales/2261) | [Phrolimic](ModePhrolimic.md) | C, **D**, E, **F#**, G, A##, C | ![CNaturalPhrolimic](ModeCNaturalPhrolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPhrolimic.mid?raw=true) | 
+| [2737](https://ianring.com/musictheory/scales/2737) | [Bylimic](ModeBylimic.md) | C, D##, E#, **F##**, G##, **A##**, C | ![CNaturalBylimic](ModeCNaturalBylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalBylimic.mid?raw=true) | 

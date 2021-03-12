@@ -71,11 +71,11 @@ G#
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 2084 | B | [Bo](ChordBNaturalDiminished.md) | B, D, F | ![Bo](ChordBNaturalDiminishedRootPosition.png) | [midi](ChordBNaturalDiminishedRootPosition.mid) [ogg](ChordBNaturalDiminishedRootPosition.ogg) |
-| 2180 | B | [Bm#5](ChordBNaturalMinorSharpFifth.md) | B, D, G | ![Bm#5](ChordBNaturalMinorSharpFifthRootPosition.png) | [midi](ChordBNaturalMinorSharpFifthRootPosition.mid) [ogg](ChordBNaturalMinorSharpFifthRootPosition.ogg) |
-| 2340 | B | [Bo7](ChordBNaturalFullDiminishedSeventh.md) | B, D, F, Ab | ![Bo7](ChordBNaturalFullDiminishedSeventhRootPosition.png) | [midi](ChordBNaturalFullDiminishedSeventhRootPosition.mid) [ogg](ChordBNaturalFullDiminishedSeventhRootPosition.ogg) |
-| 2596 | B | [Bø7](ChordBNaturalHalfDiminishedSeventh.md) | B, D, F, A | ![Bø7](ChordBNaturalHalfDiminishedSeventhRootPosition.png) | [midi](ChordBNaturalHalfDiminishedSeventhRootPosition.mid) [ogg](ChordBNaturalHalfDiminishedSeventhRootPosition.ogg) |
-| 2692 | B | [Bm7#5](ChordBNaturalMinorSeventhSharpFifth.md) | B, D, F##, A | ![Bm7#5](ChordBNaturalMinorSeventhSharpFifthRootPosition.png) | [midi](ChordBNaturalMinorSeventhSharpFifthRootPosition.mid) [ogg](ChordBNaturalMinorSeventhSharpFifthRootPosition.ogg) |
+| 2084 | B | [Bo](ChordBNaturalDiminished.md) | B, D, F | ![Bo](ChordBNaturalDiminishedRootPosition.png) | [midi](ChordBNaturalDiminishedRootPosition.mid) |
+| 2180 | B | [Bm#5](ChordBNaturalMinorSharpFifth.md) | B, D, G | ![Bm#5](ChordBNaturalMinorSharpFifthRootPosition.png) | [midi](ChordBNaturalMinorSharpFifthRootPosition.mid) |
+| 2340 | B | [Bo7](ChordBNaturalFullDiminishedSeventh.md) | B, D, F, Ab | ![Bo7](ChordBNaturalFullDiminishedSeventhRootPosition.png) | [midi](ChordBNaturalFullDiminishedSeventhRootPosition.mid) |
+| 2596 | B | [Bø7](ChordBNaturalHalfDiminishedSeventh.md) | B, D, F, A | ![Bø7](ChordBNaturalHalfDiminishedSeventhRootPosition.png) | [midi](ChordBNaturalHalfDiminishedSeventhRootPosition.mid) |
+| 2692 | B | [Bm7#5](ChordBNaturalMinorSeventhSharpFifth.md) | B, D, F##, A | ![Bm7#5](ChordBNaturalMinorSeventhSharpFifthRootPosition.png) | [midi](ChordBNaturalMinorSeventhSharpFifthRootPosition.mid) |
 
 ### C##
 

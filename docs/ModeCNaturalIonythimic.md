@@ -62,43 +62,43 @@ C
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 129 | C | [C5](ChordCNaturalPowerChord.md) | C, G | ![C5](ChordCNaturalPowerChordRootPosition.png) | [midi](ChordCNaturalPowerChordRootPosition.mid) [ogg](ChordCNaturalPowerChordRootPosition.ogg) |
-| 137 | C | [Cm](ChordCNaturalMinor.md) | C, Eb, G | ![Cm](ChordCNaturalMinorRootPosition.png) | [midi](ChordCNaturalMinorRootPosition.mid) [ogg](ChordCNaturalMinorRootPosition.ogg) |
-| 137 | C | [Cm(add(#9))](ChordCNaturalMinorAddSharpNinth.md) | C, Eb, G, D# | ![Cm(add(#9))](ChordCNaturalMinorAddSharpNinthRootPosition.png) | [midi](ChordCNaturalMinorAddSharpNinthRootPosition.mid) [ogg](ChordCNaturalMinorAddSharpNinthRootPosition.ogg) |
-| 145 | C | [CM](ChordCNaturalMajor.md) | C, E, G | ![CM](ChordCNaturalMajorRootPosition.png) | [midi](ChordCNaturalMajorRootPosition.mid) [ogg](ChordCNaturalMajorRootPosition.ogg) |
-| 153 | C | [CM(add(#9))](ChordCNaturalMajorAddSharpNinth.md) | C, E, G, D# | ![CM(add(#9))](ChordCNaturalMajorAddSharpNinthRootPosition.png) | [midi](ChordCNaturalMajorAddSharpNinthRootPosition.mid) [ogg](ChordCNaturalMajorAddSharpNinthRootPosition.ogg) |
-| 265 | C | [Cm#5](ChordCNaturalMinorSharpFifth.md) | C, Eb, Ab | ![Cm#5](ChordCNaturalMinorSharpFifthRootPosition.png) | [midi](ChordCNaturalMinorSharpFifthRootPosition.mid) [ogg](ChordCNaturalMinorSharpFifthRootPosition.ogg) |
-| 273 | C | [C+](ChordCNaturalAugmented.md) | C, E, G# | ![C+](ChordCNaturalAugmentedRootPosition.png) | [midi](ChordCNaturalAugmentedRootPosition.mid) [ogg](ChordCNaturalAugmentedRootPosition.ogg) |
-| 273 | C | [C+7](ChordCNaturalAugmentedAugmentedSeventh.md) | C, E, G#, B# | ![C+7](ChordCNaturalAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordCNaturalAugmentedAugmentedSeventhRootPosition.mid) [ogg](ChordCNaturalAugmentedAugmentedSeventhRootPosition.ogg) |
-| 2185 | C | [Cm(M7)](ChordCNaturalMinorMajorSeventh.md) | C, Eb, G, B | ![Cm(M7)](ChordCNaturalMinorMajorSeventhRootPosition.png) | [midi](ChordCNaturalMinorMajorSeventhRootPosition.mid) [ogg](ChordCNaturalMinorMajorSeventhRootPosition.ogg) |
-| 2193 | C | [CM7](ChordCNaturalMajorSeventh.md) | C, E, G, B | ![CM7](ChordCNaturalMajorSeventhRootPosition.png) | [midi](ChordCNaturalMajorSeventhRootPosition.mid) [ogg](ChordCNaturalMajorSeventhRootPosition.ogg) |
-| 2321 | C | [C+(M7)](ChordCNaturalAugmentedMajorSeventh.md) | C, E, G#, B | ![C+(M7)](ChordCNaturalAugmentedMajorSeventhRootPosition.png) | [midi](ChordCNaturalAugmentedMajorSeventhRootPosition.mid) [ogg](ChordCNaturalAugmentedMajorSeventhRootPosition.ogg) |
+| 129 | C | [C5](ChordCNaturalPowerChord.md) | C, G | ![C5](ChordCNaturalPowerChordRootPosition.png) | [midi](ChordCNaturalPowerChordRootPosition.mid) |
+| 137 | C | [Cm](ChordCNaturalMinor.md) | C, Eb, G | ![Cm](ChordCNaturalMinorRootPosition.png) | [midi](ChordCNaturalMinorRootPosition.mid) |
+| 137 | C | [Cm(add(#9))](ChordCNaturalMinorAddSharpNinth.md) | C, Eb, G, D# | ![Cm(add(#9))](ChordCNaturalMinorAddSharpNinthRootPosition.png) | [midi](ChordCNaturalMinorAddSharpNinthRootPosition.mid) |
+| 145 | C | [CM](ChordCNaturalMajor.md) | C, E, G | ![CM](ChordCNaturalMajorRootPosition.png) | [midi](ChordCNaturalMajorRootPosition.mid) |
+| 153 | C | [CM(add(#9))](ChordCNaturalMajorAddSharpNinth.md) | C, E, G, D# | ![CM(add(#9))](ChordCNaturalMajorAddSharpNinthRootPosition.png) | [midi](ChordCNaturalMajorAddSharpNinthRootPosition.mid) |
+| 265 | C | [Cm#5](ChordCNaturalMinorSharpFifth.md) | C, Eb, Ab | ![Cm#5](ChordCNaturalMinorSharpFifthRootPosition.png) | [midi](ChordCNaturalMinorSharpFifthRootPosition.mid) |
+| 273 | C | [C+](ChordCNaturalAugmented.md) | C, E, G# | ![C+](ChordCNaturalAugmentedRootPosition.png) | [midi](ChordCNaturalAugmentedRootPosition.mid) |
+| 273 | C | [C+7](ChordCNaturalAugmentedAugmentedSeventh.md) | C, E, G#, B# | ![C+7](ChordCNaturalAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordCNaturalAugmentedAugmentedSeventhRootPosition.mid) |
+| 2185 | C | [Cm(M7)](ChordCNaturalMinorMajorSeventh.md) | C, Eb, G, B | ![Cm(M7)](ChordCNaturalMinorMajorSeventhRootPosition.png) | [midi](ChordCNaturalMinorMajorSeventhRootPosition.mid) |
+| 2193 | C | [CM7](ChordCNaturalMajorSeventh.md) | C, E, G, B | ![CM7](ChordCNaturalMajorSeventhRootPosition.png) | [midi](ChordCNaturalMajorSeventhRootPosition.mid) |
+| 2321 | C | [C+(M7)](ChordCNaturalAugmentedMajorSeventh.md) | C, E, G#, B | ![C+(M7)](ChordCNaturalAugmentedMajorSeventhRootPosition.png) | [midi](ChordCNaturalAugmentedMajorSeventhRootPosition.mid) |
 
 ### D#
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 2184 | D# | [D#+](ChordDSharpAugmented.md) | D#, F##, A## | ![D#+](ChordDSharpAugmentedRootPosition.png) | [midi](ChordDSharpAugmentedRootPosition.mid) [ogg](ChordDSharpAugmentedRootPosition.ogg) |
-| 2184 | D# | [D#+7](ChordDSharpAugmentedAugmentedSeventh.md) | D#, F##, A##, C### | ![D#+7](ChordDSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordDSharpAugmentedAugmentedSeventhRootPosition.mid) [ogg](ChordDSharpAugmentedAugmentedSeventhRootPosition.ogg) |
-| 2312 | D# | [D#sus4#5](ChordDSharpSuspendedFourthSharpFifth.md) | D#, G#, A## | ![D#sus4#5](ChordDSharpSuspendedFourthSharpFifthRootPosition.png) | [midi](ChordDSharpSuspendedFourthSharpFifthRootPosition.mid) [ogg](ChordDSharpSuspendedFourthSharpFifthRootPosition.ogg) |
-| 137 | D# | [D#M##5](ChordDSharpMajorDoubleSharpFifth.md) | D#, F##, B# | ![D#M##5](ChordDSharpMajorDoubleSharpFifthRootPosition.png) | [midi](ChordDSharpMajorDoubleSharpFifthRootPosition.mid) [ogg](ChordDSharpMajorDoubleSharpFifthRootPosition.ogg) |
-| 265 | D# | [D#sus4##5](ChordDSharpSuspendedFourthDoubleSharpFifth.md) | D#, G#, B# | ![D#sus4##5](ChordDSharpSuspendedFourthDoubleSharpFifthRootPosition.png) | [midi](ChordDSharpSuspendedFourthDoubleSharpFifthRootPosition.mid) [ogg](ChordDSharpSuspendedFourthDoubleSharpFifthRootPosition.ogg) |
+| 2184 | D# | [D#+](ChordDSharpAugmented.md) | D#, F##, A## | ![D#+](ChordDSharpAugmentedRootPosition.png) | [midi](ChordDSharpAugmentedRootPosition.mid) |
+| 2184 | D# | [D#+7](ChordDSharpAugmentedAugmentedSeventh.md) | D#, F##, A##, C### | ![D#+7](ChordDSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordDSharpAugmentedAugmentedSeventhRootPosition.mid) |
+| 2312 | D# | [D#sus4#5](ChordDSharpSuspendedFourthSharpFifth.md) | D#, G#, A## | ![D#sus4#5](ChordDSharpSuspendedFourthSharpFifthRootPosition.png) | [midi](ChordDSharpSuspendedFourthSharpFifthRootPosition.mid) |
+| 137 | D# | [D#M##5](ChordDSharpMajorDoubleSharpFifth.md) | D#, F##, B# | ![D#M##5](ChordDSharpMajorDoubleSharpFifthRootPosition.png) | [midi](ChordDSharpMajorDoubleSharpFifthRootPosition.mid) |
+| 265 | D# | [D#sus4##5](ChordDSharpSuspendedFourthDoubleSharpFifth.md) | D#, G#, B# | ![D#sus4##5](ChordDSharpSuspendedFourthDoubleSharpFifthRootPosition.png) | [midi](ChordDSharpSuspendedFourthDoubleSharpFifthRootPosition.mid) |
 
 ### E
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 2064 | E | [E5](ChordENaturalPowerChord.md) | E, B | ![E5](ChordENaturalPowerChordRootPosition.png) | [midi](ChordENaturalPowerChordRootPosition.mid) [ogg](ChordENaturalPowerChordRootPosition.ogg) |
-| 2192 | E | [Em](ChordENaturalMinor.md) | E, G, B | ![Em](ChordENaturalMinorRootPosition.png) | [midi](ChordENaturalMinorRootPosition.mid) [ogg](ChordENaturalMinorRootPosition.ogg) |
-| 2192 | E | [Em(add(#9))](ChordENaturalMinorAddSharpNinth.md) | E, G, B, F## | ![Em(add(#9))](ChordENaturalMinorAddSharpNinthRootPosition.png) | [midi](ChordENaturalMinorAddSharpNinthRootPosition.mid) [ogg](ChordENaturalMinorAddSharpNinthRootPosition.ogg) |
-| 2320 | E | [EM](ChordENaturalMajor.md) | E, G#, B | ![EM](ChordENaturalMajorRootPosition.png) | [midi](ChordENaturalMajorRootPosition.mid) [ogg](ChordENaturalMajorRootPosition.ogg) |
-| 2448 | E | [EM(add(#9))](ChordENaturalMajorAddSharpNinth.md) | E, G#, B, F## | ![EM(add(#9))](ChordENaturalMajorAddSharpNinthRootPosition.png) | [midi](ChordENaturalMajorAddSharpNinthRootPosition.mid) [ogg](ChordENaturalMajorAddSharpNinthRootPosition.ogg) |
-| 145 | E | [Em#5](ChordENaturalMinorSharpFifth.md) | E, G, C | ![Em#5](ChordENaturalMinorSharpFifthRootPosition.png) | [midi](ChordENaturalMinorSharpFifthRootPosition.mid) [ogg](ChordENaturalMinorSharpFifthRootPosition.ogg) |
-| 273 | E | [E+](ChordENaturalAugmented.md) | E, G#, B# | ![E+](ChordENaturalAugmentedRootPosition.png) | [midi](ChordENaturalAugmentedRootPosition.mid) [ogg](ChordENaturalAugmentedRootPosition.ogg) |
-| 273 | E | [E+7](ChordENaturalAugmentedAugmentedSeventh.md) | E, G#, B#, D## | ![E+7](ChordENaturalAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordENaturalAugmentedAugmentedSeventhRootPosition.mid) [ogg](ChordENaturalAugmentedAugmentedSeventhRootPosition.ogg) |
-| 2200 | E | [Em(M7)](ChordENaturalMinorMajorSeventh.md) | E, G, B, D# | ![Em(M7)](ChordENaturalMinorMajorSeventhRootPosition.png) | [midi](ChordENaturalMinorMajorSeventhRootPosition.mid) [ogg](ChordENaturalMinorMajorSeventhRootPosition.ogg) |
-| 2328 | E | [EM7](ChordENaturalMajorSeventh.md) | E, G#, B, D# | ![EM7](ChordENaturalMajorSeventhRootPosition.png) | [midi](ChordENaturalMajorSeventhRootPosition.mid) [ogg](ChordENaturalMajorSeventhRootPosition.ogg) |
-| 281 | E | [E+(M7)](ChordENaturalAugmentedMajorSeventh.md) | E, G#, B#, D# | ![E+(M7)](ChordENaturalAugmentedMajorSeventhRootPosition.png) | [midi](ChordENaturalAugmentedMajorSeventhRootPosition.mid) [ogg](ChordENaturalAugmentedMajorSeventhRootPosition.ogg) |
+| 2064 | E | [E5](ChordENaturalPowerChord.md) | E, B | ![E5](ChordENaturalPowerChordRootPosition.png) | [midi](ChordENaturalPowerChordRootPosition.mid) |
+| 2192 | E | [Em](ChordENaturalMinor.md) | E, G, B | ![Em](ChordENaturalMinorRootPosition.png) | [midi](ChordENaturalMinorRootPosition.mid) |
+| 2192 | E | [Em(add(#9))](ChordENaturalMinorAddSharpNinth.md) | E, G, B, F## | ![Em(add(#9))](ChordENaturalMinorAddSharpNinthRootPosition.png) | [midi](ChordENaturalMinorAddSharpNinthRootPosition.mid) |
+| 2320 | E | [EM](ChordENaturalMajor.md) | E, G#, B | ![EM](ChordENaturalMajorRootPosition.png) | [midi](ChordENaturalMajorRootPosition.mid) |
+| 2448 | E | [EM(add(#9))](ChordENaturalMajorAddSharpNinth.md) | E, G#, B, F## | ![EM(add(#9))](ChordENaturalMajorAddSharpNinthRootPosition.png) | [midi](ChordENaturalMajorAddSharpNinthRootPosition.mid) |
+| 145 | E | [Em#5](ChordENaturalMinorSharpFifth.md) | E, G, C | ![Em#5](ChordENaturalMinorSharpFifthRootPosition.png) | [midi](ChordENaturalMinorSharpFifthRootPosition.mid) |
+| 273 | E | [E+](ChordENaturalAugmented.md) | E, G#, B# | ![E+](ChordENaturalAugmentedRootPosition.png) | [midi](ChordENaturalAugmentedRootPosition.mid) |
+| 273 | E | [E+7](ChordENaturalAugmentedAugmentedSeventh.md) | E, G#, B#, D## | ![E+7](ChordENaturalAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordENaturalAugmentedAugmentedSeventhRootPosition.mid) |
+| 2200 | E | [Em(M7)](ChordENaturalMinorMajorSeventh.md) | E, G, B, D# | ![Em(M7)](ChordENaturalMinorMajorSeventhRootPosition.png) | [midi](ChordENaturalMinorMajorSeventhRootPosition.mid) |
+| 2328 | E | [EM7](ChordENaturalMajorSeventh.md) | E, G#, B, D# | ![EM7](ChordENaturalMajorSeventhRootPosition.png) | [midi](ChordENaturalMajorSeventhRootPosition.mid) |
+| 281 | E | [E+(M7)](ChordENaturalAugmentedMajorSeventh.md) | E, G#, B#, D# | ![E+(M7)](ChordENaturalAugmentedMajorSeventhRootPosition.png) | [midi](ChordENaturalAugmentedMajorSeventhRootPosition.mid) |
 
 ### F##
 
@@ -109,17 +109,17 @@ C
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 264 | G# | [G#5](ChordGSharpPowerChord.md) | G#, D# | ![G#5](ChordGSharpPowerChordRootPosition.png) | [midi](ChordGSharpPowerChordRootPosition.mid) [ogg](ChordGSharpPowerChordRootPosition.ogg) |
-| 2312 | G# | [G#m](ChordGSharpMinor.md) | G#, B, D# | ![G#m](ChordGSharpMinorRootPosition.png) | [midi](ChordGSharpMinorRootPosition.mid) [ogg](ChordGSharpMinorRootPosition.ogg) |
-| 2312 | G# | [G#m(add(#9))](ChordGSharpMinorAddSharpNinth.md) | G#, B, D#, A## | ![G#m(add(#9))](ChordGSharpMinorAddSharpNinthRootPosition.png) | [midi](ChordGSharpMinorAddSharpNinthRootPosition.mid) [ogg](ChordGSharpMinorAddSharpNinthRootPosition.ogg) |
-| 265 | G# | [G#M](ChordGSharpMajor.md) | G#, B#, D# | ![G#M](ChordGSharpMajorRootPosition.png) | [midi](ChordGSharpMajorRootPosition.mid) [ogg](ChordGSharpMajorRootPosition.ogg) |
-| 2313 | G# | [G#M(add(#9))](ChordGSharpMajorAddSharpNinth.md) | G#, B#, D#, A## | ![G#M(add(#9))](ChordGSharpMajorAddSharpNinthRootPosition.png) | [midi](ChordGSharpMajorAddSharpNinthRootPosition.mid) [ogg](ChordGSharpMajorAddSharpNinthRootPosition.ogg) |
-| 2320 | G# | [G#m#5](ChordGSharpMinorSharpFifth.md) | G#, B, E | ![G#m#5](ChordGSharpMinorSharpFifthRootPosition.png) | [midi](ChordGSharpMinorSharpFifthRootPosition.mid) [ogg](ChordGSharpMinorSharpFifthRootPosition.ogg) |
-| 273 | G# | [G#+](ChordGSharpAugmented.md) | G#, B#, D## | ![G#+](ChordGSharpAugmentedRootPosition.png) | [midi](ChordGSharpAugmentedRootPosition.mid) [ogg](ChordGSharpAugmentedRootPosition.ogg) |
-| 273 | G# | [G#+7](ChordGSharpAugmentedAugmentedSeventh.md) | G#, B#, D##, F### | ![G#+7](ChordGSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordGSharpAugmentedAugmentedSeventhRootPosition.mid) [ogg](ChordGSharpAugmentedAugmentedSeventhRootPosition.ogg) |
-| 2440 | G# | [G#m(M7)](ChordGSharpMinorMajorSeventh.md) | G#, B, D#, F## | ![G#m(M7)](ChordGSharpMinorMajorSeventhRootPosition.png) | [midi](ChordGSharpMinorMajorSeventhRootPosition.mid) [ogg](ChordGSharpMinorMajorSeventhRootPosition.ogg) |
-| 393 | G# | [G#M7](ChordGSharpMajorSeventh.md) | G#, B#, D#, F## | ![G#M7](ChordGSharpMajorSeventhRootPosition.png) | [midi](ChordGSharpMajorSeventhRootPosition.mid) [ogg](ChordGSharpMajorSeventhRootPosition.ogg) |
-| 401 | G# | [G#+(M7)](ChordGSharpAugmentedMajorSeventh.md) | G#, B#, D##, F## | ![G#+(M7)](ChordGSharpAugmentedMajorSeventhRootPosition.png) | [midi](ChordGSharpAugmentedMajorSeventhRootPosition.mid) [ogg](ChordGSharpAugmentedMajorSeventhRootPosition.ogg) |
+| 264 | G# | [G#5](ChordGSharpPowerChord.md) | G#, D# | ![G#5](ChordGSharpPowerChordRootPosition.png) | [midi](ChordGSharpPowerChordRootPosition.mid) |
+| 2312 | G# | [G#m](ChordGSharpMinor.md) | G#, B, D# | ![G#m](ChordGSharpMinorRootPosition.png) | [midi](ChordGSharpMinorRootPosition.mid) |
+| 2312 | G# | [G#m(add(#9))](ChordGSharpMinorAddSharpNinth.md) | G#, B, D#, A## | ![G#m(add(#9))](ChordGSharpMinorAddSharpNinthRootPosition.png) | [midi](ChordGSharpMinorAddSharpNinthRootPosition.mid) |
+| 265 | G# | [G#M](ChordGSharpMajor.md) | G#, B#, D# | ![G#M](ChordGSharpMajorRootPosition.png) | [midi](ChordGSharpMajorRootPosition.mid) |
+| 2313 | G# | [G#M(add(#9))](ChordGSharpMajorAddSharpNinth.md) | G#, B#, D#, A## | ![G#M(add(#9))](ChordGSharpMajorAddSharpNinthRootPosition.png) | [midi](ChordGSharpMajorAddSharpNinthRootPosition.mid) |
+| 2320 | G# | [G#m#5](ChordGSharpMinorSharpFifth.md) | G#, B, E | ![G#m#5](ChordGSharpMinorSharpFifthRootPosition.png) | [midi](ChordGSharpMinorSharpFifthRootPosition.mid) |
+| 273 | G# | [G#+](ChordGSharpAugmented.md) | G#, B#, D## | ![G#+](ChordGSharpAugmentedRootPosition.png) | [midi](ChordGSharpAugmentedRootPosition.mid) |
+| 273 | G# | [G#+7](ChordGSharpAugmentedAugmentedSeventh.md) | G#, B#, D##, F### | ![G#+7](ChordGSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordGSharpAugmentedAugmentedSeventhRootPosition.mid) |
+| 2440 | G# | [G#m(M7)](ChordGSharpMinorMajorSeventh.md) | G#, B, D#, F## | ![G#m(M7)](ChordGSharpMinorMajorSeventhRootPosition.png) | [midi](ChordGSharpMinorMajorSeventhRootPosition.mid) |
+| 393 | G# | [G#M7](ChordGSharpMajorSeventh.md) | G#, B#, D#, F## | ![G#M7](ChordGSharpMajorSeventhRootPosition.png) | [midi](ChordGSharpMajorSeventhRootPosition.mid) |
+| 401 | G# | [G#+(M7)](ChordGSharpAugmentedMajorSeventh.md) | G#, B#, D##, F## | ![G#+(M7)](ChordGSharpAugmentedMajorSeventhRootPosition.png) | [midi](ChordGSharpAugmentedMajorSeventhRootPosition.mid) |
 
 ### A##
 

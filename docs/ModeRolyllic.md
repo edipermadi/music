@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalRolyllic.md) | C, C#, **D**, D#, **E**, G, G#, **A#**, C | C | ![CNaturalRolyllic](ModeCNaturalRolyllic.png) | [midi](ModeCNaturalRolyllic.mid) [ogg](ModeCNaturalRolyllic.ogg) |
-| [C#](ModeCSharpRolyllic.md) | C#, D, **D#**, E, **F**, G#, A, **B**, C# | C | ![CSharpRolyllic](ModeCSharpRolyllic.png) | [midi](ModeCSharpRolyllic.mid) [ogg](ModeCSharpRolyllic.ogg) |
-| [Db](ModeDFlatRolyllic.md) | Db, D, **Eb**, E, **F**, Ab, A, **B**, Db | C | ![DFlatRolyllic](ModeDFlatRolyllic.png) | [midi](ModeDFlatRolyllic.mid) [ogg](ModeDFlatRolyllic.ogg) |
-| [D](ModeDNaturalRolyllic.md) | D, D#, **E**, F, **F#**, A, A#, **C**, D | C | ![DNaturalRolyllic](ModeDNaturalRolyllic.png) | [midi](ModeDNaturalRolyllic.mid) [ogg](ModeDNaturalRolyllic.ogg) |
-| [D#](ModeDSharpRolyllic.md) | D#, E, **F**, F#, **G**, A#, B, **C#**, D# | C | ![DSharpRolyllic](ModeDSharpRolyllic.png) | [midi](ModeDSharpRolyllic.mid) [ogg](ModeDSharpRolyllic.ogg) |
-| [Eb](ModeEFlatRolyllic.md) | Eb, E, **F**, Gb, **G**, Bb, B, **Db**, Eb | C | ![EFlatRolyllic](ModeEFlatRolyllic.png) | [midi](ModeEFlatRolyllic.mid) [ogg](ModeEFlatRolyllic.ogg) |
-| [E](ModeENaturalRolyllic.md) | E, F, **F#**, G, **G#**, B, C, **D**, E | C | ![ENaturalRolyllic](ModeENaturalRolyllic.png) | [midi](ModeENaturalRolyllic.mid) [ogg](ModeENaturalRolyllic.ogg) |
-| [F](ModeFNaturalRolyllic.md) | F, F#, **G**, G#, **A**, C, C#, **D#**, F | C | ![FNaturalRolyllic](ModeFNaturalRolyllic.png) | [midi](ModeFNaturalRolyllic.mid) [ogg](ModeFNaturalRolyllic.ogg) |
-| [F#](ModeFSharpRolyllic.md) | F#, G, **G#**, A, **A#**, C#, D, **E**, F# | C | ![FSharpRolyllic](ModeFSharpRolyllic.png) | [midi](ModeFSharpRolyllic.mid) [ogg](ModeFSharpRolyllic.ogg) |
-| [Gb](ModeGFlatRolyllic.md) | Gb, G, **Ab**, A, **Bb**, Db, D, **E**, Gb | C | ![GFlatRolyllic](ModeGFlatRolyllic.png) | [midi](ModeGFlatRolyllic.mid) [ogg](ModeGFlatRolyllic.ogg) |
-| [G](ModeGNaturalRolyllic.md) | G, G#, **A**, A#, **B**, D, D#, **F**, G | C | ![GNaturalRolyllic](ModeGNaturalRolyllic.png) | [midi](ModeGNaturalRolyllic.mid) [ogg](ModeGNaturalRolyllic.ogg) |
-| [G#](ModeGSharpRolyllic.md) | G#, A, **A#**, B, **C**, D#, E, **F#**, G# | C | ![GSharpRolyllic](ModeGSharpRolyllic.png) | [midi](ModeGSharpRolyllic.mid) [ogg](ModeGSharpRolyllic.ogg) |
-| [Ab](ModeAFlatRolyllic.md) | Ab, A, **Bb**, B, **C**, Eb, E, **Gb**, Ab | C | ![AFlatRolyllic](ModeAFlatRolyllic.png) | [midi](ModeAFlatRolyllic.mid) [ogg](ModeAFlatRolyllic.ogg) |
-| [A](ModeANaturalRolyllic.md) | A, A#, **B**, C, **C#**, E, F, **G**, A | C | ![ANaturalRolyllic](ModeANaturalRolyllic.png) | [midi](ModeANaturalRolyllic.mid) [ogg](ModeANaturalRolyllic.ogg) |
-| [A#](ModeASharpRolyllic.md) | A#, B, **C**, C#, **D**, F, F#, **G#**, A# | C | ![ASharpRolyllic](ModeASharpRolyllic.png) | [midi](ModeASharpRolyllic.mid) [ogg](ModeASharpRolyllic.ogg) |
-| [Bb](ModeBFlatRolyllic.md) | Bb, B, **C**, Db, **D**, F, Gb, **Ab**, Bb | C | ![BFlatRolyllic](ModeBFlatRolyllic.png) | [midi](ModeBFlatRolyllic.mid) [ogg](ModeBFlatRolyllic.ogg) |
-| [B](ModeBNaturalRolyllic.md) | B, C, **C#**, D, **D#**, F#, G, **A**, B | C | ![BNaturalRolyllic](ModeBNaturalRolyllic.png) | [midi](ModeBNaturalRolyllic.mid) [ogg](ModeBNaturalRolyllic.ogg) |
+| [C](ModeCNaturalRolyllic.md) | C, C#, **D**, D#, **E**, G, G#, **A#**, C | C | ![CNaturalRolyllic](ModeCNaturalRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalRolyllic.mid?raw=true) |
+| [C#](ModeCSharpRolyllic.md) | C#, D, **D#**, E, **F**, G#, A, **B**, C# | C | ![CSharpRolyllic](ModeCSharpRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpRolyllic.mid?raw=true) |
+| [Db](ModeDFlatRolyllic.md) | Db, D, **Eb**, E, **F**, Ab, A, **B**, Db | C | ![DFlatRolyllic](ModeDFlatRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatRolyllic.mid?raw=true) |
+| [D](ModeDNaturalRolyllic.md) | D, D#, **E**, F, **F#**, A, A#, **C**, D | C | ![DNaturalRolyllic](ModeDNaturalRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalRolyllic.mid?raw=true) |
+| [D#](ModeDSharpRolyllic.md) | D#, E, **F**, F#, **G**, A#, B, **C#**, D# | C | ![DSharpRolyllic](ModeDSharpRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpRolyllic.mid?raw=true) |
+| [Eb](ModeEFlatRolyllic.md) | Eb, E, **F**, Gb, **G**, Bb, B, **Db**, Eb | C | ![EFlatRolyllic](ModeEFlatRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatRolyllic.mid?raw=true) |
+| [E](ModeENaturalRolyllic.md) | E, F, **F#**, G, **G#**, B, C, **D**, E | C | ![ENaturalRolyllic](ModeENaturalRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalRolyllic.mid?raw=true) |
+| [F](ModeFNaturalRolyllic.md) | F, F#, **G**, G#, **A**, C, C#, **D#**, F | C | ![FNaturalRolyllic](ModeFNaturalRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalRolyllic.mid?raw=true) |
+| [F#](ModeFSharpRolyllic.md) | F#, G, **G#**, A, **A#**, C#, D, **E**, F# | C | ![FSharpRolyllic](ModeFSharpRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpRolyllic.mid?raw=true) |
+| [Gb](ModeGFlatRolyllic.md) | Gb, G, **Ab**, A, **Bb**, Db, D, **E**, Gb | C | ![GFlatRolyllic](ModeGFlatRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatRolyllic.mid?raw=true) |
+| [G](ModeGNaturalRolyllic.md) | G, G#, **A**, A#, **B**, D, D#, **F**, G | C | ![GNaturalRolyllic](ModeGNaturalRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalRolyllic.mid?raw=true) |
+| [G#](ModeGSharpRolyllic.md) | G#, A, **A#**, B, **C**, D#, E, **F#**, G# | C | ![GSharpRolyllic](ModeGSharpRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpRolyllic.mid?raw=true) |
+| [Ab](ModeAFlatRolyllic.md) | Ab, A, **Bb**, B, **C**, Eb, E, **Gb**, Ab | C | ![AFlatRolyllic](ModeAFlatRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatRolyllic.mid?raw=true) |
+| [A](ModeANaturalRolyllic.md) | A, A#, **B**, C, **C#**, E, F, **G**, A | C | ![ANaturalRolyllic](ModeANaturalRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalRolyllic.mid?raw=true) |
+| [A#](ModeASharpRolyllic.md) | A#, B, **C**, C#, **D**, F, F#, **G#**, A# | C | ![ASharpRolyllic](ModeASharpRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpRolyllic.mid?raw=true) |
+| [Bb](ModeBFlatRolyllic.md) | Bb, B, **C**, Db, **D**, F, Gb, **Ab**, Bb | C | ![BFlatRolyllic](ModeBFlatRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatRolyllic.mid?raw=true) |
+| [B](ModeBNaturalRolyllic.md) | B, C, **C#**, D, **D#**, F#, G, **A**, B | C | ![BNaturalRolyllic](ModeBNaturalRolyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalRolyllic.mid?raw=true) |

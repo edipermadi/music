@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalZygyllic.md) | C, C#, **D**, F, F#, G, **G#**, B, C | C | ![CNaturalZygyllic](ModeCNaturalZygyllic.png) | [midi](ModeCNaturalZygyllic.mid) [ogg](ModeCNaturalZygyllic.ogg) |
-| [C#](ModeCSharpZygyllic.md) | C#, D, **D#**, F#, G, G#, **A**, C, C# | C | ![CSharpZygyllic](ModeCSharpZygyllic.png) | [midi](ModeCSharpZygyllic.mid) [ogg](ModeCSharpZygyllic.ogg) |
-| [Db](ModeDFlatZygyllic.md) | Db, D, **Eb**, Gb, G, Ab, **A**, C, Db | C | ![DFlatZygyllic](ModeDFlatZygyllic.png) | [midi](ModeDFlatZygyllic.mid) [ogg](ModeDFlatZygyllic.ogg) |
-| [D](ModeDNaturalZygyllic.md) | D, D#, **E**, G, G#, A, **A#**, C#, D | C | ![DNaturalZygyllic](ModeDNaturalZygyllic.png) | [midi](ModeDNaturalZygyllic.mid) [ogg](ModeDNaturalZygyllic.ogg) |
-| [D#](ModeDSharpZygyllic.md) | D#, E, **F**, G#, A, A#, **B**, D, D# | C | ![DSharpZygyllic](ModeDSharpZygyllic.png) | [midi](ModeDSharpZygyllic.mid) [ogg](ModeDSharpZygyllic.ogg) |
-| [Eb](ModeEFlatZygyllic.md) | Eb, E, **F**, Ab, A, Bb, **B**, D, Eb | C | ![EFlatZygyllic](ModeEFlatZygyllic.png) | [midi](ModeEFlatZygyllic.mid) [ogg](ModeEFlatZygyllic.ogg) |
-| [E](ModeENaturalZygyllic.md) | E, F, **F#**, A, A#, B, **C**, D#, E | C | ![ENaturalZygyllic](ModeENaturalZygyllic.png) | [midi](ModeENaturalZygyllic.mid) [ogg](ModeENaturalZygyllic.ogg) |
-| [F](ModeFNaturalZygyllic.md) | F, F#, **G**, A#, B, C, **C#**, E, F | C | ![FNaturalZygyllic](ModeFNaturalZygyllic.png) | [midi](ModeFNaturalZygyllic.mid) [ogg](ModeFNaturalZygyllic.ogg) |
-| [F#](ModeFSharpZygyllic.md) | F#, G, **G#**, B, C, C#, **D**, F, F# | C | ![FSharpZygyllic](ModeFSharpZygyllic.png) | [midi](ModeFSharpZygyllic.mid) [ogg](ModeFSharpZygyllic.ogg) |
-| [Gb](ModeGFlatZygyllic.md) | Gb, G, **Ab**, B, C, Db, **D**, F, Gb | C | ![GFlatZygyllic](ModeGFlatZygyllic.png) | [midi](ModeGFlatZygyllic.mid) [ogg](ModeGFlatZygyllic.ogg) |
-| [G](ModeGNaturalZygyllic.md) | G, G#, **A**, C, C#, D, **D#**, F#, G | C | ![GNaturalZygyllic](ModeGNaturalZygyllic.png) | [midi](ModeGNaturalZygyllic.mid) [ogg](ModeGNaturalZygyllic.ogg) |
-| [G#](ModeGSharpZygyllic.md) | G#, A, **A#**, C#, D, D#, **E**, G, G# | C | ![GSharpZygyllic](ModeGSharpZygyllic.png) | [midi](ModeGSharpZygyllic.mid) [ogg](ModeGSharpZygyllic.ogg) |
-| [Ab](ModeAFlatZygyllic.md) | Ab, A, **Bb**, Db, D, Eb, **E**, G, Ab | C | ![AFlatZygyllic](ModeAFlatZygyllic.png) | [midi](ModeAFlatZygyllic.mid) [ogg](ModeAFlatZygyllic.ogg) |
-| [A](ModeANaturalZygyllic.md) | A, A#, **B**, D, D#, E, **F**, G#, A | C | ![ANaturalZygyllic](ModeANaturalZygyllic.png) | [midi](ModeANaturalZygyllic.mid) [ogg](ModeANaturalZygyllic.ogg) |
-| [A#](ModeASharpZygyllic.md) | A#, B, **C**, D#, E, F, **F#**, A, A# | C | ![ASharpZygyllic](ModeASharpZygyllic.png) | [midi](ModeASharpZygyllic.mid) [ogg](ModeASharpZygyllic.ogg) |
-| [Bb](ModeBFlatZygyllic.md) | Bb, B, **C**, Eb, E, F, **Gb**, A, Bb | C | ![BFlatZygyllic](ModeBFlatZygyllic.png) | [midi](ModeBFlatZygyllic.mid) [ogg](ModeBFlatZygyllic.ogg) |
-| [B](ModeBNaturalZygyllic.md) | B, C, **C#**, E, F, F#, **G**, A#, B | C | ![BNaturalZygyllic](ModeBNaturalZygyllic.png) | [midi](ModeBNaturalZygyllic.mid) [ogg](ModeBNaturalZygyllic.ogg) |
+| [C](ModeCNaturalZygyllic.md) | C, C#, **D**, F, F#, G, **G#**, B, C | C | ![CNaturalZygyllic](ModeCNaturalZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalZygyllic.mid?raw=true) |
+| [C#](ModeCSharpZygyllic.md) | C#, D, **D#**, F#, G, G#, **A**, C, C# | C | ![CSharpZygyllic](ModeCSharpZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpZygyllic.mid?raw=true) |
+| [Db](ModeDFlatZygyllic.md) | Db, D, **Eb**, Gb, G, Ab, **A**, C, Db | C | ![DFlatZygyllic](ModeDFlatZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatZygyllic.mid?raw=true) |
+| [D](ModeDNaturalZygyllic.md) | D, D#, **E**, G, G#, A, **A#**, C#, D | C | ![DNaturalZygyllic](ModeDNaturalZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalZygyllic.mid?raw=true) |
+| [D#](ModeDSharpZygyllic.md) | D#, E, **F**, G#, A, A#, **B**, D, D# | C | ![DSharpZygyllic](ModeDSharpZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpZygyllic.mid?raw=true) |
+| [Eb](ModeEFlatZygyllic.md) | Eb, E, **F**, Ab, A, Bb, **B**, D, Eb | C | ![EFlatZygyllic](ModeEFlatZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatZygyllic.mid?raw=true) |
+| [E](ModeENaturalZygyllic.md) | E, F, **F#**, A, A#, B, **C**, D#, E | C | ![ENaturalZygyllic](ModeENaturalZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalZygyllic.mid?raw=true) |
+| [F](ModeFNaturalZygyllic.md) | F, F#, **G**, A#, B, C, **C#**, E, F | C | ![FNaturalZygyllic](ModeFNaturalZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalZygyllic.mid?raw=true) |
+| [F#](ModeFSharpZygyllic.md) | F#, G, **G#**, B, C, C#, **D**, F, F# | C | ![FSharpZygyllic](ModeFSharpZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpZygyllic.mid?raw=true) |
+| [Gb](ModeGFlatZygyllic.md) | Gb, G, **Ab**, B, C, Db, **D**, F, Gb | C | ![GFlatZygyllic](ModeGFlatZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatZygyllic.mid?raw=true) |
+| [G](ModeGNaturalZygyllic.md) | G, G#, **A**, C, C#, D, **D#**, F#, G | C | ![GNaturalZygyllic](ModeGNaturalZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalZygyllic.mid?raw=true) |
+| [G#](ModeGSharpZygyllic.md) | G#, A, **A#**, C#, D, D#, **E**, G, G# | C | ![GSharpZygyllic](ModeGSharpZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpZygyllic.mid?raw=true) |
+| [Ab](ModeAFlatZygyllic.md) | Ab, A, **Bb**, Db, D, Eb, **E**, G, Ab | C | ![AFlatZygyllic](ModeAFlatZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatZygyllic.mid?raw=true) |
+| [A](ModeANaturalZygyllic.md) | A, A#, **B**, D, D#, E, **F**, G#, A | C | ![ANaturalZygyllic](ModeANaturalZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalZygyllic.mid?raw=true) |
+| [A#](ModeASharpZygyllic.md) | A#, B, **C**, D#, E, F, **F#**, A, A# | C | ![ASharpZygyllic](ModeASharpZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpZygyllic.mid?raw=true) |
+| [Bb](ModeBFlatZygyllic.md) | Bb, B, **C**, Eb, E, F, **Gb**, A, Bb | C | ![BFlatZygyllic](ModeBFlatZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatZygyllic.mid?raw=true) |
+| [B](ModeBNaturalZygyllic.md) | B, C, **C#**, E, F, F#, **G**, A#, B | C | ![BNaturalZygyllic](ModeBNaturalZygyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalZygyllic.mid?raw=true) |

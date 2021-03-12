@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalPylimic.md) | **C**, **D#**, E, F, G##, **A##**, **C** | C | ![CNaturalPylimic](ModeCNaturalPylimic.png) | [midi](ModeCNaturalPylimic.mid) [ogg](ModeCNaturalPylimic.ogg) |
-| [C#](ModeCSharpPylimic.md) | **C#**, **D##**, E#, F#, G###, **A###**, **C#** | C | ![CSharpPylimic](ModeCSharpPylimic.png) | [midi](ModeCSharpPylimic.mid) [ogg](ModeCSharpPylimic.ogg) |
-| [Db](ModeDFlatPylimic.md) | **Db**, **E**, F, Gb, A#, **B#**, **Db** | C | ![DFlatPylimic](ModeDFlatPylimic.png) | [midi](ModeDFlatPylimic.mid) [ogg](ModeDFlatPylimic.ogg) |
-| [D](ModeDNaturalPylimic.md) | **D**, **E#**, F#, G, A##, **B##**, **D** | C | ![DNaturalPylimic](ModeDNaturalPylimic.png) | [midi](ModeDNaturalPylimic.mid) [ogg](ModeDNaturalPylimic.ogg) |
-| [D#](ModeDSharpPylimic.md) | **D#**, **E##**, F##, G#, A###, **B###**, **D#** | C | ![DSharpPylimic](ModeDSharpPylimic.png) | [midi](ModeDSharpPylimic.mid) [ogg](ModeDSharpPylimic.ogg) |
-| [Eb](ModeEFlatPylimic.md) | **Eb**, **F#**, G, Ab, B#, **C##**, **Eb** | C | ![EFlatPylimic](ModeEFlatPylimic.png) | [midi](ModeEFlatPylimic.mid) [ogg](ModeEFlatPylimic.ogg) |
-| [E](ModeENaturalPylimic.md) | **E**, **F##**, G#, A, B##, **C###**, **E** | C | ![ENaturalPylimic](ModeENaturalPylimic.png) | [midi](ModeENaturalPylimic.mid) [ogg](ModeENaturalPylimic.ogg) |
-| [F](ModeFNaturalPylimic.md) | **F**, **G#**, A, Bb, C##, **D##**, **F** | C | ![FNaturalPylimic](ModeFNaturalPylimic.png) | [midi](ModeFNaturalPylimic.mid) [ogg](ModeFNaturalPylimic.ogg) |
-| [F#](ModeFSharpPylimic.md) | **F#**, **G##**, A#, B, C###, **D###**, **F#** | C | ![FSharpPylimic](ModeFSharpPylimic.png) | [midi](ModeFSharpPylimic.mid) [ogg](ModeFSharpPylimic.ogg) |
-| [Gb](ModeGFlatPylimic.md) | **Gb**, **A**, Bb, Cb, D#, **E#**, **Gb** | C | ![GFlatPylimic](ModeGFlatPylimic.png) | [midi](ModeGFlatPylimic.mid) [ogg](ModeGFlatPylimic.ogg) |
-| [G](ModeGNaturalPylimic.md) | **G**, **A#**, B, C, D##, **E##**, **G** | C | ![GNaturalPylimic](ModeGNaturalPylimic.png) | [midi](ModeGNaturalPylimic.mid) [ogg](ModeGNaturalPylimic.ogg) |
-| [G#](ModeGSharpPylimic.md) | **G#**, **A##**, B#, C#, D###, **E###**, **G#** | C | ![GSharpPylimic](ModeGSharpPylimic.png) | [midi](ModeGSharpPylimic.mid) [ogg](ModeGSharpPylimic.ogg) |
-| [Ab](ModeAFlatPylimic.md) | **Ab**, **B**, C, Db, E#, **F##**, **Ab** | C | ![AFlatPylimic](ModeAFlatPylimic.png) | [midi](ModeAFlatPylimic.mid) [ogg](ModeAFlatPylimic.ogg) |
-| [A](ModeANaturalPylimic.md) | **A**, **B#**, C#, D, E##, **F###**, **A** | C | ![ANaturalPylimic](ModeANaturalPylimic.png) | [midi](ModeANaturalPylimic.mid) [ogg](ModeANaturalPylimic.ogg) |
-| [A#](ModeASharpPylimic.md) | **A#**, **B##**, C##, D#, E###, **Cbbb**, **A#** | C | ![ASharpPylimic](ModeASharpPylimic.png) | [midi](ModeASharpPylimic.mid) [ogg](ModeASharpPylimic.ogg) |
-| [Bb](ModeBFlatPylimic.md) | **Bb**, **C#**, D, Eb, F##, **G##**, **Bb** | C | ![BFlatPylimic](ModeBFlatPylimic.png) | [midi](ModeBFlatPylimic.mid) [ogg](ModeBFlatPylimic.ogg) |
-| [B](ModeBNaturalPylimic.md) | **B**, **C##**, D#, E, F###, **G###**, **B** | C | ![BNaturalPylimic](ModeBNaturalPylimic.png) | [midi](ModeBNaturalPylimic.mid) [ogg](ModeBNaturalPylimic.ogg) |
+| [C](ModeCNaturalPylimic.md) | **C**, **D#**, E, F, G##, **A##**, **C** | C | ![CNaturalPylimic](ModeCNaturalPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPylimic.mid?raw=true) |
+| [C#](ModeCSharpPylimic.md) | **C#**, **D##**, E#, F#, G###, **A###**, **C#** | C | ![CSharpPylimic](ModeCSharpPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpPylimic.mid?raw=true) |
+| [Db](ModeDFlatPylimic.md) | **Db**, **E**, F, Gb, A#, **B#**, **Db** | C | ![DFlatPylimic](ModeDFlatPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatPylimic.mid?raw=true) |
+| [D](ModeDNaturalPylimic.md) | **D**, **E#**, F#, G, A##, **B##**, **D** | C | ![DNaturalPylimic](ModeDNaturalPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalPylimic.mid?raw=true) |
+| [D#](ModeDSharpPylimic.md) | **D#**, **E##**, F##, G#, A###, **B###**, **D#** | C | ![DSharpPylimic](ModeDSharpPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpPylimic.mid?raw=true) |
+| [Eb](ModeEFlatPylimic.md) | **Eb**, **F#**, G, Ab, B#, **C##**, **Eb** | C | ![EFlatPylimic](ModeEFlatPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatPylimic.mid?raw=true) |
+| [E](ModeENaturalPylimic.md) | **E**, **F##**, G#, A, B##, **C###**, **E** | C | ![ENaturalPylimic](ModeENaturalPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalPylimic.mid?raw=true) |
+| [F](ModeFNaturalPylimic.md) | **F**, **G#**, A, Bb, C##, **D##**, **F** | C | ![FNaturalPylimic](ModeFNaturalPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalPylimic.mid?raw=true) |
+| [F#](ModeFSharpPylimic.md) | **F#**, **G##**, A#, B, C###, **D###**, **F#** | C | ![FSharpPylimic](ModeFSharpPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpPylimic.mid?raw=true) |
+| [Gb](ModeGFlatPylimic.md) | **Gb**, **A**, Bb, Cb, D#, **E#**, **Gb** | C | ![GFlatPylimic](ModeGFlatPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatPylimic.mid?raw=true) |
+| [G](ModeGNaturalPylimic.md) | **G**, **A#**, B, C, D##, **E##**, **G** | C | ![GNaturalPylimic](ModeGNaturalPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalPylimic.mid?raw=true) |
+| [G#](ModeGSharpPylimic.md) | **G#**, **A##**, B#, C#, D###, **E###**, **G#** | C | ![GSharpPylimic](ModeGSharpPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpPylimic.mid?raw=true) |
+| [Ab](ModeAFlatPylimic.md) | **Ab**, **B**, C, Db, E#, **F##**, **Ab** | C | ![AFlatPylimic](ModeAFlatPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatPylimic.mid?raw=true) |
+| [A](ModeANaturalPylimic.md) | **A**, **B#**, C#, D, E##, **F###**, **A** | C | ![ANaturalPylimic](ModeANaturalPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalPylimic.mid?raw=true) |
+| [A#](ModeASharpPylimic.md) | **A#**, **B##**, C##, D#, E###, **Cbbb**, **A#** | C | ![ASharpPylimic](ModeASharpPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpPylimic.mid?raw=true) |
+| [Bb](ModeBFlatPylimic.md) | **Bb**, **C#**, D, Eb, F##, **G##**, **Bb** | C | ![BFlatPylimic](ModeBFlatPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatPylimic.mid?raw=true) |
+| [B](ModeBNaturalPylimic.md) | **B**, **C##**, D#, E, F###, **G###**, **B** | C | ![BNaturalPylimic](ModeBNaturalPylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalPylimic.mid?raw=true) |

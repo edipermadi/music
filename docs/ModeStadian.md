@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalStadian.md) | C, **Db**, Eb, F, Gb, **Abb**, Bb, C | C | ![CNaturalStadian](ModeCNaturalStadian.png) | [midi](ModeCNaturalStadian.mid) [ogg](ModeCNaturalStadian.ogg) |
-| [C#](ModeCSharpStadian.md) | C#, **D**, E, F#, G, **Ab**, B, C# | C | ![CSharpStadian](ModeCSharpStadian.png) | [midi](ModeCSharpStadian.mid) [ogg](ModeCSharpStadian.ogg) |
-| [Db](ModeDFlatStadian.md) | Db, **Ebb**, Fb, Gb, Abb, **Bbbb**, Cb, Db | C | ![DFlatStadian](ModeDFlatStadian.png) | [midi](ModeDFlatStadian.mid) [ogg](ModeDFlatStadian.ogg) |
-| [D](ModeDNaturalStadian.md) | D, **Eb**, F, G, Ab, **Bbb**, C, D | C | ![DNaturalStadian](ModeDNaturalStadian.png) | [midi](ModeDNaturalStadian.mid) [ogg](ModeDNaturalStadian.ogg) |
-| [D#](ModeDSharpStadian.md) | D#, **E**, F#, G#, A, **Bb**, C#, D# | C | ![DSharpStadian](ModeDSharpStadian.png) | [midi](ModeDSharpStadian.mid) [ogg](ModeDSharpStadian.ogg) |
-| [Eb](ModeEFlatStadian.md) | Eb, **Fb**, Gb, Ab, Bbb, **Cbb**, Db, Eb | C | ![EFlatStadian](ModeEFlatStadian.png) | [midi](ModeEFlatStadian.mid) [ogg](ModeEFlatStadian.ogg) |
-| [E](ModeENaturalStadian.md) | E, **F**, G, A, Bb, **Cb**, D, E | C | ![ENaturalStadian](ModeENaturalStadian.png) | [midi](ModeENaturalStadian.mid) [ogg](ModeENaturalStadian.ogg) |
-| [F](ModeFNaturalStadian.md) | F, **Gb**, Ab, Bb, Cb, **Dbb**, Eb, F | C | ![FNaturalStadian](ModeFNaturalStadian.png) | [midi](ModeFNaturalStadian.mid) [ogg](ModeFNaturalStadian.ogg) |
-| [F#](ModeFSharpStadian.md) | F#, **G**, A, B, C, **Db**, E, F# | C | ![FSharpStadian](ModeFSharpStadian.png) | [midi](ModeFSharpStadian.mid) [ogg](ModeFSharpStadian.ogg) |
-| [Gb](ModeGFlatStadian.md) | Gb, **Abb**, Bbb, Cb, Dbb, **Ebbb**, Fb, Gb | C | ![GFlatStadian](ModeGFlatStadian.png) | [midi](ModeGFlatStadian.mid) [ogg](ModeGFlatStadian.ogg) |
-| [G](ModeGNaturalStadian.md) | G, **Ab**, Bb, C, Db, **Ebb**, F, G | C | ![GNaturalStadian](ModeGNaturalStadian.png) | [midi](ModeGNaturalStadian.mid) [ogg](ModeGNaturalStadian.ogg) |
-| [G#](ModeGSharpStadian.md) | G#, **A**, B, C#, D, **Eb**, F#, G# | C | ![GSharpStadian](ModeGSharpStadian.png) | [midi](ModeGSharpStadian.mid) [ogg](ModeGSharpStadian.ogg) |
-| [Ab](ModeAFlatStadian.md) | Ab, **Bbb**, Cb, Db, Ebb, **Fbb**, Gb, Ab | C | ![AFlatStadian](ModeAFlatStadian.png) | [midi](ModeAFlatStadian.mid) [ogg](ModeAFlatStadian.ogg) |
-| [A](ModeANaturalStadian.md) | A, **Bb**, C, D, Eb, **Fb**, G, A | C | ![ANaturalStadian](ModeANaturalStadian.png) | [midi](ModeANaturalStadian.mid) [ogg](ModeANaturalStadian.ogg) |
-| [A#](ModeASharpStadian.md) | A#, **B**, C#, D#, E, **F**, G#, A# | C | ![ASharpStadian](ModeASharpStadian.png) | [midi](ModeASharpStadian.mid) [ogg](ModeASharpStadian.ogg) |
-| [Bb](ModeBFlatStadian.md) | Bb, **Cb**, Db, Eb, Fb, **Gbb**, Ab, Bb | C | ![BFlatStadian](ModeBFlatStadian.png) | [midi](ModeBFlatStadian.mid) [ogg](ModeBFlatStadian.ogg) |
-| [B](ModeBNaturalStadian.md) | B, **C**, D, E, F, **Gb**, A, B | C | ![BNaturalStadian](ModeBNaturalStadian.png) | [midi](ModeBNaturalStadian.mid) [ogg](ModeBNaturalStadian.ogg) |
+| [C](ModeCNaturalStadian.md) | C, **Db**, Eb, F, Gb, **Abb**, Bb, C | C | ![CNaturalStadian](ModeCNaturalStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalStadian.mid?raw=true) |
+| [C#](ModeCSharpStadian.md) | C#, **D**, E, F#, G, **Ab**, B, C# | C | ![CSharpStadian](ModeCSharpStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpStadian.mid?raw=true) |
+| [Db](ModeDFlatStadian.md) | Db, **Ebb**, Fb, Gb, Abb, **Bbbb**, Cb, Db | C | ![DFlatStadian](ModeDFlatStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatStadian.mid?raw=true) |
+| [D](ModeDNaturalStadian.md) | D, **Eb**, F, G, Ab, **Bbb**, C, D | C | ![DNaturalStadian](ModeDNaturalStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalStadian.mid?raw=true) |
+| [D#](ModeDSharpStadian.md) | D#, **E**, F#, G#, A, **Bb**, C#, D# | C | ![DSharpStadian](ModeDSharpStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpStadian.mid?raw=true) |
+| [Eb](ModeEFlatStadian.md) | Eb, **Fb**, Gb, Ab, Bbb, **Cbb**, Db, Eb | C | ![EFlatStadian](ModeEFlatStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatStadian.mid?raw=true) |
+| [E](ModeENaturalStadian.md) | E, **F**, G, A, Bb, **Cb**, D, E | C | ![ENaturalStadian](ModeENaturalStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalStadian.mid?raw=true) |
+| [F](ModeFNaturalStadian.md) | F, **Gb**, Ab, Bb, Cb, **Dbb**, Eb, F | C | ![FNaturalStadian](ModeFNaturalStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalStadian.mid?raw=true) |
+| [F#](ModeFSharpStadian.md) | F#, **G**, A, B, C, **Db**, E, F# | C | ![FSharpStadian](ModeFSharpStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpStadian.mid?raw=true) |
+| [Gb](ModeGFlatStadian.md) | Gb, **Abb**, Bbb, Cb, Dbb, **Ebbb**, Fb, Gb | C | ![GFlatStadian](ModeGFlatStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatStadian.mid?raw=true) |
+| [G](ModeGNaturalStadian.md) | G, **Ab**, Bb, C, Db, **Ebb**, F, G | C | ![GNaturalStadian](ModeGNaturalStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalStadian.mid?raw=true) |
+| [G#](ModeGSharpStadian.md) | G#, **A**, B, C#, D, **Eb**, F#, G# | C | ![GSharpStadian](ModeGSharpStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpStadian.mid?raw=true) |
+| [Ab](ModeAFlatStadian.md) | Ab, **Bbb**, Cb, Db, Ebb, **Fbb**, Gb, Ab | C | ![AFlatStadian](ModeAFlatStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatStadian.mid?raw=true) |
+| [A](ModeANaturalStadian.md) | A, **Bb**, C, D, Eb, **Fb**, G, A | C | ![ANaturalStadian](ModeANaturalStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalStadian.mid?raw=true) |
+| [A#](ModeASharpStadian.md) | A#, **B**, C#, D#, E, **F**, G#, A# | C | ![ASharpStadian](ModeASharpStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpStadian.mid?raw=true) |
+| [Bb](ModeBFlatStadian.md) | Bb, **Cb**, Db, Eb, Fb, **Gbb**, Ab, Bb | C | ![BFlatStadian](ModeBFlatStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatStadian.mid?raw=true) |
+| [B](ModeBNaturalStadian.md) | B, **C**, D, E, F, **Gb**, A, B | C | ![BNaturalStadian](ModeBNaturalStadian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalStadian.mid?raw=true) |

@@ -87,9 +87,9 @@ C
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 545 | A | [Am#5](ChordANaturalMinorSharpFifth.md) | A, C, F | ![Am#5](ChordANaturalMinorSharpFifthRootPosition.png) | [midi](ChordANaturalMinorSharpFifthRootPosition.mid) [ogg](ChordANaturalMinorSharpFifthRootPosition.ogg) |
-| 546 | A | [A+](ChordANaturalAugmented.md) | A, C#, E# | ![A+](ChordANaturalAugmentedRootPosition.png) | [midi](ChordANaturalAugmentedRootPosition.mid) [ogg](ChordANaturalAugmentedRootPosition.ogg) |
-| 546 | A | [A+7](ChordANaturalAugmentedAugmentedSeventh.md) | A, C#, E#, G## | ![A+7](ChordANaturalAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordANaturalAugmentedAugmentedSeventhRootPosition.mid) [ogg](ChordANaturalAugmentedAugmentedSeventhRootPosition.ogg) |
-| 578 | A | [AM##5](ChordANaturalMajorDoubleSharpFifth.md) | A, C#, F# | ![AM##5](ChordANaturalMajorDoubleSharpFifthRootPosition.png) | [midi](ChordANaturalMajorDoubleSharpFifthRootPosition.mid) [ogg](ChordANaturalMajorDoubleSharpFifthRootPosition.ogg) |
-| 673 | A | [Am7#5](ChordANaturalMinorSeventhSharpFifth.md) | A, C, E#, G | ![Am7#5](ChordANaturalMinorSeventhSharpFifthRootPosition.png) | [midi](ChordANaturalMinorSeventhSharpFifthRootPosition.mid) [ogg](ChordANaturalMinorSeventhSharpFifthRootPosition.ogg) |
+| 545 | A | [Am#5](ChordANaturalMinorSharpFifth.md) | A, C, F | ![Am#5](ChordANaturalMinorSharpFifthRootPosition.png) | [midi](ChordANaturalMinorSharpFifthRootPosition.mid) |
+| 546 | A | [A+](ChordANaturalAugmented.md) | A, C#, E# | ![A+](ChordANaturalAugmentedRootPosition.png) | [midi](ChordANaturalAugmentedRootPosition.mid) |
+| 546 | A | [A+7](ChordANaturalAugmentedAugmentedSeventh.md) | A, C#, E#, G## | ![A+7](ChordANaturalAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordANaturalAugmentedAugmentedSeventhRootPosition.mid) |
+| 578 | A | [AM##5](ChordANaturalMajorDoubleSharpFifth.md) | A, C#, F# | ![AM##5](ChordANaturalMajorDoubleSharpFifthRootPosition.png) | [midi](ChordANaturalMajorDoubleSharpFifthRootPosition.mid) |
+| 673 | A | [Am7#5](ChordANaturalMinorSeventhSharpFifth.md) | A, C, E#, G | ![Am7#5](ChordANaturalMinorSeventhSharpFifthRootPosition.png) | [midi](ChordANaturalMinorSeventhSharpFifthRootPosition.mid) |
 

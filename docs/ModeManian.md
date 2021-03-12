@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalManian.md) | C, **Db**, **Eb**, F#, **G**, **A**, B, C | C | ![CNaturalManian](ModeCNaturalManian.png) | [midi](ModeCNaturalManian.mid) [ogg](ModeCNaturalManian.ogg) |
-| [C#](ModeCSharpManian.md) | C#, **D**, **E**, F##, **G#**, **A#**, B#, C# | C | ![CSharpManian](ModeCSharpManian.png) | [midi](ModeCSharpManian.mid) [ogg](ModeCSharpManian.ogg) |
-| [Db](ModeDFlatManian.md) | Db, **Ebb**, **Fb**, G, **Ab**, **Bb**, C, Db | C | ![DFlatManian](ModeDFlatManian.png) | [midi](ModeDFlatManian.mid) [ogg](ModeDFlatManian.ogg) |
-| [D](ModeDNaturalManian.md) | D, **Eb**, **F**, G#, **A**, **B**, C#, D | C | ![DNaturalManian](ModeDNaturalManian.png) | [midi](ModeDNaturalManian.mid) [ogg](ModeDNaturalManian.ogg) |
-| [D#](ModeDSharpManian.md) | D#, **E**, **F#**, G##, **A#**, **B#**, C##, D# | C | ![DSharpManian](ModeDSharpManian.png) | [midi](ModeDSharpManian.mid) [ogg](ModeDSharpManian.ogg) |
-| [Eb](ModeEFlatManian.md) | Eb, **Fb**, **Gb**, A, **Bb**, **C**, D, Eb | C | ![EFlatManian](ModeEFlatManian.png) | [midi](ModeEFlatManian.mid) [ogg](ModeEFlatManian.ogg) |
-| [E](ModeENaturalManian.md) | E, **F**, **G**, A#, **B**, **C#**, D#, E | C | ![ENaturalManian](ModeENaturalManian.png) | [midi](ModeENaturalManian.mid) [ogg](ModeENaturalManian.ogg) |
-| [F](ModeFNaturalManian.md) | F, **Gb**, **Ab**, B, **C**, **D**, E, F | C | ![FNaturalManian](ModeFNaturalManian.png) | [midi](ModeFNaturalManian.mid) [ogg](ModeFNaturalManian.ogg) |
-| [F#](ModeFSharpManian.md) | F#, **G**, **A**, B#, **C#**, **D#**, E#, F# | C | ![FSharpManian](ModeFSharpManian.png) | [midi](ModeFSharpManian.mid) [ogg](ModeFSharpManian.ogg) |
-| [Gb](ModeGFlatManian.md) | Gb, **Abb**, **Bbb**, C, **Db**, **Eb**, F, Gb | C | ![GFlatManian](ModeGFlatManian.png) | [midi](ModeGFlatManian.mid) [ogg](ModeGFlatManian.ogg) |
-| [G](ModeGNaturalManian.md) | G, **Ab**, **Bb**, C#, **D**, **E**, F#, G | C | ![GNaturalManian](ModeGNaturalManian.png) | [midi](ModeGNaturalManian.mid) [ogg](ModeGNaturalManian.ogg) |
-| [G#](ModeGSharpManian.md) | G#, **A**, **B**, C##, **D#**, **E#**, F##, G# | C | ![GSharpManian](ModeGSharpManian.png) | [midi](ModeGSharpManian.mid) [ogg](ModeGSharpManian.ogg) |
-| [Ab](ModeAFlatManian.md) | Ab, **Bbb**, **Cb**, D, **Eb**, **F**, G, Ab | C | ![AFlatManian](ModeAFlatManian.png) | [midi](ModeAFlatManian.mid) [ogg](ModeAFlatManian.ogg) |
-| [A](ModeANaturalManian.md) | A, **Bb**, **C**, D#, **E**, **F#**, G#, A | C | ![ANaturalManian](ModeANaturalManian.png) | [midi](ModeANaturalManian.mid) [ogg](ModeANaturalManian.ogg) |
-| [A#](ModeASharpManian.md) | A#, **B**, **C#**, D##, **E#**, **F##**, G##, A# | C | ![ASharpManian](ModeASharpManian.png) | [midi](ModeASharpManian.mid) [ogg](ModeASharpManian.ogg) |
-| [Bb](ModeBFlatManian.md) | Bb, **Cb**, **Db**, E, **F**, **G**, A, Bb | C | ![BFlatManian](ModeBFlatManian.png) | [midi](ModeBFlatManian.mid) [ogg](ModeBFlatManian.ogg) |
-| [B](ModeBNaturalManian.md) | B, **C**, **D**, E#, **F#**, **G#**, A#, B | C | ![BNaturalManian](ModeBNaturalManian.png) | [midi](ModeBNaturalManian.mid) [ogg](ModeBNaturalManian.ogg) |
+| [C](ModeCNaturalManian.md) | C, **Db**, **Eb**, F#, **G**, **A**, B, C | C | ![CNaturalManian](ModeCNaturalManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalManian.mid?raw=true) |
+| [C#](ModeCSharpManian.md) | C#, **D**, **E**, F##, **G#**, **A#**, B#, C# | C | ![CSharpManian](ModeCSharpManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpManian.mid?raw=true) |
+| [Db](ModeDFlatManian.md) | Db, **Ebb**, **Fb**, G, **Ab**, **Bb**, C, Db | C | ![DFlatManian](ModeDFlatManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatManian.mid?raw=true) |
+| [D](ModeDNaturalManian.md) | D, **Eb**, **F**, G#, **A**, **B**, C#, D | C | ![DNaturalManian](ModeDNaturalManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalManian.mid?raw=true) |
+| [D#](ModeDSharpManian.md) | D#, **E**, **F#**, G##, **A#**, **B#**, C##, D# | C | ![DSharpManian](ModeDSharpManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpManian.mid?raw=true) |
+| [Eb](ModeEFlatManian.md) | Eb, **Fb**, **Gb**, A, **Bb**, **C**, D, Eb | C | ![EFlatManian](ModeEFlatManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatManian.mid?raw=true) |
+| [E](ModeENaturalManian.md) | E, **F**, **G**, A#, **B**, **C#**, D#, E | C | ![ENaturalManian](ModeENaturalManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalManian.mid?raw=true) |
+| [F](ModeFNaturalManian.md) | F, **Gb**, **Ab**, B, **C**, **D**, E, F | C | ![FNaturalManian](ModeFNaturalManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalManian.mid?raw=true) |
+| [F#](ModeFSharpManian.md) | F#, **G**, **A**, B#, **C#**, **D#**, E#, F# | C | ![FSharpManian](ModeFSharpManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpManian.mid?raw=true) |
+| [Gb](ModeGFlatManian.md) | Gb, **Abb**, **Bbb**, C, **Db**, **Eb**, F, Gb | C | ![GFlatManian](ModeGFlatManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatManian.mid?raw=true) |
+| [G](ModeGNaturalManian.md) | G, **Ab**, **Bb**, C#, **D**, **E**, F#, G | C | ![GNaturalManian](ModeGNaturalManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalManian.mid?raw=true) |
+| [G#](ModeGSharpManian.md) | G#, **A**, **B**, C##, **D#**, **E#**, F##, G# | C | ![GSharpManian](ModeGSharpManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpManian.mid?raw=true) |
+| [Ab](ModeAFlatManian.md) | Ab, **Bbb**, **Cb**, D, **Eb**, **F**, G, Ab | C | ![AFlatManian](ModeAFlatManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatManian.mid?raw=true) |
+| [A](ModeANaturalManian.md) | A, **Bb**, **C**, D#, **E**, **F#**, G#, A | C | ![ANaturalManian](ModeANaturalManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalManian.mid?raw=true) |
+| [A#](ModeASharpManian.md) | A#, **B**, **C#**, D##, **E#**, **F##**, G##, A# | C | ![ASharpManian](ModeASharpManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpManian.mid?raw=true) |
+| [Bb](ModeBFlatManian.md) | Bb, **Cb**, **Db**, E, **F**, **G**, A, Bb | C | ![BFlatManian](ModeBFlatManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatManian.mid?raw=true) |
+| [B](ModeBNaturalManian.md) | B, **C**, **D**, E#, **F#**, **G#**, A#, B | C | ![BNaturalManian](ModeBNaturalManian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalManian.mid?raw=true) |

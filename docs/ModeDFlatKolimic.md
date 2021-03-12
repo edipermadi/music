@@ -89,9 +89,9 @@ Db
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 1042 | Bb | [Bbo](ChordBFlatDiminished.md) | Bb, Db, Fb | ![Bbo](ChordBFlatDiminishedRootPosition.png) | [midi](ChordBFlatDiminishedRootPosition.mid) [ogg](ChordBFlatDiminishedRootPosition.ogg) |
-| 1090 | Bb | [Bbm#5](ChordBFlatMinorSharpFifth.md) | Bb, Db, Gb | ![Bbm#5](ChordBFlatMinorSharpFifthRootPosition.png) | [midi](ChordBFlatMinorSharpFifthRootPosition.mid) [ogg](ChordBFlatMinorSharpFifthRootPosition.ogg) |
-| 1170 | Bb | [Bbo7](ChordBFlatFullDiminishedSeventh.md) | Bb, Db, Fb, Abb | ![Bbo7](ChordBFlatFullDiminishedSeventhRootPosition.png) | [midi](ChordBFlatFullDiminishedSeventhRootPosition.mid) [ogg](ChordBFlatFullDiminishedSeventhRootPosition.ogg) |
-| 1298 | Bb | [Bbø7](ChordBFlatHalfDiminishedSeventh.md) | Bb, Db, Fb, Ab | ![Bbø7](ChordBFlatHalfDiminishedSeventhRootPosition.png) | [midi](ChordBFlatHalfDiminishedSeventhRootPosition.mid) [ogg](ChordBFlatHalfDiminishedSeventhRootPosition.ogg) |
-| 1346 | Bb | [Bbm7#5](ChordBFlatMinorSeventhSharpFifth.md) | Bb, Db, F#, Ab | ![Bbm7#5](ChordBFlatMinorSeventhSharpFifthRootPosition.png) | [midi](ChordBFlatMinorSeventhSharpFifthRootPosition.mid) [ogg](ChordBFlatMinorSeventhSharpFifthRootPosition.ogg) |
+| 1042 | Bb | [Bbo](ChordBFlatDiminished.md) | Bb, Db, Fb | ![Bbo](ChordBFlatDiminishedRootPosition.png) | [midi](ChordBFlatDiminishedRootPosition.mid) |
+| 1090 | Bb | [Bbm#5](ChordBFlatMinorSharpFifth.md) | Bb, Db, Gb | ![Bbm#5](ChordBFlatMinorSharpFifthRootPosition.png) | [midi](ChordBFlatMinorSharpFifthRootPosition.mid) |
+| 1170 | Bb | [Bbo7](ChordBFlatFullDiminishedSeventh.md) | Bb, Db, Fb, Abb | ![Bbo7](ChordBFlatFullDiminishedSeventhRootPosition.png) | [midi](ChordBFlatFullDiminishedSeventhRootPosition.mid) |
+| 1298 | Bb | [Bbø7](ChordBFlatHalfDiminishedSeventh.md) | Bb, Db, Fb, Ab | ![Bbø7](ChordBFlatHalfDiminishedSeventhRootPosition.png) | [midi](ChordBFlatHalfDiminishedSeventhRootPosition.mid) |
+| 1346 | Bb | [Bbm7#5](ChordBFlatMinorSeventhSharpFifth.md) | Bb, Db, F#, Ab | ![Bbm7#5](ChordBFlatMinorSeventhSharpFifthRootPosition.png) | [midi](ChordBFlatMinorSeventhSharpFifthRootPosition.mid) |
 

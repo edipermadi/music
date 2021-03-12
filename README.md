@@ -32,11 +32,11 @@ Music theory exploration with golang
   - MIDI note values
 - Illustration features:
   - Keyboard based visual illustration (37 keys)
-  - MIDI and OGG based auditorial illustration
+  - MIDI based auditorial illustration
   - Mode audio visual illustration in various tonic notes
   - Chord audio visual illustration in various root notes
 - Utilities:
-  - Generate music cross reference markdown and images
+  - Generate music cross-reference markdown and images
   - Modulate MIDI from one mode to another
 - MIDI features:
   - Marshall

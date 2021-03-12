@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalMixodyllic.md) | C, D, D#, **E**, F, G, A, A#, C | C | ![CNaturalMixodyllic](ModeCNaturalMixodyllic.png) | [midi](ModeCNaturalMixodyllic.mid) [ogg](ModeCNaturalMixodyllic.ogg) |
-| [C#](ModeCSharpMixodyllic.md) | C#, D#, E, **F**, F#, G#, A#, B, C# | C | ![CSharpMixodyllic](ModeCSharpMixodyllic.png) | [midi](ModeCSharpMixodyllic.mid) [ogg](ModeCSharpMixodyllic.ogg) |
-| [Db](ModeDFlatMixodyllic.md) | Db, Eb, E, **F**, Gb, Ab, Bb, B, Db | C | ![DFlatMixodyllic](ModeDFlatMixodyllic.png) | [midi](ModeDFlatMixodyllic.mid) [ogg](ModeDFlatMixodyllic.ogg) |
-| [D](ModeDNaturalMixodyllic.md) | D, E, F, **F#**, G, A, B, C, D | C | ![DNaturalMixodyllic](ModeDNaturalMixodyllic.png) | [midi](ModeDNaturalMixodyllic.mid) [ogg](ModeDNaturalMixodyllic.ogg) |
-| [D#](ModeDSharpMixodyllic.md) | D#, F, F#, **G**, G#, A#, C, C#, D# | C | ![DSharpMixodyllic](ModeDSharpMixodyllic.png) | [midi](ModeDSharpMixodyllic.mid) [ogg](ModeDSharpMixodyllic.ogg) |
-| [Eb](ModeEFlatMixodyllic.md) | Eb, F, Gb, **G**, Ab, Bb, C, Db, Eb | C | ![EFlatMixodyllic](ModeEFlatMixodyllic.png) | [midi](ModeEFlatMixodyllic.mid) [ogg](ModeEFlatMixodyllic.ogg) |
-| [E](ModeENaturalMixodyllic.md) | E, F#, G, **G#**, A, B, C#, D, E | C | ![ENaturalMixodyllic](ModeENaturalMixodyllic.png) | [midi](ModeENaturalMixodyllic.mid) [ogg](ModeENaturalMixodyllic.ogg) |
-| [F](ModeFNaturalMixodyllic.md) | F, G, G#, **A**, A#, C, D, D#, F | C | ![FNaturalMixodyllic](ModeFNaturalMixodyllic.png) | [midi](ModeFNaturalMixodyllic.mid) [ogg](ModeFNaturalMixodyllic.ogg) |
-| [F#](ModeFSharpMixodyllic.md) | F#, G#, A, **A#**, B, C#, D#, E, F# | C | ![FSharpMixodyllic](ModeFSharpMixodyllic.png) | [midi](ModeFSharpMixodyllic.mid) [ogg](ModeFSharpMixodyllic.ogg) |
-| [Gb](ModeGFlatMixodyllic.md) | Gb, Ab, A, **Bb**, B, Db, Eb, E, Gb | C | ![GFlatMixodyllic](ModeGFlatMixodyllic.png) | [midi](ModeGFlatMixodyllic.mid) [ogg](ModeGFlatMixodyllic.ogg) |
-| [G](ModeGNaturalMixodyllic.md) | G, A, A#, **B**, C, D, E, F, G | C | ![GNaturalMixodyllic](ModeGNaturalMixodyllic.png) | [midi](ModeGNaturalMixodyllic.mid) [ogg](ModeGNaturalMixodyllic.ogg) |
-| [G#](ModeGSharpMixodyllic.md) | G#, A#, B, **C**, C#, D#, F, F#, G# | C | ![GSharpMixodyllic](ModeGSharpMixodyllic.png) | [midi](ModeGSharpMixodyllic.mid) [ogg](ModeGSharpMixodyllic.ogg) |
-| [Ab](ModeAFlatMixodyllic.md) | Ab, Bb, B, **C**, Db, Eb, F, Gb, Ab | C | ![AFlatMixodyllic](ModeAFlatMixodyllic.png) | [midi](ModeAFlatMixodyllic.mid) [ogg](ModeAFlatMixodyllic.ogg) |
-| [A](ModeANaturalMixodyllic.md) | A, B, C, **C#**, D, E, F#, G, A | C | ![ANaturalMixodyllic](ModeANaturalMixodyllic.png) | [midi](ModeANaturalMixodyllic.mid) [ogg](ModeANaturalMixodyllic.ogg) |
-| [A#](ModeASharpMixodyllic.md) | A#, C, C#, **D**, D#, F, G, G#, A# | C | ![ASharpMixodyllic](ModeASharpMixodyllic.png) | [midi](ModeASharpMixodyllic.mid) [ogg](ModeASharpMixodyllic.ogg) |
-| [Bb](ModeBFlatMixodyllic.md) | Bb, C, Db, **D**, Eb, F, G, Ab, Bb | C | ![BFlatMixodyllic](ModeBFlatMixodyllic.png) | [midi](ModeBFlatMixodyllic.mid) [ogg](ModeBFlatMixodyllic.ogg) |
-| [B](ModeBNaturalMixodyllic.md) | B, C#, D, **D#**, E, F#, G#, A, B | C | ![BNaturalMixodyllic](ModeBNaturalMixodyllic.png) | [midi](ModeBNaturalMixodyllic.mid) [ogg](ModeBNaturalMixodyllic.ogg) |
+| [C](ModeCNaturalMixodyllic.md) | C, D, D#, **E**, F, G, A, A#, C | C | ![CNaturalMixodyllic](ModeCNaturalMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMixodyllic.mid?raw=true) |
+| [C#](ModeCSharpMixodyllic.md) | C#, D#, E, **F**, F#, G#, A#, B, C# | C | ![CSharpMixodyllic](ModeCSharpMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpMixodyllic.mid?raw=true) |
+| [Db](ModeDFlatMixodyllic.md) | Db, Eb, E, **F**, Gb, Ab, Bb, B, Db | C | ![DFlatMixodyllic](ModeDFlatMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatMixodyllic.mid?raw=true) |
+| [D](ModeDNaturalMixodyllic.md) | D, E, F, **F#**, G, A, B, C, D | C | ![DNaturalMixodyllic](ModeDNaturalMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalMixodyllic.mid?raw=true) |
+| [D#](ModeDSharpMixodyllic.md) | D#, F, F#, **G**, G#, A#, C, C#, D# | C | ![DSharpMixodyllic](ModeDSharpMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpMixodyllic.mid?raw=true) |
+| [Eb](ModeEFlatMixodyllic.md) | Eb, F, Gb, **G**, Ab, Bb, C, Db, Eb | C | ![EFlatMixodyllic](ModeEFlatMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatMixodyllic.mid?raw=true) |
+| [E](ModeENaturalMixodyllic.md) | E, F#, G, **G#**, A, B, C#, D, E | C | ![ENaturalMixodyllic](ModeENaturalMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalMixodyllic.mid?raw=true) |
+| [F](ModeFNaturalMixodyllic.md) | F, G, G#, **A**, A#, C, D, D#, F | C | ![FNaturalMixodyllic](ModeFNaturalMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalMixodyllic.mid?raw=true) |
+| [F#](ModeFSharpMixodyllic.md) | F#, G#, A, **A#**, B, C#, D#, E, F# | C | ![FSharpMixodyllic](ModeFSharpMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpMixodyllic.mid?raw=true) |
+| [Gb](ModeGFlatMixodyllic.md) | Gb, Ab, A, **Bb**, B, Db, Eb, E, Gb | C | ![GFlatMixodyllic](ModeGFlatMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatMixodyllic.mid?raw=true) |
+| [G](ModeGNaturalMixodyllic.md) | G, A, A#, **B**, C, D, E, F, G | C | ![GNaturalMixodyllic](ModeGNaturalMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalMixodyllic.mid?raw=true) |
+| [G#](ModeGSharpMixodyllic.md) | G#, A#, B, **C**, C#, D#, F, F#, G# | C | ![GSharpMixodyllic](ModeGSharpMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpMixodyllic.mid?raw=true) |
+| [Ab](ModeAFlatMixodyllic.md) | Ab, Bb, B, **C**, Db, Eb, F, Gb, Ab | C | ![AFlatMixodyllic](ModeAFlatMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatMixodyllic.mid?raw=true) |
+| [A](ModeANaturalMixodyllic.md) | A, B, C, **C#**, D, E, F#, G, A | C | ![ANaturalMixodyllic](ModeANaturalMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalMixodyllic.mid?raw=true) |
+| [A#](ModeASharpMixodyllic.md) | A#, C, C#, **D**, D#, F, G, G#, A# | C | ![ASharpMixodyllic](ModeASharpMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpMixodyllic.mid?raw=true) |
+| [Bb](ModeBFlatMixodyllic.md) | Bb, C, Db, **D**, Eb, F, G, Ab, Bb | C | ![BFlatMixodyllic](ModeBFlatMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatMixodyllic.mid?raw=true) |
+| [B](ModeBNaturalMixodyllic.md) | B, C#, D, **D#**, E, F#, G#, A, B | C | ![BNaturalMixodyllic](ModeBNaturalMixodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalMixodyllic.mid?raw=true) |

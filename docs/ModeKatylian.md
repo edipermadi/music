@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalKatylian.md) | C, **D**, **E**, F, **Gb**, Abb, **Bbbb**, C | C | ![CNaturalKatylian](ModeCNaturalKatylian.png) | [midi](ModeCNaturalKatylian.mid) [ogg](ModeCNaturalKatylian.ogg) |
-| [C#](ModeCSharpKatylian.md) | C#, **D#**, **E#**, F#, **G**, Ab, **Bbb**, C# | C | ![CSharpKatylian](ModeCSharpKatylian.png) | [midi](ModeCSharpKatylian.mid) [ogg](ModeCSharpKatylian.ogg) |
-| [Db](ModeDFlatKatylian.md) | Db, **Eb**, **F**, Gb, **Abb**, Bbbb, **Cbbb**, Db | C | ![DFlatKatylian](ModeDFlatKatylian.png) | [midi](ModeDFlatKatylian.mid) [ogg](ModeDFlatKatylian.ogg) |
-| [D](ModeDNaturalKatylian.md) | D, **E**, **F#**, G, **Ab**, Bbb, **Cbb**, D | C | ![DNaturalKatylian](ModeDNaturalKatylian.png) | [midi](ModeDNaturalKatylian.mid) [ogg](ModeDNaturalKatylian.ogg) |
-| [D#](ModeDSharpKatylian.md) | D#, **E#**, **F##**, G#, **A**, Bb, **Cb**, D# | C | ![DSharpKatylian](ModeDSharpKatylian.png) | [midi](ModeDSharpKatylian.mid) [ogg](ModeDSharpKatylian.ogg) |
-| [Eb](ModeEFlatKatylian.md) | Eb, **F**, **G**, Ab, **Bbb**, Cbb, **Dbbb**, Eb | C | ![EFlatKatylian](ModeEFlatKatylian.png) | [midi](ModeEFlatKatylian.mid) [ogg](ModeEFlatKatylian.ogg) |
-| [E](ModeENaturalKatylian.md) | E, **F#**, **G#**, A, **Bb**, Cb, **Dbb**, E | C | ![ENaturalKatylian](ModeENaturalKatylian.png) | [midi](ModeENaturalKatylian.mid) [ogg](ModeENaturalKatylian.ogg) |
-| [F](ModeFNaturalKatylian.md) | F, **G**, **A**, Bb, **Cb**, Dbb, **Ebbb**, F | C | ![FNaturalKatylian](ModeFNaturalKatylian.png) | [midi](ModeFNaturalKatylian.mid) [ogg](ModeFNaturalKatylian.ogg) |
-| [F#](ModeFSharpKatylian.md) | F#, **G#**, **A#**, B, **C**, Db, **Ebb**, F# | C | ![FSharpKatylian](ModeFSharpKatylian.png) | [midi](ModeFSharpKatylian.mid) [ogg](ModeFSharpKatylian.ogg) |
-| [Gb](ModeGFlatKatylian.md) | Gb, **Ab**, **Bb**, Cb, **Dbb**, Ebbb, **Fbbb**, Gb | C | ![GFlatKatylian](ModeGFlatKatylian.png) | [midi](ModeGFlatKatylian.mid) [ogg](ModeGFlatKatylian.ogg) |
-| [G](ModeGNaturalKatylian.md) | G, **A**, **B**, C, **Db**, Ebb, **Fbb**, G | C | ![GNaturalKatylian](ModeGNaturalKatylian.png) | [midi](ModeGNaturalKatylian.mid) [ogg](ModeGNaturalKatylian.ogg) |
-| [G#](ModeGSharpKatylian.md) | G#, **A#**, **B#**, C#, **D**, Eb, **Fb**, G# | C | ![GSharpKatylian](ModeGSharpKatylian.png) | [midi](ModeGSharpKatylian.mid) [ogg](ModeGSharpKatylian.ogg) |
-| [Ab](ModeAFlatKatylian.md) | Ab, **Bb**, **C**, Db, **Ebb**, Fbb, **Gbbb**, Ab | C | ![AFlatKatylian](ModeAFlatKatylian.png) | [midi](ModeAFlatKatylian.mid) [ogg](ModeAFlatKatylian.ogg) |
-| [A](ModeANaturalKatylian.md) | A, **B**, **C#**, D, **Eb**, Fb, **Gbb**, A | C | ![ANaturalKatylian](ModeANaturalKatylian.png) | [midi](ModeANaturalKatylian.mid) [ogg](ModeANaturalKatylian.ogg) |
-| [A#](ModeASharpKatylian.md) | A#, **B#**, **C##**, D#, **E**, F, **Gb**, A# | C | ![ASharpKatylian](ModeASharpKatylian.png) | [midi](ModeASharpKatylian.mid) [ogg](ModeASharpKatylian.ogg) |
-| [Bb](ModeBFlatKatylian.md) | Bb, **C**, **D**, Eb, **Fb**, Gbb, **Abbb**, Bb | C | ![BFlatKatylian](ModeBFlatKatylian.png) | [midi](ModeBFlatKatylian.mid) [ogg](ModeBFlatKatylian.ogg) |
-| [B](ModeBNaturalKatylian.md) | B, **C#**, **D#**, E, **F**, Gb, **Abb**, B | C | ![BNaturalKatylian](ModeBNaturalKatylian.png) | [midi](ModeBNaturalKatylian.mid) [ogg](ModeBNaturalKatylian.ogg) |
+| [C](ModeCNaturalKatylian.md) | C, **D**, **E**, F, **Gb**, Abb, **Bbbb**, C | C | ![CNaturalKatylian](ModeCNaturalKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKatylian.mid?raw=true) |
+| [C#](ModeCSharpKatylian.md) | C#, **D#**, **E#**, F#, **G**, Ab, **Bbb**, C# | C | ![CSharpKatylian](ModeCSharpKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpKatylian.mid?raw=true) |
+| [Db](ModeDFlatKatylian.md) | Db, **Eb**, **F**, Gb, **Abb**, Bbbb, **Cbbb**, Db | C | ![DFlatKatylian](ModeDFlatKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatKatylian.mid?raw=true) |
+| [D](ModeDNaturalKatylian.md) | D, **E**, **F#**, G, **Ab**, Bbb, **Cbb**, D | C | ![DNaturalKatylian](ModeDNaturalKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalKatylian.mid?raw=true) |
+| [D#](ModeDSharpKatylian.md) | D#, **E#**, **F##**, G#, **A**, Bb, **Cb**, D# | C | ![DSharpKatylian](ModeDSharpKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpKatylian.mid?raw=true) |
+| [Eb](ModeEFlatKatylian.md) | Eb, **F**, **G**, Ab, **Bbb**, Cbb, **Dbbb**, Eb | C | ![EFlatKatylian](ModeEFlatKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatKatylian.mid?raw=true) |
+| [E](ModeENaturalKatylian.md) | E, **F#**, **G#**, A, **Bb**, Cb, **Dbb**, E | C | ![ENaturalKatylian](ModeENaturalKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalKatylian.mid?raw=true) |
+| [F](ModeFNaturalKatylian.md) | F, **G**, **A**, Bb, **Cb**, Dbb, **Ebbb**, F | C | ![FNaturalKatylian](ModeFNaturalKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalKatylian.mid?raw=true) |
+| [F#](ModeFSharpKatylian.md) | F#, **G#**, **A#**, B, **C**, Db, **Ebb**, F# | C | ![FSharpKatylian](ModeFSharpKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpKatylian.mid?raw=true) |
+| [Gb](ModeGFlatKatylian.md) | Gb, **Ab**, **Bb**, Cb, **Dbb**, Ebbb, **Fbbb**, Gb | C | ![GFlatKatylian](ModeGFlatKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatKatylian.mid?raw=true) |
+| [G](ModeGNaturalKatylian.md) | G, **A**, **B**, C, **Db**, Ebb, **Fbb**, G | C | ![GNaturalKatylian](ModeGNaturalKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalKatylian.mid?raw=true) |
+| [G#](ModeGSharpKatylian.md) | G#, **A#**, **B#**, C#, **D**, Eb, **Fb**, G# | C | ![GSharpKatylian](ModeGSharpKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpKatylian.mid?raw=true) |
+| [Ab](ModeAFlatKatylian.md) | Ab, **Bb**, **C**, Db, **Ebb**, Fbb, **Gbbb**, Ab | C | ![AFlatKatylian](ModeAFlatKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatKatylian.mid?raw=true) |
+| [A](ModeANaturalKatylian.md) | A, **B**, **C#**, D, **Eb**, Fb, **Gbb**, A | C | ![ANaturalKatylian](ModeANaturalKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalKatylian.mid?raw=true) |
+| [A#](ModeASharpKatylian.md) | A#, **B#**, **C##**, D#, **E**, F, **Gb**, A# | C | ![ASharpKatylian](ModeASharpKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpKatylian.mid?raw=true) |
+| [Bb](ModeBFlatKatylian.md) | Bb, **C**, **D**, Eb, **Fb**, Gbb, **Abbb**, Bb | C | ![BFlatKatylian](ModeBFlatKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatKatylian.mid?raw=true) |
+| [B](ModeBNaturalKatylian.md) | B, **C#**, **D#**, E, **F**, Gb, **Abb**, B | C | ![BNaturalKatylian](ModeBNaturalKatylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalKatylian.mid?raw=true) |

@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalPolian.md) | **C**, **Db**, Eb, F#, **G##**, **A#**, B, **C** | C | ![CNaturalPolian](ModeCNaturalPolian.png) | [midi](ModeCNaturalPolian.mid) [ogg](ModeCNaturalPolian.ogg) |
-| [C#](ModeCSharpPolian.md) | **C#**, **D**, E, F##, **G###**, **A##**, B#, **C#** | C | ![CSharpPolian](ModeCSharpPolian.png) | [midi](ModeCSharpPolian.mid) [ogg](ModeCSharpPolian.ogg) |
-| [Db](ModeDFlatPolian.md) | **Db**, **Ebb**, Fb, G, **A#**, **B**, C, **Db** | C | ![DFlatPolian](ModeDFlatPolian.png) | [midi](ModeDFlatPolian.mid) [ogg](ModeDFlatPolian.ogg) |
-| [D](ModeDNaturalPolian.md) | **D**, **Eb**, F, G#, **A##**, **B#**, C#, **D** | C | ![DNaturalPolian](ModeDNaturalPolian.png) | [midi](ModeDNaturalPolian.mid) [ogg](ModeDNaturalPolian.ogg) |
-| [D#](ModeDSharpPolian.md) | **D#**, **E**, F#, G##, **A###**, **B##**, C##, **D#** | C | ![DSharpPolian](ModeDSharpPolian.png) | [midi](ModeDSharpPolian.mid) [ogg](ModeDSharpPolian.ogg) |
-| [Eb](ModeEFlatPolian.md) | **Eb**, **Fb**, Gb, A, **B#**, **C#**, D, **Eb** | C | ![EFlatPolian](ModeEFlatPolian.png) | [midi](ModeEFlatPolian.mid) [ogg](ModeEFlatPolian.ogg) |
-| [E](ModeENaturalPolian.md) | **E**, **F**, G, A#, **B##**, **C##**, D#, **E** | C | ![ENaturalPolian](ModeENaturalPolian.png) | [midi](ModeENaturalPolian.mid) [ogg](ModeENaturalPolian.ogg) |
-| [F](ModeFNaturalPolian.md) | **F**, **Gb**, Ab, B, **C##**, **D#**, E, **F** | C | ![FNaturalPolian](ModeFNaturalPolian.png) | [midi](ModeFNaturalPolian.mid) [ogg](ModeFNaturalPolian.ogg) |
-| [F#](ModeFSharpPolian.md) | **F#**, **G**, A, B#, **C###**, **D##**, E#, **F#** | C | ![FSharpPolian](ModeFSharpPolian.png) | [midi](ModeFSharpPolian.mid) [ogg](ModeFSharpPolian.ogg) |
-| [Gb](ModeGFlatPolian.md) | **Gb**, **Abb**, Bbb, C, **D#**, **E**, F, **Gb** | C | ![GFlatPolian](ModeGFlatPolian.png) | [midi](ModeGFlatPolian.mid) [ogg](ModeGFlatPolian.ogg) |
-| [G](ModeGNaturalPolian.md) | **G**, **Ab**, Bb, C#, **D##**, **E#**, F#, **G** | C | ![GNaturalPolian](ModeGNaturalPolian.png) | [midi](ModeGNaturalPolian.mid) [ogg](ModeGNaturalPolian.ogg) |
-| [G#](ModeGSharpPolian.md) | **G#**, **A**, B, C##, **D###**, **E##**, F##, **G#** | C | ![GSharpPolian](ModeGSharpPolian.png) | [midi](ModeGSharpPolian.mid) [ogg](ModeGSharpPolian.ogg) |
-| [Ab](ModeAFlatPolian.md) | **Ab**, **Bbb**, Cb, D, **E#**, **F#**, G, **Ab** | C | ![AFlatPolian](ModeAFlatPolian.png) | [midi](ModeAFlatPolian.mid) [ogg](ModeAFlatPolian.ogg) |
-| [A](ModeANaturalPolian.md) | **A**, **Bb**, C, D#, **E##**, **F##**, G#, **A** | C | ![ANaturalPolian](ModeANaturalPolian.png) | [midi](ModeANaturalPolian.mid) [ogg](ModeANaturalPolian.ogg) |
-| [A#](ModeASharpPolian.md) | **A#**, **B**, C#, D##, **E###**, **F###**, G##, **A#** | C | ![ASharpPolian](ModeASharpPolian.png) | [midi](ModeASharpPolian.mid) [ogg](ModeASharpPolian.ogg) |
-| [Bb](ModeBFlatPolian.md) | **Bb**, **Cb**, Db, E, **F##**, **G#**, A, **Bb** | C | ![BFlatPolian](ModeBFlatPolian.png) | [midi](ModeBFlatPolian.mid) [ogg](ModeBFlatPolian.ogg) |
-| [B](ModeBNaturalPolian.md) | **B**, **C**, D, E#, **F###**, **G##**, A#, **B** | C | ![BNaturalPolian](ModeBNaturalPolian.png) | [midi](ModeBNaturalPolian.mid) [ogg](ModeBNaturalPolian.ogg) |
+| [C](ModeCNaturalPolian.md) | **C**, **Db**, Eb, F#, **G##**, **A#**, B, **C** | C | ![CNaturalPolian](ModeCNaturalPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPolian.mid?raw=true) |
+| [C#](ModeCSharpPolian.md) | **C#**, **D**, E, F##, **G###**, **A##**, B#, **C#** | C | ![CSharpPolian](ModeCSharpPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpPolian.mid?raw=true) |
+| [Db](ModeDFlatPolian.md) | **Db**, **Ebb**, Fb, G, **A#**, **B**, C, **Db** | C | ![DFlatPolian](ModeDFlatPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatPolian.mid?raw=true) |
+| [D](ModeDNaturalPolian.md) | **D**, **Eb**, F, G#, **A##**, **B#**, C#, **D** | C | ![DNaturalPolian](ModeDNaturalPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalPolian.mid?raw=true) |
+| [D#](ModeDSharpPolian.md) | **D#**, **E**, F#, G##, **A###**, **B##**, C##, **D#** | C | ![DSharpPolian](ModeDSharpPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpPolian.mid?raw=true) |
+| [Eb](ModeEFlatPolian.md) | **Eb**, **Fb**, Gb, A, **B#**, **C#**, D, **Eb** | C | ![EFlatPolian](ModeEFlatPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatPolian.mid?raw=true) |
+| [E](ModeENaturalPolian.md) | **E**, **F**, G, A#, **B##**, **C##**, D#, **E** | C | ![ENaturalPolian](ModeENaturalPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalPolian.mid?raw=true) |
+| [F](ModeFNaturalPolian.md) | **F**, **Gb**, Ab, B, **C##**, **D#**, E, **F** | C | ![FNaturalPolian](ModeFNaturalPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalPolian.mid?raw=true) |
+| [F#](ModeFSharpPolian.md) | **F#**, **G**, A, B#, **C###**, **D##**, E#, **F#** | C | ![FSharpPolian](ModeFSharpPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpPolian.mid?raw=true) |
+| [Gb](ModeGFlatPolian.md) | **Gb**, **Abb**, Bbb, C, **D#**, **E**, F, **Gb** | C | ![GFlatPolian](ModeGFlatPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatPolian.mid?raw=true) |
+| [G](ModeGNaturalPolian.md) | **G**, **Ab**, Bb, C#, **D##**, **E#**, F#, **G** | C | ![GNaturalPolian](ModeGNaturalPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalPolian.mid?raw=true) |
+| [G#](ModeGSharpPolian.md) | **G#**, **A**, B, C##, **D###**, **E##**, F##, **G#** | C | ![GSharpPolian](ModeGSharpPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpPolian.mid?raw=true) |
+| [Ab](ModeAFlatPolian.md) | **Ab**, **Bbb**, Cb, D, **E#**, **F#**, G, **Ab** | C | ![AFlatPolian](ModeAFlatPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatPolian.mid?raw=true) |
+| [A](ModeANaturalPolian.md) | **A**, **Bb**, C, D#, **E##**, **F##**, G#, **A** | C | ![ANaturalPolian](ModeANaturalPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalPolian.mid?raw=true) |
+| [A#](ModeASharpPolian.md) | **A#**, **B**, C#, D##, **E###**, **F###**, G##, **A#** | C | ![ASharpPolian](ModeASharpPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpPolian.mid?raw=true) |
+| [Bb](ModeBFlatPolian.md) | **Bb**, **Cb**, Db, E, **F##**, **G#**, A, **Bb** | C | ![BFlatPolian](ModeBFlatPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatPolian.mid?raw=true) |
+| [B](ModeBNaturalPolian.md) | **B**, **C**, D, E#, **F###**, **G##**, A#, **B** | C | ![BNaturalPolian](ModeBNaturalPolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalPolian.mid?raw=true) |

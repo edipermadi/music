@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalDathimic.md) | **C**, **D##**, **E##**, **F###**, G##, **A#**, **C** | C | ![CNaturalDathimic](ModeCNaturalDathimic.png) | [midi](ModeCNaturalDathimic.mid) [ogg](ModeCNaturalDathimic.ogg) |
-| [C#](ModeCSharpDathimic.md) | **C#**, **D###**, **E###**, **Cbbb**, Cbb, **Dbbb**, **C#** | C | ![CSharpDathimic](ModeCSharpDathimic.png) | [midi](ModeCSharpDathimic.mid) [ogg](ModeCSharpDathimic.ogg) |
-| [Db](ModeDFlatDathimic.md) | **Db**, **E#**, **F##**, **G##**, A#, **B**, **Db** | C | ![DFlatDathimic](ModeDFlatDathimic.png) | [midi](ModeDFlatDathimic.mid) [ogg](ModeDFlatDathimic.ogg) |
-| [D](ModeDNaturalDathimic.md) | **D**, **E##**, **F###**, **G###**, A##, **B#**, **D** | C | ![DNaturalDathimic](ModeDNaturalDathimic.png) | [midi](ModeDNaturalDathimic.mid) [ogg](ModeDNaturalDathimic.ogg) |
-| [D#](ModeDSharpDathimic.md) | **D#**, **E###**, **Cbbb**, **Dbbb**, Dbb, **Ebbb**, **D#** | C | ![DSharpDathimic](ModeDSharpDathimic.png) | [midi](ModeDSharpDathimic.mid) [ogg](ModeDSharpDathimic.ogg) |
-| [Eb](ModeEFlatDathimic.md) | **Eb**, **F##**, **G##**, **A##**, B#, **C#**, **Eb** | C | ![EFlatDathimic](ModeEFlatDathimic.png) | [midi](ModeEFlatDathimic.mid) [ogg](ModeEFlatDathimic.ogg) |
-| [E](ModeENaturalDathimic.md) | **E**, **F###**, **G###**, **A###**, B##, **C##**, **E** | C | ![ENaturalDathimic](ModeENaturalDathimic.png) | [midi](ModeENaturalDathimic.mid) [ogg](ModeENaturalDathimic.ogg) |
-| [F](ModeFNaturalDathimic.md) | **F**, **G##**, **A##**, **B##**, C##, **D#**, **F** | C | ![FNaturalDathimic](ModeFNaturalDathimic.png) | [midi](ModeFNaturalDathimic.mid) [ogg](ModeFNaturalDathimic.ogg) |
-| [F#](ModeFSharpDathimic.md) | **F#**, **G###**, **A###**, **B###**, C###, **D##**, **F#** | C | ![FSharpDathimic](ModeFSharpDathimic.png) | [midi](ModeFSharpDathimic.mid) [ogg](ModeFSharpDathimic.ogg) |
-| [Gb](ModeGFlatDathimic.md) | **Gb**, **A#**, **B#**, **C##**, D#, **E**, **Gb** | C | ![GFlatDathimic](ModeGFlatDathimic.png) | [midi](ModeGFlatDathimic.mid) [ogg](ModeGFlatDathimic.ogg) |
-| [G](ModeGNaturalDathimic.md) | **G**, **A##**, **B##**, **C###**, D##, **E#**, **G** | C | ![GNaturalDathimic](ModeGNaturalDathimic.png) | [midi](ModeGNaturalDathimic.mid) [ogg](ModeGNaturalDathimic.ogg) |
-| [G#](ModeGSharpDathimic.md) | **G#**, **A###**, **B###**, **D##**, E#, **F#**, **G#** | C | ![GSharpDathimic](ModeGSharpDathimic.png) | [midi](ModeGSharpDathimic.mid) [ogg](ModeGSharpDathimic.ogg) |
-| [Ab](ModeAFlatDathimic.md) | **Ab**, **B#**, **C##**, **D##**, E#, **F#**, **Ab** | C | ![AFlatDathimic](ModeAFlatDathimic.png) | [midi](ModeAFlatDathimic.mid) [ogg](ModeAFlatDathimic.ogg) |
-| [A](ModeANaturalDathimic.md) | **A**, **B##**, **C###**, **D###**, E##, **F##**, **A** | C | ![ANaturalDathimic](ModeANaturalDathimic.png) | [midi](ModeANaturalDathimic.mid) [ogg](ModeANaturalDathimic.ogg) |
-| [A#](ModeASharpDathimic.md) | **A#**, **B###**, **D##**, **E##**, F##, **G#**, **A#** | C | ![ASharpDathimic](ModeASharpDathimic.png) | [midi](ModeASharpDathimic.mid) [ogg](ModeASharpDathimic.ogg) |
-| [Bb](ModeBFlatDathimic.md) | **Bb**, **C##**, **D##**, **E##**, F##, **G#**, **Bb** | C | ![BFlatDathimic](ModeBFlatDathimic.png) | [midi](ModeBFlatDathimic.mid) [ogg](ModeBFlatDathimic.ogg) |
-| [B](ModeBNaturalDathimic.md) | **B**, **C###**, **D###**, **E###**, F###, **G##**, **B** | C | ![BNaturalDathimic](ModeBNaturalDathimic.png) | [midi](ModeBNaturalDathimic.mid) [ogg](ModeBNaturalDathimic.ogg) |
+| [C](ModeCNaturalDathimic.md) | **C**, **D##**, **E##**, **F###**, G##, **A#**, **C** | C | ![CNaturalDathimic](ModeCNaturalDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDathimic.mid?raw=true) |
+| [C#](ModeCSharpDathimic.md) | **C#**, **D###**, **E###**, **Cbbb**, Cbb, **Dbbb**, **C#** | C | ![CSharpDathimic](ModeCSharpDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpDathimic.mid?raw=true) |
+| [Db](ModeDFlatDathimic.md) | **Db**, **E#**, **F##**, **G##**, A#, **B**, **Db** | C | ![DFlatDathimic](ModeDFlatDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatDathimic.mid?raw=true) |
+| [D](ModeDNaturalDathimic.md) | **D**, **E##**, **F###**, **G###**, A##, **B#**, **D** | C | ![DNaturalDathimic](ModeDNaturalDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalDathimic.mid?raw=true) |
+| [D#](ModeDSharpDathimic.md) | **D#**, **E###**, **Cbbb**, **Dbbb**, Dbb, **Ebbb**, **D#** | C | ![DSharpDathimic](ModeDSharpDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpDathimic.mid?raw=true) |
+| [Eb](ModeEFlatDathimic.md) | **Eb**, **F##**, **G##**, **A##**, B#, **C#**, **Eb** | C | ![EFlatDathimic](ModeEFlatDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatDathimic.mid?raw=true) |
+| [E](ModeENaturalDathimic.md) | **E**, **F###**, **G###**, **A###**, B##, **C##**, **E** | C | ![ENaturalDathimic](ModeENaturalDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalDathimic.mid?raw=true) |
+| [F](ModeFNaturalDathimic.md) | **F**, **G##**, **A##**, **B##**, C##, **D#**, **F** | C | ![FNaturalDathimic](ModeFNaturalDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalDathimic.mid?raw=true) |
+| [F#](ModeFSharpDathimic.md) | **F#**, **G###**, **A###**, **B###**, C###, **D##**, **F#** | C | ![FSharpDathimic](ModeFSharpDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpDathimic.mid?raw=true) |
+| [Gb](ModeGFlatDathimic.md) | **Gb**, **A#**, **B#**, **C##**, D#, **E**, **Gb** | C | ![GFlatDathimic](ModeGFlatDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatDathimic.mid?raw=true) |
+| [G](ModeGNaturalDathimic.md) | **G**, **A##**, **B##**, **C###**, D##, **E#**, **G** | C | ![GNaturalDathimic](ModeGNaturalDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalDathimic.mid?raw=true) |
+| [G#](ModeGSharpDathimic.md) | **G#**, **A###**, **B###**, **D##**, E#, **F#**, **G#** | C | ![GSharpDathimic](ModeGSharpDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpDathimic.mid?raw=true) |
+| [Ab](ModeAFlatDathimic.md) | **Ab**, **B#**, **C##**, **D##**, E#, **F#**, **Ab** | C | ![AFlatDathimic](ModeAFlatDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatDathimic.mid?raw=true) |
+| [A](ModeANaturalDathimic.md) | **A**, **B##**, **C###**, **D###**, E##, **F##**, **A** | C | ![ANaturalDathimic](ModeANaturalDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalDathimic.mid?raw=true) |
+| [A#](ModeASharpDathimic.md) | **A#**, **B###**, **D##**, **E##**, F##, **G#**, **A#** | C | ![ASharpDathimic](ModeASharpDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpDathimic.mid?raw=true) |
+| [Bb](ModeBFlatDathimic.md) | **Bb**, **C##**, **D##**, **E##**, F##, **G#**, **Bb** | C | ![BFlatDathimic](ModeBFlatDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatDathimic.mid?raw=true) |
+| [B](ModeBNaturalDathimic.md) | **B**, **C###**, **D###**, **E###**, F###, **G##**, **B** | C | ![BNaturalDathimic](ModeBNaturalDathimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalDathimic.mid?raw=true) |

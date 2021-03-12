@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalManimic.md) | C, **D##**, **E##**, **F##**, G##, **A#**, C | C | ![CNaturalManimic](ModeCNaturalManimic.png) | [midi](ModeCNaturalManimic.mid) [ogg](ModeCNaturalManimic.ogg) |
-| [C#](ModeCSharpManimic.md) | C#, **D###**, **E###**, **F###**, G###, **A##**, C# | C | ![CSharpManimic](ModeCSharpManimic.png) | [midi](ModeCSharpManimic.mid) [ogg](ModeCSharpManimic.ogg) |
-| [Db](ModeDFlatManimic.md) | Db, **E#**, **F##**, **G#**, A#, **B**, Db | C | ![DFlatManimic](ModeDFlatManimic.png) | [midi](ModeDFlatManimic.mid) [ogg](ModeDFlatManimic.ogg) |
-| [D](ModeDNaturalManimic.md) | D, **E##**, **F###**, **G##**, A##, **B#**, D | C | ![DNaturalManimic](ModeDNaturalManimic.png) | [midi](ModeDNaturalManimic.mid) [ogg](ModeDNaturalManimic.ogg) |
-| [D#](ModeDSharpManimic.md) | D#, **E###**, **Cbbb**, **Cbb**, Dbb, **Ebbb**, D# | C | ![DSharpManimic](ModeDSharpManimic.png) | [midi](ModeDSharpManimic.mid) [ogg](ModeDSharpManimic.ogg) |
-| [Eb](ModeEFlatManimic.md) | Eb, **F##**, **G##**, **A#**, B#, **C#**, Eb | C | ![EFlatManimic](ModeEFlatManimic.png) | [midi](ModeEFlatManimic.mid) [ogg](ModeEFlatManimic.ogg) |
-| [E](ModeENaturalManimic.md) | E, **F###**, **G###**, **A##**, B##, **C##**, E | C | ![ENaturalManimic](ModeENaturalManimic.png) | [midi](ModeENaturalManimic.mid) [ogg](ModeENaturalManimic.ogg) |
-| [F](ModeFNaturalManimic.md) | F, **G##**, **A##**, **B#**, C##, **D#**, F | C | ![FNaturalManimic](ModeFNaturalManimic.png) | [midi](ModeFNaturalManimic.mid) [ogg](ModeFNaturalManimic.ogg) |
-| [F#](ModeFSharpManimic.md) | F#, **G###**, **A###**, **B##**, C###, **D##**, F# | C | ![FSharpManimic](ModeFSharpManimic.png) | [midi](ModeFSharpManimic.mid) [ogg](ModeFSharpManimic.ogg) |
-| [Gb](ModeGFlatManimic.md) | Gb, **A#**, **B#**, **C#**, D#, **E**, Gb | C | ![GFlatManimic](ModeGFlatManimic.png) | [midi](ModeGFlatManimic.mid) [ogg](ModeGFlatManimic.ogg) |
-| [G](ModeGNaturalManimic.md) | G, **A##**, **B##**, **C##**, D##, **E#**, G | C | ![GNaturalManimic](ModeGNaturalManimic.png) | [midi](ModeGNaturalManimic.mid) [ogg](ModeGNaturalManimic.ogg) |
-| [G#](ModeGSharpManimic.md) | G#, **A###**, **B###**, **C###**, D###, **E##**, G# | C | ![GSharpManimic](ModeGSharpManimic.png) | [midi](ModeGSharpManimic.mid) [ogg](ModeGSharpManimic.ogg) |
-| [Ab](ModeAFlatManimic.md) | Ab, **B#**, **C##**, **D#**, E#, **F#**, Ab | C | ![AFlatManimic](ModeAFlatManimic.png) | [midi](ModeAFlatManimic.mid) [ogg](ModeAFlatManimic.ogg) |
-| [A](ModeANaturalManimic.md) | A, **B##**, **C###**, **D##**, E##, **F##**, A | C | ![ANaturalManimic](ModeANaturalManimic.png) | [midi](ModeANaturalManimic.mid) [ogg](ModeANaturalManimic.ogg) |
-| [A#](ModeASharpManimic.md) | A#, **B###**, **D##**, **E#**, F##, **G#**, A# | C | ![ASharpManimic](ModeASharpManimic.png) | [midi](ModeASharpManimic.mid) [ogg](ModeASharpManimic.ogg) |
-| [Bb](ModeBFlatManimic.md) | Bb, **C##**, **D##**, **E#**, F##, **G#**, Bb | C | ![BFlatManimic](ModeBFlatManimic.png) | [midi](ModeBFlatManimic.mid) [ogg](ModeBFlatManimic.ogg) |
-| [B](ModeBNaturalManimic.md) | B, **C###**, **D###**, **E##**, F###, **G##**, B | C | ![BNaturalManimic](ModeBNaturalManimic.png) | [midi](ModeBNaturalManimic.mid) [ogg](ModeBNaturalManimic.ogg) |
+| [C](ModeCNaturalManimic.md) | C, **D##**, **E##**, **F##**, G##, **A#**, C | C | ![CNaturalManimic](ModeCNaturalManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalManimic.mid?raw=true) |
+| [C#](ModeCSharpManimic.md) | C#, **D###**, **E###**, **F###**, G###, **A##**, C# | C | ![CSharpManimic](ModeCSharpManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpManimic.mid?raw=true) |
+| [Db](ModeDFlatManimic.md) | Db, **E#**, **F##**, **G#**, A#, **B**, Db | C | ![DFlatManimic](ModeDFlatManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatManimic.mid?raw=true) |
+| [D](ModeDNaturalManimic.md) | D, **E##**, **F###**, **G##**, A##, **B#**, D | C | ![DNaturalManimic](ModeDNaturalManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalManimic.mid?raw=true) |
+| [D#](ModeDSharpManimic.md) | D#, **E###**, **Cbbb**, **Cbb**, Dbb, **Ebbb**, D# | C | ![DSharpManimic](ModeDSharpManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpManimic.mid?raw=true) |
+| [Eb](ModeEFlatManimic.md) | Eb, **F##**, **G##**, **A#**, B#, **C#**, Eb | C | ![EFlatManimic](ModeEFlatManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatManimic.mid?raw=true) |
+| [E](ModeENaturalManimic.md) | E, **F###**, **G###**, **A##**, B##, **C##**, E | C | ![ENaturalManimic](ModeENaturalManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalManimic.mid?raw=true) |
+| [F](ModeFNaturalManimic.md) | F, **G##**, **A##**, **B#**, C##, **D#**, F | C | ![FNaturalManimic](ModeFNaturalManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalManimic.mid?raw=true) |
+| [F#](ModeFSharpManimic.md) | F#, **G###**, **A###**, **B##**, C###, **D##**, F# | C | ![FSharpManimic](ModeFSharpManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpManimic.mid?raw=true) |
+| [Gb](ModeGFlatManimic.md) | Gb, **A#**, **B#**, **C#**, D#, **E**, Gb | C | ![GFlatManimic](ModeGFlatManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatManimic.mid?raw=true) |
+| [G](ModeGNaturalManimic.md) | G, **A##**, **B##**, **C##**, D##, **E#**, G | C | ![GNaturalManimic](ModeGNaturalManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalManimic.mid?raw=true) |
+| [G#](ModeGSharpManimic.md) | G#, **A###**, **B###**, **C###**, D###, **E##**, G# | C | ![GSharpManimic](ModeGSharpManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpManimic.mid?raw=true) |
+| [Ab](ModeAFlatManimic.md) | Ab, **B#**, **C##**, **D#**, E#, **F#**, Ab | C | ![AFlatManimic](ModeAFlatManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatManimic.mid?raw=true) |
+| [A](ModeANaturalManimic.md) | A, **B##**, **C###**, **D##**, E##, **F##**, A | C | ![ANaturalManimic](ModeANaturalManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalManimic.mid?raw=true) |
+| [A#](ModeASharpManimic.md) | A#, **B###**, **D##**, **E#**, F##, **G#**, A# | C | ![ASharpManimic](ModeASharpManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpManimic.mid?raw=true) |
+| [Bb](ModeBFlatManimic.md) | Bb, **C##**, **D##**, **E#**, F##, **G#**, Bb | C | ![BFlatManimic](ModeBFlatManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatManimic.mid?raw=true) |
+| [B](ModeBNaturalManimic.md) | B, **C###**, **D###**, **E##**, F###, **G##**, B | C | ![BNaturalManimic](ModeBNaturalManimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalManimic.mid?raw=true) |

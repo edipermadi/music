@@ -62,11 +62,11 @@ G#
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 2320 | G# | [G#m#5](ChordGSharpMinorSharpFifth.md) | G#, B, E | ![G#m#5](ChordGSharpMinorSharpFifthRootPosition.png) | [midi](ChordGSharpMinorSharpFifthRootPosition.mid) [ogg](ChordGSharpMinorSharpFifthRootPosition.ogg) |
-| 273 | G# | [G#+](ChordGSharpAugmented.md) | G#, B#, D## | ![G#+](ChordGSharpAugmentedRootPosition.png) | [midi](ChordGSharpAugmentedRootPosition.mid) [ogg](ChordGSharpAugmentedRootPosition.ogg) |
-| 273 | G# | [G#+7](ChordGSharpAugmentedAugmentedSeventh.md) | G#, B#, D##, F### | ![G#+7](ChordGSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordGSharpAugmentedAugmentedSeventhRootPosition.mid) [ogg](ChordGSharpAugmentedAugmentedSeventhRootPosition.ogg) |
-| 2384 | G# | [G#m7#5](ChordGSharpMinorSeventhSharpFifth.md) | G#, B, D##, F# | ![G#m7#5](ChordGSharpMinorSeventhSharpFifthRootPosition.png) | [midi](ChordGSharpMinorSeventhSharpFifthRootPosition.mid) [ogg](ChordGSharpMinorSeventhSharpFifthRootPosition.ogg) |
-| 401 | G# | [G#+(M7)](ChordGSharpAugmentedMajorSeventh.md) | G#, B#, D##, F## | ![G#+(M7)](ChordGSharpAugmentedMajorSeventhRootPosition.png) | [midi](ChordGSharpAugmentedMajorSeventhRootPosition.mid) [ogg](ChordGSharpAugmentedMajorSeventhRootPosition.ogg) |
+| 2320 | G# | [G#m#5](ChordGSharpMinorSharpFifth.md) | G#, B, E | ![G#m#5](ChordGSharpMinorSharpFifthRootPosition.png) | [midi](ChordGSharpMinorSharpFifthRootPosition.mid) |
+| 273 | G# | [G#+](ChordGSharpAugmented.md) | G#, B#, D## | ![G#+](ChordGSharpAugmentedRootPosition.png) | [midi](ChordGSharpAugmentedRootPosition.mid) |
+| 273 | G# | [G#+7](ChordGSharpAugmentedAugmentedSeventh.md) | G#, B#, D##, F### | ![G#+7](ChordGSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordGSharpAugmentedAugmentedSeventhRootPosition.mid) |
+| 2384 | G# | [G#m7#5](ChordGSharpMinorSeventhSharpFifth.md) | G#, B, D##, F# | ![G#m7#5](ChordGSharpMinorSeventhSharpFifthRootPosition.png) | [midi](ChordGSharpMinorSeventhSharpFifthRootPosition.mid) |
+| 401 | G# | [G#+(M7)](ChordGSharpAugmentedMajorSeventh.md) | G#, B#, D##, F## | ![G#+(M7)](ChordGSharpAugmentedMajorSeventhRootPosition.png) | [midi](ChordGSharpAugmentedMajorSeventhRootPosition.mid) |
 
 ### A##
 

@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalLanian.md) | C, **Db**, Ebb, F, Gb, Abb, **Bbb**, C | C | ![CNaturalLanian](ModeCNaturalLanian.png) | [midi](ModeCNaturalLanian.mid) [ogg](ModeCNaturalLanian.ogg) |
-| [C#](ModeCSharpLanian.md) | C#, **D**, Eb, F#, G, Ab, **Bb**, C# | C | ![CSharpLanian](ModeCSharpLanian.png) | [midi](ModeCSharpLanian.mid) [ogg](ModeCSharpLanian.ogg) |
-| [Db](ModeDFlatLanian.md) | Db, **Ebb**, Fbb, Gb, Abb, Bbbb, **Cbb**, Db | C | ![DFlatLanian](ModeDFlatLanian.png) | [midi](ModeDFlatLanian.mid) [ogg](ModeDFlatLanian.ogg) |
-| [D](ModeDNaturalLanian.md) | D, **Eb**, Fb, G, Ab, Bbb, **Cb**, D | C | ![DNaturalLanian](ModeDNaturalLanian.png) | [midi](ModeDNaturalLanian.mid) [ogg](ModeDNaturalLanian.ogg) |
-| [D#](ModeDSharpLanian.md) | D#, **E**, F, G#, A, Bb, **C**, D# | C | ![DSharpLanian](ModeDSharpLanian.png) | [midi](ModeDSharpLanian.mid) [ogg](ModeDSharpLanian.ogg) |
-| [Eb](ModeEFlatLanian.md) | Eb, **Fb**, Gbb, Ab, Bbb, Cbb, **Dbb**, Eb | C | ![EFlatLanian](ModeEFlatLanian.png) | [midi](ModeEFlatLanian.mid) [ogg](ModeEFlatLanian.ogg) |
-| [E](ModeENaturalLanian.md) | E, **F**, Gb, A, Bb, Cb, **Db**, E | C | ![ENaturalLanian](ModeENaturalLanian.png) | [midi](ModeENaturalLanian.mid) [ogg](ModeENaturalLanian.ogg) |
-| [F](ModeFNaturalLanian.md) | F, **Gb**, Abb, Bb, Cb, Dbb, **Ebb**, F | C | ![FNaturalLanian](ModeFNaturalLanian.png) | [midi](ModeFNaturalLanian.mid) [ogg](ModeFNaturalLanian.ogg) |
-| [F#](ModeFSharpLanian.md) | F#, **G**, Ab, B, C, Db, **Eb**, F# | C | ![FSharpLanian](ModeFSharpLanian.png) | [midi](ModeFSharpLanian.mid) [ogg](ModeFSharpLanian.ogg) |
-| [Gb](ModeGFlatLanian.md) | Gb, **Abb**, Bbbb, Cb, Dbb, Ebbb, **Fbb**, Gb | C | ![GFlatLanian](ModeGFlatLanian.png) | [midi](ModeGFlatLanian.mid) [ogg](ModeGFlatLanian.ogg) |
-| [G](ModeGNaturalLanian.md) | G, **Ab**, Bbb, C, Db, Ebb, **Fb**, G | C | ![GNaturalLanian](ModeGNaturalLanian.png) | [midi](ModeGNaturalLanian.mid) [ogg](ModeGNaturalLanian.ogg) |
-| [G#](ModeGSharpLanian.md) | G#, **A**, Bb, C#, D, Eb, **F**, G# | C | ![GSharpLanian](ModeGSharpLanian.png) | [midi](ModeGSharpLanian.mid) [ogg](ModeGSharpLanian.ogg) |
-| [Ab](ModeAFlatLanian.md) | Ab, **Bbb**, Cbb, Db, Ebb, Fbb, **Gbb**, Ab | C | ![AFlatLanian](ModeAFlatLanian.png) | [midi](ModeAFlatLanian.mid) [ogg](ModeAFlatLanian.ogg) |
-| [A](ModeANaturalLanian.md) | A, **Bb**, Cb, D, Eb, Fb, **Gb**, A | C | ![ANaturalLanian](ModeANaturalLanian.png) | [midi](ModeANaturalLanian.mid) [ogg](ModeANaturalLanian.ogg) |
-| [A#](ModeASharpLanian.md) | A#, **B**, C, D#, E, F, **G**, A# | C | ![ASharpLanian](ModeASharpLanian.png) | [midi](ModeASharpLanian.mid) [ogg](ModeASharpLanian.ogg) |
-| [Bb](ModeBFlatLanian.md) | Bb, **Cb**, Dbb, Eb, Fb, Gbb, **Abb**, Bb | C | ![BFlatLanian](ModeBFlatLanian.png) | [midi](ModeBFlatLanian.mid) [ogg](ModeBFlatLanian.ogg) |
-| [B](ModeBNaturalLanian.md) | B, **C**, Db, E, F, Gb, **Ab**, B | C | ![BNaturalLanian](ModeBNaturalLanian.png) | [midi](ModeBNaturalLanian.mid) [ogg](ModeBNaturalLanian.ogg) |
+| [C](ModeCNaturalLanian.md) | C, **Db**, Ebb, F, Gb, Abb, **Bbb**, C | C | ![CNaturalLanian](ModeCNaturalLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalLanian.mid?raw=true) |
+| [C#](ModeCSharpLanian.md) | C#, **D**, Eb, F#, G, Ab, **Bb**, C# | C | ![CSharpLanian](ModeCSharpLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpLanian.mid?raw=true) |
+| [Db](ModeDFlatLanian.md) | Db, **Ebb**, Fbb, Gb, Abb, Bbbb, **Cbb**, Db | C | ![DFlatLanian](ModeDFlatLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatLanian.mid?raw=true) |
+| [D](ModeDNaturalLanian.md) | D, **Eb**, Fb, G, Ab, Bbb, **Cb**, D | C | ![DNaturalLanian](ModeDNaturalLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalLanian.mid?raw=true) |
+| [D#](ModeDSharpLanian.md) | D#, **E**, F, G#, A, Bb, **C**, D# | C | ![DSharpLanian](ModeDSharpLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpLanian.mid?raw=true) |
+| [Eb](ModeEFlatLanian.md) | Eb, **Fb**, Gbb, Ab, Bbb, Cbb, **Dbb**, Eb | C | ![EFlatLanian](ModeEFlatLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatLanian.mid?raw=true) |
+| [E](ModeENaturalLanian.md) | E, **F**, Gb, A, Bb, Cb, **Db**, E | C | ![ENaturalLanian](ModeENaturalLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalLanian.mid?raw=true) |
+| [F](ModeFNaturalLanian.md) | F, **Gb**, Abb, Bb, Cb, Dbb, **Ebb**, F | C | ![FNaturalLanian](ModeFNaturalLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalLanian.mid?raw=true) |
+| [F#](ModeFSharpLanian.md) | F#, **G**, Ab, B, C, Db, **Eb**, F# | C | ![FSharpLanian](ModeFSharpLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpLanian.mid?raw=true) |
+| [Gb](ModeGFlatLanian.md) | Gb, **Abb**, Bbbb, Cb, Dbb, Ebbb, **Fbb**, Gb | C | ![GFlatLanian](ModeGFlatLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatLanian.mid?raw=true) |
+| [G](ModeGNaturalLanian.md) | G, **Ab**, Bbb, C, Db, Ebb, **Fb**, G | C | ![GNaturalLanian](ModeGNaturalLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalLanian.mid?raw=true) |
+| [G#](ModeGSharpLanian.md) | G#, **A**, Bb, C#, D, Eb, **F**, G# | C | ![GSharpLanian](ModeGSharpLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpLanian.mid?raw=true) |
+| [Ab](ModeAFlatLanian.md) | Ab, **Bbb**, Cbb, Db, Ebb, Fbb, **Gbb**, Ab | C | ![AFlatLanian](ModeAFlatLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatLanian.mid?raw=true) |
+| [A](ModeANaturalLanian.md) | A, **Bb**, Cb, D, Eb, Fb, **Gb**, A | C | ![ANaturalLanian](ModeANaturalLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalLanian.mid?raw=true) |
+| [A#](ModeASharpLanian.md) | A#, **B**, C, D#, E, F, **G**, A# | C | ![ASharpLanian](ModeASharpLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpLanian.mid?raw=true) |
+| [Bb](ModeBFlatLanian.md) | Bb, **Cb**, Dbb, Eb, Fb, Gbb, **Abb**, Bb | C | ![BFlatLanian](ModeBFlatLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatLanian.mid?raw=true) |
+| [B](ModeBNaturalLanian.md) | B, **C**, Db, E, F, Gb, **Ab**, B | C | ![BNaturalLanian](ModeBNaturalLanian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalLanian.mid?raw=true) |

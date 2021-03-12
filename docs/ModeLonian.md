@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalLonian.md) | C, D, E#, **F#**, G, **A**, Bb, C | C | ![CNaturalLonian](ModeCNaturalLonian.png) | [midi](ModeCNaturalLonian.mid) [ogg](ModeCNaturalLonian.ogg) |
-| [C#](ModeCSharpLonian.md) | C#, D#, E##, **F##**, G#, **A#**, B, C# | C | ![CSharpLonian](ModeCSharpLonian.png) | [midi](ModeCSharpLonian.mid) [ogg](ModeCSharpLonian.ogg) |
-| [Db](ModeDFlatLonian.md) | Db, Eb, F#, **G**, Ab, **Bb**, Cb, Db | C | ![DFlatLonian](ModeDFlatLonian.png) | [midi](ModeDFlatLonian.mid) [ogg](ModeDFlatLonian.ogg) |
-| [D](ModeDNaturalLonian.md) | D, E, F##, **G#**, A, **B**, C, D | C | ![DNaturalLonian](ModeDNaturalLonian.png) | [midi](ModeDNaturalLonian.mid) [ogg](ModeDNaturalLonian.ogg) |
-| [D#](ModeDSharpLonian.md) | D#, E#, F###, **G##**, A#, **B#**, C#, D# | C | ![DSharpLonian](ModeDSharpLonian.png) | [midi](ModeDSharpLonian.mid) [ogg](ModeDSharpLonian.ogg) |
-| [Eb](ModeEFlatLonian.md) | Eb, F, G#, **A**, Bb, **C**, Db, Eb | C | ![EFlatLonian](ModeEFlatLonian.png) | [midi](ModeEFlatLonian.mid) [ogg](ModeEFlatLonian.ogg) |
-| [E](ModeENaturalLonian.md) | E, F#, G##, **A#**, B, **C#**, D, E | C | ![ENaturalLonian](ModeENaturalLonian.png) | [midi](ModeENaturalLonian.mid) [ogg](ModeENaturalLonian.ogg) |
-| [F](ModeFNaturalLonian.md) | F, G, A#, **B**, C, **D**, Eb, F | C | ![FNaturalLonian](ModeFNaturalLonian.png) | [midi](ModeFNaturalLonian.mid) [ogg](ModeFNaturalLonian.ogg) |
-| [F#](ModeFSharpLonian.md) | F#, G#, A##, **B#**, C#, **D#**, E, F# | C | ![FSharpLonian](ModeFSharpLonian.png) | [midi](ModeFSharpLonian.mid) [ogg](ModeFSharpLonian.ogg) |
-| [Gb](ModeGFlatLonian.md) | Gb, Ab, B, **C**, Db, **Eb**, Fb, Gb | C | ![GFlatLonian](ModeGFlatLonian.png) | [midi](ModeGFlatLonian.mid) [ogg](ModeGFlatLonian.ogg) |
-| [G](ModeGNaturalLonian.md) | G, A, B#, **C#**, D, **E**, F, G | C | ![GNaturalLonian](ModeGNaturalLonian.png) | [midi](ModeGNaturalLonian.mid) [ogg](ModeGNaturalLonian.ogg) |
-| [G#](ModeGSharpLonian.md) | G#, A#, B##, **C##**, D#, **E#**, F#, G# | C | ![GSharpLonian](ModeGSharpLonian.png) | [midi](ModeGSharpLonian.mid) [ogg](ModeGSharpLonian.ogg) |
-| [Ab](ModeAFlatLonian.md) | Ab, Bb, C#, **D**, Eb, **F**, Gb, Ab | C | ![AFlatLonian](ModeAFlatLonian.png) | [midi](ModeAFlatLonian.mid) [ogg](ModeAFlatLonian.ogg) |
-| [A](ModeANaturalLonian.md) | A, B, C##, **D#**, E, **F#**, G, A | C | ![ANaturalLonian](ModeANaturalLonian.png) | [midi](ModeANaturalLonian.mid) [ogg](ModeANaturalLonian.ogg) |
-| [A#](ModeASharpLonian.md) | A#, B#, C###, **D##**, E#, **F##**, G#, A# | C | ![ASharpLonian](ModeASharpLonian.png) | [midi](ModeASharpLonian.mid) [ogg](ModeASharpLonian.ogg) |
-| [Bb](ModeBFlatLonian.md) | Bb, C, D#, **E**, F, **G**, Ab, Bb | C | ![BFlatLonian](ModeBFlatLonian.png) | [midi](ModeBFlatLonian.mid) [ogg](ModeBFlatLonian.ogg) |
-| [B](ModeBNaturalLonian.md) | B, C#, D##, **E#**, F#, **G#**, A, B | C | ![BNaturalLonian](ModeBNaturalLonian.png) | [midi](ModeBNaturalLonian.mid) [ogg](ModeBNaturalLonian.ogg) |
+| [C](ModeCNaturalLonian.md) | C, D, E#, **F#**, G, **A**, Bb, C | C | ![CNaturalLonian](ModeCNaturalLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalLonian.mid?raw=true) |
+| [C#](ModeCSharpLonian.md) | C#, D#, E##, **F##**, G#, **A#**, B, C# | C | ![CSharpLonian](ModeCSharpLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpLonian.mid?raw=true) |
+| [Db](ModeDFlatLonian.md) | Db, Eb, F#, **G**, Ab, **Bb**, Cb, Db | C | ![DFlatLonian](ModeDFlatLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatLonian.mid?raw=true) |
+| [D](ModeDNaturalLonian.md) | D, E, F##, **G#**, A, **B**, C, D | C | ![DNaturalLonian](ModeDNaturalLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalLonian.mid?raw=true) |
+| [D#](ModeDSharpLonian.md) | D#, E#, F###, **G##**, A#, **B#**, C#, D# | C | ![DSharpLonian](ModeDSharpLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpLonian.mid?raw=true) |
+| [Eb](ModeEFlatLonian.md) | Eb, F, G#, **A**, Bb, **C**, Db, Eb | C | ![EFlatLonian](ModeEFlatLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatLonian.mid?raw=true) |
+| [E](ModeENaturalLonian.md) | E, F#, G##, **A#**, B, **C#**, D, E | C | ![ENaturalLonian](ModeENaturalLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalLonian.mid?raw=true) |
+| [F](ModeFNaturalLonian.md) | F, G, A#, **B**, C, **D**, Eb, F | C | ![FNaturalLonian](ModeFNaturalLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalLonian.mid?raw=true) |
+| [F#](ModeFSharpLonian.md) | F#, G#, A##, **B#**, C#, **D#**, E, F# | C | ![FSharpLonian](ModeFSharpLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpLonian.mid?raw=true) |
+| [Gb](ModeGFlatLonian.md) | Gb, Ab, B, **C**, Db, **Eb**, Fb, Gb | C | ![GFlatLonian](ModeGFlatLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatLonian.mid?raw=true) |
+| [G](ModeGNaturalLonian.md) | G, A, B#, **C#**, D, **E**, F, G | C | ![GNaturalLonian](ModeGNaturalLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalLonian.mid?raw=true) |
+| [G#](ModeGSharpLonian.md) | G#, A#, B##, **C##**, D#, **E#**, F#, G# | C | ![GSharpLonian](ModeGSharpLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpLonian.mid?raw=true) |
+| [Ab](ModeAFlatLonian.md) | Ab, Bb, C#, **D**, Eb, **F**, Gb, Ab | C | ![AFlatLonian](ModeAFlatLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatLonian.mid?raw=true) |
+| [A](ModeANaturalLonian.md) | A, B, C##, **D#**, E, **F#**, G, A | C | ![ANaturalLonian](ModeANaturalLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalLonian.mid?raw=true) |
+| [A#](ModeASharpLonian.md) | A#, B#, C###, **D##**, E#, **F##**, G#, A# | C | ![ASharpLonian](ModeASharpLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpLonian.mid?raw=true) |
+| [Bb](ModeBFlatLonian.md) | Bb, C, D#, **E**, F, **G**, Ab, Bb | C | ![BFlatLonian](ModeBFlatLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatLonian.mid?raw=true) |
+| [B](ModeBNaturalLonian.md) | B, C#, D##, **E#**, F#, **G#**, A, B | C | ![BNaturalLonian](ModeBNaturalLonian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalLonian.mid?raw=true) |

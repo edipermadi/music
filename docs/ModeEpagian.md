@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalEpagian.md) | C, D#, **E##**, **F##**, **G##**, **A#**, B, C | C | ![CNaturalEpagian](ModeCNaturalEpagian.png) | [midi](ModeCNaturalEpagian.mid) [ogg](ModeCNaturalEpagian.ogg) |
-| [C#](ModeCSharpEpagian.md) | C#, D##, **E###**, **F###**, **G###**, **A##**, B#, C# | C | ![CSharpEpagian](ModeCSharpEpagian.png) | [midi](ModeCSharpEpagian.mid) [ogg](ModeCSharpEpagian.ogg) |
-| [Db](ModeDFlatEpagian.md) | Db, E, **F##**, **G#**, **A#**, **B**, C, Db | C | ![DFlatEpagian](ModeDFlatEpagian.png) | [midi](ModeDFlatEpagian.mid) [ogg](ModeDFlatEpagian.ogg) |
-| [D](ModeDNaturalEpagian.md) | D, E#, **F###**, **G##**, **A##**, **B#**, C#, D | C | ![DNaturalEpagian](ModeDNaturalEpagian.png) | [midi](ModeDNaturalEpagian.mid) [ogg](ModeDNaturalEpagian.ogg) |
-| [D#](ModeDSharpEpagian.md) | D#, E##, **Cbbb**, **Cbb**, **Dbb**, **Ebbb**, Fbbb, D# | C | ![DSharpEpagian](ModeDSharpEpagian.png) | [midi](ModeDSharpEpagian.mid) [ogg](ModeDSharpEpagian.ogg) |
-| [Eb](ModeEFlatEpagian.md) | Eb, F#, **G##**, **A#**, **B#**, **C#**, D, Eb | C | ![EFlatEpagian](ModeEFlatEpagian.png) | [midi](ModeEFlatEpagian.mid) [ogg](ModeEFlatEpagian.ogg) |
-| [E](ModeENaturalEpagian.md) | E, F##, **G###**, **A##**, **B##**, **C##**, D#, E | C | ![ENaturalEpagian](ModeENaturalEpagian.png) | [midi](ModeENaturalEpagian.mid) [ogg](ModeENaturalEpagian.ogg) |
-| [F](ModeFNaturalEpagian.md) | F, G#, **A##**, **B#**, **C##**, **D#**, E, F | C | ![FNaturalEpagian](ModeFNaturalEpagian.png) | [midi](ModeFNaturalEpagian.mid) [ogg](ModeFNaturalEpagian.ogg) |
-| [F#](ModeFSharpEpagian.md) | F#, G##, **A###**, **B##**, **C###**, **D##**, E#, F# | C | ![FSharpEpagian](ModeFSharpEpagian.png) | [midi](ModeFSharpEpagian.mid) [ogg](ModeFSharpEpagian.ogg) |
-| [Gb](ModeGFlatEpagian.md) | Gb, A, **B#**, **C#**, **D#**, **E**, F, Gb | C | ![GFlatEpagian](ModeGFlatEpagian.png) | [midi](ModeGFlatEpagian.mid) [ogg](ModeGFlatEpagian.ogg) |
-| [G](ModeGNaturalEpagian.md) | G, A#, **B##**, **C##**, **D##**, **E#**, F#, G | C | ![GNaturalEpagian](ModeGNaturalEpagian.png) | [midi](ModeGNaturalEpagian.mid) [ogg](ModeGNaturalEpagian.ogg) |
-| [G#](ModeGSharpEpagian.md) | G#, A##, **B###**, **C###**, **D###**, **E##**, F##, G# | C | ![GSharpEpagian](ModeGSharpEpagian.png) | [midi](ModeGSharpEpagian.mid) [ogg](ModeGSharpEpagian.ogg) |
-| [Ab](ModeAFlatEpagian.md) | Ab, B, **C##**, **D#**, **E#**, **F#**, G, Ab | C | ![AFlatEpagian](ModeAFlatEpagian.png) | [midi](ModeAFlatEpagian.mid) [ogg](ModeAFlatEpagian.ogg) |
-| [A](ModeANaturalEpagian.md) | A, B#, **C###**, **D##**, **E##**, **F##**, G#, A | C | ![ANaturalEpagian](ModeANaturalEpagian.png) | [midi](ModeANaturalEpagian.mid) [ogg](ModeANaturalEpagian.ogg) |
-| [A#](ModeASharpEpagian.md) | A#, B##, **D##**, **E#**, **F##**, **G#**, A, A# | C | ![ASharpEpagian](ModeASharpEpagian.png) | [midi](ModeASharpEpagian.mid) [ogg](ModeASharpEpagian.ogg) |
-| [Bb](ModeBFlatEpagian.md) | Bb, C#, **D##**, **E#**, **F##**, **G#**, A, Bb | C | ![BFlatEpagian](ModeBFlatEpagian.png) | [midi](ModeBFlatEpagian.mid) [ogg](ModeBFlatEpagian.ogg) |
-| [B](ModeBNaturalEpagian.md) | B, C##, **D###**, **E##**, **F###**, **G##**, A#, B | C | ![BNaturalEpagian](ModeBNaturalEpagian.png) | [midi](ModeBNaturalEpagian.mid) [ogg](ModeBNaturalEpagian.ogg) |
+| [C](ModeCNaturalEpagian.md) | C, D#, **E##**, **F##**, **G##**, **A#**, B, C | C | ![CNaturalEpagian](ModeCNaturalEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalEpagian.mid?raw=true) |
+| [C#](ModeCSharpEpagian.md) | C#, D##, **E###**, **F###**, **G###**, **A##**, B#, C# | C | ![CSharpEpagian](ModeCSharpEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpEpagian.mid?raw=true) |
+| [Db](ModeDFlatEpagian.md) | Db, E, **F##**, **G#**, **A#**, **B**, C, Db | C | ![DFlatEpagian](ModeDFlatEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatEpagian.mid?raw=true) |
+| [D](ModeDNaturalEpagian.md) | D, E#, **F###**, **G##**, **A##**, **B#**, C#, D | C | ![DNaturalEpagian](ModeDNaturalEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalEpagian.mid?raw=true) |
+| [D#](ModeDSharpEpagian.md) | D#, E##, **Cbbb**, **Cbb**, **Dbb**, **Ebbb**, Fbbb, D# | C | ![DSharpEpagian](ModeDSharpEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpEpagian.mid?raw=true) |
+| [Eb](ModeEFlatEpagian.md) | Eb, F#, **G##**, **A#**, **B#**, **C#**, D, Eb | C | ![EFlatEpagian](ModeEFlatEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatEpagian.mid?raw=true) |
+| [E](ModeENaturalEpagian.md) | E, F##, **G###**, **A##**, **B##**, **C##**, D#, E | C | ![ENaturalEpagian](ModeENaturalEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalEpagian.mid?raw=true) |
+| [F](ModeFNaturalEpagian.md) | F, G#, **A##**, **B#**, **C##**, **D#**, E, F | C | ![FNaturalEpagian](ModeFNaturalEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalEpagian.mid?raw=true) |
+| [F#](ModeFSharpEpagian.md) | F#, G##, **A###**, **B##**, **C###**, **D##**, E#, F# | C | ![FSharpEpagian](ModeFSharpEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpEpagian.mid?raw=true) |
+| [Gb](ModeGFlatEpagian.md) | Gb, A, **B#**, **C#**, **D#**, **E**, F, Gb | C | ![GFlatEpagian](ModeGFlatEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatEpagian.mid?raw=true) |
+| [G](ModeGNaturalEpagian.md) | G, A#, **B##**, **C##**, **D##**, **E#**, F#, G | C | ![GNaturalEpagian](ModeGNaturalEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalEpagian.mid?raw=true) |
+| [G#](ModeGSharpEpagian.md) | G#, A##, **B###**, **C###**, **D###**, **E##**, F##, G# | C | ![GSharpEpagian](ModeGSharpEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpEpagian.mid?raw=true) |
+| [Ab](ModeAFlatEpagian.md) | Ab, B, **C##**, **D#**, **E#**, **F#**, G, Ab | C | ![AFlatEpagian](ModeAFlatEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatEpagian.mid?raw=true) |
+| [A](ModeANaturalEpagian.md) | A, B#, **C###**, **D##**, **E##**, **F##**, G#, A | C | ![ANaturalEpagian](ModeANaturalEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalEpagian.mid?raw=true) |
+| [A#](ModeASharpEpagian.md) | A#, B##, **D##**, **E#**, **F##**, **G#**, A, A# | C | ![ASharpEpagian](ModeASharpEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpEpagian.mid?raw=true) |
+| [Bb](ModeBFlatEpagian.md) | Bb, C#, **D##**, **E#**, **F##**, **G#**, A, Bb | C | ![BFlatEpagian](ModeBFlatEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatEpagian.mid?raw=true) |
+| [B](ModeBNaturalEpagian.md) | B, C##, **D###**, **E##**, **F###**, **G##**, A#, B | C | ![BNaturalEpagian](ModeBNaturalEpagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalEpagian.mid?raw=true) |

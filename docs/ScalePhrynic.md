@@ -21,4 +21,4 @@
 
 | Number | Mode | Notes | Illustration | Audio |
 |--------|------|-------|--------------|-------|
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | **C**, **D#**, **F#**, **A**, **C** | ![CNaturalPhrynic](ModeCNaturalPhrynic.png) | [midi](ModeCNaturalPhrynic.mid) [ogg](ModeCNaturalPhrynic.ogg) | 
+| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | **C**, **D#**, **F#**, **A**, **C** | ![CNaturalPhrynic](ModeCNaturalPhrynic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPhrynic.mid?raw=true) | 

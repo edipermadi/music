@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalDoptyllic.md) | C, **D#**, E, **F#**, **G**, G#, A, B, C | C | ![CNaturalDoptyllic](ModeCNaturalDoptyllic.png) | [midi](ModeCNaturalDoptyllic.mid) [ogg](ModeCNaturalDoptyllic.ogg) |
-| [C#](ModeCSharpDoptyllic.md) | C#, **E**, F, **G**, **G#**, A, A#, C, C# | C | ![CSharpDoptyllic](ModeCSharpDoptyllic.png) | [midi](ModeCSharpDoptyllic.mid) [ogg](ModeCSharpDoptyllic.ogg) |
-| [Db](ModeDFlatDoptyllic.md) | Db, **E**, F, **G**, **Ab**, A, Bb, C, Db | C | ![DFlatDoptyllic](ModeDFlatDoptyllic.png) | [midi](ModeDFlatDoptyllic.mid) [ogg](ModeDFlatDoptyllic.ogg) |
-| [D](ModeDNaturalDoptyllic.md) | D, **F**, F#, **G#**, **A**, A#, B, C#, D | C | ![DNaturalDoptyllic](ModeDNaturalDoptyllic.png) | [midi](ModeDNaturalDoptyllic.mid) [ogg](ModeDNaturalDoptyllic.ogg) |
-| [D#](ModeDSharpDoptyllic.md) | D#, **F#**, G, **A**, **A#**, B, C, D, D# | C | ![DSharpDoptyllic](ModeDSharpDoptyllic.png) | [midi](ModeDSharpDoptyllic.mid) [ogg](ModeDSharpDoptyllic.ogg) |
-| [Eb](ModeEFlatDoptyllic.md) | Eb, **Gb**, G, **A**, **Bb**, B, C, D, Eb | C | ![EFlatDoptyllic](ModeEFlatDoptyllic.png) | [midi](ModeEFlatDoptyllic.mid) [ogg](ModeEFlatDoptyllic.ogg) |
-| [E](ModeENaturalDoptyllic.md) | E, **G**, G#, **A#**, **B**, C, C#, D#, E | C | ![ENaturalDoptyllic](ModeENaturalDoptyllic.png) | [midi](ModeENaturalDoptyllic.mid) [ogg](ModeENaturalDoptyllic.ogg) |
-| [F](ModeFNaturalDoptyllic.md) | F, **G#**, A, **B**, **C**, C#, D, E, F | C | ![FNaturalDoptyllic](ModeFNaturalDoptyllic.png) | [midi](ModeFNaturalDoptyllic.mid) [ogg](ModeFNaturalDoptyllic.ogg) |
-| [F#](ModeFSharpDoptyllic.md) | F#, **A**, A#, **C**, **C#**, D, D#, F, F# | C | ![FSharpDoptyllic](ModeFSharpDoptyllic.png) | [midi](ModeFSharpDoptyllic.mid) [ogg](ModeFSharpDoptyllic.ogg) |
-| [Gb](ModeGFlatDoptyllic.md) | Gb, **A**, Bb, **C**, **Db**, D, Eb, F, Gb | C | ![GFlatDoptyllic](ModeGFlatDoptyllic.png) | [midi](ModeGFlatDoptyllic.mid) [ogg](ModeGFlatDoptyllic.ogg) |
-| [G](ModeGNaturalDoptyllic.md) | G, **A#**, B, **C#**, **D**, D#, E, F#, G | C | ![GNaturalDoptyllic](ModeGNaturalDoptyllic.png) | [midi](ModeGNaturalDoptyllic.mid) [ogg](ModeGNaturalDoptyllic.ogg) |
-| [G#](ModeGSharpDoptyllic.md) | G#, **B**, C, **D**, **D#**, E, F, G, G# | C | ![GSharpDoptyllic](ModeGSharpDoptyllic.png) | [midi](ModeGSharpDoptyllic.mid) [ogg](ModeGSharpDoptyllic.ogg) |
-| [Ab](ModeAFlatDoptyllic.md) | Ab, **B**, C, **D**, **Eb**, E, F, G, Ab | C | ![AFlatDoptyllic](ModeAFlatDoptyllic.png) | [midi](ModeAFlatDoptyllic.mid) [ogg](ModeAFlatDoptyllic.ogg) |
-| [A](ModeANaturalDoptyllic.md) | A, **C**, C#, **D#**, **E**, F, F#, G#, A | C | ![ANaturalDoptyllic](ModeANaturalDoptyllic.png) | [midi](ModeANaturalDoptyllic.mid) [ogg](ModeANaturalDoptyllic.ogg) |
-| [A#](ModeASharpDoptyllic.md) | A#, **C#**, D, **E**, **F**, F#, G, A, A# | C | ![ASharpDoptyllic](ModeASharpDoptyllic.png) | [midi](ModeASharpDoptyllic.mid) [ogg](ModeASharpDoptyllic.ogg) |
-| [Bb](ModeBFlatDoptyllic.md) | Bb, **Db**, D, **E**, **F**, Gb, G, A, Bb | C | ![BFlatDoptyllic](ModeBFlatDoptyllic.png) | [midi](ModeBFlatDoptyllic.mid) [ogg](ModeBFlatDoptyllic.ogg) |
-| [B](ModeBNaturalDoptyllic.md) | B, **D**, D#, **F**, **F#**, G, G#, A#, B | C | ![BNaturalDoptyllic](ModeBNaturalDoptyllic.png) | [midi](ModeBNaturalDoptyllic.mid) [ogg](ModeBNaturalDoptyllic.ogg) |
+| [C](ModeCNaturalDoptyllic.md) | C, **D#**, E, **F#**, **G**, G#, A, B, C | C | ![CNaturalDoptyllic](ModeCNaturalDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDoptyllic.mid?raw=true) |
+| [C#](ModeCSharpDoptyllic.md) | C#, **E**, F, **G**, **G#**, A, A#, C, C# | C | ![CSharpDoptyllic](ModeCSharpDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpDoptyllic.mid?raw=true) |
+| [Db](ModeDFlatDoptyllic.md) | Db, **E**, F, **G**, **Ab**, A, Bb, C, Db | C | ![DFlatDoptyllic](ModeDFlatDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatDoptyllic.mid?raw=true) |
+| [D](ModeDNaturalDoptyllic.md) | D, **F**, F#, **G#**, **A**, A#, B, C#, D | C | ![DNaturalDoptyllic](ModeDNaturalDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalDoptyllic.mid?raw=true) |
+| [D#](ModeDSharpDoptyllic.md) | D#, **F#**, G, **A**, **A#**, B, C, D, D# | C | ![DSharpDoptyllic](ModeDSharpDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpDoptyllic.mid?raw=true) |
+| [Eb](ModeEFlatDoptyllic.md) | Eb, **Gb**, G, **A**, **Bb**, B, C, D, Eb | C | ![EFlatDoptyllic](ModeEFlatDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatDoptyllic.mid?raw=true) |
+| [E](ModeENaturalDoptyllic.md) | E, **G**, G#, **A#**, **B**, C, C#, D#, E | C | ![ENaturalDoptyllic](ModeENaturalDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalDoptyllic.mid?raw=true) |
+| [F](ModeFNaturalDoptyllic.md) | F, **G#**, A, **B**, **C**, C#, D, E, F | C | ![FNaturalDoptyllic](ModeFNaturalDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalDoptyllic.mid?raw=true) |
+| [F#](ModeFSharpDoptyllic.md) | F#, **A**, A#, **C**, **C#**, D, D#, F, F# | C | ![FSharpDoptyllic](ModeFSharpDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpDoptyllic.mid?raw=true) |
+| [Gb](ModeGFlatDoptyllic.md) | Gb, **A**, Bb, **C**, **Db**, D, Eb, F, Gb | C | ![GFlatDoptyllic](ModeGFlatDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatDoptyllic.mid?raw=true) |
+| [G](ModeGNaturalDoptyllic.md) | G, **A#**, B, **C#**, **D**, D#, E, F#, G | C | ![GNaturalDoptyllic](ModeGNaturalDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalDoptyllic.mid?raw=true) |
+| [G#](ModeGSharpDoptyllic.md) | G#, **B**, C, **D**, **D#**, E, F, G, G# | C | ![GSharpDoptyllic](ModeGSharpDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpDoptyllic.mid?raw=true) |
+| [Ab](ModeAFlatDoptyllic.md) | Ab, **B**, C, **D**, **Eb**, E, F, G, Ab | C | ![AFlatDoptyllic](ModeAFlatDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatDoptyllic.mid?raw=true) |
+| [A](ModeANaturalDoptyllic.md) | A, **C**, C#, **D#**, **E**, F, F#, G#, A | C | ![ANaturalDoptyllic](ModeANaturalDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalDoptyllic.mid?raw=true) |
+| [A#](ModeASharpDoptyllic.md) | A#, **C#**, D, **E**, **F**, F#, G, A, A# | C | ![ASharpDoptyllic](ModeASharpDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpDoptyllic.mid?raw=true) |
+| [Bb](ModeBFlatDoptyllic.md) | Bb, **Db**, D, **E**, **F**, Gb, G, A, Bb | C | ![BFlatDoptyllic](ModeBFlatDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatDoptyllic.mid?raw=true) |
+| [B](ModeBNaturalDoptyllic.md) | B, **D**, D#, **F**, **F#**, G, G#, A#, B | C | ![BNaturalDoptyllic](ModeBNaturalDoptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalDoptyllic.mid?raw=true) |

@@ -63,12 +63,12 @@ E
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 1296 | E | [EMb5](ChordENaturalMajorFlatFifth.md) | E, G#, Bb | ![EMb5](ChordENaturalMajorFlatFifthRootPosition.png) | [midi](ChordENaturalMajorFlatFifthRootPosition.mid) [ogg](ChordENaturalMajorFlatFifthRootPosition.ogg) |
-| 1552 | E | [Esus4b5](ChordENaturalSuspendedFourthFlatFifth.md) | E, A, Bb | ![Esus4b5](ChordENaturalSuspendedFourthFlatFifthRootPosition.png) | [midi](ChordENaturalSuspendedFourthFlatFifthRootPosition.mid) [ogg](ChordENaturalSuspendedFourthFlatFifthRootPosition.ogg) |
-| 532 | E | [EQ](ChordENaturalQuartal.md) | E, A, D | ![EQ](ChordENaturalQuartalRootPosition.png) | [midi](ChordENaturalQuartalRootPosition.mid) [ogg](ChordENaturalQuartalRootPosition.ogg) |
-| 1300 | E | [E7b5](ChordENaturalDominantSeventhFlatFifth.md) | E, G#, Bb, D | ![E7b5](ChordENaturalDominantSeventhFlatFifthRootPosition.png) | [midi](ChordENaturalDominantSeventhFlatFifthRootPosition.mid) [ogg](ChordENaturalDominantSeventhFlatFifthRootPosition.ogg) |
-| 536 | E | [EQ+](ChordENaturalQuartalAugmented.md) | E, A, D# | ![EQ+](ChordENaturalQuartalAugmentedRootPosition.png) | [midi](ChordENaturalQuartalAugmentedRootPosition.mid) [ogg](ChordENaturalQuartalAugmentedRootPosition.ogg) |
-| 1304 | E | [EM7b5](ChordENaturalMajorSeventhFlatFifth.md) | E, G#, Bb, D# | ![EM7b5](ChordENaturalMajorSeventhFlatFifthRootPosition.png) | [midi](ChordENaturalMajorSeventhFlatFifthRootPosition.mid) [ogg](ChordENaturalMajorSeventhFlatFifthRootPosition.ogg) |
+| 1296 | E | [EMb5](ChordENaturalMajorFlatFifth.md) | E, G#, Bb | ![EMb5](ChordENaturalMajorFlatFifthRootPosition.png) | [midi](ChordENaturalMajorFlatFifthRootPosition.mid) |
+| 1552 | E | [Esus4b5](ChordENaturalSuspendedFourthFlatFifth.md) | E, A, Bb | ![Esus4b5](ChordENaturalSuspendedFourthFlatFifthRootPosition.png) | [midi](ChordENaturalSuspendedFourthFlatFifthRootPosition.mid) |
+| 532 | E | [EQ](ChordENaturalQuartal.md) | E, A, D | ![EQ](ChordENaturalQuartalRootPosition.png) | [midi](ChordENaturalQuartalRootPosition.mid) |
+| 1300 | E | [E7b5](ChordENaturalDominantSeventhFlatFifth.md) | E, G#, Bb, D | ![E7b5](ChordENaturalDominantSeventhFlatFifthRootPosition.png) | [midi](ChordENaturalDominantSeventhFlatFifthRootPosition.mid) |
+| 536 | E | [EQ+](ChordENaturalQuartalAugmented.md) | E, A, D# | ![EQ+](ChordENaturalQuartalAugmentedRootPosition.png) | [midi](ChordENaturalQuartalAugmentedRootPosition.mid) |
+| 1304 | E | [EM7b5](ChordENaturalMajorSeventhFlatFifth.md) | E, G#, Bb, D# | ![EM7b5](ChordENaturalMajorSeventhFlatFifthRootPosition.png) | [midi](ChordENaturalMajorSeventhFlatFifthRootPosition.mid) |
 
 ### F###
 

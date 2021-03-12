@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalMadyllic.md) | C, C#, D, E, G, **G#**, A, **B**, C | C | ![CNaturalMadyllic](ModeCNaturalMadyllic.png) | [midi](ModeCNaturalMadyllic.mid) [ogg](ModeCNaturalMadyllic.ogg) |
-| [C#](ModeCSharpMadyllic.md) | C#, D, D#, F, G#, **A**, A#, **C**, C# | C | ![CSharpMadyllic](ModeCSharpMadyllic.png) | [midi](ModeCSharpMadyllic.mid) [ogg](ModeCSharpMadyllic.ogg) |
-| [Db](ModeDFlatMadyllic.md) | Db, D, Eb, F, Ab, **A**, Bb, **C**, Db | C | ![DFlatMadyllic](ModeDFlatMadyllic.png) | [midi](ModeDFlatMadyllic.mid) [ogg](ModeDFlatMadyllic.ogg) |
-| [D](ModeDNaturalMadyllic.md) | D, D#, E, F#, A, **A#**, B, **C#**, D | C | ![DNaturalMadyllic](ModeDNaturalMadyllic.png) | [midi](ModeDNaturalMadyllic.mid) [ogg](ModeDNaturalMadyllic.ogg) |
-| [D#](ModeDSharpMadyllic.md) | D#, E, F, G, A#, **B**, C, **D**, D# | C | ![DSharpMadyllic](ModeDSharpMadyllic.png) | [midi](ModeDSharpMadyllic.mid) [ogg](ModeDSharpMadyllic.ogg) |
-| [Eb](ModeEFlatMadyllic.md) | Eb, E, F, G, Bb, **B**, C, **D**, Eb | C | ![EFlatMadyllic](ModeEFlatMadyllic.png) | [midi](ModeEFlatMadyllic.mid) [ogg](ModeEFlatMadyllic.ogg) |
-| [E](ModeENaturalMadyllic.md) | E, F, F#, G#, B, **C**, C#, **D#**, E | C | ![ENaturalMadyllic](ModeENaturalMadyllic.png) | [midi](ModeENaturalMadyllic.mid) [ogg](ModeENaturalMadyllic.ogg) |
-| [F](ModeFNaturalMadyllic.md) | F, F#, G, A, C, **C#**, D, **E**, F | C | ![FNaturalMadyllic](ModeFNaturalMadyllic.png) | [midi](ModeFNaturalMadyllic.mid) [ogg](ModeFNaturalMadyllic.ogg) |
-| [F#](ModeFSharpMadyllic.md) | F#, G, G#, A#, C#, **D**, D#, **F**, F# | C | ![FSharpMadyllic](ModeFSharpMadyllic.png) | [midi](ModeFSharpMadyllic.mid) [ogg](ModeFSharpMadyllic.ogg) |
-| [Gb](ModeGFlatMadyllic.md) | Gb, G, Ab, Bb, Db, **D**, Eb, **F**, Gb | C | ![GFlatMadyllic](ModeGFlatMadyllic.png) | [midi](ModeGFlatMadyllic.mid) [ogg](ModeGFlatMadyllic.ogg) |
-| [G](ModeGNaturalMadyllic.md) | G, G#, A, B, D, **D#**, E, **F#**, G | C | ![GNaturalMadyllic](ModeGNaturalMadyllic.png) | [midi](ModeGNaturalMadyllic.mid) [ogg](ModeGNaturalMadyllic.ogg) |
-| [G#](ModeGSharpMadyllic.md) | G#, A, A#, C, D#, **E**, F, **G**, G# | C | ![GSharpMadyllic](ModeGSharpMadyllic.png) | [midi](ModeGSharpMadyllic.mid) [ogg](ModeGSharpMadyllic.ogg) |
-| [Ab](ModeAFlatMadyllic.md) | Ab, A, Bb, C, Eb, **E**, F, **G**, Ab | C | ![AFlatMadyllic](ModeAFlatMadyllic.png) | [midi](ModeAFlatMadyllic.mid) [ogg](ModeAFlatMadyllic.ogg) |
-| [A](ModeANaturalMadyllic.md) | A, A#, B, C#, E, **F**, F#, **G#**, A | C | ![ANaturalMadyllic](ModeANaturalMadyllic.png) | [midi](ModeANaturalMadyllic.mid) [ogg](ModeANaturalMadyllic.ogg) |
-| [A#](ModeASharpMadyllic.md) | A#, B, C, D, F, **F#**, G, **A**, A# | C | ![ASharpMadyllic](ModeASharpMadyllic.png) | [midi](ModeASharpMadyllic.mid) [ogg](ModeASharpMadyllic.ogg) |
-| [Bb](ModeBFlatMadyllic.md) | Bb, B, C, D, F, **Gb**, G, **A**, Bb | C | ![BFlatMadyllic](ModeBFlatMadyllic.png) | [midi](ModeBFlatMadyllic.mid) [ogg](ModeBFlatMadyllic.ogg) |
-| [B](ModeBNaturalMadyllic.md) | B, C, C#, D#, F#, **G**, G#, **A#**, B | C | ![BNaturalMadyllic](ModeBNaturalMadyllic.png) | [midi](ModeBNaturalMadyllic.mid) [ogg](ModeBNaturalMadyllic.ogg) |
+| [C](ModeCNaturalMadyllic.md) | C, C#, D, E, G, **G#**, A, **B**, C | C | ![CNaturalMadyllic](ModeCNaturalMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMadyllic.mid?raw=true) |
+| [C#](ModeCSharpMadyllic.md) | C#, D, D#, F, G#, **A**, A#, **C**, C# | C | ![CSharpMadyllic](ModeCSharpMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpMadyllic.mid?raw=true) |
+| [Db](ModeDFlatMadyllic.md) | Db, D, Eb, F, Ab, **A**, Bb, **C**, Db | C | ![DFlatMadyllic](ModeDFlatMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatMadyllic.mid?raw=true) |
+| [D](ModeDNaturalMadyllic.md) | D, D#, E, F#, A, **A#**, B, **C#**, D | C | ![DNaturalMadyllic](ModeDNaturalMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalMadyllic.mid?raw=true) |
+| [D#](ModeDSharpMadyllic.md) | D#, E, F, G, A#, **B**, C, **D**, D# | C | ![DSharpMadyllic](ModeDSharpMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpMadyllic.mid?raw=true) |
+| [Eb](ModeEFlatMadyllic.md) | Eb, E, F, G, Bb, **B**, C, **D**, Eb | C | ![EFlatMadyllic](ModeEFlatMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatMadyllic.mid?raw=true) |
+| [E](ModeENaturalMadyllic.md) | E, F, F#, G#, B, **C**, C#, **D#**, E | C | ![ENaturalMadyllic](ModeENaturalMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalMadyllic.mid?raw=true) |
+| [F](ModeFNaturalMadyllic.md) | F, F#, G, A, C, **C#**, D, **E**, F | C | ![FNaturalMadyllic](ModeFNaturalMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalMadyllic.mid?raw=true) |
+| [F#](ModeFSharpMadyllic.md) | F#, G, G#, A#, C#, **D**, D#, **F**, F# | C | ![FSharpMadyllic](ModeFSharpMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpMadyllic.mid?raw=true) |
+| [Gb](ModeGFlatMadyllic.md) | Gb, G, Ab, Bb, Db, **D**, Eb, **F**, Gb | C | ![GFlatMadyllic](ModeGFlatMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatMadyllic.mid?raw=true) |
+| [G](ModeGNaturalMadyllic.md) | G, G#, A, B, D, **D#**, E, **F#**, G | C | ![GNaturalMadyllic](ModeGNaturalMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalMadyllic.mid?raw=true) |
+| [G#](ModeGSharpMadyllic.md) | G#, A, A#, C, D#, **E**, F, **G**, G# | C | ![GSharpMadyllic](ModeGSharpMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpMadyllic.mid?raw=true) |
+| [Ab](ModeAFlatMadyllic.md) | Ab, A, Bb, C, Eb, **E**, F, **G**, Ab | C | ![AFlatMadyllic](ModeAFlatMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatMadyllic.mid?raw=true) |
+| [A](ModeANaturalMadyllic.md) | A, A#, B, C#, E, **F**, F#, **G#**, A | C | ![ANaturalMadyllic](ModeANaturalMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalMadyllic.mid?raw=true) |
+| [A#](ModeASharpMadyllic.md) | A#, B, C, D, F, **F#**, G, **A**, A# | C | ![ASharpMadyllic](ModeASharpMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpMadyllic.mid?raw=true) |
+| [Bb](ModeBFlatMadyllic.md) | Bb, B, C, D, F, **Gb**, G, **A**, Bb | C | ![BFlatMadyllic](ModeBFlatMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatMadyllic.mid?raw=true) |
+| [B](ModeBNaturalMadyllic.md) | B, C, C#, D#, F#, **G**, G#, **A#**, B | C | ![BNaturalMadyllic](ModeBNaturalMadyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalMadyllic.mid?raw=true) |

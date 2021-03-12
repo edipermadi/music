@@ -21,9 +21,9 @@
 
 | Number | Mode | Notes | Illustration | Audio |
 |--------|------|-------|--------------|-------|
-| [459](https://ianring.com/musictheory/scales/459) | [Zaptimic](ModeZaptimic.md) | C, Db, **Eb**, F#, **G**, Ab, C | ![CNaturalZaptimic](ModeCNaturalZaptimic.png) | [midi](ModeCNaturalZaptimic.mid) [ogg](ModeCNaturalZaptimic.ogg) | 
-| [711](https://ianring.com/musictheory/scales/711) | [Epyrimic](ModeEpyrimic.md) | C, **Db**, Ebb, F#, G, **A**, C | ![CNaturalEpyrimic](ModeCNaturalEpyrimic.png) | [midi](ModeCNaturalEpyrimic.mid) [ogg](ModeCNaturalEpyrimic.ogg) | 
-| [1593](https://ianring.com/musictheory/scales/1593) | [Zogimic](ModeZogimic.md) | **C**, D#, **E**, F, G##, A#, **C** | ![CNaturalZogimic](ModeCNaturalZogimic.png) | [midi](ModeCNaturalZogimic.mid) [ogg](ModeCNaturalZogimic.ogg) | 
-| [2277](https://ianring.com/musictheory/scales/2277) | [Kagimic](ModeKagimic.md) | C, **D**, E#, **F#**, G, A##, C | ![CNaturalKagimic](ModeCNaturalKagimic.png) | [midi](ModeCNaturalKagimic.mid) [ogg](ModeCNaturalKagimic.ogg) | 
-| [2403](https://ianring.com/musictheory/scales/2403) | [Lycrimic](ModeLycrimic.md) | **C**, Db, E#, F#, **G#**, A##, **C** | ![CNaturalLycrimic](ModeCNaturalLycrimic.png) | [midi](ModeCNaturalLycrimic.mid) [ogg](ModeCNaturalLycrimic.ogg) | 
-| [3249](https://ianring.com/musictheory/scales/3249) | [Epygimic](ModeEpygimic.md) | C, D##, E#, **F##**, G###, **A##**, C | ![CNaturalEpygimic](ModeCNaturalEpygimic.png) | [midi](ModeCNaturalEpygimic.mid) [ogg](ModeCNaturalEpygimic.ogg) | 
+| [459](https://ianring.com/musictheory/scales/459) | [Zaptimic](ModeZaptimic.md) | C, Db, **Eb**, F#, **G**, Ab, C | ![CNaturalZaptimic](ModeCNaturalZaptimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalZaptimic.mid?raw=true) | 
+| [711](https://ianring.com/musictheory/scales/711) | [Epyrimic](ModeEpyrimic.md) | C, **Db**, Ebb, F#, G, **A**, C | ![CNaturalEpyrimic](ModeCNaturalEpyrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalEpyrimic.mid?raw=true) | 
+| [1593](https://ianring.com/musictheory/scales/1593) | [Zogimic](ModeZogimic.md) | **C**, D#, **E**, F, G##, A#, **C** | ![CNaturalZogimic](ModeCNaturalZogimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalZogimic.mid?raw=true) | 
+| [2277](https://ianring.com/musictheory/scales/2277) | [Kagimic](ModeKagimic.md) | C, **D**, E#, **F#**, G, A##, C | ![CNaturalKagimic](ModeCNaturalKagimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKagimic.mid?raw=true) | 
+| [2403](https://ianring.com/musictheory/scales/2403) | [Lycrimic](ModeLycrimic.md) | **C**, Db, E#, F#, **G#**, A##, **C** | ![CNaturalLycrimic](ModeCNaturalLycrimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalLycrimic.mid?raw=true) | 
+| [3249](https://ianring.com/musictheory/scales/3249) | [Epygimic](ModeEpygimic.md) | C, D##, E#, **F##**, G###, **A##**, C | ![CNaturalEpygimic](ModeCNaturalEpygimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalEpygimic.mid?raw=true) | 

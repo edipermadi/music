@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalZoptitonic.md) | C, D#, **G**, G#, **A#**, C | C | ![CNaturalZoptitonic](ModeCNaturalZoptitonic.png) | [midi](ModeCNaturalZoptitonic.mid) [ogg](ModeCNaturalZoptitonic.ogg) |
-| [C#](ModeCSharpZoptitonic.md) | C#, E, **G#**, A, **B**, C# | C | ![CSharpZoptitonic](ModeCSharpZoptitonic.png) | [midi](ModeCSharpZoptitonic.mid) [ogg](ModeCSharpZoptitonic.ogg) |
-| [Db](ModeDFlatZoptitonic.md) | Db, E, **Ab**, A, **B**, Db | C | ![DFlatZoptitonic](ModeDFlatZoptitonic.png) | [midi](ModeDFlatZoptitonic.mid) [ogg](ModeDFlatZoptitonic.ogg) |
-| [D](ModeDNaturalZoptitonic.md) | D, F, **A**, A#, **C**, D | C | ![DNaturalZoptitonic](ModeDNaturalZoptitonic.png) | [midi](ModeDNaturalZoptitonic.mid) [ogg](ModeDNaturalZoptitonic.ogg) |
-| [D#](ModeDSharpZoptitonic.md) | D#, F#, **A#**, B, **C#**, D# | C | ![DSharpZoptitonic](ModeDSharpZoptitonic.png) | [midi](ModeDSharpZoptitonic.mid) [ogg](ModeDSharpZoptitonic.ogg) |
-| [Eb](ModeEFlatZoptitonic.md) | Eb, Gb, **Bb**, B, **Db**, Eb | C | ![EFlatZoptitonic](ModeEFlatZoptitonic.png) | [midi](ModeEFlatZoptitonic.mid) [ogg](ModeEFlatZoptitonic.ogg) |
-| [E](ModeENaturalZoptitonic.md) | E, G, **B**, C, **D**, E | C | ![ENaturalZoptitonic](ModeENaturalZoptitonic.png) | [midi](ModeENaturalZoptitonic.mid) [ogg](ModeENaturalZoptitonic.ogg) |
-| [F](ModeFNaturalZoptitonic.md) | F, G#, **C**, C#, **D#**, F | C | ![FNaturalZoptitonic](ModeFNaturalZoptitonic.png) | [midi](ModeFNaturalZoptitonic.mid) [ogg](ModeFNaturalZoptitonic.ogg) |
-| [F#](ModeFSharpZoptitonic.md) | F#, A, **C#**, D, **E**, F# | C | ![FSharpZoptitonic](ModeFSharpZoptitonic.png) | [midi](ModeFSharpZoptitonic.mid) [ogg](ModeFSharpZoptitonic.ogg) |
-| [Gb](ModeGFlatZoptitonic.md) | Gb, A, **Db**, D, **E**, Gb | C | ![GFlatZoptitonic](ModeGFlatZoptitonic.png) | [midi](ModeGFlatZoptitonic.mid) [ogg](ModeGFlatZoptitonic.ogg) |
-| [G](ModeGNaturalZoptitonic.md) | G, A#, **D**, D#, **F**, G | C | ![GNaturalZoptitonic](ModeGNaturalZoptitonic.png) | [midi](ModeGNaturalZoptitonic.mid) [ogg](ModeGNaturalZoptitonic.ogg) |
-| [G#](ModeGSharpZoptitonic.md) | G#, B, **D#**, E, **F#**, G# | C | ![GSharpZoptitonic](ModeGSharpZoptitonic.png) | [midi](ModeGSharpZoptitonic.mid) [ogg](ModeGSharpZoptitonic.ogg) |
-| [Ab](ModeAFlatZoptitonic.md) | Ab, B, **Eb**, E, **Gb**, Ab | C | ![AFlatZoptitonic](ModeAFlatZoptitonic.png) | [midi](ModeAFlatZoptitonic.mid) [ogg](ModeAFlatZoptitonic.ogg) |
-| [A](ModeANaturalZoptitonic.md) | A, C, **E**, F, **G**, A | C | ![ANaturalZoptitonic](ModeANaturalZoptitonic.png) | [midi](ModeANaturalZoptitonic.mid) [ogg](ModeANaturalZoptitonic.ogg) |
-| [A#](ModeASharpZoptitonic.md) | A#, C#, **F**, F#, **G#**, A# | C | ![ASharpZoptitonic](ModeASharpZoptitonic.png) | [midi](ModeASharpZoptitonic.mid) [ogg](ModeASharpZoptitonic.ogg) |
-| [Bb](ModeBFlatZoptitonic.md) | Bb, Db, **F**, Gb, **Ab**, Bb | C | ![BFlatZoptitonic](ModeBFlatZoptitonic.png) | [midi](ModeBFlatZoptitonic.mid) [ogg](ModeBFlatZoptitonic.ogg) |
-| [B](ModeBNaturalZoptitonic.md) | B, D, **F#**, G, **A**, B | C | ![BNaturalZoptitonic](ModeBNaturalZoptitonic.png) | [midi](ModeBNaturalZoptitonic.mid) [ogg](ModeBNaturalZoptitonic.ogg) |
+| [C](ModeCNaturalZoptitonic.md) | C, D#, **G**, G#, **A#**, C | C | ![CNaturalZoptitonic](ModeCNaturalZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalZoptitonic.mid?raw=true) |
+| [C#](ModeCSharpZoptitonic.md) | C#, E, **G#**, A, **B**, C# | C | ![CSharpZoptitonic](ModeCSharpZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpZoptitonic.mid?raw=true) |
+| [Db](ModeDFlatZoptitonic.md) | Db, E, **Ab**, A, **B**, Db | C | ![DFlatZoptitonic](ModeDFlatZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatZoptitonic.mid?raw=true) |
+| [D](ModeDNaturalZoptitonic.md) | D, F, **A**, A#, **C**, D | C | ![DNaturalZoptitonic](ModeDNaturalZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalZoptitonic.mid?raw=true) |
+| [D#](ModeDSharpZoptitonic.md) | D#, F#, **A#**, B, **C#**, D# | C | ![DSharpZoptitonic](ModeDSharpZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpZoptitonic.mid?raw=true) |
+| [Eb](ModeEFlatZoptitonic.md) | Eb, Gb, **Bb**, B, **Db**, Eb | C | ![EFlatZoptitonic](ModeEFlatZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatZoptitonic.mid?raw=true) |
+| [E](ModeENaturalZoptitonic.md) | E, G, **B**, C, **D**, E | C | ![ENaturalZoptitonic](ModeENaturalZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalZoptitonic.mid?raw=true) |
+| [F](ModeFNaturalZoptitonic.md) | F, G#, **C**, C#, **D#**, F | C | ![FNaturalZoptitonic](ModeFNaturalZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalZoptitonic.mid?raw=true) |
+| [F#](ModeFSharpZoptitonic.md) | F#, A, **C#**, D, **E**, F# | C | ![FSharpZoptitonic](ModeFSharpZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpZoptitonic.mid?raw=true) |
+| [Gb](ModeGFlatZoptitonic.md) | Gb, A, **Db**, D, **E**, Gb | C | ![GFlatZoptitonic](ModeGFlatZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatZoptitonic.mid?raw=true) |
+| [G](ModeGNaturalZoptitonic.md) | G, A#, **D**, D#, **F**, G | C | ![GNaturalZoptitonic](ModeGNaturalZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalZoptitonic.mid?raw=true) |
+| [G#](ModeGSharpZoptitonic.md) | G#, B, **D#**, E, **F#**, G# | C | ![GSharpZoptitonic](ModeGSharpZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpZoptitonic.mid?raw=true) |
+| [Ab](ModeAFlatZoptitonic.md) | Ab, B, **Eb**, E, **Gb**, Ab | C | ![AFlatZoptitonic](ModeAFlatZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatZoptitonic.mid?raw=true) |
+| [A](ModeANaturalZoptitonic.md) | A, C, **E**, F, **G**, A | C | ![ANaturalZoptitonic](ModeANaturalZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalZoptitonic.mid?raw=true) |
+| [A#](ModeASharpZoptitonic.md) | A#, C#, **F**, F#, **G#**, A# | C | ![ASharpZoptitonic](ModeASharpZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpZoptitonic.mid?raw=true) |
+| [Bb](ModeBFlatZoptitonic.md) | Bb, Db, **F**, Gb, **Ab**, Bb | C | ![BFlatZoptitonic](ModeBFlatZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatZoptitonic.mid?raw=true) |
+| [B](ModeBNaturalZoptitonic.md) | B, D, **F#**, G, **A**, B | C | ![BNaturalZoptitonic](ModeBNaturalZoptitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalZoptitonic.mid?raw=true) |

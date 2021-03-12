@@ -181,7 +181,7 @@ func generateModesTable(logger *zap.Logger, wikiDir string) {
 			}
 		}
 		modeURL := fmt.Sprintf("[%d](https://ianring.com/musictheory/scales/%d)", givenMode.CanonicalNumber(), givenMode.CanonicalNumber())
-		_, _ = fmt.Fprintf(&buff, "| %s | [%s](Scale%s.md) | [%s](Mode%s.md) | %s | ![%s](Mode%s.png) | [midi](Mode%s.mid) [ogg](Mode%s.ogg) |\n", modeURL, givenMode.Scale(), givenMode.Scale(), givenMode.Type(), givenMode.Type(), strings.Join(computedNoteNames, ", "), givenMode, givenMode, givenMode, givenMode)
+		_, _ = fmt.Fprintf(&buff, "| %s | [%s](Scale%s.md) | [%s](Mode%s.md) | %s | ![%s](Mode%s.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/Mode%s.mid?raw=true) |\n", modeURL, givenMode.Scale(), givenMode.Scale(), givenMode.Type(), givenMode.Type(), strings.Join(computedNoteNames, ", "), givenMode, givenMode, givenMode)
 	}
 
 	if err := compareAndWrite(filename, buff.Bytes()); err != nil {
@@ -245,7 +245,7 @@ func generateScalePage(logger *zap.Logger, filename string, givenScale scale.Sca
 
 		}
 		computedModeURL := fmt.Sprintf("https://ianring.com/musictheory/scales/%d", computedModeNumber)
-		_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %s | ![%s](Mode%s.png) | [midi](Mode%s.mid) [ogg](Mode%s.ogg) | \n", computedModeNumber, computedModeURL, givenMode.Type(), givenMode.Type(), strings.Join(computedNoteNames, ", "), givenMode, givenMode, givenMode, givenMode)
+		_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %s | ![%s](Mode%s.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/Mode%s.mid?raw=true) | \n", computedModeNumber, computedModeURL, givenMode.Type(), givenMode.Type(), strings.Join(computedNoteNames, ", "), givenMode, givenMode, givenMode)
 	}
 
 	return compareAndWrite(filename, buff.Bytes())
@@ -302,7 +302,7 @@ func generateModePage(logger *zap.Logger, filename string, givenType modetype.Ty
 		}
 
 		computedSignature := signature.FromNotes(computedNotes)
-		_, _ = fmt.Fprintf(&buff, "| [%s](Mode%s.md) | %s | %s | ![%s](Mode%s.png) | [midi](Mode%s.mid) [ogg](Mode%s.ogg) |\n", givenTonic.Name(), givenMode, strings.Join(noteNames, ", "), strings.Join(computedSignature.Names(), ", "), givenMode, givenMode, givenMode, givenMode)
+		_, _ = fmt.Fprintf(&buff, "| [%s](Mode%s.md) | %s | %s | ![%s](Mode%s.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/Mode%s.mid?raw=true) |\n", givenTonic.Name(), givenMode, strings.Join(noteNames, ", "), strings.Join(computedSignature.Names(), ", "), givenMode, givenMode, givenMode)
 
 	}
 
@@ -400,7 +400,7 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 
 		for _, givenChord := range computedChords[givenNote] {
 			chordNoteNames := givenChord.Notes().Names()
-			_, _ = fmt.Fprintf(&buff, "| %d | %s | [%s](Chord%s.md) | %s | ![%s](Chord%sRootPosition.png) | [midi](Chord%sRootPosition.mid) [ogg](Chord%sRootPosition.ogg) |\n", givenChord.Number(), givenNote.Name(), givenChord.Name(), givenChord, strings.Join(chordNoteNames, ", "), givenChord.Name(), givenChord, givenChord, givenChord)
+			_, _ = fmt.Fprintf(&buff, "| %d | %s | [%s](Chord%s.md) | %s | ![%s](Chord%sRootPosition.png) | [midi](Chord%sRootPosition.mid) |\n", givenChord.Number(), givenNote.Name(), givenChord.Name(), givenChord, strings.Join(chordNoteNames, ", "), givenChord.Name(), givenChord, givenChord)
 		}
 		_, _ = fmt.Fprintf(&buff, "\n")
 	}
@@ -459,7 +459,7 @@ func generateChordsTable(logger *zap.Logger, wikiDir string) {
 		computedChordNotes := givenChord.Notes()
 
 		noteNames := strings.Join(computedChordNotes.Names(), ",")
-		_, _ = fmt.Fprintf(&buff, "| %d | [%s](ChordCNatural%s.md) | %s | ![%s](Chord%sRootPosition.png) | [midi](Chord%sRootPosition.mid) [ogg](Chord%sRootPosition.ogg) | \n", givenChord.Number(), givenChord.Type().Name(), givenChord.Type(), noteNames, givenChord, givenChord, givenChord, givenChord)
+		_, _ = fmt.Fprintf(&buff, "| %d | [%s](ChordCNatural%s.md) | %s | ![%s](Chord%sRootPosition.png) | [midi](Chord%sRootPosition.mid) | \n", givenChord.Number(), givenChord.Type().Name(), givenChord.Type(), noteNames, givenChord, givenChord, givenChord)
 	}
 
 	if err := compareAndWrite(filename, buff.Bytes()); err != nil {

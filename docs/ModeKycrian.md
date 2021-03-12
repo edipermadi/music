@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalKycrian.md) | **C**, Db, Eb, **Fb**, Gbb, Ab, Bb, **C** | C | ![CNaturalKycrian](ModeCNaturalKycrian.png) | [midi](ModeCNaturalKycrian.mid) [ogg](ModeCNaturalKycrian.ogg) |
-| [C#](ModeCSharpKycrian.md) | **C#**, D, E, **F**, Gb, A, B, **C#** | C | ![CSharpKycrian](ModeCSharpKycrian.png) | [midi](ModeCSharpKycrian.mid) [ogg](ModeCSharpKycrian.ogg) |
-| [Db](ModeDFlatKycrian.md) | **Db**, Ebb, Fb, **Gbb**, Abbb, Bbb, Cb, **Db** | C | ![DFlatKycrian](ModeDFlatKycrian.png) | [midi](ModeDFlatKycrian.mid) [ogg](ModeDFlatKycrian.ogg) |
-| [D](ModeDNaturalKycrian.md) | **D**, Eb, F, **Gb**, Abb, Bb, C, **D** | C | ![DNaturalKycrian](ModeDNaturalKycrian.png) | [midi](ModeDNaturalKycrian.mid) [ogg](ModeDNaturalKycrian.ogg) |
-| [D#](ModeDSharpKycrian.md) | **D#**, E, F#, **G**, Ab, B, C#, **D#** | C | ![DSharpKycrian](ModeDSharpKycrian.png) | [midi](ModeDSharpKycrian.mid) [ogg](ModeDSharpKycrian.ogg) |
-| [Eb](ModeEFlatKycrian.md) | **Eb**, Fb, Gb, **Abb**, Bbbb, Cb, Db, **Eb** | C | ![EFlatKycrian](ModeEFlatKycrian.png) | [midi](ModeEFlatKycrian.mid) [ogg](ModeEFlatKycrian.ogg) |
-| [E](ModeENaturalKycrian.md) | **E**, F, G, **Ab**, Bbb, C, D, **E** | C | ![ENaturalKycrian](ModeENaturalKycrian.png) | [midi](ModeENaturalKycrian.mid) [ogg](ModeENaturalKycrian.ogg) |
-| [F](ModeFNaturalKycrian.md) | **F**, Gb, Ab, **Bbb**, Cbb, Db, Eb, **F** | C | ![FNaturalKycrian](ModeFNaturalKycrian.png) | [midi](ModeFNaturalKycrian.mid) [ogg](ModeFNaturalKycrian.ogg) |
-| [F#](ModeFSharpKycrian.md) | **F#**, G, A, **Bb**, Cb, D, E, **F#** | C | ![FSharpKycrian](ModeFSharpKycrian.png) | [midi](ModeFSharpKycrian.mid) [ogg](ModeFSharpKycrian.ogg) |
-| [Gb](ModeGFlatKycrian.md) | **Gb**, Abb, Bbb, **Cbb**, Dbbb, Ebb, Fb, **Gb** | C | ![GFlatKycrian](ModeGFlatKycrian.png) | [midi](ModeGFlatKycrian.mid) [ogg](ModeGFlatKycrian.ogg) |
-| [G](ModeGNaturalKycrian.md) | **G**, Ab, Bb, **Cb**, Dbb, Eb, F, **G** | C | ![GNaturalKycrian](ModeGNaturalKycrian.png) | [midi](ModeGNaturalKycrian.mid) [ogg](ModeGNaturalKycrian.ogg) |
-| [G#](ModeGSharpKycrian.md) | **G#**, A, B, **C**, Db, E, F#, **G#** | C | ![GSharpKycrian](ModeGSharpKycrian.png) | [midi](ModeGSharpKycrian.mid) [ogg](ModeGSharpKycrian.ogg) |
-| [Ab](ModeAFlatKycrian.md) | **Ab**, Bbb, Cb, **Dbb**, Ebbb, Fb, Gb, **Ab** | C | ![AFlatKycrian](ModeAFlatKycrian.png) | [midi](ModeAFlatKycrian.mid) [ogg](ModeAFlatKycrian.ogg) |
-| [A](ModeANaturalKycrian.md) | **A**, Bb, C, **Db**, Ebb, F, G, **A** | C | ![ANaturalKycrian](ModeANaturalKycrian.png) | [midi](ModeANaturalKycrian.mid) [ogg](ModeANaturalKycrian.ogg) |
-| [A#](ModeASharpKycrian.md) | **A#**, B, C#, **D**, Eb, F#, G#, **A#** | C | ![ASharpKycrian](ModeASharpKycrian.png) | [midi](ModeASharpKycrian.mid) [ogg](ModeASharpKycrian.ogg) |
-| [Bb](ModeBFlatKycrian.md) | **Bb**, Cb, Db, **Ebb**, Fbb, Gb, Ab, **Bb** | C | ![BFlatKycrian](ModeBFlatKycrian.png) | [midi](ModeBFlatKycrian.mid) [ogg](ModeBFlatKycrian.ogg) |
-| [B](ModeBNaturalKycrian.md) | **B**, C, D, **Eb**, Fb, G, A, **B** | C | ![BNaturalKycrian](ModeBNaturalKycrian.png) | [midi](ModeBNaturalKycrian.mid) [ogg](ModeBNaturalKycrian.ogg) |
+| [C](ModeCNaturalKycrian.md) | **C**, Db, Eb, **Fb**, Gbb, Ab, Bb, **C** | C | ![CNaturalKycrian](ModeCNaturalKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKycrian.mid?raw=true) |
+| [C#](ModeCSharpKycrian.md) | **C#**, D, E, **F**, Gb, A, B, **C#** | C | ![CSharpKycrian](ModeCSharpKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpKycrian.mid?raw=true) |
+| [Db](ModeDFlatKycrian.md) | **Db**, Ebb, Fb, **Gbb**, Abbb, Bbb, Cb, **Db** | C | ![DFlatKycrian](ModeDFlatKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatKycrian.mid?raw=true) |
+| [D](ModeDNaturalKycrian.md) | **D**, Eb, F, **Gb**, Abb, Bb, C, **D** | C | ![DNaturalKycrian](ModeDNaturalKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalKycrian.mid?raw=true) |
+| [D#](ModeDSharpKycrian.md) | **D#**, E, F#, **G**, Ab, B, C#, **D#** | C | ![DSharpKycrian](ModeDSharpKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpKycrian.mid?raw=true) |
+| [Eb](ModeEFlatKycrian.md) | **Eb**, Fb, Gb, **Abb**, Bbbb, Cb, Db, **Eb** | C | ![EFlatKycrian](ModeEFlatKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatKycrian.mid?raw=true) |
+| [E](ModeENaturalKycrian.md) | **E**, F, G, **Ab**, Bbb, C, D, **E** | C | ![ENaturalKycrian](ModeENaturalKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalKycrian.mid?raw=true) |
+| [F](ModeFNaturalKycrian.md) | **F**, Gb, Ab, **Bbb**, Cbb, Db, Eb, **F** | C | ![FNaturalKycrian](ModeFNaturalKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalKycrian.mid?raw=true) |
+| [F#](ModeFSharpKycrian.md) | **F#**, G, A, **Bb**, Cb, D, E, **F#** | C | ![FSharpKycrian](ModeFSharpKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpKycrian.mid?raw=true) |
+| [Gb](ModeGFlatKycrian.md) | **Gb**, Abb, Bbb, **Cbb**, Dbbb, Ebb, Fb, **Gb** | C | ![GFlatKycrian](ModeGFlatKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatKycrian.mid?raw=true) |
+| [G](ModeGNaturalKycrian.md) | **G**, Ab, Bb, **Cb**, Dbb, Eb, F, **G** | C | ![GNaturalKycrian](ModeGNaturalKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalKycrian.mid?raw=true) |
+| [G#](ModeGSharpKycrian.md) | **G#**, A, B, **C**, Db, E, F#, **G#** | C | ![GSharpKycrian](ModeGSharpKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpKycrian.mid?raw=true) |
+| [Ab](ModeAFlatKycrian.md) | **Ab**, Bbb, Cb, **Dbb**, Ebbb, Fb, Gb, **Ab** | C | ![AFlatKycrian](ModeAFlatKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatKycrian.mid?raw=true) |
+| [A](ModeANaturalKycrian.md) | **A**, Bb, C, **Db**, Ebb, F, G, **A** | C | ![ANaturalKycrian](ModeANaturalKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalKycrian.mid?raw=true) |
+| [A#](ModeASharpKycrian.md) | **A#**, B, C#, **D**, Eb, F#, G#, **A#** | C | ![ASharpKycrian](ModeASharpKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpKycrian.mid?raw=true) |
+| [Bb](ModeBFlatKycrian.md) | **Bb**, Cb, Db, **Ebb**, Fbb, Gb, Ab, **Bb** | C | ![BFlatKycrian](ModeBFlatKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatKycrian.mid?raw=true) |
+| [B](ModeBNaturalKycrian.md) | **B**, C, D, **Eb**, Fb, G, A, **B** | C | ![BNaturalKycrian](ModeBNaturalKycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalKycrian.mid?raw=true) |

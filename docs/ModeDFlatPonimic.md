@@ -62,11 +62,11 @@ Db
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
-| 546 | Db | [Db+](ChordDFlatAugmented.md) | Db, F, A | ![Db+](ChordDFlatAugmentedRootPosition.png) | [midi](ChordDFlatAugmentedRootPosition.mid) [ogg](ChordDFlatAugmentedRootPosition.ogg) |
-| 546 | Db | [Db+7](ChordDFlatAugmentedAugmentedSeventh.md) | Db, F, A, C# | ![Db+7](ChordDFlatAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordDFlatAugmentedAugmentedSeventhRootPosition.mid) [ogg](ChordDFlatAugmentedAugmentedSeventhRootPosition.ogg) |
-| 1058 | Db | [DbM##5](ChordDFlatMajorDoubleSharpFifth.md) | Db, F, Bb | ![DbM##5](ChordDFlatMajorDoubleSharpFifthRootPosition.png) | [midi](ChordDFlatMajorDoubleSharpFifthRootPosition.mid) [ogg](ChordDFlatMajorDoubleSharpFifthRootPosition.ogg) |
-| 547 | Db | [Db+(M7)](ChordDFlatAugmentedMajorSeventh.md) | Db, F, A, C | ![Db+(M7)](ChordDFlatAugmentedMajorSeventhRootPosition.png) | [midi](ChordDFlatAugmentedMajorSeventhRootPosition.mid) [ogg](ChordDFlatAugmentedMajorSeventhRootPosition.ogg) |
-| 1059 | Db | [DbM7##5](ChordDFlatMajorSeventhDoubleSharpFifth.md) | Db, F, Bb, C | ![DbM7##5](ChordDFlatMajorSeventhDoubleSharpFifthRootPosition.png) | [midi](ChordDFlatMajorSeventhDoubleSharpFifthRootPosition.mid) [ogg](ChordDFlatMajorSeventhDoubleSharpFifthRootPosition.ogg) |
+| 546 | Db | [Db+](ChordDFlatAugmented.md) | Db, F, A | ![Db+](ChordDFlatAugmentedRootPosition.png) | [midi](ChordDFlatAugmentedRootPosition.mid) |
+| 546 | Db | [Db+7](ChordDFlatAugmentedAugmentedSeventh.md) | Db, F, A, C# | ![Db+7](ChordDFlatAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordDFlatAugmentedAugmentedSeventhRootPosition.mid) |
+| 1058 | Db | [DbM##5](ChordDFlatMajorDoubleSharpFifth.md) | Db, F, Bb | ![DbM##5](ChordDFlatMajorDoubleSharpFifthRootPosition.png) | [midi](ChordDFlatMajorDoubleSharpFifthRootPosition.mid) |
+| 547 | Db | [Db+(M7)](ChordDFlatAugmentedMajorSeventh.md) | Db, F, A, C | ![Db+(M7)](ChordDFlatAugmentedMajorSeventhRootPosition.png) | [midi](ChordDFlatAugmentedMajorSeventhRootPosition.mid) |
+| 1059 | Db | [DbM7##5](ChordDFlatMajorSeventhDoubleSharpFifth.md) | Db, F, Bb, C | ![DbM7##5](ChordDFlatMajorSeventhDoubleSharpFifthRootPosition.png) | [midi](ChordDFlatMajorSeventhDoubleSharpFifthRootPosition.mid) |
 
 ### E#
 

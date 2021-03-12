@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalThonitonic.md) | **C**, D, **E**, **F#**, A, **C** | C | ![CNaturalThonitonic](ModeCNaturalThonitonic.png) | [midi](ModeCNaturalThonitonic.mid) [ogg](ModeCNaturalThonitonic.ogg) |
-| [C#](ModeCSharpThonitonic.md) | **C#**, D#, **F**, **G**, A#, **C#** | C | ![CSharpThonitonic](ModeCSharpThonitonic.png) | [midi](ModeCSharpThonitonic.mid) [ogg](ModeCSharpThonitonic.ogg) |
-| [Db](ModeDFlatThonitonic.md) | **Db**, Eb, **F**, **G**, Bb, **Db** | C | ![DFlatThonitonic](ModeDFlatThonitonic.png) | [midi](ModeDFlatThonitonic.mid) [ogg](ModeDFlatThonitonic.ogg) |
-| [D](ModeDNaturalThonitonic.md) | **D**, E, **F#**, **G#**, B, **D** | C | ![DNaturalThonitonic](ModeDNaturalThonitonic.png) | [midi](ModeDNaturalThonitonic.mid) [ogg](ModeDNaturalThonitonic.ogg) |
-| [D#](ModeDSharpThonitonic.md) | **D#**, F, **G**, **A**, C, **D#** | C | ![DSharpThonitonic](ModeDSharpThonitonic.png) | [midi](ModeDSharpThonitonic.mid) [ogg](ModeDSharpThonitonic.ogg) |
-| [Eb](ModeEFlatThonitonic.md) | **Eb**, F, **G**, **A**, C, **Eb** | C | ![EFlatThonitonic](ModeEFlatThonitonic.png) | [midi](ModeEFlatThonitonic.mid) [ogg](ModeEFlatThonitonic.ogg) |
-| [E](ModeENaturalThonitonic.md) | **E**, F#, **G#**, **A#**, C#, **E** | C | ![ENaturalThonitonic](ModeENaturalThonitonic.png) | [midi](ModeENaturalThonitonic.mid) [ogg](ModeENaturalThonitonic.ogg) |
-| [F](ModeFNaturalThonitonic.md) | **F**, G, **A**, **B**, D, **F** | C | ![FNaturalThonitonic](ModeFNaturalThonitonic.png) | [midi](ModeFNaturalThonitonic.mid) [ogg](ModeFNaturalThonitonic.ogg) |
-| [F#](ModeFSharpThonitonic.md) | **F#**, G#, **A#**, **C**, D#, **F#** | C | ![FSharpThonitonic](ModeFSharpThonitonic.png) | [midi](ModeFSharpThonitonic.mid) [ogg](ModeFSharpThonitonic.ogg) |
-| [Gb](ModeGFlatThonitonic.md) | **Gb**, Ab, **Bb**, **C**, Eb, **Gb** | C | ![GFlatThonitonic](ModeGFlatThonitonic.png) | [midi](ModeGFlatThonitonic.mid) [ogg](ModeGFlatThonitonic.ogg) |
-| [G](ModeGNaturalThonitonic.md) | **G**, A, **B**, **C#**, E, **G** | C | ![GNaturalThonitonic](ModeGNaturalThonitonic.png) | [midi](ModeGNaturalThonitonic.mid) [ogg](ModeGNaturalThonitonic.ogg) |
-| [G#](ModeGSharpThonitonic.md) | **G#**, A#, **C**, **D**, F, **G#** | C | ![GSharpThonitonic](ModeGSharpThonitonic.png) | [midi](ModeGSharpThonitonic.mid) [ogg](ModeGSharpThonitonic.ogg) |
-| [Ab](ModeAFlatThonitonic.md) | **Ab**, Bb, **C**, **D**, F, **Ab** | C | ![AFlatThonitonic](ModeAFlatThonitonic.png) | [midi](ModeAFlatThonitonic.mid) [ogg](ModeAFlatThonitonic.ogg) |
-| [A](ModeANaturalThonitonic.md) | **A**, B, **C#**, **D#**, F#, **A** | C | ![ANaturalThonitonic](ModeANaturalThonitonic.png) | [midi](ModeANaturalThonitonic.mid) [ogg](ModeANaturalThonitonic.ogg) |
-| [A#](ModeASharpThonitonic.md) | **A#**, C, **D**, **E**, G, **A#** | C | ![ASharpThonitonic](ModeASharpThonitonic.png) | [midi](ModeASharpThonitonic.mid) [ogg](ModeASharpThonitonic.ogg) |
-| [Bb](ModeBFlatThonitonic.md) | **Bb**, C, **D**, **E**, G, **Bb** | C | ![BFlatThonitonic](ModeBFlatThonitonic.png) | [midi](ModeBFlatThonitonic.mid) [ogg](ModeBFlatThonitonic.ogg) |
-| [B](ModeBNaturalThonitonic.md) | **B**, C#, **D#**, **F**, G#, **B** | C | ![BNaturalThonitonic](ModeBNaturalThonitonic.png) | [midi](ModeBNaturalThonitonic.mid) [ogg](ModeBNaturalThonitonic.ogg) |
+| [C](ModeCNaturalThonitonic.md) | **C**, D, **E**, **F#**, A, **C** | C | ![CNaturalThonitonic](ModeCNaturalThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThonitonic.mid?raw=true) |
+| [C#](ModeCSharpThonitonic.md) | **C#**, D#, **F**, **G**, A#, **C#** | C | ![CSharpThonitonic](ModeCSharpThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpThonitonic.mid?raw=true) |
+| [Db](ModeDFlatThonitonic.md) | **Db**, Eb, **F**, **G**, Bb, **Db** | C | ![DFlatThonitonic](ModeDFlatThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatThonitonic.mid?raw=true) |
+| [D](ModeDNaturalThonitonic.md) | **D**, E, **F#**, **G#**, B, **D** | C | ![DNaturalThonitonic](ModeDNaturalThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalThonitonic.mid?raw=true) |
+| [D#](ModeDSharpThonitonic.md) | **D#**, F, **G**, **A**, C, **D#** | C | ![DSharpThonitonic](ModeDSharpThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpThonitonic.mid?raw=true) |
+| [Eb](ModeEFlatThonitonic.md) | **Eb**, F, **G**, **A**, C, **Eb** | C | ![EFlatThonitonic](ModeEFlatThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatThonitonic.mid?raw=true) |
+| [E](ModeENaturalThonitonic.md) | **E**, F#, **G#**, **A#**, C#, **E** | C | ![ENaturalThonitonic](ModeENaturalThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalThonitonic.mid?raw=true) |
+| [F](ModeFNaturalThonitonic.md) | **F**, G, **A**, **B**, D, **F** | C | ![FNaturalThonitonic](ModeFNaturalThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalThonitonic.mid?raw=true) |
+| [F#](ModeFSharpThonitonic.md) | **F#**, G#, **A#**, **C**, D#, **F#** | C | ![FSharpThonitonic](ModeFSharpThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpThonitonic.mid?raw=true) |
+| [Gb](ModeGFlatThonitonic.md) | **Gb**, Ab, **Bb**, **C**, Eb, **Gb** | C | ![GFlatThonitonic](ModeGFlatThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatThonitonic.mid?raw=true) |
+| [G](ModeGNaturalThonitonic.md) | **G**, A, **B**, **C#**, E, **G** | C | ![GNaturalThonitonic](ModeGNaturalThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalThonitonic.mid?raw=true) |
+| [G#](ModeGSharpThonitonic.md) | **G#**, A#, **C**, **D**, F, **G#** | C | ![GSharpThonitonic](ModeGSharpThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpThonitonic.mid?raw=true) |
+| [Ab](ModeAFlatThonitonic.md) | **Ab**, Bb, **C**, **D**, F, **Ab** | C | ![AFlatThonitonic](ModeAFlatThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatThonitonic.mid?raw=true) |
+| [A](ModeANaturalThonitonic.md) | **A**, B, **C#**, **D#**, F#, **A** | C | ![ANaturalThonitonic](ModeANaturalThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalThonitonic.mid?raw=true) |
+| [A#](ModeASharpThonitonic.md) | **A#**, C, **D**, **E**, G, **A#** | C | ![ASharpThonitonic](ModeASharpThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpThonitonic.mid?raw=true) |
+| [Bb](ModeBFlatThonitonic.md) | **Bb**, C, **D**, **E**, G, **Bb** | C | ![BFlatThonitonic](ModeBFlatThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatThonitonic.mid?raw=true) |
+| [B](ModeBNaturalThonitonic.md) | **B**, C#, **D#**, **F**, G#, **B** | C | ![BNaturalThonitonic](ModeBNaturalThonitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalThonitonic.mid?raw=true) |

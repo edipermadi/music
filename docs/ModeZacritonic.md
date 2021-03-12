@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalZacritonic.md) | C, E, **G**, **G#**, **B**, C | C | ![CNaturalZacritonic](ModeCNaturalZacritonic.png) | [midi](ModeCNaturalZacritonic.mid) [ogg](ModeCNaturalZacritonic.ogg) |
-| [C#](ModeCSharpZacritonic.md) | C#, F, **G#**, **A**, **C**, C# | C | ![CSharpZacritonic](ModeCSharpZacritonic.png) | [midi](ModeCSharpZacritonic.mid) [ogg](ModeCSharpZacritonic.ogg) |
-| [Db](ModeDFlatZacritonic.md) | Db, F, **Ab**, **A**, **C**, Db | C | ![DFlatZacritonic](ModeDFlatZacritonic.png) | [midi](ModeDFlatZacritonic.mid) [ogg](ModeDFlatZacritonic.ogg) |
-| [D](ModeDNaturalZacritonic.md) | D, F#, **A**, **A#**, **C#**, D | C | ![DNaturalZacritonic](ModeDNaturalZacritonic.png) | [midi](ModeDNaturalZacritonic.mid) [ogg](ModeDNaturalZacritonic.ogg) |
-| [D#](ModeDSharpZacritonic.md) | D#, G, **A#**, **B**, **D**, D# | C | ![DSharpZacritonic](ModeDSharpZacritonic.png) | [midi](ModeDSharpZacritonic.mid) [ogg](ModeDSharpZacritonic.ogg) |
-| [Eb](ModeEFlatZacritonic.md) | Eb, G, **Bb**, **B**, **D**, Eb | C | ![EFlatZacritonic](ModeEFlatZacritonic.png) | [midi](ModeEFlatZacritonic.mid) [ogg](ModeEFlatZacritonic.ogg) |
-| [E](ModeENaturalZacritonic.md) | E, G#, **B**, **C**, **D#**, E | C | ![ENaturalZacritonic](ModeENaturalZacritonic.png) | [midi](ModeENaturalZacritonic.mid) [ogg](ModeENaturalZacritonic.ogg) |
-| [F](ModeFNaturalZacritonic.md) | F, A, **C**, **C#**, **E**, F | C | ![FNaturalZacritonic](ModeFNaturalZacritonic.png) | [midi](ModeFNaturalZacritonic.mid) [ogg](ModeFNaturalZacritonic.ogg) |
-| [F#](ModeFSharpZacritonic.md) | F#, A#, **C#**, **D**, **F**, F# | C | ![FSharpZacritonic](ModeFSharpZacritonic.png) | [midi](ModeFSharpZacritonic.mid) [ogg](ModeFSharpZacritonic.ogg) |
-| [Gb](ModeGFlatZacritonic.md) | Gb, Bb, **Db**, **D**, **F**, Gb | C | ![GFlatZacritonic](ModeGFlatZacritonic.png) | [midi](ModeGFlatZacritonic.mid) [ogg](ModeGFlatZacritonic.ogg) |
-| [G](ModeGNaturalZacritonic.md) | G, B, **D**, **D#**, **F#**, G | C | ![GNaturalZacritonic](ModeGNaturalZacritonic.png) | [midi](ModeGNaturalZacritonic.mid) [ogg](ModeGNaturalZacritonic.ogg) |
-| [G#](ModeGSharpZacritonic.md) | G#, C, **D#**, **E**, **G**, G# | C | ![GSharpZacritonic](ModeGSharpZacritonic.png) | [midi](ModeGSharpZacritonic.mid) [ogg](ModeGSharpZacritonic.ogg) |
-| [Ab](ModeAFlatZacritonic.md) | Ab, C, **Eb**, **E**, **G**, Ab | C | ![AFlatZacritonic](ModeAFlatZacritonic.png) | [midi](ModeAFlatZacritonic.mid) [ogg](ModeAFlatZacritonic.ogg) |
-| [A](ModeANaturalZacritonic.md) | A, C#, **E**, **F**, **G#**, A | C | ![ANaturalZacritonic](ModeANaturalZacritonic.png) | [midi](ModeANaturalZacritonic.mid) [ogg](ModeANaturalZacritonic.ogg) |
-| [A#](ModeASharpZacritonic.md) | A#, D, **F**, **F#**, **A**, A# | C | ![ASharpZacritonic](ModeASharpZacritonic.png) | [midi](ModeASharpZacritonic.mid) [ogg](ModeASharpZacritonic.ogg) |
-| [Bb](ModeBFlatZacritonic.md) | Bb, D, **F**, **Gb**, **A**, Bb | C | ![BFlatZacritonic](ModeBFlatZacritonic.png) | [midi](ModeBFlatZacritonic.mid) [ogg](ModeBFlatZacritonic.ogg) |
-| [B](ModeBNaturalZacritonic.md) | B, D#, **F#**, **G**, **A#**, B | C | ![BNaturalZacritonic](ModeBNaturalZacritonic.png) | [midi](ModeBNaturalZacritonic.mid) [ogg](ModeBNaturalZacritonic.ogg) |
+| [C](ModeCNaturalZacritonic.md) | C, E, **G**, **G#**, **B**, C | C | ![CNaturalZacritonic](ModeCNaturalZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalZacritonic.mid?raw=true) |
+| [C#](ModeCSharpZacritonic.md) | C#, F, **G#**, **A**, **C**, C# | C | ![CSharpZacritonic](ModeCSharpZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpZacritonic.mid?raw=true) |
+| [Db](ModeDFlatZacritonic.md) | Db, F, **Ab**, **A**, **C**, Db | C | ![DFlatZacritonic](ModeDFlatZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatZacritonic.mid?raw=true) |
+| [D](ModeDNaturalZacritonic.md) | D, F#, **A**, **A#**, **C#**, D | C | ![DNaturalZacritonic](ModeDNaturalZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalZacritonic.mid?raw=true) |
+| [D#](ModeDSharpZacritonic.md) | D#, G, **A#**, **B**, **D**, D# | C | ![DSharpZacritonic](ModeDSharpZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpZacritonic.mid?raw=true) |
+| [Eb](ModeEFlatZacritonic.md) | Eb, G, **Bb**, **B**, **D**, Eb | C | ![EFlatZacritonic](ModeEFlatZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatZacritonic.mid?raw=true) |
+| [E](ModeENaturalZacritonic.md) | E, G#, **B**, **C**, **D#**, E | C | ![ENaturalZacritonic](ModeENaturalZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalZacritonic.mid?raw=true) |
+| [F](ModeFNaturalZacritonic.md) | F, A, **C**, **C#**, **E**, F | C | ![FNaturalZacritonic](ModeFNaturalZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalZacritonic.mid?raw=true) |
+| [F#](ModeFSharpZacritonic.md) | F#, A#, **C#**, **D**, **F**, F# | C | ![FSharpZacritonic](ModeFSharpZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpZacritonic.mid?raw=true) |
+| [Gb](ModeGFlatZacritonic.md) | Gb, Bb, **Db**, **D**, **F**, Gb | C | ![GFlatZacritonic](ModeGFlatZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatZacritonic.mid?raw=true) |
+| [G](ModeGNaturalZacritonic.md) | G, B, **D**, **D#**, **F#**, G | C | ![GNaturalZacritonic](ModeGNaturalZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalZacritonic.mid?raw=true) |
+| [G#](ModeGSharpZacritonic.md) | G#, C, **D#**, **E**, **G**, G# | C | ![GSharpZacritonic](ModeGSharpZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpZacritonic.mid?raw=true) |
+| [Ab](ModeAFlatZacritonic.md) | Ab, C, **Eb**, **E**, **G**, Ab | C | ![AFlatZacritonic](ModeAFlatZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatZacritonic.mid?raw=true) |
+| [A](ModeANaturalZacritonic.md) | A, C#, **E**, **F**, **G#**, A | C | ![ANaturalZacritonic](ModeANaturalZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalZacritonic.mid?raw=true) |
+| [A#](ModeASharpZacritonic.md) | A#, D, **F**, **F#**, **A**, A# | C | ![ASharpZacritonic](ModeASharpZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpZacritonic.mid?raw=true) |
+| [Bb](ModeBFlatZacritonic.md) | Bb, D, **F**, **Gb**, **A**, Bb | C | ![BFlatZacritonic](ModeBFlatZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatZacritonic.mid?raw=true) |
+| [B](ModeBNaturalZacritonic.md) | B, D#, **F#**, **G**, **A#**, B | C | ![BNaturalZacritonic](ModeBNaturalZacritonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalZacritonic.mid?raw=true) |

@@ -21,4 +21,4 @@
 
 | Number | Mode | Notes | Illustration | Audio |
 |--------|------|-------|--------------|-------|
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | **C**, **E**, **G#**, **C** | ![CNaturalMinoric](ModeCNaturalMinoric.png) | [midi](ModeCNaturalMinoric.mid) [ogg](ModeCNaturalMinoric.ogg) | 
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | **C**, **E**, **G#**, **C** | ![CNaturalMinoric](ModeCNaturalMinoric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMinoric.mid?raw=true) | 

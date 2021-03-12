@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalStalimic.md) | **C**, D##, **E##**, Cbbb, **Cbb**, Dbbb, **C** | C | ![CNaturalStalimic](ModeCNaturalStalimic.png) | [midi](ModeCNaturalStalimic.mid) [ogg](ModeCNaturalStalimic.ogg) |
-| [C#](ModeCSharpStalimic.md) | **C#**, D###, **E###**, Cbb, **Dbbb**, Dbb, **C#** | C | ![CSharpStalimic](ModeCSharpStalimic.png) | [midi](ModeCSharpStalimic.mid) [ogg](ModeCSharpStalimic.ogg) |
-| [Db](ModeDFlatStalimic.md) | **Db**, E#, **F##**, G###, **A##**, B#, **Db** | C | ![DFlatStalimic](ModeDFlatStalimic.png) | [midi](ModeDFlatStalimic.mid) [ogg](ModeDFlatStalimic.ogg) |
-| [D](ModeDNaturalStalimic.md) | **D**, E##, **F###**, Cb, **Dbb**, Ebbb, **D** | C | ![DNaturalStalimic](ModeDNaturalStalimic.png) | [midi](ModeDNaturalStalimic.mid) [ogg](ModeDNaturalStalimic.ogg) |
-| [D#](ModeDSharpStalimic.md) | **D#**, E###, **Cbbb**, Dbb, **Ebbb**, Fbbb, **D#** | C | ![DSharpStalimic](ModeDSharpStalimic.png) | [midi](ModeDSharpStalimic.mid) [ogg](ModeDSharpStalimic.ogg) |
-| [Eb](ModeEFlatStalimic.md) | **Eb**, F##, **G##**, A###, **B##**, C##, **Eb** | C | ![EFlatStalimic](ModeEFlatStalimic.png) | [midi](ModeEFlatStalimic.mid) [ogg](ModeEFlatStalimic.ogg) |
-| [E](ModeENaturalStalimic.md) | **E**, F###, **G###**, Db, **Ebb**, Fbb, **E** | C | ![ENaturalStalimic](ModeENaturalStalimic.png) | [midi](ModeENaturalStalimic.mid) [ogg](ModeENaturalStalimic.ogg) |
-| [F](ModeFNaturalStalimic.md) | **F**, G##, **A##**, B###, **C###**, D##, **F** | C | ![FNaturalStalimic](ModeFNaturalStalimic.png) | [midi](ModeFNaturalStalimic.mid) [ogg](ModeFNaturalStalimic.ogg) |
-| [F#](ModeFSharpStalimic.md) | **F#**, G###, **A###**, C###, **D##**, E#, **F#** | C | ![FSharpStalimic](ModeFSharpStalimic.png) | [midi](ModeFSharpStalimic.mid) [ogg](ModeFSharpStalimic.ogg) |
-| [Gb](ModeGFlatStalimic.md) | **Gb**, A#, **B#**, C###, **D##**, E#, **Gb** | C | ![GFlatStalimic](ModeGFlatStalimic.png) | [midi](ModeGFlatStalimic.mid) [ogg](ModeGFlatStalimic.ogg) |
-| [G](ModeGNaturalStalimic.md) | **G**, A##, **B##**, D##, **E#**, F#, **G** | C | ![GNaturalStalimic](ModeGNaturalStalimic.png) | [midi](ModeGNaturalStalimic.mid) [ogg](ModeGNaturalStalimic.ogg) |
-| [G#](ModeGSharpStalimic.md) | **G#**, A###, **B###**, D###, **E##**, F##, **G#** | C | ![GSharpStalimic](ModeGSharpStalimic.png) | [midi](ModeGSharpStalimic.mid) [ogg](ModeGSharpStalimic.ogg) |
-| [Ab](ModeAFlatStalimic.md) | **Ab**, B#, **C##**, D###, **E##**, F##, **Ab** | C | ![AFlatStalimic](ModeAFlatStalimic.png) | [midi](ModeAFlatStalimic.mid) [ogg](ModeAFlatStalimic.ogg) |
-| [A](ModeANaturalStalimic.md) | **A**, B##, **C###**, E##, **F##**, G#, **A** | C | ![ANaturalStalimic](ModeANaturalStalimic.png) | [midi](ModeANaturalStalimic.mid) [ogg](ModeANaturalStalimic.ogg) |
-| [A#](ModeASharpStalimic.md) | **A#**, B###, **D##**, E###, **F###**, G##, **A#** | C | ![ASharpStalimic](ModeASharpStalimic.png) | [midi](ModeASharpStalimic.mid) [ogg](ModeASharpStalimic.ogg) |
-| [Bb](ModeBFlatStalimic.md) | **Bb**, C##, **D##**, E###, **F###**, G##, **Bb** | C | ![BFlatStalimic](ModeBFlatStalimic.png) | [midi](ModeBFlatStalimic.mid) [ogg](ModeBFlatStalimic.ogg) |
-| [B](ModeBNaturalStalimic.md) | **B**, C###, **D###**, F###, **G##**, A#, **B** | C | ![BNaturalStalimic](ModeBNaturalStalimic.png) | [midi](ModeBNaturalStalimic.mid) [ogg](ModeBNaturalStalimic.ogg) |
+| [C](ModeCNaturalStalimic.md) | **C**, D##, **E##**, Cbbb, **Cbb**, Dbbb, **C** | C | ![CNaturalStalimic](ModeCNaturalStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalStalimic.mid?raw=true) |
+| [C#](ModeCSharpStalimic.md) | **C#**, D###, **E###**, Cbb, **Dbbb**, Dbb, **C#** | C | ![CSharpStalimic](ModeCSharpStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpStalimic.mid?raw=true) |
+| [Db](ModeDFlatStalimic.md) | **Db**, E#, **F##**, G###, **A##**, B#, **Db** | C | ![DFlatStalimic](ModeDFlatStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatStalimic.mid?raw=true) |
+| [D](ModeDNaturalStalimic.md) | **D**, E##, **F###**, Cb, **Dbb**, Ebbb, **D** | C | ![DNaturalStalimic](ModeDNaturalStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalStalimic.mid?raw=true) |
+| [D#](ModeDSharpStalimic.md) | **D#**, E###, **Cbbb**, Dbb, **Ebbb**, Fbbb, **D#** | C | ![DSharpStalimic](ModeDSharpStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpStalimic.mid?raw=true) |
+| [Eb](ModeEFlatStalimic.md) | **Eb**, F##, **G##**, A###, **B##**, C##, **Eb** | C | ![EFlatStalimic](ModeEFlatStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatStalimic.mid?raw=true) |
+| [E](ModeENaturalStalimic.md) | **E**, F###, **G###**, Db, **Ebb**, Fbb, **E** | C | ![ENaturalStalimic](ModeENaturalStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalStalimic.mid?raw=true) |
+| [F](ModeFNaturalStalimic.md) | **F**, G##, **A##**, B###, **C###**, D##, **F** | C | ![FNaturalStalimic](ModeFNaturalStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalStalimic.mid?raw=true) |
+| [F#](ModeFSharpStalimic.md) | **F#**, G###, **A###**, C###, **D##**, E#, **F#** | C | ![FSharpStalimic](ModeFSharpStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpStalimic.mid?raw=true) |
+| [Gb](ModeGFlatStalimic.md) | **Gb**, A#, **B#**, C###, **D##**, E#, **Gb** | C | ![GFlatStalimic](ModeGFlatStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatStalimic.mid?raw=true) |
+| [G](ModeGNaturalStalimic.md) | **G**, A##, **B##**, D##, **E#**, F#, **G** | C | ![GNaturalStalimic](ModeGNaturalStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalStalimic.mid?raw=true) |
+| [G#](ModeGSharpStalimic.md) | **G#**, A###, **B###**, D###, **E##**, F##, **G#** | C | ![GSharpStalimic](ModeGSharpStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpStalimic.mid?raw=true) |
+| [Ab](ModeAFlatStalimic.md) | **Ab**, B#, **C##**, D###, **E##**, F##, **Ab** | C | ![AFlatStalimic](ModeAFlatStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatStalimic.mid?raw=true) |
+| [A](ModeANaturalStalimic.md) | **A**, B##, **C###**, E##, **F##**, G#, **A** | C | ![ANaturalStalimic](ModeANaturalStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalStalimic.mid?raw=true) |
+| [A#](ModeASharpStalimic.md) | **A#**, B###, **D##**, E###, **F###**, G##, **A#** | C | ![ASharpStalimic](ModeASharpStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpStalimic.mid?raw=true) |
+| [Bb](ModeBFlatStalimic.md) | **Bb**, C##, **D##**, E###, **F###**, G##, **Bb** | C | ![BFlatStalimic](ModeBFlatStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatStalimic.mid?raw=true) |
+| [B](ModeBNaturalStalimic.md) | **B**, C###, **D###**, F###, **G##**, A#, **B** | C | ![BNaturalStalimic](ModeBNaturalStalimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalStalimic.mid?raw=true) |

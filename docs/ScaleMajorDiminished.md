@@ -21,5 +21,5 @@
 
 | Number | Mode | Notes | Illustration | Audio |
 |--------|------|-------|--------------|-------|
-| [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | C, **C#**, D#, **E**, F#, **G**, A, **A#**, C | ![CNaturalMinorDiminished](ModeCNaturalMinorDiminished.png) | [midi](ModeCNaturalMinorDiminished.mid) [ogg](ModeCNaturalMinorDiminished.ogg) | 
-| [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | **C**, D, **D#**, F, **F#**, G#, **A**, B, **C** | ![CNaturalMajorDiminished](ModeCNaturalMajorDiminished.png) | [midi](ModeCNaturalMajorDiminished.mid) [ogg](ModeCNaturalMajorDiminished.ogg) | 
+| [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | C, **C#**, D#, **E**, F#, **G**, A, **A#**, C | ![CNaturalMinorDiminished](ModeCNaturalMinorDiminished.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMinorDiminished.mid?raw=true) | 
+| [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | **C**, D, **D#**, F, **F#**, G#, **A**, B, **C** | ![CNaturalMajorDiminished](ModeCNaturalMajorDiminished.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMajorDiminished.mid?raw=true) | 

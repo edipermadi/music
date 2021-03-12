@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalKatythimic.md) | C, D##, **E##**, **F##**, **G###**, A##, C | C | ![CNaturalKatythimic](ModeCNaturalKatythimic.png) | [midi](ModeCNaturalKatythimic.mid) [ogg](ModeCNaturalKatythimic.ogg) |
-| [C#](ModeCSharpKatythimic.md) | C#, D###, **E###**, **F###**, **Cb**, Dbb, C# | C | ![CSharpKatythimic](ModeCSharpKatythimic.png) | [midi](ModeCSharpKatythimic.mid) [ogg](ModeCSharpKatythimic.ogg) |
-| [Db](ModeDFlatKatythimic.md) | Db, E#, **F##**, **G#**, **A##**, B#, Db | C | ![DFlatKatythimic](ModeDFlatKatythimic.png) | [midi](ModeDFlatKatythimic.mid) [ogg](ModeDFlatKatythimic.ogg) |
-| [D](ModeDNaturalKatythimic.md) | D, E##, **F###**, **G##**, **A###**, B##, D | C | ![DNaturalKatythimic](ModeDNaturalKatythimic.png) | [midi](ModeDNaturalKatythimic.mid) [ogg](ModeDNaturalKatythimic.ogg) |
-| [D#](ModeDSharpKatythimic.md) | D#, E###, **Cbbb**, **Cbb**, **Db**, Ebb, D# | C | ![DSharpKatythimic](ModeDSharpKatythimic.png) | [midi](ModeDSharpKatythimic.mid) [ogg](ModeDSharpKatythimic.ogg) |
-| [Eb](ModeEFlatKatythimic.md) | Eb, F##, **G##**, **A#**, **B##**, C##, Eb | C | ![EFlatKatythimic](ModeEFlatKatythimic.png) | [midi](ModeEFlatKatythimic.mid) [ogg](ModeEFlatKatythimic.ogg) |
-| [E](ModeENaturalKatythimic.md) | E, F###, **G###**, **A##**, **B###**, C###, E | C | ![ENaturalKatythimic](ModeENaturalKatythimic.png) | [midi](ModeENaturalKatythimic.mid) [ogg](ModeENaturalKatythimic.ogg) |
-| [F](ModeFNaturalKatythimic.md) | F, G##, **A##**, **B#**, **C###**, D##, F | C | ![FNaturalKatythimic](ModeFNaturalKatythimic.png) | [midi](ModeFNaturalKatythimic.mid) [ogg](ModeFNaturalKatythimic.ogg) |
-| [F#](ModeFSharpKatythimic.md) | F#, G###, **A###**, **B##**, **D##**, E#, F# | C | ![FSharpKatythimic](ModeFSharpKatythimic.png) | [midi](ModeFSharpKatythimic.mid) [ogg](ModeFSharpKatythimic.ogg) |
-| [Gb](ModeGFlatKatythimic.md) | Gb, A#, **B#**, **C#**, **D##**, E#, Gb | C | ![GFlatKatythimic](ModeGFlatKatythimic.png) | [midi](ModeGFlatKatythimic.mid) [ogg](ModeGFlatKatythimic.ogg) |
-| [G](ModeGNaturalKatythimic.md) | G, A##, **B##**, **C##**, **D###**, E##, G | C | ![GNaturalKatythimic](ModeGNaturalKatythimic.png) | [midi](ModeGNaturalKatythimic.mid) [ogg](ModeGNaturalKatythimic.ogg) |
-| [G#](ModeGSharpKatythimic.md) | G#, A###, **B###**, **C###**, **E##**, F##, G# | C | ![GSharpKatythimic](ModeGSharpKatythimic.png) | [midi](ModeGSharpKatythimic.mid) [ogg](ModeGSharpKatythimic.ogg) |
-| [Ab](ModeAFlatKatythimic.md) | Ab, B#, **C##**, **D#**, **E##**, F##, Ab | C | ![AFlatKatythimic](ModeAFlatKatythimic.png) | [midi](ModeAFlatKatythimic.mid) [ogg](ModeAFlatKatythimic.ogg) |
-| [A](ModeANaturalKatythimic.md) | A, B##, **C###**, **D##**, **E###**, F###, A | C | ![ANaturalKatythimic](ModeANaturalKatythimic.png) | [midi](ModeANaturalKatythimic.mid) [ogg](ModeANaturalKatythimic.ogg) |
-| [A#](ModeASharpKatythimic.md) | A#, B###, **D##**, **E#**, **F###**, G##, A# | C | ![ASharpKatythimic](ModeASharpKatythimic.png) | [midi](ModeASharpKatythimic.mid) [ogg](ModeASharpKatythimic.ogg) |
-| [Bb](ModeBFlatKatythimic.md) | Bb, C##, **D##**, **E#**, **F###**, G##, Bb | C | ![BFlatKatythimic](ModeBFlatKatythimic.png) | [midi](ModeBFlatKatythimic.mid) [ogg](ModeBFlatKatythimic.ogg) |
-| [B](ModeBNaturalKatythimic.md) | B, C###, **D###**, **E##**, **Cbbb**, Cbb, B | C | ![BNaturalKatythimic](ModeBNaturalKatythimic.png) | [midi](ModeBNaturalKatythimic.mid) [ogg](ModeBNaturalKatythimic.ogg) |
+| [C](ModeCNaturalKatythimic.md) | C, D##, **E##**, **F##**, **G###**, A##, C | C | ![CNaturalKatythimic](ModeCNaturalKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKatythimic.mid?raw=true) |
+| [C#](ModeCSharpKatythimic.md) | C#, D###, **E###**, **F###**, **Cb**, Dbb, C# | C | ![CSharpKatythimic](ModeCSharpKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpKatythimic.mid?raw=true) |
+| [Db](ModeDFlatKatythimic.md) | Db, E#, **F##**, **G#**, **A##**, B#, Db | C | ![DFlatKatythimic](ModeDFlatKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatKatythimic.mid?raw=true) |
+| [D](ModeDNaturalKatythimic.md) | D, E##, **F###**, **G##**, **A###**, B##, D | C | ![DNaturalKatythimic](ModeDNaturalKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalKatythimic.mid?raw=true) |
+| [D#](ModeDSharpKatythimic.md) | D#, E###, **Cbbb**, **Cbb**, **Db**, Ebb, D# | C | ![DSharpKatythimic](ModeDSharpKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpKatythimic.mid?raw=true) |
+| [Eb](ModeEFlatKatythimic.md) | Eb, F##, **G##**, **A#**, **B##**, C##, Eb | C | ![EFlatKatythimic](ModeEFlatKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatKatythimic.mid?raw=true) |
+| [E](ModeENaturalKatythimic.md) | E, F###, **G###**, **A##**, **B###**, C###, E | C | ![ENaturalKatythimic](ModeENaturalKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalKatythimic.mid?raw=true) |
+| [F](ModeFNaturalKatythimic.md) | F, G##, **A##**, **B#**, **C###**, D##, F | C | ![FNaturalKatythimic](ModeFNaturalKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalKatythimic.mid?raw=true) |
+| [F#](ModeFSharpKatythimic.md) | F#, G###, **A###**, **B##**, **D##**, E#, F# | C | ![FSharpKatythimic](ModeFSharpKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpKatythimic.mid?raw=true) |
+| [Gb](ModeGFlatKatythimic.md) | Gb, A#, **B#**, **C#**, **D##**, E#, Gb | C | ![GFlatKatythimic](ModeGFlatKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatKatythimic.mid?raw=true) |
+| [G](ModeGNaturalKatythimic.md) | G, A##, **B##**, **C##**, **D###**, E##, G | C | ![GNaturalKatythimic](ModeGNaturalKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalKatythimic.mid?raw=true) |
+| [G#](ModeGSharpKatythimic.md) | G#, A###, **B###**, **C###**, **E##**, F##, G# | C | ![GSharpKatythimic](ModeGSharpKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpKatythimic.mid?raw=true) |
+| [Ab](ModeAFlatKatythimic.md) | Ab, B#, **C##**, **D#**, **E##**, F##, Ab | C | ![AFlatKatythimic](ModeAFlatKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatKatythimic.mid?raw=true) |
+| [A](ModeANaturalKatythimic.md) | A, B##, **C###**, **D##**, **E###**, F###, A | C | ![ANaturalKatythimic](ModeANaturalKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalKatythimic.mid?raw=true) |
+| [A#](ModeASharpKatythimic.md) | A#, B###, **D##**, **E#**, **F###**, G##, A# | C | ![ASharpKatythimic](ModeASharpKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpKatythimic.mid?raw=true) |
+| [Bb](ModeBFlatKatythimic.md) | Bb, C##, **D##**, **E#**, **F###**, G##, Bb | C | ![BFlatKatythimic](ModeBFlatKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatKatythimic.mid?raw=true) |
+| [B](ModeBNaturalKatythimic.md) | B, C###, **D###**, **E##**, **Cbbb**, Cbb, B | C | ![BNaturalKatythimic](ModeBNaturalKatythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalKatythimic.mid?raw=true) |

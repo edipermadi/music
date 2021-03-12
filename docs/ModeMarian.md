@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalMarian.md) | **C**, **D**, E#, **F#**, **G#**, A#, B, **C** | C | ![CNaturalMarian](ModeCNaturalMarian.png) | [midi](ModeCNaturalMarian.mid) [ogg](ModeCNaturalMarian.ogg) |
-| [C#](ModeCSharpMarian.md) | **C#**, **D#**, E##, **F##**, **G##**, A##, B#, **C#** | C | ![CSharpMarian](ModeCSharpMarian.png) | [midi](ModeCSharpMarian.mid) [ogg](ModeCSharpMarian.ogg) |
-| [Db](ModeDFlatMarian.md) | **Db**, **Eb**, F#, **G**, **A**, B, C, **Db** | C | ![DFlatMarian](ModeDFlatMarian.png) | [midi](ModeDFlatMarian.mid) [ogg](ModeDFlatMarian.ogg) |
-| [D](ModeDNaturalMarian.md) | **D**, **E**, F##, **G#**, **A#**, B#, C#, **D** | C | ![DNaturalMarian](ModeDNaturalMarian.png) | [midi](ModeDNaturalMarian.mid) [ogg](ModeDNaturalMarian.ogg) |
-| [D#](ModeDSharpMarian.md) | **D#**, **E#**, F###, **G##**, **A##**, B##, C##, **D#** | C | ![DSharpMarian](ModeDSharpMarian.png) | [midi](ModeDSharpMarian.mid) [ogg](ModeDSharpMarian.ogg) |
-| [Eb](ModeEFlatMarian.md) | **Eb**, **F**, G#, **A**, **B**, C#, D, **Eb** | C | ![EFlatMarian](ModeEFlatMarian.png) | [midi](ModeEFlatMarian.mid) [ogg](ModeEFlatMarian.ogg) |
-| [E](ModeENaturalMarian.md) | **E**, **F#**, G##, **A#**, **B#**, C##, D#, **E** | C | ![ENaturalMarian](ModeENaturalMarian.png) | [midi](ModeENaturalMarian.mid) [ogg](ModeENaturalMarian.ogg) |
-| [F](ModeFNaturalMarian.md) | **F**, **G**, A#, **B**, **C#**, D#, E, **F** | C | ![FNaturalMarian](ModeFNaturalMarian.png) | [midi](ModeFNaturalMarian.mid) [ogg](ModeFNaturalMarian.ogg) |
-| [F#](ModeFSharpMarian.md) | **F#**, **G#**, A##, **B#**, **C##**, D##, E#, **F#** | C | ![FSharpMarian](ModeFSharpMarian.png) | [midi](ModeFSharpMarian.mid) [ogg](ModeFSharpMarian.ogg) |
-| [Gb](ModeGFlatMarian.md) | **Gb**, **Ab**, B, **C**, **D**, E, F, **Gb** | C | ![GFlatMarian](ModeGFlatMarian.png) | [midi](ModeGFlatMarian.mid) [ogg](ModeGFlatMarian.ogg) |
-| [G](ModeGNaturalMarian.md) | **G**, **A**, B#, **C#**, **D#**, E#, F#, **G** | C | ![GNaturalMarian](ModeGNaturalMarian.png) | [midi](ModeGNaturalMarian.mid) [ogg](ModeGNaturalMarian.ogg) |
-| [G#](ModeGSharpMarian.md) | **G#**, **A#**, B##, **C##**, **D##**, E##, F##, **G#** | C | ![GSharpMarian](ModeGSharpMarian.png) | [midi](ModeGSharpMarian.mid) [ogg](ModeGSharpMarian.ogg) |
-| [Ab](ModeAFlatMarian.md) | **Ab**, **Bb**, C#, **D**, **E**, F#, G, **Ab** | C | ![AFlatMarian](ModeAFlatMarian.png) | [midi](ModeAFlatMarian.mid) [ogg](ModeAFlatMarian.ogg) |
-| [A](ModeANaturalMarian.md) | **A**, **B**, C##, **D#**, **E#**, F##, G#, **A** | C | ![ANaturalMarian](ModeANaturalMarian.png) | [midi](ModeANaturalMarian.mid) [ogg](ModeANaturalMarian.ogg) |
-| [A#](ModeASharpMarian.md) | **A#**, **B#**, C###, **D##**, **E##**, F###, G##, **A#** | C | ![ASharpMarian](ModeASharpMarian.png) | [midi](ModeASharpMarian.mid) [ogg](ModeASharpMarian.ogg) |
-| [Bb](ModeBFlatMarian.md) | **Bb**, **C**, D#, **E**, **F#**, G#, A, **Bb** | C | ![BFlatMarian](ModeBFlatMarian.png) | [midi](ModeBFlatMarian.mid) [ogg](ModeBFlatMarian.ogg) |
-| [B](ModeBNaturalMarian.md) | **B**, **C#**, D##, **E#**, **F##**, G##, A#, **B** | C | ![BNaturalMarian](ModeBNaturalMarian.png) | [midi](ModeBNaturalMarian.mid) [ogg](ModeBNaturalMarian.ogg) |
+| [C](ModeCNaturalMarian.md) | **C**, **D**, E#, **F#**, **G#**, A#, B, **C** | C | ![CNaturalMarian](ModeCNaturalMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMarian.mid?raw=true) |
+| [C#](ModeCSharpMarian.md) | **C#**, **D#**, E##, **F##**, **G##**, A##, B#, **C#** | C | ![CSharpMarian](ModeCSharpMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpMarian.mid?raw=true) |
+| [Db](ModeDFlatMarian.md) | **Db**, **Eb**, F#, **G**, **A**, B, C, **Db** | C | ![DFlatMarian](ModeDFlatMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatMarian.mid?raw=true) |
+| [D](ModeDNaturalMarian.md) | **D**, **E**, F##, **G#**, **A#**, B#, C#, **D** | C | ![DNaturalMarian](ModeDNaturalMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalMarian.mid?raw=true) |
+| [D#](ModeDSharpMarian.md) | **D#**, **E#**, F###, **G##**, **A##**, B##, C##, **D#** | C | ![DSharpMarian](ModeDSharpMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpMarian.mid?raw=true) |
+| [Eb](ModeEFlatMarian.md) | **Eb**, **F**, G#, **A**, **B**, C#, D, **Eb** | C | ![EFlatMarian](ModeEFlatMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatMarian.mid?raw=true) |
+| [E](ModeENaturalMarian.md) | **E**, **F#**, G##, **A#**, **B#**, C##, D#, **E** | C | ![ENaturalMarian](ModeENaturalMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalMarian.mid?raw=true) |
+| [F](ModeFNaturalMarian.md) | **F**, **G**, A#, **B**, **C#**, D#, E, **F** | C | ![FNaturalMarian](ModeFNaturalMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalMarian.mid?raw=true) |
+| [F#](ModeFSharpMarian.md) | **F#**, **G#**, A##, **B#**, **C##**, D##, E#, **F#** | C | ![FSharpMarian](ModeFSharpMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpMarian.mid?raw=true) |
+| [Gb](ModeGFlatMarian.md) | **Gb**, **Ab**, B, **C**, **D**, E, F, **Gb** | C | ![GFlatMarian](ModeGFlatMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatMarian.mid?raw=true) |
+| [G](ModeGNaturalMarian.md) | **G**, **A**, B#, **C#**, **D#**, E#, F#, **G** | C | ![GNaturalMarian](ModeGNaturalMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalMarian.mid?raw=true) |
+| [G#](ModeGSharpMarian.md) | **G#**, **A#**, B##, **C##**, **D##**, E##, F##, **G#** | C | ![GSharpMarian](ModeGSharpMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpMarian.mid?raw=true) |
+| [Ab](ModeAFlatMarian.md) | **Ab**, **Bb**, C#, **D**, **E**, F#, G, **Ab** | C | ![AFlatMarian](ModeAFlatMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatMarian.mid?raw=true) |
+| [A](ModeANaturalMarian.md) | **A**, **B**, C##, **D#**, **E#**, F##, G#, **A** | C | ![ANaturalMarian](ModeANaturalMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalMarian.mid?raw=true) |
+| [A#](ModeASharpMarian.md) | **A#**, **B#**, C###, **D##**, **E##**, F###, G##, **A#** | C | ![ASharpMarian](ModeASharpMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpMarian.mid?raw=true) |
+| [Bb](ModeBFlatMarian.md) | **Bb**, **C**, D#, **E**, **F#**, G#, A, **Bb** | C | ![BFlatMarian](ModeBFlatMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatMarian.mid?raw=true) |
+| [B](ModeBNaturalMarian.md) | **B**, **C#**, D##, **E#**, **F##**, G##, A#, **B** | C | ![BNaturalMarian](ModeBNaturalMarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalMarian.mid?raw=true) |

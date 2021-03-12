@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalKatodyllic.md) | C, **D**, D#, F, G, G#, A#, **B**, C | C | ![CNaturalKatodyllic](ModeCNaturalKatodyllic.png) | [midi](ModeCNaturalKatodyllic.mid) [ogg](ModeCNaturalKatodyllic.ogg) |
-| [C#](ModeCSharpKatodyllic.md) | C#, **D#**, E, F#, G#, A, B, **C**, C# | C | ![CSharpKatodyllic](ModeCSharpKatodyllic.png) | [midi](ModeCSharpKatodyllic.mid) [ogg](ModeCSharpKatodyllic.ogg) |
-| [Db](ModeDFlatKatodyllic.md) | Db, **Eb**, E, Gb, Ab, A, B, **C**, Db | C | ![DFlatKatodyllic](ModeDFlatKatodyllic.png) | [midi](ModeDFlatKatodyllic.mid) [ogg](ModeDFlatKatodyllic.ogg) |
-| [D](ModeDNaturalKatodyllic.md) | D, **E**, F, G, A, A#, C, **C#**, D | C | ![DNaturalKatodyllic](ModeDNaturalKatodyllic.png) | [midi](ModeDNaturalKatodyllic.mid) [ogg](ModeDNaturalKatodyllic.ogg) |
-| [D#](ModeDSharpKatodyllic.md) | D#, **F**, F#, G#, A#, B, C#, **D**, D# | C | ![DSharpKatodyllic](ModeDSharpKatodyllic.png) | [midi](ModeDSharpKatodyllic.mid) [ogg](ModeDSharpKatodyllic.ogg) |
-| [Eb](ModeEFlatKatodyllic.md) | Eb, **F**, Gb, Ab, Bb, B, Db, **D**, Eb | C | ![EFlatKatodyllic](ModeEFlatKatodyllic.png) | [midi](ModeEFlatKatodyllic.mid) [ogg](ModeEFlatKatodyllic.ogg) |
-| [E](ModeENaturalKatodyllic.md) | E, **F#**, G, A, B, C, D, **D#**, E | C | ![ENaturalKatodyllic](ModeENaturalKatodyllic.png) | [midi](ModeENaturalKatodyllic.mid) [ogg](ModeENaturalKatodyllic.ogg) |
-| [F](ModeFNaturalKatodyllic.md) | F, **G**, G#, A#, C, C#, D#, **E**, F | C | ![FNaturalKatodyllic](ModeFNaturalKatodyllic.png) | [midi](ModeFNaturalKatodyllic.mid) [ogg](ModeFNaturalKatodyllic.ogg) |
-| [F#](ModeFSharpKatodyllic.md) | F#, **G#**, A, B, C#, D, E, **F**, F# | C | ![FSharpKatodyllic](ModeFSharpKatodyllic.png) | [midi](ModeFSharpKatodyllic.mid) [ogg](ModeFSharpKatodyllic.ogg) |
-| [Gb](ModeGFlatKatodyllic.md) | Gb, **Ab**, A, B, Db, D, E, **F**, Gb | C | ![GFlatKatodyllic](ModeGFlatKatodyllic.png) | [midi](ModeGFlatKatodyllic.mid) [ogg](ModeGFlatKatodyllic.ogg) |
-| [G](ModeGNaturalKatodyllic.md) | G, **A**, A#, C, D, D#, F, **F#**, G | C | ![GNaturalKatodyllic](ModeGNaturalKatodyllic.png) | [midi](ModeGNaturalKatodyllic.mid) [ogg](ModeGNaturalKatodyllic.ogg) |
-| [G#](ModeGSharpKatodyllic.md) | G#, **A#**, B, C#, D#, E, F#, **G**, G# | C | ![GSharpKatodyllic](ModeGSharpKatodyllic.png) | [midi](ModeGSharpKatodyllic.mid) [ogg](ModeGSharpKatodyllic.ogg) |
-| [Ab](ModeAFlatKatodyllic.md) | Ab, **Bb**, B, Db, Eb, E, Gb, **G**, Ab | C | ![AFlatKatodyllic](ModeAFlatKatodyllic.png) | [midi](ModeAFlatKatodyllic.mid) [ogg](ModeAFlatKatodyllic.ogg) |
-| [A](ModeANaturalKatodyllic.md) | A, **B**, C, D, E, F, G, **G#**, A | C | ![ANaturalKatodyllic](ModeANaturalKatodyllic.png) | [midi](ModeANaturalKatodyllic.mid) [ogg](ModeANaturalKatodyllic.ogg) |
-| [A#](ModeASharpKatodyllic.md) | A#, **C**, C#, D#, F, F#, G#, **A**, A# | C | ![ASharpKatodyllic](ModeASharpKatodyllic.png) | [midi](ModeASharpKatodyllic.mid) [ogg](ModeASharpKatodyllic.ogg) |
-| [Bb](ModeBFlatKatodyllic.md) | Bb, **C**, Db, Eb, F, Gb, Ab, **A**, Bb | C | ![BFlatKatodyllic](ModeBFlatKatodyllic.png) | [midi](ModeBFlatKatodyllic.mid) [ogg](ModeBFlatKatodyllic.ogg) |
-| [B](ModeBNaturalKatodyllic.md) | B, **C#**, D, E, F#, G, A, **A#**, B | C | ![BNaturalKatodyllic](ModeBNaturalKatodyllic.png) | [midi](ModeBNaturalKatodyllic.mid) [ogg](ModeBNaturalKatodyllic.ogg) |
+| [C](ModeCNaturalKatodyllic.md) | C, **D**, D#, F, G, G#, A#, **B**, C | C | ![CNaturalKatodyllic](ModeCNaturalKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKatodyllic.mid?raw=true) |
+| [C#](ModeCSharpKatodyllic.md) | C#, **D#**, E, F#, G#, A, B, **C**, C# | C | ![CSharpKatodyllic](ModeCSharpKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpKatodyllic.mid?raw=true) |
+| [Db](ModeDFlatKatodyllic.md) | Db, **Eb**, E, Gb, Ab, A, B, **C**, Db | C | ![DFlatKatodyllic](ModeDFlatKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatKatodyllic.mid?raw=true) |
+| [D](ModeDNaturalKatodyllic.md) | D, **E**, F, G, A, A#, C, **C#**, D | C | ![DNaturalKatodyllic](ModeDNaturalKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalKatodyllic.mid?raw=true) |
+| [D#](ModeDSharpKatodyllic.md) | D#, **F**, F#, G#, A#, B, C#, **D**, D# | C | ![DSharpKatodyllic](ModeDSharpKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpKatodyllic.mid?raw=true) |
+| [Eb](ModeEFlatKatodyllic.md) | Eb, **F**, Gb, Ab, Bb, B, Db, **D**, Eb | C | ![EFlatKatodyllic](ModeEFlatKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatKatodyllic.mid?raw=true) |
+| [E](ModeENaturalKatodyllic.md) | E, **F#**, G, A, B, C, D, **D#**, E | C | ![ENaturalKatodyllic](ModeENaturalKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalKatodyllic.mid?raw=true) |
+| [F](ModeFNaturalKatodyllic.md) | F, **G**, G#, A#, C, C#, D#, **E**, F | C | ![FNaturalKatodyllic](ModeFNaturalKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalKatodyllic.mid?raw=true) |
+| [F#](ModeFSharpKatodyllic.md) | F#, **G#**, A, B, C#, D, E, **F**, F# | C | ![FSharpKatodyllic](ModeFSharpKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpKatodyllic.mid?raw=true) |
+| [Gb](ModeGFlatKatodyllic.md) | Gb, **Ab**, A, B, Db, D, E, **F**, Gb | C | ![GFlatKatodyllic](ModeGFlatKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatKatodyllic.mid?raw=true) |
+| [G](ModeGNaturalKatodyllic.md) | G, **A**, A#, C, D, D#, F, **F#**, G | C | ![GNaturalKatodyllic](ModeGNaturalKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalKatodyllic.mid?raw=true) |
+| [G#](ModeGSharpKatodyllic.md) | G#, **A#**, B, C#, D#, E, F#, **G**, G# | C | ![GSharpKatodyllic](ModeGSharpKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpKatodyllic.mid?raw=true) |
+| [Ab](ModeAFlatKatodyllic.md) | Ab, **Bb**, B, Db, Eb, E, Gb, **G**, Ab | C | ![AFlatKatodyllic](ModeAFlatKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatKatodyllic.mid?raw=true) |
+| [A](ModeANaturalKatodyllic.md) | A, **B**, C, D, E, F, G, **G#**, A | C | ![ANaturalKatodyllic](ModeANaturalKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalKatodyllic.mid?raw=true) |
+| [A#](ModeASharpKatodyllic.md) | A#, **C**, C#, D#, F, F#, G#, **A**, A# | C | ![ASharpKatodyllic](ModeASharpKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpKatodyllic.mid?raw=true) |
+| [Bb](ModeBFlatKatodyllic.md) | Bb, **C**, Db, Eb, F, Gb, Ab, **A**, Bb | C | ![BFlatKatodyllic](ModeBFlatKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatKatodyllic.mid?raw=true) |
+| [B](ModeBNaturalKatodyllic.md) | B, **C#**, D, E, F#, G, A, **A#**, B | C | ![BNaturalKatodyllic](ModeBNaturalKatodyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalKatodyllic.mid?raw=true) |

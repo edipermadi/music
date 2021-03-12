@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalIonarian.md) | **C**, D##, E#, **F#**, G##, A#, B, **C** | C | ![CNaturalIonarian](ModeCNaturalIonarian.png) | [midi](ModeCNaturalIonarian.mid) [ogg](ModeCNaturalIonarian.ogg) |
-| [C#](ModeCSharpIonarian.md) | **C#**, D###, E##, **F##**, G###, A##, B#, **C#** | C | ![CSharpIonarian](ModeCSharpIonarian.png) | [midi](ModeCSharpIonarian.mid) [ogg](ModeCSharpIonarian.ogg) |
-| [Db](ModeDFlatIonarian.md) | **Db**, E#, F#, **G**, A#, B, C, **Db** | C | ![DFlatIonarian](ModeDFlatIonarian.png) | [midi](ModeDFlatIonarian.mid) [ogg](ModeDFlatIonarian.ogg) |
-| [D](ModeDNaturalIonarian.md) | **D**, E##, F##, **G#**, A##, B#, C#, **D** | C | ![DNaturalIonarian](ModeDNaturalIonarian.png) | [midi](ModeDNaturalIonarian.mid) [ogg](ModeDNaturalIonarian.ogg) |
-| [D#](ModeDSharpIonarian.md) | **D#**, E###, F###, **G##**, A###, B##, C##, **D#** | C | ![DSharpIonarian](ModeDSharpIonarian.png) | [midi](ModeDSharpIonarian.mid) [ogg](ModeDSharpIonarian.ogg) |
-| [Eb](ModeEFlatIonarian.md) | **Eb**, F##, G#, **A**, B#, C#, D, **Eb** | C | ![EFlatIonarian](ModeEFlatIonarian.png) | [midi](ModeEFlatIonarian.mid) [ogg](ModeEFlatIonarian.ogg) |
-| [E](ModeENaturalIonarian.md) | **E**, F###, G##, **A#**, B##, C##, D#, **E** | C | ![ENaturalIonarian](ModeENaturalIonarian.png) | [midi](ModeENaturalIonarian.mid) [ogg](ModeENaturalIonarian.ogg) |
-| [F](ModeFNaturalIonarian.md) | **F**, G##, A#, **B**, C##, D#, E, **F** | C | ![FNaturalIonarian](ModeFNaturalIonarian.png) | [midi](ModeFNaturalIonarian.mid) [ogg](ModeFNaturalIonarian.ogg) |
-| [F#](ModeFSharpIonarian.md) | **F#**, G###, A##, **B#**, C###, D##, E#, **F#** | C | ![FSharpIonarian](ModeFSharpIonarian.png) | [midi](ModeFSharpIonarian.mid) [ogg](ModeFSharpIonarian.ogg) |
-| [Gb](ModeGFlatIonarian.md) | **Gb**, A#, B, **C**, D#, E, F, **Gb** | C | ![GFlatIonarian](ModeGFlatIonarian.png) | [midi](ModeGFlatIonarian.mid) [ogg](ModeGFlatIonarian.ogg) |
-| [G](ModeGNaturalIonarian.md) | **G**, A##, B#, **C#**, D##, E#, F#, **G** | C | ![GNaturalIonarian](ModeGNaturalIonarian.png) | [midi](ModeGNaturalIonarian.mid) [ogg](ModeGNaturalIonarian.ogg) |
-| [G#](ModeGSharpIonarian.md) | **G#**, A###, B##, **C##**, D###, E##, F##, **G#** | C | ![GSharpIonarian](ModeGSharpIonarian.png) | [midi](ModeGSharpIonarian.mid) [ogg](ModeGSharpIonarian.ogg) |
-| [Ab](ModeAFlatIonarian.md) | **Ab**, B#, C#, **D**, E#, F#, G, **Ab** | C | ![AFlatIonarian](ModeAFlatIonarian.png) | [midi](ModeAFlatIonarian.mid) [ogg](ModeAFlatIonarian.ogg) |
-| [A](ModeANaturalIonarian.md) | **A**, B##, C##, **D#**, E##, F##, G#, **A** | C | ![ANaturalIonarian](ModeANaturalIonarian.png) | [midi](ModeANaturalIonarian.mid) [ogg](ModeANaturalIonarian.ogg) |
-| [A#](ModeASharpIonarian.md) | **A#**, B###, C###, **D##**, E###, F###, G##, **A#** | C | ![ASharpIonarian](ModeASharpIonarian.png) | [midi](ModeASharpIonarian.mid) [ogg](ModeASharpIonarian.ogg) |
-| [Bb](ModeBFlatIonarian.md) | **Bb**, C##, D#, **E**, F##, G#, A, **Bb** | C | ![BFlatIonarian](ModeBFlatIonarian.png) | [midi](ModeBFlatIonarian.mid) [ogg](ModeBFlatIonarian.ogg) |
-| [B](ModeBNaturalIonarian.md) | **B**, C###, D##, **E#**, F###, G##, A#, **B** | C | ![BNaturalIonarian](ModeBNaturalIonarian.png) | [midi](ModeBNaturalIonarian.mid) [ogg](ModeBNaturalIonarian.ogg) |
+| [C](ModeCNaturalIonarian.md) | **C**, D##, E#, **F#**, G##, A#, B, **C** | C | ![CNaturalIonarian](ModeCNaturalIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalIonarian.mid?raw=true) |
+| [C#](ModeCSharpIonarian.md) | **C#**, D###, E##, **F##**, G###, A##, B#, **C#** | C | ![CSharpIonarian](ModeCSharpIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpIonarian.mid?raw=true) |
+| [Db](ModeDFlatIonarian.md) | **Db**, E#, F#, **G**, A#, B, C, **Db** | C | ![DFlatIonarian](ModeDFlatIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatIonarian.mid?raw=true) |
+| [D](ModeDNaturalIonarian.md) | **D**, E##, F##, **G#**, A##, B#, C#, **D** | C | ![DNaturalIonarian](ModeDNaturalIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalIonarian.mid?raw=true) |
+| [D#](ModeDSharpIonarian.md) | **D#**, E###, F###, **G##**, A###, B##, C##, **D#** | C | ![DSharpIonarian](ModeDSharpIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpIonarian.mid?raw=true) |
+| [Eb](ModeEFlatIonarian.md) | **Eb**, F##, G#, **A**, B#, C#, D, **Eb** | C | ![EFlatIonarian](ModeEFlatIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatIonarian.mid?raw=true) |
+| [E](ModeENaturalIonarian.md) | **E**, F###, G##, **A#**, B##, C##, D#, **E** | C | ![ENaturalIonarian](ModeENaturalIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalIonarian.mid?raw=true) |
+| [F](ModeFNaturalIonarian.md) | **F**, G##, A#, **B**, C##, D#, E, **F** | C | ![FNaturalIonarian](ModeFNaturalIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalIonarian.mid?raw=true) |
+| [F#](ModeFSharpIonarian.md) | **F#**, G###, A##, **B#**, C###, D##, E#, **F#** | C | ![FSharpIonarian](ModeFSharpIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpIonarian.mid?raw=true) |
+| [Gb](ModeGFlatIonarian.md) | **Gb**, A#, B, **C**, D#, E, F, **Gb** | C | ![GFlatIonarian](ModeGFlatIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatIonarian.mid?raw=true) |
+| [G](ModeGNaturalIonarian.md) | **G**, A##, B#, **C#**, D##, E#, F#, **G** | C | ![GNaturalIonarian](ModeGNaturalIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalIonarian.mid?raw=true) |
+| [G#](ModeGSharpIonarian.md) | **G#**, A###, B##, **C##**, D###, E##, F##, **G#** | C | ![GSharpIonarian](ModeGSharpIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpIonarian.mid?raw=true) |
+| [Ab](ModeAFlatIonarian.md) | **Ab**, B#, C#, **D**, E#, F#, G, **Ab** | C | ![AFlatIonarian](ModeAFlatIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatIonarian.mid?raw=true) |
+| [A](ModeANaturalIonarian.md) | **A**, B##, C##, **D#**, E##, F##, G#, **A** | C | ![ANaturalIonarian](ModeANaturalIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalIonarian.mid?raw=true) |
+| [A#](ModeASharpIonarian.md) | **A#**, B###, C###, **D##**, E###, F###, G##, **A#** | C | ![ASharpIonarian](ModeASharpIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpIonarian.mid?raw=true) |
+| [Bb](ModeBFlatIonarian.md) | **Bb**, C##, D#, **E**, F##, G#, A, **Bb** | C | ![BFlatIonarian](ModeBFlatIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatIonarian.mid?raw=true) |
+| [B](ModeBNaturalIonarian.md) | **B**, C###, D##, **E#**, F###, G##, A#, **B** | C | ![BNaturalIonarian](ModeBNaturalIonarian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalIonarian.mid?raw=true) |

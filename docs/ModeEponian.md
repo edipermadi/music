@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalEponian.md) | **C**, **Db**, **Ebb**, F, Gb, A#, B, **C** | C | ![CNaturalEponian](ModeCNaturalEponian.png) | [midi](ModeCNaturalEponian.mid) [ogg](ModeCNaturalEponian.ogg) |
-| [C#](ModeCSharpEponian.md) | **C#**, **D**, **Eb**, F#, G, A##, B#, **C#** | C | ![CSharpEponian](ModeCSharpEponian.png) | [midi](ModeCSharpEponian.mid) [ogg](ModeCSharpEponian.ogg) |
-| [Db](ModeDFlatEponian.md) | **Db**, **Ebb**, **Fbb**, Gb, Abb, B, C, **Db** | C | ![DFlatEponian](ModeDFlatEponian.png) | [midi](ModeDFlatEponian.mid) [ogg](ModeDFlatEponian.ogg) |
-| [D](ModeDNaturalEponian.md) | **D**, **Eb**, **Fb**, G, Ab, B#, C#, **D** | C | ![DNaturalEponian](ModeDNaturalEponian.png) | [midi](ModeDNaturalEponian.mid) [ogg](ModeDNaturalEponian.ogg) |
-| [D#](ModeDSharpEponian.md) | **D#**, **E**, **F**, G#, A, B##, C##, **D#** | C | ![DSharpEponian](ModeDSharpEponian.png) | [midi](ModeDSharpEponian.mid) [ogg](ModeDSharpEponian.ogg) |
-| [Eb](ModeEFlatEponian.md) | **Eb**, **Fb**, **Gbb**, Ab, Bbb, C#, D, **Eb** | C | ![EFlatEponian](ModeEFlatEponian.png) | [midi](ModeEFlatEponian.mid) [ogg](ModeEFlatEponian.ogg) |
-| [E](ModeENaturalEponian.md) | **E**, **F**, **Gb**, A, Bb, C##, D#, **E** | C | ![ENaturalEponian](ModeENaturalEponian.png) | [midi](ModeENaturalEponian.mid) [ogg](ModeENaturalEponian.ogg) |
-| [F](ModeFNaturalEponian.md) | **F**, **Gb**, **Abb**, Bb, Cb, D#, E, **F** | C | ![FNaturalEponian](ModeFNaturalEponian.png) | [midi](ModeFNaturalEponian.mid) [ogg](ModeFNaturalEponian.ogg) |
-| [F#](ModeFSharpEponian.md) | **F#**, **G**, **Ab**, B, C, D##, E#, **F#** | C | ![FSharpEponian](ModeFSharpEponian.png) | [midi](ModeFSharpEponian.mid) [ogg](ModeFSharpEponian.ogg) |
-| [Gb](ModeGFlatEponian.md) | **Gb**, **Abb**, **Bbbb**, Cb, Dbb, E, F, **Gb** | C | ![GFlatEponian](ModeGFlatEponian.png) | [midi](ModeGFlatEponian.mid) [ogg](ModeGFlatEponian.ogg) |
-| [G](ModeGNaturalEponian.md) | **G**, **Ab**, **Bbb**, C, Db, E#, F#, **G** | C | ![GNaturalEponian](ModeGNaturalEponian.png) | [midi](ModeGNaturalEponian.mid) [ogg](ModeGNaturalEponian.ogg) |
-| [G#](ModeGSharpEponian.md) | **G#**, **A**, **Bb**, C#, D, E##, F##, **G#** | C | ![GSharpEponian](ModeGSharpEponian.png) | [midi](ModeGSharpEponian.mid) [ogg](ModeGSharpEponian.ogg) |
-| [Ab](ModeAFlatEponian.md) | **Ab**, **Bbb**, **Cbb**, Db, Ebb, F#, G, **Ab** | C | ![AFlatEponian](ModeAFlatEponian.png) | [midi](ModeAFlatEponian.mid) [ogg](ModeAFlatEponian.ogg) |
-| [A](ModeANaturalEponian.md) | **A**, **Bb**, **Cb**, D, Eb, F##, G#, **A** | C | ![ANaturalEponian](ModeANaturalEponian.png) | [midi](ModeANaturalEponian.mid) [ogg](ModeANaturalEponian.ogg) |
-| [A#](ModeASharpEponian.md) | **A#**, **B**, **C**, D#, E, F###, G##, **A#** | C | ![ASharpEponian](ModeASharpEponian.png) | [midi](ModeASharpEponian.mid) [ogg](ModeASharpEponian.ogg) |
-| [Bb](ModeBFlatEponian.md) | **Bb**, **Cb**, **Dbb**, Eb, Fb, G#, A, **Bb** | C | ![BFlatEponian](ModeBFlatEponian.png) | [midi](ModeBFlatEponian.mid) [ogg](ModeBFlatEponian.ogg) |
-| [B](ModeBNaturalEponian.md) | **B**, **C**, **Db**, E, F, G##, A#, **B** | C | ![BNaturalEponian](ModeBNaturalEponian.png) | [midi](ModeBNaturalEponian.mid) [ogg](ModeBNaturalEponian.ogg) |
+| [C](ModeCNaturalEponian.md) | **C**, **Db**, **Ebb**, F, Gb, A#, B, **C** | C | ![CNaturalEponian](ModeCNaturalEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalEponian.mid?raw=true) |
+| [C#](ModeCSharpEponian.md) | **C#**, **D**, **Eb**, F#, G, A##, B#, **C#** | C | ![CSharpEponian](ModeCSharpEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpEponian.mid?raw=true) |
+| [Db](ModeDFlatEponian.md) | **Db**, **Ebb**, **Fbb**, Gb, Abb, B, C, **Db** | C | ![DFlatEponian](ModeDFlatEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatEponian.mid?raw=true) |
+| [D](ModeDNaturalEponian.md) | **D**, **Eb**, **Fb**, G, Ab, B#, C#, **D** | C | ![DNaturalEponian](ModeDNaturalEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalEponian.mid?raw=true) |
+| [D#](ModeDSharpEponian.md) | **D#**, **E**, **F**, G#, A, B##, C##, **D#** | C | ![DSharpEponian](ModeDSharpEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpEponian.mid?raw=true) |
+| [Eb](ModeEFlatEponian.md) | **Eb**, **Fb**, **Gbb**, Ab, Bbb, C#, D, **Eb** | C | ![EFlatEponian](ModeEFlatEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatEponian.mid?raw=true) |
+| [E](ModeENaturalEponian.md) | **E**, **F**, **Gb**, A, Bb, C##, D#, **E** | C | ![ENaturalEponian](ModeENaturalEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalEponian.mid?raw=true) |
+| [F](ModeFNaturalEponian.md) | **F**, **Gb**, **Abb**, Bb, Cb, D#, E, **F** | C | ![FNaturalEponian](ModeFNaturalEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalEponian.mid?raw=true) |
+| [F#](ModeFSharpEponian.md) | **F#**, **G**, **Ab**, B, C, D##, E#, **F#** | C | ![FSharpEponian](ModeFSharpEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpEponian.mid?raw=true) |
+| [Gb](ModeGFlatEponian.md) | **Gb**, **Abb**, **Bbbb**, Cb, Dbb, E, F, **Gb** | C | ![GFlatEponian](ModeGFlatEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatEponian.mid?raw=true) |
+| [G](ModeGNaturalEponian.md) | **G**, **Ab**, **Bbb**, C, Db, E#, F#, **G** | C | ![GNaturalEponian](ModeGNaturalEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalEponian.mid?raw=true) |
+| [G#](ModeGSharpEponian.md) | **G#**, **A**, **Bb**, C#, D, E##, F##, **G#** | C | ![GSharpEponian](ModeGSharpEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpEponian.mid?raw=true) |
+| [Ab](ModeAFlatEponian.md) | **Ab**, **Bbb**, **Cbb**, Db, Ebb, F#, G, **Ab** | C | ![AFlatEponian](ModeAFlatEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatEponian.mid?raw=true) |
+| [A](ModeANaturalEponian.md) | **A**, **Bb**, **Cb**, D, Eb, F##, G#, **A** | C | ![ANaturalEponian](ModeANaturalEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalEponian.mid?raw=true) |
+| [A#](ModeASharpEponian.md) | **A#**, **B**, **C**, D#, E, F###, G##, **A#** | C | ![ASharpEponian](ModeASharpEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpEponian.mid?raw=true) |
+| [Bb](ModeBFlatEponian.md) | **Bb**, **Cb**, **Dbb**, Eb, Fb, G#, A, **Bb** | C | ![BFlatEponian](ModeBFlatEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatEponian.mid?raw=true) |
+| [B](ModeBNaturalEponian.md) | **B**, **C**, **Db**, E, F, G##, A#, **B** | C | ![BNaturalEponian](ModeBNaturalEponian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalEponian.mid?raw=true) |

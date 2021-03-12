@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalZogyllian.md) | C, C#, **D**, **D#**, E, F, F#, G, G#, B, C | C | ![CNaturalZogyllian](ModeCNaturalZogyllian.png) | [midi](ModeCNaturalZogyllian.mid) [ogg](ModeCNaturalZogyllian.ogg) |
-| [C#](ModeCSharpZogyllian.md) | C#, D, **D#**, **E**, F, F#, G, G#, A, C, C# | C | ![CSharpZogyllian](ModeCSharpZogyllian.png) | [midi](ModeCSharpZogyllian.mid) [ogg](ModeCSharpZogyllian.ogg) |
-| [Db](ModeDFlatZogyllian.md) | Db, D, **Eb**, **E**, F, Gb, G, Ab, A, C, Db | C | ![DFlatZogyllian](ModeDFlatZogyllian.png) | [midi](ModeDFlatZogyllian.mid) [ogg](ModeDFlatZogyllian.ogg) |
-| [D](ModeDNaturalZogyllian.md) | D, D#, **E**, **F**, F#, G, G#, A, A#, C#, D | C | ![DNaturalZogyllian](ModeDNaturalZogyllian.png) | [midi](ModeDNaturalZogyllian.mid) [ogg](ModeDNaturalZogyllian.ogg) |
-| [D#](ModeDSharpZogyllian.md) | D#, E, **F**, **F#**, G, G#, A, A#, B, D, D# | C | ![DSharpZogyllian](ModeDSharpZogyllian.png) | [midi](ModeDSharpZogyllian.mid) [ogg](ModeDSharpZogyllian.ogg) |
-| [Eb](ModeEFlatZogyllian.md) | Eb, E, **F**, **Gb**, G, Ab, A, Bb, B, D, Eb | C | ![EFlatZogyllian](ModeEFlatZogyllian.png) | [midi](ModeEFlatZogyllian.mid) [ogg](ModeEFlatZogyllian.ogg) |
-| [E](ModeENaturalZogyllian.md) | E, F, **F#**, **G**, G#, A, A#, B, C, D#, E | C | ![ENaturalZogyllian](ModeENaturalZogyllian.png) | [midi](ModeENaturalZogyllian.mid) [ogg](ModeENaturalZogyllian.ogg) |
-| [F](ModeFNaturalZogyllian.md) | F, F#, **G**, **G#**, A, A#, B, C, C#, E, F | C | ![FNaturalZogyllian](ModeFNaturalZogyllian.png) | [midi](ModeFNaturalZogyllian.mid) [ogg](ModeFNaturalZogyllian.ogg) |
-| [F#](ModeFSharpZogyllian.md) | F#, G, **G#**, **A**, A#, B, C, C#, D, F, F# | C | ![FSharpZogyllian](ModeFSharpZogyllian.png) | [midi](ModeFSharpZogyllian.mid) [ogg](ModeFSharpZogyllian.ogg) |
-| [Gb](ModeGFlatZogyllian.md) | Gb, G, **Ab**, **A**, Bb, B, C, Db, D, F, Gb | C | ![GFlatZogyllian](ModeGFlatZogyllian.png) | [midi](ModeGFlatZogyllian.mid) [ogg](ModeGFlatZogyllian.ogg) |
-| [G](ModeGNaturalZogyllian.md) | G, G#, **A**, **A#**, B, C, C#, D, D#, F#, G | C | ![GNaturalZogyllian](ModeGNaturalZogyllian.png) | [midi](ModeGNaturalZogyllian.mid) [ogg](ModeGNaturalZogyllian.ogg) |
-| [G#](ModeGSharpZogyllian.md) | G#, A, **A#**, **B**, C, C#, D, D#, E, G, G# | C | ![GSharpZogyllian](ModeGSharpZogyllian.png) | [midi](ModeGSharpZogyllian.mid) [ogg](ModeGSharpZogyllian.ogg) |
-| [Ab](ModeAFlatZogyllian.md) | Ab, A, **Bb**, **B**, C, Db, D, Eb, E, G, Ab | C | ![AFlatZogyllian](ModeAFlatZogyllian.png) | [midi](ModeAFlatZogyllian.mid) [ogg](ModeAFlatZogyllian.ogg) |
-| [A](ModeANaturalZogyllian.md) | A, A#, **B**, **C**, C#, D, D#, E, F, G#, A | C | ![ANaturalZogyllian](ModeANaturalZogyllian.png) | [midi](ModeANaturalZogyllian.mid) [ogg](ModeANaturalZogyllian.ogg) |
-| [A#](ModeASharpZogyllian.md) | A#, B, **C**, **C#**, D, D#, E, F, F#, A, A# | C | ![ASharpZogyllian](ModeASharpZogyllian.png) | [midi](ModeASharpZogyllian.mid) [ogg](ModeASharpZogyllian.ogg) |
-| [Bb](ModeBFlatZogyllian.md) | Bb, B, **C**, **Db**, D, Eb, E, F, Gb, A, Bb | C | ![BFlatZogyllian](ModeBFlatZogyllian.png) | [midi](ModeBFlatZogyllian.mid) [ogg](ModeBFlatZogyllian.ogg) |
-| [B](ModeBNaturalZogyllian.md) | B, C, **C#**, **D**, D#, E, F, F#, G, A#, B | C | ![BNaturalZogyllian](ModeBNaturalZogyllian.png) | [midi](ModeBNaturalZogyllian.mid) [ogg](ModeBNaturalZogyllian.ogg) |
+| [C](ModeCNaturalZogyllian.md) | C, C#, **D**, **D#**, E, F, F#, G, G#, B, C | C | ![CNaturalZogyllian](ModeCNaturalZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalZogyllian.mid?raw=true) |
+| [C#](ModeCSharpZogyllian.md) | C#, D, **D#**, **E**, F, F#, G, G#, A, C, C# | C | ![CSharpZogyllian](ModeCSharpZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpZogyllian.mid?raw=true) |
+| [Db](ModeDFlatZogyllian.md) | Db, D, **Eb**, **E**, F, Gb, G, Ab, A, C, Db | C | ![DFlatZogyllian](ModeDFlatZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatZogyllian.mid?raw=true) |
+| [D](ModeDNaturalZogyllian.md) | D, D#, **E**, **F**, F#, G, G#, A, A#, C#, D | C | ![DNaturalZogyllian](ModeDNaturalZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalZogyllian.mid?raw=true) |
+| [D#](ModeDSharpZogyllian.md) | D#, E, **F**, **F#**, G, G#, A, A#, B, D, D# | C | ![DSharpZogyllian](ModeDSharpZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpZogyllian.mid?raw=true) |
+| [Eb](ModeEFlatZogyllian.md) | Eb, E, **F**, **Gb**, G, Ab, A, Bb, B, D, Eb | C | ![EFlatZogyllian](ModeEFlatZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatZogyllian.mid?raw=true) |
+| [E](ModeENaturalZogyllian.md) | E, F, **F#**, **G**, G#, A, A#, B, C, D#, E | C | ![ENaturalZogyllian](ModeENaturalZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalZogyllian.mid?raw=true) |
+| [F](ModeFNaturalZogyllian.md) | F, F#, **G**, **G#**, A, A#, B, C, C#, E, F | C | ![FNaturalZogyllian](ModeFNaturalZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalZogyllian.mid?raw=true) |
+| [F#](ModeFSharpZogyllian.md) | F#, G, **G#**, **A**, A#, B, C, C#, D, F, F# | C | ![FSharpZogyllian](ModeFSharpZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpZogyllian.mid?raw=true) |
+| [Gb](ModeGFlatZogyllian.md) | Gb, G, **Ab**, **A**, Bb, B, C, Db, D, F, Gb | C | ![GFlatZogyllian](ModeGFlatZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatZogyllian.mid?raw=true) |
+| [G](ModeGNaturalZogyllian.md) | G, G#, **A**, **A#**, B, C, C#, D, D#, F#, G | C | ![GNaturalZogyllian](ModeGNaturalZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalZogyllian.mid?raw=true) |
+| [G#](ModeGSharpZogyllian.md) | G#, A, **A#**, **B**, C, C#, D, D#, E, G, G# | C | ![GSharpZogyllian](ModeGSharpZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpZogyllian.mid?raw=true) |
+| [Ab](ModeAFlatZogyllian.md) | Ab, A, **Bb**, **B**, C, Db, D, Eb, E, G, Ab | C | ![AFlatZogyllian](ModeAFlatZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatZogyllian.mid?raw=true) |
+| [A](ModeANaturalZogyllian.md) | A, A#, **B**, **C**, C#, D, D#, E, F, G#, A | C | ![ANaturalZogyllian](ModeANaturalZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalZogyllian.mid?raw=true) |
+| [A#](ModeASharpZogyllian.md) | A#, B, **C**, **C#**, D, D#, E, F, F#, A, A# | C | ![ASharpZogyllian](ModeASharpZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpZogyllian.mid?raw=true) |
+| [Bb](ModeBFlatZogyllian.md) | Bb, B, **C**, **Db**, D, Eb, E, F, Gb, A, Bb | C | ![BFlatZogyllian](ModeBFlatZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatZogyllian.mid?raw=true) |
+| [B](ModeBNaturalZogyllian.md) | B, C, **C#**, **D**, D#, E, F, F#, G, A#, B | C | ![BNaturalZogyllian](ModeBNaturalZogyllian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalZogyllian.mid?raw=true) |

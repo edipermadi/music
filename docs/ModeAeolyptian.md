@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalAeolyptian.md) | C, **Db**, **Eb**, F, Gb, **Abb**, B, C | C | ![CNaturalAeolyptian](ModeCNaturalAeolyptian.png) | [midi](ModeCNaturalAeolyptian.mid) [ogg](ModeCNaturalAeolyptian.ogg) |
-| [C#](ModeCSharpAeolyptian.md) | C#, **D**, **E**, F#, G, **Ab**, B#, C# | C | ![CSharpAeolyptian](ModeCSharpAeolyptian.png) | [midi](ModeCSharpAeolyptian.mid) [ogg](ModeCSharpAeolyptian.ogg) |
-| [Db](ModeDFlatAeolyptian.md) | Db, **Ebb**, **Fb**, Gb, Abb, **Bbbb**, C, Db | C | ![DFlatAeolyptian](ModeDFlatAeolyptian.png) | [midi](ModeDFlatAeolyptian.mid) [ogg](ModeDFlatAeolyptian.ogg) |
-| [D](ModeDNaturalAeolyptian.md) | D, **Eb**, **F**, G, Ab, **Bbb**, C#, D | C | ![DNaturalAeolyptian](ModeDNaturalAeolyptian.png) | [midi](ModeDNaturalAeolyptian.mid) [ogg](ModeDNaturalAeolyptian.ogg) |
-| [D#](ModeDSharpAeolyptian.md) | D#, **E**, **F#**, G#, A, **Bb**, C##, D# | C | ![DSharpAeolyptian](ModeDSharpAeolyptian.png) | [midi](ModeDSharpAeolyptian.mid) [ogg](ModeDSharpAeolyptian.ogg) |
-| [Eb](ModeEFlatAeolyptian.md) | Eb, **Fb**, **Gb**, Ab, Bbb, **Cbb**, D, Eb | C | ![EFlatAeolyptian](ModeEFlatAeolyptian.png) | [midi](ModeEFlatAeolyptian.mid) [ogg](ModeEFlatAeolyptian.ogg) |
-| [E](ModeENaturalAeolyptian.md) | E, **F**, **G**, A, Bb, **Cb**, D#, E | C | ![ENaturalAeolyptian](ModeENaturalAeolyptian.png) | [midi](ModeENaturalAeolyptian.mid) [ogg](ModeENaturalAeolyptian.ogg) |
-| [F](ModeFNaturalAeolyptian.md) | F, **Gb**, **Ab**, Bb, Cb, **Dbb**, E, F | C | ![FNaturalAeolyptian](ModeFNaturalAeolyptian.png) | [midi](ModeFNaturalAeolyptian.mid) [ogg](ModeFNaturalAeolyptian.ogg) |
-| [F#](ModeFSharpAeolyptian.md) | F#, **G**, **A**, B, C, **Db**, E#, F# | C | ![FSharpAeolyptian](ModeFSharpAeolyptian.png) | [midi](ModeFSharpAeolyptian.mid) [ogg](ModeFSharpAeolyptian.ogg) |
-| [Gb](ModeGFlatAeolyptian.md) | Gb, **Abb**, **Bbb**, Cb, Dbb, **Ebbb**, F, Gb | C | ![GFlatAeolyptian](ModeGFlatAeolyptian.png) | [midi](ModeGFlatAeolyptian.mid) [ogg](ModeGFlatAeolyptian.ogg) |
-| [G](ModeGNaturalAeolyptian.md) | G, **Ab**, **Bb**, C, Db, **Ebb**, F#, G | C | ![GNaturalAeolyptian](ModeGNaturalAeolyptian.png) | [midi](ModeGNaturalAeolyptian.mid) [ogg](ModeGNaturalAeolyptian.ogg) |
-| [G#](ModeGSharpAeolyptian.md) | G#, **A**, **B**, C#, D, **Eb**, F##, G# | C | ![GSharpAeolyptian](ModeGSharpAeolyptian.png) | [midi](ModeGSharpAeolyptian.mid) [ogg](ModeGSharpAeolyptian.ogg) |
-| [Ab](ModeAFlatAeolyptian.md) | Ab, **Bbb**, **Cb**, Db, Ebb, **Fbb**, G, Ab | C | ![AFlatAeolyptian](ModeAFlatAeolyptian.png) | [midi](ModeAFlatAeolyptian.mid) [ogg](ModeAFlatAeolyptian.ogg) |
-| [A](ModeANaturalAeolyptian.md) | A, **Bb**, **C**, D, Eb, **Fb**, G#, A | C | ![ANaturalAeolyptian](ModeANaturalAeolyptian.png) | [midi](ModeANaturalAeolyptian.mid) [ogg](ModeANaturalAeolyptian.ogg) |
-| [A#](ModeASharpAeolyptian.md) | A#, **B**, **C#**, D#, E, **F**, G##, A# | C | ![ASharpAeolyptian](ModeASharpAeolyptian.png) | [midi](ModeASharpAeolyptian.mid) [ogg](ModeASharpAeolyptian.ogg) |
-| [Bb](ModeBFlatAeolyptian.md) | Bb, **Cb**, **Db**, Eb, Fb, **Gbb**, A, Bb | C | ![BFlatAeolyptian](ModeBFlatAeolyptian.png) | [midi](ModeBFlatAeolyptian.mid) [ogg](ModeBFlatAeolyptian.ogg) |
-| [B](ModeBNaturalAeolyptian.md) | B, **C**, **D**, E, F, **Gb**, A#, B | C | ![BNaturalAeolyptian](ModeBNaturalAeolyptian.png) | [midi](ModeBNaturalAeolyptian.mid) [ogg](ModeBNaturalAeolyptian.ogg) |
+| [C](ModeCNaturalAeolyptian.md) | C, **Db**, **Eb**, F, Gb, **Abb**, B, C | C | ![CNaturalAeolyptian](ModeCNaturalAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAeolyptian.mid?raw=true) |
+| [C#](ModeCSharpAeolyptian.md) | C#, **D**, **E**, F#, G, **Ab**, B#, C# | C | ![CSharpAeolyptian](ModeCSharpAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpAeolyptian.mid?raw=true) |
+| [Db](ModeDFlatAeolyptian.md) | Db, **Ebb**, **Fb**, Gb, Abb, **Bbbb**, C, Db | C | ![DFlatAeolyptian](ModeDFlatAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatAeolyptian.mid?raw=true) |
+| [D](ModeDNaturalAeolyptian.md) | D, **Eb**, **F**, G, Ab, **Bbb**, C#, D | C | ![DNaturalAeolyptian](ModeDNaturalAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalAeolyptian.mid?raw=true) |
+| [D#](ModeDSharpAeolyptian.md) | D#, **E**, **F#**, G#, A, **Bb**, C##, D# | C | ![DSharpAeolyptian](ModeDSharpAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpAeolyptian.mid?raw=true) |
+| [Eb](ModeEFlatAeolyptian.md) | Eb, **Fb**, **Gb**, Ab, Bbb, **Cbb**, D, Eb | C | ![EFlatAeolyptian](ModeEFlatAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatAeolyptian.mid?raw=true) |
+| [E](ModeENaturalAeolyptian.md) | E, **F**, **G**, A, Bb, **Cb**, D#, E | C | ![ENaturalAeolyptian](ModeENaturalAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalAeolyptian.mid?raw=true) |
+| [F](ModeFNaturalAeolyptian.md) | F, **Gb**, **Ab**, Bb, Cb, **Dbb**, E, F | C | ![FNaturalAeolyptian](ModeFNaturalAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalAeolyptian.mid?raw=true) |
+| [F#](ModeFSharpAeolyptian.md) | F#, **G**, **A**, B, C, **Db**, E#, F# | C | ![FSharpAeolyptian](ModeFSharpAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpAeolyptian.mid?raw=true) |
+| [Gb](ModeGFlatAeolyptian.md) | Gb, **Abb**, **Bbb**, Cb, Dbb, **Ebbb**, F, Gb | C | ![GFlatAeolyptian](ModeGFlatAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatAeolyptian.mid?raw=true) |
+| [G](ModeGNaturalAeolyptian.md) | G, **Ab**, **Bb**, C, Db, **Ebb**, F#, G | C | ![GNaturalAeolyptian](ModeGNaturalAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalAeolyptian.mid?raw=true) |
+| [G#](ModeGSharpAeolyptian.md) | G#, **A**, **B**, C#, D, **Eb**, F##, G# | C | ![GSharpAeolyptian](ModeGSharpAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpAeolyptian.mid?raw=true) |
+| [Ab](ModeAFlatAeolyptian.md) | Ab, **Bbb**, **Cb**, Db, Ebb, **Fbb**, G, Ab | C | ![AFlatAeolyptian](ModeAFlatAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatAeolyptian.mid?raw=true) |
+| [A](ModeANaturalAeolyptian.md) | A, **Bb**, **C**, D, Eb, **Fb**, G#, A | C | ![ANaturalAeolyptian](ModeANaturalAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalAeolyptian.mid?raw=true) |
+| [A#](ModeASharpAeolyptian.md) | A#, **B**, **C#**, D#, E, **F**, G##, A# | C | ![ASharpAeolyptian](ModeASharpAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpAeolyptian.mid?raw=true) |
+| [Bb](ModeBFlatAeolyptian.md) | Bb, **Cb**, **Db**, Eb, Fb, **Gbb**, A, Bb | C | ![BFlatAeolyptian](ModeBFlatAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatAeolyptian.mid?raw=true) |
+| [B](ModeBNaturalAeolyptian.md) | B, **C**, **D**, E, F, **Gb**, A#, B | C | ![BNaturalAeolyptian](ModeBNaturalAeolyptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalAeolyptian.mid?raw=true) |

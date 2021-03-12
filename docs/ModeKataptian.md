@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalKataptian.md) | **C**, Db, **Eb**, Fb, Gbb, Ab, **B**, **C** | C | ![CNaturalKataptian](ModeCNaturalKataptian.png) | [midi](ModeCNaturalKataptian.mid) [ogg](ModeCNaturalKataptian.ogg) |
-| [C#](ModeCSharpKataptian.md) | **C#**, D, **E**, F, Gb, A, **B#**, **C#** | C | ![CSharpKataptian](ModeCSharpKataptian.png) | [midi](ModeCSharpKataptian.mid) [ogg](ModeCSharpKataptian.ogg) |
-| [Db](ModeDFlatKataptian.md) | **Db**, Ebb, **Fb**, Gbb, Abbb, Bbb, **C**, **Db** | C | ![DFlatKataptian](ModeDFlatKataptian.png) | [midi](ModeDFlatKataptian.mid) [ogg](ModeDFlatKataptian.ogg) |
-| [D](ModeDNaturalKataptian.md) | **D**, Eb, **F**, Gb, Abb, Bb, **C#**, **D** | C | ![DNaturalKataptian](ModeDNaturalKataptian.png) | [midi](ModeDNaturalKataptian.mid) [ogg](ModeDNaturalKataptian.ogg) |
-| [D#](ModeDSharpKataptian.md) | **D#**, E, **F#**, G, Ab, B, **C##**, **D#** | C | ![DSharpKataptian](ModeDSharpKataptian.png) | [midi](ModeDSharpKataptian.mid) [ogg](ModeDSharpKataptian.ogg) |
-| [Eb](ModeEFlatKataptian.md) | **Eb**, Fb, **Gb**, Abb, Bbbb, Cb, **D**, **Eb** | C | ![EFlatKataptian](ModeEFlatKataptian.png) | [midi](ModeEFlatKataptian.mid) [ogg](ModeEFlatKataptian.ogg) |
-| [E](ModeENaturalKataptian.md) | **E**, F, **G**, Ab, Bbb, C, **D#**, **E** | C | ![ENaturalKataptian](ModeENaturalKataptian.png) | [midi](ModeENaturalKataptian.mid) [ogg](ModeENaturalKataptian.ogg) |
-| [F](ModeFNaturalKataptian.md) | **F**, Gb, **Ab**, Bbb, Cbb, Db, **E**, **F** | C | ![FNaturalKataptian](ModeFNaturalKataptian.png) | [midi](ModeFNaturalKataptian.mid) [ogg](ModeFNaturalKataptian.ogg) |
-| [F#](ModeFSharpKataptian.md) | **F#**, G, **A**, Bb, Cb, D, **E#**, **F#** | C | ![FSharpKataptian](ModeFSharpKataptian.png) | [midi](ModeFSharpKataptian.mid) [ogg](ModeFSharpKataptian.ogg) |
-| [Gb](ModeGFlatKataptian.md) | **Gb**, Abb, **Bbb**, Cbb, Dbbb, Ebb, **F**, **Gb** | C | ![GFlatKataptian](ModeGFlatKataptian.png) | [midi](ModeGFlatKataptian.mid) [ogg](ModeGFlatKataptian.ogg) |
-| [G](ModeGNaturalKataptian.md) | **G**, Ab, **Bb**, Cb, Dbb, Eb, **F#**, **G** | C | ![GNaturalKataptian](ModeGNaturalKataptian.png) | [midi](ModeGNaturalKataptian.mid) [ogg](ModeGNaturalKataptian.ogg) |
-| [G#](ModeGSharpKataptian.md) | **G#**, A, **B**, C, Db, E, **F##**, **G#** | C | ![GSharpKataptian](ModeGSharpKataptian.png) | [midi](ModeGSharpKataptian.mid) [ogg](ModeGSharpKataptian.ogg) |
-| [Ab](ModeAFlatKataptian.md) | **Ab**, Bbb, **Cb**, Dbb, Ebbb, Fb, **G**, **Ab** | C | ![AFlatKataptian](ModeAFlatKataptian.png) | [midi](ModeAFlatKataptian.mid) [ogg](ModeAFlatKataptian.ogg) |
-| [A](ModeANaturalKataptian.md) | **A**, Bb, **C**, Db, Ebb, F, **G#**, **A** | C | ![ANaturalKataptian](ModeANaturalKataptian.png) | [midi](ModeANaturalKataptian.mid) [ogg](ModeANaturalKataptian.ogg) |
-| [A#](ModeASharpKataptian.md) | **A#**, B, **C#**, D, Eb, F#, **G##**, **A#** | C | ![ASharpKataptian](ModeASharpKataptian.png) | [midi](ModeASharpKataptian.mid) [ogg](ModeASharpKataptian.ogg) |
-| [Bb](ModeBFlatKataptian.md) | **Bb**, Cb, **Db**, Ebb, Fbb, Gb, **A**, **Bb** | C | ![BFlatKataptian](ModeBFlatKataptian.png) | [midi](ModeBFlatKataptian.mid) [ogg](ModeBFlatKataptian.ogg) |
-| [B](ModeBNaturalKataptian.md) | **B**, C, **D**, Eb, Fb, G, **A#**, **B** | C | ![BNaturalKataptian](ModeBNaturalKataptian.png) | [midi](ModeBNaturalKataptian.mid) [ogg](ModeBNaturalKataptian.ogg) |
+| [C](ModeCNaturalKataptian.md) | **C**, Db, **Eb**, Fb, Gbb, Ab, **B**, **C** | C | ![CNaturalKataptian](ModeCNaturalKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKataptian.mid?raw=true) |
+| [C#](ModeCSharpKataptian.md) | **C#**, D, **E**, F, Gb, A, **B#**, **C#** | C | ![CSharpKataptian](ModeCSharpKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpKataptian.mid?raw=true) |
+| [Db](ModeDFlatKataptian.md) | **Db**, Ebb, **Fb**, Gbb, Abbb, Bbb, **C**, **Db** | C | ![DFlatKataptian](ModeDFlatKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatKataptian.mid?raw=true) |
+| [D](ModeDNaturalKataptian.md) | **D**, Eb, **F**, Gb, Abb, Bb, **C#**, **D** | C | ![DNaturalKataptian](ModeDNaturalKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalKataptian.mid?raw=true) |
+| [D#](ModeDSharpKataptian.md) | **D#**, E, **F#**, G, Ab, B, **C##**, **D#** | C | ![DSharpKataptian](ModeDSharpKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpKataptian.mid?raw=true) |
+| [Eb](ModeEFlatKataptian.md) | **Eb**, Fb, **Gb**, Abb, Bbbb, Cb, **D**, **Eb** | C | ![EFlatKataptian](ModeEFlatKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatKataptian.mid?raw=true) |
+| [E](ModeENaturalKataptian.md) | **E**, F, **G**, Ab, Bbb, C, **D#**, **E** | C | ![ENaturalKataptian](ModeENaturalKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalKataptian.mid?raw=true) |
+| [F](ModeFNaturalKataptian.md) | **F**, Gb, **Ab**, Bbb, Cbb, Db, **E**, **F** | C | ![FNaturalKataptian](ModeFNaturalKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalKataptian.mid?raw=true) |
+| [F#](ModeFSharpKataptian.md) | **F#**, G, **A**, Bb, Cb, D, **E#**, **F#** | C | ![FSharpKataptian](ModeFSharpKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpKataptian.mid?raw=true) |
+| [Gb](ModeGFlatKataptian.md) | **Gb**, Abb, **Bbb**, Cbb, Dbbb, Ebb, **F**, **Gb** | C | ![GFlatKataptian](ModeGFlatKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatKataptian.mid?raw=true) |
+| [G](ModeGNaturalKataptian.md) | **G**, Ab, **Bb**, Cb, Dbb, Eb, **F#**, **G** | C | ![GNaturalKataptian](ModeGNaturalKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalKataptian.mid?raw=true) |
+| [G#](ModeGSharpKataptian.md) | **G#**, A, **B**, C, Db, E, **F##**, **G#** | C | ![GSharpKataptian](ModeGSharpKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpKataptian.mid?raw=true) |
+| [Ab](ModeAFlatKataptian.md) | **Ab**, Bbb, **Cb**, Dbb, Ebbb, Fb, **G**, **Ab** | C | ![AFlatKataptian](ModeAFlatKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatKataptian.mid?raw=true) |
+| [A](ModeANaturalKataptian.md) | **A**, Bb, **C**, Db, Ebb, F, **G#**, **A** | C | ![ANaturalKataptian](ModeANaturalKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalKataptian.mid?raw=true) |
+| [A#](ModeASharpKataptian.md) | **A#**, B, **C#**, D, Eb, F#, **G##**, **A#** | C | ![ASharpKataptian](ModeASharpKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpKataptian.mid?raw=true) |
+| [Bb](ModeBFlatKataptian.md) | **Bb**, Cb, **Db**, Ebb, Fbb, Gb, **A**, **Bb** | C | ![BFlatKataptian](ModeBFlatKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatKataptian.mid?raw=true) |
+| [B](ModeBNaturalKataptian.md) | **B**, C, **D**, Eb, Fb, G, **A#**, **B** | C | ![BNaturalKataptian](ModeBNaturalKataptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalKataptian.mid?raw=true) |

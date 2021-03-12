@@ -21,4 +21,4 @@
 
 | Number | Mode | Notes | Illustration | Audio |
 |--------|------|-------|--------------|-------|
-| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | **C**, **D**, **E**, **F#**, **G#**, **A#**, **C** | ![CNaturalWholeTone](ModeCNaturalWholeTone.png) | [midi](ModeCNaturalWholeTone.mid) [ogg](ModeCNaturalWholeTone.ogg) | 
+| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | **C**, **D**, **E**, **F#**, **G#**, **A#**, **C** | ![CNaturalWholeTone](ModeCNaturalWholeTone.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalWholeTone.mid?raw=true) | 

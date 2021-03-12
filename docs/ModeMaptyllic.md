@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalMaptyllic.md) | C, D#, E, **F#**, **G**, A, **A#**, B, C | C | ![CNaturalMaptyllic](ModeCNaturalMaptyllic.png) | [midi](ModeCNaturalMaptyllic.mid) [ogg](ModeCNaturalMaptyllic.ogg) |
-| [C#](ModeCSharpMaptyllic.md) | C#, E, F, **G**, **G#**, A#, **B**, C, C# | C | ![CSharpMaptyllic](ModeCSharpMaptyllic.png) | [midi](ModeCSharpMaptyllic.mid) [ogg](ModeCSharpMaptyllic.ogg) |
-| [Db](ModeDFlatMaptyllic.md) | Db, E, F, **G**, **Ab**, Bb, **B**, C, Db | C | ![DFlatMaptyllic](ModeDFlatMaptyllic.png) | [midi](ModeDFlatMaptyllic.mid) [ogg](ModeDFlatMaptyllic.ogg) |
-| [D](ModeDNaturalMaptyllic.md) | D, F, F#, **G#**, **A**, B, **C**, C#, D | C | ![DNaturalMaptyllic](ModeDNaturalMaptyllic.png) | [midi](ModeDNaturalMaptyllic.mid) [ogg](ModeDNaturalMaptyllic.ogg) |
-| [D#](ModeDSharpMaptyllic.md) | D#, F#, G, **A**, **A#**, C, **C#**, D, D# | C | ![DSharpMaptyllic](ModeDSharpMaptyllic.png) | [midi](ModeDSharpMaptyllic.mid) [ogg](ModeDSharpMaptyllic.ogg) |
-| [Eb](ModeEFlatMaptyllic.md) | Eb, Gb, G, **A**, **Bb**, C, **Db**, D, Eb | C | ![EFlatMaptyllic](ModeEFlatMaptyllic.png) | [midi](ModeEFlatMaptyllic.mid) [ogg](ModeEFlatMaptyllic.ogg) |
-| [E](ModeENaturalMaptyllic.md) | E, G, G#, **A#**, **B**, C#, **D**, D#, E | C | ![ENaturalMaptyllic](ModeENaturalMaptyllic.png) | [midi](ModeENaturalMaptyllic.mid) [ogg](ModeENaturalMaptyllic.ogg) |
-| [F](ModeFNaturalMaptyllic.md) | F, G#, A, **B**, **C**, D, **D#**, E, F | C | ![FNaturalMaptyllic](ModeFNaturalMaptyllic.png) | [midi](ModeFNaturalMaptyllic.mid) [ogg](ModeFNaturalMaptyllic.ogg) |
-| [F#](ModeFSharpMaptyllic.md) | F#, A, A#, **C**, **C#**, D#, **E**, F, F# | C | ![FSharpMaptyllic](ModeFSharpMaptyllic.png) | [midi](ModeFSharpMaptyllic.mid) [ogg](ModeFSharpMaptyllic.ogg) |
-| [Gb](ModeGFlatMaptyllic.md) | Gb, A, Bb, **C**, **Db**, Eb, **E**, F, Gb | C | ![GFlatMaptyllic](ModeGFlatMaptyllic.png) | [midi](ModeGFlatMaptyllic.mid) [ogg](ModeGFlatMaptyllic.ogg) |
-| [G](ModeGNaturalMaptyllic.md) | G, A#, B, **C#**, **D**, E, **F**, F#, G | C | ![GNaturalMaptyllic](ModeGNaturalMaptyllic.png) | [midi](ModeGNaturalMaptyllic.mid) [ogg](ModeGNaturalMaptyllic.ogg) |
-| [G#](ModeGSharpMaptyllic.md) | G#, B, C, **D**, **D#**, F, **F#**, G, G# | C | ![GSharpMaptyllic](ModeGSharpMaptyllic.png) | [midi](ModeGSharpMaptyllic.mid) [ogg](ModeGSharpMaptyllic.ogg) |
-| [Ab](ModeAFlatMaptyllic.md) | Ab, B, C, **D**, **Eb**, F, **Gb**, G, Ab | C | ![AFlatMaptyllic](ModeAFlatMaptyllic.png) | [midi](ModeAFlatMaptyllic.mid) [ogg](ModeAFlatMaptyllic.ogg) |
-| [A](ModeANaturalMaptyllic.md) | A, C, C#, **D#**, **E**, F#, **G**, G#, A | C | ![ANaturalMaptyllic](ModeANaturalMaptyllic.png) | [midi](ModeANaturalMaptyllic.mid) [ogg](ModeANaturalMaptyllic.ogg) |
-| [A#](ModeASharpMaptyllic.md) | A#, C#, D, **E**, **F**, G, **G#**, A, A# | C | ![ASharpMaptyllic](ModeASharpMaptyllic.png) | [midi](ModeASharpMaptyllic.mid) [ogg](ModeASharpMaptyllic.ogg) |
-| [Bb](ModeBFlatMaptyllic.md) | Bb, Db, D, **E**, **F**, G, **Ab**, A, Bb | C | ![BFlatMaptyllic](ModeBFlatMaptyllic.png) | [midi](ModeBFlatMaptyllic.mid) [ogg](ModeBFlatMaptyllic.ogg) |
-| [B](ModeBNaturalMaptyllic.md) | B, D, D#, **F**, **F#**, G#, **A**, A#, B | C | ![BNaturalMaptyllic](ModeBNaturalMaptyllic.png) | [midi](ModeBNaturalMaptyllic.mid) [ogg](ModeBNaturalMaptyllic.ogg) |
+| [C](ModeCNaturalMaptyllic.md) | C, D#, E, **F#**, **G**, A, **A#**, B, C | C | ![CNaturalMaptyllic](ModeCNaturalMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMaptyllic.mid?raw=true) |
+| [C#](ModeCSharpMaptyllic.md) | C#, E, F, **G**, **G#**, A#, **B**, C, C# | C | ![CSharpMaptyllic](ModeCSharpMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpMaptyllic.mid?raw=true) |
+| [Db](ModeDFlatMaptyllic.md) | Db, E, F, **G**, **Ab**, Bb, **B**, C, Db | C | ![DFlatMaptyllic](ModeDFlatMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatMaptyllic.mid?raw=true) |
+| [D](ModeDNaturalMaptyllic.md) | D, F, F#, **G#**, **A**, B, **C**, C#, D | C | ![DNaturalMaptyllic](ModeDNaturalMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalMaptyllic.mid?raw=true) |
+| [D#](ModeDSharpMaptyllic.md) | D#, F#, G, **A**, **A#**, C, **C#**, D, D# | C | ![DSharpMaptyllic](ModeDSharpMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpMaptyllic.mid?raw=true) |
+| [Eb](ModeEFlatMaptyllic.md) | Eb, Gb, G, **A**, **Bb**, C, **Db**, D, Eb | C | ![EFlatMaptyllic](ModeEFlatMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatMaptyllic.mid?raw=true) |
+| [E](ModeENaturalMaptyllic.md) | E, G, G#, **A#**, **B**, C#, **D**, D#, E | C | ![ENaturalMaptyllic](ModeENaturalMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalMaptyllic.mid?raw=true) |
+| [F](ModeFNaturalMaptyllic.md) | F, G#, A, **B**, **C**, D, **D#**, E, F | C | ![FNaturalMaptyllic](ModeFNaturalMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalMaptyllic.mid?raw=true) |
+| [F#](ModeFSharpMaptyllic.md) | F#, A, A#, **C**, **C#**, D#, **E**, F, F# | C | ![FSharpMaptyllic](ModeFSharpMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpMaptyllic.mid?raw=true) |
+| [Gb](ModeGFlatMaptyllic.md) | Gb, A, Bb, **C**, **Db**, Eb, **E**, F, Gb | C | ![GFlatMaptyllic](ModeGFlatMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatMaptyllic.mid?raw=true) |
+| [G](ModeGNaturalMaptyllic.md) | G, A#, B, **C#**, **D**, E, **F**, F#, G | C | ![GNaturalMaptyllic](ModeGNaturalMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalMaptyllic.mid?raw=true) |
+| [G#](ModeGSharpMaptyllic.md) | G#, B, C, **D**, **D#**, F, **F#**, G, G# | C | ![GSharpMaptyllic](ModeGSharpMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpMaptyllic.mid?raw=true) |
+| [Ab](ModeAFlatMaptyllic.md) | Ab, B, C, **D**, **Eb**, F, **Gb**, G, Ab | C | ![AFlatMaptyllic](ModeAFlatMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatMaptyllic.mid?raw=true) |
+| [A](ModeANaturalMaptyllic.md) | A, C, C#, **D#**, **E**, F#, **G**, G#, A | C | ![ANaturalMaptyllic](ModeANaturalMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalMaptyllic.mid?raw=true) |
+| [A#](ModeASharpMaptyllic.md) | A#, C#, D, **E**, **F**, G, **G#**, A, A# | C | ![ASharpMaptyllic](ModeASharpMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpMaptyllic.mid?raw=true) |
+| [Bb](ModeBFlatMaptyllic.md) | Bb, Db, D, **E**, **F**, G, **Ab**, A, Bb | C | ![BFlatMaptyllic](ModeBFlatMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatMaptyllic.mid?raw=true) |
+| [B](ModeBNaturalMaptyllic.md) | B, D, D#, **F**, **F#**, G#, **A**, A#, B | C | ![BNaturalMaptyllic](ModeBNaturalMaptyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalMaptyllic.mid?raw=true) |

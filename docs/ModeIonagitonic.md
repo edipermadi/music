@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalIonagitonic.md) | C, **D#**, E, **G**, **B**, C | C | ![CNaturalIonagitonic](ModeCNaturalIonagitonic.png) | [midi](ModeCNaturalIonagitonic.mid) [ogg](ModeCNaturalIonagitonic.ogg) |
-| [C#](ModeCSharpIonagitonic.md) | C#, **E**, F, **G#**, **C**, C# | C | ![CSharpIonagitonic](ModeCSharpIonagitonic.png) | [midi](ModeCSharpIonagitonic.mid) [ogg](ModeCSharpIonagitonic.ogg) |
-| [Db](ModeDFlatIonagitonic.md) | Db, **E**, F, **Ab**, **C**, Db | C | ![DFlatIonagitonic](ModeDFlatIonagitonic.png) | [midi](ModeDFlatIonagitonic.mid) [ogg](ModeDFlatIonagitonic.ogg) |
-| [D](ModeDNaturalIonagitonic.md) | D, **F**, F#, **A**, **C#**, D | C | ![DNaturalIonagitonic](ModeDNaturalIonagitonic.png) | [midi](ModeDNaturalIonagitonic.mid) [ogg](ModeDNaturalIonagitonic.ogg) |
-| [D#](ModeDSharpIonagitonic.md) | D#, **F#**, G, **A#**, **D**, D# | C | ![DSharpIonagitonic](ModeDSharpIonagitonic.png) | [midi](ModeDSharpIonagitonic.mid) [ogg](ModeDSharpIonagitonic.ogg) |
-| [Eb](ModeEFlatIonagitonic.md) | Eb, **Gb**, G, **Bb**, **D**, Eb | C | ![EFlatIonagitonic](ModeEFlatIonagitonic.png) | [midi](ModeEFlatIonagitonic.mid) [ogg](ModeEFlatIonagitonic.ogg) |
-| [E](ModeENaturalIonagitonic.md) | E, **G**, G#, **B**, **D#**, E | C | ![ENaturalIonagitonic](ModeENaturalIonagitonic.png) | [midi](ModeENaturalIonagitonic.mid) [ogg](ModeENaturalIonagitonic.ogg) |
-| [F](ModeFNaturalIonagitonic.md) | F, **G#**, A, **C**, **E**, F | C | ![FNaturalIonagitonic](ModeFNaturalIonagitonic.png) | [midi](ModeFNaturalIonagitonic.mid) [ogg](ModeFNaturalIonagitonic.ogg) |
-| [F#](ModeFSharpIonagitonic.md) | F#, **A**, A#, **C#**, **F**, F# | C | ![FSharpIonagitonic](ModeFSharpIonagitonic.png) | [midi](ModeFSharpIonagitonic.mid) [ogg](ModeFSharpIonagitonic.ogg) |
-| [Gb](ModeGFlatIonagitonic.md) | Gb, **A**, Bb, **Db**, **F**, Gb | C | ![GFlatIonagitonic](ModeGFlatIonagitonic.png) | [midi](ModeGFlatIonagitonic.mid) [ogg](ModeGFlatIonagitonic.ogg) |
-| [G](ModeGNaturalIonagitonic.md) | G, **A#**, B, **D**, **F#**, G | C | ![GNaturalIonagitonic](ModeGNaturalIonagitonic.png) | [midi](ModeGNaturalIonagitonic.mid) [ogg](ModeGNaturalIonagitonic.ogg) |
-| [G#](ModeGSharpIonagitonic.md) | G#, **B**, C, **D#**, **G**, G# | C | ![GSharpIonagitonic](ModeGSharpIonagitonic.png) | [midi](ModeGSharpIonagitonic.mid) [ogg](ModeGSharpIonagitonic.ogg) |
-| [Ab](ModeAFlatIonagitonic.md) | Ab, **B**, C, **Eb**, **G**, Ab | C | ![AFlatIonagitonic](ModeAFlatIonagitonic.png) | [midi](ModeAFlatIonagitonic.mid) [ogg](ModeAFlatIonagitonic.ogg) |
-| [A](ModeANaturalIonagitonic.md) | A, **C**, C#, **E**, **G#**, A | C | ![ANaturalIonagitonic](ModeANaturalIonagitonic.png) | [midi](ModeANaturalIonagitonic.mid) [ogg](ModeANaturalIonagitonic.ogg) |
-| [A#](ModeASharpIonagitonic.md) | A#, **C#**, D, **F**, **A**, A# | C | ![ASharpIonagitonic](ModeASharpIonagitonic.png) | [midi](ModeASharpIonagitonic.mid) [ogg](ModeASharpIonagitonic.ogg) |
-| [Bb](ModeBFlatIonagitonic.md) | Bb, **Db**, D, **F**, **A**, Bb | C | ![BFlatIonagitonic](ModeBFlatIonagitonic.png) | [midi](ModeBFlatIonagitonic.mid) [ogg](ModeBFlatIonagitonic.ogg) |
-| [B](ModeBNaturalIonagitonic.md) | B, **D**, D#, **F#**, **A#**, B | C | ![BNaturalIonagitonic](ModeBNaturalIonagitonic.png) | [midi](ModeBNaturalIonagitonic.mid) [ogg](ModeBNaturalIonagitonic.ogg) |
+| [C](ModeCNaturalIonagitonic.md) | C, **D#**, E, **G**, **B**, C | C | ![CNaturalIonagitonic](ModeCNaturalIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalIonagitonic.mid?raw=true) |
+| [C#](ModeCSharpIonagitonic.md) | C#, **E**, F, **G#**, **C**, C# | C | ![CSharpIonagitonic](ModeCSharpIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpIonagitonic.mid?raw=true) |
+| [Db](ModeDFlatIonagitonic.md) | Db, **E**, F, **Ab**, **C**, Db | C | ![DFlatIonagitonic](ModeDFlatIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatIonagitonic.mid?raw=true) |
+| [D](ModeDNaturalIonagitonic.md) | D, **F**, F#, **A**, **C#**, D | C | ![DNaturalIonagitonic](ModeDNaturalIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalIonagitonic.mid?raw=true) |
+| [D#](ModeDSharpIonagitonic.md) | D#, **F#**, G, **A#**, **D**, D# | C | ![DSharpIonagitonic](ModeDSharpIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpIonagitonic.mid?raw=true) |
+| [Eb](ModeEFlatIonagitonic.md) | Eb, **Gb**, G, **Bb**, **D**, Eb | C | ![EFlatIonagitonic](ModeEFlatIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatIonagitonic.mid?raw=true) |
+| [E](ModeENaturalIonagitonic.md) | E, **G**, G#, **B**, **D#**, E | C | ![ENaturalIonagitonic](ModeENaturalIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalIonagitonic.mid?raw=true) |
+| [F](ModeFNaturalIonagitonic.md) | F, **G#**, A, **C**, **E**, F | C | ![FNaturalIonagitonic](ModeFNaturalIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalIonagitonic.mid?raw=true) |
+| [F#](ModeFSharpIonagitonic.md) | F#, **A**, A#, **C#**, **F**, F# | C | ![FSharpIonagitonic](ModeFSharpIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpIonagitonic.mid?raw=true) |
+| [Gb](ModeGFlatIonagitonic.md) | Gb, **A**, Bb, **Db**, **F**, Gb | C | ![GFlatIonagitonic](ModeGFlatIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatIonagitonic.mid?raw=true) |
+| [G](ModeGNaturalIonagitonic.md) | G, **A#**, B, **D**, **F#**, G | C | ![GNaturalIonagitonic](ModeGNaturalIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalIonagitonic.mid?raw=true) |
+| [G#](ModeGSharpIonagitonic.md) | G#, **B**, C, **D#**, **G**, G# | C | ![GSharpIonagitonic](ModeGSharpIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpIonagitonic.mid?raw=true) |
+| [Ab](ModeAFlatIonagitonic.md) | Ab, **B**, C, **Eb**, **G**, Ab | C | ![AFlatIonagitonic](ModeAFlatIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatIonagitonic.mid?raw=true) |
+| [A](ModeANaturalIonagitonic.md) | A, **C**, C#, **E**, **G#**, A | C | ![ANaturalIonagitonic](ModeANaturalIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalIonagitonic.mid?raw=true) |
+| [A#](ModeASharpIonagitonic.md) | A#, **C#**, D, **F**, **A**, A# | C | ![ASharpIonagitonic](ModeASharpIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpIonagitonic.mid?raw=true) |
+| [Bb](ModeBFlatIonagitonic.md) | Bb, **Db**, D, **F**, **A**, Bb | C | ![BFlatIonagitonic](ModeBFlatIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatIonagitonic.mid?raw=true) |
+| [B](ModeBNaturalIonagitonic.md) | B, **D**, D#, **F#**, **A#**, B | C | ![BNaturalIonagitonic](ModeBNaturalIonagitonic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalIonagitonic.mid?raw=true) |

@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalKorimic.md) | **C**, **D**, **Eb**, **Fb**, Gbb, Ab, **C** | C | ![CNaturalKorimic](ModeCNaturalKorimic.png) | [midi](ModeCNaturalKorimic.mid) [ogg](ModeCNaturalKorimic.ogg) |
-| [C#](ModeCSharpKorimic.md) | **C#**, **D#**, **E**, **F**, Gb, A, **C#** | C | ![CSharpKorimic](ModeCSharpKorimic.png) | [midi](ModeCSharpKorimic.mid) [ogg](ModeCSharpKorimic.ogg) |
-| [Db](ModeDFlatKorimic.md) | **Db**, **Eb**, **Fb**, **Gbb**, Abbb, Bbb, **Db** | C | ![DFlatKorimic](ModeDFlatKorimic.png) | [midi](ModeDFlatKorimic.mid) [ogg](ModeDFlatKorimic.ogg) |
-| [D](ModeDNaturalKorimic.md) | **D**, **E**, **F**, **Gb**, Abb, Bb, **D** | C | ![DNaturalKorimic](ModeDNaturalKorimic.png) | [midi](ModeDNaturalKorimic.mid) [ogg](ModeDNaturalKorimic.ogg) |
-| [D#](ModeDSharpKorimic.md) | **D#**, **E#**, **F#**, **G**, Ab, B, **D#** | C | ![DSharpKorimic](ModeDSharpKorimic.png) | [midi](ModeDSharpKorimic.mid) [ogg](ModeDSharpKorimic.ogg) |
-| [Eb](ModeEFlatKorimic.md) | **Eb**, **F**, **Gb**, **Abb**, Bbbb, Cb, **Eb** | C | ![EFlatKorimic](ModeEFlatKorimic.png) | [midi](ModeEFlatKorimic.mid) [ogg](ModeEFlatKorimic.ogg) |
-| [E](ModeENaturalKorimic.md) | **E**, **F#**, **G**, **Ab**, Bbb, C, **E** | C | ![ENaturalKorimic](ModeENaturalKorimic.png) | [midi](ModeENaturalKorimic.mid) [ogg](ModeENaturalKorimic.ogg) |
-| [F](ModeFNaturalKorimic.md) | **F**, **G**, **Ab**, **Bbb**, Cbb, Db, **F** | C | ![FNaturalKorimic](ModeFNaturalKorimic.png) | [midi](ModeFNaturalKorimic.mid) [ogg](ModeFNaturalKorimic.ogg) |
-| [F#](ModeFSharpKorimic.md) | **F#**, **G#**, **A**, **Bb**, Cb, D, **F#** | C | ![FSharpKorimic](ModeFSharpKorimic.png) | [midi](ModeFSharpKorimic.mid) [ogg](ModeFSharpKorimic.ogg) |
-| [Gb](ModeGFlatKorimic.md) | **Gb**, **Ab**, **Bbb**, **Cbb**, Dbbb, Ebb, **Gb** | C | ![GFlatKorimic](ModeGFlatKorimic.png) | [midi](ModeGFlatKorimic.mid) [ogg](ModeGFlatKorimic.ogg) |
-| [G](ModeGNaturalKorimic.md) | **G**, **A**, **Bb**, **Cb**, Dbb, Eb, **G** | C | ![GNaturalKorimic](ModeGNaturalKorimic.png) | [midi](ModeGNaturalKorimic.mid) [ogg](ModeGNaturalKorimic.ogg) |
-| [G#](ModeGSharpKorimic.md) | **G#**, **A#**, **B**, **C**, Db, E, **G#** | C | ![GSharpKorimic](ModeGSharpKorimic.png) | [midi](ModeGSharpKorimic.mid) [ogg](ModeGSharpKorimic.ogg) |
-| [Ab](ModeAFlatKorimic.md) | **Ab**, **Bb**, **Cb**, **Dbb**, Ebbb, Fb, **Ab** | C | ![AFlatKorimic](ModeAFlatKorimic.png) | [midi](ModeAFlatKorimic.mid) [ogg](ModeAFlatKorimic.ogg) |
-| [A](ModeANaturalKorimic.md) | **A**, **B**, **C**, **Db**, Ebb, F, **A** | C | ![ANaturalKorimic](ModeANaturalKorimic.png) | [midi](ModeANaturalKorimic.mid) [ogg](ModeANaturalKorimic.ogg) |
-| [A#](ModeASharpKorimic.md) | **A#**, **B#**, **C#**, **D**, Eb, F#, **A#** | C | ![ASharpKorimic](ModeASharpKorimic.png) | [midi](ModeASharpKorimic.mid) [ogg](ModeASharpKorimic.ogg) |
-| [Bb](ModeBFlatKorimic.md) | **Bb**, **C**, **Db**, **Ebb**, Fbb, Gb, **Bb** | C | ![BFlatKorimic](ModeBFlatKorimic.png) | [midi](ModeBFlatKorimic.mid) [ogg](ModeBFlatKorimic.ogg) |
-| [B](ModeBNaturalKorimic.md) | **B**, **C#**, **D**, **Eb**, Fb, G, **B** | C | ![BNaturalKorimic](ModeBNaturalKorimic.png) | [midi](ModeBNaturalKorimic.mid) [ogg](ModeBNaturalKorimic.ogg) |
+| [C](ModeCNaturalKorimic.md) | **C**, **D**, **Eb**, **Fb**, Gbb, Ab, **C** | C | ![CNaturalKorimic](ModeCNaturalKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKorimic.mid?raw=true) |
+| [C#](ModeCSharpKorimic.md) | **C#**, **D#**, **E**, **F**, Gb, A, **C#** | C | ![CSharpKorimic](ModeCSharpKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpKorimic.mid?raw=true) |
+| [Db](ModeDFlatKorimic.md) | **Db**, **Eb**, **Fb**, **Gbb**, Abbb, Bbb, **Db** | C | ![DFlatKorimic](ModeDFlatKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatKorimic.mid?raw=true) |
+| [D](ModeDNaturalKorimic.md) | **D**, **E**, **F**, **Gb**, Abb, Bb, **D** | C | ![DNaturalKorimic](ModeDNaturalKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalKorimic.mid?raw=true) |
+| [D#](ModeDSharpKorimic.md) | **D#**, **E#**, **F#**, **G**, Ab, B, **D#** | C | ![DSharpKorimic](ModeDSharpKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpKorimic.mid?raw=true) |
+| [Eb](ModeEFlatKorimic.md) | **Eb**, **F**, **Gb**, **Abb**, Bbbb, Cb, **Eb** | C | ![EFlatKorimic](ModeEFlatKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatKorimic.mid?raw=true) |
+| [E](ModeENaturalKorimic.md) | **E**, **F#**, **G**, **Ab**, Bbb, C, **E** | C | ![ENaturalKorimic](ModeENaturalKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalKorimic.mid?raw=true) |
+| [F](ModeFNaturalKorimic.md) | **F**, **G**, **Ab**, **Bbb**, Cbb, Db, **F** | C | ![FNaturalKorimic](ModeFNaturalKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalKorimic.mid?raw=true) |
+| [F#](ModeFSharpKorimic.md) | **F#**, **G#**, **A**, **Bb**, Cb, D, **F#** | C | ![FSharpKorimic](ModeFSharpKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpKorimic.mid?raw=true) |
+| [Gb](ModeGFlatKorimic.md) | **Gb**, **Ab**, **Bbb**, **Cbb**, Dbbb, Ebb, **Gb** | C | ![GFlatKorimic](ModeGFlatKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatKorimic.mid?raw=true) |
+| [G](ModeGNaturalKorimic.md) | **G**, **A**, **Bb**, **Cb**, Dbb, Eb, **G** | C | ![GNaturalKorimic](ModeGNaturalKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalKorimic.mid?raw=true) |
+| [G#](ModeGSharpKorimic.md) | **G#**, **A#**, **B**, **C**, Db, E, **G#** | C | ![GSharpKorimic](ModeGSharpKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpKorimic.mid?raw=true) |
+| [Ab](ModeAFlatKorimic.md) | **Ab**, **Bb**, **Cb**, **Dbb**, Ebbb, Fb, **Ab** | C | ![AFlatKorimic](ModeAFlatKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatKorimic.mid?raw=true) |
+| [A](ModeANaturalKorimic.md) | **A**, **B**, **C**, **Db**, Ebb, F, **A** | C | ![ANaturalKorimic](ModeANaturalKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalKorimic.mid?raw=true) |
+| [A#](ModeASharpKorimic.md) | **A#**, **B#**, **C#**, **D**, Eb, F#, **A#** | C | ![ASharpKorimic](ModeASharpKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpKorimic.mid?raw=true) |
+| [Bb](ModeBFlatKorimic.md) | **Bb**, **C**, **Db**, **Ebb**, Fbb, Gb, **Bb** | C | ![BFlatKorimic](ModeBFlatKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatKorimic.mid?raw=true) |
+| [B](ModeBNaturalKorimic.md) | **B**, **C#**, **D**, **Eb**, Fb, G, **B** | C | ![BNaturalKorimic](ModeBNaturalKorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalKorimic.mid?raw=true) |

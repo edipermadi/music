@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalSynimic.md) | **C**, Db, E, **F###**, **G###**, **A##**, **C** | C | ![CNaturalSynimic](ModeCNaturalSynimic.png) | [midi](ModeCNaturalSynimic.mid) [ogg](ModeCNaturalSynimic.ogg) |
-| [C#](ModeCSharpSynimic.md) | **C#**, D, E#, **Cbbb**, **Dbbb**, **Dbb**, **C#** | C | ![CSharpSynimic](ModeCSharpSynimic.png) | [midi](ModeCSharpSynimic.mid) [ogg](ModeCSharpSynimic.ogg) |
-| [Db](ModeDFlatSynimic.md) | **Db**, Ebb, F, **G##**, **A##**, **B#**, **Db** | C | ![DFlatSynimic](ModeDFlatSynimic.png) | [midi](ModeDFlatSynimic.mid) [ogg](ModeDFlatSynimic.ogg) |
-| [D](ModeDNaturalSynimic.md) | **D**, Eb, F#, **G###**, **A###**, **B##**, **D** | C | ![DNaturalSynimic](ModeDNaturalSynimic.png) | [midi](ModeDNaturalSynimic.mid) [ogg](ModeDNaturalSynimic.ogg) |
-| [D#](ModeDSharpSynimic.md) | **D#**, E, F##, **Cb**, **Db**, **Ebb**, **D#** | C | ![DSharpSynimic](ModeDSharpSynimic.png) | [midi](ModeDSharpSynimic.mid) [ogg](ModeDSharpSynimic.ogg) |
-| [Eb](ModeEFlatSynimic.md) | **Eb**, Fb, G, **A##**, **B##**, **C##**, **Eb** | C | ![EFlatSynimic](ModeEFlatSynimic.png) | [midi](ModeEFlatSynimic.mid) [ogg](ModeEFlatSynimic.ogg) |
-| [E](ModeENaturalSynimic.md) | **E**, F, G#, **A###**, **B###**, **C###**, **E** | C | ![ENaturalSynimic](ModeENaturalSynimic.png) | [midi](ModeENaturalSynimic.mid) [ogg](ModeENaturalSynimic.ogg) |
-| [F](ModeFNaturalSynimic.md) | **F**, Gb, A, **B##**, **C###**, **D##**, **F** | C | ![FNaturalSynimic](ModeFNaturalSynimic.png) | [midi](ModeFNaturalSynimic.mid) [ogg](ModeFNaturalSynimic.ogg) |
-| [F#](ModeFSharpSynimic.md) | **F#**, G, A#, **B###**, **D##**, **E#**, **F#** | C | ![FSharpSynimic](ModeFSharpSynimic.png) | [midi](ModeFSharpSynimic.mid) [ogg](ModeFSharpSynimic.ogg) |
-| [Gb](ModeGFlatSynimic.md) | **Gb**, Abb, Bb, **C##**, **D##**, **E#**, **Gb** | C | ![GFlatSynimic](ModeGFlatSynimic.png) | [midi](ModeGFlatSynimic.mid) [ogg](ModeGFlatSynimic.ogg) |
-| [G](ModeGNaturalSynimic.md) | **G**, Ab, B, **C###**, **D###**, **E##**, **G** | C | ![GNaturalSynimic](ModeGNaturalSynimic.png) | [midi](ModeGNaturalSynimic.mid) [ogg](ModeGNaturalSynimic.ogg) |
-| [G#](ModeGSharpSynimic.md) | **G#**, A, B#, **D##**, **E##**, **F##**, **G#** | C | ![GSharpSynimic](ModeGSharpSynimic.png) | [midi](ModeGSharpSynimic.mid) [ogg](ModeGSharpSynimic.ogg) |
-| [Ab](ModeAFlatSynimic.md) | **Ab**, Bbb, C, **D##**, **E##**, **F##**, **Ab** | C | ![AFlatSynimic](ModeAFlatSynimic.png) | [midi](ModeAFlatSynimic.mid) [ogg](ModeAFlatSynimic.ogg) |
-| [A](ModeANaturalSynimic.md) | **A**, Bb, C#, **D###**, **E###**, **F###**, **A** | C | ![ANaturalSynimic](ModeANaturalSynimic.png) | [midi](ModeANaturalSynimic.mid) [ogg](ModeANaturalSynimic.ogg) |
-| [A#](ModeASharpSynimic.md) | **A#**, B, C##, **E##**, **F###**, **G##**, **A#** | C | ![ASharpSynimic](ModeASharpSynimic.png) | [midi](ModeASharpSynimic.mid) [ogg](ModeASharpSynimic.ogg) |
-| [Bb](ModeBFlatSynimic.md) | **Bb**, Cb, D, **E##**, **F###**, **G##**, **Bb** | C | ![BFlatSynimic](ModeBFlatSynimic.png) | [midi](ModeBFlatSynimic.mid) [ogg](ModeBFlatSynimic.ogg) |
-| [B](ModeBNaturalSynimic.md) | **B**, C, D#, **E###**, **Cbbb**, **Cbb**, **B** | C | ![BNaturalSynimic](ModeBNaturalSynimic.png) | [midi](ModeBNaturalSynimic.mid) [ogg](ModeBNaturalSynimic.ogg) |
+| [C](ModeCNaturalSynimic.md) | **C**, Db, E, **F###**, **G###**, **A##**, **C** | C | ![CNaturalSynimic](ModeCNaturalSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalSynimic.mid?raw=true) |
+| [C#](ModeCSharpSynimic.md) | **C#**, D, E#, **Cbbb**, **Dbbb**, **Dbb**, **C#** | C | ![CSharpSynimic](ModeCSharpSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpSynimic.mid?raw=true) |
+| [Db](ModeDFlatSynimic.md) | **Db**, Ebb, F, **G##**, **A##**, **B#**, **Db** | C | ![DFlatSynimic](ModeDFlatSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatSynimic.mid?raw=true) |
+| [D](ModeDNaturalSynimic.md) | **D**, Eb, F#, **G###**, **A###**, **B##**, **D** | C | ![DNaturalSynimic](ModeDNaturalSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalSynimic.mid?raw=true) |
+| [D#](ModeDSharpSynimic.md) | **D#**, E, F##, **Cb**, **Db**, **Ebb**, **D#** | C | ![DSharpSynimic](ModeDSharpSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpSynimic.mid?raw=true) |
+| [Eb](ModeEFlatSynimic.md) | **Eb**, Fb, G, **A##**, **B##**, **C##**, **Eb** | C | ![EFlatSynimic](ModeEFlatSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatSynimic.mid?raw=true) |
+| [E](ModeENaturalSynimic.md) | **E**, F, G#, **A###**, **B###**, **C###**, **E** | C | ![ENaturalSynimic](ModeENaturalSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalSynimic.mid?raw=true) |
+| [F](ModeFNaturalSynimic.md) | **F**, Gb, A, **B##**, **C###**, **D##**, **F** | C | ![FNaturalSynimic](ModeFNaturalSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalSynimic.mid?raw=true) |
+| [F#](ModeFSharpSynimic.md) | **F#**, G, A#, **B###**, **D##**, **E#**, **F#** | C | ![FSharpSynimic](ModeFSharpSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpSynimic.mid?raw=true) |
+| [Gb](ModeGFlatSynimic.md) | **Gb**, Abb, Bb, **C##**, **D##**, **E#**, **Gb** | C | ![GFlatSynimic](ModeGFlatSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatSynimic.mid?raw=true) |
+| [G](ModeGNaturalSynimic.md) | **G**, Ab, B, **C###**, **D###**, **E##**, **G** | C | ![GNaturalSynimic](ModeGNaturalSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalSynimic.mid?raw=true) |
+| [G#](ModeGSharpSynimic.md) | **G#**, A, B#, **D##**, **E##**, **F##**, **G#** | C | ![GSharpSynimic](ModeGSharpSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpSynimic.mid?raw=true) |
+| [Ab](ModeAFlatSynimic.md) | **Ab**, Bbb, C, **D##**, **E##**, **F##**, **Ab** | C | ![AFlatSynimic](ModeAFlatSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatSynimic.mid?raw=true) |
+| [A](ModeANaturalSynimic.md) | **A**, Bb, C#, **D###**, **E###**, **F###**, **A** | C | ![ANaturalSynimic](ModeANaturalSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalSynimic.mid?raw=true) |
+| [A#](ModeASharpSynimic.md) | **A#**, B, C##, **E##**, **F###**, **G##**, **A#** | C | ![ASharpSynimic](ModeASharpSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpSynimic.mid?raw=true) |
+| [Bb](ModeBFlatSynimic.md) | **Bb**, Cb, D, **E##**, **F###**, **G##**, **Bb** | C | ![BFlatSynimic](ModeBFlatSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatSynimic.mid?raw=true) |
+| [B](ModeBNaturalSynimic.md) | **B**, C, D#, **E###**, **Cbbb**, **Cbb**, **B** | C | ![BNaturalSynimic](ModeBNaturalSynimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalSynimic.mid?raw=true) |

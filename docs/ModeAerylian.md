@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalAerylian.md) | C, Db, **Eb**, F, **G**, Ab, **B**, C | C | ![CNaturalAerylian](ModeCNaturalAerylian.png) | [midi](ModeCNaturalAerylian.mid) [ogg](ModeCNaturalAerylian.ogg) |
-| [C#](ModeCSharpAerylian.md) | C#, D, **E**, F#, **G#**, A, **B#**, C# | C | ![CSharpAerylian](ModeCSharpAerylian.png) | [midi](ModeCSharpAerylian.mid) [ogg](ModeCSharpAerylian.ogg) |
-| [Db](ModeDFlatAerylian.md) | Db, Ebb, **Fb**, Gb, **Ab**, Bbb, **C**, Db | C | ![DFlatAerylian](ModeDFlatAerylian.png) | [midi](ModeDFlatAerylian.mid) [ogg](ModeDFlatAerylian.ogg) |
-| [D](ModeDNaturalAerylian.md) | D, Eb, **F**, G, **A**, Bb, **C#**, D | C | ![DNaturalAerylian](ModeDNaturalAerylian.png) | [midi](ModeDNaturalAerylian.mid) [ogg](ModeDNaturalAerylian.ogg) |
-| [D#](ModeDSharpAerylian.md) | D#, E, **F#**, G#, **A#**, B, **C##**, D# | C | ![DSharpAerylian](ModeDSharpAerylian.png) | [midi](ModeDSharpAerylian.mid) [ogg](ModeDSharpAerylian.ogg) |
-| [Eb](ModeEFlatAerylian.md) | Eb, Fb, **Gb**, Ab, **Bb**, Cb, **D**, Eb | C | ![EFlatAerylian](ModeEFlatAerylian.png) | [midi](ModeEFlatAerylian.mid) [ogg](ModeEFlatAerylian.ogg) |
-| [E](ModeENaturalAerylian.md) | E, F, **G**, A, **B**, C, **D#**, E | C | ![ENaturalAerylian](ModeENaturalAerylian.png) | [midi](ModeENaturalAerylian.mid) [ogg](ModeENaturalAerylian.ogg) |
-| [F](ModeFNaturalAerylian.md) | F, Gb, **Ab**, Bb, **C**, Db, **E**, F | C | ![FNaturalAerylian](ModeFNaturalAerylian.png) | [midi](ModeFNaturalAerylian.mid) [ogg](ModeFNaturalAerylian.ogg) |
-| [F#](ModeFSharpAerylian.md) | F#, G, **A**, B, **C#**, D, **E#**, F# | C | ![FSharpAerylian](ModeFSharpAerylian.png) | [midi](ModeFSharpAerylian.mid) [ogg](ModeFSharpAerylian.ogg) |
-| [Gb](ModeGFlatAerylian.md) | Gb, Abb, **Bbb**, Cb, **Db**, Ebb, **F**, Gb | C | ![GFlatAerylian](ModeGFlatAerylian.png) | [midi](ModeGFlatAerylian.mid) [ogg](ModeGFlatAerylian.ogg) |
-| [G](ModeGNaturalAerylian.md) | G, Ab, **Bb**, C, **D**, Eb, **F#**, G | C | ![GNaturalAerylian](ModeGNaturalAerylian.png) | [midi](ModeGNaturalAerylian.mid) [ogg](ModeGNaturalAerylian.ogg) |
-| [G#](ModeGSharpAerylian.md) | G#, A, **B**, C#, **D#**, E, **F##**, G# | C | ![GSharpAerylian](ModeGSharpAerylian.png) | [midi](ModeGSharpAerylian.mid) [ogg](ModeGSharpAerylian.ogg) |
-| [Ab](ModeAFlatAerylian.md) | Ab, Bbb, **Cb**, Db, **Eb**, Fb, **G**, Ab | C | ![AFlatAerylian](ModeAFlatAerylian.png) | [midi](ModeAFlatAerylian.mid) [ogg](ModeAFlatAerylian.ogg) |
-| [A](ModeANaturalAerylian.md) | A, Bb, **C**, D, **E**, F, **G#**, A | C | ![ANaturalAerylian](ModeANaturalAerylian.png) | [midi](ModeANaturalAerylian.mid) [ogg](ModeANaturalAerylian.ogg) |
-| [A#](ModeASharpAerylian.md) | A#, B, **C#**, D#, **E#**, F#, **G##**, A# | C | ![ASharpAerylian](ModeASharpAerylian.png) | [midi](ModeASharpAerylian.mid) [ogg](ModeASharpAerylian.ogg) |
-| [Bb](ModeBFlatAerylian.md) | Bb, Cb, **Db**, Eb, **F**, Gb, **A**, Bb | C | ![BFlatAerylian](ModeBFlatAerylian.png) | [midi](ModeBFlatAerylian.mid) [ogg](ModeBFlatAerylian.ogg) |
-| [B](ModeBNaturalAerylian.md) | B, C, **D**, E, **F#**, G, **A#**, B | C | ![BNaturalAerylian](ModeBNaturalAerylian.png) | [midi](ModeBNaturalAerylian.mid) [ogg](ModeBNaturalAerylian.ogg) |
+| [C](ModeCNaturalAerylian.md) | C, Db, **Eb**, F, **G**, Ab, **B**, C | C | ![CNaturalAerylian](ModeCNaturalAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAerylian.mid?raw=true) |
+| [C#](ModeCSharpAerylian.md) | C#, D, **E**, F#, **G#**, A, **B#**, C# | C | ![CSharpAerylian](ModeCSharpAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpAerylian.mid?raw=true) |
+| [Db](ModeDFlatAerylian.md) | Db, Ebb, **Fb**, Gb, **Ab**, Bbb, **C**, Db | C | ![DFlatAerylian](ModeDFlatAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatAerylian.mid?raw=true) |
+| [D](ModeDNaturalAerylian.md) | D, Eb, **F**, G, **A**, Bb, **C#**, D | C | ![DNaturalAerylian](ModeDNaturalAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalAerylian.mid?raw=true) |
+| [D#](ModeDSharpAerylian.md) | D#, E, **F#**, G#, **A#**, B, **C##**, D# | C | ![DSharpAerylian](ModeDSharpAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpAerylian.mid?raw=true) |
+| [Eb](ModeEFlatAerylian.md) | Eb, Fb, **Gb**, Ab, **Bb**, Cb, **D**, Eb | C | ![EFlatAerylian](ModeEFlatAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatAerylian.mid?raw=true) |
+| [E](ModeENaturalAerylian.md) | E, F, **G**, A, **B**, C, **D#**, E | C | ![ENaturalAerylian](ModeENaturalAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalAerylian.mid?raw=true) |
+| [F](ModeFNaturalAerylian.md) | F, Gb, **Ab**, Bb, **C**, Db, **E**, F | C | ![FNaturalAerylian](ModeFNaturalAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalAerylian.mid?raw=true) |
+| [F#](ModeFSharpAerylian.md) | F#, G, **A**, B, **C#**, D, **E#**, F# | C | ![FSharpAerylian](ModeFSharpAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpAerylian.mid?raw=true) |
+| [Gb](ModeGFlatAerylian.md) | Gb, Abb, **Bbb**, Cb, **Db**, Ebb, **F**, Gb | C | ![GFlatAerylian](ModeGFlatAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatAerylian.mid?raw=true) |
+| [G](ModeGNaturalAerylian.md) | G, Ab, **Bb**, C, **D**, Eb, **F#**, G | C | ![GNaturalAerylian](ModeGNaturalAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalAerylian.mid?raw=true) |
+| [G#](ModeGSharpAerylian.md) | G#, A, **B**, C#, **D#**, E, **F##**, G# | C | ![GSharpAerylian](ModeGSharpAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpAerylian.mid?raw=true) |
+| [Ab](ModeAFlatAerylian.md) | Ab, Bbb, **Cb**, Db, **Eb**, Fb, **G**, Ab | C | ![AFlatAerylian](ModeAFlatAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatAerylian.mid?raw=true) |
+| [A](ModeANaturalAerylian.md) | A, Bb, **C**, D, **E**, F, **G#**, A | C | ![ANaturalAerylian](ModeANaturalAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalAerylian.mid?raw=true) |
+| [A#](ModeASharpAerylian.md) | A#, B, **C#**, D#, **E#**, F#, **G##**, A# | C | ![ASharpAerylian](ModeASharpAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpAerylian.mid?raw=true) |
+| [Bb](ModeBFlatAerylian.md) | Bb, Cb, **Db**, Eb, **F**, Gb, **A**, Bb | C | ![BFlatAerylian](ModeBFlatAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatAerylian.mid?raw=true) |
+| [B](ModeBNaturalAerylian.md) | B, C, **D**, E, **F#**, G, **A#**, B | C | ![BNaturalAerylian](ModeBNaturalAerylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalAerylian.mid?raw=true) |

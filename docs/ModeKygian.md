@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalKygian.md) | **C**, D, E, F, G##, A#, **B**, **C** | C | ![CNaturalKygian](ModeCNaturalKygian.png) | [midi](ModeCNaturalKygian.mid) [ogg](ModeCNaturalKygian.ogg) |
-| [C#](ModeCSharpKygian.md) | **C#**, D#, E#, F#, G###, A##, **B#**, **C#** | C | ![CSharpKygian](ModeCSharpKygian.png) | [midi](ModeCSharpKygian.mid) [ogg](ModeCSharpKygian.ogg) |
-| [Db](ModeDFlatKygian.md) | **Db**, Eb, F, Gb, A#, B, **C**, **Db** | C | ![DFlatKygian](ModeDFlatKygian.png) | [midi](ModeDFlatKygian.mid) [ogg](ModeDFlatKygian.ogg) |
-| [D](ModeDNaturalKygian.md) | **D**, E, F#, G, A##, B#, **C#**, **D** | C | ![DNaturalKygian](ModeDNaturalKygian.png) | [midi](ModeDNaturalKygian.mid) [ogg](ModeDNaturalKygian.ogg) |
-| [D#](ModeDSharpKygian.md) | **D#**, E#, F##, G#, A###, B##, **C##**, **D#** | C | ![DSharpKygian](ModeDSharpKygian.png) | [midi](ModeDSharpKygian.mid) [ogg](ModeDSharpKygian.ogg) |
-| [Eb](ModeEFlatKygian.md) | **Eb**, F, G, Ab, B#, C#, **D**, **Eb** | C | ![EFlatKygian](ModeEFlatKygian.png) | [midi](ModeEFlatKygian.mid) [ogg](ModeEFlatKygian.ogg) |
-| [E](ModeENaturalKygian.md) | **E**, F#, G#, A, B##, C##, **D#**, **E** | C | ![ENaturalKygian](ModeENaturalKygian.png) | [midi](ModeENaturalKygian.mid) [ogg](ModeENaturalKygian.ogg) |
-| [F](ModeFNaturalKygian.md) | **F**, G, A, Bb, C##, D#, **E**, **F** | C | ![FNaturalKygian](ModeFNaturalKygian.png) | [midi](ModeFNaturalKygian.mid) [ogg](ModeFNaturalKygian.ogg) |
-| [F#](ModeFSharpKygian.md) | **F#**, G#, A#, B, C###, D##, **E#**, **F#** | C | ![FSharpKygian](ModeFSharpKygian.png) | [midi](ModeFSharpKygian.mid) [ogg](ModeFSharpKygian.ogg) |
-| [Gb](ModeGFlatKygian.md) | **Gb**, Ab, Bb, Cb, D#, E, **F**, **Gb** | C | ![GFlatKygian](ModeGFlatKygian.png) | [midi](ModeGFlatKygian.mid) [ogg](ModeGFlatKygian.ogg) |
-| [G](ModeGNaturalKygian.md) | **G**, A, B, C, D##, E#, **F#**, **G** | C | ![GNaturalKygian](ModeGNaturalKygian.png) | [midi](ModeGNaturalKygian.mid) [ogg](ModeGNaturalKygian.ogg) |
-| [G#](ModeGSharpKygian.md) | **G#**, A#, B#, C#, D###, E##, **F##**, **G#** | C | ![GSharpKygian](ModeGSharpKygian.png) | [midi](ModeGSharpKygian.mid) [ogg](ModeGSharpKygian.ogg) |
-| [Ab](ModeAFlatKygian.md) | **Ab**, Bb, C, Db, E#, F#, **G**, **Ab** | C | ![AFlatKygian](ModeAFlatKygian.png) | [midi](ModeAFlatKygian.mid) [ogg](ModeAFlatKygian.ogg) |
-| [A](ModeANaturalKygian.md) | **A**, B, C#, D, E##, F##, **G#**, **A** | C | ![ANaturalKygian](ModeANaturalKygian.png) | [midi](ModeANaturalKygian.mid) [ogg](ModeANaturalKygian.ogg) |
-| [A#](ModeASharpKygian.md) | **A#**, B#, C##, D#, E###, F###, **G##**, **A#** | C | ![ASharpKygian](ModeASharpKygian.png) | [midi](ModeASharpKygian.mid) [ogg](ModeASharpKygian.ogg) |
-| [Bb](ModeBFlatKygian.md) | **Bb**, C, D, Eb, F##, G#, **A**, **Bb** | C | ![BFlatKygian](ModeBFlatKygian.png) | [midi](ModeBFlatKygian.mid) [ogg](ModeBFlatKygian.ogg) |
-| [B](ModeBNaturalKygian.md) | **B**, C#, D#, E, F###, G##, **A#**, **B** | C | ![BNaturalKygian](ModeBNaturalKygian.png) | [midi](ModeBNaturalKygian.mid) [ogg](ModeBNaturalKygian.ogg) |
+| [C](ModeCNaturalKygian.md) | **C**, D, E, F, G##, A#, **B**, **C** | C | ![CNaturalKygian](ModeCNaturalKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKygian.mid?raw=true) |
+| [C#](ModeCSharpKygian.md) | **C#**, D#, E#, F#, G###, A##, **B#**, **C#** | C | ![CSharpKygian](ModeCSharpKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpKygian.mid?raw=true) |
+| [Db](ModeDFlatKygian.md) | **Db**, Eb, F, Gb, A#, B, **C**, **Db** | C | ![DFlatKygian](ModeDFlatKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatKygian.mid?raw=true) |
+| [D](ModeDNaturalKygian.md) | **D**, E, F#, G, A##, B#, **C#**, **D** | C | ![DNaturalKygian](ModeDNaturalKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalKygian.mid?raw=true) |
+| [D#](ModeDSharpKygian.md) | **D#**, E#, F##, G#, A###, B##, **C##**, **D#** | C | ![DSharpKygian](ModeDSharpKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpKygian.mid?raw=true) |
+| [Eb](ModeEFlatKygian.md) | **Eb**, F, G, Ab, B#, C#, **D**, **Eb** | C | ![EFlatKygian](ModeEFlatKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatKygian.mid?raw=true) |
+| [E](ModeENaturalKygian.md) | **E**, F#, G#, A, B##, C##, **D#**, **E** | C | ![ENaturalKygian](ModeENaturalKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalKygian.mid?raw=true) |
+| [F](ModeFNaturalKygian.md) | **F**, G, A, Bb, C##, D#, **E**, **F** | C | ![FNaturalKygian](ModeFNaturalKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalKygian.mid?raw=true) |
+| [F#](ModeFSharpKygian.md) | **F#**, G#, A#, B, C###, D##, **E#**, **F#** | C | ![FSharpKygian](ModeFSharpKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpKygian.mid?raw=true) |
+| [Gb](ModeGFlatKygian.md) | **Gb**, Ab, Bb, Cb, D#, E, **F**, **Gb** | C | ![GFlatKygian](ModeGFlatKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatKygian.mid?raw=true) |
+| [G](ModeGNaturalKygian.md) | **G**, A, B, C, D##, E#, **F#**, **G** | C | ![GNaturalKygian](ModeGNaturalKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalKygian.mid?raw=true) |
+| [G#](ModeGSharpKygian.md) | **G#**, A#, B#, C#, D###, E##, **F##**, **G#** | C | ![GSharpKygian](ModeGSharpKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpKygian.mid?raw=true) |
+| [Ab](ModeAFlatKygian.md) | **Ab**, Bb, C, Db, E#, F#, **G**, **Ab** | C | ![AFlatKygian](ModeAFlatKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatKygian.mid?raw=true) |
+| [A](ModeANaturalKygian.md) | **A**, B, C#, D, E##, F##, **G#**, **A** | C | ![ANaturalKygian](ModeANaturalKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalKygian.mid?raw=true) |
+| [A#](ModeASharpKygian.md) | **A#**, B#, C##, D#, E###, F###, **G##**, **A#** | C | ![ASharpKygian](ModeASharpKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpKygian.mid?raw=true) |
+| [Bb](ModeBFlatKygian.md) | **Bb**, C, D, Eb, F##, G#, **A**, **Bb** | C | ![BFlatKygian](ModeBFlatKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatKygian.mid?raw=true) |
+| [B](ModeBNaturalKygian.md) | **B**, C#, D#, E, F###, G##, **A#**, **B** | C | ![BNaturalKygian](ModeBNaturalKygian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalKygian.mid?raw=true) |

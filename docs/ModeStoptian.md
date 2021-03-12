@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalStoptian.md) | C, **D#**, **E**, F, **G**, Ab, Bbb, C | C | ![CNaturalStoptian](ModeCNaturalStoptian.png) | [midi](ModeCNaturalStoptian.mid) [ogg](ModeCNaturalStoptian.ogg) |
-| [C#](ModeCSharpStoptian.md) | C#, **D##**, **E#**, F#, **G#**, A, Bb, C# | C | ![CSharpStoptian](ModeCSharpStoptian.png) | [midi](ModeCSharpStoptian.mid) [ogg](ModeCSharpStoptian.ogg) |
-| [Db](ModeDFlatStoptian.md) | Db, **E**, **F**, Gb, **Ab**, Bbb, Cbb, Db | C | ![DFlatStoptian](ModeDFlatStoptian.png) | [midi](ModeDFlatStoptian.mid) [ogg](ModeDFlatStoptian.ogg) |
-| [D](ModeDNaturalStoptian.md) | D, **E#**, **F#**, G, **A**, Bb, Cb, D | C | ![DNaturalStoptian](ModeDNaturalStoptian.png) | [midi](ModeDNaturalStoptian.mid) [ogg](ModeDNaturalStoptian.ogg) |
-| [D#](ModeDSharpStoptian.md) | D#, **E##**, **F##**, G#, **A#**, B, C, D# | C | ![DSharpStoptian](ModeDSharpStoptian.png) | [midi](ModeDSharpStoptian.mid) [ogg](ModeDSharpStoptian.ogg) |
-| [Eb](ModeEFlatStoptian.md) | Eb, **F#**, **G**, Ab, **Bb**, Cb, Dbb, Eb | C | ![EFlatStoptian](ModeEFlatStoptian.png) | [midi](ModeEFlatStoptian.mid) [ogg](ModeEFlatStoptian.ogg) |
-| [E](ModeENaturalStoptian.md) | E, **F##**, **G#**, A, **B**, C, Db, E | C | ![ENaturalStoptian](ModeENaturalStoptian.png) | [midi](ModeENaturalStoptian.mid) [ogg](ModeENaturalStoptian.ogg) |
-| [F](ModeFNaturalStoptian.md) | F, **G#**, **A**, Bb, **C**, Db, Ebb, F | C | ![FNaturalStoptian](ModeFNaturalStoptian.png) | [midi](ModeFNaturalStoptian.mid) [ogg](ModeFNaturalStoptian.ogg) |
-| [F#](ModeFSharpStoptian.md) | F#, **G##**, **A#**, B, **C#**, D, Eb, F# | C | ![FSharpStoptian](ModeFSharpStoptian.png) | [midi](ModeFSharpStoptian.mid) [ogg](ModeFSharpStoptian.ogg) |
-| [Gb](ModeGFlatStoptian.md) | Gb, **A**, **Bb**, Cb, **Db**, Ebb, Fbb, Gb | C | ![GFlatStoptian](ModeGFlatStoptian.png) | [midi](ModeGFlatStoptian.mid) [ogg](ModeGFlatStoptian.ogg) |
-| [G](ModeGNaturalStoptian.md) | G, **A#**, **B**, C, **D**, Eb, Fb, G | C | ![GNaturalStoptian](ModeGNaturalStoptian.png) | [midi](ModeGNaturalStoptian.mid) [ogg](ModeGNaturalStoptian.ogg) |
-| [G#](ModeGSharpStoptian.md) | G#, **A##**, **B#**, C#, **D#**, E, F, G# | C | ![GSharpStoptian](ModeGSharpStoptian.png) | [midi](ModeGSharpStoptian.mid) [ogg](ModeGSharpStoptian.ogg) |
-| [Ab](ModeAFlatStoptian.md) | Ab, **B**, **C**, Db, **Eb**, Fb, Gbb, Ab | C | ![AFlatStoptian](ModeAFlatStoptian.png) | [midi](ModeAFlatStoptian.mid) [ogg](ModeAFlatStoptian.ogg) |
-| [A](ModeANaturalStoptian.md) | A, **B#**, **C#**, D, **E**, F, Gb, A | C | ![ANaturalStoptian](ModeANaturalStoptian.png) | [midi](ModeANaturalStoptian.mid) [ogg](ModeANaturalStoptian.ogg) |
-| [A#](ModeASharpStoptian.md) | A#, **B##**, **C##**, D#, **E#**, F#, G, A# | C | ![ASharpStoptian](ModeASharpStoptian.png) | [midi](ModeASharpStoptian.mid) [ogg](ModeASharpStoptian.ogg) |
-| [Bb](ModeBFlatStoptian.md) | Bb, **C#**, **D**, Eb, **F**, Gb, Abb, Bb | C | ![BFlatStoptian](ModeBFlatStoptian.png) | [midi](ModeBFlatStoptian.mid) [ogg](ModeBFlatStoptian.ogg) |
-| [B](ModeBNaturalStoptian.md) | B, **C##**, **D#**, E, **F#**, G, Ab, B | C | ![BNaturalStoptian](ModeBNaturalStoptian.png) | [midi](ModeBNaturalStoptian.mid) [ogg](ModeBNaturalStoptian.ogg) |
+| [C](ModeCNaturalStoptian.md) | C, **D#**, **E**, F, **G**, Ab, Bbb, C | C | ![CNaturalStoptian](ModeCNaturalStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalStoptian.mid?raw=true) |
+| [C#](ModeCSharpStoptian.md) | C#, **D##**, **E#**, F#, **G#**, A, Bb, C# | C | ![CSharpStoptian](ModeCSharpStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpStoptian.mid?raw=true) |
+| [Db](ModeDFlatStoptian.md) | Db, **E**, **F**, Gb, **Ab**, Bbb, Cbb, Db | C | ![DFlatStoptian](ModeDFlatStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatStoptian.mid?raw=true) |
+| [D](ModeDNaturalStoptian.md) | D, **E#**, **F#**, G, **A**, Bb, Cb, D | C | ![DNaturalStoptian](ModeDNaturalStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalStoptian.mid?raw=true) |
+| [D#](ModeDSharpStoptian.md) | D#, **E##**, **F##**, G#, **A#**, B, C, D# | C | ![DSharpStoptian](ModeDSharpStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpStoptian.mid?raw=true) |
+| [Eb](ModeEFlatStoptian.md) | Eb, **F#**, **G**, Ab, **Bb**, Cb, Dbb, Eb | C | ![EFlatStoptian](ModeEFlatStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatStoptian.mid?raw=true) |
+| [E](ModeENaturalStoptian.md) | E, **F##**, **G#**, A, **B**, C, Db, E | C | ![ENaturalStoptian](ModeENaturalStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalStoptian.mid?raw=true) |
+| [F](ModeFNaturalStoptian.md) | F, **G#**, **A**, Bb, **C**, Db, Ebb, F | C | ![FNaturalStoptian](ModeFNaturalStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalStoptian.mid?raw=true) |
+| [F#](ModeFSharpStoptian.md) | F#, **G##**, **A#**, B, **C#**, D, Eb, F# | C | ![FSharpStoptian](ModeFSharpStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpStoptian.mid?raw=true) |
+| [Gb](ModeGFlatStoptian.md) | Gb, **A**, **Bb**, Cb, **Db**, Ebb, Fbb, Gb | C | ![GFlatStoptian](ModeGFlatStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatStoptian.mid?raw=true) |
+| [G](ModeGNaturalStoptian.md) | G, **A#**, **B**, C, **D**, Eb, Fb, G | C | ![GNaturalStoptian](ModeGNaturalStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalStoptian.mid?raw=true) |
+| [G#](ModeGSharpStoptian.md) | G#, **A##**, **B#**, C#, **D#**, E, F, G# | C | ![GSharpStoptian](ModeGSharpStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpStoptian.mid?raw=true) |
+| [Ab](ModeAFlatStoptian.md) | Ab, **B**, **C**, Db, **Eb**, Fb, Gbb, Ab | C | ![AFlatStoptian](ModeAFlatStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatStoptian.mid?raw=true) |
+| [A](ModeANaturalStoptian.md) | A, **B#**, **C#**, D, **E**, F, Gb, A | C | ![ANaturalStoptian](ModeANaturalStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalStoptian.mid?raw=true) |
+| [A#](ModeASharpStoptian.md) | A#, **B##**, **C##**, D#, **E#**, F#, G, A# | C | ![ASharpStoptian](ModeASharpStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpStoptian.mid?raw=true) |
+| [Bb](ModeBFlatStoptian.md) | Bb, **C#**, **D**, Eb, **F**, Gb, Abb, Bb | C | ![BFlatStoptian](ModeBFlatStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatStoptian.mid?raw=true) |
+| [B](ModeBNaturalStoptian.md) | B, **C##**, **D#**, E, **F#**, G, Ab, B | C | ![BNaturalStoptian](ModeBNaturalStoptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalStoptian.mid?raw=true) |

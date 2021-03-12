@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalStogian.md) | C, Db, Eb, **F##**, G#, **A**, **Bb**, C | C | ![CNaturalStogian](ModeCNaturalStogian.png) | [midi](ModeCNaturalStogian.mid) [ogg](ModeCNaturalStogian.ogg) |
-| [C#](ModeCSharpStogian.md) | C#, D, E, **F###**, G##, **A#**, **B**, C# | C | ![CSharpStogian](ModeCSharpStogian.png) | [midi](ModeCSharpStogian.mid) [ogg](ModeCSharpStogian.ogg) |
-| [Db](ModeDFlatStogian.md) | Db, Ebb, Fb, **G#**, A, **Bb**, **Cb**, Db | C | ![DFlatStogian](ModeDFlatStogian.png) | [midi](ModeDFlatStogian.mid) [ogg](ModeDFlatStogian.ogg) |
-| [D](ModeDNaturalStogian.md) | D, Eb, F, **G##**, A#, **B**, **C**, D | C | ![DNaturalStogian](ModeDNaturalStogian.png) | [midi](ModeDNaturalStogian.mid) [ogg](ModeDNaturalStogian.ogg) |
-| [D#](ModeDSharpStogian.md) | D#, E, F#, **G###**, A##, **B#**, **C#**, D# | C | ![DSharpStogian](ModeDSharpStogian.png) | [midi](ModeDSharpStogian.mid) [ogg](ModeDSharpStogian.ogg) |
-| [Eb](ModeEFlatStogian.md) | Eb, Fb, Gb, **A#**, B, **C**, **Db**, Eb | C | ![EFlatStogian](ModeEFlatStogian.png) | [midi](ModeEFlatStogian.mid) [ogg](ModeEFlatStogian.ogg) |
-| [E](ModeENaturalStogian.md) | E, F, G, **A##**, B#, **C#**, **D**, E | C | ![ENaturalStogian](ModeENaturalStogian.png) | [midi](ModeENaturalStogian.mid) [ogg](ModeENaturalStogian.ogg) |
-| [F](ModeFNaturalStogian.md) | F, Gb, Ab, **B#**, C#, **D**, **Eb**, F | C | ![FNaturalStogian](ModeFNaturalStogian.png) | [midi](ModeFNaturalStogian.mid) [ogg](ModeFNaturalStogian.ogg) |
-| [F#](ModeFSharpStogian.md) | F#, G, A, **B##**, C##, **D#**, **E**, F# | C | ![FSharpStogian](ModeFSharpStogian.png) | [midi](ModeFSharpStogian.mid) [ogg](ModeFSharpStogian.ogg) |
-| [Gb](ModeGFlatStogian.md) | Gb, Abb, Bbb, **C#**, D, **Eb**, **Fb**, Gb | C | ![GFlatStogian](ModeGFlatStogian.png) | [midi](ModeGFlatStogian.mid) [ogg](ModeGFlatStogian.ogg) |
-| [G](ModeGNaturalStogian.md) | G, Ab, Bb, **C##**, D#, **E**, **F**, G | C | ![GNaturalStogian](ModeGNaturalStogian.png) | [midi](ModeGNaturalStogian.mid) [ogg](ModeGNaturalStogian.ogg) |
-| [G#](ModeGSharpStogian.md) | G#, A, B, **C###**, D##, **E#**, **F#**, G# | C | ![GSharpStogian](ModeGSharpStogian.png) | [midi](ModeGSharpStogian.mid) [ogg](ModeGSharpStogian.ogg) |
-| [Ab](ModeAFlatStogian.md) | Ab, Bbb, Cb, **D#**, E, **F**, **Gb**, Ab | C | ![AFlatStogian](ModeAFlatStogian.png) | [midi](ModeAFlatStogian.mid) [ogg](ModeAFlatStogian.ogg) |
-| [A](ModeANaturalStogian.md) | A, Bb, C, **D##**, E#, **F#**, **G**, A | C | ![ANaturalStogian](ModeANaturalStogian.png) | [midi](ModeANaturalStogian.mid) [ogg](ModeANaturalStogian.ogg) |
-| [A#](ModeASharpStogian.md) | A#, B, C#, **D###**, E##, **F##**, **G#**, A# | C | ![ASharpStogian](ModeASharpStogian.png) | [midi](ModeASharpStogian.mid) [ogg](ModeASharpStogian.ogg) |
-| [Bb](ModeBFlatStogian.md) | Bb, Cb, Db, **E#**, F#, **G**, **Ab**, Bb | C | ![BFlatStogian](ModeBFlatStogian.png) | [midi](ModeBFlatStogian.mid) [ogg](ModeBFlatStogian.ogg) |
-| [B](ModeBNaturalStogian.md) | B, C, D, **E##**, F##, **G#**, **A**, B | C | ![BNaturalStogian](ModeBNaturalStogian.png) | [midi](ModeBNaturalStogian.mid) [ogg](ModeBNaturalStogian.ogg) |
+| [C](ModeCNaturalStogian.md) | C, Db, Eb, **F##**, G#, **A**, **Bb**, C | C | ![CNaturalStogian](ModeCNaturalStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalStogian.mid?raw=true) |
+| [C#](ModeCSharpStogian.md) | C#, D, E, **F###**, G##, **A#**, **B**, C# | C | ![CSharpStogian](ModeCSharpStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpStogian.mid?raw=true) |
+| [Db](ModeDFlatStogian.md) | Db, Ebb, Fb, **G#**, A, **Bb**, **Cb**, Db | C | ![DFlatStogian](ModeDFlatStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatStogian.mid?raw=true) |
+| [D](ModeDNaturalStogian.md) | D, Eb, F, **G##**, A#, **B**, **C**, D | C | ![DNaturalStogian](ModeDNaturalStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalStogian.mid?raw=true) |
+| [D#](ModeDSharpStogian.md) | D#, E, F#, **G###**, A##, **B#**, **C#**, D# | C | ![DSharpStogian](ModeDSharpStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpStogian.mid?raw=true) |
+| [Eb](ModeEFlatStogian.md) | Eb, Fb, Gb, **A#**, B, **C**, **Db**, Eb | C | ![EFlatStogian](ModeEFlatStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatStogian.mid?raw=true) |
+| [E](ModeENaturalStogian.md) | E, F, G, **A##**, B#, **C#**, **D**, E | C | ![ENaturalStogian](ModeENaturalStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalStogian.mid?raw=true) |
+| [F](ModeFNaturalStogian.md) | F, Gb, Ab, **B#**, C#, **D**, **Eb**, F | C | ![FNaturalStogian](ModeFNaturalStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalStogian.mid?raw=true) |
+| [F#](ModeFSharpStogian.md) | F#, G, A, **B##**, C##, **D#**, **E**, F# | C | ![FSharpStogian](ModeFSharpStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpStogian.mid?raw=true) |
+| [Gb](ModeGFlatStogian.md) | Gb, Abb, Bbb, **C#**, D, **Eb**, **Fb**, Gb | C | ![GFlatStogian](ModeGFlatStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatStogian.mid?raw=true) |
+| [G](ModeGNaturalStogian.md) | G, Ab, Bb, **C##**, D#, **E**, **F**, G | C | ![GNaturalStogian](ModeGNaturalStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalStogian.mid?raw=true) |
+| [G#](ModeGSharpStogian.md) | G#, A, B, **C###**, D##, **E#**, **F#**, G# | C | ![GSharpStogian](ModeGSharpStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpStogian.mid?raw=true) |
+| [Ab](ModeAFlatStogian.md) | Ab, Bbb, Cb, **D#**, E, **F**, **Gb**, Ab | C | ![AFlatStogian](ModeAFlatStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatStogian.mid?raw=true) |
+| [A](ModeANaturalStogian.md) | A, Bb, C, **D##**, E#, **F#**, **G**, A | C | ![ANaturalStogian](ModeANaturalStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalStogian.mid?raw=true) |
+| [A#](ModeASharpStogian.md) | A#, B, C#, **D###**, E##, **F##**, **G#**, A# | C | ![ASharpStogian](ModeASharpStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpStogian.mid?raw=true) |
+| [Bb](ModeBFlatStogian.md) | Bb, Cb, Db, **E#**, F#, **G**, **Ab**, Bb | C | ![BFlatStogian](ModeBFlatStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatStogian.mid?raw=true) |
+| [B](ModeBNaturalStogian.md) | B, C, D, **E##**, F##, **G#**, **A**, B | C | ![BNaturalStogian](ModeBNaturalStogian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalStogian.mid?raw=true) |

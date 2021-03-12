@@ -28,20 +28,20 @@
 
 | Tonic | Notes | Signature | Illustration | Audio |
 |-------|-------|-----------|--------------|-------|
-| [C](ModeCNaturalThogyllic.md) | C, C#, D, **E**, F, G, **G#**, A, C | C | ![CNaturalThogyllic](ModeCNaturalThogyllic.png) | [midi](ModeCNaturalThogyllic.mid) [ogg](ModeCNaturalThogyllic.ogg) |
-| [C#](ModeCSharpThogyllic.md) | C#, D, D#, **F**, F#, G#, **A**, A#, C# | C | ![CSharpThogyllic](ModeCSharpThogyllic.png) | [midi](ModeCSharpThogyllic.mid) [ogg](ModeCSharpThogyllic.ogg) |
-| [Db](ModeDFlatThogyllic.md) | Db, D, Eb, **F**, Gb, Ab, **A**, Bb, Db | C | ![DFlatThogyllic](ModeDFlatThogyllic.png) | [midi](ModeDFlatThogyllic.mid) [ogg](ModeDFlatThogyllic.ogg) |
-| [D](ModeDNaturalThogyllic.md) | D, D#, E, **F#**, G, A, **A#**, B, D | C | ![DNaturalThogyllic](ModeDNaturalThogyllic.png) | [midi](ModeDNaturalThogyllic.mid) [ogg](ModeDNaturalThogyllic.ogg) |
-| [D#](ModeDSharpThogyllic.md) | D#, E, F, **G**, G#, A#, **B**, C, D# | C | ![DSharpThogyllic](ModeDSharpThogyllic.png) | [midi](ModeDSharpThogyllic.mid) [ogg](ModeDSharpThogyllic.ogg) |
-| [Eb](ModeEFlatThogyllic.md) | Eb, E, F, **G**, Ab, Bb, **B**, C, Eb | C | ![EFlatThogyllic](ModeEFlatThogyllic.png) | [midi](ModeEFlatThogyllic.mid) [ogg](ModeEFlatThogyllic.ogg) |
-| [E](ModeENaturalThogyllic.md) | E, F, F#, **G#**, A, B, **C**, C#, E | C | ![ENaturalThogyllic](ModeENaturalThogyllic.png) | [midi](ModeENaturalThogyllic.mid) [ogg](ModeENaturalThogyllic.ogg) |
-| [F](ModeFNaturalThogyllic.md) | F, F#, G, **A**, A#, C, **C#**, D, F | C | ![FNaturalThogyllic](ModeFNaturalThogyllic.png) | [midi](ModeFNaturalThogyllic.mid) [ogg](ModeFNaturalThogyllic.ogg) |
-| [F#](ModeFSharpThogyllic.md) | F#, G, G#, **A#**, B, C#, **D**, D#, F# | C | ![FSharpThogyllic](ModeFSharpThogyllic.png) | [midi](ModeFSharpThogyllic.mid) [ogg](ModeFSharpThogyllic.ogg) |
-| [Gb](ModeGFlatThogyllic.md) | Gb, G, Ab, **Bb**, B, Db, **D**, Eb, Gb | C | ![GFlatThogyllic](ModeGFlatThogyllic.png) | [midi](ModeGFlatThogyllic.mid) [ogg](ModeGFlatThogyllic.ogg) |
-| [G](ModeGNaturalThogyllic.md) | G, G#, A, **B**, C, D, **D#**, E, G | C | ![GNaturalThogyllic](ModeGNaturalThogyllic.png) | [midi](ModeGNaturalThogyllic.mid) [ogg](ModeGNaturalThogyllic.ogg) |
-| [G#](ModeGSharpThogyllic.md) | G#, A, A#, **C**, C#, D#, **E**, F, G# | C | ![GSharpThogyllic](ModeGSharpThogyllic.png) | [midi](ModeGSharpThogyllic.mid) [ogg](ModeGSharpThogyllic.ogg) |
-| [Ab](ModeAFlatThogyllic.md) | Ab, A, Bb, **C**, Db, Eb, **E**, F, Ab | C | ![AFlatThogyllic](ModeAFlatThogyllic.png) | [midi](ModeAFlatThogyllic.mid) [ogg](ModeAFlatThogyllic.ogg) |
-| [A](ModeANaturalThogyllic.md) | A, A#, B, **C#**, D, E, **F**, F#, A | C | ![ANaturalThogyllic](ModeANaturalThogyllic.png) | [midi](ModeANaturalThogyllic.mid) [ogg](ModeANaturalThogyllic.ogg) |
-| [A#](ModeASharpThogyllic.md) | A#, B, C, **D**, D#, F, **F#**, G, A# | C | ![ASharpThogyllic](ModeASharpThogyllic.png) | [midi](ModeASharpThogyllic.mid) [ogg](ModeASharpThogyllic.ogg) |
-| [Bb](ModeBFlatThogyllic.md) | Bb, B, C, **D**, Eb, F, **Gb**, G, Bb | C | ![BFlatThogyllic](ModeBFlatThogyllic.png) | [midi](ModeBFlatThogyllic.mid) [ogg](ModeBFlatThogyllic.ogg) |
-| [B](ModeBNaturalThogyllic.md) | B, C, C#, **D#**, E, F#, **G**, G#, B | C | ![BNaturalThogyllic](ModeBNaturalThogyllic.png) | [midi](ModeBNaturalThogyllic.mid) [ogg](ModeBNaturalThogyllic.ogg) |
+| [C](ModeCNaturalThogyllic.md) | C, C#, D, **E**, F, G, **G#**, A, C | C | ![CNaturalThogyllic](ModeCNaturalThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThogyllic.mid?raw=true) |
+| [C#](ModeCSharpThogyllic.md) | C#, D, D#, **F**, F#, G#, **A**, A#, C# | C | ![CSharpThogyllic](ModeCSharpThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCSharpThogyllic.mid?raw=true) |
+| [Db](ModeDFlatThogyllic.md) | Db, D, Eb, **F**, Gb, Ab, **A**, Bb, Db | C | ![DFlatThogyllic](ModeDFlatThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDFlatThogyllic.mid?raw=true) |
+| [D](ModeDNaturalThogyllic.md) | D, D#, E, **F#**, G, A, **A#**, B, D | C | ![DNaturalThogyllic](ModeDNaturalThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDNaturalThogyllic.mid?raw=true) |
+| [D#](ModeDSharpThogyllic.md) | D#, E, F, **G**, G#, A#, **B**, C, D# | C | ![DSharpThogyllic](ModeDSharpThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeDSharpThogyllic.mid?raw=true) |
+| [Eb](ModeEFlatThogyllic.md) | Eb, E, F, **G**, Ab, Bb, **B**, C, Eb | C | ![EFlatThogyllic](ModeEFlatThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeEFlatThogyllic.mid?raw=true) |
+| [E](ModeENaturalThogyllic.md) | E, F, F#, **G#**, A, B, **C**, C#, E | C | ![ENaturalThogyllic](ModeENaturalThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeENaturalThogyllic.mid?raw=true) |
+| [F](ModeFNaturalThogyllic.md) | F, F#, G, **A**, A#, C, **C#**, D, F | C | ![FNaturalThogyllic](ModeFNaturalThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFNaturalThogyllic.mid?raw=true) |
+| [F#](ModeFSharpThogyllic.md) | F#, G, G#, **A#**, B, C#, **D**, D#, F# | C | ![FSharpThogyllic](ModeFSharpThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeFSharpThogyllic.mid?raw=true) |
+| [Gb](ModeGFlatThogyllic.md) | Gb, G, Ab, **Bb**, B, Db, **D**, Eb, Gb | C | ![GFlatThogyllic](ModeGFlatThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGFlatThogyllic.mid?raw=true) |
+| [G](ModeGNaturalThogyllic.md) | G, G#, A, **B**, C, D, **D#**, E, G | C | ![GNaturalThogyllic](ModeGNaturalThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGNaturalThogyllic.mid?raw=true) |
+| [G#](ModeGSharpThogyllic.md) | G#, A, A#, **C**, C#, D#, **E**, F, G# | C | ![GSharpThogyllic](ModeGSharpThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeGSharpThogyllic.mid?raw=true) |
+| [Ab](ModeAFlatThogyllic.md) | Ab, A, Bb, **C**, Db, Eb, **E**, F, Ab | C | ![AFlatThogyllic](ModeAFlatThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeAFlatThogyllic.mid?raw=true) |
+| [A](ModeANaturalThogyllic.md) | A, A#, B, **C#**, D, E, **F**, F#, A | C | ![ANaturalThogyllic](ModeANaturalThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeANaturalThogyllic.mid?raw=true) |
+| [A#](ModeASharpThogyllic.md) | A#, B, C, **D**, D#, F, **F#**, G, A# | C | ![ASharpThogyllic](ModeASharpThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeASharpThogyllic.mid?raw=true) |
+| [Bb](ModeBFlatThogyllic.md) | Bb, B, C, **D**, Eb, F, **Gb**, G, Bb | C | ![BFlatThogyllic](ModeBFlatThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBFlatThogyllic.mid?raw=true) |
+| [B](ModeBNaturalThogyllic.md) | B, C, C#, **D#**, E, F#, **G**, G#, B | C | ![BNaturalThogyllic](ModeBNaturalThogyllic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeBNaturalThogyllic.mid?raw=true) |
