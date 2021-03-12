@@ -47,6 +47,7 @@ func PitchesFromNotes(givenOctave int, notes ...note.Note) Pitches {
 
 	var previousOffset int
 	for idx, givenNote := range notes {
+		givenNote = givenNote.Normalize()
 		if idx > 0 && givenNote.AbsoluteOffset() <= previousOffset {
 			givenOctave++
 		}
