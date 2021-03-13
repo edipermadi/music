@@ -46,10 +46,9 @@ D#
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | D# | D#, E, G, B, D# | ![DSharpDalic](ModeDSharpDalic.png) |
-| [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | Eb | Eb, E, G, B, Eb | ![EFlatDalic](ModeEFlatDalic.png) |
-| [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | B | B, D#, E, G, B | ![BNaturalGonic](ModeBNaturalGonic.png) |
-| [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | G | G, B, D#, E, G | ![GNaturalAeoloric](ModeGNaturalAeoloric.png) |
 | [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | E | E, G, B, D#, E | ![ENaturalDygic](ModeENaturalDygic.png) |
+| [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | G | G, B, D#, E, G | ![GNaturalAeoloric](ModeGNaturalAeoloric.png) |
+| [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | B | B, D#, E, G, B | ![BNaturalGonic](ModeBNaturalGonic.png) |
 
 ## Chords
 

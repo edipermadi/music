@@ -46,14 +46,11 @@ G#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [301](https://ianring.com/musictheory/scales/301) | [Zythitonic](ModeZythitonic.md) | F | F, G, G#, A#, C#, F | ![FNaturalZythitonic](ModeFNaturalZythitonic.png) |
-| [721](https://ianring.com/musictheory/scales/721) | [Aeolacritonic](ModeAeolacritonic.md) | C# | C#, F, G, G#, A#, C# | ![CSharpAeolacritonic](ModeCSharpAeolacritonic.png) |
-| [721](https://ianring.com/musictheory/scales/721) | [Aeolacritonic](ModeAeolacritonic.md) | Db | Db, F, G, Ab, Bb, Db | ![DFlatAeolacritonic](ModeDFlatAeolacritonic.png) |
-| [1099](https://ianring.com/musictheory/scales/1099) | [Dyritonic](ModeDyritonic.md) | G | G, G#, A#, C#, F, G | ![GNaturalDyritonic](ModeGNaturalDyritonic.png) |
-| [1673](https://ianring.com/musictheory/scales/1673) | [Thocritonic](ModeThocritonic.md) | A# | A#, C#, F, G, G#, A# | ![ASharpThocritonic](ModeASharpThocritonic.png) |
-| [1673](https://ianring.com/musictheory/scales/1673) | [Thocritonic](ModeThocritonic.md) | Bb | Bb, Db, F, G, Ab, Bb | ![BFlatThocritonic](ModeBFlatThocritonic.png) |
 | [2597](https://ianring.com/musictheory/scales/2597) | [Koptitonic](ModeKoptitonic.md) | G# | G#, A#, C#, F, G, G# | ![GSharpKoptitonic](ModeGSharpKoptitonic.png) |
-| [2597](https://ianring.com/musictheory/scales/2597) | [Koptitonic](ModeKoptitonic.md) | Ab | Ab, Bb, Db, F, G, Ab | ![AFlatKoptitonic](ModeAFlatKoptitonic.png) |
+| [1673](https://ianring.com/musictheory/scales/1673) | [Thocritonic](ModeThocritonic.md) | A# | A#, C#, F, G, G#, A# | ![ASharpThocritonic](ModeASharpThocritonic.png) |
+| [721](https://ianring.com/musictheory/scales/721) | [Aeolacritonic](ModeAeolacritonic.md) | C# | C#, F, G, G#, A#, C# | ![CSharpAeolacritonic](ModeCSharpAeolacritonic.png) |
+| [301](https://ianring.com/musictheory/scales/301) | [Zythitonic](ModeZythitonic.md) | F | F, G, G#, A#, C#, F | ![FNaturalZythitonic](ModeFNaturalZythitonic.png) |
+| [1099](https://ianring.com/musictheory/scales/1099) | [Dyritonic](ModeDyritonic.md) | G | G, G#, A#, C#, F, G | ![GNaturalDyritonic](ModeGNaturalDyritonic.png) |
 
 ## Chords
 

@@ -48,15 +48,11 @@ Ab
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [475](https://ianring.com/musictheory/scales/475) | [Aeolygian](ModeAeolygian.md) | E | E, F, G, Ab, Bb, Cb, Dbb, E | ![ENaturalAeolygian](ModeENaturalAeolygian.png) |
-| [1595](https://ianring.com/musictheory/scales/1595) | [Dacrian](ModeDacrian.md) | G | G, Ab, Bb, Cb, Dbb, E, F, G | ![GNaturalDacrian](ModeGNaturalDacrian.png) |
-| [1735](https://ianring.com/musictheory/scales/1735) | [Dagian](ModeDagian.md) | A# | A#, B, C, D##, E#, F##, G#, A# | ![ASharpDagian](ModeASharpDagian.png) |
-| [1735](https://ianring.com/musictheory/scales/1735) | [Dagian](ModeDagian.md) | Bb | Bb, Cb, Dbb, E, F, G, Ab, Bb | ![BFlatDagian](ModeBFlatDagian.png) |
-| [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | F | F, G, Ab, Bb, Cb, Dbb, E, F | ![FNaturalAerogian](ModeFNaturalAerogian.png) |
-| [2845](https://ianring.com/musictheory/scales/2845) | [Baptian](ModeBaptian.md) | G# | G#, A#, B, C, D##, E#, F##, G# | ![GSharpBaptian](ModeGSharpBaptian.png) |
 | [2845](https://ianring.com/musictheory/scales/2845) | [Baptian](ModeBaptian.md) | Ab | Ab, Bb, Cb, Dbb, E, F, G, Ab | ![AFlatBaptian](ModeAFlatBaptian.png) |
-| [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | B | B, C, D##, E#, F##, G#, A#, B | ![BNaturalAeolydian](ModeBNaturalAeolydian.png) |
-| [3505](https://ianring.com/musictheory/scales/3505) | [Stygian](ModeStygian.md) | C | C, D##, E#, F##, G#, A#, B, C | ![CNaturalStygian](ModeCNaturalStygian.png) |
+| [1735](https://ianring.com/musictheory/scales/1735) | [Dagian](ModeDagian.md) | Bb | Bb, Cb, Dbb, E, F, G, Ab, Bb | ![BFlatDagian](ModeBFlatDagian.png) |
+| [475](https://ianring.com/musictheory/scales/475) | [Aeolygian](ModeAeolygian.md) | E | E, F, G, Ab, Bb, Cb, Dbb, E | ![ENaturalAeolygian](ModeENaturalAeolygian.png) |
+| [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | F | F, G, Ab, Bb, Cb, Dbb, E, F | ![FNaturalAerogian](ModeFNaturalAerogian.png) |
+| [1595](https://ianring.com/musictheory/scales/1595) | [Dacrian](ModeDacrian.md) | G | G, Ab, Bb, Cb, Dbb, E, F, G | ![GNaturalDacrian](ModeGNaturalDacrian.png) |
 
 ## Chords
 

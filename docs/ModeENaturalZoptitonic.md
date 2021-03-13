@@ -46,11 +46,11 @@ E
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [299](https://ianring.com/musictheory/scales/299) | [Phratonic](ModePhratonic.md) | B | B, C, D, E, G, B | ![BNaturalPhratonic](ModeBNaturalPhratonic.png) |
-| [689](https://ianring.com/musictheory/scales/689) | [Lothitonic](ModeLothitonic.md) | G | G, B, C, D, E, G | ![GNaturalLothitonic](ModeGNaturalLothitonic.png) |
 | [1417](https://ianring.com/musictheory/scales/1417) | [Zoptitonic](ModeZoptitonic.md) | E | E, G, B, C, D, E | ![ENaturalZoptitonic](ModeENaturalZoptitonic.png) |
-| [1573](https://ianring.com/musictheory/scales/1573) | [Saritonic](ModeSaritonic.md) | D | D, E, G, B, C, D | ![DNaturalSaritonic](ModeDNaturalSaritonic.png) |
+| [689](https://ianring.com/musictheory/scales/689) | [Lothitonic](ModeLothitonic.md) | G | G, B, C, D, E, G | ![GNaturalLothitonic](ModeGNaturalLothitonic.png) |
+| [299](https://ianring.com/musictheory/scales/299) | [Phratonic](ModePhratonic.md) | B | B, C, D, E, G, B | ![BNaturalPhratonic](ModeBNaturalPhratonic.png) |
 | [2197](https://ianring.com/musictheory/scales/2197) | [Aerathitonic](ModeAerathitonic.md) | C | C, D, E, G, B, C | ![CNaturalAerathitonic](ModeCNaturalAerathitonic.png) |
+| [1573](https://ianring.com/musictheory/scales/1573) | [Saritonic](ModeSaritonic.md) | D | D, E, G, B, C, D | ![DNaturalSaritonic](ModeDNaturalSaritonic.png) |
 
 ## Chords
 

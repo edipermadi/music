@@ -46,14 +46,11 @@ B
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [309](https://ianring.com/musictheory/scales/309) | [Palitonic](ModePalitonic.md) | F# | F#, G#, A#, B, D, F# | ![FSharpPalitonic](ModeFSharpPalitonic.png) |
-| [309](https://ianring.com/musictheory/scales/309) | [Palitonic](ModePalitonic.md) | Gb | Gb, Ab, Bb, B, D, Gb | ![GFlatPalitonic](ModeGFlatPalitonic.png) |
-| [849](https://ianring.com/musictheory/scales/849) | [Aerynitonic](ModeAerynitonic.md) | D | D, F#, G#, A#, B, D | ![DNaturalAerynitonic](ModeDNaturalAerynitonic.png) |
-| [1101](https://ianring.com/musictheory/scales/1101) | [Stothitonic](ModeStothitonic.md) | G# | G#, A#, B, D, F#, G# | ![GSharpStothitonic](ModeGSharpStothitonic.png) |
-| [1101](https://ianring.com/musictheory/scales/1101) | [Stothitonic](ModeStothitonic.md) | Ab | Ab, Bb, B, D, Gb, Ab | ![AFlatStothitonic](ModeAFlatStothitonic.png) |
-| [1299](https://ianring.com/musictheory/scales/1299) | [Aerophitonic](ModeAerophitonic.md) | A# | A#, B, D, F#, G#, A# | ![ASharpAerophitonic](ModeASharpAerophitonic.png) |
-| [1299](https://ianring.com/musictheory/scales/1299) | [Aerophitonic](ModeAerophitonic.md) | Bb | Bb, B, D, Gb, Ab, Bb | ![BFlatAerophitonic](ModeBFlatAerophitonic.png) |
 | [2697](https://ianring.com/musictheory/scales/2697) | [Katagitonic](ModeKatagitonic.md) | B | B, D, F#, G#, A#, B | ![BNaturalKatagitonic](ModeBNaturalKatagitonic.png) |
+| [849](https://ianring.com/musictheory/scales/849) | [Aerynitonic](ModeAerynitonic.md) | D | D, F#, G#, A#, B, D | ![DNaturalAerynitonic](ModeDNaturalAerynitonic.png) |
+| [309](https://ianring.com/musictheory/scales/309) | [Palitonic](ModePalitonic.md) | F# | F#, G#, A#, B, D, F# | ![FSharpPalitonic](ModeFSharpPalitonic.png) |
+| [1101](https://ianring.com/musictheory/scales/1101) | [Stothitonic](ModeStothitonic.md) | G# | G#, A#, B, D, F#, G# | ![GSharpStothitonic](ModeGSharpStothitonic.png) |
+| [1299](https://ianring.com/musictheory/scales/1299) | [Aerophitonic](ModeAerophitonic.md) | A# | A#, B, D, F#, G#, A# | ![ASharpAerophitonic](ModeASharpAerophitonic.png) |
 
 ## Chords
 

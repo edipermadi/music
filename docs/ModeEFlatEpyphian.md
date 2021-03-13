@@ -48,14 +48,11 @@ Eb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
+| [1875](https://ianring.com/musictheory/scales/1875) | [Epyphian](ModeEpyphian.md) | Eb | Eb, Fb, G, A, B, C, Db, Eb | ![EFlatEpyphian](ModeEFlatEpyphian.png) |
 | [885](https://ianring.com/musictheory/scales/885) | [Sathian](ModeSathian.md) | G | G, A, B, C, Db, Eb, Fb, G | ![GNaturalSathian](ModeGNaturalSathian.png) |
 | [1245](https://ianring.com/musictheory/scales/1245) | [Lathian](ModeLathian.md) | A | A, B, C, Db, Eb, Fb, G, A | ![ANaturalLathian](ModeANaturalLathian.png) |
 | [1335](https://ianring.com/musictheory/scales/1335) | [Aeralian](ModeAeralian.md) | B | B, C, Db, Eb, Fb, G, A, B | ![BNaturalAeralian](ModeBNaturalAeralian.png) |
-| [1875](https://ianring.com/musictheory/scales/1875) | [Epyphian](ModeEpyphian.md) | D# | D#, E, F##, G##, A##, B#, C#, D# | ![DSharpEpyphian](ModeDSharpEpyphian.png) |
-| [1875](https://ianring.com/musictheory/scales/1875) | [Epyphian](ModeEpyphian.md) | Eb | Eb, Fb, G, A, B, C, Db, Eb | ![EFlatEpyphian](ModeEFlatEpyphian.png) |
 | [2715](https://ianring.com/musictheory/scales/2715) | [Kynian](ModeKynian.md) | C | C, Db, Eb, Fb, G, A, B, C | ![CNaturalKynian](ModeCNaturalKynian.png) |
-| [2985](https://ianring.com/musictheory/scales/2985) | [Epacrian](ModeEpacrian.md) | E | E, F##, G##, A##, B#, C#, D#, E | ![ENaturalEpacrian](ModeENaturalEpacrian.png) |
-| [3405](https://ianring.com/musictheory/scales/3405) | [Stynian](ModeStynian.md) | C# | C#, D#, E, F##, G##, A##, B#, C# | ![CSharpStynian](ModeCSharpStynian.png) |
 | [3405](https://ianring.com/musictheory/scales/3405) | [Stynian](ModeStynian.md) | Db | Db, Eb, Fb, G, A, B, C, Db | ![DFlatStynian](ModeDFlatStynian.png) |
 
 ## Chords

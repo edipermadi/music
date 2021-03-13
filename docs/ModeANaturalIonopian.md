@@ -48,14 +48,9 @@ A
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | C | C, D, Eb, F, Gb, Abb, Bbb, C | ![CNaturalAeologian](ModeCNaturalAeologian.png) |
-| [1211](https://ianring.com/musictheory/scales/1211) | [Zadian](ModeZadian.md) | D | D, Eb, F, Gb, Abb, Bbb, C, D | ![DNaturalZadian](ModeDNaturalZadian.png) |
-| [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | F | F, Gb, Abb, Bbb, C, D, Eb, F | ![FNaturalPhralian](ModeFNaturalPhralian.png) |
 | [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | A | A, B#, C##, D#, E#, F#, G, A | ![ANaturalIonopian](ModeANaturalIonopian.png) |
 | [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | D# | D#, E#, F#, G, A, B#, C##, D# | ![DSharpSygian](ModeDSharpSygian.png) |
-| [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | Eb | Eb, F, Gb, Abb, Bbb, C, D, Eb | ![EFlatSygian](ModeEFlatSygian.png) |
 | [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | F# | F#, G, A, B#, C##, D#, E#, F# | ![FSharpPhrogian](ModeFSharpPhrogian.png) |
-| [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | Gb | Gb, Abb, Bbb, C, D, Eb, F, Gb | ![GFlatPhrogian](ModeGFlatPhrogian.png) |
 | [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | G | G, A, B#, C##, D#, E#, F#, G | ![GNaturalRathian](ModeGNaturalRathian.png) |
 
 ## Chords

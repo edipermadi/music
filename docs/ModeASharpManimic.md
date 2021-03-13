@@ -47,14 +47,8 @@ A#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [365](https://ianring.com/musictheory/scales/365) | [Marimic](ModeMarimic.md) | D | D, E, F, G, Ab, Bb, D | ![DNaturalMarimic](ModeDNaturalMarimic.png) |
-| [1115](https://ianring.com/musictheory/scales/1115) | [Locrimic](ModeLocrimic.md) | E | E, F, G, Ab, Bb, C##, E | ![ENaturalLocrimic](ModeENaturalLocrimic.png) |
-| [1675](https://ianring.com/musictheory/scales/1675) | [Epatimic](ModeEpatimic.md) | G | G, Ab, Bb, C##, D##, E#, G | ![GNaturalEpatimic](ModeGNaturalEpatimic.png) |
 | [1745](https://ianring.com/musictheory/scales/1745) | [Manimic](ModeManimic.md) | A# | A#, B###, D##, E#, F##, G#, A# | ![ASharpManimic](ModeASharpManimic.png) |
-| [1745](https://ianring.com/musictheory/scales/1745) | [Manimic](ModeManimic.md) | Bb | Bb, C##, D##, E#, F##, G#, Bb | ![BFlatManimic](ModeBFlatManimic.png) |
-| [2605](https://ianring.com/musictheory/scales/2605) | [Rylimic](ModeRylimic.md) | F | F, G, Ab, Bb, C##, D##, F | ![FNaturalRylimic](ModeFNaturalRylimic.png) |
 | [2885](https://ianring.com/musictheory/scales/2885) | [Byrimic](ModeByrimic.md) | G# | G#, A#, B###, D##, E#, F##, G# | ![GSharpByrimic](ModeGSharpByrimic.png) |
-| [2885](https://ianring.com/musictheory/scales/2885) | [Byrimic](ModeByrimic.md) | Ab | Ab, Bb, C##, D##, E#, F##, Ab | ![AFlatByrimic](ModeAFlatByrimic.png) |
 
 ## Chords
 

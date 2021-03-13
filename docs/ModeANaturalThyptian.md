@@ -48,16 +48,13 @@ A
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [859](https://ianring.com/musictheory/scales/859) | [Pathian](ModePathian.md) | F# | F#, G, A, Bb, C, D, Eb, F# | ![FSharpPathian](ModeFSharpPathian.png) |
-| [859](https://ianring.com/musictheory/scales/859) | [Pathian](ModePathian.md) | Gb | Gb, Abb, Bbb, Cbb, Dbb, Ebb, Fbb, Gb | ![GFlatPathian](ModeGFlatPathian.png) |
-| [1459](https://ianring.com/musictheory/scales/1459) | [Ionalian](ModeIonalian.md) | D | D, Eb, F#, G, A, Bb, C, D | ![DNaturalIonalian](ModeDNaturalIonalian.png) |
 | [1643](https://ianring.com/musictheory/scales/1643) | [Thyptian](ModeThyptian.md) | A | A, Bb, C, D, Eb, F#, G, A | ![ANaturalThyptian](ModeANaturalThyptian.png) |
-| [1741](https://ianring.com/musictheory/scales/1741) | [Katycrian](ModeKatycrian.md) | C | C, D, Eb, F#, G, A, Bb, C | ![CNaturalKatycrian](ModeCNaturalKatycrian.png) |
-| [2477](https://ianring.com/musictheory/scales/2477) | [Mydian](ModeMydian.md) | G | G, A, Bb, C, D, Eb, F#, G | ![GNaturalMydian](ModeGNaturalMydian.png) |
-| [2777](https://ianring.com/musictheory/scales/2777) | [Bycrian](ModeBycrian.md) | D# | D#, E##, F##, G##, A#, B#, C##, D# | ![DSharpBycrian](ModeDSharpBycrian.png) |
-| [2777](https://ianring.com/musictheory/scales/2777) | [Bycrian](ModeBycrian.md) | Eb | Eb, F#, G, A, Bb, C, D, Eb | ![EFlatBycrian](ModeEFlatBycrian.png) |
-| [2869](https://ianring.com/musictheory/scales/2869) | [Phrothian](ModePhrothian.md) | A# | A#, B#, C##, D#, E##, F##, G##, A# | ![ASharpPhrothian](ModeASharpPhrothian.png) |
 | [2869](https://ianring.com/musictheory/scales/2869) | [Phrothian](ModePhrothian.md) | Bb | Bb, C, D, Eb, F#, G, A, Bb | ![BFlatPhrothian](ModeBFlatPhrothian.png) |
+| [1741](https://ianring.com/musictheory/scales/1741) | [Katycrian](ModeKatycrian.md) | C | C, D, Eb, F#, G, A, Bb, C | ![CNaturalKatycrian](ModeCNaturalKatycrian.png) |
+| [1459](https://ianring.com/musictheory/scales/1459) | [Ionalian](ModeIonalian.md) | D | D, Eb, F#, G, A, Bb, C, D | ![DNaturalIonalian](ModeDNaturalIonalian.png) |
+| [2777](https://ianring.com/musictheory/scales/2777) | [Bycrian](ModeBycrian.md) | Eb | Eb, F#, G, A, Bb, C, D, Eb | ![EFlatBycrian](ModeEFlatBycrian.png) |
+| [859](https://ianring.com/musictheory/scales/859) | [Pathian](ModePathian.md) | F# | F#, G, A, Bb, C, D, Eb, F# | ![FSharpPathian](ModeFSharpPathian.png) |
+| [2477](https://ianring.com/musictheory/scales/2477) | [Mydian](ModeMydian.md) | G | G, A, Bb, C, D, Eb, F#, G | ![GNaturalMydian](ModeGNaturalMydian.png) |
 
 ## Chords
 

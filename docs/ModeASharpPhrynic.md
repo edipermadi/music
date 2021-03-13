@@ -45,12 +45,10 @@ A#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
+| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | A# | A#, C#, E, G, A# | ![ASharpPhrynic](ModeASharpPhrynic.png) |
 | [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | C# | C#, E, G, A#, C# | ![CSharpPhrynic](ModeCSharpPhrynic.png) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | Db | Db, E, G, Bb, Db | ![DFlatPhrynic](ModeDFlatPhrynic.png) |
 | [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | E | E, G, A#, C#, E | ![ENaturalPhrynic](ModeENaturalPhrynic.png) |
 | [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | G | G, A#, C#, E, G | ![GNaturalPhrynic](ModeGNaturalPhrynic.png) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | A# | A#, C#, E, G, A# | ![ASharpPhrynic](ModeASharpPhrynic.png) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | Bb | Bb, Db, E, G, Bb | ![BFlatPhrynic](ModeBFlatPhrynic.png) |
 
 ## Chords
 

@@ -52,7 +52,6 @@ F
 | [1309](https://ianring.com/musictheory/scales/1309) | [Pogimic](ModePogimic.md) | A | A, B, C, Db, E#, F##, A | ![ANaturalPogimic](ModeANaturalPogimic.png) |
 | [1351](https://ianring.com/musictheory/scales/1351) | [Aeraptimic](ModeAeraptimic.md) | B | B, C, Db, E#, F##, G##, B | ![BNaturalAeraptimic](ModeBNaturalAeraptimic.png) |
 | [2723](https://ianring.com/musictheory/scales/2723) | [Epylimic](ModeEpylimic.md) | C | C, Db, E#, F##, G##, A##, C | ![CNaturalEpylimic](ModeCNaturalEpylimic.png) |
-| [3409](https://ianring.com/musictheory/scales/3409) | [Katanimic](ModeKatanimic.md) | C# | C#, D###, E###, Cbbb, Dbbb, Dbb, C# | ![CSharpKatanimic](ModeCSharpKatanimic.png) |
 | [3409](https://ianring.com/musictheory/scales/3409) | [Katanimic](ModeKatanimic.md) | Db | Db, E#, F##, G##, A##, B#, Db | ![DFlatKatanimic](ModeDFlatKatanimic.png) |
 
 ## Chords

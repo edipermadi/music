@@ -47,14 +47,11 @@ C
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [467](https://ianring.com/musictheory/scales/467) | [Phrogimic](ModePhrogimic.md) | G# | G#, A, B#, C##, D#, E, G# | ![GSharpPhrogimic](ModeGSharpPhrogimic.png) |
-| [467](https://ianring.com/musictheory/scales/467) | [Phrogimic](ModePhrogimic.md) | Ab | Ab, Bbb, C, D, Eb, Fb, Ab | ![AFlatPhrogimic](ModeAFlatPhrogimic.png) |
 | [797](https://ianring.com/musictheory/scales/797) | [Katocrimic](ModeKatocrimic.md) | C | C, D, Eb, Fb, G#, A, C | ![CNaturalKatocrimic](ModeCNaturalKatocrimic.png) |
 | [1223](https://ianring.com/musictheory/scales/1223) | [Phryptimic](ModePhryptimic.md) | D | D, Eb, Fb, G#, A, B#, D | ![DNaturalPhryptimic](ModeDNaturalPhryptimic.png) |
-| [2281](https://ianring.com/musictheory/scales/2281) | [Rathimic](ModeRathimic.md) | A | A, B#, C##, D#, E, F###, A | ![ANaturalRathimic](ModeANaturalRathimic.png) |
-| [2659](https://ianring.com/musictheory/scales/2659) | [Katynimic](ModeKatynimic.md) | D# | D#, E, F###, G##, A###, B###, D# | ![DSharpKatynimic](ModeDSharpKatynimic.png) |
 | [2659](https://ianring.com/musictheory/scales/2659) | [Katynimic](ModeKatynimic.md) | Eb | Eb, Fb, G#, A, B#, C##, Eb | ![EFlatKatynimic](ModeEFlatKatynimic.png) |
-| [3377](https://ianring.com/musictheory/scales/3377) | [Phralimic](ModePhralimic.md) | E | E, F###, G##, A###, B###, C###, E | ![ENaturalPhralimic](ModeENaturalPhralimic.png) |
+| [467](https://ianring.com/musictheory/scales/467) | [Phrogimic](ModePhrogimic.md) | G# | G#, A, B#, C##, D#, E, G# | ![GSharpPhrogimic](ModeGSharpPhrogimic.png) |
+| [2281](https://ianring.com/musictheory/scales/2281) | [Rathimic](ModeRathimic.md) | A | A, B#, C##, D#, E, F###, A | ![ANaturalRathimic](ModeANaturalRathimic.png) |
 
 ## Chords
 

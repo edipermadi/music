@@ -47,7 +47,6 @@ C
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | C | C, E, G#, C | ![CNaturalMinoric](ModeCNaturalMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | E | E, G#, C, E | ![ENaturalMinoric](ModeENaturalMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | G# | G#, C, E, G# | ![GSharpMinoric](ModeGSharpMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Ab | Ab, C, E, Ab | ![AFlatMinoric](ModeAFlatMinoric.png) |
 
 ## Chords
 

@@ -48,12 +48,11 @@ E
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [411](https://ianring.com/musictheory/scales/411) | [Lygimic](ModeLygimic.md) | E | E, F, G, Ab, B, C, E | ![ENaturalLygimic](ModeENaturalLygimic.png) |
-| [867](https://ianring.com/musictheory/scales/867) | [Phrocrimic](ModePhrocrimic.md) | B | B, C, D##, E#, F##, G#, B | ![BNaturalPhrocrimic](ModeBNaturalPhrocrimic.png) |
-| [1587](https://ianring.com/musictheory/scales/1587) | [Lalimic](ModeLalimic.md) | G | G, Ab, B, C, D##, E#, G | ![GNaturalLalimic](ModeGNaturalLalimic.png) |
 | [2253](https://ianring.com/musictheory/scales/2253) | [Logimic](ModeLogimic.md) | F | F, G, Ab, B, C, D##, F | ![FNaturalLogimic](ModeFNaturalLogimic.png) |
-| [2481](https://ianring.com/musictheory/scales/2481) | [Laptimic](ModeLaptimic.md) | C | C, D##, E#, F##, G#, A##, C | ![CNaturalLaptimic](ModeCNaturalLaptimic.png) |
-| [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeSothimic.md) | G# | G#, A##, B#, D##, E#, F##, G# | ![GSharpSothimic](ModeGSharpSothimic.png) |
+| [1587](https://ianring.com/musictheory/scales/1587) | [Lalimic](ModeLalimic.md) | G | G, Ab, B, C, D##, E#, G | ![GNaturalLalimic](ModeGNaturalLalimic.png) |
 | [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeSothimic.md) | Ab | Ab, B, C, D##, E#, F##, Ab | ![AFlatSothimic](ModeAFlatSothimic.png) |
+| [867](https://ianring.com/musictheory/scales/867) | [Phrocrimic](ModePhrocrimic.md) | B | B, C, D##, E#, F##, G#, B | ![BNaturalPhrocrimic](ModeBNaturalPhrocrimic.png) |
+| [2481](https://ianring.com/musictheory/scales/2481) | [Laptimic](ModeLaptimic.md) | C | C, D##, E#, F##, G#, A##, C | ![CNaturalLaptimic](ModeCNaturalLaptimic.png) |
 
 ## Chords
 

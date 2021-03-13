@@ -48,15 +48,11 @@ C#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [719](https://ianring.com/musictheory/scales/719) | [Kanian](ModeKanian.md) | G | G, Ab, Bbb, Cbb, Db, Ebb, Fb, G | ![GNaturalKanian](ModeGNaturalKanian.png) |
 | [971](https://ianring.com/musictheory/scales/971) | [Ladian](ModeLadian.md) | C# | C#, D, E, F##, G#, A, Bb, C# | ![CSharpLadian](ModeCSharpLadian.png) |
-| [971](https://ianring.com/musictheory/scales/971) | [Ladian](ModeLadian.md) | Db | Db, Ebb, Fb, G, Ab, Bbb, Cbb, Db | ![DFlatLadian](ModeDFlatLadian.png) |
+| [2533](https://ianring.com/musictheory/scales/2533) | [Podian](ModePodian.md) | D | D, E, F##, G#, A, Bb, C#, D | ![DNaturalPodian](ModeDNaturalPodian.png) |
 | [1657](https://ianring.com/musictheory/scales/1657) | [Ionothian](ModeIonothian.md) | E | E, F##, G#, A, Bb, C#, D, E | ![ENaturalIonothian](ModeENaturalIonothian.png) |
 | [2407](https://ianring.com/musictheory/scales/2407) | [Zylian](ModeZylian.md) | G# | G#, A, Bb, C#, D, E, F##, G# | ![GSharpZylian](ModeGSharpZylian.png) |
-| [2407](https://ianring.com/musictheory/scales/2407) | [Zylian](ModeZylian.md) | Ab | Ab, Bbb, Cbb, Db, Ebb, Fb, G, Ab | ![AFlatZylian](ModeAFlatZylian.png) |
-| [2533](https://ianring.com/musictheory/scales/2533) | [Podian](ModePodian.md) | D | D, E, F##, G#, A, Bb, C#, D | ![DNaturalPodian](ModeDNaturalPodian.png) |
 | [3251](https://ianring.com/musictheory/scales/3251) | [Zodian](ModeZodian.md) | A | A, Bb, C#, D, E, F##, G#, A | ![ANaturalZodian](ModeANaturalZodian.png) |
-| [3673](https://ianring.com/musictheory/scales/3673) | [Ranian](ModeRanian.md) | A# | A#, B##, C##, D##, E###, F###, G##, A# | ![ASharpRanian](ModeASharpRanian.png) |
 | [3673](https://ianring.com/musictheory/scales/3673) | [Ranian](ModeRanian.md) | Bb | Bb, C#, D, E, F##, G#, A, Bb | ![BFlatRanian](ModeBFlatRanian.png) |
 
 ## Chords

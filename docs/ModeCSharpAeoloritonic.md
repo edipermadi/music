@@ -47,12 +47,10 @@ C#
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [355](https://ianring.com/musictheory/scales/355) | [Aeoloritonic](ModeAeoloritonic.md) | C# | C#, D, F#, G, A, C# | ![CSharpAeoloritonic](ModeCSharpAeoloritonic.png) |
-| [355](https://ianring.com/musictheory/scales/355) | [Aeoloritonic](ModeAeoloritonic.md) | Db | Db, D, Gb, G, A, Db | ![DFlatAeoloritonic](ModeDFlatAeoloritonic.png) |
-| [395](https://ianring.com/musictheory/scales/395) | [Dalitonic](ModeDalitonic.md) | F# | F#, G, A, C#, D, F# | ![FSharpDalitonic](ModeFSharpDalitonic.png) |
-| [395](https://ianring.com/musictheory/scales/395) | [Dalitonic](ModeDalitonic.md) | Gb | Gb, G, A, Db, D, Gb | ![GFlatDalitonic](ModeGFlatDalitonic.png) |
-| [1585](https://ianring.com/musictheory/scales/1585) | [Phraditonic](ModePhraditonic.md) | A | A, C#, D, F#, G, A | ![ANaturalPhraditonic](ModeANaturalPhraditonic.png) |
 | [2225](https://ianring.com/musictheory/scales/2225) | [Gonitonic](ModeGonitonic.md) | D | D, F#, G, A, C#, D | ![DNaturalGonitonic](ModeDNaturalGonitonic.png) |
+| [395](https://ianring.com/musictheory/scales/395) | [Dalitonic](ModeDalitonic.md) | F# | F#, G, A, C#, D, F# | ![FSharpDalitonic](ModeFSharpDalitonic.png) |
 | [2245](https://ianring.com/musictheory/scales/2245) | [Dygitonic](ModeDygitonic.md) | G | G, A, C#, D, F#, G | ![GNaturalDygitonic](ModeGNaturalDygitonic.png) |
+| [1585](https://ianring.com/musictheory/scales/1585) | [Phraditonic](ModePhraditonic.md) | A | A, C#, D, F#, G, A | ![ANaturalPhraditonic](ModeANaturalPhraditonic.png) |
 
 ## Chords
 

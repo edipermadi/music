@@ -49,12 +49,12 @@ B
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | B | B, C, D, E, F, G, A, B | ![BNaturalLocrian](ModeBNaturalLocrian.png) |
-| [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | E | E, F, G, A, B, C, D, E | ![ENaturalPhrygian](ModeENaturalPhrygian.png) |
-| [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | A | A, B, C, D, E, F, G, A | ![ANaturalAeolian](ModeANaturalAeolian.png) |
-| [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | D | D, E, F, G, A, B, C, D | ![DNaturalDorian](ModeDNaturalDorian.png) |
-| [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | G | G, A, B, C, D, E, F, G | ![GNaturalMixolydian](ModeGNaturalMixolydian.png) |
 | [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeIonian.md) | C | C, D, E, F, G, A, B, C | ![CNaturalIonian](ModeCNaturalIonian.png) |
+| [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | D | D, E, F, G, A, B, C, D | ![DNaturalDorian](ModeDNaturalDorian.png) |
+| [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | E | E, F, G, A, B, C, D, E | ![ENaturalPhrygian](ModeENaturalPhrygian.png) |
 | [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeLydian.md) | F | F, G, A, B, C, D, E, F | ![FNaturalLydian](ModeFNaturalLydian.png) |
+| [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | G | G, A, B, C, D, E, F, G | ![GNaturalMixolydian](ModeGNaturalMixolydian.png) |
+| [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | A | A, B, C, D, E, F, G, A | ![ANaturalAeolian](ModeANaturalAeolian.png) |
 
 ## Chords
 

@@ -48,11 +48,9 @@ B
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [459](https://ianring.com/musictheory/scales/459) | [Zaptimic](ModeZaptimic.md) | B | B, C, D, E#, F#, G, B | ![BNaturalZaptimic](ModeBNaturalZaptimic.png) |
-| [711](https://ianring.com/musictheory/scales/711) | [Epyrimic](ModeEpyrimic.md) | F | F, Gb, Abb, B, C, D, F | ![FNaturalEpyrimic](ModeFNaturalEpyrimic.png) |
-| [1593](https://ianring.com/musictheory/scales/1593) | [Zogimic](ModeZogimic.md) | D | D, E#, F#, G, A##, B#, D | ![DNaturalZogimic](ModeDNaturalZogimic.png) |
 | [2277](https://ianring.com/musictheory/scales/2277) | [Kagimic](ModeKagimic.md) | C | C, D, E#, F#, G, A##, C | ![CNaturalKagimic](ModeCNaturalKagimic.png) |
+| [1593](https://ianring.com/musictheory/scales/1593) | [Zogimic](ModeZogimic.md) | D | D, E#, F#, G, A##, B#, D | ![DNaturalZogimic](ModeDNaturalZogimic.png) |
 | [2403](https://ianring.com/musictheory/scales/2403) | [Lycrimic](ModeLycrimic.md) | F# | F#, G, A##, B#, C##, D###, F# | ![FSharpLycrimic](ModeFSharpLycrimic.png) |
-| [2403](https://ianring.com/musictheory/scales/2403) | [Lycrimic](ModeLycrimic.md) | Gb | Gb, Abb, B, C, D, E#, Gb | ![GFlatLycrimic](ModeGFlatLycrimic.png) |
 | [3249](https://ianring.com/musictheory/scales/3249) | [Epygimic](ModeEpygimic.md) | G | G, A##, B#, C##, D###, E##, G | ![GNaturalEpygimic](ModeGNaturalEpygimic.png) |
 
 ## Chords

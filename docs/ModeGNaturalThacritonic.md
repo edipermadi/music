@@ -46,12 +46,11 @@ G
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [409](https://ianring.com/musictheory/scales/409) | [Laritonic](ModeLaritonic.md) | E | E, G, G#, B, C, E | ![ENaturalLaritonic](ModeENaturalLaritonic.png) |
 | [563](https://ianring.com/musictheory/scales/563) | [Thacritonic](ModeThacritonic.md) | G | G, G#, B, C, E, G | ![GNaturalThacritonic](ModeGNaturalThacritonic.png) |
-| [803](https://ianring.com/musictheory/scales/803) | [Loritonic](ModeLoritonic.md) | B | B, C, E, G, G#, B | ![BNaturalLoritonic](ModeBNaturalLoritonic.png) |
 | [2329](https://ianring.com/musictheory/scales/2329) | [Styditonic](ModeStyditonic.md) | G# | G#, B, C, E, G, G# | ![GSharpStyditonic](ModeGSharpStyditonic.png) |
-| [2329](https://ianring.com/musictheory/scales/2329) | [Styditonic](ModeStyditonic.md) | Ab | Ab, B, C, E, G, Ab | ![AFlatStyditonic](ModeAFlatStyditonic.png) |
+| [803](https://ianring.com/musictheory/scales/803) | [Loritonic](ModeLoritonic.md) | B | B, C, E, G, G#, B | ![BNaturalLoritonic](ModeBNaturalLoritonic.png) |
 | [2449](https://ianring.com/musictheory/scales/2449) | [Zacritonic](ModeZacritonic.md) | C | C, E, G, G#, B, C | ![CNaturalZacritonic](ModeCNaturalZacritonic.png) |
+| [409](https://ianring.com/musictheory/scales/409) | [Laritonic](ModeLaritonic.md) | E | E, G, G#, B, C, E | ![ENaturalLaritonic](ModeENaturalLaritonic.png) |
 
 ## Chords
 

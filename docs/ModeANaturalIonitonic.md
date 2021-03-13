@@ -47,8 +47,8 @@ A
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [421](https://ianring.com/musictheory/scales/421) | [Ionitonic](ModeIonitonic.md) | A | A, B, D, E, F, A | ![ANaturalIonitonic](ModeANaturalIonitonic.png) |
-| [653](https://ianring.com/musictheory/scales/653) | [Stathitonic](ModeStathitonic.md) | D | D, E, F, A, B, D | ![DNaturalStathitonic](ModeDNaturalStathitonic.png) |
 | [1129](https://ianring.com/musictheory/scales/1129) | [Phrynitonic](ModePhrynitonic.md) | B | B, D, E, F, A, B | ![BNaturalPhrynitonic](ModeBNaturalPhrynitonic.png) |
+| [653](https://ianring.com/musictheory/scales/653) | [Stathitonic](ModeStathitonic.md) | D | D, E, F, A, B, D | ![DNaturalStathitonic](ModeDNaturalStathitonic.png) |
 | [1187](https://ianring.com/musictheory/scales/1187) | [Thalitonic](ModeThalitonic.md) | E | E, F, A, B, D, E | ![ENaturalThalitonic](ModeENaturalThalitonic.png) |
 | [2641](https://ianring.com/musictheory/scales/2641) | [Gathitonic](ModeGathitonic.md) | F | F, A, B, D, E, F | ![FNaturalGathitonic](ModeFNaturalGathitonic.png) |
 

@@ -45,11 +45,10 @@ Bb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | A | A, A#, D, F, A | ![ANaturalAerathic](ModeANaturalAerathic.png) |
+| [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | Bb | Bb, D, F, A, Bb | ![BFlatThaptic](ModeBFlatThaptic.png) |
 | [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | D | D, F, A, A#, D | ![DNaturalLothic](ModeDNaturalLothic.png) |
 | [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | F | F, A, A#, D, F | ![FNaturalPhratic](ModeFNaturalPhratic.png) |
-| [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | A# | A#, D, F, A, A# | ![ASharpThaptic](ModeASharpThaptic.png) |
-| [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | Bb | Bb, D, F, A, Bb | ![BFlatThaptic](ModeBFlatThaptic.png) |
+| [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | A | A, A#, D, F, A | ![ANaturalAerathic](ModeANaturalAerathic.png) |
 
 ## Chords
 

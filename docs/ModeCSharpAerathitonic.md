@@ -46,14 +46,11 @@ C#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [299](https://ianring.com/musictheory/scales/299) | [Phratonic](ModePhratonic.md) | C | C, C#, D#, F, G#, C | ![CNaturalPhratonic](ModeCNaturalPhratonic.png) |
-| [689](https://ianring.com/musictheory/scales/689) | [Lothitonic](ModeLothitonic.md) | G# | G#, C, C#, D#, F, G# | ![GSharpLothitonic](ModeGSharpLothitonic.png) |
-| [689](https://ianring.com/musictheory/scales/689) | [Lothitonic](ModeLothitonic.md) | Ab | Ab, C, Db, Eb, F, Ab | ![AFlatLothitonic](ModeAFlatLothitonic.png) |
-| [1417](https://ianring.com/musictheory/scales/1417) | [Zoptitonic](ModeZoptitonic.md) | F | F, G#, C, C#, D#, F | ![FNaturalZoptitonic](ModeFNaturalZoptitonic.png) |
-| [1573](https://ianring.com/musictheory/scales/1573) | [Saritonic](ModeSaritonic.md) | D# | D#, F, G#, C, C#, D# | ![DSharpSaritonic](ModeDSharpSaritonic.png) |
-| [1573](https://ianring.com/musictheory/scales/1573) | [Saritonic](ModeSaritonic.md) | Eb | Eb, F, Ab, C, Db, Eb | ![EFlatSaritonic](ModeEFlatSaritonic.png) |
 | [2197](https://ianring.com/musictheory/scales/2197) | [Aerathitonic](ModeAerathitonic.md) | C# | C#, D#, F, G#, C, C# | ![CSharpAerathitonic](ModeCSharpAerathitonic.png) |
-| [2197](https://ianring.com/musictheory/scales/2197) | [Aerathitonic](ModeAerathitonic.md) | Db | Db, Eb, F, Ab, C, Db | ![DFlatAerathitonic](ModeDFlatAerathitonic.png) |
+| [1573](https://ianring.com/musictheory/scales/1573) | [Saritonic](ModeSaritonic.md) | D# | D#, F, G#, C, C#, D# | ![DSharpSaritonic](ModeDSharpSaritonic.png) |
+| [1417](https://ianring.com/musictheory/scales/1417) | [Zoptitonic](ModeZoptitonic.md) | F | F, G#, C, C#, D#, F | ![FNaturalZoptitonic](ModeFNaturalZoptitonic.png) |
+| [689](https://ianring.com/musictheory/scales/689) | [Lothitonic](ModeLothitonic.md) | G# | G#, C, C#, D#, F, G# | ![GSharpLothitonic](ModeGSharpLothitonic.png) |
+| [299](https://ianring.com/musictheory/scales/299) | [Phratonic](ModePhratonic.md) | C | C, C#, D#, F, G#, C | ![CNaturalPhratonic](ModeCNaturalPhratonic.png) |
 
 ## Chords
 

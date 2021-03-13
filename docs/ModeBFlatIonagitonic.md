@@ -46,13 +46,11 @@ Bb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [307](https://ianring.com/musictheory/scales/307) | [Phrolitonic](ModePhrolitonic.md) | A | A, A#, C#, D, F, A | ![ANaturalPhrolitonic](ModeANaturalPhrolitonic.png) |
-| [787](https://ianring.com/musictheory/scales/787) | [Aeolapritonic](ModeAeolapritonic.md) | C# | C#, D, F, A, A#, C# | ![CSharpAeolapritonic](ModeCSharpAeolapritonic.png) |
-| [787](https://ianring.com/musictheory/scales/787) | [Aeolapritonic](ModeAeolapritonic.md) | Db | Db, D, F, A, Bb, Db | ![DFlatAeolapritonic](ModeDFlatAeolapritonic.png) |
-| [817](https://ianring.com/musictheory/scales/817) | [Zothitonic](ModeZothitonic.md) | F | F, A, A#, C#, D, F | ![FNaturalZothitonic](ModeFNaturalZothitonic.png) |
-| [2201](https://ianring.com/musictheory/scales/2201) | [Ionagitonic](ModeIonagitonic.md) | A# | A#, C#, D, F, A, A# | ![ASharpIonagitonic](ModeASharpIonagitonic.png) |
 | [2201](https://ianring.com/musictheory/scales/2201) | [Ionagitonic](ModeIonagitonic.md) | Bb | Bb, Db, D, F, A, Bb | ![BFlatIonagitonic](ModeBFlatIonagitonic.png) |
+| [787](https://ianring.com/musictheory/scales/787) | [Aeolapritonic](ModeAeolapritonic.md) | Db | Db, D, F, A, Bb, Db | ![DFlatAeolapritonic](ModeDFlatAeolapritonic.png) |
 | [2441](https://ianring.com/musictheory/scales/2441) | [Kyritonic](ModeKyritonic.md) | D | D, F, A, A#, C#, D | ![DNaturalKyritonic](ModeDNaturalKyritonic.png) |
+| [817](https://ianring.com/musictheory/scales/817) | [Zothitonic](ModeZothitonic.md) | F | F, A, A#, C#, D, F | ![FNaturalZothitonic](ModeFNaturalZothitonic.png) |
+| [307](https://ianring.com/musictheory/scales/307) | [Phrolitonic](ModePhrolitonic.md) | A | A, A#, C#, D, F, A | ![ANaturalPhrolitonic](ModeANaturalPhrolitonic.png) |
 
 ## Chords
 

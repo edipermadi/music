@@ -46,14 +46,11 @@ Db
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [333](https://ianring.com/musictheory/scales/333) | [Bogitonic](ModeBogitonic.md) | A# | A#, C, C#, E, F#, A# | ![ASharpBogitonic](ModeASharpBogitonic.png) |
-| [333](https://ianring.com/musictheory/scales/333) | [Bogitonic](ModeBogitonic.md) | Bb | Bb, C, Db, E, Gb, Bb | ![BFlatBogitonic](ModeBFlatBogitonic.png) |
-| [837](https://ianring.com/musictheory/scales/837) | [Epaditonic](ModeEpaditonic.md) | E | E, F#, A#, C, C#, E | ![ENaturalEpaditonic](ModeENaturalEpaditonic.png) |
-| [1107](https://ianring.com/musictheory/scales/1107) | [Mogitonic](ModeMogitonic.md) | C | C, C#, E, F#, A#, C | ![CNaturalMogitonic](ModeCNaturalMogitonic.png) |
-| [1233](https://ianring.com/musictheory/scales/1233) | [Ionoditonic](ModeIonoditonic.md) | F# | F#, A#, C, C#, E, F# | ![FSharpIonoditonic](ModeFSharpIonoditonic.png) |
-| [1233](https://ianring.com/musictheory/scales/1233) | [Ionoditonic](ModeIonoditonic.md) | Gb | Gb, Bb, C, Db, E, Gb | ![GFlatIonoditonic](ModeGFlatIonoditonic.png) |
-| [2601](https://ianring.com/musictheory/scales/2601) | [Docritonic](ModeDocritonic.md) | C# | C#, E, F#, A#, C, C# | ![CSharpDocritonic](ModeCSharpDocritonic.png) |
 | [2601](https://ianring.com/musictheory/scales/2601) | [Docritonic](ModeDocritonic.md) | Db | Db, E, Gb, Bb, C, Db | ![DFlatDocritonic](ModeDFlatDocritonic.png) |
+| [837](https://ianring.com/musictheory/scales/837) | [Epaditonic](ModeEpaditonic.md) | E | E, F#, A#, C, C#, E | ![ENaturalEpaditonic](ModeENaturalEpaditonic.png) |
+| [1233](https://ianring.com/musictheory/scales/1233) | [Ionoditonic](ModeIonoditonic.md) | Gb | Gb, Bb, C, Db, E, Gb | ![GFlatIonoditonic](ModeGFlatIonoditonic.png) |
+| [333](https://ianring.com/musictheory/scales/333) | [Bogitonic](ModeBogitonic.md) | Bb | Bb, C, Db, E, Gb, Bb | ![BFlatBogitonic](ModeBFlatBogitonic.png) |
+| [1107](https://ianring.com/musictheory/scales/1107) | [Mogitonic](ModeMogitonic.md) | C | C, C#, E, F#, A#, C | ![CNaturalMogitonic](ModeCNaturalMogitonic.png) |
 
 ## Chords
 

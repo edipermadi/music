@@ -46,10 +46,10 @@ C
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | F | F, G, A, C, D, F | ![FNaturalPentatonic](ModeFNaturalPentatonic.png) |
 | [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | C | C, D, F, G, A, C | ![CNaturalMynitonic](ModeCNaturalMynitonic.png) |
-| [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | G | G, A, C, D, F, G | ![GNaturalThaptitonic](ModeGNaturalThaptitonic.png) |
 | [1193](https://ianring.com/musictheory/scales/1193) | [Rocritonic](ModeRocritonic.md) | D | D, F, G, A, C, D | ![DNaturalRocritonic](ModeDNaturalRocritonic.png) |
+| [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | F | F, G, A, C, D, F | ![FNaturalPentatonic](ModeFNaturalPentatonic.png) |
+| [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | G | G, A, C, D, F, G | ![GNaturalThaptitonic](ModeGNaturalThaptitonic.png) |
 | [1321](https://ianring.com/musictheory/scales/1321) | [Epathitonic](ModeEpathitonic.md) | A | A, C, D, F, G, A | ![ANaturalEpathitonic](ModeANaturalEpathitonic.png) |
 
 ## Chords

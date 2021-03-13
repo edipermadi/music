@@ -46,14 +46,11 @@ F
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | B | B, C#, D#, F, G#, B | ![BNaturalThonitonic](ModeBNaturalThonitonic.png) |
-| [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | G# | G#, B, C#, D#, F, G# | ![GSharpSylitonic](ModeGSharpSylitonic.png) |
-| [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | Ab | Ab, B, Db, Eb, F, Ab | ![AFlatSylitonic](ModeAFlatSylitonic.png) |
-| [1173](https://ianring.com/musictheory/scales/1173) | [Phropitonic](ModePhropitonic.md) | C# | C#, D#, F, G#, B, C# | ![CSharpPhropitonic](ModeCSharpPhropitonic.png) |
-| [1173](https://ianring.com/musictheory/scales/1173) | [Phropitonic](ModePhropitonic.md) | Db | Db, Eb, F, Ab, B, Db | ![DFlatPhropitonic](ModeDFlatPhropitonic.png) |
-| [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | D# | D#, F, G#, B, C#, D# | ![DSharpStaditonic](ModeDSharpStaditonic.png) |
-| [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | Eb | Eb, F, Ab, B, Db, Eb | ![EFlatStaditonic](ModeEFlatStaditonic.png) |
 | [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | F | F, G#, B, C#, D#, F | ![FNaturalKataritonic](ModeFNaturalKataritonic.png) |
+| [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | G# | G#, B, C#, D#, F, G# | ![GSharpSylitonic](ModeGSharpSylitonic.png) |
+| [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | B | B, C#, D#, F, G#, B | ![BNaturalThonitonic](ModeBNaturalThonitonic.png) |
+| [1173](https://ianring.com/musictheory/scales/1173) | [Phropitonic](ModePhropitonic.md) | C# | C#, D#, F, G#, B, C# | ![CSharpPhropitonic](ModeCSharpPhropitonic.png) |
+| [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | D# | D#, F, G#, B, C#, D# | ![DSharpStaditonic](ModeDSharpStaditonic.png) |
 
 ## Chords
 

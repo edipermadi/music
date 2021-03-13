@@ -46,13 +46,11 @@ A
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [403](https://ianring.com/musictheory/scales/403) | [Daptitonic](ModeDaptitonic.md) | C# | C#, D, F, G#, A, C# | ![CSharpDaptitonic](ModeCSharpDaptitonic.png) |
-| [403](https://ianring.com/musictheory/scales/403) | [Daptitonic](ModeDaptitonic.md) | Db | Db, D, F, Ab, A, Db | ![DFlatDaptitonic](ModeDFlatDaptitonic.png) |
-| [611](https://ianring.com/musictheory/scales/611) | [Zynitonic](ModeZynitonic.md) | G# | G#, A, C#, D, F, G# | ![GSharpZynitonic](ModeGSharpZynitonic.png) |
-| [611](https://ianring.com/musictheory/scales/611) | [Zynitonic](ModeZynitonic.md) | Ab | Ab, A, Db, D, F, Ab | ![AFlatZynitonic](ModeAFlatZynitonic.png) |
-| [793](https://ianring.com/musictheory/scales/793) | [Mocritonic](ModeMocritonic.md) | F | F, G#, A, C#, D, F | ![FNaturalMocritonic](ModeFNaturalMocritonic.png) |
-| [2249](https://ianring.com/musictheory/scales/2249) | [Kygitonic](ModeKygitonic.md) | D | D, F, G#, A, C#, D | ![DNaturalKygitonic](ModeDNaturalKygitonic.png) |
 | [2353](https://ianring.com/musictheory/scales/2353) | [Lycritonic](ModeLycritonic.md) | A | A, C#, D, F, G#, A | ![ANaturalLycritonic](ModeANaturalLycritonic.png) |
+| [403](https://ianring.com/musictheory/scales/403) | [Daptitonic](ModeDaptitonic.md) | C# | C#, D, F, G#, A, C# | ![CSharpDaptitonic](ModeCSharpDaptitonic.png) |
+| [2249](https://ianring.com/musictheory/scales/2249) | [Kygitonic](ModeKygitonic.md) | D | D, F, G#, A, C#, D | ![DNaturalKygitonic](ModeDNaturalKygitonic.png) |
+| [793](https://ianring.com/musictheory/scales/793) | [Mocritonic](ModeMocritonic.md) | F | F, G#, A, C#, D, F | ![FNaturalMocritonic](ModeFNaturalMocritonic.png) |
+| [611](https://ianring.com/musictheory/scales/611) | [Zynitonic](ModeZynitonic.md) | G# | G#, A, C#, D, F, G# | ![GSharpZynitonic](ModeGSharpZynitonic.png) |
 
 ## Chords
 

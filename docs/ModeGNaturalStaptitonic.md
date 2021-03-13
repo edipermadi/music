@@ -48,12 +48,9 @@ G
 |--------|------|-------|-------|--------------|
 | [457](https://ianring.com/musictheory/scales/457) | [Staptitonic](ModeStaptitonic.md) | G | G, A#, C#, D, D#, G | ![GNaturalStaptitonic](ModeGNaturalStaptitonic.png) |
 | [569](https://ianring.com/musictheory/scales/569) | [Mothitonic](ModeMothitonic.md) | A# | A#, C#, D, D#, G, A# | ![ASharpMothitonic](ModeASharpMothitonic.png) |
-| [569](https://ianring.com/musictheory/scales/569) | [Mothitonic](ModeMothitonic.md) | Bb | Bb, Db, D, Eb, G, Bb | ![BFlatMothitonic](ModeBFlatMothitonic.png) |
 | [583](https://ianring.com/musictheory/scales/583) | [Aeritonic](ModeAeritonic.md) | C# | C#, D, D#, G, A#, C# | ![CSharpAeritonic](ModeCSharpAeritonic.png) |
-| [583](https://ianring.com/musictheory/scales/583) | [Aeritonic](ModeAeritonic.md) | Db | Db, D, Eb, G, Bb, Db | ![DFlatAeritonic](ModeDFlatAeritonic.png) |
 | [2339](https://ianring.com/musictheory/scales/2339) | [Ragitonic](ModeRagitonic.md) | D | D, D#, G, A#, C#, D | ![DNaturalRagitonic](ModeDNaturalRagitonic.png) |
 | [3217](https://ianring.com/musictheory/scales/3217) | [Molitonic](ModeMolitonic.md) | D# | D#, G, A#, C#, D, D# | ![DSharpMolitonic](ModeDSharpMolitonic.png) |
-| [3217](https://ianring.com/musictheory/scales/3217) | [Molitonic](ModeMolitonic.md) | Eb | Eb, G, Bb, Db, D, Eb | ![EFlatMolitonic](ModeEFlatMolitonic.png) |
 
 ## Chords
 

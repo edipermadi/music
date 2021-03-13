@@ -47,10 +47,10 @@ B
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [355](https://ianring.com/musictheory/scales/355) | [Aeoloritonic](ModeAeoloritonic.md) | B | B, C, E, F, G, B | ![BNaturalAeoloritonic](ModeBNaturalAeoloritonic.png) |
-| [395](https://ianring.com/musictheory/scales/395) | [Dalitonic](ModeDalitonic.md) | E | E, F, G, B, C, E | ![ENaturalDalitonic](ModeENaturalDalitonic.png) |
-| [1585](https://ianring.com/musictheory/scales/1585) | [Phraditonic](ModePhraditonic.md) | G | G, B, C, E, F, G | ![GNaturalPhraditonic](ModeGNaturalPhraditonic.png) |
 | [2225](https://ianring.com/musictheory/scales/2225) | [Gonitonic](ModeGonitonic.md) | C | C, E, F, G, B, C | ![CNaturalGonitonic](ModeCNaturalGonitonic.png) |
+| [395](https://ianring.com/musictheory/scales/395) | [Dalitonic](ModeDalitonic.md) | E | E, F, G, B, C, E | ![ENaturalDalitonic](ModeENaturalDalitonic.png) |
 | [2245](https://ianring.com/musictheory/scales/2245) | [Dygitonic](ModeDygitonic.md) | F | F, G, B, C, E, F | ![FNaturalDygitonic](ModeFNaturalDygitonic.png) |
+| [1585](https://ianring.com/musictheory/scales/1585) | [Phraditonic](ModePhraditonic.md) | G | G, B, C, E, F, G | ![GNaturalPhraditonic](ModeGNaturalPhraditonic.png) |
 
 ## Chords
 

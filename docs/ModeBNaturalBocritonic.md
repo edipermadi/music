@@ -49,8 +49,8 @@ B
 | [361](https://ianring.com/musictheory/scales/361) | [Bocritonic](ModeBocritonic.md) | B | B, D, E, F, G, B | ![BNaturalBocritonic](ModeBNaturalBocritonic.png) |
 | [557](https://ianring.com/musictheory/scales/557) | [Gythitonic](ModeGythitonic.md) | D | D, E, F, G, B, D | ![DNaturalGythitonic](ModeDNaturalGythitonic.png) |
 | [1163](https://ianring.com/musictheory/scales/1163) | [Pagitonic](ModePagitonic.md) | E | E, F, G, B, D, E | ![ENaturalPagitonic](ModeENaturalPagitonic.png) |
-| [1681](https://ianring.com/musictheory/scales/1681) | [Ionaditonic](ModeIonaditonic.md) | G | G, B, D, E, F, G | ![GNaturalIonaditonic](ModeGNaturalIonaditonic.png) |
 | [2629](https://ianring.com/musictheory/scales/2629) | [Aeolythitonic](ModeAeolythitonic.md) | F | F, G, B, D, E, F | ![FNaturalAeolythitonic](ModeFNaturalAeolythitonic.png) |
+| [1681](https://ianring.com/musictheory/scales/1681) | [Ionaditonic](ModeIonaditonic.md) | G | G, B, D, E, F, G | ![GNaturalIonaditonic](ModeGNaturalIonaditonic.png) |
 
 ## Chords
 

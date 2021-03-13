@@ -46,13 +46,9 @@ Eb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [425](https://ianring.com/musictheory/scales/425) | [Daditonic](ModeDaditonic.md) | D# | D#, F#, G#, A#, B, D# | ![DSharpDaditonic](ModeDSharpDaditonic.png) |
 | [425](https://ianring.com/musictheory/scales/425) | [Daditonic](ModeDaditonic.md) | Eb | Eb, Gb, Ab, Bb, B, Eb | ![EFlatDaditonic](ModeEFlatDaditonic.png) |
-| [565](https://ianring.com/musictheory/scales/565) | [Aeolyphritonic](ModeAeolyphritonic.md) | F# | F#, G#, A#, B, D#, F# | ![FSharpAeolyphritonic](ModeFSharpAeolyphritonic.png) |
 | [565](https://ianring.com/musictheory/scales/565) | [Aeolyphritonic](ModeAeolyphritonic.md) | Gb | Gb, Ab, Bb, B, Eb, Gb | ![GFlatAeolyphritonic](ModeGFlatAeolyphritonic.png) |
-| [1165](https://ianring.com/musictheory/scales/1165) | [Gycritonic](ModeGycritonic.md) | G# | G#, A#, B, D#, F#, G# | ![GSharpGycritonic](ModeGSharpGycritonic.png) |
 | [1165](https://ianring.com/musictheory/scales/1165) | [Gycritonic](ModeGycritonic.md) | Ab | Ab, Bb, B, Eb, Gb, Ab | ![AFlatGycritonic](ModeAFlatGycritonic.png) |
-| [1315](https://ianring.com/musictheory/scales/1315) | [Pyritonic](ModePyritonic.md) | A# | A#, B, D#, F#, G#, A# | ![ASharpPyritonic](ModeASharpPyritonic.png) |
 | [1315](https://ianring.com/musictheory/scales/1315) | [Pyritonic](ModePyritonic.md) | Bb | Bb, B, Eb, Gb, Ab, Bb | ![BFlatPyritonic](ModeBFlatPyritonic.png) |
 | [2705](https://ianring.com/musictheory/scales/2705) | [Magitonic](ModeMagitonic.md) | B | B, D#, F#, G#, A#, B | ![BNaturalMagitonic](ModeBNaturalMagitonic.png) |
 

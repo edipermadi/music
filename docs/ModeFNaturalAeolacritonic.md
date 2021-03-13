@@ -46,11 +46,11 @@ F
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [301](https://ianring.com/musictheory/scales/301) | [Zythitonic](ModeZythitonic.md) | A | A, B, C, D, F, A | ![ANaturalZythitonic](ModeANaturalZythitonic.png) |
 | [721](https://ianring.com/musictheory/scales/721) | [Aeolacritonic](ModeAeolacritonic.md) | F | F, A, B, C, D, F | ![FNaturalAeolacritonic](ModeFNaturalAeolacritonic.png) |
+| [301](https://ianring.com/musictheory/scales/301) | [Zythitonic](ModeZythitonic.md) | A | A, B, C, D, F, A | ![ANaturalZythitonic](ModeANaturalZythitonic.png) |
 | [1099](https://ianring.com/musictheory/scales/1099) | [Dyritonic](ModeDyritonic.md) | B | B, C, D, F, A, B | ![BNaturalDyritonic](ModeBNaturalDyritonic.png) |
-| [1673](https://ianring.com/musictheory/scales/1673) | [Thocritonic](ModeThocritonic.md) | D | D, F, A, B, C, D | ![DNaturalThocritonic](ModeDNaturalThocritonic.png) |
 | [2597](https://ianring.com/musictheory/scales/2597) | [Koptitonic](ModeKoptitonic.md) | C | C, D, F, A, B, C | ![CNaturalKoptitonic](ModeCNaturalKoptitonic.png) |
+| [1673](https://ianring.com/musictheory/scales/1673) | [Thocritonic](ModeThocritonic.md) | D | D, F, A, B, C, D | ![DNaturalThocritonic](ModeDNaturalThocritonic.png) |
 
 ## Chords
 

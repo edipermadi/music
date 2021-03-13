@@ -48,16 +48,13 @@ B
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | A# | A#, B, C, D, E, F#, G#, A# | ![ASharpPyptian](ModeASharpPyptian.png) |
-| [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | Bb | Bb, Cb, Dbb, Ebb, Fb, Gb, Ab, Bb | ![BFlatPyptian](ModeBFlatPyptian.png) |
-| [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | G# | G#, A#, B, C, D, E, F#, G# | ![GSharpStorian](ModeGSharpStorian.png) |
-| [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | Ab | Ab, Bb, Cb, Dbb, Ebb, Fb, Gb, Ab | ![AFlatStorian](ModeAFlatStorian.png) |
-| [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | F# | F#, G#, A#, B, C, D, E, F# | ![FSharpGothian](ModeFSharpGothian.png) |
-| [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | Gb | Gb, Ab, Bb, Cb, Dbb, Ebb, Fb, Gb | ![GFlatGothian](ModeGFlatGothian.png) |
-| [1493](https://ianring.com/musictheory/scales/1493) | [Phryrian](ModePhryrian.md) | E | E, F#, G#, A#, B, C, D, E | ![ENaturalPhryrian](ModeENaturalPhryrian.png) |
-| [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeAeroptian.md) | D | D, E, F#, G#, A#, B, C, D | ![DNaturalAeroptian](ModeDNaturalAeroptian.png) |
 | [2731](https://ianring.com/musictheory/scales/2731) | [Thydian](ModeThydian.md) | B | B, C, D, E, F#, G#, A#, B | ![BNaturalThydian](ModeBNaturalThydian.png) |
 | [3413](https://ianring.com/musictheory/scales/3413) | [Aeolynian](ModeAeolynian.md) | C | C, D, E, F#, G#, A#, B, C | ![CNaturalAeolynian](ModeCNaturalAeolynian.png) |
+| [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeAeroptian.md) | D | D, E, F#, G#, A#, B, C, D | ![DNaturalAeroptian](ModeDNaturalAeroptian.png) |
+| [1493](https://ianring.com/musictheory/scales/1493) | [Phryrian](ModePhryrian.md) | E | E, F#, G#, A#, B, C, D, E | ![ENaturalPhryrian](ModeENaturalPhryrian.png) |
+| [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | F# | F#, G#, A#, B, C, D, E, F# | ![FSharpGothian](ModeFSharpGothian.png) |
+| [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | G# | G#, A#, B, C, D, E, F#, G# | ![GSharpStorian](ModeGSharpStorian.png) |
+| [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | A# | A#, B, C, D, E, F#, G#, A# | ![ASharpPyptian](ModeASharpPyptian.png) |
 
 ## Chords
 

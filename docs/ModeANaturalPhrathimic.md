@@ -48,10 +48,7 @@ A
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [489](https://ianring.com/musictheory/scales/489) | [Phrathimic](ModePhrathimic.md) | A | A, B#, C##, D#, E, F, A | ![ANaturalPhrathimic](ModeANaturalPhrathimic.png) |
-| [573](https://ianring.com/musictheory/scales/573) | [Saptimic](ModeSaptimic.md) | C | C, D, Eb, Fb, Gbb, A, C | ![CNaturalSaptimic](ModeCNaturalSaptimic.png) |
-| [1167](https://ianring.com/musictheory/scales/1167) | [Aerodimic](ModeAerodimic.md) | D | D, Eb, Fb, Gbb, A, B#, D | ![DNaturalAerodimic](ModeDNaturalAerodimic.png) |
 | [2631](https://ianring.com/musictheory/scales/2631) | [Macrimic](ModeMacrimic.md) | D# | D#, E, F, G##, A###, B###, D# | ![DSharpMacrimic](ModeDSharpMacrimic.png) |
-| [2631](https://ianring.com/musictheory/scales/2631) | [Macrimic](ModeMacrimic.md) | Eb | Eb, Fb, Gbb, A, B#, C##, Eb | ![EFlatMacrimic](ModeEFlatMacrimic.png) |
 | [3363](https://ianring.com/musictheory/scales/3363) | [Rogimic](ModeRogimic.md) | E | E, F, G##, A###, B###, C###, E | ![ENaturalRogimic](ModeENaturalRogimic.png) |
 | [3729](https://ianring.com/musictheory/scales/3729) | [Starimic](ModeStarimic.md) | F | F, G##, A###, B###, C###, D##, F | ![FNaturalStarimic](ModeFNaturalStarimic.png) |
 

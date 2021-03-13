@@ -53,23 +53,18 @@ G#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | G# | G#, A, A#, B, C, C#, D, D#, E, F, F#, G, G# | ![GSharpChromatic](ModeGSharpChromatic.png) |
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | A | A, A#, B, C, C#, D, D#, E, F, F#, G, G#, A | ![ANaturalChromatic](ModeANaturalChromatic.png) |
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | A# | A#, B, C, C#, D, D#, E, F, F#, G, G#, A, A# | ![ASharpChromatic](ModeASharpChromatic.png) |
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | B | B, C, C#, D, D#, E, F, F#, G, G#, A, A#, B | ![BNaturalChromatic](ModeBNaturalChromatic.png) |
 | [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | C | C, C#, D, D#, E, F, F#, G, G#, A, A#, B, C | ![CNaturalChromatic](ModeCNaturalChromatic.png) |
 | [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | C# | C#, D, D#, E, F, F#, G, G#, A, A#, B, C, C# | ![CSharpChromatic](ModeCSharpChromatic.png) |
-| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | Db | Db, D, Eb, E, F, Gb, G, Ab, A, Bb, B, C, Db | ![DFlatChromatic](ModeDFlatChromatic.png) |
 | [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | D | D, D#, E, F, F#, G, G#, A, A#, B, C, C#, D | ![DNaturalChromatic](ModeDNaturalChromatic.png) |
 | [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | D# | D#, E, F, F#, G, G#, A, A#, B, C, C#, D, D# | ![DSharpChromatic](ModeDSharpChromatic.png) |
-| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | Eb | Eb, E, F, Gb, G, Ab, A, Bb, B, C, Db, D, Eb | ![EFlatChromatic](ModeEFlatChromatic.png) |
 | [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | E | E, F, F#, G, G#, A, A#, B, C, C#, D, D#, E | ![ENaturalChromatic](ModeENaturalChromatic.png) |
 | [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | F | F, F#, G, G#, A, A#, B, C, C#, D, D#, E, F | ![FNaturalChromatic](ModeFNaturalChromatic.png) |
 | [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | F# | F#, G, G#, A, A#, B, C, C#, D, D#, E, F, F# | ![FSharpChromatic](ModeFSharpChromatic.png) |
-| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | Gb | Gb, G, Ab, A, Bb, B, C, Db, D, Eb, E, F, Gb | ![GFlatChromatic](ModeGFlatChromatic.png) |
 | [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | G | G, G#, A, A#, B, C, C#, D, D#, E, F, F#, G | ![GNaturalChromatic](ModeGNaturalChromatic.png) |
-| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | G# | G#, A, A#, B, C, C#, D, D#, E, F, F#, G, G# | ![GSharpChromatic](ModeGSharpChromatic.png) |
-| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | Ab | Ab, A, Bb, B, C, Db, D, Eb, E, F, Gb, G, Ab | ![AFlatChromatic](ModeAFlatChromatic.png) |
-| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | A | A, A#, B, C, C#, D, D#, E, F, F#, G, G#, A | ![ANaturalChromatic](ModeANaturalChromatic.png) |
-| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | A# | A#, B, C, C#, D, D#, E, F, F#, G, G#, A, A# | ![ASharpChromatic](ModeASharpChromatic.png) |
-| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | Bb | Bb, B, C, Db, D, Eb, E, F, Gb, G, Ab, A, Bb | ![BFlatChromatic](ModeBFlatChromatic.png) |
-| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | B | B, C, C#, D, D#, E, F, F#, G, G#, A, A#, B | ![BNaturalChromatic](ModeBNaturalChromatic.png) |
 
 ## Chords
 

@@ -47,12 +47,8 @@ C#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [473](https://ianring.com/musictheory/scales/473) | [Aeralimic](ModeAeralimic.md) | A | A, B#, C#, D#, E, F, A | ![ANaturalAeralimic](ModeANaturalAeralimic.png) |
-| [571](https://ianring.com/musictheory/scales/571) | [Kynimic](ModeKynimic.md) | C | C, Db, Eb, Fb, Gbb, A, C | ![CNaturalKynimic](ModeCNaturalKynimic.png) |
-| [1607](https://ianring.com/musictheory/scales/1607) | [Epytimic](ModeEpytimic.md) | D# | D#, E, F, G##, A###, B##, D# | ![DSharpEpytimic](ModeDSharpEpytimic.png) |
-| [1607](https://ianring.com/musictheory/scales/1607) | [Epytimic](ModeEpytimic.md) | Eb | Eb, Fb, Gbb, A, B#, C#, Eb | ![EFlatEpytimic](ModeEFlatEpytimic.png) |
 | [2333](https://ianring.com/musictheory/scales/2333) | [Stynimic](ModeStynimic.md) | C# | C#, D#, E, F, G##, A###, C# | ![CSharpStynimic](ModeCSharpStynimic.png) |
-| [2333](https://ianring.com/musictheory/scales/2333) | [Stynimic](ModeStynimic.md) | Db | Db, Eb, Fb, Gbb, A, B#, Db | ![DFlatStynimic](ModeDFlatStynimic.png) |
+| [1607](https://ianring.com/musictheory/scales/1607) | [Epytimic](ModeEpytimic.md) | D# | D#, E, F, G##, A###, B##, D# | ![DSharpEpytimic](ModeDSharpEpytimic.png) |
 | [2851](https://ianring.com/musictheory/scales/2851) | [Katoptimic](ModeKatoptimic.md) | E | E, F, G##, A###, B##, C###, E | ![ENaturalKatoptimic](ModeENaturalKatoptimic.png) |
 | [3473](https://ianring.com/musictheory/scales/3473) | [Lathimic](ModeLathimic.md) | F | F, G##, A###, B##, C###, D##, F | ![FNaturalLathimic](ModeFNaturalLathimic.png) |
 

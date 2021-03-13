@@ -46,15 +46,11 @@ F#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [299](https://ianring.com/musictheory/scales/299) | [Phratonic](ModePhratonic.md) | F | F, F#, G#, A#, C#, F | ![FNaturalPhratonic](ModeFNaturalPhratonic.png) |
-| [689](https://ianring.com/musictheory/scales/689) | [Lothitonic](ModeLothitonic.md) | C# | C#, F, F#, G#, A#, C# | ![CSharpLothitonic](ModeCSharpLothitonic.png) |
-| [689](https://ianring.com/musictheory/scales/689) | [Lothitonic](ModeLothitonic.md) | Db | Db, F, Gb, Ab, Bb, Db | ![DFlatLothitonic](ModeDFlatLothitonic.png) |
-| [1417](https://ianring.com/musictheory/scales/1417) | [Zoptitonic](ModeZoptitonic.md) | A# | A#, C#, F, F#, G#, A# | ![ASharpZoptitonic](ModeASharpZoptitonic.png) |
-| [1417](https://ianring.com/musictheory/scales/1417) | [Zoptitonic](ModeZoptitonic.md) | Bb | Bb, Db, F, Gb, Ab, Bb | ![BFlatZoptitonic](ModeBFlatZoptitonic.png) |
-| [1573](https://ianring.com/musictheory/scales/1573) | [Saritonic](ModeSaritonic.md) | G# | G#, A#, C#, F, F#, G# | ![GSharpSaritonic](ModeGSharpSaritonic.png) |
-| [1573](https://ianring.com/musictheory/scales/1573) | [Saritonic](ModeSaritonic.md) | Ab | Ab, Bb, Db, F, Gb, Ab | ![AFlatSaritonic](ModeAFlatSaritonic.png) |
 | [2197](https://ianring.com/musictheory/scales/2197) | [Aerathitonic](ModeAerathitonic.md) | F# | F#, G#, A#, C#, F, F# | ![FSharpAerathitonic](ModeFSharpAerathitonic.png) |
-| [2197](https://ianring.com/musictheory/scales/2197) | [Aerathitonic](ModeAerathitonic.md) | Gb | Gb, Ab, Bb, Db, F, Gb | ![GFlatAerathitonic](ModeGFlatAerathitonic.png) |
+| [1573](https://ianring.com/musictheory/scales/1573) | [Saritonic](ModeSaritonic.md) | G# | G#, A#, C#, F, F#, G# | ![GSharpSaritonic](ModeGSharpSaritonic.png) |
+| [1417](https://ianring.com/musictheory/scales/1417) | [Zoptitonic](ModeZoptitonic.md) | A# | A#, C#, F, F#, G#, A# | ![ASharpZoptitonic](ModeASharpZoptitonic.png) |
+| [689](https://ianring.com/musictheory/scales/689) | [Lothitonic](ModeLothitonic.md) | C# | C#, F, F#, G#, A#, C# | ![CSharpLothitonic](ModeCSharpLothitonic.png) |
+| [299](https://ianring.com/musictheory/scales/299) | [Phratonic](ModePhratonic.md) | F | F, F#, G#, A#, C#, F | ![FNaturalPhratonic](ModeFNaturalPhratonic.png) |
 
 ## Chords
 

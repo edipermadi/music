@@ -48,18 +48,12 @@ A#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | C | C, Db, Eb, Fb, Gb, Ab, Bb, C | ![CNaturalIonadian](ModeCNaturalIonadian.png) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | A# | A#, B#, C#, D#, E, F#, G#, A# | ![ASharpLorian](ModeASharpLorian.png) |
-| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | Bb | Bb, C, Db, Eb, Fb, Gb, Ab, Bb | ![BFlatLorian](ModeBFlatLorian.png) |
-| [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | G# | G#, A#, B#, C#, D#, E, F#, G# | ![GSharpStydian](ModeGSharpStydian.png) |
-| [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | Ab | Ab, Bb, C, Db, Eb, Fb, Gb, Ab | ![AFlatStydian](ModeAFlatStydian.png) |
-| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | D# | D#, E, F#, G#, A#, B#, C#, D# | ![DSharpMixolythian](ModeDSharpMixolythian.png) |
-| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | Eb | Eb, Fb, Gb, Ab, Bb, C, Db, Eb | ![EFlatMixolythian](ModeEFlatMixolythian.png) |
-| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | F# | F#, G#, A#, B#, C#, D#, E, F# | ![FSharpLythian](ModeFSharpLythian.png) |
-| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | Gb | Gb, Ab, Bb, C, Db, Eb, Fb, Gb | ![GFlatLythian](ModeGFlatLythian.png) |
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | C# | C#, D#, E, F#, G#, A#, B#, C# | ![CSharpBocrian](ModeCSharpBocrian.png) |
-| [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | Db | Db, Eb, Fb, Gb, Ab, Bb, C, Db | ![DFlatBocrian](ModeDFlatBocrian.png) |
+| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | D# | D#, E, F#, G#, A#, B#, C#, D# | ![DSharpMixolythian](ModeDSharpMixolythian.png) |
 | [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | E | E, F#, G#, A#, B#, C#, D#, E | ![ENaturalLarian](ModeENaturalLarian.png) |
+| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | F# | F#, G#, A#, B#, C#, D#, E, F# | ![FSharpLythian](ModeFSharpLythian.png) |
+| [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | G# | G#, A#, B#, C#, D#, E, F#, G# | ![GSharpStydian](ModeGSharpStydian.png) |
 
 ## Chords
 

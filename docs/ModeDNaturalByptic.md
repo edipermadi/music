@@ -45,9 +45,9 @@ D
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | A | A, B, D, F, A | ![ANaturalZoptic](ModeANaturalZoptic.png) |
-| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | F | F, A, B, D, F | ![FNaturalSaric](ModeFNaturalSaric.png) |
 | [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | D | D, F, A, B, D | ![DNaturalByptic](ModeDNaturalByptic.png) |
+| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | F | F, A, B, D, F | ![FNaturalSaric](ModeFNaturalSaric.png) |
+| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | A | A, B, D, F, A | ![ANaturalZoptic](ModeANaturalZoptic.png) |
 | [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | B | B, D, F, A, B | ![BNaturalAeraphic](ModeBNaturalAeraphic.png) |
 
 ## Chords

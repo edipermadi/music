@@ -47,13 +47,6 @@ E
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [667](https://ianring.com/musictheory/scales/667) | [Rodimic](ModeRodimic.md) | C | C, Db, Eb, Fb, G, A, C | ![CNaturalRodimic](ModeCNaturalRodimic.png) |
-| [869](https://ianring.com/musictheory/scales/869) | [Kothimic](ModeKothimic.md) | G | G, A, B#, C#, D#, E, G | ![GNaturalKothimic](ModeGNaturalKothimic.png) |
-| [1241](https://ianring.com/musictheory/scales/1241) | [Pygimic](ModePygimic.md) | A | A, B#, C#, D#, E, F##, A | ![ANaturalPygimic](ModeANaturalPygimic.png) |
-| [1619](https://ianring.com/musictheory/scales/1619) | [Monimic](ModeMonimic.md) | D# | D#, E, F##, G##, A###, B##, D# | ![DSharpMonimic](ModeDSharpMonimic.png) |
-| [1619](https://ianring.com/musictheory/scales/1619) | [Monimic](ModeMonimic.md) | Eb | Eb, Fb, G, A, B#, C#, Eb | ![EFlatMonimic](ModeEFlatMonimic.png) |
-| [2381](https://ianring.com/musictheory/scales/2381) | [Sorimic](ModeSorimic.md) | C# | C#, D#, E, F##, G##, A###, C# | ![CSharpSorimic](ModeCSharpSorimic.png) |
-| [2381](https://ianring.com/musictheory/scales/2381) | [Sorimic](ModeSorimic.md) | Db | Db, Eb, Fb, G, A, B#, Db | ![DFlatSorimic](ModeDFlatSorimic.png) |
 | [2857](https://ianring.com/musictheory/scales/2857) | [Stythimic](ModeStythimic.md) | E | E, F##, G##, A###, B##, C###, E | ![ENaturalStythimic](ModeENaturalStythimic.png) |
 
 ## Chords

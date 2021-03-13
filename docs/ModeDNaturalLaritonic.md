@@ -48,11 +48,9 @@ D
 |--------|------|-------|-------|--------------|
 | [409](https://ianring.com/musictheory/scales/409) | [Laritonic](ModeLaritonic.md) | D | D, F, F#, A, A#, D | ![DNaturalLaritonic](ModeDNaturalLaritonic.png) |
 | [563](https://ianring.com/musictheory/scales/563) | [Thacritonic](ModeThacritonic.md) | F | F, F#, A, A#, D, F | ![FNaturalThacritonic](ModeFNaturalThacritonic.png) |
-| [803](https://ianring.com/musictheory/scales/803) | [Loritonic](ModeLoritonic.md) | A | A, A#, D, F, F#, A | ![ANaturalLoritonic](ModeANaturalLoritonic.png) |
 | [2329](https://ianring.com/musictheory/scales/2329) | [Styditonic](ModeStyditonic.md) | F# | F#, A, A#, D, F, F# | ![FSharpStyditonic](ModeFSharpStyditonic.png) |
-| [2329](https://ianring.com/musictheory/scales/2329) | [Styditonic](ModeStyditonic.md) | Gb | Gb, A, Bb, D, F, Gb | ![GFlatStyditonic](ModeGFlatStyditonic.png) |
+| [803](https://ianring.com/musictheory/scales/803) | [Loritonic](ModeLoritonic.md) | A | A, A#, D, F, F#, A | ![ANaturalLoritonic](ModeANaturalLoritonic.png) |
 | [2449](https://ianring.com/musictheory/scales/2449) | [Zacritonic](ModeZacritonic.md) | A# | A#, D, F, F#, A, A# | ![ASharpZacritonic](ModeASharpZacritonic.png) |
-| [2449](https://ianring.com/musictheory/scales/2449) | [Zacritonic](ModeZacritonic.md) | Bb | Bb, D, F, Gb, A, Bb | ![BFlatZacritonic](ModeBFlatZacritonic.png) |
 
 ## Chords
 

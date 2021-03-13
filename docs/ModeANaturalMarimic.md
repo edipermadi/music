@@ -49,11 +49,10 @@ A
 |--------|------|-------|-------|--------------|
 | [365](https://ianring.com/musictheory/scales/365) | [Marimic](ModeMarimic.md) | A | A, B, C, D, Eb, F, A | ![ANaturalMarimic](ModeANaturalMarimic.png) |
 | [1115](https://ianring.com/musictheory/scales/1115) | [Locrimic](ModeLocrimic.md) | B | B, C, D, Eb, F, G##, B | ![BNaturalLocrimic](ModeBNaturalLocrimic.png) |
-| [1675](https://ianring.com/musictheory/scales/1675) | [Epatimic](ModeEpatimic.md) | D | D, Eb, F, G##, A##, B#, D | ![DNaturalEpatimic](ModeDNaturalEpatimic.png) |
-| [1745](https://ianring.com/musictheory/scales/1745) | [Manimic](ModeManimic.md) | F | F, G##, A##, B#, C##, D#, F | ![FNaturalManimic](ModeFNaturalManimic.png) |
 | [2605](https://ianring.com/musictheory/scales/2605) | [Rylimic](ModeRylimic.md) | C | C, D, Eb, F, G##, A##, C | ![CNaturalRylimic](ModeCNaturalRylimic.png) |
-| [2885](https://ianring.com/musictheory/scales/2885) | [Byrimic](ModeByrimic.md) | D# | D#, E#, Cbbb, Dbbb, Dbb, Ebb, D# | ![DSharpByrimic](ModeDSharpByrimic.png) |
+| [1675](https://ianring.com/musictheory/scales/1675) | [Epatimic](ModeEpatimic.md) | D | D, Eb, F, G##, A##, B#, D | ![DNaturalEpatimic](ModeDNaturalEpatimic.png) |
 | [2885](https://ianring.com/musictheory/scales/2885) | [Byrimic](ModeByrimic.md) | Eb | Eb, F, G##, A##, B#, C##, Eb | ![EFlatByrimic](ModeEFlatByrimic.png) |
+| [1745](https://ianring.com/musictheory/scales/1745) | [Manimic](ModeManimic.md) | F | F, G##, A##, B#, C##, D#, F | ![FNaturalManimic](ModeFNaturalManimic.png) |
 
 ## Chords
 

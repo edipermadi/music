@@ -49,17 +49,14 @@ Gb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [989](https://ianring.com/musictheory/scales/989) | [Phrolyllic](ModePhrolyllic.md) | C | C, D, D#, E, F#, G, G#, A, C | ![CNaturalPhrolyllic](ModeCNaturalPhrolyllic.png) |
-| [1271](https://ianring.com/musictheory/scales/1271) | [Kolyllic](ModeKolyllic.md) | D | D, D#, E, F#, G, G#, A, C, D | ![DNaturalKolyllic](ModeDNaturalKolyllic.png) |
-| [1871](https://ianring.com/musictheory/scales/1871) | [Aeolyllic](ModeAeolyllic.md) | F# | F#, G, G#, A, C, D, D#, E, F# | ![FSharpAeolyllic](ModeFSharpAeolyllic.png) |
 | [1871](https://ianring.com/musictheory/scales/1871) | [Aeolyllic](ModeAeolyllic.md) | Gb | Gb, G, Ab, A, C, D, Eb, E, Gb | ![GFlatAeolyllic](ModeGFlatAeolyllic.png) |
-| [2683](https://ianring.com/musictheory/scales/2683) | [Thodyllic](ModeThodyllic.md) | D# | D#, E, F#, G, G#, A, C, D, D# | ![DSharpThodyllic](ModeDSharpThodyllic.png) |
-| [2683](https://ianring.com/musictheory/scales/2683) | [Thodyllic](ModeThodyllic.md) | Eb | Eb, E, Gb, G, Ab, A, C, D, Eb | ![EFlatThodyllic](ModeEFlatThodyllic.png) |
 | [2983](https://ianring.com/musictheory/scales/2983) | [Zythyllic](ModeZythyllic.md) | G | G, G#, A, C, D, D#, E, F#, G | ![GNaturalZythyllic](ModeGNaturalZythyllic.png) |
-| [3389](https://ianring.com/musictheory/scales/3389) | [Socryllic](ModeSocryllic.md) | E | E, F#, G, G#, A, C, D, D#, E | ![ENaturalSocryllic](ModeENaturalSocryllic.png) |
-| [3539](https://ianring.com/musictheory/scales/3539) | [Aeoryllic](ModeAeoryllic.md) | G# | G#, A, C, D, D#, E, F#, G, G# | ![GSharpAeoryllic](ModeGSharpAeoryllic.png) |
 | [3539](https://ianring.com/musictheory/scales/3539) | [Aeoryllic](ModeAeoryllic.md) | Ab | Ab, A, C, D, Eb, E, Gb, G, Ab | ![AFlatAeoryllic](ModeAFlatAeoryllic.png) |
 | [3817](https://ianring.com/musictheory/scales/3817) | [Zoryllic](ModeZoryllic.md) | A | A, C, D, D#, E, F#, G, G#, A | ![ANaturalZoryllic](ModeANaturalZoryllic.png) |
+| [989](https://ianring.com/musictheory/scales/989) | [Phrolyllic](ModePhrolyllic.md) | C | C, D, D#, E, F#, G, G#, A, C | ![CNaturalPhrolyllic](ModeCNaturalPhrolyllic.png) |
+| [1271](https://ianring.com/musictheory/scales/1271) | [Kolyllic](ModeKolyllic.md) | D | D, D#, E, F#, G, G#, A, C, D | ![DNaturalKolyllic](ModeDNaturalKolyllic.png) |
+| [2683](https://ianring.com/musictheory/scales/2683) | [Thodyllic](ModeThodyllic.md) | Eb | Eb, E, Gb, G, Ab, A, C, D, Eb | ![EFlatThodyllic](ModeEFlatThodyllic.png) |
+| [3389](https://ianring.com/musictheory/scales/3389) | [Socryllic](ModeSocryllic.md) | E | E, F#, G, G#, A, C, D, D#, E | ![ENaturalSocryllic](ModeENaturalSocryllic.png) |
 
 ## Chords
 

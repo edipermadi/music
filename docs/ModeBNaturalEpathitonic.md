@@ -46,11 +46,11 @@ B
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | G | G, A, B, D, E, G | ![GNaturalPentatonic](ModeGNaturalPentatonic.png) |
-| [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | D | D, E, G, A, B, D | ![DNaturalMynitonic](ModeDNaturalMynitonic.png) |
-| [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | A | A, B, D, E, G, A | ![ANaturalThaptitonic](ModeANaturalThaptitonic.png) |
-| [1193](https://ianring.com/musictheory/scales/1193) | [Rocritonic](ModeRocritonic.md) | E | E, G, A, B, D, E | ![ENaturalRocritonic](ModeENaturalRocritonic.png) |
 | [1321](https://ianring.com/musictheory/scales/1321) | [Epathitonic](ModeEpathitonic.md) | B | B, D, E, G, A, B | ![BNaturalEpathitonic](ModeBNaturalEpathitonic.png) |
+| [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | D | D, E, G, A, B, D | ![DNaturalMynitonic](ModeDNaturalMynitonic.png) |
+| [1193](https://ianring.com/musictheory/scales/1193) | [Rocritonic](ModeRocritonic.md) | E | E, G, A, B, D, E | ![ENaturalRocritonic](ModeENaturalRocritonic.png) |
+| [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | G | G, A, B, D, E, G | ![GNaturalPentatonic](ModeGNaturalPentatonic.png) |
+| [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | A | A, B, D, E, G, A | ![ANaturalThaptitonic](ModeANaturalThaptitonic.png) |
 
 ## Chords
 

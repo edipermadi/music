@@ -47,13 +47,10 @@ A
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | A | A, B, C#, D#, F#, A | ![ANaturalThonitonic](ModeANaturalThonitonic.png) |
-| [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | F# | F#, A, B, C#, D#, F# | ![FSharpSylitonic](ModeFSharpSylitonic.png) |
-| [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | Gb | Gb, A, B, Db, Eb, Gb | ![GFlatSylitonic](ModeGFlatSylitonic.png) |
 | [1173](https://ianring.com/musictheory/scales/1173) | [Phropitonic](ModePhropitonic.md) | B | B, C#, D#, F#, A, B | ![BNaturalPhropitonic](ModeBNaturalPhropitonic.png) |
 | [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | C# | C#, D#, F#, A, B, C# | ![CSharpStaditonic](ModeCSharpStaditonic.png) |
-| [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | Db | Db, Eb, Gb, A, B, Db | ![DFlatStaditonic](ModeDFlatStaditonic.png) |
 | [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | D# | D#, F#, A, B, C#, D# | ![DSharpKataritonic](ModeDSharpKataritonic.png) |
-| [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | Eb | Eb, Gb, A, B, Db, Eb | ![EFlatKataritonic](ModeEFlatKataritonic.png) |
+| [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | F# | F#, A, B, C#, D#, F# | ![FSharpSylitonic](ModeFSharpSylitonic.png) |
 
 ## Chords
 

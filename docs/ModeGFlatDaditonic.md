@@ -46,11 +46,9 @@ Gb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [425](https://ianring.com/musictheory/scales/425) | [Daditonic](ModeDaditonic.md) | F# | F#, A, B, C#, D, F# | ![FSharpDaditonic](ModeFSharpDaditonic.png) |
 | [425](https://ianring.com/musictheory/scales/425) | [Daditonic](ModeDaditonic.md) | Gb | Gb, A, B, Db, D, Gb | ![GFlatDaditonic](ModeGFlatDaditonic.png) |
 | [565](https://ianring.com/musictheory/scales/565) | [Aeolyphritonic](ModeAeolyphritonic.md) | A | A, B, C#, D, F#, A | ![ANaturalAeolyphritonic](ModeANaturalAeolyphritonic.png) |
 | [1165](https://ianring.com/musictheory/scales/1165) | [Gycritonic](ModeGycritonic.md) | B | B, C#, D, F#, A, B | ![BNaturalGycritonic](ModeBNaturalGycritonic.png) |
-| [1315](https://ianring.com/musictheory/scales/1315) | [Pyritonic](ModePyritonic.md) | C# | C#, D, F#, A, B, C# | ![CSharpPyritonic](ModeCSharpPyritonic.png) |
 | [1315](https://ianring.com/musictheory/scales/1315) | [Pyritonic](ModePyritonic.md) | Db | Db, D, Gb, A, B, Db | ![DFlatPyritonic](ModeDFlatPyritonic.png) |
 | [2705](https://ianring.com/musictheory/scales/2705) | [Magitonic](ModeMagitonic.md) | D | D, F#, A, B, C#, D | ![DNaturalMagitonic](ModeDNaturalMagitonic.png) |
 

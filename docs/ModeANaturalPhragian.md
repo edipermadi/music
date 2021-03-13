@@ -48,15 +48,12 @@ A
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [747](https://ianring.com/musictheory/scales/747) | [Lynian](ModeLynian.md) | E | E, F, G, A, Bb, Cb, Db, E | ![ENaturalLynian](ModeENaturalLynian.png) |
 | [1431](https://ianring.com/musictheory/scales/1431) | [Phragian](ModePhragian.md) | A | A, Bb, Cb, Db, E, F, G, A | ![ANaturalPhragian](ModeANaturalPhragian.png) |
-| [1629](https://ianring.com/musictheory/scales/1629) | [Synian](ModeSynian.md) | G | G, A, Bb, Cb, Db, E, F, G | ![GNaturalSynian](ModeGNaturalSynian.png) |
-| [1881](https://ianring.com/musictheory/scales/1881) | [Korian](ModeKorian.md) | C# | C#, D##, E#, F##, G##, A#, B, C# | ![CSharpKorian](ModeCSharpKorian.png) |
-| [1881](https://ianring.com/musictheory/scales/1881) | [Korian](ModeKorian.md) | Db | Db, E, F, G, A, Bb, Cb, Db | ![DFlatKorian](ModeDFlatKorian.png) |
-| [2421](https://ianring.com/musictheory/scales/2421) | [Malian](ModeMalian.md) | F | F, G, A, Bb, Cb, Db, E, F | ![FNaturalMalian](ModeFNaturalMalian.png) |
-| [2763](https://ianring.com/musictheory/scales/2763) | [Manian](ModeManian.md) | A# | A#, B, C#, D##, E#, F##, G##, A# | ![ASharpManian](ModeASharpManian.png) |
 | [2763](https://ianring.com/musictheory/scales/2763) | [Manian](ModeManian.md) | Bb | Bb, Cb, Db, E, F, G, A, Bb | ![BFlatManian](ModeBFlatManian.png) |
-| [3429](https://ianring.com/musictheory/scales/3429) | [Marian](ModeMarian.md) | B | B, C#, D##, E#, F##, G##, A#, B | ![BNaturalMarian](ModeBNaturalMarian.png) |
+| [1881](https://ianring.com/musictheory/scales/1881) | [Korian](ModeKorian.md) | Db | Db, E, F, G, A, Bb, Cb, Db | ![DFlatKorian](ModeDFlatKorian.png) |
+| [747](https://ianring.com/musictheory/scales/747) | [Lynian](ModeLynian.md) | E | E, F, G, A, Bb, Cb, Db, E | ![ENaturalLynian](ModeENaturalLynian.png) |
+| [2421](https://ianring.com/musictheory/scales/2421) | [Malian](ModeMalian.md) | F | F, G, A, Bb, Cb, Db, E, F | ![FNaturalMalian](ModeFNaturalMalian.png) |
+| [1629](https://ianring.com/musictheory/scales/1629) | [Synian](ModeSynian.md) | G | G, A, Bb, Cb, Db, E, F, G | ![GNaturalSynian](ModeGNaturalSynian.png) |
 
 ## Chords
 

@@ -47,15 +47,11 @@ E
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [371](https://ianring.com/musictheory/scales/371) | [Rythimic](ModeRythimic.md) | C | C, Db, E, F, Gb, Ab, C | ![CNaturalRythimic](ModeCNaturalRythimic.png) |
 | [791](https://ianring.com/musictheory/scales/791) | [Aeoloptimic](ModeAeoloptimic.md) | E | E, F, Gb, Ab, B#, C#, E | ![ENaturalAeoloptimic](ModeENaturalAeoloptimic.png) |
-| [1841](https://ianring.com/musictheory/scales/1841) | [Thogimic](ModeThogimic.md) | G# | G#, A###, B##, D##, E#, F#, G# | ![GSharpThogimic](ModeGSharpThogimic.png) |
+| [2443](https://ianring.com/musictheory/scales/2443) | [Panimic](ModePanimic.md) | F | F, Gb, Ab, B#, C#, D##, F | ![FNaturalPanimic](ModeFNaturalPanimic.png) |
+| [3269](https://ianring.com/musictheory/scales/3269) | [Lodimic](ModeLodimic.md) | Gb | Gb, Ab, B#, C#, D##, E#, Gb | ![GFlatLodimic](ModeGFlatLodimic.png) |
 | [1841](https://ianring.com/musictheory/scales/1841) | [Thogimic](ModeThogimic.md) | Ab | Ab, B#, C#, D##, E#, F#, Ab | ![AFlatThogimic](ModeAFlatThogimic.png) |
 | [2233](https://ianring.com/musictheory/scales/2233) | [Donimic](ModeDonimic.md) | C# | C#, D##, E#, F#, G#, A###, C# | ![CSharpDonimic](ModeCSharpDonimic.png) |
-| [2233](https://ianring.com/musictheory/scales/2233) | [Donimic](ModeDonimic.md) | Db | Db, E, F, Gb, Ab, B#, Db | ![DFlatDonimic](ModeDFlatDonimic.png) |
-| [2443](https://ianring.com/musictheory/scales/2443) | [Panimic](ModePanimic.md) | F | F, Gb, Ab, B#, C#, D##, F | ![FNaturalPanimic](ModeFNaturalPanimic.png) |
-| [3269](https://ianring.com/musictheory/scales/3269) | [Lodimic](ModeLodimic.md) | F# | F#, G#, A###, B##, D##, E#, F# | ![FSharpLodimic](ModeFSharpLodimic.png) |
-| [3269](https://ianring.com/musictheory/scales/3269) | [Lodimic](ModeLodimic.md) | Gb | Gb, Ab, B#, C#, D##, E#, Gb | ![GFlatLodimic](ModeGFlatLodimic.png) |
 
 ## Chords
 

@@ -46,15 +46,11 @@ F
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | C# | C#, D#, F, G#, A#, C# | ![CSharpPentatonic](ModeCSharpPentatonic.png) |
-| [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | Db | Db, Eb, F, Ab, Bb, Db | ![DFlatPentatonic](ModeDFlatPentatonic.png) |
-| [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | G# | G#, A#, C#, D#, F, G# | ![GSharpMynitonic](ModeGSharpMynitonic.png) |
-| [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | Ab | Ab, Bb, Db, Eb, F, Ab | ![AFlatMynitonic](ModeAFlatMynitonic.png) |
-| [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | D# | D#, F, G#, A#, C#, D# | ![DSharpThaptitonic](ModeDSharpThaptitonic.png) |
-| [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | Eb | Eb, F, Ab, Bb, Db, Eb | ![EFlatThaptitonic](ModeEFlatThaptitonic.png) |
-| [1193](https://ianring.com/musictheory/scales/1193) | [Rocritonic](ModeRocritonic.md) | A# | A#, C#, D#, F, G#, A# | ![ASharpRocritonic](ModeASharpRocritonic.png) |
-| [1193](https://ianring.com/musictheory/scales/1193) | [Rocritonic](ModeRocritonic.md) | Bb | Bb, Db, Eb, F, Ab, Bb | ![BFlatRocritonic](ModeBFlatRocritonic.png) |
 | [1321](https://ianring.com/musictheory/scales/1321) | [Epathitonic](ModeEpathitonic.md) | F | F, G#, A#, C#, D#, F | ![FNaturalEpathitonic](ModeFNaturalEpathitonic.png) |
+| [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | G# | G#, A#, C#, D#, F, G# | ![GSharpMynitonic](ModeGSharpMynitonic.png) |
+| [1193](https://ianring.com/musictheory/scales/1193) | [Rocritonic](ModeRocritonic.md) | A# | A#, C#, D#, F, G#, A# | ![ASharpRocritonic](ModeASharpRocritonic.png) |
+| [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | C# | C#, D#, F, G#, A#, C# | ![CSharpPentatonic](ModeCSharpPentatonic.png) |
+| [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | D# | D#, F, G#, A#, C#, D# | ![DSharpThaptitonic](ModeDSharpThaptitonic.png) |
 
 ## Chords
 

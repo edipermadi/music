@@ -46,12 +46,11 @@ F
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [425](https://ianring.com/musictheory/scales/425) | [Daditonic](ModeDaditonic.md) | D | D, F, G, A, A#, D | ![DNaturalDaditonic](ModeDNaturalDaditonic.png) |
 | [565](https://ianring.com/musictheory/scales/565) | [Aeolyphritonic](ModeAeolyphritonic.md) | F | F, G, A, A#, D, F | ![FNaturalAeolyphritonic](ModeFNaturalAeolyphritonic.png) |
 | [1165](https://ianring.com/musictheory/scales/1165) | [Gycritonic](ModeGycritonic.md) | G | G, A, A#, D, F, G | ![GNaturalGycritonic](ModeGNaturalGycritonic.png) |
 | [1315](https://ianring.com/musictheory/scales/1315) | [Pyritonic](ModePyritonic.md) | A | A, A#, D, F, G, A | ![ANaturalPyritonic](ModeANaturalPyritonic.png) |
 | [2705](https://ianring.com/musictheory/scales/2705) | [Magitonic](ModeMagitonic.md) | A# | A#, D, F, G, A, A# | ![ASharpMagitonic](ModeASharpMagitonic.png) |
-| [2705](https://ianring.com/musictheory/scales/2705) | [Magitonic](ModeMagitonic.md) | Bb | Bb, D, F, G, A, Bb | ![BFlatMagitonic](ModeBFlatMagitonic.png) |
+| [425](https://ianring.com/musictheory/scales/425) | [Daditonic](ModeDaditonic.md) | D | D, F, G, A, A#, D | ![DNaturalDaditonic](ModeDNaturalDaditonic.png) |
 
 ## Chords
 

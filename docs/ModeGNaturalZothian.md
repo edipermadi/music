@@ -48,14 +48,9 @@ G
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [757](https://ianring.com/musictheory/scales/757) | [Ionyptian](ModeIonyptian.md) | C | C, D, E, F, Gb, Abb, Bbb, C | ![CNaturalIonyptian](ModeCNaturalIonyptian.png) |
-| [1213](https://ianring.com/musictheory/scales/1213) | [Gyrian](ModeGyrian.md) | D | D, E, F, Gb, Abb, Bbb, C, D | ![DNaturalGyrian](ModeDNaturalGyrian.png) |
-| [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | E | E, F, Gb, Abb, Bbb, C, D, E | ![ENaturalZalian](ModeENaturalZalian.png) |
-| [1961](https://ianring.com/musictheory/scales/1961) | [Soptian](ModeSoptian.md) | A | A, B#, C##, D##, E#, F#, G, A | ![ANaturalSoptian](ModeANaturalSoptian.png) |
-| [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | F | F, Gb, Abb, Bbb, C, D, E, F | ![FNaturalStolian](ModeFNaturalStolian.png) |
-| [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | F# | F#, G, A, B#, C##, D##, E#, F# | ![FSharpBylian](ModeFSharpBylian.png) |
-| [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | Gb | Gb, Abb, Bbb, C, D, E, F, Gb | ![GFlatBylian](ModeGFlatBylian.png) |
 | [3749](https://ianring.com/musictheory/scales/3749) | [Zothian](ModeZothian.md) | G | G, A, B#, C##, D##, E#, F#, G | ![GNaturalZothian](ModeGNaturalZothian.png) |
+| [1961](https://ianring.com/musictheory/scales/1961) | [Soptian](ModeSoptian.md) | A | A, B#, C##, D##, E#, F#, G, A | ![ANaturalSoptian](ModeANaturalSoptian.png) |
+| [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | F# | F#, G, A, B#, C##, D##, E#, F# | ![FSharpBylian](ModeFSharpBylian.png) |
 
 ## Chords
 

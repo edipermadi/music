@@ -50,13 +50,11 @@ C#
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | C# | C#, D, D#, F, G, G#, A, B, C# | ![CSharpKaptyllic](ModeCSharpKaptyllic.png) |
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | Db | Db, D, Eb, F, G, Ab, A, B, Db | ![DFlatKaptyllic](ModeDFlatKaptyllic.png) |
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | G | G, G#, A, B, C#, D, D#, F, G | ![GNaturalKaptyllic](ModeGNaturalKaptyllic.png) |
-| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | F | F, G, G#, A, B, C#, D, D#, F | ![FNaturalEpidyllic](ModeFNaturalEpidyllic.png) |
-| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | B | B, C#, D, D#, F, G, G#, A, B | ![BNaturalEpidyllic](ModeBNaturalEpidyllic.png) |
 | [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | D# | D#, F, G, G#, A, B, C#, D, D# | ![DSharpEpotyllic](ModeDSharpEpotyllic.png) |
-| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | Eb | Eb, F, G, Ab, A, B, Db, D, Eb | ![EFlatEpotyllic](ModeEFlatEpotyllic.png) |
+| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | F | F, G, G#, A, B, C#, D, D#, F | ![FNaturalEpidyllic](ModeFNaturalEpidyllic.png) |
+| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | G | G, G#, A, B, C#, D, D#, F, G | ![GNaturalKaptyllic](ModeGNaturalKaptyllic.png) |
 | [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | A | A, B, C#, D, D#, F, G, G#, A | ![ANaturalEpotyllic](ModeANaturalEpotyllic.png) |
+| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | B | B, C#, D, D#, F, G, G#, A, B | ![BNaturalEpidyllic](ModeBNaturalEpidyllic.png) |
 
 ## Chords
 

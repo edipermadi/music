@@ -47,14 +47,9 @@ Bb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [603](https://ianring.com/musictheory/scales/603) | [Aeolygimic](ModeAeolygimic.md) | A# | A#, B, C#, D, E, F##, A# | ![ASharpAeolygimic](ModeASharpAeolygimic.png) |
 | [603](https://ianring.com/musictheory/scales/603) | [Aeolygimic](ModeAeolygimic.md) | Bb | Bb, Cb, Db, Ebb, Fb, G, Bb | ![BFlatAeolygimic](ModeBFlatAeolygimic.png) |
-| [729](https://ianring.com/musictheory/scales/729) | [Stygimic](ModeStygimic.md) | G | G, A#, B, C#, D, E, G | ![GNaturalStygimic](ModeGNaturalStygimic.png) |
-| [1611](https://ianring.com/musictheory/scales/1611) | [Dacrimic](ModeDacrimic.md) | C# | C#, D, E, F##, G###, A##, C# | ![CSharpDacrimic](ModeCSharpDacrimic.png) |
 | [1611](https://ianring.com/musictheory/scales/1611) | [Dacrimic](ModeDacrimic.md) | Db | Db, Ebb, Fb, G, A#, B, Db | ![DFlatDacrimic](ModeDFlatDacrimic.png) |
-| [1737](https://ianring.com/musictheory/scales/1737) | [Thalimic](ModeThalimic.md) | E | E, F##, G###, A##, B##, C##, E | ![ENaturalThalimic](ModeENaturalThalimic.png) |
-| [2349](https://ianring.com/musictheory/scales/2349) | [Aerogimic](ModeAerogimic.md) | B | B, C#, D, E, F##, G###, B | ![BNaturalAerogimic](ModeBNaturalAerogimic.png) |
-| [2853](https://ianring.com/musictheory/scales/2853) | [Baptimic](ModeBaptimic.md) | D | D, E, F##, G###, A##, B##, D | ![DNaturalBaptimic](ModeDNaturalBaptimic.png) |
+| [729](https://ianring.com/musictheory/scales/729) | [Stygimic](ModeStygimic.md) | G | G, A#, B, C#, D, E, G | ![GNaturalStygimic](ModeGNaturalStygimic.png) |
 
 ## Chords
 

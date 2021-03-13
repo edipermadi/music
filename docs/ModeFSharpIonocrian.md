@@ -48,16 +48,12 @@ F#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [823](https://ianring.com/musictheory/scales/823) | [Stodian](ModeStodian.md) | F | F, Gb, Abb, Bbb, Cbb, Db, Ebb, F | ![FNaturalStodian](ModeFNaturalStodian.png) |
-| [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | C# | C#, D, E#, F#, G, A, Bb, C# | ![CSharpRalian](ModeCSharpRalian.png) |
-| [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | Db | Db, Ebb, F, Gb, Abb, Bbb, Cbb, Db | ![DFlatRalian](ModeDFlatRalian.png) |
-| [1843](https://ianring.com/musictheory/scales/1843) | [Ionygian](ModeIonygian.md) | A | A, Bb, C#, D, E#, F#, G, A | ![ANaturalIonygian](ModeANaturalIonygian.png) |
 | [2459](https://ianring.com/musictheory/scales/2459) | [Ionocrian](ModeIonocrian.md) | F# | F#, G, A, Bb, C#, D, E#, F# | ![FSharpIonocrian](ModeFSharpIonocrian.png) |
-| [2459](https://ianring.com/musictheory/scales/2459) | [Ionocrian](ModeIonocrian.md) | Gb | Gb, Abb, Bbb, Cbb, Db, Ebb, F, Gb | ![GFlatIonocrian](ModeGFlatIonocrian.png) |
-| [2489](https://ianring.com/musictheory/scales/2489) | [Syrian](ModeSyrian.md) | D | D, E#, F#, G, A, Bb, C#, D | ![DNaturalSyrian](ModeDNaturalSyrian.png) |
-| [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeTholian.md) | A# | A#, B##, C##, D###, E##, F##, G##, A# | ![ASharpTholian](ModeASharpTholian.png) |
-| [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeTholian.md) | Bb | Bb, C#, D, E#, F#, G, A, Bb | ![BFlatTholian](ModeBFlatTholian.png) |
 | [3277](https://ianring.com/musictheory/scales/3277) | [Zycrian](ModeZycrian.md) | G | G, A, Bb, C#, D, E#, F#, G | ![GNaturalZycrian](ModeGNaturalZycrian.png) |
+| [1843](https://ianring.com/musictheory/scales/1843) | [Ionygian](ModeIonygian.md) | A | A, Bb, C#, D, E#, F#, G, A | ![ANaturalIonygian](ModeANaturalIonygian.png) |
+| [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeTholian.md) | Bb | Bb, C#, D, E#, F#, G, A, Bb | ![BFlatTholian](ModeBFlatTholian.png) |
+| [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | C# | C#, D, E#, F#, G, A, Bb, C# | ![CSharpRalian](ModeCSharpRalian.png) |
+| [2489](https://ianring.com/musictheory/scales/2489) | [Syrian](ModeSyrian.md) | D | D, E#, F#, G, A, Bb, C#, D | ![DNaturalSyrian](ModeDNaturalSyrian.png) |
 
 ## Chords
 

@@ -46,14 +46,11 @@ C#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [345](https://ianring.com/musictheory/scales/345) | [Gylitonic](ModeGylitonic.md) | A# | A#, C#, D, E, F#, A# | ![ASharpGylitonic](ModeASharpGylitonic.png) |
-| [345](https://ianring.com/musictheory/scales/345) | [Gylitonic](ModeGylitonic.md) | Bb | Bb, Db, D, E, Gb, Bb | ![BFlatGylitonic](ModeBFlatGylitonic.png) |
 | [555](https://ianring.com/musictheory/scales/555) | [Aeolycritonic](ModeAeolycritonic.md) | C# | C#, D, E, F#, A#, C# | ![CSharpAeolycritonic](ModeCSharpAeolycritonic.png) |
-| [555](https://ianring.com/musictheory/scales/555) | [Aeolycritonic](ModeAeolycritonic.md) | Db | Db, D, E, Gb, Bb, Db | ![DFlatAeolycritonic](ModeDFlatAeolycritonic.png) |
-| [1425](https://ianring.com/musictheory/scales/1425) | [Ryphitonic](ModeRyphitonic.md) | F# | F#, A#, C#, D, E, F# | ![FSharpRyphitonic](ModeFSharpRyphitonic.png) |
-| [1425](https://ianring.com/musictheory/scales/1425) | [Ryphitonic](ModeRyphitonic.md) | Gb | Gb, Bb, Db, D, E, Gb | ![GFlatRyphitonic](ModeGFlatRyphitonic.png) |
-| [1605](https://ianring.com/musictheory/scales/1605) | [Zanitonic](ModeZanitonic.md) | E | E, F#, A#, C#, D, E | ![ENaturalZanitonic](ModeENaturalZanitonic.png) |
 | [2325](https://ianring.com/musictheory/scales/2325) | [Pynitonic](ModePynitonic.md) | D | D, E, F#, A#, C#, D | ![DNaturalPynitonic](ModeDNaturalPynitonic.png) |
+| [1605](https://ianring.com/musictheory/scales/1605) | [Zanitonic](ModeZanitonic.md) | E | E, F#, A#, C#, D, E | ![ENaturalZanitonic](ModeENaturalZanitonic.png) |
+| [1425](https://ianring.com/musictheory/scales/1425) | [Ryphitonic](ModeRyphitonic.md) | F# | F#, A#, C#, D, E, F# | ![FSharpRyphitonic](ModeFSharpRyphitonic.png) |
+| [345](https://ianring.com/musictheory/scales/345) | [Gylitonic](ModeGylitonic.md) | A# | A#, C#, D, E, F#, A# | ![ASharpGylitonic](ModeASharpGylitonic.png) |
 
 ## Chords
 

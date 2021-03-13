@@ -49,16 +49,14 @@ C#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
+| [3915](https://ianring.com/musictheory/scales/3915) | [Gogyllic](ModeGogyllic.md) | C# | C#, D, E, G, A, A#, B, C, C# | ![CSharpGogyllic](ModeCSharpGogyllic.png) |
+| [4005](https://ianring.com/musictheory/scales/4005) | [Phradyllic](ModePhradyllic.md) | D | D, E, G, A, A#, B, C, C#, D | ![DNaturalPhradyllic](ModeDNaturalPhradyllic.png) |
+| [2025](https://ianring.com/musictheory/scales/2025) | [Mixolydyllic](ModeMixolydyllic.md) | E | E, G, A, A#, B, C, C#, D, E | ![ENaturalMixolydyllic](ModeENaturalMixolydyllic.png) |
 | [765](https://ianring.com/musictheory/scales/765) | [Mixonyphyllic](ModeMixonyphyllic.md) | G | G, A, A#, B, C, C#, D, E, G | ![GNaturalMixonyphyllic](ModeGNaturalMixonyphyllic.png) |
 | [1215](https://ianring.com/musictheory/scales/1215) | [Aeolanyllic](ModeAeolanyllic.md) | A | A, A#, B, C, C#, D, E, G, A | ![ANaturalAeolanyllic](ModeANaturalAeolanyllic.png) |
-| [2025](https://ianring.com/musictheory/scales/2025) | [Mixolydyllic](ModeMixolydyllic.md) | E | E, G, A, A#, B, C, C#, D, E | ![ENaturalMixolydyllic](ModeENaturalMixolydyllic.png) |
 | [2655](https://ianring.com/musictheory/scales/2655) | [Thocryllic](ModeThocryllic.md) | A# | A#, B, C, C#, D, E, G, A, A# | ![ASharpThocryllic](ModeASharpThocryllic.png) |
-| [2655](https://ianring.com/musictheory/scales/2655) | [Thocryllic](ModeThocryllic.md) | Bb | Bb, B, C, Db, D, E, G, A, Bb | ![BFlatThocryllic](ModeBFlatThocryllic.png) |
 | [3375](https://ianring.com/musictheory/scales/3375) | [Kygyllic](ModeKygyllic.md) | B | B, C, C#, D, E, G, A, A#, B | ![BNaturalKygyllic](ModeBNaturalKygyllic.png) |
 | [3735](https://ianring.com/musictheory/scales/3735) | [Ionagyllic](ModeIonagyllic.md) | C | C, C#, D, E, G, A, A#, B, C | ![CNaturalIonagyllic](ModeCNaturalIonagyllic.png) |
-| [3915](https://ianring.com/musictheory/scales/3915) | [Gogyllic](ModeGogyllic.md) | C# | C#, D, E, G, A, A#, B, C, C# | ![CSharpGogyllic](ModeCSharpGogyllic.png) |
-| [3915](https://ianring.com/musictheory/scales/3915) | [Gogyllic](ModeGogyllic.md) | Db | Db, D, E, G, A, Bb, B, C, Db | ![DFlatGogyllic](ModeDFlatGogyllic.png) |
-| [4005](https://ianring.com/musictheory/scales/4005) | [Phradyllic](ModePhradyllic.md) | D | D, E, G, A, A#, B, C, C#, D | ![DNaturalPhradyllic](ModeDNaturalPhradyllic.png) |
 
 ## Chords
 

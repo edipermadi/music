@@ -47,12 +47,7 @@ D
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeLonimic.md) | F | F, G, A, B, C, D, F | ![FNaturalLonimic](ModeFNaturalLonimic.png) |
-| [1205](https://ianring.com/musictheory/scales/1205) | [Ionycrimic](ModeIonycrimic.md) | G | G, A, B, C, D, E#, G | ![GNaturalIonycrimic](ModeGNaturalIonycrimic.png) |
-| [1325](https://ianring.com/musictheory/scales/1325) | [Phradimic](ModePhradimic.md) | A | A, B, C, D, E#, F##, A | ![ANaturalPhradimic](ModeANaturalPhradimic.png) |
-| [1355](https://ianring.com/musictheory/scales/1355) | [Aeolorimic](ModeAeolorimic.md) | B | B, C, D, E#, F##, G##, B | ![BNaturalAeolorimic](ModeBNaturalAeolorimic.png) |
 | [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeDarmic.md) | D | D, E#, F##, G##, A##, B#, D | ![DNaturalDarmic](ModeDNaturalDarmic.png) |
-| [2725](https://ianring.com/musictheory/scales/2725) | [Gonimic](ModeGonimic.md) | C | C, D, E#, F##, G##, A##, C | ![CNaturalGonimic](ModeCNaturalGonimic.png) |
 
 ## Chords
 

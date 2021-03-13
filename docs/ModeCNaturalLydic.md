@@ -45,12 +45,10 @@ C
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | A# | A#, C, D, F#, A# | ![ASharpMixolyric](ModeASharpMixolyric.png) |
-| [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | Bb | Bb, C, D, Gb, Bb | ![BFlatMixolyric](ModeBFlatMixolyric.png) |
-| [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | F# | F#, A#, C, D, F# | ![FSharpKoptic](ModeFSharpKoptic.png) |
-| [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | Gb | Gb, Bb, C, D, Gb | ![GFlatKoptic](ModeGFlatKoptic.png) |
 | [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | C | C, D, F#, A#, C | ![CNaturalLydic](ModeCNaturalLydic.png) |
 | [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | D | D, F#, A#, C, D | ![DNaturalAeolic](ModeDNaturalAeolic.png) |
+| [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | F# | F#, A#, C, D, F# | ![FSharpKoptic](ModeFSharpKoptic.png) |
+| [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | A# | A#, C, D, F#, A# | ![ASharpMixolyric](ModeASharpMixolyric.png) |
 
 ## Chords
 

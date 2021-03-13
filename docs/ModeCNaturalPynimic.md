@@ -47,14 +47,10 @@ C
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [335](https://ianring.com/musictheory/scales/335) | [Zanimic](ModeZanimic.md) | E | E, F, Gb, Abb, Bb, C, E | ![ENaturalZanimic](ModeENaturalZanimic.png) |
-| [965](https://ianring.com/musictheory/scales/965) | [Ionothimic](ModeIonothimic.md) | A# | A#, B#, D##, E#, F#, G, A# | ![ASharpIonothimic](ModeASharpIonothimic.png) |
-| [965](https://ianring.com/musictheory/scales/965) | [Ionothimic](ModeIonothimic.md) | Bb | Bb, C, D##, E#, F#, G, Bb | ![BFlatIonothimic](ModeBFlatIonothimic.png) |
 | [1265](https://ianring.com/musictheory/scales/1265) | [Pynimic](ModePynimic.md) | C | C, D##, E#, F#, G, A#, C | ![CNaturalPynimic](ModeCNaturalPynimic.png) |
-| [2215](https://ianring.com/musictheory/scales/2215) | [Ranimic](ModeRanimic.md) | F | F, Gb, Abb, Bb, C, D##, F | ![FNaturalRanimic](ModeFNaturalRanimic.png) |
 | [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeLadimic.md) | F# | F#, G, A#, B#, D##, E#, F# | ![FSharpLadimic](ModeFSharpLadimic.png) |
-| [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeLadimic.md) | Gb | Gb, Abb, Bb, C, D##, E#, Gb | ![GFlatLadimic](ModeGFlatLadimic.png) |
 | [3625](https://ianring.com/musictheory/scales/3625) | [Podimic](ModePodimic.md) | G | G, A#, B#, D##, E#, F#, G | ![GNaturalPodimic](ModeGNaturalPodimic.png) |
+| [965](https://ianring.com/musictheory/scales/965) | [Ionothimic](ModeIonothimic.md) | A# | A#, B#, D##, E#, F#, G, A# | ![ASharpIonothimic](ModeASharpIonothimic.png) |
 
 ## Chords
 

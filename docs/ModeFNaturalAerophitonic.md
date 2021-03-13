@@ -46,14 +46,11 @@ F
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [309](https://ianring.com/musictheory/scales/309) | [Palitonic](ModePalitonic.md) | C# | C#, D#, F, F#, A, C# | ![CSharpPalitonic](ModeCSharpPalitonic.png) |
-| [309](https://ianring.com/musictheory/scales/309) | [Palitonic](ModePalitonic.md) | Db | Db, Eb, F, Gb, A, Db | ![DFlatPalitonic](ModeDFlatPalitonic.png) |
-| [849](https://ianring.com/musictheory/scales/849) | [Aerynitonic](ModeAerynitonic.md) | A | A, C#, D#, F, F#, A | ![ANaturalAerynitonic](ModeANaturalAerynitonic.png) |
-| [1101](https://ianring.com/musictheory/scales/1101) | [Stothitonic](ModeStothitonic.md) | D# | D#, F, F#, A, C#, D# | ![DSharpStothitonic](ModeDSharpStothitonic.png) |
-| [1101](https://ianring.com/musictheory/scales/1101) | [Stothitonic](ModeStothitonic.md) | Eb | Eb, F, Gb, A, Db, Eb | ![EFlatStothitonic](ModeEFlatStothitonic.png) |
 | [1299](https://ianring.com/musictheory/scales/1299) | [Aerophitonic](ModeAerophitonic.md) | F | F, F#, A, C#, D#, F | ![FNaturalAerophitonic](ModeFNaturalAerophitonic.png) |
 | [2697](https://ianring.com/musictheory/scales/2697) | [Katagitonic](ModeKatagitonic.md) | F# | F#, A, C#, D#, F, F# | ![FSharpKatagitonic](ModeFSharpKatagitonic.png) |
-| [2697](https://ianring.com/musictheory/scales/2697) | [Katagitonic](ModeKatagitonic.md) | Gb | Gb, A, Db, Eb, F, Gb | ![GFlatKatagitonic](ModeGFlatKatagitonic.png) |
+| [849](https://ianring.com/musictheory/scales/849) | [Aerynitonic](ModeAerynitonic.md) | A | A, C#, D#, F, F#, A | ![ANaturalAerynitonic](ModeANaturalAerynitonic.png) |
+| [309](https://ianring.com/musictheory/scales/309) | [Palitonic](ModePalitonic.md) | C# | C#, D#, F, F#, A, C# | ![CSharpPalitonic](ModeCSharpPalitonic.png) |
+| [1101](https://ianring.com/musictheory/scales/1101) | [Stothitonic](ModeStothitonic.md) | D# | D#, F, F#, A, C#, D# | ![DSharpStothitonic](ModeDSharpStothitonic.png) |
 
 ## Chords
 

@@ -51,21 +51,16 @@ C#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [1983](https://ianring.com/musictheory/scales/1983) | [Soryllian](ModeSoryllian.md) | D# | D#, E, F, F#, G, G#, A#, B, C, C#, D# | ![DSharpSoryllian](ModeDSharpSoryllian.png) |
-| [1983](https://ianring.com/musictheory/scales/1983) | [Soryllian](ModeSoryllian.md) | Eb | Eb, E, F, Gb, G, Ab, Bb, B, C, Db, Eb | ![EFlatSoryllian](ModeEFlatSoryllian.png) |
-| [2031](https://ianring.com/musictheory/scales/2031) | [Gadyllian](ModeGadyllian.md) | A# | A#, B, C, C#, D#, E, F, F#, G, G#, A# | ![ASharpGadyllian](ModeASharpGadyllian.png) |
-| [2031](https://ianring.com/musictheory/scales/2031) | [Gadyllian](ModeGadyllian.md) | Bb | Bb, B, C, Db, Eb, E, F, Gb, G, Ab, Bb | ![BFlatGadyllian](ModeBFlatGadyllian.png) |
-| [3039](https://ianring.com/musictheory/scales/3039) | [Godyllian](ModeGodyllian.md) | E | E, F, F#, G, G#, A#, B, C, C#, D#, E | ![ENaturalGodyllian](ModeENaturalGodyllian.png) |
-| [3063](https://ianring.com/musictheory/scales/3063) | [Solyllian](ModeSolyllian.md) | B | B, C, C#, D#, E, F, F#, G, G#, A#, B | ![BNaturalSolyllian](ModeBNaturalSolyllian.png) |
-| [3567](https://ianring.com/musictheory/scales/3567) | [Epityllian](ModeEpityllian.md) | F | F, F#, G, G#, A#, B, C, C#, D#, E, F | ![FNaturalEpityllian](ModeFNaturalEpityllian.png) |
-| [3579](https://ianring.com/musictheory/scales/3579) | [Zyphyllian](ModeZyphyllian.md) | C | C, C#, D#, E, F, F#, G, G#, A#, B, C | ![CNaturalZyphyllian](ModeCNaturalZyphyllian.png) |
-| [3831](https://ianring.com/musictheory/scales/3831) | [Ionyllian](ModeIonyllian.md) | F# | F#, G, G#, A#, B, C, C#, D#, E, F, F# | ![FSharpIonyllian](ModeFSharpIonyllian.png) |
-| [3831](https://ianring.com/musictheory/scales/3831) | [Ionyllian](ModeIonyllian.md) | Gb | Gb, G, Ab, Bb, B, C, Db, Eb, E, F, Gb | ![GFlatIonyllian](ModeGFlatIonyllian.png) |
 | [3837](https://ianring.com/musictheory/scales/3837) | [Garyllian](ModeGaryllian.md) | C# | C#, D#, E, F, F#, G, G#, A#, B, C, C# | ![CSharpGaryllian](ModeCSharpGaryllian.png) |
-| [3837](https://ianring.com/musictheory/scales/3837) | [Garyllian](ModeGaryllian.md) | Db | Db, Eb, E, F, Gb, G, Ab, Bb, B, C, Db | ![DFlatGaryllian](ModeDFlatGaryllian.png) |
+| [1983](https://ianring.com/musictheory/scales/1983) | [Soryllian](ModeSoryllian.md) | D# | D#, E, F, F#, G, G#, A#, B, C, C#, D# | ![DSharpSoryllian](ModeDSharpSoryllian.png) |
+| [3039](https://ianring.com/musictheory/scales/3039) | [Godyllian](ModeGodyllian.md) | E | E, F, F#, G, G#, A#, B, C, C#, D#, E | ![ENaturalGodyllian](ModeENaturalGodyllian.png) |
+| [3567](https://ianring.com/musictheory/scales/3567) | [Epityllian](ModeEpityllian.md) | F | F, F#, G, G#, A#, B, C, C#, D#, E, F | ![FNaturalEpityllian](ModeFNaturalEpityllian.png) |
+| [3831](https://ianring.com/musictheory/scales/3831) | [Ionyllian](ModeIonyllian.md) | F# | F#, G, G#, A#, B, C, C#, D#, E, F, F# | ![FSharpIonyllian](ModeFSharpIonyllian.png) |
 | [3963](https://ianring.com/musictheory/scales/3963) | [Aeoryllian](ModeAeoryllian.md) | G | G, G#, A#, B, C, C#, D#, E, F, F#, G | ![GNaturalAeoryllian](ModeGNaturalAeoryllian.png) |
 | [4029](https://ianring.com/musictheory/scales/4029) | [Aerycryllian](ModeAerycryllian.md) | G# | G#, A#, B, C, C#, D#, E, F, F#, G, G# | ![GSharpAerycryllian](ModeGSharpAerycryllian.png) |
-| [4029](https://ianring.com/musictheory/scales/4029) | [Aerycryllian](ModeAerycryllian.md) | Ab | Ab, Bb, B, C, Db, Eb, E, F, Gb, G, Ab | ![AFlatAerycryllian](ModeAFlatAerycryllian.png) |
+| [2031](https://ianring.com/musictheory/scales/2031) | [Gadyllian](ModeGadyllian.md) | A# | A#, B, C, C#, D#, E, F, F#, G, G#, A# | ![ASharpGadyllian](ModeASharpGadyllian.png) |
+| [3063](https://ianring.com/musictheory/scales/3063) | [Solyllian](ModeSolyllian.md) | B | B, C, C#, D#, E, F, F#, G, G#, A#, B | ![BNaturalSolyllian](ModeBNaturalSolyllian.png) |
+| [3579](https://ianring.com/musictheory/scales/3579) | [Zyphyllian](ModeZyphyllian.md) | C | C, C#, D#, E, F, F#, G, G#, A#, B, C | ![CNaturalZyphyllian](ModeCNaturalZyphyllian.png) |
 
 ## Chords
 

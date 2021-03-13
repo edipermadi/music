@@ -47,10 +47,10 @@ B
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | B | B, C, D, F, G, B | ![BNaturalByptitonic](ModeBNaturalByptitonic.png) |
+| [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | C | C, D, F, G, B, C | ![CNaturalDaritonic](ModeCNaturalDaritonic.png) |
+| [1577](https://ianring.com/musictheory/scales/1577) | [Lonitonic](ModeLonitonic.md) | D | D, F, G, B, C, D | ![DNaturalLonitonic](ModeDNaturalLonitonic.png) |
 | [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | F | F, G, B, C, D, F | ![FNaturalIonycritonic](ModeFNaturalIonycritonic.png) |
 | [1201](https://ianring.com/musictheory/scales/1201) | [Aeracritonic](ModeAeracritonic.md) | G | G, B, C, D, F, G | ![GNaturalAeracritonic](ModeGNaturalAeracritonic.png) |
-| [1577](https://ianring.com/musictheory/scales/1577) | [Lonitonic](ModeLonitonic.md) | D | D, F, G, B, C, D | ![DNaturalLonitonic](ModeDNaturalLonitonic.png) |
-| [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | C | C, D, F, G, B, C | ![CNaturalDaritonic](ModeCNaturalDaritonic.png) |
 
 ## Chords
 

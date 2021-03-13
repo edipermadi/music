@@ -48,16 +48,8 @@ Gb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [463](https://ianring.com/musictheory/scales/463) | [Zythian](ModeZythian.md) | F | F, Gb, Abb, Bbbb, Cb, Dbb, Ebbb, F | ![FNaturalZythian](ModeFNaturalZythian.png) |
-| [967](https://ianring.com/musictheory/scales/967) | [Aeolanian](ModeAeolanian.md) | B | B, C, Db, E#, F#, G, Ab, B | ![BNaturalAeolanian](ModeBNaturalAeolanian.png) |
-| [2279](https://ianring.com/musictheory/scales/2279) | [Dyrian](ModeDyrian.md) | F# | F#, G, Ab, B, C, Db, E#, F# | ![FSharpDyrian](ModeFSharpDyrian.png) |
 | [2279](https://ianring.com/musictheory/scales/2279) | [Dyrian](ModeDyrian.md) | Gb | Gb, Abb, Bbbb, Cb, Dbb, Ebbb, F, Gb | ![GFlatDyrian](ModeGFlatDyrian.png) |
-| [2531](https://ianring.com/musictheory/scales/2531) | [Danian](ModeDanian.md) | C | C, Db, E#, F#, G, Ab, B, C | ![CNaturalDanian](ModeCNaturalDanian.png) |
-| [3187](https://ianring.com/musictheory/scales/3187) | [Koptian](ModeKoptian.md) | G | G, Ab, B, C, Db, E#, F#, G | ![GNaturalKoptian](ModeGNaturalKoptian.png) |
-| [3313](https://ianring.com/musictheory/scales/3313) | [Aeolacrian](ModeAeolacrian.md) | C# | C#, D###, E##, F##, G#, A##, B#, C# | ![CSharpAeolacrian](ModeCSharpAeolacrian.png) |
-| [3313](https://ianring.com/musictheory/scales/3313) | [Aeolacrian](ModeAeolacrian.md) | Db | Db, E#, F#, G, Ab, B, C, Db | ![DFlatAeolacrian](ModeDFlatAeolacrian.png) |
-| [3641](https://ianring.com/musictheory/scales/3641) | [Thocrian](ModeThocrian.md) | G# | G#, A##, B#, C#, D###, E##, F##, G# | ![GSharpThocrian](ModeGSharpThocrian.png) |
-| [3641](https://ianring.com/musictheory/scales/3641) | [Thocrian](ModeThocrian.md) | Ab | Ab, B, C, Db, E#, F#, G, Ab | ![AFlatThocrian](ModeAFlatThocrian.png) |
+| [463](https://ianring.com/musictheory/scales/463) | [Zythian](ModeZythian.md) | F | F, Gb, Abb, Bbbb, Cb, Dbb, Ebbb, F | ![FNaturalZythian](ModeFNaturalZythian.png) |
 
 ## Chords
 

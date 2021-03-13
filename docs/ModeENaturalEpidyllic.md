@@ -49,15 +49,12 @@ E
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | C | C, C#, D, E, F#, G, G#, A#, C | ![CNaturalKaptyllic](ModeCNaturalKaptyllic.png) |
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | F# | F#, G, G#, A#, C, C#, D, E, F# | ![FSharpKaptyllic](ModeFSharpKaptyllic.png) |
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | Gb | Gb, G, Ab, Bb, C, Db, D, E, Gb | ![GFlatKaptyllic](ModeGFlatKaptyllic.png) |
 | [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | E | E, F#, G, G#, A#, C, C#, D, E | ![ENaturalEpidyllic](ModeENaturalEpidyllic.png) |
-| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | A# | A#, C, C#, D, E, F#, G, G#, A# | ![ASharpEpidyllic](ModeASharpEpidyllic.png) |
-| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | Bb | Bb, C, Db, D, E, Gb, G, Ab, Bb | ![BFlatEpidyllic](ModeBFlatEpidyllic.png) |
-| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | D | D, E, F#, G, G#, A#, C, C#, D | ![DNaturalEpotyllic](ModeDNaturalEpotyllic.png) |
+| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | F# | F#, G, G#, A#, C, C#, D, E, F# | ![FSharpKaptyllic](ModeFSharpKaptyllic.png) |
 | [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | G# | G#, A#, C, C#, D, E, F#, G, G# | ![GSharpEpotyllic](ModeGSharpEpotyllic.png) |
-| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | Ab | Ab, Bb, C, Db, D, E, Gb, G, Ab | ![AFlatEpotyllic](ModeAFlatEpotyllic.png) |
+| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | A# | A#, C, C#, D, E, F#, G, G#, A# | ![ASharpEpidyllic](ModeASharpEpidyllic.png) |
+| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | C | C, C#, D, E, F#, G, G#, A#, C | ![CNaturalKaptyllic](ModeCNaturalKaptyllic.png) |
+| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | D | D, E, F#, G, G#, A#, C, C#, D | ![DNaturalEpotyllic](ModeDNaturalEpotyllic.png) |
 
 ## Chords
 

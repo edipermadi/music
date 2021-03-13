@@ -48,16 +48,9 @@ F
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [505](https://ianring.com/musictheory/scales/505) | [Sanian](ModeSanian.md) | D | D, E#, F#, G, Ab, Bbb, Cbb, D | ![DNaturalSanian](ModeDNaturalSanian.png) |
 | [575](https://ianring.com/musictheory/scales/575) | [Ionydian](ModeIonydian.md) | F | F, Gb, Abb, Bbbb, Cbbb, Cbb, D, F | ![FNaturalIonydian](ModeFNaturalIonydian.png) |
-| [2335](https://ianring.com/musictheory/scales/2335) | [Epydian](ModeEpydian.md) | F# | F#, G, Ab, Bbb, Cbb, D, E#, F# | ![FSharpEpydian](ModeFSharpEpydian.png) |
 | [2335](https://ianring.com/musictheory/scales/2335) | [Epydian](ModeEpydian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Cbb, D, E#, Gb | ![GFlatEpydian](ModeGFlatEpydian.png) |
-| [3215](https://ianring.com/musictheory/scales/3215) | [Katydian](ModeKatydian.md) | G | G, Ab, Bbb, Cbb, D, E#, F#, G | ![GNaturalKatydian](ModeGNaturalKatydian.png) |
-| [3655](https://ianring.com/musictheory/scales/3655) | [Mathian](ModeMathian.md) | G# | G#, A, Bb, C##, D###, E##, F##, G# | ![GSharpMathian](ModeGSharpMathian.png) |
-| [3655](https://ianring.com/musictheory/scales/3655) | [Mathian](ModeMathian.md) | Ab | Ab, Bbb, Cbb, D, E#, F#, G, Ab | ![AFlatMathian](ModeAFlatMathian.png) |
-| [3875](https://ianring.com/musictheory/scales/3875) | [Aeryptian](ModeAeryptian.md) | A | A, Bb, C##, D###, E##, F##, G#, A | ![ANaturalAeryptian](ModeANaturalAeryptian.png) |
-| [3985](https://ianring.com/musictheory/scales/3985) | [Thadian](ModeThadian.md) | A# | A#, B###, D###, E##, F##, G#, A, A# | ![ASharpThadian](ModeASharpThadian.png) |
-| [3985](https://ianring.com/musictheory/scales/3985) | [Thadian](ModeThadian.md) | Bb | Bb, C##, D###, E##, F##, G#, A, Bb | ![BFlatThadian](ModeBFlatThadian.png) |
+| [505](https://ianring.com/musictheory/scales/505) | [Sanian](ModeSanian.md) | D | D, E#, F#, G, Ab, Bbb, Cbb, D | ![DNaturalSanian](ModeDNaturalSanian.png) |
 
 ## Chords
 

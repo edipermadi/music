@@ -45,10 +45,9 @@ G
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | D | D, E, G, A#, D | ![DNaturalZoptic](ModeDNaturalZoptic.png) |
-| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | A# | A#, D, E, G, A# | ![ASharpSaric](ModeASharpSaric.png) |
-| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | Bb | Bb, D, E, G, Bb | ![BFlatSaric](ModeBFlatSaric.png) |
 | [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | G | G, A#, D, E, G | ![GNaturalByptic](ModeGNaturalByptic.png) |
+| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | A# | A#, D, E, G, A# | ![ASharpSaric](ModeASharpSaric.png) |
+| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | D | D, E, G, A#, D | ![DNaturalZoptic](ModeDNaturalZoptic.png) |
 | [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | E | E, G, A#, D, E | ![ENaturalAeraphic](ModeENaturalAeraphic.png) |
 
 ## Chords

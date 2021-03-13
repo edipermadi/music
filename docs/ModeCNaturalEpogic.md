@@ -45,11 +45,10 @@ C
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | E | E, G, G#, C, E | ![ENaturalLanic](ModeENaturalLanic.png) |
 | [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | C | C, E, G, G#, C | ![CNaturalEpogic](ModeCNaturalEpogic.png) |
+| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | E | E, G, G#, C, E | ![ENaturalLanic](ModeENaturalLanic.png) |
 | [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | G | G, G#, C, E, G | ![GNaturalPyrric](ModeGNaturalPyrric.png) |
 | [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | G# | G#, C, E, G, G# | ![GSharpZyphic](ModeGSharpZyphic.png) |
-| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | Ab | Ab, C, E, G, Ab | ![AFlatZyphic](ModeAFlatZyphic.png) |
 
 ## Chords
 

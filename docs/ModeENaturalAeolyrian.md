@@ -49,13 +49,10 @@ E
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [491](https://ianring.com/musictheory/scales/491) | [Aeolyrian](ModeAeolyrian.md) | E | E, F, G, A, Bb, Cb, Dbb, E | ![ENaturalAeolyrian](ModeENaturalAeolyrian.png) |
-| [1423](https://ianring.com/musictheory/scales/1423) | [Doptian](ModeDoptian.md) | A | A, Bb, Cb, Dbb, E, F, G, A | ![ANaturalDoptian](ModeANaturalDoptian.png) |
-| [1597](https://ianring.com/musictheory/scales/1597) | [Aeolodian](ModeAeolodian.md) | G | G, A, Bb, Cb, Dbb, E, F, G | ![GNaturalAeolodian](ModeGNaturalAeolodian.png) |
 | [2293](https://ianring.com/musictheory/scales/2293) | [Gorian](ModeGorian.md) | F | F, G, A, Bb, Cb, Dbb, E, F | ![FNaturalGorian](ModeFNaturalGorian.png) |
-| [2759](https://ianring.com/musictheory/scales/2759) | [Aeraphian](ModeAeraphian.md) | A# | A#, B, C, D##, E#, F##, G##, A# | ![ASharpAeraphian](ModeASharpAeraphian.png) |
+| [1597](https://ianring.com/musictheory/scales/1597) | [Aeolodian](ModeAeolodian.md) | G | G, A, Bb, Cb, Dbb, E, F, G | ![GNaturalAeolodian](ModeGNaturalAeolodian.png) |
+| [1423](https://ianring.com/musictheory/scales/1423) | [Doptian](ModeDoptian.md) | A | A, Bb, Cb, Dbb, E, F, G, A | ![ANaturalDoptian](ModeANaturalDoptian.png) |
 | [2759](https://ianring.com/musictheory/scales/2759) | [Aeraphian](ModeAeraphian.md) | Bb | Bb, Cb, Dbb, E, F, G, A, Bb | ![BFlatAeraphian](ModeBFlatAeraphian.png) |
-| [3427](https://ianring.com/musictheory/scales/3427) | [Zacrian](ModeZacrian.md) | B | B, C, D##, E#, F##, G##, A#, B | ![BNaturalZacrian](ModeBNaturalZacrian.png) |
-| [3761](https://ianring.com/musictheory/scales/3761) | [Ionythian](ModeIonythian.md) | C | C, D##, E#, F##, G##, A#, B, C | ![CNaturalIonythian](ModeCNaturalIonythian.png) |
 
 ## Chords
 

@@ -49,18 +49,14 @@ Eb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [1005](https://ianring.com/musictheory/scales/1005) | [Radyllic](ModeRadyllic.md) | G# | G#, A#, B, C#, D, D#, E, F, G# | ![GSharpRadyllic](ModeGSharpRadyllic.png) |
-| [1005](https://ianring.com/musictheory/scales/1005) | [Radyllic](ModeRadyllic.md) | Ab | Ab, Bb, B, Db, D, Eb, E, F, Ab | ![AFlatRadyllic](ModeAFlatRadyllic.png) |
-| [1275](https://ianring.com/musictheory/scales/1275) | [Stagyllic](ModeStagyllic.md) | A# | A#, B, C#, D, D#, E, F, G#, A# | ![ASharpStagyllic](ModeASharpStagyllic.png) |
-| [1275](https://ianring.com/musictheory/scales/1275) | [Stagyllic](ModeStagyllic.md) | Bb | Bb, B, Db, D, Eb, E, F, Ab, Bb | ![BFlatStagyllic](ModeBFlatStagyllic.png) |
-| [1695](https://ianring.com/musictheory/scales/1695) | [Phrodyllic](ModePhrodyllic.md) | C# | C#, D, D#, E, F, G#, A#, B, C# | ![CSharpPhrodyllic](ModeCSharpPhrodyllic.png) |
-| [1695](https://ianring.com/musictheory/scales/1695) | [Phrodyllic](ModePhrodyllic.md) | Db | Db, D, Eb, E, F, Ab, Bb, B, Db | ![DFlatPhrodyllic](ModeDFlatPhrodyllic.png) |
-| [2685](https://ianring.com/musictheory/scales/2685) | [Ionoryllic](ModeIonoryllic.md) | B | B, C#, D, D#, E, F, G#, A#, B | ![BNaturalIonoryllic](ModeBNaturalIonoryllic.png) |
-| [2895](https://ianring.com/musictheory/scales/2895) | [Aeragyllic](ModeAeragyllic.md) | D | D, D#, E, F, G#, A#, B, C#, D | ![DNaturalAeragyllic](ModeDNaturalAeragyllic.png) |
-| [3495](https://ianring.com/musictheory/scales/3495) | [Banyllic](ModeBanyllic.md) | D# | D#, E, F, G#, A#, B, C#, D, D# | ![DSharpBanyllic](ModeDSharpBanyllic.png) |
 | [3495](https://ianring.com/musictheory/scales/3495) | [Banyllic](ModeBanyllic.md) | Eb | Eb, E, F, Ab, Bb, B, Db, D, Eb | ![EFlatBanyllic](ModeEFlatBanyllic.png) |
 | [3795](https://ianring.com/musictheory/scales/3795) | [Epothyllic](ModeEpothyllic.md) | E | E, F, G#, A#, B, C#, D, D#, E | ![ENaturalEpothyllic](ModeENaturalEpothyllic.png) |
 | [3945](https://ianring.com/musictheory/scales/3945) | [Lydyllic](ModeLydyllic.md) | F | F, G#, A#, B, C#, D, D#, E, F | ![FNaturalLydyllic](ModeFNaturalLydyllic.png) |
+| [1005](https://ianring.com/musictheory/scales/1005) | [Radyllic](ModeRadyllic.md) | Ab | Ab, Bb, B, Db, D, Eb, E, F, Ab | ![AFlatRadyllic](ModeAFlatRadyllic.png) |
+| [1275](https://ianring.com/musictheory/scales/1275) | [Stagyllic](ModeStagyllic.md) | Bb | Bb, B, Db, D, Eb, E, F, Ab, Bb | ![BFlatStagyllic](ModeBFlatStagyllic.png) |
+| [2685](https://ianring.com/musictheory/scales/2685) | [Ionoryllic](ModeIonoryllic.md) | B | B, C#, D, D#, E, F, G#, A#, B | ![BNaturalIonoryllic](ModeBNaturalIonoryllic.png) |
+| [1695](https://ianring.com/musictheory/scales/1695) | [Phrodyllic](ModePhrodyllic.md) | Db | Db, D, Eb, E, F, Ab, Bb, B, Db | ![DFlatPhrodyllic](ModeDFlatPhrodyllic.png) |
+| [2895](https://ianring.com/musictheory/scales/2895) | [Aeragyllic](ModeAeragyllic.md) | D | D, D#, E, F, G#, A#, B, C#, D | ![DNaturalAeragyllic](ModeDNaturalAeragyllic.png) |
 
 ## Chords
 

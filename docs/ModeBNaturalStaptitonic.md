@@ -50,7 +50,6 @@ B
 | [569](https://ianring.com/musictheory/scales/569) | [Mothitonic](ModeMothitonic.md) | D | D, F, F#, G, B, D | ![DNaturalMothitonic](ModeDNaturalMothitonic.png) |
 | [583](https://ianring.com/musictheory/scales/583) | [Aeritonic](ModeAeritonic.md) | F | F, F#, G, B, D, F | ![FNaturalAeritonic](ModeFNaturalAeritonic.png) |
 | [2339](https://ianring.com/musictheory/scales/2339) | [Ragitonic](ModeRagitonic.md) | F# | F#, G, B, D, F, F# | ![FSharpRagitonic](ModeFSharpRagitonic.png) |
-| [2339](https://ianring.com/musictheory/scales/2339) | [Ragitonic](ModeRagitonic.md) | Gb | Gb, G, B, D, F, Gb | ![GFlatRagitonic](ModeGFlatRagitonic.png) |
 | [3217](https://ianring.com/musictheory/scales/3217) | [Molitonic](ModeMolitonic.md) | G | G, B, D, F, F#, G | ![GNaturalMolitonic](ModeGNaturalMolitonic.png) |
 
 ## Chords

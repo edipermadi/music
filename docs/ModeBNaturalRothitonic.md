@@ -46,13 +46,11 @@ B
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [595](https://ianring.com/musictheory/scales/595) | [Sogitonic](ModeSogitonic.md) | G | G, G#, B, C#, E, G | ![GNaturalSogitonic](ModeGNaturalSogitonic.png) |
-| [665](https://ianring.com/musictheory/scales/665) | [Mythitonic](ModeMythitonic.md) | E | E, G, G#, B, C#, E | ![ENaturalMythitonic](ModeENaturalMythitonic.png) |
 | [805](https://ianring.com/musictheory/scales/805) | [Rothitonic](ModeRothitonic.md) | B | B, C#, E, G, G#, B | ![BNaturalRothitonic](ModeBNaturalRothitonic.png) |
 | [1225](https://ianring.com/musictheory/scales/1225) | [Lyditonic](ModeLyditonic.md) | C# | C#, E, G, G#, B, C# | ![CSharpLyditonic](ModeCSharpLyditonic.png) |
-| [1225](https://ianring.com/musictheory/scales/1225) | [Lyditonic](ModeLyditonic.md) | Db | Db, E, G, Ab, B, Db | ![DFlatLyditonic](ModeDFlatLyditonic.png) |
+| [665](https://ianring.com/musictheory/scales/665) | [Mythitonic](ModeMythitonic.md) | E | E, G, G#, B, C#, E | ![ENaturalMythitonic](ModeENaturalMythitonic.png) |
+| [595](https://ianring.com/musictheory/scales/595) | [Sogitonic](ModeSogitonic.md) | G | G, G#, B, C#, E, G | ![GNaturalSogitonic](ModeGNaturalSogitonic.png) |
 | [2345](https://ianring.com/musictheory/scales/2345) | [Gothitonic](ModeGothitonic.md) | G# | G#, B, C#, E, G, G# | ![GSharpGothitonic](ModeGSharpGothitonic.png) |
-| [2345](https://ianring.com/musictheory/scales/2345) | [Gothitonic](ModeGothitonic.md) | Ab | Ab, B, Db, E, G, Ab | ![AFlatGothitonic](ModeAFlatGothitonic.png) |
 
 ## Chords
 

@@ -48,14 +48,10 @@ B
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [743](https://ianring.com/musictheory/scales/743) | [Lanian](ModeLanian.md) | D | D, Eb, Fb, G, Ab, Bbb, Cb, D | ![DNaturalLanian](ModeDNaturalLanian.png) |
-| [919](https://ianring.com/musictheory/scales/919) | [Gathian](ModeGathian.md) | G | G, Ab, Bbb, Cb, D, Eb, Fb, G | ![GNaturalGathian](ModeGNaturalGathian.png) |
 | [1849](https://ianring.com/musictheory/scales/1849) | [Epogian](ModeEpogian.md) | B | B, C##, D#, E, F##, G#, A, B | ![BNaturalEpogian](ModeBNaturalEpogian.png) |
 | [2419](https://ianring.com/musictheory/scales/2419) | [Paptian](ModePaptian.md) | D# | D#, E, F##, G#, A, B, C##, D# | ![DSharpPaptian](ModeDSharpPaptian.png) |
-| [2419](https://ianring.com/musictheory/scales/2419) | [Paptian](ModePaptian.md) | Eb | Eb, Fb, G, Ab, Bbb, Cb, D, Eb | ![EFlatPaptian](ModeEFlatPaptian.png) |
-| [2507](https://ianring.com/musictheory/scales/2507) | [Ionyphian](ModeIonyphian.md) | G# | G#, A, B, C##, D#, E, F##, G# | ![GSharpIonyphian](ModeGSharpIonyphian.png) |
-| [2507](https://ianring.com/musictheory/scales/2507) | [Ionyphian](ModeIonyphian.md) | Ab | Ab, Bbb, Cb, D, Eb, Fb, G, Ab | ![AFlatIonyphian](ModeAFlatIonyphian.png) |
 | [3257](https://ianring.com/musictheory/scales/3257) | [Ionacrian](ModeIonacrian.md) | E | E, F##, G#, A, B, C##, D#, E | ![ENaturalIonacrian](ModeENaturalIonacrian.png) |
+| [2507](https://ianring.com/musictheory/scales/2507) | [Ionyphian](ModeIonyphian.md) | G# | G#, A, B, C##, D#, E, F##, G# | ![GSharpIonyphian](ModeGSharpIonyphian.png) |
 | [3301](https://ianring.com/musictheory/scales/3301) | [Phrynian](ModePhrynian.md) | A | A, B, C##, D#, E, F##, G#, A | ![ANaturalPhrynian](ModeANaturalPhrynian.png) |
 
 ## Chords

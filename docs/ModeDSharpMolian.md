@@ -48,14 +48,12 @@ D#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeAeolythian.md) | D | D, Eb, Fb, Gbb, Abb, Bbb, Cb, D | ![DNaturalAeolythian](ModeDNaturalAeolythian.png) |
-| [1401](https://ianring.com/musictheory/scales/1401) | [Pagian](ModePagian.md) | B | B, C##, D#, E, F, G, A, B | ![BNaturalPagian](ModeBNaturalPagian.png) |
-| [1509](https://ianring.com/musictheory/scales/1509) | [Ragian](ModeRagian.md) | A | A, B, C##, D#, E, F, G, A | ![ANaturalRagian](ModeANaturalRagian.png) |
-| [1941](https://ianring.com/musictheory/scales/1941) | [Aeranian](ModeAeranian.md) | G | G, A, B, C##, D#, E, F, G | ![GNaturalAeranian](ModeGNaturalAeranian.png) |
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | D# | D#, E, F, G, A, B, C##, D# | ![DSharpMolian](ModeDSharpMolian.png) |
-| [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | Eb | Eb, Fb, Gbb, Abb, Bbb, Cb, D, Eb | ![EFlatMolian](ModeEFlatMolian.png) |
 | [3243](https://ianring.com/musictheory/scales/3243) | [Staptian](ModeStaptian.md) | E | E, F, G, A, B, C##, D#, E | ![ENaturalStaptian](ModeENaturalStaptian.png) |
 | [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeMothian.md) | F | F, G, A, B, C##, D#, E, F | ![FNaturalMothian](ModeFNaturalMothian.png) |
+| [1941](https://ianring.com/musictheory/scales/1941) | [Aeranian](ModeAeranian.md) | G | G, A, B, C##, D#, E, F, G | ![GNaturalAeranian](ModeGNaturalAeranian.png) |
+| [1509](https://ianring.com/musictheory/scales/1509) | [Ragian](ModeRagian.md) | A | A, B, C##, D#, E, F, G, A | ![ANaturalRagian](ModeANaturalRagian.png) |
+| [1401](https://ianring.com/musictheory/scales/1401) | [Pagian](ModePagian.md) | B | B, C##, D#, E, F, G, A, B | ![BNaturalPagian](ModeBNaturalPagian.png) |
 
 ## Chords
 

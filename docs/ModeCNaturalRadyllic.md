@@ -51,14 +51,11 @@ C
 |--------|------|-------|-------|--------------|
 | [1005](https://ianring.com/musictheory/scales/1005) | [Radyllic](ModeRadyllic.md) | C | C, D, D#, F, F#, G, G#, A, C | ![CNaturalRadyllic](ModeCNaturalRadyllic.png) |
 | [1275](https://ianring.com/musictheory/scales/1275) | [Stagyllic](ModeStagyllic.md) | D | D, D#, F, F#, G, G#, A, C, D | ![DNaturalStagyllic](ModeDNaturalStagyllic.png) |
-| [1695](https://ianring.com/musictheory/scales/1695) | [Phrodyllic](ModePhrodyllic.md) | F | F, F#, G, G#, A, C, D, D#, F | ![FNaturalPhrodyllic](ModeFNaturalPhrodyllic.png) |
 | [2685](https://ianring.com/musictheory/scales/2685) | [Ionoryllic](ModeIonoryllic.md) | D# | D#, F, F#, G, G#, A, C, D, D# | ![DSharpIonoryllic](ModeDSharpIonoryllic.png) |
-| [2685](https://ianring.com/musictheory/scales/2685) | [Ionoryllic](ModeIonoryllic.md) | Eb | Eb, F, Gb, G, Ab, A, C, D, Eb | ![EFlatIonoryllic](ModeEFlatIonoryllic.png) |
+| [1695](https://ianring.com/musictheory/scales/1695) | [Phrodyllic](ModePhrodyllic.md) | F | F, F#, G, G#, A, C, D, D#, F | ![FNaturalPhrodyllic](ModeFNaturalPhrodyllic.png) |
 | [2895](https://ianring.com/musictheory/scales/2895) | [Aeragyllic](ModeAeragyllic.md) | F# | F#, G, G#, A, C, D, D#, F, F# | ![FSharpAeragyllic](ModeFSharpAeragyllic.png) |
-| [2895](https://ianring.com/musictheory/scales/2895) | [Aeragyllic](ModeAeragyllic.md) | Gb | Gb, G, Ab, A, C, D, Eb, F, Gb | ![GFlatAeragyllic](ModeGFlatAeragyllic.png) |
 | [3495](https://ianring.com/musictheory/scales/3495) | [Banyllic](ModeBanyllic.md) | G | G, G#, A, C, D, D#, F, F#, G | ![GNaturalBanyllic](ModeGNaturalBanyllic.png) |
 | [3795](https://ianring.com/musictheory/scales/3795) | [Epothyllic](ModeEpothyllic.md) | G# | G#, A, C, D, D#, F, F#, G, G# | ![GSharpEpothyllic](ModeGSharpEpothyllic.png) |
-| [3795](https://ianring.com/musictheory/scales/3795) | [Epothyllic](ModeEpothyllic.md) | Ab | Ab, A, C, D, Eb, F, Gb, G, Ab | ![AFlatEpothyllic](ModeAFlatEpothyllic.png) |
 | [3945](https://ianring.com/musictheory/scales/3945) | [Lydyllic](ModeLydyllic.md) | A | A, C, D, D#, F, F#, G, G#, A | ![ANaturalLydyllic](ModeANaturalLydyllic.png) |
 
 ## Chords

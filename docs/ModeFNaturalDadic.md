@@ -46,10 +46,9 @@ F
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | F | F, G, B, C#, F | ![FNaturalDadic](ModeFNaturalDadic.png) |
+| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | G | G, B, C#, F, G | ![GNaturalStathic](ModeGNaturalStathic.png) |
 | [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | B | B, C#, F, G, B | ![BNaturalDadic](ModeBNaturalDadic.png) |
 | [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | C# | C#, F, G, B, C# | ![CSharpStathic](ModeCSharpStathic.png) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | Db | Db, F, G, B, Db | ![DFlatStathic](ModeDFlatStathic.png) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | G | G, B, C#, F, G | ![GNaturalStathic](ModeGNaturalStathic.png) |
 
 ## Chords
 

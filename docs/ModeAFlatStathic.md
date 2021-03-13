@@ -45,12 +45,10 @@ Ab
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | C | C, D, F#, G#, C | ![CNaturalDadic](ModeCNaturalDadic.png) |
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | F# | F#, G#, C, D, F# | ![FSharpDadic](ModeFSharpDadic.png) |
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | Gb | Gb, Ab, C, D, Gb | ![GFlatDadic](ModeGFlatDadic.png) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | D | D, F#, G#, C, D | ![DNaturalStathic](ModeDNaturalStathic.png) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | G# | G#, C, D, F#, G# | ![GSharpStathic](ModeGSharpStathic.png) |
 | [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | Ab | Ab, C, D, Gb, Ab | ![AFlatStathic](ModeAFlatStathic.png) |
+| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | C | C, D, F#, G#, C | ![CNaturalDadic](ModeCNaturalDadic.png) |
+| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | D | D, F#, G#, C, D | ![DNaturalStathic](ModeDNaturalStathic.png) |
+| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | Gb | Gb, Ab, C, D, Gb | ![GFlatDadic](ModeGFlatDadic.png) |
 
 ## Chords
 

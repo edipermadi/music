@@ -48,11 +48,9 @@ E
 |--------|------|-------|-------|--------------|
 | [345](https://ianring.com/musictheory/scales/345) | [Gylitonic](ModeGylitonic.md) | E | E, G, G#, A#, C, E | ![ENaturalGylitonic](ModeENaturalGylitonic.png) |
 | [555](https://ianring.com/musictheory/scales/555) | [Aeolycritonic](ModeAeolycritonic.md) | G | G, G#, A#, C, E, G | ![GNaturalAeolycritonic](ModeGNaturalAeolycritonic.png) |
-| [1425](https://ianring.com/musictheory/scales/1425) | [Ryphitonic](ModeRyphitonic.md) | C | C, E, G, G#, A#, C | ![CNaturalRyphitonic](ModeCNaturalRyphitonic.png) |
-| [1605](https://ianring.com/musictheory/scales/1605) | [Zanitonic](ModeZanitonic.md) | A# | A#, C, E, G, G#, A# | ![ASharpZanitonic](ModeASharpZanitonic.png) |
-| [1605](https://ianring.com/musictheory/scales/1605) | [Zanitonic](ModeZanitonic.md) | Bb | Bb, C, E, G, Ab, Bb | ![BFlatZanitonic](ModeBFlatZanitonic.png) |
 | [2325](https://ianring.com/musictheory/scales/2325) | [Pynitonic](ModePynitonic.md) | G# | G#, A#, C, E, G, G# | ![GSharpPynitonic](ModeGSharpPynitonic.png) |
-| [2325](https://ianring.com/musictheory/scales/2325) | [Pynitonic](ModePynitonic.md) | Ab | Ab, Bb, C, E, G, Ab | ![AFlatPynitonic](ModeAFlatPynitonic.png) |
+| [1605](https://ianring.com/musictheory/scales/1605) | [Zanitonic](ModeZanitonic.md) | A# | A#, C, E, G, G#, A# | ![ASharpZanitonic](ModeASharpZanitonic.png) |
+| [1425](https://ianring.com/musictheory/scales/1425) | [Ryphitonic](ModeRyphitonic.md) | C | C, E, G, G#, A#, C | ![CNaturalRyphitonic](ModeCNaturalRyphitonic.png) |
 
 ## Chords
 

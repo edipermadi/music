@@ -46,13 +46,11 @@ Ab
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [279](https://ianring.com/musictheory/scales/279) | [Poditonic](ModePoditonic.md) | G# | G#, A, A#, C, E, G# | ![GSharpPoditonic](ModeGSharpPoditonic.png) |
 | [279](https://ianring.com/musictheory/scales/279) | [Poditonic](ModePoditonic.md) | Ab | Ab, A, Bb, C, E, Ab | ![AFlatPoditonic](ModeAFlatPoditonic.png) |
-| [369](https://ianring.com/musictheory/scales/369) | [Laditonic](ModeLaditonic.md) | E | E, G#, A, A#, C, E | ![ENaturalLaditonic](ModeENaturalLaditonic.png) |
-| [1809](https://ianring.com/musictheory/scales/1809) | [Ranitonic](ModeRanitonic.md) | C | C, E, G#, A, A#, C | ![CNaturalRanitonic](ModeCNaturalRanitonic.png) |
 | [2187](https://ianring.com/musictheory/scales/2187) | [Ionothitonic](ModeIonothitonic.md) | A | A, A#, C, E, G#, A | ![ANaturalIonothitonic](ModeANaturalIonothitonic.png) |
-| [3141](https://ianring.com/musictheory/scales/3141) | [Kanitonic](ModeKanitonic.md) | A# | A#, C, E, G#, A, A# | ![ASharpKanitonic](ModeASharpKanitonic.png) |
 | [3141](https://ianring.com/musictheory/scales/3141) | [Kanitonic](ModeKanitonic.md) | Bb | Bb, C, E, Ab, A, Bb | ![BFlatKanitonic](ModeBFlatKanitonic.png) |
+| [1809](https://ianring.com/musictheory/scales/1809) | [Ranitonic](ModeRanitonic.md) | C | C, E, G#, A, A#, C | ![CNaturalRanitonic](ModeCNaturalRanitonic.png) |
+| [369](https://ianring.com/musictheory/scales/369) | [Laditonic](ModeLaditonic.md) | E | E, G#, A, A#, C, E | ![ENaturalLaditonic](ModeENaturalLaditonic.png) |
 
 ## Chords
 

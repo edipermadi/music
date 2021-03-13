@@ -48,14 +48,11 @@ F
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [683](https://ianring.com/musictheory/scales/683) | [Stogimic](ModeStogimic.md) | F | F, Gb, Ab, Bb, C, D, F | ![FNaturalStogimic](ModeFNaturalStogimic.png) |
-| [1369](https://ianring.com/musictheory/scales/1369) | [Boptimic](ModeBoptimic.md) | D | D, E#, F#, G#, A#, B#, D | ![DNaturalBoptimic](ModeDNaturalBoptimic.png) |
-| [1381](https://ianring.com/musictheory/scales/1381) | [Padimic](ModePadimic.md) | C | C, D, E#, F#, G#, A#, C | ![CNaturalPadimic](ModeCNaturalPadimic.png) |
-| [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeBythimic.md) | A# | A#, B#, C##, D###, E##, F###, A# | ![ASharpBythimic](ModeASharpBythimic.png) |
-| [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeBythimic.md) | Bb | Bb, C, D, E#, F#, G#, Bb | ![BFlatBythimic](ModeBFlatBythimic.png) |
-| [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | G# | G#, A#, B#, C##, D###, E##, G# | ![GSharpAeolathimic](ModeGSharpAeolathimic.png) |
-| [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | Ab | Ab, Bb, C, D, E#, F#, Ab | ![AFlatAeolathimic](ModeAFlatAeolathimic.png) |
-| [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeThynimic.md) | F# | F#, G#, A#, B#, C##, D###, F# | ![FSharpThynimic](ModeFSharpThynimic.png) |
 | [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeThynimic.md) | Gb | Gb, Ab, Bb, C, D, E#, Gb | ![GFlatThynimic](ModeGFlatThynimic.png) |
+| [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | Ab | Ab, Bb, C, D, E#, F#, Ab | ![AFlatAeolathimic](ModeAFlatAeolathimic.png) |
+| [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeBythimic.md) | Bb | Bb, C, D, E#, F#, G#, Bb | ![BFlatBythimic](ModeBFlatBythimic.png) |
+| [1381](https://ianring.com/musictheory/scales/1381) | [Padimic](ModePadimic.md) | C | C, D, E#, F#, G#, A#, C | ![CNaturalPadimic](ModeCNaturalPadimic.png) |
+| [1369](https://ianring.com/musictheory/scales/1369) | [Boptimic](ModeBoptimic.md) | D | D, E#, F#, G#, A#, B#, D | ![DNaturalBoptimic](ModeDNaturalBoptimic.png) |
 
 ## Chords
 

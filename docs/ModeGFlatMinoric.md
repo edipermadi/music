@@ -44,11 +44,9 @@ Gb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | D | D, F#, A#, D | ![DNaturalMinoric](ModeDNaturalMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | F# | F#, A#, D, F# | ![FSharpMinoric](ModeFSharpMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Gb | Gb, Bb, D, Gb | ![GFlatMinoric](ModeGFlatMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | A# | A#, D, F#, A# | ![ASharpMinoric](ModeASharpMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Bb | Bb, D, Gb, Bb | ![BFlatMinoric](ModeBFlatMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | D | D, F#, A#, D | ![DNaturalMinoric](ModeDNaturalMinoric.png) |
 
 ## Chords
 

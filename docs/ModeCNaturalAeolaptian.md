@@ -48,15 +48,12 @@ C
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | A# | A#, B, C, D, Eb, Fb, G, A# | ![ASharpZygian](ModeASharpZygian.png) |
-| [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | Bb | Bb, Cb, Dbb, Ebb, Fbb, Gbbb, Abb, Bb | ![BFlatZygian](ModeBFlatZygian.png) |
-| [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | G | G, A#, B, C, D, Eb, Fb, G | ![GNaturalStoptian](ModeGNaturalStoptian.png) |
-| [1831](https://ianring.com/musictheory/scales/1831) | [Pothian](ModePothian.md) | D | D, Eb, Fb, G, A#, B, C, D | ![DNaturalPothian](ModeDNaturalPothian.png) |
-| [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | B | B, C, D, Eb, Fb, G, A#, B | ![BNaturalKataptian](ModeBNaturalKataptian.png) |
-| [2963](https://ianring.com/musictheory/scales/2963) | [Bygian](ModeBygian.md) | D# | D#, E, F##, G###, A##, B#, C##, D# | ![DSharpBygian](ModeDSharpBygian.png) |
-| [2963](https://ianring.com/musictheory/scales/2963) | [Bygian](ModeBygian.md) | Eb | Eb, Fb, G, A#, B, C, D, Eb | ![EFlatBygian](ModeEFlatBygian.png) |
 | [3229](https://ianring.com/musictheory/scales/3229) | [Aeolaptian](ModeAeolaptian.md) | C | C, D, Eb, Fb, G, A#, B, C | ![CNaturalAeolaptian](ModeCNaturalAeolaptian.png) |
-| [3529](https://ianring.com/musictheory/scales/3529) | [Stalian](ModeStalian.md) | E | E, F##, G###, A##, B#, C##, D#, E | ![ENaturalStalian](ModeENaturalStalian.png) |
+| [1831](https://ianring.com/musictheory/scales/1831) | [Pothian](ModePothian.md) | D | D, Eb, Fb, G, A#, B, C, D | ![DNaturalPothian](ModeDNaturalPothian.png) |
+| [2963](https://ianring.com/musictheory/scales/2963) | [Bygian](ModeBygian.md) | Eb | Eb, Fb, G, A#, B, C, D, Eb | ![EFlatBygian](ModeEFlatBygian.png) |
+| [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | G | G, A#, B, C, D, Eb, Fb, G | ![GNaturalStoptian](ModeGNaturalStoptian.png) |
+| [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | A# | A#, B, C, D, Eb, Fb, G, A# | ![ASharpZygian](ModeASharpZygian.png) |
+| [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | B | B, C, D, Eb, Fb, G, A#, B | ![BNaturalKataptian](ModeBNaturalKataptian.png) |
 
 ## Chords
 

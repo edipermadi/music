@@ -45,11 +45,9 @@ Eb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | G | G, A#, C, D#, G | ![GNaturalMynic](ModeGNaturalMynic.png) |
-| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | A# | A#, C, D#, G, A# | ![ASharpRothic](ModeASharpRothic.png) |
-| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | Bb | Bb, C, Eb, G, Bb | ![BFlatRothic](ModeBFlatRothic.png) |
-| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | D# | D#, G, A#, C, D# | ![DSharpEpathic](ModeDSharpEpathic.png) |
 | [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | Eb | Eb, G, Bb, C, Eb | ![EFlatEpathic](ModeEFlatEpathic.png) |
+| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | G | G, A#, C, D#, G | ![GNaturalMynic](ModeGNaturalMynic.png) |
+| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | Bb | Bb, C, Eb, G, Bb | ![BFlatRothic](ModeBFlatRothic.png) |
 | [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | C | C, D#, G, A#, C | ![CNaturalEporic](ModeCNaturalEporic.png) |
 
 ## Chords

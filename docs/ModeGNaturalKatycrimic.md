@@ -47,15 +47,11 @@ G
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [615](https://ianring.com/musictheory/scales/615) | [Phrothimic](ModePhrothimic.md) | F# | F#, G, Ab, B, C, D#, F# | ![FSharpPhrothimic](ModeFSharpPhrothimic.png) |
-| [615](https://ianring.com/musictheory/scales/615) | [Phrothimic](ModePhrothimic.md) | Gb | Gb, Abb, Bbbb, Cb, Dbb, Eb, Gb | ![GFlatPhrothimic](ModeGFlatPhrothimic.png) |
-| [825](https://ianring.com/musictheory/scales/825) | [Thyptimic](ModeThyptimic.md) | D# | D#, E##, F##, G#, A##, B#, D# | ![DSharpThyptimic](ModeDSharpThyptimic.png) |
-| [825](https://ianring.com/musictheory/scales/825) | [Thyptimic](ModeThyptimic.md) | Eb | Eb, F#, G, Ab, B, C, Eb | ![EFlatThyptimic](ModeEFlatThyptimic.png) |
-| [915](https://ianring.com/musictheory/scales/915) | [Loptimic](ModeLoptimic.md) | B | B, C, D#, E##, F##, G#, B | ![BNaturalLoptimic](ModeBNaturalLoptimic.png) |
 | [2355](https://ianring.com/musictheory/scales/2355) | [Katycrimic](ModeKatycrimic.md) | G | G, Ab, B, C, D#, E##, G | ![GNaturalKatycrimic](ModeGNaturalKatycrimic.png) |
-| [2505](https://ianring.com/musictheory/scales/2505) | [Mydimic](ModeMydimic.md) | C | C, D#, E##, F##, G#, A##, C | ![CNaturalMydimic](ModeCNaturalMydimic.png) |
-| [3225](https://ianring.com/musictheory/scales/3225) | [Ionalimic](ModeIonalimic.md) | G# | G#, A##, B#, C###, E##, F##, G# | ![GSharpIonalimic](ModeGSharpIonalimic.png) |
 | [3225](https://ianring.com/musictheory/scales/3225) | [Ionalimic](ModeIonalimic.md) | Ab | Ab, B, C, D#, E##, F##, Ab | ![AFlatIonalimic](ModeAFlatIonalimic.png) |
+| [915](https://ianring.com/musictheory/scales/915) | [Loptimic](ModeLoptimic.md) | B | B, C, D#, E##, F##, G#, B | ![BNaturalLoptimic](ModeBNaturalLoptimic.png) |
+| [2505](https://ianring.com/musictheory/scales/2505) | [Mydimic](ModeMydimic.md) | C | C, D#, E##, F##, G#, A##, C | ![CNaturalMydimic](ModeCNaturalMydimic.png) |
+| [825](https://ianring.com/musictheory/scales/825) | [Thyptimic](ModeThyptimic.md) | D# | D#, E##, F##, G#, A##, B#, D# | ![DSharpThyptimic](ModeDSharpThyptimic.png) |
 
 ## Chords
 
