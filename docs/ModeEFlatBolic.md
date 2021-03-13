@@ -45,11 +45,10 @@ Eb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | A | A, C, D#, F, A | ![ANaturalLonic](ModeANaturalLonic.png) |
-| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | C | C, D#, F, A, C | ![CNaturalPhradic](ModeCNaturalPhradic.png) |
-| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | D# | D#, F, A, C, D# | ![DSharpBolic](ModeDSharpBolic.png) |
 | [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | Eb | Eb, F, A, C, Eb | ![EFlatBolic](ModeEFlatBolic.png) |
 | [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | F | F, A, C, D#, F | ![FNaturalDaric](ModeFNaturalDaric.png) |
+| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | A | A, C, D#, F, A | ![ANaturalLonic](ModeANaturalLonic.png) |
+| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | C | C, D#, F, A, C | ![CNaturalPhradic](ModeCNaturalPhradic.png) |
 
 ## Chords
 

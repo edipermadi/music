@@ -48,15 +48,11 @@ Eb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [747](https://ianring.com/musictheory/scales/747) | [Lynian](ModeLynian.md) | D | D, Eb, F, G, Ab, Bbb, Cb, D | ![DNaturalLynian](ModeDNaturalLynian.png) |
-| [1431](https://ianring.com/musictheory/scales/1431) | [Phragian](ModePhragian.md) | G | G, Ab, Bbb, Cb, D, Eb, F, G | ![GNaturalPhragian](ModeGNaturalPhragian.png) |
-| [1629](https://ianring.com/musictheory/scales/1629) | [Synian](ModeSynian.md) | F | F, G, Ab, Bbb, Cb, D, Eb, F | ![FNaturalSynian](ModeFNaturalSynian.png) |
-| [1881](https://ianring.com/musictheory/scales/1881) | [Korian](ModeKorian.md) | B | B, C##, D#, E#, F##, G#, A, B | ![BNaturalKorian](ModeBNaturalKorian.png) |
-| [2421](https://ianring.com/musictheory/scales/2421) | [Malian](ModeMalian.md) | D# | D#, E#, F##, G#, A, B, C##, D# | ![DSharpMalian](ModeDSharpMalian.png) |
 | [2421](https://ianring.com/musictheory/scales/2421) | [Malian](ModeMalian.md) | Eb | Eb, F, G, Ab, Bbb, Cb, D, Eb | ![EFlatMalian](ModeEFlatMalian.png) |
-| [2763](https://ianring.com/musictheory/scales/2763) | [Manian](ModeManian.md) | G# | G#, A, B, C##, D#, E#, F##, G# | ![GSharpManian](ModeGSharpManian.png) |
+| [1629](https://ianring.com/musictheory/scales/1629) | [Synian](ModeSynian.md) | F | F, G, Ab, Bbb, Cb, D, Eb, F | ![FNaturalSynian](ModeFNaturalSynian.png) |
+| [1431](https://ianring.com/musictheory/scales/1431) | [Phragian](ModePhragian.md) | G | G, Ab, Bbb, Cb, D, Eb, F, G | ![GNaturalPhragian](ModeGNaturalPhragian.png) |
 | [2763](https://ianring.com/musictheory/scales/2763) | [Manian](ModeManian.md) | Ab | Ab, Bbb, Cb, D, Eb, F, G, Ab | ![AFlatManian](ModeAFlatManian.png) |
-| [3429](https://ianring.com/musictheory/scales/3429) | [Marian](ModeMarian.md) | A | A, B, C##, D#, E#, F##, G#, A | ![ANaturalMarian](ModeANaturalMarian.png) |
+| [747](https://ianring.com/musictheory/scales/747) | [Lynian](ModeLynian.md) | D | D, Eb, F, G, Ab, Bbb, Cb, D | ![DNaturalLynian](ModeDNaturalLynian.png) |
 
 ## Chords
 

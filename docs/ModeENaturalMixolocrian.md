@@ -49,14 +49,11 @@ E
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [827](https://ianring.com/musictheory/scales/827) | [Mixolocrian](ModeMixolocrian.md) | E | E, F, G, Ab, Bbb, C, Db, E | ![ENaturalMixolocrian](ModeENaturalMixolocrian.png) |
-| [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | C | C, Db, E, F, G, Ab, Bbb, C | ![CNaturalModian](ModeCNaturalModian.png) |
-| [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | G | G, Ab, Bbb, C, Db, E, F, G | ![GNaturalAeolothian](ModeGNaturalAeolothian.png) |
 | [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | F | F, G, Ab, Bbb, C, Db, E, F | ![FNaturalSagian](ModeFNaturalSagian.png) |
-| [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | C# | C#, D##, E#, F##, G#, A, B#, C# | ![CSharpBarian](ModeCSharpBarian.png) |
-| [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | Db | Db, E, F, G, Ab, Bbb, C, Db | ![DFlatBarian](ModeDFlatBarian.png) |
-| [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | G# | G#, A, B#, C#, D##, E#, F##, G# | ![GSharpSocrian](ModeGSharpSocrian.png) |
+| [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | G | G, Ab, Bbb, C, Db, E, F, G | ![GNaturalAeolothian](ModeGNaturalAeolothian.png) |
 | [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | Ab | Ab, Bbb, C, Db, E, F, G, Ab | ![AFlatSocrian](ModeAFlatSocrian.png) |
-| [3481](https://ianring.com/musictheory/scales/3481) | [Katathian](ModeKatathian.md) | A | A, B#, C#, D##, E#, F##, G#, A | ![ANaturalKatathian](ModeANaturalKatathian.png) |
+| [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | C | C, Db, E, F, G, Ab, Bbb, C | ![CNaturalModian](ModeCNaturalModian.png) |
+| [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | Db | Db, E, F, G, Ab, Bbb, C, Db | ![DFlatBarian](ModeDFlatBarian.png) |
 
 ## Chords
 

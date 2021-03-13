@@ -46,15 +46,11 @@ Ab
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | B | B, C#, D#, F#, G#, B | ![BNaturalPentatonic](ModeBNaturalPentatonic.png) |
-| [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | F# | F#, G#, B, C#, D#, F# | ![FSharpMynitonic](ModeFSharpMynitonic.png) |
-| [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | Gb | Gb, Ab, B, Db, Eb, Gb | ![GFlatMynitonic](ModeGFlatMynitonic.png) |
-| [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | C# | C#, D#, F#, G#, B, C# | ![CSharpThaptitonic](ModeCSharpThaptitonic.png) |
-| [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | Db | Db, Eb, Gb, Ab, B, Db | ![DFlatThaptitonic](ModeDFlatThaptitonic.png) |
-| [1193](https://ianring.com/musictheory/scales/1193) | [Rocritonic](ModeRocritonic.md) | G# | G#, B, C#, D#, F#, G# | ![GSharpRocritonic](ModeGSharpRocritonic.png) |
 | [1193](https://ianring.com/musictheory/scales/1193) | [Rocritonic](ModeRocritonic.md) | Ab | Ab, B, Db, Eb, Gb, Ab | ![AFlatRocritonic](ModeAFlatRocritonic.png) |
-| [1321](https://ianring.com/musictheory/scales/1321) | [Epathitonic](ModeEpathitonic.md) | D# | D#, F#, G#, B, C#, D# | ![DSharpEpathitonic](ModeDSharpEpathitonic.png) |
+| [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | B | B, C#, D#, F#, G#, B | ![BNaturalPentatonic](ModeBNaturalPentatonic.png) |
+| [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | Db | Db, Eb, Gb, Ab, B, Db | ![DFlatThaptitonic](ModeDFlatThaptitonic.png) |
 | [1321](https://ianring.com/musictheory/scales/1321) | [Epathitonic](ModeEpathitonic.md) | Eb | Eb, Gb, Ab, B, Db, Eb | ![EFlatEpathitonic](ModeEFlatEpathitonic.png) |
+| [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | Gb | Gb, Ab, B, Db, Eb, Gb | ![GFlatMynitonic](ModeGFlatMynitonic.png) |
 
 ## Chords
 

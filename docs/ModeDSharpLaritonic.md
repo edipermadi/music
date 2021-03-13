@@ -47,12 +47,9 @@ D#
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [409](https://ianring.com/musictheory/scales/409) | [Laritonic](ModeLaritonic.md) | D# | D#, F#, G, A#, B, D# | ![DSharpLaritonic](ModeDSharpLaritonic.png) |
-| [409](https://ianring.com/musictheory/scales/409) | [Laritonic](ModeLaritonic.md) | Eb | Eb, Gb, G, Bb, B, Eb | ![EFlatLaritonic](ModeEFlatLaritonic.png) |
 | [563](https://ianring.com/musictheory/scales/563) | [Thacritonic](ModeThacritonic.md) | F# | F#, G, A#, B, D#, F# | ![FSharpThacritonic](ModeFSharpThacritonic.png) |
-| [563](https://ianring.com/musictheory/scales/563) | [Thacritonic](ModeThacritonic.md) | Gb | Gb, G, Bb, B, Eb, Gb | ![GFlatThacritonic](ModeGFlatThacritonic.png) |
-| [803](https://ianring.com/musictheory/scales/803) | [Loritonic](ModeLoritonic.md) | A# | A#, B, D#, F#, G, A# | ![ASharpLoritonic](ModeASharpLoritonic.png) |
-| [803](https://ianring.com/musictheory/scales/803) | [Loritonic](ModeLoritonic.md) | Bb | Bb, B, Eb, Gb, G, Bb | ![BFlatLoritonic](ModeBFlatLoritonic.png) |
 | [2329](https://ianring.com/musictheory/scales/2329) | [Styditonic](ModeStyditonic.md) | G | G, A#, B, D#, F#, G | ![GNaturalStyditonic](ModeGNaturalStyditonic.png) |
+| [803](https://ianring.com/musictheory/scales/803) | [Loritonic](ModeLoritonic.md) | A# | A#, B, D#, F#, G, A# | ![ASharpLoritonic](ModeASharpLoritonic.png) |
 | [2449](https://ianring.com/musictheory/scales/2449) | [Zacritonic](ModeZacritonic.md) | B | B, D#, F#, G, A#, B | ![BNaturalZacritonic](ModeBNaturalZacritonic.png) |
 
 ## Chords

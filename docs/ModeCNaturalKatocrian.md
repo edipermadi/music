@@ -48,16 +48,11 @@ C
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [847](https://ianring.com/musictheory/scales/847) | [Ganian](ModeGanian.md) | A | A, Bb, Cb, Dbb, Eb, F, Gb, A | ![ANaturalGanian](ModeANaturalGanian.png) |
-| [973](https://ianring.com/musictheory/scales/973) | [Phryptian](ModePhryptian.md) | D# | D#, E#, F#, G##, A#, B, C, D# | ![DSharpPhryptian](ModeDSharpPhryptian.png) |
-| [973](https://ianring.com/musictheory/scales/973) | [Phryptian](ModePhryptian.md) | Eb | Eb, F, Gb, A, Bb, Cb, Dbb, Eb | ![EFlatPhryptian](ModeEFlatPhryptian.png) |
-| [1267](https://ianring.com/musictheory/scales/1267) | [Katynian](ModeKatynian.md) | F | F, Gb, A, Bb, Cb, Dbb, Eb, F | ![FNaturalKatynian](ModeFNaturalKatynian.png) |
-| [2471](https://ianring.com/musictheory/scales/2471) | [Eparian](ModeEparian.md) | A# | A#, B, C, D#, E#, F#, G##, A# | ![ASharpEparian](ModeASharpEparian.png) |
-| [2471](https://ianring.com/musictheory/scales/2471) | [Eparian](ModeEparian.md) | Bb | Bb, Cb, Dbb, Eb, F, Gb, A, Bb | ![BFlatEparian](ModeBFlatEparian.png) |
-| [2681](https://ianring.com/musictheory/scales/2681) | [Aerycrian](ModeAerycrian.md) | F# | F#, G##, A#, B, C, D#, E#, F# | ![FSharpAerycrian](ModeFSharpAerycrian.png) |
-| [2681](https://ianring.com/musictheory/scales/2681) | [Aerycrian](ModeAerycrian.md) | Gb | Gb, A, Bb, Cb, Dbb, Eb, F, Gb | ![GFlatAerycrian](ModeGFlatAerycrian.png) |
-| [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeLyrian.md) | B | B, C, D#, E#, F#, G##, A#, B | ![BNaturalLyrian](ModeBNaturalLyrian.png) |
 | [3689](https://ianring.com/musictheory/scales/3689) | [Katocrian](ModeKatocrian.md) | C | C, D#, E#, F#, G##, A#, B, C | ![CNaturalKatocrian](ModeCNaturalKatocrian.png) |
+| [973](https://ianring.com/musictheory/scales/973) | [Phryptian](ModePhryptian.md) | D# | D#, E#, F#, G##, A#, B, C, D# | ![DSharpPhryptian](ModeDSharpPhryptian.png) |
+| [2681](https://ianring.com/musictheory/scales/2681) | [Aerycrian](ModeAerycrian.md) | F# | F#, G##, A#, B, C, D#, E#, F# | ![FSharpAerycrian](ModeFSharpAerycrian.png) |
+| [2471](https://ianring.com/musictheory/scales/2471) | [Eparian](ModeEparian.md) | A# | A#, B, C, D#, E#, F#, G##, A# | ![ASharpEparian](ModeASharpEparian.png) |
+| [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeLyrian.md) | B | B, C, D#, E#, F#, G##, A#, B | ![BNaturalLyrian](ModeBNaturalLyrian.png) |
 
 ## Chords
 

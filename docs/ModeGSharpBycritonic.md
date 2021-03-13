@@ -46,12 +46,11 @@ G#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [587](https://ianring.com/musictheory/scales/587) | [Pathitonic](ModePathitonic.md) | B | B, C, D, F, G#, B | ![BNaturalPathitonic](ModeBNaturalPathitonic.png) |
 | [601](https://ianring.com/musictheory/scales/601) | [Bycritonic](ModeBycritonic.md) | G# | G#, B, C, D, F, G# | ![GSharpBycritonic](ModeGSharpBycritonic.png) |
-| [601](https://ianring.com/musictheory/scales/601) | [Bycritonic](ModeBycritonic.md) | Ab | Ab, B, C, D, F, Ab | ![AFlatBycritonic](ModeAFlatBycritonic.png) |
-| [713](https://ianring.com/musictheory/scales/713) | [Thoptitonic](ModeThoptitonic.md) | F | F, G#, B, C, D, F | ![FNaturalThoptitonic](ModeFNaturalThoptitonic.png) |
-| [1609](https://ianring.com/musictheory/scales/1609) | [Thyritonic](ModeThyritonic.md) | D | D, F, G#, B, C, D | ![DNaturalThyritonic](ModeDNaturalThyritonic.png) |
+| [587](https://ianring.com/musictheory/scales/587) | [Pathitonic](ModePathitonic.md) | B | B, C, D, F, G#, B | ![BNaturalPathitonic](ModeBNaturalPathitonic.png) |
 | [2341](https://ianring.com/musictheory/scales/2341) | [Myditonic](ModeMyditonic.md) | C | C, D, F, G#, B, C | ![CNaturalMyditonic](ModeCNaturalMyditonic.png) |
+| [1609](https://ianring.com/musictheory/scales/1609) | [Thyritonic](ModeThyritonic.md) | D | D, F, G#, B, C, D | ![DNaturalThyritonic](ModeDNaturalThyritonic.png) |
+| [713](https://ianring.com/musictheory/scales/713) | [Thoptitonic](ModeThoptitonic.md) | F | F, G#, B, C, D, F | ![FNaturalThoptitonic](ModeFNaturalThoptitonic.png) |
 
 ## Chords
 

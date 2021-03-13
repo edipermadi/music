@@ -46,14 +46,11 @@ Ab
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [355](https://ianring.com/musictheory/scales/355) | [Aeoloritonic](ModeAeoloritonic.md) | D | D, D#, G, G#, A#, D | ![DNaturalAeoloritonic](ModeDNaturalAeoloritonic.png) |
-| [395](https://ianring.com/musictheory/scales/395) | [Dalitonic](ModeDalitonic.md) | G | G, G#, A#, D, D#, G | ![GNaturalDalitonic](ModeGNaturalDalitonic.png) |
-| [1585](https://ianring.com/musictheory/scales/1585) | [Phraditonic](ModePhraditonic.md) | A# | A#, D, D#, G, G#, A# | ![ASharpPhraditonic](ModeASharpPhraditonic.png) |
-| [1585](https://ianring.com/musictheory/scales/1585) | [Phraditonic](ModePhraditonic.md) | Bb | Bb, D, Eb, G, Ab, Bb | ![BFlatPhraditonic](ModeBFlatPhraditonic.png) |
-| [2225](https://ianring.com/musictheory/scales/2225) | [Gonitonic](ModeGonitonic.md) | D# | D#, G, G#, A#, D, D# | ![DSharpGonitonic](ModeDSharpGonitonic.png) |
-| [2225](https://ianring.com/musictheory/scales/2225) | [Gonitonic](ModeGonitonic.md) | Eb | Eb, G, Ab, Bb, D, Eb | ![EFlatGonitonic](ModeEFlatGonitonic.png) |
-| [2245](https://ianring.com/musictheory/scales/2245) | [Dygitonic](ModeDygitonic.md) | G# | G#, A#, D, D#, G, G# | ![GSharpDygitonic](ModeGSharpDygitonic.png) |
 | [2245](https://ianring.com/musictheory/scales/2245) | [Dygitonic](ModeDygitonic.md) | Ab | Ab, Bb, D, Eb, G, Ab | ![AFlatDygitonic](ModeAFlatDygitonic.png) |
+| [1585](https://ianring.com/musictheory/scales/1585) | [Phraditonic](ModePhraditonic.md) | Bb | Bb, D, Eb, G, Ab, Bb | ![BFlatPhraditonic](ModeBFlatPhraditonic.png) |
+| [355](https://ianring.com/musictheory/scales/355) | [Aeoloritonic](ModeAeoloritonic.md) | D | D, D#, G, G#, A#, D | ![DNaturalAeoloritonic](ModeDNaturalAeoloritonic.png) |
+| [2225](https://ianring.com/musictheory/scales/2225) | [Gonitonic](ModeGonitonic.md) | Eb | Eb, G, Ab, Bb, D, Eb | ![EFlatGonitonic](ModeEFlatGonitonic.png) |
+| [395](https://ianring.com/musictheory/scales/395) | [Dalitonic](ModeDalitonic.md) | G | G, G#, A#, D, D#, G | ![GNaturalDalitonic](ModeGNaturalDalitonic.png) |
 
 ## Chords
 

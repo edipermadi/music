@@ -48,15 +48,12 @@ F
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [471](https://ianring.com/musictheory/scales/471) | [Dodian](ModeDodian.md) | D# | D#, E, F, G, A, Bb, Cb, D# | ![DSharpDodian](ModeDSharpDodian.png) |
-| [471](https://ianring.com/musictheory/scales/471) | [Dodian](ModeDodian.md) | Eb | Eb, Fb, Gbb, Abb, Bbb, Cbb, Dbbb, Eb | ![EFlatDodian](ModeEFlatDodian.png) |
-| [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeAeolagian.md) | A | A, Bb, Cb, D#, E, F, G, A | ![ANaturalAeolagian](ModeANaturalAeolagian.png) |
-| [1821](https://ianring.com/musictheory/scales/1821) | [Aeradian](ModeAeradian.md) | G | G, A, Bb, Cb, D#, E, F, G | ![GNaturalAeradian](ModeGNaturalAeradian.png) |
-| [2283](https://ianring.com/musictheory/scales/2283) | [Aeolyptian](ModeAeolyptian.md) | E | E, F, G, A, Bb, Cb, D#, E | ![ENaturalAeolyptian](ModeENaturalAeolyptian.png) |
-| [2787](https://ianring.com/musictheory/scales/2787) | [Zyrian](ModeZyrian.md) | A# | A#, B, C###, D##, E#, F##, G##, A# | ![ASharpZyrian](ModeASharpZyrian.png) |
-| [2787](https://ianring.com/musictheory/scales/2787) | [Zyrian](ModeZyrian.md) | Bb | Bb, Cb, D#, E, F, G, A, Bb | ![BFlatZyrian](ModeBFlatZyrian.png) |
 | [3189](https://ianring.com/musictheory/scales/3189) | [Aeolonian](ModeAeolonian.md) | F | F, G, A, Bb, Cb, D#, E, F | ![FNaturalAeolonian](ModeFNaturalAeolonian.png) |
-| [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeThacrian.md) | B | B, C###, D##, E#, F##, G##, A#, B | ![BNaturalThacrian](ModeBNaturalThacrian.png) |
+| [1821](https://ianring.com/musictheory/scales/1821) | [Aeradian](ModeAeradian.md) | G | G, A, Bb, Cb, D#, E, F, G | ![GNaturalAeradian](ModeGNaturalAeradian.png) |
+| [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeAeolagian.md) | A | A, Bb, Cb, D#, E, F, G, A | ![ANaturalAeolagian](ModeANaturalAeolagian.png) |
+| [2787](https://ianring.com/musictheory/scales/2787) | [Zyrian](ModeZyrian.md) | Bb | Bb, Cb, D#, E, F, G, A, Bb | ![BFlatZyrian](ModeBFlatZyrian.png) |
+| [471](https://ianring.com/musictheory/scales/471) | [Dodian](ModeDodian.md) | D# | D#, E, F, G, A, Bb, Cb, D# | ![DSharpDodian](ModeDSharpDodian.png) |
+| [2283](https://ianring.com/musictheory/scales/2283) | [Aeolyptian](ModeAeolyptian.md) | E | E, F, G, A, Bb, Cb, D#, E | ![ENaturalAeolyptian](ModeENaturalAeolyptian.png) |
 
 ## Chords
 

@@ -48,13 +48,11 @@ D
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [715](https://ianring.com/musictheory/scales/715) | [Dodimic](ModeDodimic.md) | D | D, Eb, F, G#, A, B, D | ![DNaturalDodimic](ModeDNaturalDodimic.png) |
-| [715](https://ianring.com/musictheory/scales/715) | [Dodimic](ModeDodimic.md) | G# | G#, A, B, C##, D#, E#, G# | ![GSharpDodimic](ModeGSharpDodimic.png) |
-| [715](https://ianring.com/musictheory/scales/715) | [Dodimic](ModeDodimic.md) | Ab | Ab, Bbb, Cb, D, Eb, F, Ab | ![AFlatDodimic](ModeAFlatDodimic.png) |
-| [1625](https://ianring.com/musictheory/scales/1625) | [Lythimic](ModeLythimic.md) | F | F, G#, A, B, C##, D#, F | ![FNaturalLythimic](ModeFNaturalLythimic.png) |
-| [1625](https://ianring.com/musictheory/scales/1625) | [Lythimic](ModeLythimic.md) | B | B, C##, D#, E#, F###, G##, B | ![BNaturalLythimic](ModeBNaturalLythimic.png) |
-| [2405](https://ianring.com/musictheory/scales/2405) | [Katalimic](ModeKatalimic.md) | D# | D#, E#, F###, G##, A##, B###, D# | ![DSharpKatalimic](ModeDSharpKatalimic.png) |
 | [2405](https://ianring.com/musictheory/scales/2405) | [Katalimic](ModeKatalimic.md) | Eb | Eb, F, G#, A, B, C##, Eb | ![EFlatKatalimic](ModeEFlatKatalimic.png) |
+| [1625](https://ianring.com/musictheory/scales/1625) | [Lythimic](ModeLythimic.md) | F | F, G#, A, B, C##, D#, F | ![FNaturalLythimic](ModeFNaturalLythimic.png) |
+| [715](https://ianring.com/musictheory/scales/715) | [Dodimic](ModeDodimic.md) | G# | G#, A, B, C##, D#, E#, G# | ![GSharpDodimic](ModeGSharpDodimic.png) |
 | [2405](https://ianring.com/musictheory/scales/2405) | [Katalimic](ModeKatalimic.md) | A | A, B, C##, D#, E#, F###, A | ![ANaturalKatalimic](ModeANaturalKatalimic.png) |
+| [1625](https://ianring.com/musictheory/scales/1625) | [Lythimic](ModeLythimic.md) | B | B, C##, D#, E#, F###, G##, B | ![BNaturalLythimic](ModeBNaturalLythimic.png) |
 
 ## Chords
 

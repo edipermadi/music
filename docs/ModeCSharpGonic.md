@@ -45,12 +45,10 @@ C#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | F | F, F#, A, C#, F | ![FNaturalDalic](ModeFNaturalDalic.png) |
 | [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | C# | C#, F, F#, A, C# | ![CSharpGonic](ModeCSharpGonic.png) |
-| [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | Db | Db, F, Gb, A, Db | ![DFlatGonic](ModeDFlatGonic.png) |
-| [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | A | A, C#, F, F#, A | ![ANaturalAeoloric](ModeANaturalAeoloric.png) |
+| [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | F | F, F#, A, C#, F | ![FNaturalDalic](ModeFNaturalDalic.png) |
 | [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | F# | F#, A, C#, F, F# | ![FSharpDygic](ModeFSharpDygic.png) |
-| [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | Gb | Gb, A, Db, F, Gb | ![GFlatDygic](ModeGFlatDygic.png) |
+| [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | A | A, C#, F, F#, A | ![ANaturalAeoloric](ModeANaturalAeoloric.png) |
 
 ## Chords
 

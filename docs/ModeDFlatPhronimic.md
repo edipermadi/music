@@ -47,15 +47,10 @@ Db
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [629](https://ianring.com/musictheory/scales/629) | [Aeronimic](ModeAeronimic.md) | A | A, B, C#, D, Eb, F#, A | ![ANaturalAeronimic](ModeANaturalAeronimic.png) |
-| [937](https://ianring.com/musictheory/scales/937) | [Stothimic](ModeStothimic.md) | F# | F#, G##, A##, B##, C##, D#, F# | ![FSharpStothimic](ModeFSharpStothimic.png) |
-| [937](https://ianring.com/musictheory/scales/937) | [Stothimic](ModeStothimic.md) | Gb | Gb, A, B, C#, D, Eb, Gb | ![GFlatStothimic](ModeGFlatStothimic.png) |
-| [1181](https://ianring.com/musictheory/scales/1181) | [Katagimic](ModeKatagimic.md) | B | B, C#, D, Eb, F#, G##, B | ![BNaturalKatagimic](ModeBNaturalKatagimic.png) |
-| [1319](https://ianring.com/musictheory/scales/1319) | [Phronimic](ModePhronimic.md) | C# | C#, D, Eb, F#, G##, A##, C# | ![CSharpPhronimic](ModeCSharpPhronimic.png) |
 | [1319](https://ianring.com/musictheory/scales/1319) | [Phronimic](ModePhronimic.md) | Db | Db, Ebb, Fbb, Gb, A, B, Db | ![DFlatPhronimic](ModeDFlatPhronimic.png) |
-| [2707](https://ianring.com/musictheory/scales/2707) | [Banimic](ModeBanimic.md) | D | D, Eb, F#, G##, A##, B##, D | ![DNaturalBanimic](ModeDNaturalBanimic.png) |
-| [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModePalimic.md) | D# | D#, E##, Cbbb, Dbbb, Ebbb, Fbbb, D# | ![DSharpPalimic](ModeDSharpPalimic.png) |
-| [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModePalimic.md) | Eb | Eb, F#, G##, A##, B##, C##, Eb | ![EFlatPalimic](ModeEFlatPalimic.png) |
+| [937](https://ianring.com/musictheory/scales/937) | [Stothimic](ModeStothimic.md) | Gb | Gb, A, B, C#, D, Eb, Gb | ![GFlatStothimic](ModeGFlatStothimic.png) |
+| [629](https://ianring.com/musictheory/scales/629) | [Aeronimic](ModeAeronimic.md) | A | A, B, C#, D, Eb, F#, A | ![ANaturalAeronimic](ModeANaturalAeronimic.png) |
+| [1181](https://ianring.com/musictheory/scales/1181) | [Katagimic](ModeKatagimic.md) | B | B, C#, D, Eb, F#, G##, B | ![BNaturalKatagimic](ModeBNaturalKatagimic.png) |
 
 ## Chords
 

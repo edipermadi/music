@@ -46,10 +46,9 @@ B
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | B | B, D, D#, G, B | ![BNaturalLanic](ModeBNaturalLanic.png) |
-| [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | G | G, B, D, D#, G | ![GNaturalEpogic](ModeGNaturalEpogic.png) |
 | [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | D | D, D#, G, B, D | ![DNaturalPyrric](ModeDNaturalPyrric.png) |
 | [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | D# | D#, G, B, D, D# | ![DSharpZyphic](ModeDSharpZyphic.png) |
-| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | Eb | Eb, G, B, D, Eb | ![EFlatZyphic](ModeEFlatZyphic.png) |
+| [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | G | G, B, D, D#, G | ![GNaturalEpogic](ModeGNaturalEpogic.png) |
 
 ## Chords
 

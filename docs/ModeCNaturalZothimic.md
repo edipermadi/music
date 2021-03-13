@@ -48,13 +48,10 @@ C
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [427](https://ianring.com/musictheory/scales/427) | [Zothimic](ModeZothimic.md) | C | C, Db, Eb, F, G, Ab, C | ![CNaturalZothimic](ModeCNaturalZothimic.png) |
-| [1379](https://ianring.com/musictheory/scales/1379) | [Kycrimic](ModeKycrimic.md) | G | G, Ab, B#, C#, D#, E#, G | ![GNaturalKycrimic](ModeGNaturalKycrimic.png) |
-| [1421](https://ianring.com/musictheory/scales/1421) | [Aeolaphimic](ModeAeolaphimic.md) | F | F, G, Ab, B#, C#, D#, F | ![FNaturalAeolaphimic](ModeFNaturalAeolaphimic.png) |
-| [1589](https://ianring.com/musictheory/scales/1589) | [Ionagimic](ModeIonagimic.md) | D# | D#, E#, F##, G#, A###, B##, D# | ![DSharpIonagimic](ModeDSharpIonagimic.png) |
-| [1589](https://ianring.com/musictheory/scales/1589) | [Ionagimic](ModeIonagimic.md) | Eb | Eb, F, G, Ab, B#, C#, Eb | ![EFlatIonagimic](ModeEFlatIonagimic.png) |
-| [2261](https://ianring.com/musictheory/scales/2261) | [Phrolimic](ModePhrolimic.md) | C# | C#, D#, E#, F##, G#, A###, C# | ![CSharpPhrolimic](ModeCSharpPhrolimic.png) |
 | [2261](https://ianring.com/musictheory/scales/2261) | [Phrolimic](ModePhrolimic.md) | Db | Db, Eb, F, G, Ab, B#, Db | ![DFlatPhrolimic](ModeDFlatPhrolimic.png) |
-| [2737](https://ianring.com/musictheory/scales/2737) | [Bylimic](ModeBylimic.md) | G# | G#, A###, B##, C###, D###, E###, G# | ![GSharpBylimic](ModeGSharpBylimic.png) |
+| [1589](https://ianring.com/musictheory/scales/1589) | [Ionagimic](ModeIonagimic.md) | Eb | Eb, F, G, Ab, B#, C#, Eb | ![EFlatIonagimic](ModeEFlatIonagimic.png) |
+| [1421](https://ianring.com/musictheory/scales/1421) | [Aeolaphimic](ModeAeolaphimic.md) | F | F, G, Ab, B#, C#, D#, F | ![FNaturalAeolaphimic](ModeFNaturalAeolaphimic.png) |
+| [1379](https://ianring.com/musictheory/scales/1379) | [Kycrimic](ModeKycrimic.md) | G | G, Ab, B#, C#, D#, E#, G | ![GNaturalKycrimic](ModeGNaturalKycrimic.png) |
 | [2737](https://ianring.com/musictheory/scales/2737) | [Bylimic](ModeBylimic.md) | Ab | Ab, B#, C#, D#, E#, F##, Ab | ![AFlatBylimic](ModeAFlatBylimic.png) |
 
 ## Chords

@@ -47,11 +47,8 @@ C
 |--------|------|-------|-------|--------------|
 | [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | C | C, D#, F#, G#, C | ![CNaturalLonic](ModeCNaturalLonic.png) |
 | [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | D# | D#, F#, G#, C, D# | ![DSharpPhradic](ModeDSharpPhradic.png) |
-| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | Eb | Eb, Gb, Ab, C, Eb | ![EFlatPhradic](ModeEFlatPhradic.png) |
 | [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | F# | F#, G#, C, D#, F# | ![FSharpBolic](ModeFSharpBolic.png) |
-| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | Gb | Gb, Ab, C, Eb, Gb | ![GFlatBolic](ModeGFlatBolic.png) |
 | [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | G# | G#, C, D#, F#, G# | ![GSharpDaric](ModeGSharpDaric.png) |
-| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | Ab | Ab, C, Eb, Gb, Ab | ![AFlatDaric](ModeAFlatDaric.png) |
 
 ## Chords
 

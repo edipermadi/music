@@ -47,15 +47,7 @@ G#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [853](https://ianring.com/musictheory/scales/853) | [Epothimic](ModeEpothimic.md) | B | B, C#, D#, E#, F##, G#, B | ![BNaturalEpothimic](ModeBNaturalEpothimic.png) |
-| [1237](https://ianring.com/musictheory/scales/1237) | [Salimic](ModeSalimic.md) | C# | C#, D#, E#, F##, G#, A##, C# | ![CSharpSalimic](ModeCSharpSalimic.png) |
-| [1237](https://ianring.com/musictheory/scales/1237) | [Salimic](ModeSalimic.md) | Db | Db, Eb, F, G, Ab, B, Db | ![DFlatSalimic](ModeDFlatSalimic.png) |
-| [1333](https://ianring.com/musictheory/scales/1333) | [Lyptimic](ModeLyptimic.md) | D# | D#, E#, F##, G#, A##, B##, D# | ![DSharpLyptimic](ModeDSharpLyptimic.png) |
-| [1333](https://ianring.com/musictheory/scales/1333) | [Lyptimic](ModeLyptimic.md) | Eb | Eb, F, G, Ab, B, C#, Eb | ![EFlatLyptimic](ModeEFlatLyptimic.png) |
-| [1357](https://ianring.com/musictheory/scales/1357) | [Katonimic](ModeKatonimic.md) | F | F, G, Ab, B, C#, D#, F | ![FNaturalKatonimic](ModeFNaturalKatonimic.png) |
-| [1363](https://ianring.com/musictheory/scales/1363) | [Gygimic](ModeGygimic.md) | G | G, Ab, B, C#, D#, E#, G | ![GNaturalGygimic](ModeGNaturalGygimic.png) |
 | [2729](https://ianring.com/musictheory/scales/2729) | [Aeragimic](ModeAeragimic.md) | G# | G#, A##, B##, C###, D###, E###, G# | ![GSharpAeragimic](ModeGSharpAeragimic.png) |
-| [2729](https://ianring.com/musictheory/scales/2729) | [Aeragimic](ModeAeragimic.md) | Ab | Ab, B, C#, D#, E#, F##, Ab | ![AFlatAeragimic](ModeAFlatAeragimic.png) |
 
 ## Chords
 

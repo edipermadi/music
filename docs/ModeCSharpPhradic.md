@@ -45,13 +45,10 @@ C#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | A# | A#, C#, E, F#, A# | ![ASharpLonic](ModeASharpLonic.png) |
-| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | Bb | Bb, Db, E, Gb, Bb | ![BFlatLonic](ModeBFlatLonic.png) |
 | [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | C# | C#, E, F#, A#, C# | ![CSharpPhradic](ModeCSharpPhradic.png) |
-| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | Db | Db, E, Gb, Bb, Db | ![DFlatPhradic](ModeDFlatPhradic.png) |
 | [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | E | E, F#, A#, C#, E | ![ENaturalBolic](ModeENaturalBolic.png) |
 | [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | F# | F#, A#, C#, E, F# | ![FSharpDaric](ModeFSharpDaric.png) |
-| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | Gb | Gb, Bb, Db, E, Gb | ![GFlatDaric](ModeGFlatDaric.png) |
+| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | A# | A#, C#, E, F#, A# | ![ASharpLonic](ModeASharpLonic.png) |
 
 ## Chords
 

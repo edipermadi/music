@@ -48,14 +48,10 @@ G
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | D | D, E, F, Gb, Abb, Bbb, Cb, D | ![DNaturalMixonyphian](ModeDNaturalMixonyphian.png) |
-| [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | E | E, F, Gb, Abb, Bbb, Cb, D, E | ![ENaturalMagian](ModeENaturalMagian.png) |
-| [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | B | B, C##, D##, E#, F#, G, A, B | ![BNaturalStathian](ModeBNaturalStathian.png) |
-| [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | A | A, B, C##, D##, E#, F#, G, A | ![ANaturalPyrian](ModeANaturalPyrian.png) |
-| [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | F | F, Gb, Abb, Bbb, Cb, D, E, F | ![FNaturalDadian](ModeFNaturalDadian.png) |
-| [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | F# | F#, G, A, B, C##, D##, E#, F# | ![FSharpAeolylian](ModeFSharpAeolylian.png) |
-| [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | Gb | Gb, Abb, Bbb, Cb, D, E, F, Gb | ![GFlatAeolylian](ModeGFlatAeolylian.png) |
 | [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | G | G, A, B, C##, D##, E#, F#, G | ![GNaturalGycrian](ModeGNaturalGycrian.png) |
+| [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | A | A, B, C##, D##, E#, F#, G, A | ![ANaturalPyrian](ModeANaturalPyrian.png) |
+| [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | B | B, C##, D##, E#, F#, G, A, B | ![BNaturalStathian](ModeBNaturalStathian.png) |
+| [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | F# | F#, G, A, B, C##, D##, E#, F# | ![FSharpAeolylian](ModeFSharpAeolylian.png) |
 
 ## Chords
 

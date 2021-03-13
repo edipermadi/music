@@ -48,16 +48,8 @@ C#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeEpanian.md) | A | A, Bb, Cb, Dbb, Ebbb, Fbb, Gbb, A | ![ANaturalEpanian](ModeANaturalEpanian.png) |
-| [1521](https://ianring.com/musictheory/scales/1521) | [Stanian](ModeStanian.md) | F | F, G##, A#, B, C, Db, Eb, F | ![FNaturalStanian](ModeFNaturalStanian.png) |
-| [1989](https://ianring.com/musictheory/scales/1989) | [Dydian](ModeDydian.md) | D# | D#, E#, Cbbb, Cbb, Dbbb, Dbb, Ebbb, D# | ![DSharpDydian](ModeDSharpDydian.png) |
-| [1989](https://ianring.com/musictheory/scales/1989) | [Dydian](ModeDydian.md) | Eb | Eb, F, G##, A#, B, C, Db, Eb | ![EFlatDydian](ModeEFlatDydian.png) |
-| [2223](https://ianring.com/musictheory/scales/2223) | [Konian](ModeKonian.md) | A# | A#, B, C, Db, Eb, F, G##, A# | ![ASharpKonian](ModeASharpKonian.png) |
-| [2223](https://ianring.com/musictheory/scales/2223) | [Konian](ModeKonian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fbb, Gbb, A, Bb | ![BFlatKonian](ModeBFlatKonian.png) |
-| [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeStocrian.md) | B | B, C, Db, Eb, F, G##, A#, B | ![BNaturalStocrian](ModeBNaturalStocrian.png) |
-| [3627](https://ianring.com/musictheory/scales/3627) | [Kalian](ModeKalian.md) | C | C, Db, Eb, F, G##, A#, B, C | ![CNaturalKalian](ModeCNaturalKalian.png) |
 | [3861](https://ianring.com/musictheory/scales/3861) | [Phroptian](ModePhroptian.md) | C# | C#, D#, E#, Cbbb, Cbb, Dbbb, Dbb, C# | ![CSharpPhroptian](ModeCSharpPhroptian.png) |
-| [3861](https://ianring.com/musictheory/scales/3861) | [Phroptian](ModePhroptian.md) | Db | Db, Eb, F, G##, A#, B, C, Db | ![DFlatPhroptian](ModeDFlatPhroptian.png) |
+| [1989](https://ianring.com/musictheory/scales/1989) | [Dydian](ModeDydian.md) | D# | D#, E#, Cbbb, Cbb, Dbbb, Dbb, Ebbb, D# | ![DSharpDydian](ModeDSharpDydian.png) |
 
 ## Chords
 

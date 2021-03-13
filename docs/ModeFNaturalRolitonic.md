@@ -46,13 +46,11 @@ F
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [285](https://ianring.com/musictheory/scales/285) | [Zaritonic](ModeZaritonic.md) | D | D, E, F, F#, A#, D | ![DNaturalZaritonic](ModeDNaturalZaritonic.png) |
-| [465](https://ianring.com/musictheory/scales/465) | [Zoditonic](ModeZoditonic.md) | A# | A#, D, E, F, F#, A# | ![ASharpZoditonic](ModeASharpZoditonic.png) |
-| [465](https://ianring.com/musictheory/scales/465) | [Zoditonic](ModeZoditonic.md) | Bb | Bb, D, E, F, Gb, Bb | ![BFlatZoditonic](ModeBFlatZoditonic.png) |
-| [1095](https://ianring.com/musictheory/scales/1095) | [Phrythitonic](ModePhrythitonic.md) | E | E, F, F#, A#, D, E | ![ENaturalPhrythitonic](ModeENaturalPhrythitonic.png) |
 | [2595](https://ianring.com/musictheory/scales/2595) | [Rolitonic](ModeRolitonic.md) | F | F, F#, A#, D, E, F | ![FNaturalRolitonic](ModeFNaturalRolitonic.png) |
 | [3345](https://ianring.com/musictheory/scales/3345) | [Zylitonic](ModeZylitonic.md) | F# | F#, A#, D, E, F, F# | ![FSharpZylitonic](ModeFSharpZylitonic.png) |
-| [3345](https://ianring.com/musictheory/scales/3345) | [Zylitonic](ModeZylitonic.md) | Gb | Gb, Bb, D, E, F, Gb | ![GFlatZylitonic](ModeGFlatZylitonic.png) |
+| [465](https://ianring.com/musictheory/scales/465) | [Zoditonic](ModeZoditonic.md) | A# | A#, D, E, F, F#, A# | ![ASharpZoditonic](ModeASharpZoditonic.png) |
+| [285](https://ianring.com/musictheory/scales/285) | [Zaritonic](ModeZaritonic.md) | D | D, E, F, F#, A#, D | ![DNaturalZaritonic](ModeDNaturalZaritonic.png) |
+| [1095](https://ianring.com/musictheory/scales/1095) | [Phrythitonic](ModePhrythitonic.md) | E | E, F, F#, A#, D, E | ![ENaturalPhrythitonic](ModeENaturalPhrythitonic.png) |
 
 ## Chords
 

@@ -47,14 +47,10 @@ Bb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [679](https://ianring.com/musictheory/scales/679) | [Lanimic](ModeLanimic.md) | A | A, Bb, Cb, D, E, F#, A | ![ANaturalLanimic](ModeANaturalLanimic.png) |
+| [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | Bb | Bb, Cb, D, E, F#, G##, Bb | ![BFlatPaptimic](ModeBFlatPaptimic.png) |
 | [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | D | D, E, F#, G##, A#, B, D | ![DNaturalDygimic](ModeDNaturalDygimic.png) |
 | [1253](https://ianring.com/musictheory/scales/1253) | [Zolimic](ModeZolimic.md) | E | E, F#, G##, A#, B, C##, E | ![ENaturalZolimic](ModeENaturalZolimic.png) |
 | [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeEpogimic.md) | F# | F#, G##, A#, B, C##, D##, F# | ![FSharpEpogimic](ModeFSharpEpogimic.png) |
-| [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeEpogimic.md) | Gb | Gb, A, Bb, Cb, D, E, Gb | ![GFlatEpogimic](ModeGFlatEpogimic.png) |
-| [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | A# | A#, B, C##, D##, E##, Cbbb, A# | ![ASharpPaptimic](ModeASharpPaptimic.png) |
-| [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | Bb | Bb, Cb, D, E, F#, G##, Bb | ![BFlatPaptimic](ModeBFlatPaptimic.png) |
-| [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDalimic.md) | B | B, C##, D##, E##, Cbbb, Cbb, B | ![BNaturalDalimic](ModeBNaturalDalimic.png) |
 
 ## Chords
 

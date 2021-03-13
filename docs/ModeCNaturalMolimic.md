@@ -47,15 +47,11 @@ C
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [717](https://ianring.com/musictheory/scales/717) | [Gythimic](ModeGythimic.md) | F# | F#, G#, A, B#, C#, D#, F# | ![FSharpGythimic](ModeFSharpGythimic.png) |
-| [717](https://ianring.com/musictheory/scales/717) | [Gythimic](ModeGythimic.md) | Gb | Gb, Ab, Bbb, C, Db, Eb, Gb | ![GFlatGythimic](ModeGFlatGythimic.png) |
 | [843](https://ianring.com/musictheory/scales/843) | [Molimic](ModeMolimic.md) | C | C, Db, Eb, F#, G#, A, C | ![CNaturalMolimic](ModeCNaturalMolimic.png) |
-| [1203](https://ianring.com/musictheory/scales/1203) | [Pagimic](ModePagimic.md) | G# | G#, A, B#, C#, D#, E##, G# | ![GSharpPagimic](ModeGSharpPagimic.png) |
-| [1203](https://ianring.com/musictheory/scales/1203) | [Pagimic](ModePagimic.md) | Ab | Ab, Bbb, C, Db, Eb, F#, Ab | ![AFlatPagimic](ModeAFlatPagimic.png) |
-| [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | D# | D#, E##, F###, G##, A###, B##, D# | ![DSharpBocrimic](ModeDSharpBocrimic.png) |
-| [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | Eb | Eb, F#, G#, A, B#, C#, Eb | ![EFlatBocrimic](ModeEFlatBocrimic.png) |
-| [2469](https://ianring.com/musictheory/scales/2469) | [Staptimic](ModeStaptimic.md) | C# | C#, D#, E##, F###, G##, A###, C# | ![CSharpStaptimic](ModeCSharpStaptimic.png) |
 | [2469](https://ianring.com/musictheory/scales/2469) | [Staptimic](ModeStaptimic.md) | Db | Db, Eb, F#, G#, A, B#, Db | ![DFlatStaptimic](ModeDFlatStaptimic.png) |
+| [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | Eb | Eb, F#, G#, A, B#, C#, Eb | ![EFlatBocrimic](ModeEFlatBocrimic.png) |
+| [717](https://ianring.com/musictheory/scales/717) | [Gythimic](ModeGythimic.md) | F# | F#, G#, A, B#, C#, D#, F# | ![FSharpGythimic](ModeFSharpGythimic.png) |
+| [1203](https://ianring.com/musictheory/scales/1203) | [Pagimic](ModePagimic.md) | G# | G#, A, B#, C#, D#, E##, G# | ![GSharpPagimic](ModeGSharpPagimic.png) |
 | [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeAeolythimic.md) | A | A, B#, C#, D#, E##, F###, A | ![ANaturalAeolythimic](ModeANaturalAeolythimic.png) |
 
 ## Chords

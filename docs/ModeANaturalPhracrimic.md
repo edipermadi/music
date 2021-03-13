@@ -47,13 +47,8 @@ A
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeAerathimic.md) | C | C, D, Eb, F, G, A, C | ![CNaturalAerathimic](ModeCNaturalAerathimic.png) |
-| [1195](https://ianring.com/musictheory/scales/1195) | [Sarimic](ModeSarimic.md) | D | D, Eb, F, G, A, B#, D | ![DNaturalSarimic](ModeDNaturalSarimic.png) |
 | [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | A | A, B#, C##, D#, E#, F##, A | ![ANaturalPhracrimic](ModeANaturalPhracrimic.png) |
-| [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | G | G, A, B#, C##, D#, E#, G | ![GNaturalByptimic](ModeGNaturalByptimic.png) |
-| [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | F | F, G, A, B#, C##, D#, F | ![FNaturalZeracrimic](ModeFNaturalZeracrimic.png) |
 | [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | D# | D#, E#, F##, G##, A###, B###, D# | ![DSharpZoptimic](ModeDSharpZoptimic.png) |
-| [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | Eb | Eb, F, G, A, B#, C##, Eb | ![EFlatZoptimic](ModeEFlatZoptimic.png) |
 
 ## Chords
 

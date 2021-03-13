@@ -48,17 +48,12 @@ E
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [493](https://ianring.com/musictheory/scales/493) | [Rygian](ModeRygian.md) | A# | A#, B#, C#, D#, E, F, Gb, A# | ![ASharpRygian](ModeASharpRygian.png) |
-| [493](https://ianring.com/musictheory/scales/493) | [Rygian](ModeRygian.md) | Bb | Bb, C, Db, Eb, Fb, Gbb, Abbb, Bb | ![BFlatRygian](ModeBFlatRygian.png) |
-| [1147](https://ianring.com/musictheory/scales/1147) | [Epynian](ModeEpynian.md) | C | C, Db, Eb, Fb, Gbb, Abbb, Bb, C | ![CNaturalEpynian](ModeCNaturalEpynian.png) |
-| [1679](https://ianring.com/musictheory/scales/1679) | [Kydian](ModeKydian.md) | D# | D#, E, F, Gb, A#, B#, C#, D# | ![DSharpKydian](ModeDSharpKydian.png) |
-| [1679](https://ianring.com/musictheory/scales/1679) | [Kydian](ModeKydian.md) | Eb | Eb, Fb, Gbb, Abbb, Bb, C, Db, Eb | ![EFlatKydian](ModeEFlatKydian.png) |
-| [2621](https://ianring.com/musictheory/scales/2621) | [Ionogian](ModeIonogian.md) | C# | C#, D#, E, F, Gb, A#, B#, C# | ![CSharpIonogian](ModeCSharpIonogian.png) |
-| [2621](https://ianring.com/musictheory/scales/2621) | [Ionogian](ModeIonogian.md) | Db | Db, Eb, Fb, Gbb, Abbb, Bb, C, Db | ![DFlatIonogian](ModeDFlatIonogian.png) |
 | [2887](https://ianring.com/musictheory/scales/2887) | [Gaptian](ModeGaptian.md) | E | E, F, Gb, A#, B#, C#, D#, E | ![ENaturalGaptian](ModeENaturalGaptian.png) |
 | [3491](https://ianring.com/musictheory/scales/3491) | [Tharian](ModeTharian.md) | F | F, Gb, A#, B#, C#, D#, E, F | ![FNaturalTharian](ModeFNaturalTharian.png) |
-| [3793](https://ianring.com/musictheory/scales/3793) | [Aeopian](ModeAeopian.md) | F# | F#, G###, A###, B##, C###, D##, E#, F# | ![FSharpAeopian](ModeFSharpAeopian.png) |
 | [3793](https://ianring.com/musictheory/scales/3793) | [Aeopian](ModeAeopian.md) | Gb | Gb, A#, B#, C#, D#, E, F, Gb | ![GFlatAeopian](ModeGFlatAeopian.png) |
+| [493](https://ianring.com/musictheory/scales/493) | [Rygian](ModeRygian.md) | A# | A#, B#, C#, D#, E, F, Gb, A# | ![ASharpRygian](ModeASharpRygian.png) |
+| [2621](https://ianring.com/musictheory/scales/2621) | [Ionogian](ModeIonogian.md) | C# | C#, D#, E, F, Gb, A#, B#, C# | ![CSharpIonogian](ModeCSharpIonogian.png) |
+| [1679](https://ianring.com/musictheory/scales/1679) | [Kydian](ModeKydian.md) | D# | D#, E, F, Gb, A#, B#, C#, D# | ![DSharpKydian](ModeDSharpKydian.png) |
 
 ## Chords
 

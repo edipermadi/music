@@ -47,13 +47,7 @@ G#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [437](https://ianring.com/musictheory/scales/437) | [Ronimic](ModeRonimic.md) | C | C, D, E, F, G, Ab, C | ![CNaturalRonimic](ModeCNaturalRonimic.png) |
-| [1133](https://ianring.com/musictheory/scales/1133) | [Stycrimic](ModeStycrimic.md) | D | D, E, F, G, Ab, B#, D | ![DNaturalStycrimic](ModeDNaturalStycrimic.png) |
-| [1307](https://ianring.com/musictheory/scales/1307) | [Katorimic](ModeKatorimic.md) | E | E, F, G, Ab, B#, C##, E | ![ENaturalKatorimic](ModeENaturalKatorimic.png) |
-| [1699](https://ianring.com/musictheory/scales/1699) | [Kaptimic](ModeKaptimic.md) | G | G, Ab, B#, C##, D##, E#, G | ![GNaturalKaptimic](ModeGNaturalKaptimic.png) |
-| [2701](https://ianring.com/musictheory/scales/2701) | [Epythimic](ModeEpythimic.md) | F | F, G, Ab, B#, C##, D##, F | ![FNaturalEpythimic](ModeFNaturalEpythimic.png) |
 | [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeRycrimic.md) | G# | G#, A###, B###, D##, E#, F##, G# | ![GSharpRycrimic](ModeGSharpRycrimic.png) |
-| [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeRycrimic.md) | Ab | Ab, B#, C##, D##, E#, F##, Ab | ![AFlatRycrimic](ModeAFlatRycrimic.png) |
 
 ## Chords
 

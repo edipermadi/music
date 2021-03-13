@@ -48,15 +48,11 @@ F#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [415](https://ianring.com/musictheory/scales/415) | [Aeoladian](ModeAeoladian.md) | E | E, F, Gb, Abb, Bbbb, Cb, Dbb, E | ![ENaturalAeoladian](ModeENaturalAeoladian.png) |
-| [995](https://ianring.com/musictheory/scales/995) | [Phrathian](ModePhrathian.md) | B | B, C, D##, E#, F#, G, Ab, B | ![BNaturalPhrathian](ModeBNaturalPhrathian.png) |
-| [2255](https://ianring.com/musictheory/scales/2255) | [Dylian](ModeDylian.md) | F | F, Gb, Abb, Bbbb, Cb, Dbb, E, F | ![FNaturalDylian](ModeFNaturalDylian.png) |
-| [2545](https://ianring.com/musictheory/scales/2545) | [Thycrian](ModeThycrian.md) | C | C, D##, E#, F#, G, Ab, B, C | ![CNaturalThycrian](ModeCNaturalThycrian.png) |
 | [3175](https://ianring.com/musictheory/scales/3175) | [Eponian](ModeEponian.md) | F# | F#, G, Ab, B, C, D##, E#, F# | ![FSharpEponian](ModeFSharpEponian.png) |
-| [3175](https://ianring.com/musictheory/scales/3175) | [Eponian](ModeEponian.md) | Gb | Gb, Abb, Bbbb, Cb, Dbb, E, F, Gb | ![GFlatEponian](ModeGFlatEponian.png) |
 | [3635](https://ianring.com/musictheory/scales/3635) | [Katygian](ModeKatygian.md) | G | G, Ab, B, C, D##, E#, F#, G | ![GNaturalKatygian](ModeGNaturalKatygian.png) |
-| [3865](https://ianring.com/musictheory/scales/3865) | [Starian](ModeStarian.md) | G# | G#, A##, B#, D##, E#, F#, G, G# | ![GSharpStarian](ModeGSharpStarian.png) |
 | [3865](https://ianring.com/musictheory/scales/3865) | [Starian](ModeStarian.md) | Ab | Ab, B, C, D##, E#, F#, G, Ab | ![AFlatStarian](ModeAFlatStarian.png) |
+| [995](https://ianring.com/musictheory/scales/995) | [Phrathian](ModePhrathian.md) | B | B, C, D##, E#, F#, G, Ab, B | ![BNaturalPhrathian](ModeBNaturalPhrathian.png) |
+| [2545](https://ianring.com/musictheory/scales/2545) | [Thycrian](ModeThycrian.md) | C | C, D##, E#, F#, G, Ab, B, C | ![CNaturalThycrian](ModeCNaturalThycrian.png) |
 
 ## Chords
 

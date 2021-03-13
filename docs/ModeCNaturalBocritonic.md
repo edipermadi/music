@@ -48,12 +48,9 @@ C
 |--------|------|-------|-------|--------------|
 | [361](https://ianring.com/musictheory/scales/361) | [Bocritonic](ModeBocritonic.md) | C | C, D#, F, F#, G#, C | ![CNaturalBocritonic](ModeCNaturalBocritonic.png) |
 | [557](https://ianring.com/musictheory/scales/557) | [Gythitonic](ModeGythitonic.md) | D# | D#, F, F#, G#, C, D# | ![DSharpGythitonic](ModeDSharpGythitonic.png) |
-| [557](https://ianring.com/musictheory/scales/557) | [Gythitonic](ModeGythitonic.md) | Eb | Eb, F, Gb, Ab, C, Eb | ![EFlatGythitonic](ModeEFlatGythitonic.png) |
 | [1163](https://ianring.com/musictheory/scales/1163) | [Pagitonic](ModePagitonic.md) | F | F, F#, G#, C, D#, F | ![FNaturalPagitonic](ModeFNaturalPagitonic.png) |
-| [1681](https://ianring.com/musictheory/scales/1681) | [Ionaditonic](ModeIonaditonic.md) | G# | G#, C, D#, F, F#, G# | ![GSharpIonaditonic](ModeGSharpIonaditonic.png) |
-| [1681](https://ianring.com/musictheory/scales/1681) | [Ionaditonic](ModeIonaditonic.md) | Ab | Ab, C, Eb, F, Gb, Ab | ![AFlatIonaditonic](ModeAFlatIonaditonic.png) |
 | [2629](https://ianring.com/musictheory/scales/2629) | [Aeolythitonic](ModeAeolythitonic.md) | F# | F#, G#, C, D#, F, F# | ![FSharpAeolythitonic](ModeFSharpAeolythitonic.png) |
-| [2629](https://ianring.com/musictheory/scales/2629) | [Aeolythitonic](ModeAeolythitonic.md) | Gb | Gb, Ab, C, Eb, F, Gb | ![GFlatAeolythitonic](ModeGFlatAeolythitonic.png) |
+| [1681](https://ianring.com/musictheory/scales/1681) | [Ionaditonic](ModeIonaditonic.md) | G# | G#, C, D#, F, F#, G# | ![GSharpIonaditonic](ModeGSharpIonaditonic.png) |
 
 ## Chords
 

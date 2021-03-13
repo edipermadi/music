@@ -48,15 +48,8 @@ C#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [829](https://ianring.com/musictheory/scales/829) | [Lygian](ModeLygian.md) | E | E, F#, G, Ab, Bbb, C, Db, E | ![ENaturalLygian](ModeENaturalLygian.png) |
-| [979](https://ianring.com/musictheory/scales/979) | [Thogian](ModeThogian.md) | C | C, Db, E, F#, G, Ab, Bbb, C | ![CNaturalThogian](ModeCNaturalThogian.png) |
-| [1231](https://ianring.com/musictheory/scales/1231) | [Logian](ModeLogian.md) | F# | F#, G, Ab, Bbb, C, Db, E, F# | ![FSharpLogian](ModeFSharpLogian.png) |
-| [1231](https://ianring.com/musictheory/scales/1231) | [Logian](ModeLogian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbb, Ebbb, Fb, Gb | ![GFlatLogian](ModeGFlatLogian.png) |
 | [2537](https://ianring.com/musictheory/scales/2537) | [Laptian](ModeLaptian.md) | C# | C#, D##, E##, F##, G#, A, B#, C# | ![CSharpLaptian](ModeCSharpLaptian.png) |
-| [2537](https://ianring.com/musictheory/scales/2537) | [Laptian](ModeLaptian.md) | Db | Db, E, F#, G, Ab, Bbb, C, Db | ![DFlatLaptian](ModeDFlatLaptian.png) |
-| [2663](https://ianring.com/musictheory/scales/2663) | [Lalian](ModeLalian.md) | G | G, Ab, Bbb, C, Db, E, F#, G | ![GNaturalLalian](ModeGNaturalLalian.png) |
 | [3379](https://ianring.com/musictheory/scales/3379) | [Sothian](ModeSothian.md) | G# | G#, A, B#, C#, D##, E##, F##, G# | ![GSharpSothian](ModeGSharpSothian.png) |
-| [3379](https://ianring.com/musictheory/scales/3379) | [Sothian](ModeSothian.md) | Ab | Ab, Bbb, C, Db, E, F#, G, Ab | ![AFlatSothian](ModeAFlatSothian.png) |
 | [3737](https://ianring.com/musictheory/scales/3737) | [Phrocrian](ModePhrocrian.md) | A | A, B#, C#, D##, E##, F##, G#, A | ![ANaturalPhrocrian](ModeANaturalPhrocrian.png) |
 
 ## Chords

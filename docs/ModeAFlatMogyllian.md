@@ -51,21 +51,16 @@ Ab
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [2015](https://ianring.com/musictheory/scales/2015) | [Epiryllian](ModeEpiryllian.md) | C | C, C#, D, D#, E, F#, G, G#, A, A#, C | ![CNaturalEpiryllian](ModeCNaturalEpiryllian.png) |
-| [2015](https://ianring.com/musictheory/scales/2015) | [Epiryllian](ModeEpiryllian.md) | F# | F#, G, G#, A, A#, C, C#, D, D#, E, F# | ![FSharpEpiryllian](ModeFSharpEpiryllian.png) |
-| [2015](https://ianring.com/musictheory/scales/2015) | [Epiryllian](ModeEpiryllian.md) | Gb | Gb, G, Ab, A, Bb, C, Db, D, Eb, E, Gb | ![GFlatEpiryllian](ModeGFlatEpiryllian.png) |
-| [3055](https://ianring.com/musictheory/scales/3055) | [Lyryllian](ModeLyryllian.md) | C# | C#, D, D#, E, F#, G, G#, A, A#, C, C# | ![CSharpLyryllian](ModeCSharpLyryllian.png) |
-| [3055](https://ianring.com/musictheory/scales/3055) | [Lyryllian](ModeLyryllian.md) | Db | Db, D, Eb, E, Gb, G, Ab, A, Bb, C, Db | ![DFlatLyryllian](ModeDFlatLyryllian.png) |
-| [3055](https://ianring.com/musictheory/scales/3055) | [Lyryllian](ModeLyryllian.md) | G | G, G#, A, A#, C, C#, D, D#, E, F#, G | ![GNaturalLyryllian](ModeGNaturalLyryllian.png) |
-| [3575](https://ianring.com/musictheory/scales/3575) | [Mogyllian](ModeMogyllian.md) | D | D, D#, E, F#, G, G#, A, A#, C, C#, D | ![DNaturalMogyllian](ModeDNaturalMogyllian.png) |
-| [3575](https://ianring.com/musictheory/scales/3575) | [Mogyllian](ModeMogyllian.md) | G# | G#, A, A#, C, C#, D, D#, E, F#, G, G# | ![GSharpMogyllian](ModeGSharpMogyllian.png) |
 | [3575](https://ianring.com/musictheory/scales/3575) | [Mogyllian](ModeMogyllian.md) | Ab | Ab, A, Bb, C, Db, D, Eb, E, Gb, G, Ab | ![AFlatMogyllian](ModeAFlatMogyllian.png) |
-| [3835](https://ianring.com/musictheory/scales/3835) | [Katodyllian](ModeKatodyllian.md) | D# | D#, E, F#, G, G#, A, A#, C, C#, D, D# | ![DSharpKatodyllian](ModeDSharpKatodyllian.png) |
-| [3835](https://ianring.com/musictheory/scales/3835) | [Katodyllian](ModeKatodyllian.md) | Eb | Eb, E, Gb, G, Ab, A, Bb, C, Db, D, Eb | ![EFlatKatodyllian](ModeEFlatKatodyllian.png) |
 | [3835](https://ianring.com/musictheory/scales/3835) | [Katodyllian](ModeKatodyllian.md) | A | A, A#, C, C#, D, D#, E, F#, G, G#, A | ![ANaturalKatodyllian](ModeANaturalKatodyllian.png) |
-| [3965](https://ianring.com/musictheory/scales/3965) | [Thydyllian](ModeThydyllian.md) | E | E, F#, G, G#, A, A#, C, C#, D, D#, E | ![ENaturalThydyllian](ModeENaturalThydyllian.png) |
-| [3965](https://ianring.com/musictheory/scales/3965) | [Thydyllian](ModeThydyllian.md) | A# | A#, C, C#, D, D#, E, F#, G, G#, A, A# | ![ASharpThydyllian](ModeASharpThydyllian.png) |
 | [3965](https://ianring.com/musictheory/scales/3965) | [Thydyllian](ModeThydyllian.md) | Bb | Bb, C, Db, D, Eb, E, Gb, G, Ab, A, Bb | ![BFlatThydyllian](ModeBFlatThydyllian.png) |
+| [2015](https://ianring.com/musictheory/scales/2015) | [Epiryllian](ModeEpiryllian.md) | C | C, C#, D, D#, E, F#, G, G#, A, A#, C | ![CNaturalEpiryllian](ModeCNaturalEpiryllian.png) |
+| [3055](https://ianring.com/musictheory/scales/3055) | [Lyryllian](ModeLyryllian.md) | Db | Db, D, Eb, E, Gb, G, Ab, A, Bb, C, Db | ![DFlatLyryllian](ModeDFlatLyryllian.png) |
+| [3575](https://ianring.com/musictheory/scales/3575) | [Mogyllian](ModeMogyllian.md) | D | D, D#, E, F#, G, G#, A, A#, C, C#, D | ![DNaturalMogyllian](ModeDNaturalMogyllian.png) |
+| [3835](https://ianring.com/musictheory/scales/3835) | [Katodyllian](ModeKatodyllian.md) | Eb | Eb, E, Gb, G, Ab, A, Bb, C, Db, D, Eb | ![EFlatKatodyllian](ModeEFlatKatodyllian.png) |
+| [3965](https://ianring.com/musictheory/scales/3965) | [Thydyllian](ModeThydyllian.md) | E | E, F#, G, G#, A, A#, C, C#, D, D#, E | ![ENaturalThydyllian](ModeENaturalThydyllian.png) |
+| [2015](https://ianring.com/musictheory/scales/2015) | [Epiryllian](ModeEpiryllian.md) | Gb | Gb, G, Ab, A, Bb, C, Db, D, Eb, E, Gb | ![GFlatEpiryllian](ModeGFlatEpiryllian.png) |
+| [3055](https://ianring.com/musictheory/scales/3055) | [Lyryllian](ModeLyryllian.md) | G | G, G#, A, A#, C, C#, D, D#, E, F#, G | ![GNaturalLyryllian](ModeGNaturalLyryllian.png) |
 
 ## Chords
 

@@ -49,15 +49,12 @@ G#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | E | E, F, F#, G#, A#, B, C, D, E | ![ENaturalKaptyllic](ModeENaturalKaptyllic.png) |
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | A# | A#, B, C, D, E, F, F#, G#, A# | ![ASharpKaptyllic](ModeASharpKaptyllic.png) |
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | Bb | Bb, B, C, D, E, F, Gb, Ab, Bb | ![BFlatKaptyllic](ModeBFlatKaptyllic.png) |
-| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | D | D, E, F, F#, G#, A#, B, C, D | ![DNaturalEpidyllic](ModeDNaturalEpidyllic.png) |
 | [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | G# | G#, A#, B, C, D, E, F, F#, G# | ![GSharpEpidyllic](ModeGSharpEpidyllic.png) |
-| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | Ab | Ab, Bb, B, C, D, E, F, Gb, Ab | ![AFlatEpidyllic](ModeAFlatEpidyllic.png) |
+| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | A# | A#, B, C, D, E, F, F#, G#, A# | ![ASharpKaptyllic](ModeASharpKaptyllic.png) |
 | [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | C | C, D, E, F, F#, G#, A#, B, C | ![CNaturalEpotyllic](ModeCNaturalEpotyllic.png) |
+| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | D | D, E, F, F#, G#, A#, B, C, D | ![DNaturalEpidyllic](ModeDNaturalEpidyllic.png) |
+| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | E | E, F, F#, G#, A#, B, C, D, E | ![ENaturalKaptyllic](ModeENaturalKaptyllic.png) |
 | [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | F# | F#, G#, A#, B, C, D, E, F, F# | ![FSharpEpotyllic](ModeFSharpEpotyllic.png) |
-| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | Gb | Gb, Ab, Bb, B, C, D, E, F, Gb | ![GFlatEpotyllic](ModeGFlatEpotyllic.png) |
 
 ## Chords
 

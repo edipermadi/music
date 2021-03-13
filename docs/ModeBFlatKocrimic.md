@@ -47,13 +47,8 @@ Bb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [317](https://ianring.com/musictheory/scales/317) | [Korimic](ModeKorimic.md) | D | D, E, F, Gb, Abb, Bb, D | ![DNaturalKorimic](ModeDNaturalKorimic.png) |
-| [977](https://ianring.com/musictheory/scales/977) | [Kocrimic](ModeKocrimic.md) | A# | A#, B###, D##, E#, F#, G, A# | ![ASharpKocrimic](ModeASharpKocrimic.png) |
 | [977](https://ianring.com/musictheory/scales/977) | [Kocrimic](ModeKocrimic.md) | Bb | Bb, C##, D##, E#, F#, G, Bb | ![BFlatKocrimic](ModeBFlatKocrimic.png) |
-| [1103](https://ianring.com/musictheory/scales/1103) | [Lynimic](ModeLynimic.md) | E | E, F, Gb, Abb, Bb, C##, E | ![ENaturalLynimic](ModeENaturalLynimic.png) |
-| [2599](https://ianring.com/musictheory/scales/2599) | [Malimic](ModeMalimic.md) | F | F, Gb, Abb, Bb, C##, D##, F | ![FNaturalMalimic](ModeFNaturalMalimic.png) |
 | [3347](https://ianring.com/musictheory/scales/3347) | [Synimic](ModeSynimic.md) | F# | F#, G, A#, B###, D##, E#, F# | ![FSharpSynimic](ModeFSharpSynimic.png) |
-| [3347](https://ianring.com/musictheory/scales/3347) | [Synimic](ModeSynimic.md) | Gb | Gb, Abb, Bb, C##, D##, E#, Gb | ![GFlatSynimic](ModeGFlatSynimic.png) |
 | [3721](https://ianring.com/musictheory/scales/3721) | [Phragimic](ModePhragimic.md) | G | G, A#, B###, D##, E#, F#, G | ![GNaturalPhragimic](ModeGNaturalPhragimic.png) |
 
 ## Chords

@@ -50,18 +50,15 @@ F#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [1775](https://ianring.com/musictheory/scales/1775) | [Lyrygic](ModeLyrygic.md) | A | A, A#, B, C, D, D#, E, F#, G, A | ![ANaturalLyrygic](ModeANaturalLyrygic.png) |
 | [1915](https://ianring.com/musictheory/scales/1915) | [Thydygic](ModeThydygic.md) | F# | F#, G, A, A#, B, C, D, D#, E, F# | ![FSharpThydygic](ModeFSharpThydygic.png) |
-| [1915](https://ianring.com/musictheory/scales/1915) | [Thydygic](ModeThydygic.md) | Gb | Gb, G, A, Bb, B, C, D, Eb, E, Gb | ![GFlatThydygic](ModeGFlatThydygic.png) |
-| [1975](https://ianring.com/musictheory/scales/1975) | [Ionocrygic](ModeIonocrygic.md) | D | D, D#, E, F#, G, A, A#, B, C, D | ![DNaturalIonocrygic](ModeDNaturalIonocrygic.png) |
-| [2935](https://ianring.com/musictheory/scales/2935) | [Modygic](ModeModygic.md) | A# | A#, B, C, D, D#, E, F#, G, A, A# | ![ASharpModygic](ModeASharpModygic.png) |
-| [2935](https://ianring.com/musictheory/scales/2935) | [Modygic](ModeModygic.md) | Bb | Bb, B, C, D, Eb, E, Gb, G, A, Bb | ![BFlatModygic](ModeBFlatModygic.png) |
 | [3005](https://ianring.com/musictheory/scales/3005) | [Gycrygic](ModeGycrygic.md) | G | G, A, A#, B, C, D, D#, E, F#, G | ![GNaturalGycrygic](ModeGNaturalGycrygic.png) |
-| [3035](https://ianring.com/musictheory/scales/3035) | [Gocrygic](ModeGocrygic.md) | D# | D#, E, F#, G, A, A#, B, C, D, D# | ![DSharpGocrygic](ModeDSharpGocrygic.png) |
-| [3035](https://ianring.com/musictheory/scales/3035) | [Gocrygic](ModeGocrygic.md) | Eb | Eb, E, Gb, G, A, Bb, B, C, D, Eb | ![EFlatGocrygic](ModeEFlatGocrygic.png) |
+| [1775](https://ianring.com/musictheory/scales/1775) | [Lyrygic](ModeLyrygic.md) | A | A, A#, B, C, D, D#, E, F#, G, A | ![ANaturalLyrygic](ModeANaturalLyrygic.png) |
+| [2935](https://ianring.com/musictheory/scales/2935) | [Modygic](ModeModygic.md) | A# | A#, B, C, D, D#, E, F#, G, A, A# | ![ASharpModygic](ModeASharpModygic.png) |
 | [3515](https://ianring.com/musictheory/scales/3515) | [Katodygic](ModeKatodygic.md) | B | B, C, D, D#, E, F#, G, A, A#, B | ![BNaturalKatodygic](ModeBNaturalKatodygic.png) |
-| [3565](https://ianring.com/musictheory/scales/3565) | [Aeolorygic](ModeAeolorygic.md) | E | E, F#, G, A, A#, B, C, D, D#, E | ![ENaturalAeolorygic](ModeENaturalAeolorygic.png) |
 | [3805](https://ianring.com/musictheory/scales/3805) | [Moptygic](ModeMoptygic.md) | C | C, D, D#, E, F#, G, A, A#, B, C | ![CNaturalMoptygic](ModeCNaturalMoptygic.png) |
+| [1975](https://ianring.com/musictheory/scales/1975) | [Ionocrygic](ModeIonocrygic.md) | D | D, D#, E, F#, G, A, A#, B, C, D | ![DNaturalIonocrygic](ModeDNaturalIonocrygic.png) |
+| [3035](https://ianring.com/musictheory/scales/3035) | [Gocrygic](ModeGocrygic.md) | D# | D#, E, F#, G, A, A#, B, C, D, D# | ![DSharpGocrygic](ModeDSharpGocrygic.png) |
+| [3565](https://ianring.com/musictheory/scales/3565) | [Aeolorygic](ModeAeolorygic.md) | E | E, F#, G, A, A#, B, C, D, D#, E | ![ENaturalAeolorygic](ModeENaturalAeolorygic.png) |
 
 ## Chords
 

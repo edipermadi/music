@@ -48,15 +48,10 @@ Db
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [375](https://ianring.com/musictheory/scales/375) | [Sodian](ModeSodian.md) | B | B, C, Db, Eb, Fb, Gbb, Abb, B | ![BNaturalSodian](ModeBNaturalSodian.png) |
-| [1815](https://ianring.com/musictheory/scales/1815) | [Godian](ModeGodian.md) | D# | D#, E, F, G, A##, B#, C#, D# | ![DSharpGodian](ModeDSharpGodian.png) |
-| [1815](https://ianring.com/musictheory/scales/1815) | [Godian](ModeGodian.md) | Eb | Eb, Fb, Gbb, Abb, B, C, Db, Eb | ![EFlatGodian](ModeEFlatGodian.png) |
-| [1905](https://ianring.com/musictheory/scales/1905) | [Katacrian](ModeKatacrian.md) | G | G, A##, B#, C#, D#, E, F, G | ![GNaturalKatacrian](ModeGNaturalKatacrian.png) |
-| [2235](https://ianring.com/musictheory/scales/2235) | [Bathian](ModeBathian.md) | C | C, Db, Eb, Fb, Gbb, Abb, B, C | ![CNaturalBathian](ModeCNaturalBathian.png) |
-| [2955](https://ianring.com/musictheory/scales/2955) | [Thorian](ModeThorian.md) | E | E, F, G, A##, B#, C#, D#, E | ![ENaturalThorian](ModeENaturalThorian.png) |
-| [3165](https://ianring.com/musictheory/scales/3165) | [Mylian](ModeMylian.md) | C# | C#, D#, E, F, G, A##, B#, C# | ![CSharpMylian](ModeCSharpMylian.png) |
 | [3165](https://ianring.com/musictheory/scales/3165) | [Mylian](ModeMylian.md) | Db | Db, Eb, Fb, Gbb, Abb, B, C, Db | ![DFlatMylian](ModeDFlatMylian.png) |
-| [3525](https://ianring.com/musictheory/scales/3525) | [Zocrian](ModeZocrian.md) | F | F, G, A##, B#, C#, D#, E, F | ![FNaturalZocrian](ModeFNaturalZocrian.png) |
+| [1815](https://ianring.com/musictheory/scales/1815) | [Godian](ModeGodian.md) | Eb | Eb, Fb, Gbb, Abb, B, C, Db, Eb | ![EFlatGodian](ModeEFlatGodian.png) |
+| [375](https://ianring.com/musictheory/scales/375) | [Sodian](ModeSodian.md) | B | B, C, Db, Eb, Fb, Gbb, Abb, B | ![BNaturalSodian](ModeBNaturalSodian.png) |
+| [2235](https://ianring.com/musictheory/scales/2235) | [Bathian](ModeBathian.md) | C | C, Db, Eb, Fb, Gbb, Abb, B, C | ![CNaturalBathian](ModeCNaturalBathian.png) |
 
 ## Chords
 

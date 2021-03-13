@@ -48,17 +48,13 @@ F
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | G# | G#, A#, B, C, Db, Eb, F, G# | ![GSharpMixonyphian](ModeGSharpMixonyphian.png) |
-| [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | Ab | Ab, Bb, Cb, Dbb, Ebbb, Fbb, Gbb, Ab | ![AFlatMixonyphian](ModeAFlatMixonyphian.png) |
-| [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | A# | A#, B, C, Db, Eb, F, G#, A# | ![ASharpMagian](ModeASharpMagian.png) |
-| [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fbb, Gbb, Ab, Bb | ![BFlatMagian](ModeBFlatMagian.png) |
 | [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | F | F, G#, A#, B, C, Db, Eb, F | ![FNaturalStathian](ModeFNaturalStathian.png) |
-| [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | D# | D#, E#, F###, G###, A##, B#, C#, D# | ![DSharpPyrian](ModeDSharpPyrian.png) |
-| [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | Eb | Eb, F, G#, A#, B, C, Db, Eb | ![EFlatPyrian](ModeEFlatPyrian.png) |
+| [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | G# | G#, A#, B, C, Db, Eb, F, G# | ![GSharpMixonyphian](ModeGSharpMixonyphian.png) |
+| [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | A# | A#, B, C, Db, Eb, F, G#, A# | ![ASharpMagian](ModeASharpMagian.png) |
 | [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | B | B, C, Db, Eb, F, G#, A#, B | ![BNaturalDadian](ModeBNaturalDadian.png) |
 | [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | C | C, Db, Eb, F, G#, A#, B, C | ![CNaturalAeolylian](ModeCNaturalAeolylian.png) |
-| [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | C# | C#, D#, E#, F###, G###, A##, B#, C# | ![CSharpGycrian](ModeCSharpGycrian.png) |
 | [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | Db | Db, Eb, F, G#, A#, B, C, Db | ![DFlatGycrian](ModeDFlatGycrian.png) |
+| [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | Eb | Eb, F, G#, A#, B, C, Db, Eb | ![EFlatPyrian](ModeEFlatPyrian.png) |
 
 ## Chords
 

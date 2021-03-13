@@ -46,12 +46,11 @@ E
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [613](https://ianring.com/musictheory/scales/613) | [Phralitonic](ModePhralitonic.md) | G | G, A, C, C#, E, G | ![GNaturalPhralitonic](ModeGNaturalPhralitonic.png) |
-| [659](https://ianring.com/musictheory/scales/659) | [Soptitonic](ModeSoptitonic.md) | C | C, C#, E, G, A, C | ![CNaturalSoptitonic](ModeCNaturalSoptitonic.png) |
 | [809](https://ianring.com/musictheory/scales/809) | [Dogitonic](ModeDogitonic.md) | E | E, G, A, C, C#, E | ![ENaturalDogitonic](ModeENaturalDogitonic.png) |
+| [613](https://ianring.com/musictheory/scales/613) | [Phralitonic](ModePhralitonic.md) | G | G, A, C, C#, E, G | ![GNaturalPhralitonic](ModeGNaturalPhralitonic.png) |
 | [1177](https://ianring.com/musictheory/scales/1177) | [Garitonic](ModeGaritonic.md) | A | A, C, C#, E, G, A | ![ANaturalGaritonic](ModeANaturalGaritonic.png) |
+| [659](https://ianring.com/musictheory/scales/659) | [Soptitonic](ModeSoptitonic.md) | C | C, C#, E, G, A, C | ![CNaturalSoptitonic](ModeCNaturalSoptitonic.png) |
 | [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | C# | C#, E, G, A, C, C# | ![CSharpThoditonic](ModeCSharpThoditonic.png) |
-| [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | Db | Db, E, G, A, C, Db | ![DFlatThoditonic](ModeDFlatThoditonic.png) |
 
 ## Chords
 

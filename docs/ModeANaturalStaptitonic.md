@@ -49,7 +49,6 @@ A
 | [457](https://ianring.com/musictheory/scales/457) | [Staptitonic](ModeStaptitonic.md) | A | A, C, D#, E, F, A | ![ANaturalStaptitonic](ModeANaturalStaptitonic.png) |
 | [569](https://ianring.com/musictheory/scales/569) | [Mothitonic](ModeMothitonic.md) | C | C, D#, E, F, A, C | ![CNaturalMothitonic](ModeCNaturalMothitonic.png) |
 | [583](https://ianring.com/musictheory/scales/583) | [Aeritonic](ModeAeritonic.md) | D# | D#, E, F, A, C, D# | ![DSharpAeritonic](ModeDSharpAeritonic.png) |
-| [583](https://ianring.com/musictheory/scales/583) | [Aeritonic](ModeAeritonic.md) | Eb | Eb, E, F, A, C, Eb | ![EFlatAeritonic](ModeEFlatAeritonic.png) |
 | [2339](https://ianring.com/musictheory/scales/2339) | [Ragitonic](ModeRagitonic.md) | E | E, F, A, C, D#, E | ![ENaturalRagitonic](ModeENaturalRagitonic.png) |
 | [3217](https://ianring.com/musictheory/scales/3217) | [Molitonic](ModeMolitonic.md) | F | F, A, C, D#, E, F | ![FNaturalMolitonic](ModeFNaturalMolitonic.png) |
 

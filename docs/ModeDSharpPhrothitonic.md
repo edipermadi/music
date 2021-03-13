@@ -46,11 +46,9 @@ D#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [589](https://ianring.com/musictheory/scales/589) | [Ionalitonic](ModeIonalitonic.md) | A | A, B, C, D#, F#, A | ![ANaturalIonalitonic](ModeANaturalIonalitonic.png) |
-| [617](https://ianring.com/musictheory/scales/617) | [Katycritonic](ModeKatycritonic.md) | F# | F#, A, B, C, D#, F# | ![FSharpKatycritonic](ModeFSharpKatycritonic.png) |
-| [617](https://ianring.com/musictheory/scales/617) | [Katycritonic](ModeKatycritonic.md) | Gb | Gb, A, B, C, Eb, Gb | ![GFlatKatycritonic](ModeGFlatKatycritonic.png) |
 | [841](https://ianring.com/musictheory/scales/841) | [Phrothitonic](ModePhrothitonic.md) | D# | D#, F#, A, B, C, D# | ![DSharpPhrothitonic](ModeDSharpPhrothitonic.png) |
-| [841](https://ianring.com/musictheory/scales/841) | [Phrothitonic](ModePhrothitonic.md) | Eb | Eb, Gb, A, B, C, Eb | ![EFlatPhrothitonic](ModeEFlatPhrothitonic.png) |
+| [617](https://ianring.com/musictheory/scales/617) | [Katycritonic](ModeKatycritonic.md) | F# | F#, A, B, C, D#, F# | ![FSharpKatycritonic](ModeFSharpKatycritonic.png) |
+| [589](https://ianring.com/musictheory/scales/589) | [Ionalitonic](ModeIonalitonic.md) | A | A, B, C, D#, F#, A | ![ANaturalIonalitonic](ModeANaturalIonalitonic.png) |
 | [1171](https://ianring.com/musictheory/scales/1171) | [Loptitonic](ModeLoptitonic.md) | B | B, C, D#, F#, A, B | ![BNaturalLoptitonic](ModeBNaturalLoptitonic.png) |
 | [2633](https://ianring.com/musictheory/scales/2633) | [Mixitonic](ModeMixitonic.md) | C | C, D#, F#, A, B, C | ![CNaturalMixitonic](ModeCNaturalMixitonic.png) |
 

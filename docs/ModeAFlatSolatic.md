@@ -52,21 +52,17 @@ Ab
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [2047](https://ianring.com/musictheory/scales/2047) | [Monatic](ModeMonatic.md) | G | G, G#, A, A#, B, C, C#, D, D#, E, F, G | ![GNaturalMonatic](ModeGNaturalMonatic.png) |
-| [3071](https://ianring.com/musictheory/scales/3071) | [Solatic](ModeSolatic.md) | G# | G#, A, A#, B, C, C#, D, D#, E, F, G, G# | ![GSharpSolatic](ModeGSharpSolatic.png) |
 | [3071](https://ianring.com/musictheory/scales/3071) | [Solatic](ModeSolatic.md) | Ab | Ab, A, Bb, B, C, Db, D, Eb, E, F, G, Ab | ![AFlatSolatic](ModeAFlatSolatic.png) |
 | [3583](https://ianring.com/musictheory/scales/3583) | [Zylatic](ModeZylatic.md) | A | A, A#, B, C, C#, D, D#, E, F, G, G#, A | ![ANaturalZylatic](ModeANaturalZylatic.png) |
-| [3839](https://ianring.com/musictheory/scales/3839) | [Mixolatic](ModeMixolatic.md) | A# | A#, B, C, C#, D, D#, E, F, G, G#, A, A# | ![ASharpMixolatic](ModeASharpMixolatic.png) |
 | [3839](https://ianring.com/musictheory/scales/3839) | [Mixolatic](ModeMixolatic.md) | Bb | Bb, B, C, Db, D, Eb, E, F, G, Ab, A, Bb | ![BFlatMixolatic](ModeBFlatMixolatic.png) |
 | [3967](https://ianring.com/musictheory/scales/3967) | [Soratic](ModeSoratic.md) | B | B, C, C#, D, D#, E, F, G, G#, A, A#, B | ![BNaturalSoratic](ModeBNaturalSoratic.png) |
 | [4031](https://ianring.com/musictheory/scales/4031) | [Godatic](ModeGodatic.md) | C | C, C#, D, D#, E, F, G, G#, A, A#, B, C | ![CNaturalGodatic](ModeCNaturalGodatic.png) |
-| [4063](https://ianring.com/musictheory/scales/4063) | [Eptatic](ModeEptatic.md) | C# | C#, D, D#, E, F, G, G#, A, A#, B, C, C# | ![CSharpEptatic](ModeCSharpEptatic.png) |
 | [4063](https://ianring.com/musictheory/scales/4063) | [Eptatic](ModeEptatic.md) | Db | Db, D, Eb, E, F, G, Ab, A, Bb, B, C, Db | ![DFlatEptatic](ModeDFlatEptatic.png) |
 | [4079](https://ianring.com/musictheory/scales/4079) | [Ionatic](ModeIonatic.md) | D | D, D#, E, F, G, G#, A, A#, B, C, C#, D | ![DNaturalIonatic](ModeDNaturalIonatic.png) |
-| [4087](https://ianring.com/musictheory/scales/4087) | [Aeolatic](ModeAeolatic.md) | D# | D#, E, F, G, G#, A, A#, B, C, C#, D, D# | ![DSharpAeolatic](ModeDSharpAeolatic.png) |
 | [4087](https://ianring.com/musictheory/scales/4087) | [Aeolatic](ModeAeolatic.md) | Eb | Eb, E, F, G, Ab, A, Bb, B, C, Db, D, Eb | ![EFlatAeolatic](ModeEFlatAeolatic.png) |
 | [4091](https://ianring.com/musictheory/scales/4091) | [Thydatic](ModeThydatic.md) | E | E, F, G, G#, A, A#, B, C, C#, D, D#, E | ![ENaturalThydatic](ModeENaturalThydatic.png) |
 | [4093](https://ianring.com/musictheory/scales/4093) | [Aerycratic](ModeAerycratic.md) | F | F, G, G#, A, A#, B, C, C#, D, D#, E, F | ![FNaturalAerycratic](ModeFNaturalAerycratic.png) |
+| [2047](https://ianring.com/musictheory/scales/2047) | [Monatic](ModeMonatic.md) | G | G, G#, A, A#, B, C, C#, D, D#, E, F, G | ![GNaturalMonatic](ModeGNaturalMonatic.png) |
 
 ## Chords
 

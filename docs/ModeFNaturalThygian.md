@@ -48,15 +48,12 @@ F
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [439](https://ianring.com/musictheory/scales/439) | [Bythian](ModeBythian.md) | C | C, Db, Ebb, Fb, Gbb, Abb, Bbbb, C | ![CNaturalBythian](ModeCNaturalBythian.png) |
-| [1763](https://ianring.com/musictheory/scales/1763) | [Katalian](ModeKatalian.md) | G | G, Ab, B#, C#, D, E, F, G | ![GNaturalKatalian](ModeGNaturalKatalian.png) |
-| [1819](https://ianring.com/musictheory/scales/1819) | [Pydian](ModePydian.md) | E | E, F, G, Ab, B#, C#, D, E | ![ENaturalPydian](ModeENaturalPydian.png) |
-| [2267](https://ianring.com/musictheory/scales/2267) | [Padian](ModePadian.md) | C# | C#, D, E, F, G, Ab, B#, C# | ![CSharpPadian](ModeCSharpPadian.png) |
-| [2267](https://ianring.com/musictheory/scales/2267) | [Padian](ModePadian.md) | Db | Db, Ebb, Fb, Gbb, Abb, Bbbb, C, Db | ![DFlatPadian](ModeDFlatPadian.png) |
-| [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeAeolathian.md) | G# | G#, A###, B##, C##, D##, E#, F##, G# | ![GSharpAeolathian](ModeGSharpAeolathian.png) |
-| [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeAeolathian.md) | Ab | Ab, B#, C#, D, E, F, G, Ab | ![AFlatAeolathian](ModeAFlatAeolathian.png) |
 | [2957](https://ianring.com/musictheory/scales/2957) | [Thygian](ModeThygian.md) | F | F, G, Ab, B#, C#, D, E, F | ![FNaturalThygian](ModeFNaturalThygian.png) |
+| [1763](https://ianring.com/musictheory/scales/1763) | [Katalian](ModeKatalian.md) | G | G, Ab, B#, C#, D, E, F, G | ![GNaturalKatalian](ModeGNaturalKatalian.png) |
+| [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeAeolathian.md) | Ab | Ab, B#, C#, D, E, F, G, Ab | ![AFlatAeolathian](ModeAFlatAeolathian.png) |
+| [2267](https://ianring.com/musictheory/scales/2267) | [Padian](ModePadian.md) | C# | C#, D, E, F, G, Ab, B#, C# | ![CSharpPadian](ModeCSharpPadian.png) |
 | [3181](https://ianring.com/musictheory/scales/3181) | [Rolian](ModeRolian.md) | D | D, E, F, G, Ab, B#, C#, D | ![DNaturalRolian](ModeDNaturalRolian.png) |
+| [1819](https://ianring.com/musictheory/scales/1819) | [Pydian](ModePydian.md) | E | E, F, G, Ab, B#, C#, D, E | ![ENaturalPydian](ModeENaturalPydian.png) |
 
 ## Chords
 

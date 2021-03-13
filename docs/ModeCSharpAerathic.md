@@ -46,11 +46,9 @@ C#
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | C# | C#, D, F#, A, C# | ![CSharpAerathic](ModeCSharpAerathic.png) |
-| [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | Db | Db, D, Gb, A, Db | ![DFlatAerathic](ModeDFlatAerathic.png) |
-| [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | F# | F#, A, C#, D, F# | ![FSharpLothic](ModeFSharpLothic.png) |
-| [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | Gb | Gb, A, Db, D, Gb | ![GFlatLothic](ModeGFlatLothic.png) |
-| [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | A | A, C#, D, F#, A | ![ANaturalPhratic](ModeANaturalPhratic.png) |
 | [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | D | D, F#, A, C#, D | ![DNaturalThaptic](ModeDNaturalThaptic.png) |
+| [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | F# | F#, A, C#, D, F# | ![FSharpLothic](ModeFSharpLothic.png) |
+| [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | A | A, C#, D, F#, A | ![ANaturalPhratic](ModeANaturalPhratic.png) |
 
 ## Chords
 

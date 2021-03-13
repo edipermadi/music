@@ -45,12 +45,10 @@ Eb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | D# | D#, E, G#, B, D# | ![DSharpAerathic](ModeDSharpAerathic.png) |
 | [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | Eb | Eb, E, Ab, B, Eb | ![EFlatAerathic](ModeEFlatAerathic.png) |
-| [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | G# | G#, B, D#, E, G# | ![GSharpLothic](ModeGSharpLothic.png) |
+| [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | E | E, G#, B, D#, E | ![ENaturalThaptic](ModeENaturalThaptic.png) |
 | [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | Ab | Ab, B, Eb, E, Ab | ![AFlatLothic](ModeAFlatLothic.png) |
 | [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | B | B, D#, E, G#, B | ![BNaturalPhratic](ModeBNaturalPhratic.png) |
-| [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | E | E, G#, B, D#, E | ![ENaturalThaptic](ModeENaturalThaptic.png) |
 
 ## Chords
 

@@ -54,10 +54,8 @@ G
 | [1343](https://ianring.com/musictheory/scales/1343) | [Zalyllic](ModeZalyllic.md) | B | B, C, C#, D, D#, E, G, A, B | ![BNaturalZalyllic](ModeBNaturalZalyllic.png) |
 | [2719](https://ianring.com/musictheory/scales/2719) | [Zocryllic](ModeZocryllic.md) | C | C, C#, D, D#, E, G, A, B, C | ![CNaturalZocryllic](ModeCNaturalZocryllic.png) |
 | [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeKatocryllic.md) | C# | C#, D, D#, E, G, A, B, C, C# | ![CSharpKatocryllic](ModeCSharpKatocryllic.png) |
-| [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeKatocryllic.md) | Db | Db, D, Eb, E, G, A, B, C, Db | ![DFlatKatocryllic](ModeDFlatKatocryllic.png) |
 | [3751](https://ianring.com/musictheory/scales/3751) | [Aerathyllic](ModeAerathyllic.md) | D | D, D#, E, G, A, B, C, C#, D | ![DNaturalAerathyllic](ModeDNaturalAerathyllic.png) |
 | [3923](https://ianring.com/musictheory/scales/3923) | [Stoptyllic](ModeStoptyllic.md) | D# | D#, E, G, A, B, C, C#, D, D# | ![DSharpStoptyllic](ModeDSharpStoptyllic.png) |
-| [3923](https://ianring.com/musictheory/scales/3923) | [Stoptyllic](ModeStoptyllic.md) | Eb | Eb, E, G, A, B, C, Db, D, Eb | ![EFlatStoptyllic](ModeEFlatStoptyllic.png) |
 | [4009](https://ianring.com/musictheory/scales/4009) | [Phranyllic](ModePhranyllic.md) | E | E, G, A, B, C, C#, D, D#, E | ![ENaturalPhranyllic](ModeENaturalPhranyllic.png) |
 
 ## Chords

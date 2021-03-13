@@ -47,15 +47,11 @@ F#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [347](https://ianring.com/musictheory/scales/347) | [Barimic](ModeBarimic.md) | F | F, Gb, Ab, Bbb, Cb, Db, F | ![FNaturalBarimic](ModeFNaturalBarimic.png) |
-| [1457](https://ianring.com/musictheory/scales/1457) | [Modimic](ModeModimic.md) | C# | C#, D###, E##, F###, G##, A##, C# | ![CSharpModimic](ModeCSharpModimic.png) |
-| [1457](https://ianring.com/musictheory/scales/1457) | [Modimic](ModeModimic.md) | Db | Db, E#, F#, G#, A, B, Db | ![DFlatModimic](ModeDFlatModimic.png) |
-| [1579](https://ianring.com/musictheory/scales/1579) | [Sagimic](ModeSagimic.md) | G# | G#, A, B, C#, D###, E##, G# | ![GSharpSagimic](ModeGSharpSagimic.png) |
-| [1579](https://ianring.com/musictheory/scales/1579) | [Sagimic](ModeSagimic.md) | Ab | Ab, Bbb, Cb, Db, E#, F#, Ab | ![AFlatSagimic](ModeAFlatSagimic.png) |
-| [1733](https://ianring.com/musictheory/scales/1733) | [Socrimic](ModeSocrimic.md) | B | B, C#, D###, E##, F###, G##, B | ![BNaturalSocrimic](ModeBNaturalSocrimic.png) |
 | [2221](https://ianring.com/musictheory/scales/2221) | [Poptimic](ModePoptimic.md) | F# | F#, G#, A, B, C#, D###, F# | ![FSharpPoptimic](ModeFSharpPoptimic.png) |
-| [2221](https://ianring.com/musictheory/scales/2221) | [Poptimic](ModePoptimic.md) | Gb | Gb, Ab, Bbb, Cb, Db, E#, Gb | ![GFlatPoptimic](ModeGFlatPoptimic.png) |
+| [1579](https://ianring.com/musictheory/scales/1579) | [Sagimic](ModeSagimic.md) | G# | G#, A, B, C#, D###, E##, G# | ![GSharpSagimic](ModeGSharpSagimic.png) |
 | [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeAelothimic.md) | A | A, B, C#, D###, E##, F###, A | ![ANaturalAelothimic](ModeANaturalAelothimic.png) |
+| [1733](https://ianring.com/musictheory/scales/1733) | [Socrimic](ModeSocrimic.md) | B | B, C#, D###, E##, F###, G##, B | ![BNaturalSocrimic](ModeBNaturalSocrimic.png) |
+| [1457](https://ianring.com/musictheory/scales/1457) | [Modimic](ModeModimic.md) | C# | C#, D###, E##, F###, G##, A##, C# | ![CSharpModimic](ModeCSharpModimic.png) |
 
 ## Chords
 

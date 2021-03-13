@@ -48,14 +48,8 @@ Db
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | C | C, Db, Ebb, Fb, Gbb, Abb, Bbb, C | ![CNaturalSarian](ModeCNaturalSarian.png) |
-| [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | A | A, B#, C#, D, E, F, G, A | ![ANaturalAerathian](ModeANaturalAerathian.png) |
-| [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | G | G, A, B#, C#, D, E, F, G | ![GNaturalLonian](ModeGNaturalLonian.png) |
-| [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | E | E, F, G, A, B#, C#, D, E | ![ENaturalByptian](ModeENaturalByptian.png) |
-| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | C# | C#, D, E, F, G, A, B#, C# | ![CSharpZoptian](ModeCSharpZoptian.png) |
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | Db | Db, Ebb, Fb, Gbb, Abb, Bbb, C, Db | ![DFlatZoptian](ModeDFlatZoptian.png) |
-| [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | F | F, G, A, B#, C#, D, E, F | ![FNaturalDarian](ModeFNaturalDarian.png) |
-| [3245](https://ianring.com/musictheory/scales/3245) | [Aeracrian](ModeAeracrian.md) | D | D, E, F, G, A, B#, C#, D | ![DNaturalAeracrian](ModeDNaturalAeracrian.png) |
+| [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | C | C, Db, Ebb, Fb, Gbb, Abb, Bbb, C | ![CNaturalSarian](ModeCNaturalSarian.png) |
 
 ## Chords
 

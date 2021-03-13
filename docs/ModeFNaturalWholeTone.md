@@ -47,14 +47,12 @@ F
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | C# | C#, D#, E#, F##, G##, A##, C# | ![CSharpWholeTone](ModeCSharpWholeTone.png) |
-| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | Db | Db, Eb, F, G, A, B, Db | ![DFlatWholeTone](ModeDFlatWholeTone.png) |
-| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | D# | D#, E#, F##, G##, A##, B##, D# | ![DSharpWholeTone](ModeDSharpWholeTone.png) |
-| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | Eb | Eb, F, G, A, B, C#, Eb | ![EFlatWholeTone](ModeEFlatWholeTone.png) |
 | [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | F | F, G, A, B, C#, D#, F | ![FNaturalWholeTone](ModeFNaturalWholeTone.png) |
 | [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | G | G, A, B, C#, D#, E#, G | ![GNaturalWholeTone](ModeGNaturalWholeTone.png) |
 | [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | A | A, B, C#, D#, E#, F##, A | ![ANaturalWholeTone](ModeANaturalWholeTone.png) |
 | [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | B | B, C#, D#, E#, F##, G##, B | ![BNaturalWholeTone](ModeBNaturalWholeTone.png) |
+| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | C# | C#, D#, E#, F##, G##, A##, C# | ![CSharpWholeTone](ModeCSharpWholeTone.png) |
+| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | D# | D#, E#, F##, G##, A##, B##, D# | ![DSharpWholeTone](ModeDSharpWholeTone.png) |
 
 ## Chords
 

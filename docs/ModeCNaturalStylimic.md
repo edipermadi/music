@@ -47,15 +47,12 @@ C
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [845](https://ianring.com/musictheory/scales/845) | [Zyrimic](ModeZyrimic.md) | E | E, F#, G, A#, B#, C#, E | ![ENaturalZyrimic](ModeENaturalZyrimic.png) |
-| [845](https://ianring.com/musictheory/scales/845) | [Zyrimic](ModeZyrimic.md) | A# | A#, B#, C#, D##, E##, F##, A# | ![ASharpZyrimic](ModeASharpZyrimic.png) |
-| [845](https://ianring.com/musictheory/scales/845) | [Zyrimic](ModeZyrimic.md) | Bb | Bb, C, Db, E, F#, G, Bb | ![BFlatZyrimic](ModeBFlatZyrimic.png) |
 | [1235](https://ianring.com/musictheory/scales/1235) | [Stylimic](ModeStylimic.md) | C | C, Db, E, F#, G, A#, C | ![CNaturalStylimic](ModeCNaturalStylimic.png) |
-| [1235](https://ianring.com/musictheory/scales/1235) | [Stylimic](ModeStylimic.md) | F# | F#, G, A#, B#, C#, D##, F# | ![FSharpStylimic](ModeFSharpStylimic.png) |
-| [1235](https://ianring.com/musictheory/scales/1235) | [Stylimic](ModeStylimic.md) | Gb | Gb, Abb, Bb, C, Db, E, Gb | ![GFlatStylimic](ModeGFlatStylimic.png) |
-| [2665](https://ianring.com/musictheory/scales/2665) | [Aeradimic](ModeAeradimic.md) | C# | C#, D##, E##, F##, G###, A###, C# | ![CSharpAeradimic](ModeCSharpAeradimic.png) |
 | [2665](https://ianring.com/musictheory/scales/2665) | [Aeradimic](ModeAeradimic.md) | Db | Db, E, F#, G, A#, B#, Db | ![DFlatAeradimic](ModeDFlatAeradimic.png) |
+| [845](https://ianring.com/musictheory/scales/845) | [Zyrimic](ModeZyrimic.md) | E | E, F#, G, A#, B#, C#, E | ![ENaturalZyrimic](ModeENaturalZyrimic.png) |
+| [1235](https://ianring.com/musictheory/scales/1235) | [Stylimic](ModeStylimic.md) | F# | F#, G, A#, B#, C#, D##, F# | ![FSharpStylimic](ModeFSharpStylimic.png) |
 | [2665](https://ianring.com/musictheory/scales/2665) | [Aeradimic](ModeAeradimic.md) | G | G, A#, B#, C#, D##, E##, G | ![GNaturalAeradimic](ModeGNaturalAeradimic.png) |
+| [845](https://ianring.com/musictheory/scales/845) | [Zyrimic](ModeZyrimic.md) | A# | A#, B#, C#, D##, E##, F##, A# | ![ASharpZyrimic](ModeASharpZyrimic.png) |
 
 ## Chords
 

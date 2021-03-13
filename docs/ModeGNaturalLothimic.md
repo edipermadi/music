@@ -47,12 +47,8 @@ G
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | C | C, D, E, F, G, A, C | ![CNaturalMynimic](ModeCNaturalMynimic.png) |
-| [1197](https://ianring.com/musictheory/scales/1197) | [Rocrimic](ModeRocrimic.md) | D | D, E, F, G, A, B#, D | ![DNaturalRocrimic](ModeDNaturalRocrimic.png) |
-| [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | E | E, F, G, A, B#, C##, E | ![ENaturalEporimic](ModeENaturalEporimic.png) |
-| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | A | A, B#, C##, D##, E#, F##, A | ![ANaturalEpathimic](ModeANaturalEpathimic.png) |
 | [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | G | G, A, B#, C##, D##, E#, G | ![GNaturalLothimic](ModeGNaturalLothimic.png) |
-| [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | F | F, G, A, B#, C##, D##, F | ![FNaturalThaptimic](ModeFNaturalThaptimic.png) |
+| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | A | A, B#, C##, D##, E#, F##, A | ![ANaturalEpathimic](ModeANaturalEpathimic.png) |
 
 ## Chords
 

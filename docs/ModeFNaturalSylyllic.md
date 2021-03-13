@@ -50,15 +50,13 @@ F
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [735](https://ianring.com/musictheory/scales/735) | [Sylyllic](ModeSylyllic.md) | F | F, F#, G, G#, A, B, C, D, F | ![FNaturalSylyllic](ModeFNaturalSylyllic.png) |
-| [1785](https://ianring.com/musictheory/scales/1785) | [Tharyllic](ModeTharyllic.md) | D | D, F, F#, G, G#, A, B, C, D | ![DNaturalTharyllic](ModeDNaturalTharyllic.png) |
-| [1995](https://ianring.com/musictheory/scales/1995) | [Aeolacryllic](ModeAeolacryllic.md) | B | B, C, D, F, F#, G, G#, A, B | ![BNaturalAeolacryllic](ModeBNaturalAeolacryllic.png) |
 | [2415](https://ianring.com/musictheory/scales/2415) | [Lothyllic](ModeLothyllic.md) | F# | F#, G, G#, A, B, C, D, F, F# | ![FSharpLothyllic](ModeFSharpLothyllic.png) |
-| [2415](https://ianring.com/musictheory/scales/2415) | [Lothyllic](ModeLothyllic.md) | Gb | Gb, G, Ab, A, B, C, D, F, Gb | ![GFlatLothyllic](ModeGFlatLothyllic.png) |
-| [3045](https://ianring.com/musictheory/scales/3045) | [Raptyllic](ModeRaptyllic.md) | C | C, D, F, F#, G, G#, A, B, C | ![CNaturalRaptyllic](ModeCNaturalRaptyllic.png) |
 | [3255](https://ianring.com/musictheory/scales/3255) | [Daryllic](ModeDaryllic.md) | G | G, G#, A, B, C, D, F, F#, G | ![GNaturalDaryllic](ModeGNaturalDaryllic.png) |
 | [3675](https://ianring.com/musictheory/scales/3675) | [Monyllic](ModeMonyllic.md) | G# | G#, A, B, C, D, F, F#, G, G# | ![GSharpMonyllic](ModeGSharpMonyllic.png) |
-| [3675](https://ianring.com/musictheory/scales/3675) | [Monyllic](ModeMonyllic.md) | Ab | Ab, A, B, C, D, F, Gb, G, Ab | ![AFlatMonyllic](ModeAFlatMonyllic.png) |
 | [3885](https://ianring.com/musictheory/scales/3885) | [Styryllic](ModeStyryllic.md) | A | A, B, C, D, F, F#, G, G#, A | ![ANaturalStyryllic](ModeANaturalStyryllic.png) |
+| [1995](https://ianring.com/musictheory/scales/1995) | [Aeolacryllic](ModeAeolacryllic.md) | B | B, C, D, F, F#, G, G#, A, B | ![BNaturalAeolacryllic](ModeBNaturalAeolacryllic.png) |
+| [3045](https://ianring.com/musictheory/scales/3045) | [Raptyllic](ModeRaptyllic.md) | C | C, D, F, F#, G, G#, A, B, C | ![CNaturalRaptyllic](ModeCNaturalRaptyllic.png) |
+| [1785](https://ianring.com/musictheory/scales/1785) | [Tharyllic](ModeTharyllic.md) | D | D, F, F#, G, G#, A, B, C, D | ![DNaturalTharyllic](ModeDNaturalTharyllic.png) |
 
 ## Chords
 

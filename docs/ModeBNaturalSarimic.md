@@ -47,13 +47,11 @@ B
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeAerathimic.md) | A | A, B, C, D, E, F#, A | ![ANaturalAerathimic](ModeANaturalAerathimic.png) |
 | [1195](https://ianring.com/musictheory/scales/1195) | [Sarimic](ModeSarimic.md) | B | B, C, D, E, F#, G##, B | ![BNaturalSarimic](ModeBNaturalSarimic.png) |
-| [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | F# | F#, G##, A##, B#, C##, D##, F# | ![FSharpPhracrimic](ModeFSharpPhracrimic.png) |
-| [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | Gb | Gb, A, B, C, D, E, Gb | ![GFlatPhracrimic](ModeGFlatPhracrimic.png) |
-| [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | E | E, F#, G##, A##, B#, C##, E | ![ENaturalByptimic](ModeENaturalByptimic.png) |
-| [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | D | D, E, F#, G##, A##, B#, D | ![DNaturalZeracrimic](ModeDNaturalZeracrimic.png) |
 | [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | C | C, D, E, F#, G##, A##, C | ![CNaturalZoptimic](ModeCNaturalZoptimic.png) |
+| [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | D | D, E, F#, G##, A##, B#, D | ![DNaturalZeracrimic](ModeDNaturalZeracrimic.png) |
+| [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | E | E, F#, G##, A##, B#, C##, E | ![ENaturalByptimic](ModeENaturalByptimic.png) |
+| [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | F# | F#, G##, A##, B#, C##, D##, F# | ![FSharpPhracrimic](ModeFSharpPhracrimic.png) |
 
 ## Chords
 

@@ -44,7 +44,6 @@ Db
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | C# | C#, F, A, C# | ![CSharpMinoric](ModeCSharpMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Db | Db, F, A, Db | ![DFlatMinoric](ModeDFlatMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | F | F, A, C#, F | ![FNaturalMinoric](ModeFNaturalMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | A | A, C#, F, A | ![ANaturalMinoric](ModeANaturalMinoric.png) |

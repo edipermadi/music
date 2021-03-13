@@ -45,11 +45,10 @@ G
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | E | E, G, A#, C, E | ![ENaturalLonic](ModeENaturalLonic.png) |
 | [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | G | G, A#, C, E, G | ![GNaturalPhradic](ModeGNaturalPhradic.png) |
 | [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | A# | A#, C, E, G, A# | ![ASharpBolic](ModeASharpBolic.png) |
-| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | Bb | Bb, C, E, G, Bb | ![BFlatBolic](ModeBFlatBolic.png) |
 | [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | C | C, E, G, A#, C | ![CNaturalDaric](ModeCNaturalDaric.png) |
+| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | E | E, G, A#, C, E | ![ENaturalLonic](ModeENaturalLonic.png) |
 
 ## Chords
 

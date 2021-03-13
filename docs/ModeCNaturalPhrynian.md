@@ -48,15 +48,12 @@ C
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [743](https://ianring.com/musictheory/scales/743) | [Lanian](ModeLanian.md) | F | F, Gb, Abb, Bb, Cb, Dbb, Ebb, F | ![FNaturalLanian](ModeFNaturalLanian.png) |
-| [919](https://ianring.com/musictheory/scales/919) | [Gathian](ModeGathian.md) | A# | A#, B, C, D, E#, F#, G, A# | ![ASharpGathian](ModeASharpGathian.png) |
-| [919](https://ianring.com/musictheory/scales/919) | [Gathian](ModeGathian.md) | Bb | Bb, Cb, Dbb, Ebb, F, Gb, Abb, Bb | ![BFlatGathian](ModeBFlatGathian.png) |
+| [3301](https://ianring.com/musictheory/scales/3301) | [Phrynian](ModePhrynian.md) | C | C, D, E#, F#, G, A#, B, C | ![CNaturalPhrynian](ModeCNaturalPhrynian.png) |
 | [1849](https://ianring.com/musictheory/scales/1849) | [Epogian](ModeEpogian.md) | D | D, E#, F#, G, A#, B, C, D | ![DNaturalEpogian](ModeDNaturalEpogian.png) |
 | [2419](https://ianring.com/musictheory/scales/2419) | [Paptian](ModePaptian.md) | F# | F#, G, A#, B, C, D, E#, F# | ![FSharpPaptian](ModeFSharpPaptian.png) |
-| [2419](https://ianring.com/musictheory/scales/2419) | [Paptian](ModePaptian.md) | Gb | Gb, Abb, Bb, Cb, Dbb, Ebb, F, Gb | ![GFlatPaptian](ModeGFlatPaptian.png) |
-| [2507](https://ianring.com/musictheory/scales/2507) | [Ionyphian](ModeIonyphian.md) | B | B, C, D, E#, F#, G, A#, B | ![BNaturalIonyphian](ModeBNaturalIonyphian.png) |
 | [3257](https://ianring.com/musictheory/scales/3257) | [Ionacrian](ModeIonacrian.md) | G | G, A#, B, C, D, E#, F#, G | ![GNaturalIonacrian](ModeGNaturalIonacrian.png) |
-| [3301](https://ianring.com/musictheory/scales/3301) | [Phrynian](ModePhrynian.md) | C | C, D, E#, F#, G, A#, B, C | ![CNaturalPhrynian](ModeCNaturalPhrynian.png) |
+| [919](https://ianring.com/musictheory/scales/919) | [Gathian](ModeGathian.md) | A# | A#, B, C, D, E#, F#, G, A# | ![ASharpGathian](ModeASharpGathian.png) |
+| [2507](https://ianring.com/musictheory/scales/2507) | [Ionyphian](ModeIonyphian.md) | B | B, C, D, E#, F#, G, A#, B | ![BNaturalIonyphian](ModeBNaturalIonyphian.png) |
 
 ## Chords
 

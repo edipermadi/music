@@ -49,15 +49,12 @@ G#
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeMythian.md) | G# | G#, A#, B, C, D#, E, F, G# | ![GSharpMythian](ModeGSharpMythian.png) |
-| [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeMythian.md) | Ab | Ab, Bb, Cb, Dbb, Eb, Fb, Gbb, Ab | ![AFlatMythian](ModeAFlatMythian.png) |
-| [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | D# | D#, E, F, G#, A#, B, C, D# | ![DSharpKatarian](ModeDSharpKatarian.png) |
-| [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | Eb | Eb, Fb, Gbb, Ab, Bb, Cb, Dbb, Eb | ![EFlatKatarian](ModeEFlatKatarian.png) |
 | [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeSogian.md) | A# | A#, B, C, D#, E, F, G#, A# | ![ASharpSogian](ModeASharpSogian.png) |
-| [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeSogian.md) | Bb | Bb, Cb, Dbb, Eb, Fb, Gbb, Ab, Bb | ![BFlatSogian](ModeBFlatSogian.png) |
-| [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | E | E, F, G#, A#, B, C, D#, E | ![ENaturalStylian](ModeENaturalStylian.png) |
 | [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeGogian.md) | B | B, C, D#, E, F, G#, A#, B | ![BNaturalGogian](ModeBNaturalGogian.png) |
-| [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeEpathian.md) | F | F, G#, A#, B, C, D#, E, F | ![FNaturalEpathian](ModeFNaturalEpathian.png) |
 | [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeRothian.md) | C | C, D#, E, F, G#, A#, B, C | ![CNaturalRothian](ModeCNaturalRothian.png) |
+| [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | D# | D#, E, F, G#, A#, B, C, D# | ![DSharpKatarian](ModeDSharpKatarian.png) |
+| [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | E | E, F, G#, A#, B, C, D#, E | ![ENaturalStylian](ModeENaturalStylian.png) |
+| [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeEpathian.md) | F | F, G#, A#, B, C, D#, E, F | ![FNaturalEpathian](ModeFNaturalEpathian.png) |
 
 ## Chords
 

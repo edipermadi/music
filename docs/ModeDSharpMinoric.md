@@ -45,7 +45,6 @@ D#
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | D# | D#, G, B, D# | ![DSharpMinoric](ModeDSharpMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Eb | Eb, G, B, Eb | ![EFlatMinoric](ModeEFlatMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | G | G, B, D#, G | ![GNaturalMinoric](ModeGNaturalMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | B | B, D#, G, B | ![BNaturalMinoric](ModeBNaturalMinoric.png) |
 

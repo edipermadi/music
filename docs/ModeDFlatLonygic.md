@@ -50,19 +50,15 @@ Db
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
+| [4019](https://ianring.com/musictheory/scales/4019) | [Lonygic](ModeLonygic.md) | Db | Db, D, F, Gb, Ab, A, Bb, B, C, Db | ![DFlatLonygic](ModeDFlatLonygic.png) |
+| [4057](https://ianring.com/musictheory/scales/4057) | [Phrygic](ModePhrygic.md) | D | D, F, F#, G#, A, A#, B, C, C#, D | ![DNaturalPhrygic](ModeDNaturalPhrygic.png) |
 | [1019](https://ianring.com/musictheory/scales/1019) | [Aeranygic](ModeAeranygic.md) | F | F, F#, G#, A, A#, B, C, C#, D, F | ![FNaturalAeranygic](ModeFNaturalAeranygic.png) |
-| [1663](https://ianring.com/musictheory/scales/1663) | [Lydygic](ModeLydygic.md) | G# | G#, A, A#, B, C, C#, D, F, F#, G# | ![GSharpLydygic](ModeGSharpLydygic.png) |
-| [1663](https://ianring.com/musictheory/scales/1663) | [Lydygic](ModeLydygic.md) | Ab | Ab, A, Bb, B, C, Db, D, F, Gb, Ab | ![AFlatLydygic](ModeAFlatLydygic.png) |
-| [2557](https://ianring.com/musictheory/scales/2557) | [Dothygic](ModeDothygic.md) | F# | F#, G#, A, A#, B, C, C#, D, F, F# | ![FSharpDothygic](ModeFSharpDothygic.png) |
 | [2557](https://ianring.com/musictheory/scales/2557) | [Dothygic](ModeDothygic.md) | Gb | Gb, Ab, A, Bb, B, C, Db, D, F, Gb | ![GFlatDothygic](ModeGFlatDothygic.png) |
+| [1663](https://ianring.com/musictheory/scales/1663) | [Lydygic](ModeLydygic.md) | Ab | Ab, A, Bb, B, C, Db, D, F, Gb, Ab | ![AFlatLydygic](ModeAFlatLydygic.png) |
 | [2879](https://ianring.com/musictheory/scales/2879) | [Stadygic](ModeStadygic.md) | A | A, A#, B, C, C#, D, F, F#, G#, A | ![ANaturalStadygic](ModeANaturalStadygic.png) |
-| [3487](https://ianring.com/musictheory/scales/3487) | [Byptygic](ModeByptygic.md) | A# | A#, B, C, C#, D, F, F#, G#, A, A# | ![ASharpByptygic](ModeASharpByptygic.png) |
 | [3487](https://ianring.com/musictheory/scales/3487) | [Byptygic](ModeByptygic.md) | Bb | Bb, B, C, Db, D, F, Gb, Ab, A, Bb | ![BFlatByptygic](ModeBFlatByptygic.png) |
 | [3791](https://ianring.com/musictheory/scales/3791) | [Stodygic](ModeStodygic.md) | B | B, C, C#, D, F, F#, G#, A, A#, B | ![BNaturalStodygic](ModeBNaturalStodygic.png) |
 | [3943](https://ianring.com/musictheory/scales/3943) | [Zynygic](ModeZynygic.md) | C | C, C#, D, F, F#, G#, A, A#, B, C | ![CNaturalZynygic](ModeCNaturalZynygic.png) |
-| [4019](https://ianring.com/musictheory/scales/4019) | [Lonygic](ModeLonygic.md) | C# | C#, D, F, F#, G#, A, A#, B, C, C# | ![CSharpLonygic](ModeCSharpLonygic.png) |
-| [4019](https://ianring.com/musictheory/scales/4019) | [Lonygic](ModeLonygic.md) | Db | Db, D, F, Gb, Ab, A, Bb, B, C, Db | ![DFlatLonygic](ModeDFlatLonygic.png) |
-| [4057](https://ianring.com/musictheory/scales/4057) | [Phrygic](ModePhrygic.md) | D | D, F, F#, G#, A, A#, B, C, C#, D | ![DNaturalPhrygic](ModeDNaturalPhrygic.png) |
 
 ## Chords
 

@@ -46,12 +46,11 @@ D
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [421](https://ianring.com/musictheory/scales/421) | [Ionitonic](ModeIonitonic.md) | G | G, A, C, D, D#, G | ![GNaturalIonitonic](ModeGNaturalIonitonic.png) |
-| [653](https://ianring.com/musictheory/scales/653) | [Stathitonic](ModeStathitonic.md) | C | C, D, D#, G, A, C | ![CNaturalStathitonic](ModeCNaturalStathitonic.png) |
-| [1129](https://ianring.com/musictheory/scales/1129) | [Phrynitonic](ModePhrynitonic.md) | A | A, C, D, D#, G, A | ![ANaturalPhrynitonic](ModeANaturalPhrynitonic.png) |
 | [1187](https://ianring.com/musictheory/scales/1187) | [Thalitonic](ModeThalitonic.md) | D | D, D#, G, A, C, D | ![DNaturalThalitonic](ModeDNaturalThalitonic.png) |
 | [2641](https://ianring.com/musictheory/scales/2641) | [Gathitonic](ModeGathitonic.md) | D# | D#, G, A, C, D, D# | ![DSharpGathitonic](ModeDSharpGathitonic.png) |
-| [2641](https://ianring.com/musictheory/scales/2641) | [Gathitonic](ModeGathitonic.md) | Eb | Eb, G, A, C, D, Eb | ![EFlatGathitonic](ModeEFlatGathitonic.png) |
+| [421](https://ianring.com/musictheory/scales/421) | [Ionitonic](ModeIonitonic.md) | G | G, A, C, D, D#, G | ![GNaturalIonitonic](ModeGNaturalIonitonic.png) |
+| [1129](https://ianring.com/musictheory/scales/1129) | [Phrynitonic](ModePhrynitonic.md) | A | A, C, D, D#, G, A | ![ANaturalPhrynitonic](ModeANaturalPhrynitonic.png) |
+| [653](https://ianring.com/musictheory/scales/653) | [Stathitonic](ModeStathitonic.md) | C | C, D, D#, G, A, C | ![CNaturalStathitonic](ModeCNaturalStathitonic.png) |
 
 ## Chords
 

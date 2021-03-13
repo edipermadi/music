@@ -48,14 +48,11 @@ D
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeDonian.md) | F | F, G, Ab, Bbb, Cb, Dbb, Ebb, F | ![FNaturalDonian](ModeFNaturalDonian.png) |
-| [1207](https://ianring.com/musictheory/scales/1207) | [Aeoloptian](ModeAeoloptian.md) | G | G, Ab, Bbb, Cb, Dbb, Ebb, F, G | ![GNaturalAeoloptian](ModeGNaturalAeoloptian.png) |
 | [1769](https://ianring.com/musictheory/scales/1769) | [Rythian](ModeRythian.md) | D | D, E#, F##, G#, A, B, C, D | ![DNaturalRythian](ModeDNaturalRythian.png) |
-| [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | B | B, C, D, E#, F##, G#, A, B | ![BNaturalSolian](ModeBNaturalSolian.png) |
 | [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | G# | G#, A, B, C, D, E#, F##, G# | ![GSharpPanian](ModeGSharpPanian.png) |
-| [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | Ab | Ab, Bbb, Cb, Dbb, Ebb, F, G, Ab | ![AFlatPanian](ModeAFlatPanian.png) |
-| [2981](https://ianring.com/musictheory/scales/2981) | [Ionolian](ModeIonolian.md) | C | C, D, E#, F##, G#, A, B, C | ![CNaturalIonolian](ModeCNaturalIonolian.png) |
 | [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | A | A, B, C, D, E#, F##, G#, A | ![ANaturalLodian](ModeANaturalLodian.png) |
+| [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | B | B, C, D, E#, F##, G#, A, B | ![BNaturalSolian](ModeBNaturalSolian.png) |
+| [2981](https://ianring.com/musictheory/scales/2981) | [Ionolian](ModeIonolian.md) | C | C, D, E#, F##, G#, A, B, C | ![CNaturalIonolian](ModeCNaturalIonolian.png) |
 
 ## Chords
 

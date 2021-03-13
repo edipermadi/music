@@ -45,11 +45,10 @@ Gb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | E | E, F#, A, C, E | ![ENaturalZoptic](ModeENaturalZoptic.png) |
-| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | C | C, E, F#, A, C | ![CNaturalSaric](ModeCNaturalSaric.png) |
-| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | A | A, C, E, F#, A | ![ANaturalByptic](ModeANaturalByptic.png) |
-| [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | F# | F#, A, C, E, F# | ![FSharpAeraphic](ModeFSharpAeraphic.png) |
 | [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | Gb | Gb, A, C, E, Gb | ![GFlatAeraphic](ModeGFlatAeraphic.png) |
+| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | A | A, C, E, F#, A | ![ANaturalByptic](ModeANaturalByptic.png) |
+| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | C | C, E, F#, A, C | ![CNaturalSaric](ModeCNaturalSaric.png) |
+| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | E | E, F#, A, C, E | ![ENaturalZoptic](ModeENaturalZoptic.png) |
 
 ## Chords
 

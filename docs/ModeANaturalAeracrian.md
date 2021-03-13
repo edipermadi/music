@@ -48,14 +48,12 @@ A
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | G | G, Ab, Bbb, Cb, Dbb, Ebb, Fb, G | ![GNaturalSarian](ModeGNaturalSarian.png) |
-| [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | E | E, F##, G#, A, B, C, D, E | ![ENaturalAerathian](ModeENaturalAerathian.png) |
-| [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | D | D, E, F##, G#, A, B, C, D | ![DNaturalLonian](ModeDNaturalLonian.png) |
-| [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | B | B, C, D, E, F##, G#, A, B | ![BNaturalByptian](ModeBNaturalByptian.png) |
-| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | G# | G#, A, B, C, D, E, F##, G# | ![GSharpZoptian](ModeGSharpZoptian.png) |
-| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | Ab | Ab, Bbb, Cb, Dbb, Ebb, Fb, G, Ab | ![AFlatZoptian](ModeAFlatZoptian.png) |
-| [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | C | C, D, E, F##, G#, A, B, C | ![CNaturalDarian](ModeCNaturalDarian.png) |
 | [3245](https://ianring.com/musictheory/scales/3245) | [Aeracrian](ModeAeracrian.md) | A | A, B, C, D, E, F##, G#, A | ![ANaturalAeracrian](ModeANaturalAeracrian.png) |
+| [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | B | B, C, D, E, F##, G#, A, B | ![BNaturalByptian](ModeBNaturalByptian.png) |
+| [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | C | C, D, E, F##, G#, A, B, C | ![CNaturalDarian](ModeCNaturalDarian.png) |
+| [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | D | D, E, F##, G#, A, B, C, D | ![DNaturalLonian](ModeDNaturalLonian.png) |
+| [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | E | E, F##, G#, A, B, C, D, E | ![ENaturalAerathian](ModeENaturalAerathian.png) |
+| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | G# | G#, A, B, C, D, E, F##, G# | ![GSharpZoptian](ModeGSharpZoptian.png) |
 
 ## Chords
 

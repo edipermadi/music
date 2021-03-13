@@ -48,12 +48,10 @@ B
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [435](https://ianring.com/musictheory/scales/435) | [Ionolimic](ModeIonolimic.md) | B | B, C, D#, E, F#, G, B | ![BNaturalIonolimic](ModeBNaturalIonolimic.png) |
-| [795](https://ianring.com/musictheory/scales/795) | [Aeologimic](ModeAeologimic.md) | D# | D#, E, F#, G, A##, B#, D# | ![DSharpAeologimic](ModeDSharpAeologimic.png) |
-| [795](https://ianring.com/musictheory/scales/795) | [Aeologimic](ModeAeologimic.md) | Eb | Eb, Fb, Gb, Abb, B, C, Eb | ![EFlatAeologimic](ModeEFlatAeologimic.png) |
-| [1635](https://ianring.com/musictheory/scales/1635) | [Sygimic](ModeSygimic.md) | F# | F#, G, A##, B#, C###, D##, F# | ![FSharpSygimic](ModeFSharpSygimic.png) |
-| [1635](https://ianring.com/musictheory/scales/1635) | [Sygimic](ModeSygimic.md) | Gb | Gb, Abb, B, C, D#, E, Gb | ![GFlatSygimic](ModeGFlatSygimic.png) |
 | [2265](https://ianring.com/musictheory/scales/2265) | [Ionophimic](ModeIonophimic.md) | C | C, D#, E, F#, G, A##, C | ![CNaturalIonophimic](ModeCNaturalIonophimic.png) |
+| [795](https://ianring.com/musictheory/scales/795) | [Aeologimic](ModeAeologimic.md) | D# | D#, E, F#, G, A##, B#, D# | ![DSharpAeologimic](ModeDSharpAeologimic.png) |
 | [2445](https://ianring.com/musictheory/scales/2445) | [Zadimic](ModeZadimic.md) | E | E, F#, G, A##, B#, C###, E | ![ENaturalZadimic](ModeENaturalZadimic.png) |
+| [1635](https://ianring.com/musictheory/scales/1635) | [Sygimic](ModeSygimic.md) | F# | F#, G, A##, B#, C###, D##, F# | ![FSharpSygimic](ModeFSharpSygimic.png) |
 | [2865](https://ianring.com/musictheory/scales/2865) | [Solimic](ModeSolimic.md) | G | G, A##, B#, C###, D##, E##, G | ![GNaturalSolimic](ModeGNaturalSolimic.png) |
 
 ## Chords

@@ -47,14 +47,8 @@ G
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [485](https://ianring.com/musictheory/scales/485) | [Stoptimic](ModeStoptimic.md) | B | B, C#, D##, E#, F#, G, B | ![BNaturalStoptimic](ModeBNaturalStoptimic.png) |
-| [655](https://ianring.com/musictheory/scales/655) | [Kataptimic](ModeKataptimic.md) | E | E, F, Gb, Abb, B, C#, E | ![ENaturalKataptimic](ModeENaturalKataptimic.png) |
-| [1145](https://ianring.com/musictheory/scales/1145) | [Zygimic](ModeZygimic.md) | C# | C#, D##, E#, F#, G, A##, C# | ![CSharpZygimic](ModeCSharpZygimic.png) |
-| [1145](https://ianring.com/musictheory/scales/1145) | [Zygimic](ModeZygimic.md) | Db | Db, E, F, Gb, Abb, B, Db | ![DFlatZygimic](ModeDFlatZygimic.png) |
-| [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | F | F, Gb, Abb, B, C#, D##, F | ![FNaturalAeolaptimic](ModeFNaturalAeolaptimic.png) |
-| [3235](https://ianring.com/musictheory/scales/3235) | [Pothimic](ModePothimic.md) | F# | F#, G, A##, B##, D##, E#, F# | ![FSharpPothimic](ModeFSharpPothimic.png) |
-| [3235](https://ianring.com/musictheory/scales/3235) | [Pothimic](ModePothimic.md) | Gb | Gb, Abb, B, C#, D##, E#, Gb | ![GFlatPothimic](ModeGFlatPothimic.png) |
 | [3665](https://ianring.com/musictheory/scales/3665) | [Stalimic](ModeStalimic.md) | G | G, A##, B##, D##, E#, F#, G | ![GNaturalStalimic](ModeGNaturalStalimic.png) |
+| [3235](https://ianring.com/musictheory/scales/3235) | [Pothimic](ModePothimic.md) | F# | F#, G, A##, B##, D##, E#, F# | ![FSharpPothimic](ModeFSharpPothimic.png) |
 
 ## Chords
 

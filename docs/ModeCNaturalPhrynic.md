@@ -47,9 +47,7 @@ C
 |--------|------|-------|-------|--------------|
 | [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | C | C, D#, F#, A, C | ![CNaturalPhrynic](ModeCNaturalPhrynic.png) |
 | [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | D# | D#, F#, A, C, D# | ![DSharpPhrynic](ModeDSharpPhrynic.png) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | Eb | Eb, Gb, A, C, Eb | ![EFlatPhrynic](ModeEFlatPhrynic.png) |
 | [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | F# | F#, A, C, D#, F# | ![FSharpPhrynic](ModeFSharpPhrynic.png) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | Gb | Gb, A, C, Eb, Gb | ![GFlatPhrynic](ModeGFlatPhrynic.png) |
 | [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | A | A, C, D#, F#, A | ![ANaturalPhrynic](ModeANaturalPhrynic.png) |
 
 ## Chords

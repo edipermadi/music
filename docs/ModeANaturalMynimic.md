@@ -50,11 +50,9 @@ A
 | [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | A | A, B, C#, D, E, F#, A | ![ANaturalMynimic](ModeANaturalMynimic.png) |
 | [1197](https://ianring.com/musictheory/scales/1197) | [Rocrimic](ModeRocrimic.md) | B | B, C#, D, E, F#, G##, B | ![BNaturalRocrimic](ModeBNaturalRocrimic.png) |
 | [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | C# | C#, D, E, F#, G##, A##, C# | ![CSharpEporimic](ModeCSharpEporimic.png) |
-| [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | Db | Db, Ebb, Fb, Gb, A, B, Db | ![DFlatEporimic](ModeDFlatEporimic.png) |
-| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | F# | F#, G##, A##, B##, C##, D##, F# | ![FSharpEpathimic](ModeFSharpEpathimic.png) |
-| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | Gb | Gb, A, B, C#, D, E, Gb | ![GFlatEpathimic](ModeGFlatEpathimic.png) |
-| [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | E | E, F#, G##, A##, B##, C##, E | ![ENaturalLothimic](ModeENaturalLothimic.png) |
 | [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | D | D, E, F#, G##, A##, B##, D | ![DNaturalThaptimic](ModeDNaturalThaptimic.png) |
+| [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | E | E, F#, G##, A##, B##, C##, E | ![ENaturalLothimic](ModeENaturalLothimic.png) |
+| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | F# | F#, G##, A##, B##, C##, D##, F# | ![FSharpEpathimic](ModeFSharpEpathimic.png) |
 
 ## Chords
 

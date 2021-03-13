@@ -46,9 +46,7 @@ D#
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | D# | D#, F#, A, B, D# | ![DSharpLonic](ModeDSharpLonic.png) |
-| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | Eb | Eb, Gb, A, B, Eb | ![EFlatLonic](ModeEFlatLonic.png) |
 | [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | F# | F#, A, B, D#, F# | ![FSharpPhradic](ModeFSharpPhradic.png) |
-| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | Gb | Gb, A, B, Eb, Gb | ![GFlatPhradic](ModeGFlatPhradic.png) |
 | [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | A | A, B, D#, F#, A | ![ANaturalBolic](ModeANaturalBolic.png) |
 | [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | B | B, D#, F#, A, B | ![BNaturalDaric](ModeBNaturalDaric.png) |
 

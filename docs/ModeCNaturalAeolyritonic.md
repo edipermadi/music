@@ -46,11 +46,10 @@ C
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
+| [913](https://ianring.com/musictheory/scales/913) | [Aeolyritonic](ModeAeolyritonic.md) | C | C, E, G, G#, A, C | ![CNaturalAeolyritonic](ModeCNaturalAeolyritonic.png) |
 | [313](https://ianring.com/musictheory/scales/313) | [Goritonic](ModeGoritonic.md) | E | E, G, G#, A, C, E | ![ENaturalGoritonic](ModeENaturalGoritonic.png) |
 | [551](https://ianring.com/musictheory/scales/551) | [Aeoloditonic](ModeAeoloditonic.md) | G | G, G#, A, C, E, G | ![GNaturalAeoloditonic](ModeGNaturalAeoloditonic.png) |
-| [913](https://ianring.com/musictheory/scales/913) | [Aeolyritonic](ModeAeolyritonic.md) | C | C, E, G, G#, A, C | ![CNaturalAeolyritonic](ModeCNaturalAeolyritonic.png) |
 | [2323](https://ianring.com/musictheory/scales/2323) | [Doptitonic](ModeDoptitonic.md) | G# | G#, A, C, E, G, G# | ![GSharpDoptitonic](ModeGSharpDoptitonic.png) |
-| [2323](https://ianring.com/musictheory/scales/2323) | [Doptitonic](ModeDoptitonic.md) | Ab | Ab, A, C, E, G, Ab | ![AFlatDoptitonic](ModeAFlatDoptitonic.png) |
 | [3209](https://ianring.com/musictheory/scales/3209) | [Aeraphitonic](ModeAeraphitonic.md) | A | A, C, E, G, G#, A | ![ANaturalAeraphitonic](ModeANaturalAeraphitonic.png) |
 
 ## Chords

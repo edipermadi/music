@@ -45,10 +45,10 @@ E
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
+| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | E | E, G, B, D, E | ![ENaturalEporic](ModeENaturalEporic.png) |
+| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | G | G, B, D, E, G | ![GNaturalEpathic](ModeGNaturalEpathic.png) |
 | [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | B | B, D, E, G, B | ![BNaturalMynic](ModeBNaturalMynic.png) |
 | [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | D | D, E, G, B, D | ![DNaturalRothic](ModeDNaturalRothic.png) |
-| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | G | G, B, D, E, G | ![GNaturalEpathic](ModeGNaturalEpathic.png) |
-| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | E | E, G, B, D, E | ![ENaturalEporic](ModeENaturalEporic.png) |
 
 ## Chords
 

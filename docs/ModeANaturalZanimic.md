@@ -48,13 +48,9 @@ A
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [335](https://ianring.com/musictheory/scales/335) | [Zanimic](ModeZanimic.md) | A | A, Bb, Cb, Dbb, Eb, F, A | ![ANaturalZanimic](ModeANaturalZanimic.png) |
-| [965](https://ianring.com/musictheory/scales/965) | [Ionothimic](ModeIonothimic.md) | D# | D#, E#, Cbbb, Cbb, Dbbb, Dbb, D# | ![DSharpIonothimic](ModeDSharpIonothimic.png) |
+| [2215](https://ianring.com/musictheory/scales/2215) | [Ranimic](ModeRanimic.md) | Bb | Bb, Cb, Dbb, Eb, F, G##, Bb | ![BFlatRanimic](ModeBFlatRanimic.png) |
 | [965](https://ianring.com/musictheory/scales/965) | [Ionothimic](ModeIonothimic.md) | Eb | Eb, F, G##, A#, B, C, Eb | ![EFlatIonothimic](ModeEFlatIonothimic.png) |
 | [1265](https://ianring.com/musictheory/scales/1265) | [Pynimic](ModePynimic.md) | F | F, G##, A#, B, C, D#, F | ![FNaturalPynimic](ModeFNaturalPynimic.png) |
-| [2215](https://ianring.com/musictheory/scales/2215) | [Ranimic](ModeRanimic.md) | A# | A#, B, C, D#, E#, Cbbb, A# | ![ASharpRanimic](ModeASharpRanimic.png) |
-| [2215](https://ianring.com/musictheory/scales/2215) | [Ranimic](ModeRanimic.md) | Bb | Bb, Cb, Dbb, Eb, F, G##, Bb | ![BFlatRanimic](ModeBFlatRanimic.png) |
-| [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeLadimic.md) | B | B, C, D#, E#, Cbbb, Cbb, B | ![BNaturalLadimic](ModeBNaturalLadimic.png) |
-| [3625](https://ianring.com/musictheory/scales/3625) | [Podimic](ModePodimic.md) | C | C, D#, E#, Cbbb, Cbb, Dbbb, C | ![CNaturalPodimic](ModeCNaturalPodimic.png) |
 
 ## Chords
 

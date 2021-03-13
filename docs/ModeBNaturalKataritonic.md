@@ -46,11 +46,11 @@ B
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | F | F, G, A, B, D, F | ![FNaturalThonitonic](ModeFNaturalThonitonic.png) |
+| [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | B | B, D, F, G, A, B | ![BNaturalKataritonic](ModeBNaturalKataritonic.png) |
 | [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | D | D, F, G, A, B, D | ![DNaturalSylitonic](ModeDNaturalSylitonic.png) |
+| [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | F | F, G, A, B, D, F | ![FNaturalThonitonic](ModeFNaturalThonitonic.png) |
 | [1173](https://ianring.com/musictheory/scales/1173) | [Phropitonic](ModePhropitonic.md) | G | G, A, B, D, F, G | ![GNaturalPhropitonic](ModeGNaturalPhropitonic.png) |
 | [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | A | A, B, D, F, G, A | ![ANaturalStaditonic](ModeANaturalStaditonic.png) |
-| [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | B | B, D, F, G, A, B | ![BNaturalKataritonic](ModeBNaturalKataritonic.png) |
 
 ## Chords
 

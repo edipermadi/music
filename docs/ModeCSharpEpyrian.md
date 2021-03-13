@@ -49,16 +49,10 @@ C#
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [431](https://ianring.com/musictheory/scales/431) | [Epyrian](ModeEpyrian.md) | C# | C#, D, Eb, Fb, Gb, Ab, Bbb, C# | ![CSharpEpyrian](ModeCSharpEpyrian.png) |
-| [431](https://ianring.com/musictheory/scales/431) | [Epyrian](ModeEpyrian.md) | Db | Db, Ebb, Fbb, Gbbb, Abbb, Bbbb, Cbbb, Db | ![DFlatEpyrian](ModeDFlatEpyrian.png) |
-| [1507](https://ianring.com/musictheory/scales/1507) | [Zynian](ModeZynian.md) | G# | G#, A, B##, C##, D#, E, F#, G# | ![GSharpZynian](ModeGSharpZynian.png) |
-| [1507](https://ianring.com/musictheory/scales/1507) | [Zynian](ModeZynian.md) | Ab | Ab, Bbb, C#, D, Eb, Fb, Gb, Ab | ![AFlatZynian](ModeAFlatZynian.png) |
-| [1933](https://ianring.com/musictheory/scales/1933) | [Mocrian](ModeMocrian.md) | F# | F#, G#, A, B##, C##, D#, E, F# | ![FSharpMocrian](ModeFSharpMocrian.png) |
-| [1933](https://ianring.com/musictheory/scales/1933) | [Mocrian](ModeMocrian.md) | Gb | Gb, Ab, Bbb, C#, D, Eb, Fb, Gb | ![GFlatMocrian](ModeGFlatMocrian.png) |
 | [2263](https://ianring.com/musictheory/scales/2263) | [Lycrian](ModeLycrian.md) | D | D, Eb, Fb, Gb, Ab, Bbb, C#, D | ![DNaturalLycrian](ModeDNaturalLycrian.png) |
-| [2801](https://ianring.com/musictheory/scales/2801) | [Zogian](ModeZogian.md) | A | A, B##, C##, D#, E, F#, G#, A | ![ANaturalZogian](ModeANaturalZogian.png) |
-| [3179](https://ianring.com/musictheory/scales/3179) | [Daptian](ModeDaptian.md) | D# | D#, E, F#, G#, A, B##, C##, D# | ![DSharpDaptian](ModeDSharpDaptian.png) |
 | [3179](https://ianring.com/musictheory/scales/3179) | [Daptian](ModeDaptian.md) | Eb | Eb, Fb, Gb, Ab, Bbb, C#, D, Eb | ![EFlatDaptian](ModeEFlatDaptian.png) |
-| [3637](https://ianring.com/musictheory/scales/3637) | [Kygian](ModeKygian.md) | E | E, F#, G#, A, B##, C##, D#, E | ![ENaturalKygian](ModeENaturalKygian.png) |
+| [1933](https://ianring.com/musictheory/scales/1933) | [Mocrian](ModeMocrian.md) | Gb | Gb, Ab, Bbb, C#, D, Eb, Fb, Gb | ![GFlatMocrian](ModeGFlatMocrian.png) |
+| [1507](https://ianring.com/musictheory/scales/1507) | [Zynian](ModeZynian.md) | Ab | Ab, Bbb, C#, D, Eb, Fb, Gb, Ab | ![AFlatZynian](ModeAFlatZynian.png) |
 
 ## Chords
 

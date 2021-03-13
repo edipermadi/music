@@ -49,15 +49,14 @@ D
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [1455](https://ianring.com/musictheory/scales/1455) | [Soryllic](ModeSoryllic.md) | E | E, F, F#, G, A, B, C, D, E | ![ENaturalSoryllic](ModeENaturalSoryllic.png) |
-| [1515](https://ianring.com/musictheory/scales/1515) | [Solyllic](ModeSolyllic.md) | B | B, C, D, E, F, F#, G, A, B | ![BNaturalSolyllic](ModeBNaturalSolyllic.png) |
 | [1725](https://ianring.com/musictheory/scales/1725) | [Mixodyllic](ModeMixodyllic.md) | D | D, E, F, F#, G, A, B, C, D | ![DNaturalMixodyllic](ModeDNaturalMixodyllic.png) |
-| [1965](https://ianring.com/musictheory/scales/1965) | [Gadyllic](ModeGadyllic.md) | A | A, B, C, D, E, F, F#, G, A | ![ANaturalGadyllic](ModeANaturalGadyllic.png) |
+| [1455](https://ianring.com/musictheory/scales/1455) | [Soryllic](ModeSoryllic.md) | E | E, F, F#, G, A, B, C, D, E | ![ENaturalSoryllic](ModeENaturalSoryllic.png) |
 | [2775](https://ianring.com/musictheory/scales/2775) | [Godyllic](ModeGodyllic.md) | F | F, F#, G, A, B, C, D, E, F | ![FNaturalGodyllic](ModeFNaturalGodyllic.png) |
-| [2805](https://ianring.com/musictheory/scales/2805) | [Zylyllic](ModeZylyllic.md) | C | C, D, E, F, F#, G, A, B, C | ![CNaturalZylyllic](ModeCNaturalZylyllic.png) |
 | [3435](https://ianring.com/musictheory/scales/3435) | [Epiphyllic](ModeEpiphyllic.md) | F# | F#, G, A, B, C, D, E, F, F# | ![FSharpEpiphyllic](ModeFSharpEpiphyllic.png) |
-| [3435](https://ianring.com/musictheory/scales/3435) | [Epiphyllic](ModeEpiphyllic.md) | Gb | Gb, G, A, B, C, D, E, F, Gb | ![GFlatEpiphyllic](ModeGFlatEpiphyllic.png) |
 | [3765](https://ianring.com/musictheory/scales/3765) | [Aerycryllic](ModeAerycryllic.md) | G | G, A, B, C, D, E, F, F#, G | ![GNaturalAerycryllic](ModeGNaturalAerycryllic.png) |
+| [1965](https://ianring.com/musictheory/scales/1965) | [Gadyllic](ModeGadyllic.md) | A | A, B, C, D, E, F, F#, G, A | ![ANaturalGadyllic](ModeANaturalGadyllic.png) |
+| [1515](https://ianring.com/musictheory/scales/1515) | [Solyllic](ModeSolyllic.md) | B | B, C, D, E, F, F#, G, A, B | ![BNaturalSolyllic](ModeBNaturalSolyllic.png) |
+| [2805](https://ianring.com/musictheory/scales/2805) | [Zylyllic](ModeZylyllic.md) | C | C, D, E, F, F#, G, A, B, C | ![CNaturalZylyllic](ModeCNaturalZylyllic.png) |
 
 ## Chords
 

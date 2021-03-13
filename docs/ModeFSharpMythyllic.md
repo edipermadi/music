@@ -49,17 +49,14 @@ F#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [509](https://ianring.com/musictheory/scales/509) | [Ionothyllic](ModeIonothyllic.md) | E | E, F#, G, G#, A, A#, B, C, E | ![ENaturalIonothyllic](ModeENaturalIonothyllic.png) |
 | [1151](https://ianring.com/musictheory/scales/1151) | [Mythyllic](ModeMythyllic.md) | F# | F#, G, G#, A, A#, B, C, E, F# | ![FSharpMythyllic](ModeFSharpMythyllic.png) |
-| [1151](https://ianring.com/musictheory/scales/1151) | [Mythyllic](ModeMythyllic.md) | Gb | Gb, G, Ab, A, Bb, B, C, E, Gb | ![GFlatMythyllic](ModeGFlatMythyllic.png) |
 | [2623](https://ianring.com/musictheory/scales/2623) | [Aerylyllic](ModeAerylyllic.md) | G | G, G#, A, A#, B, C, E, F#, G | ![GNaturalAerylyllic](ModeGNaturalAerylyllic.png) |
 | [3359](https://ianring.com/musictheory/scales/3359) | [Bonyllic](ModeBonyllic.md) | G# | G#, A, A#, B, C, E, F#, G, G# | ![GSharpBonyllic](ModeGSharpBonyllic.png) |
-| [3359](https://ianring.com/musictheory/scales/3359) | [Bonyllic](ModeBonyllic.md) | Ab | Ab, A, Bb, B, C, E, Gb, G, Ab | ![AFlatBonyllic](ModeAFlatBonyllic.png) |
 | [3727](https://ianring.com/musictheory/scales/3727) | [Tholyllic](ModeTholyllic.md) | A | A, A#, B, C, E, F#, G, G#, A | ![ANaturalTholyllic](ModeANaturalTholyllic.png) |
 | [3911](https://ianring.com/musictheory/scales/3911) | [Katyryllic](ModeKatyryllic.md) | A# | A#, B, C, E, F#, G, G#, A, A# | ![ASharpKatyryllic](ModeASharpKatyryllic.png) |
-| [3911](https://ianring.com/musictheory/scales/3911) | [Katyryllic](ModeKatyryllic.md) | Bb | Bb, B, C, E, Gb, G, Ab, A, Bb | ![BFlatKatyryllic](ModeBFlatKatyryllic.png) |
 | [4003](https://ianring.com/musictheory/scales/4003) | [Sadyllic](ModeSadyllic.md) | B | B, C, E, F#, G, G#, A, A#, B | ![BNaturalSadyllic](ModeBNaturalSadyllic.png) |
 | [4049](https://ianring.com/musictheory/scales/4049) | [Stycryllic](ModeStycryllic.md) | C | C, E, F#, G, G#, A, A#, B, C | ![CNaturalStycryllic](ModeCNaturalStycryllic.png) |
+| [509](https://ianring.com/musictheory/scales/509) | [Ionothyllic](ModeIonothyllic.md) | E | E, F#, G, G#, A, A#, B, C, E | ![ENaturalIonothyllic](ModeENaturalIonothyllic.png) |
 
 ## Chords
 

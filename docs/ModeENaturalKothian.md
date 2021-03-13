@@ -49,13 +49,9 @@ E
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [443](https://ianring.com/musictheory/scales/443) | [Kothian](ModeKothian.md) | E | E, F, G, Ab, Bbb, Cb, Dbb, E | ![ENaturalKothian](ModeENaturalKothian.png) |
-| [1591](https://ianring.com/musictheory/scales/1591) | [Rodian](ModeRodian.md) | G | G, Ab, Bbb, Cb, Dbb, E, F, G | ![GNaturalRodian](ModeGNaturalRodian.png) |
-| [1891](https://ianring.com/musictheory/scales/1891) | [Thalian](ModeThalian.md) | B | B, C, D##, E#, F##, G#, A, B | ![BNaturalThalian](ModeBNaturalThalian.png) |
 | [2269](https://ianring.com/musictheory/scales/2269) | [Pygian](ModePygian.md) | F | F, G, Ab, Bbb, Cb, Dbb, E, F | ![FNaturalPygian](ModeFNaturalPygian.png) |
-| [2843](https://ianring.com/musictheory/scales/2843) | [Sorian](ModeSorian.md) | G# | G#, A, B, C, D##, E#, F##, G# | ![GSharpSorian](ModeGSharpSorian.png) |
+| [1591](https://ianring.com/musictheory/scales/1591) | [Rodian](ModeRodian.md) | G | G, Ab, Bbb, Cb, Dbb, E, F, G | ![GNaturalRodian](ModeGNaturalRodian.png) |
 | [2843](https://ianring.com/musictheory/scales/2843) | [Sorian](ModeSorian.md) | Ab | Ab, Bbb, Cb, Dbb, E, F, G, Ab | ![AFlatSorian](ModeAFlatSorian.png) |
-| [2993](https://ianring.com/musictheory/scales/2993) | [Stythian](ModeStythian.md) | C | C, D##, E#, F##, G#, A, B, C | ![CNaturalStythian](ModeCNaturalStythian.png) |
-| [3469](https://ianring.com/musictheory/scales/3469) | [Monian](ModeMonian.md) | A | A, B, C, D##, E#, F##, G#, A | ![ANaturalMonian](ModeANaturalMonian.png) |
 
 ## Chords
 

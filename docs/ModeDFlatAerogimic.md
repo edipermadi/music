@@ -47,15 +47,10 @@ Db
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [603](https://ianring.com/musictheory/scales/603) | [Aeolygimic](ModeAeolygimic.md) | C | C, Db, Eb, Fb, Gb, A, C | ![CNaturalAeolygimic](ModeCNaturalAeolygimic.png) |
-| [729](https://ianring.com/musictheory/scales/729) | [Stygimic](ModeStygimic.md) | A | A, B#, C#, D#, E, F#, A | ![ANaturalStygimic](ModeANaturalStygimic.png) |
-| [1611](https://ianring.com/musictheory/scales/1611) | [Dacrimic](ModeDacrimic.md) | D# | D#, E, F#, G##, A###, B##, D# | ![DSharpDacrimic](ModeDSharpDacrimic.png) |
-| [1611](https://ianring.com/musictheory/scales/1611) | [Dacrimic](ModeDacrimic.md) | Eb | Eb, Fb, Gb, A, B#, C#, Eb | ![EFlatDacrimic](ModeEFlatDacrimic.png) |
-| [1737](https://ianring.com/musictheory/scales/1737) | [Thalimic](ModeThalimic.md) | F# | F#, G##, A###, B##, C###, D##, F# | ![FSharpThalimic](ModeFSharpThalimic.png) |
-| [1737](https://ianring.com/musictheory/scales/1737) | [Thalimic](ModeThalimic.md) | Gb | Gb, A, B#, C#, D#, E, Gb | ![GFlatThalimic](ModeGFlatThalimic.png) |
-| [2349](https://ianring.com/musictheory/scales/2349) | [Aerogimic](ModeAerogimic.md) | C# | C#, D#, E, F#, G##, A###, C# | ![CSharpAerogimic](ModeCSharpAerogimic.png) |
 | [2349](https://ianring.com/musictheory/scales/2349) | [Aerogimic](ModeAerogimic.md) | Db | Db, Eb, Fb, Gb, A, B#, Db | ![DFlatAerogimic](ModeDFlatAerogimic.png) |
-| [2853](https://ianring.com/musictheory/scales/2853) | [Baptimic](ModeBaptimic.md) | E | E, F#, G##, A###, B##, C###, E | ![ENaturalBaptimic](ModeENaturalBaptimic.png) |
+| [1611](https://ianring.com/musictheory/scales/1611) | [Dacrimic](ModeDacrimic.md) | Eb | Eb, Fb, Gb, A, B#, C#, Eb | ![EFlatDacrimic](ModeEFlatDacrimic.png) |
+| [1737](https://ianring.com/musictheory/scales/1737) | [Thalimic](ModeThalimic.md) | Gb | Gb, A, B#, C#, D#, E, Gb | ![GFlatThalimic](ModeGFlatThalimic.png) |
+| [729](https://ianring.com/musictheory/scales/729) | [Stygimic](ModeStygimic.md) | A | A, B#, C#, D#, E, F#, A | ![ANaturalStygimic](ModeANaturalStygimic.png) |
 
 ## Chords
 

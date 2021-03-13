@@ -47,16 +47,11 @@ Db
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [407](https://ianring.com/musictheory/scales/407) | [Zylimic](ModeZylimic.md) | F# | F#, G, Ab, Bb, C#, D, F# | ![FSharpZylimic](ModeFSharpZylimic.png) |
-| [407](https://ianring.com/musictheory/scales/407) | [Zylimic](ModeZylimic.md) | Gb | Gb, Abb, Bbbb, Cbb, Db, Ebb, Gb | ![GFlatZylimic](ModeGFlatZylimic.png) |
-| [739](https://ianring.com/musictheory/scales/739) | [Rorimic](ModeRorimic.md) | C# | C#, D, E##, F##, G#, A#, C# | ![CSharpRorimic](ModeCSharpRorimic.png) |
 | [739](https://ianring.com/musictheory/scales/739) | [Rorimic](ModeRorimic.md) | Db | Db, Ebb, F#, G, Ab, Bb, Db | ![DFlatRorimic](ModeDFlatRorimic.png) |
-| [1817](https://ianring.com/musictheory/scales/1817) | [Phrythimic](ModePhrythimic.md) | A# | A#, B##, C##, E##, F##, G#, A# | ![ASharpPhrythimic](ModeASharpPhrythimic.png) |
-| [1817](https://ianring.com/musictheory/scales/1817) | [Phrythimic](ModePhrythimic.md) | Bb | Bb, C#, D, E##, F##, G#, Bb | ![BFlatPhrythimic](ModeBFlatPhrythimic.png) |
+| [407](https://ianring.com/musictheory/scales/407) | [Zylimic](ModeZylimic.md) | F# | F#, G, Ab, Bb, C#, D, F# | ![FSharpZylimic](ModeFSharpZylimic.png) |
 | [2251](https://ianring.com/musictheory/scales/2251) | [Zodimic](ModeZodimic.md) | G | G, Ab, Bb, C#, D, E##, G | ![GNaturalZodimic](ModeGNaturalZodimic.png) |
-| [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | D | D, E##, F##, G#, A#, B##, D | ![DNaturalKanimic](ModeDNaturalKanimic.png) |
-| [3173](https://ianring.com/musictheory/scales/3173) | [Zarimic](ModeZarimic.md) | G# | G#, A#, B##, C##, E##, F##, G# | ![GSharpZarimic](ModeGSharpZarimic.png) |
 | [3173](https://ianring.com/musictheory/scales/3173) | [Zarimic](ModeZarimic.md) | Ab | Ab, Bb, C#, D, E##, F##, Ab | ![AFlatZarimic](ModeAFlatZarimic.png) |
+| [1817](https://ianring.com/musictheory/scales/1817) | [Phrythimic](ModePhrythimic.md) | Bb | Bb, C#, D, E##, F##, G#, Bb | ![BFlatPhrythimic](ModeBFlatPhrythimic.png) |
 
 ## Chords
 

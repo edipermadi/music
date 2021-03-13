@@ -47,14 +47,7 @@ G#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [715](https://ianring.com/musictheory/scales/715) | [Dodimic](ModeDodimic.md) | F | F, Gb, Ab, B, C, D, F | ![FNaturalDodimic](ModeFNaturalDodimic.png) |
-| [715](https://ianring.com/musictheory/scales/715) | [Dodimic](ModeDodimic.md) | B | B, C, D, E#, F#, G#, B | ![BNaturalDodimic](ModeBNaturalDodimic.png) |
-| [1625](https://ianring.com/musictheory/scales/1625) | [Lythimic](ModeLythimic.md) | D | D, E#, F#, G#, A##, B#, D | ![DNaturalLythimic](ModeDNaturalLythimic.png) |
 | [1625](https://ianring.com/musictheory/scales/1625) | [Lythimic](ModeLythimic.md) | G# | G#, A##, B#, C##, D###, E##, G# | ![GSharpLythimic](ModeGSharpLythimic.png) |
-| [1625](https://ianring.com/musictheory/scales/1625) | [Lythimic](ModeLythimic.md) | Ab | Ab, B, C, D, E#, F#, Ab | ![AFlatLythimic](ModeAFlatLythimic.png) |
-| [2405](https://ianring.com/musictheory/scales/2405) | [Katalimic](ModeKatalimic.md) | C | C, D, E#, F#, G#, A##, C | ![CNaturalKatalimic](ModeCNaturalKatalimic.png) |
-| [2405](https://ianring.com/musictheory/scales/2405) | [Katalimic](ModeKatalimic.md) | F# | F#, G#, A##, B#, C##, D###, F# | ![FSharpKatalimic](ModeFSharpKatalimic.png) |
-| [2405](https://ianring.com/musictheory/scales/2405) | [Katalimic](ModeKatalimic.md) | Gb | Gb, Ab, B, C, D, E#, Gb | ![GFlatKatalimic](ModeGFlatKatalimic.png) |
 
 ## Chords
 

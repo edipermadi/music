@@ -46,13 +46,11 @@ F#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | A | A, B, C#, E, F#, A | ![ANaturalPentatonic](ModeANaturalPentatonic.png) |
-| [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | E | E, F#, A, B, C#, E | ![ENaturalMynitonic](ModeENaturalMynitonic.png) |
-| [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | B | B, C#, E, F#, A, B | ![BNaturalThaptitonic](ModeBNaturalThaptitonic.png) |
 | [1193](https://ianring.com/musictheory/scales/1193) | [Rocritonic](ModeRocritonic.md) | F# | F#, A, B, C#, E, F# | ![FSharpRocritonic](ModeFSharpRocritonic.png) |
-| [1193](https://ianring.com/musictheory/scales/1193) | [Rocritonic](ModeRocritonic.md) | Gb | Gb, A, B, Db, E, Gb | ![GFlatRocritonic](ModeGFlatRocritonic.png) |
+| [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | A | A, B, C#, E, F#, A | ![ANaturalPentatonic](ModeANaturalPentatonic.png) |
+| [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | B | B, C#, E, F#, A, B | ![BNaturalThaptitonic](ModeBNaturalThaptitonic.png) |
 | [1321](https://ianring.com/musictheory/scales/1321) | [Epathitonic](ModeEpathitonic.md) | C# | C#, E, F#, A, B, C# | ![CSharpEpathitonic](ModeCSharpEpathitonic.png) |
-| [1321](https://ianring.com/musictheory/scales/1321) | [Epathitonic](ModeEpathitonic.md) | Db | Db, E, Gb, A, B, Db | ![DFlatEpathitonic](ModeDFlatEpathitonic.png) |
+| [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | E | E, F#, A, B, C#, E | ![ENaturalMynitonic](ModeENaturalMynitonic.png) |
 
 ## Chords
 

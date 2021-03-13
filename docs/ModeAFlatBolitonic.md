@@ -46,13 +46,11 @@ Ab
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
+| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | Ab | Ab, C, D, E, Gb, Ab | ![AFlatBolitonic](ModeAFlatBolitonic.png) |
 | [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | C | C, D, E, F#, G#, C | ![CNaturalBothitonic](ModeCNaturalBothitonic.png) |
 | [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | D | D, E, F#, G#, C, D | ![DNaturalKataditonic](ModeDNaturalKataditonic.png) |
 | [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | E | E, F#, G#, C, D, E | ![ENaturalKoditonic](ModeENaturalKoditonic.png) |
-| [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | F# | F#, G#, C, D, E, F# | ![FSharpTholitonic](ModeFSharpTholitonic.png) |
 | [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | Gb | Gb, Ab, C, D, E, Gb | ![GFlatTholitonic](ModeGFlatTholitonic.png) |
-| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | G# | G#, C, D, E, F#, G# | ![GSharpBolitonic](ModeGSharpBolitonic.png) |
-| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | Ab | Ab, C, D, E, Gb, Ab | ![AFlatBolitonic](ModeAFlatBolitonic.png) |
 
 ## Chords
 

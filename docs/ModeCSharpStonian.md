@@ -48,16 +48,11 @@ C#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [487](https://ianring.com/musictheory/scales/487) | [Dynian](ModeDynian.md) | G | G, Ab, Bbb, C, Db, Ebb, Fbb, G | ![GNaturalDynian](ModeGNaturalDynian.png) |
-| [911](https://ianring.com/musictheory/scales/911) | [Radian](ModeRadian.md) | C | C, Db, Ebb, Fbb, G, Ab, Bbb, C | ![CNaturalRadian](ModeCNaturalRadian.png) |
-| [2291](https://ianring.com/musictheory/scales/2291) | [Zydian](ModeZydian.md) | G# | G#, A, B#, C#, D, Eb, F##, G# | ![GSharpZydian](ModeGSharpZydian.png) |
-| [2291](https://ianring.com/musictheory/scales/2291) | [Zydian](ModeZydian.md) | Ab | Ab, Bbb, C, Db, Ebb, Fbb, G, Ab | ![AFlatZydian](ModeAFlatZydian.png) |
 | [2503](https://ianring.com/musictheory/scales/2503) | [Stonian](ModeStonian.md) | C# | C#, D, Eb, F##, G#, A, B#, C# | ![CSharpStonian](ModeCSharpStonian.png) |
-| [2503](https://ianring.com/musictheory/scales/2503) | [Stonian](ModeStonian.md) | Db | Db, Ebb, Fbb, G, Ab, Bbb, C, Db | ![DFlatStonian](ModeDFlatStonian.png) |
-| [3193](https://ianring.com/musictheory/scales/3193) | [Zathian](ModeZathian.md) | A | A, B#, C#, D, Eb, F##, G#, A | ![ANaturalZathian](ModeANaturalZathian.png) |
 | [3299](https://ianring.com/musictheory/scales/3299) | [Syptian](ModeSyptian.md) | D | D, Eb, F##, G#, A, B#, C#, D | ![DNaturalSyptian](ModeDNaturalSyptian.png) |
-| [3697](https://ianring.com/musictheory/scales/3697) | [Ionarian](ModeIonarian.md) | D# | D#, E###, F###, G##, A###, B##, C##, D# | ![DSharpIonarian](ModeDSharpIonarian.png) |
 | [3697](https://ianring.com/musictheory/scales/3697) | [Ionarian](ModeIonarian.md) | Eb | Eb, F##, G#, A, B#, C#, D, Eb | ![EFlatIonarian](ModeEFlatIonarian.png) |
+| [2291](https://ianring.com/musictheory/scales/2291) | [Zydian](ModeZydian.md) | G# | G#, A, B#, C#, D, Eb, F##, G# | ![GSharpZydian](ModeGSharpZydian.png) |
+| [3193](https://ianring.com/musictheory/scales/3193) | [Zathian](ModeZathian.md) | A | A, B#, C#, D, Eb, F##, G#, A | ![ANaturalZathian](ModeANaturalZathian.png) |
 
 ## Chords
 

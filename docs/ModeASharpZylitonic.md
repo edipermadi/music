@@ -46,14 +46,11 @@ A#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [285](https://ianring.com/musictheory/scales/285) | [Zaritonic](ModeZaritonic.md) | F# | F#, G#, A, A#, D, F# | ![FSharpZaritonic](ModeFSharpZaritonic.png) |
-| [285](https://ianring.com/musictheory/scales/285) | [Zaritonic](ModeZaritonic.md) | Gb | Gb, Ab, A, Bb, D, Gb | ![GFlatZaritonic](ModeGFlatZaritonic.png) |
-| [465](https://ianring.com/musictheory/scales/465) | [Zoditonic](ModeZoditonic.md) | D | D, F#, G#, A, A#, D | ![DNaturalZoditonic](ModeDNaturalZoditonic.png) |
-| [1095](https://ianring.com/musictheory/scales/1095) | [Phrythitonic](ModePhrythitonic.md) | G# | G#, A, A#, D, F#, G# | ![GSharpPhrythitonic](ModeGSharpPhrythitonic.png) |
-| [1095](https://ianring.com/musictheory/scales/1095) | [Phrythitonic](ModePhrythitonic.md) | Ab | Ab, A, Bb, D, Gb, Ab | ![AFlatPhrythitonic](ModeAFlatPhrythitonic.png) |
-| [2595](https://ianring.com/musictheory/scales/2595) | [Rolitonic](ModeRolitonic.md) | A | A, A#, D, F#, G#, A | ![ANaturalRolitonic](ModeANaturalRolitonic.png) |
 | [3345](https://ianring.com/musictheory/scales/3345) | [Zylitonic](ModeZylitonic.md) | A# | A#, D, F#, G#, A, A# | ![ASharpZylitonic](ModeASharpZylitonic.png) |
-| [3345](https://ianring.com/musictheory/scales/3345) | [Zylitonic](ModeZylitonic.md) | Bb | Bb, D, Gb, Ab, A, Bb | ![BFlatZylitonic](ModeBFlatZylitonic.png) |
+| [465](https://ianring.com/musictheory/scales/465) | [Zoditonic](ModeZoditonic.md) | D | D, F#, G#, A, A#, D | ![DNaturalZoditonic](ModeDNaturalZoditonic.png) |
+| [285](https://ianring.com/musictheory/scales/285) | [Zaritonic](ModeZaritonic.md) | F# | F#, G#, A, A#, D, F# | ![FSharpZaritonic](ModeFSharpZaritonic.png) |
+| [1095](https://ianring.com/musictheory/scales/1095) | [Phrythitonic](ModePhrythitonic.md) | G# | G#, A, A#, D, F#, G# | ![GSharpPhrythitonic](ModeGSharpPhrythitonic.png) |
+| [2595](https://ianring.com/musictheory/scales/2595) | [Rolitonic](ModeRolitonic.md) | A | A, A#, D, F#, G#, A | ![ANaturalRolitonic](ModeANaturalRolitonic.png) |
 
 ## Chords
 

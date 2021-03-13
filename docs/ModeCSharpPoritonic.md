@@ -46,13 +46,10 @@ C#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | F | F, F#, G#, A, C#, F | ![FNaturalAerylitonic](ModeFNaturalAerylitonic.png) |
 | [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | C# | C#, F, F#, G#, A, C# | ![CSharpPoritonic](ModeCSharpPoritonic.png) |
-| [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | Db | Db, F, Gb, Ab, A, Db | ![DFlatPoritonic](ModeDFlatPoritonic.png) |
-| [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | G# | G#, A, C#, F, F#, G# | ![GSharpLagitonic](ModeGSharpLagitonic.png) |
-| [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | Ab | Ab, A, Db, F, Gb, Ab | ![AFlatLagitonic](ModeAFlatLagitonic.png) |
+| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | F | F, F#, G#, A, C#, F | ![FNaturalAerylitonic](ModeFNaturalAerylitonic.png) |
 | [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | F# | F#, G#, A, C#, F, F# | ![FSharpZagitonic](ModeFSharpZagitonic.png) |
-| [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | Gb | Gb, Ab, A, Db, F, Gb | ![GFlatZagitonic](ModeGFlatZagitonic.png) |
+| [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | G# | G#, A, C#, F, F#, G# | ![GSharpLagitonic](ModeGSharpLagitonic.png) |
 | [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | A | A, C#, F, F#, G#, A | ![ANaturalDolitonic](ModeANaturalDolitonic.png) |
 
 ## Chords

@@ -45,10 +45,10 @@ D
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | B | B, D, F, G, B | ![BNaturalLonic](ModeBNaturalLonic.png) |
 | [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | D | D, F, G, B, D | ![DNaturalPhradic](ModeDNaturalPhradic.png) |
 | [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | F | F, G, B, D, F | ![FNaturalBolic](ModeFNaturalBolic.png) |
 | [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | G | G, B, D, F, G | ![GNaturalDaric](ModeGNaturalDaric.png) |
+| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | B | B, D, F, G, B | ![BNaturalLonic](ModeBNaturalLonic.png) |
 
 ## Chords
 

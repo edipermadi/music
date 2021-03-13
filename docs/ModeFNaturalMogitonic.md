@@ -46,13 +46,11 @@ F
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [333](https://ianring.com/musictheory/scales/333) | [Bogitonic](ModeBogitonic.md) | D# | D#, F, F#, A, B, D# | ![DSharpBogitonic](ModeDSharpBogitonic.png) |
-| [333](https://ianring.com/musictheory/scales/333) | [Bogitonic](ModeBogitonic.md) | Eb | Eb, F, Gb, A, B, Eb | ![EFlatBogitonic](ModeEFlatBogitonic.png) |
-| [837](https://ianring.com/musictheory/scales/837) | [Epaditonic](ModeEpaditonic.md) | A | A, B, D#, F, F#, A | ![ANaturalEpaditonic](ModeANaturalEpaditonic.png) |
 | [1107](https://ianring.com/musictheory/scales/1107) | [Mogitonic](ModeMogitonic.md) | F | F, F#, A, B, D#, F | ![FNaturalMogitonic](ModeFNaturalMogitonic.png) |
-| [1233](https://ianring.com/musictheory/scales/1233) | [Ionoditonic](ModeIonoditonic.md) | B | B, D#, F, F#, A, B | ![BNaturalIonoditonic](ModeBNaturalIonoditonic.png) |
 | [2601](https://ianring.com/musictheory/scales/2601) | [Docritonic](ModeDocritonic.md) | F# | F#, A, B, D#, F, F# | ![FSharpDocritonic](ModeFSharpDocritonic.png) |
-| [2601](https://ianring.com/musictheory/scales/2601) | [Docritonic](ModeDocritonic.md) | Gb | Gb, A, B, Eb, F, Gb | ![GFlatDocritonic](ModeGFlatDocritonic.png) |
+| [837](https://ianring.com/musictheory/scales/837) | [Epaditonic](ModeEpaditonic.md) | A | A, B, D#, F, F#, A | ![ANaturalEpaditonic](ModeANaturalEpaditonic.png) |
+| [1233](https://ianring.com/musictheory/scales/1233) | [Ionoditonic](ModeIonoditonic.md) | B | B, D#, F, F#, A, B | ![BNaturalIonoditonic](ModeBNaturalIonoditonic.png) |
+| [333](https://ianring.com/musictheory/scales/333) | [Bogitonic](ModeBogitonic.md) | D# | D#, F, F#, A, B, D# | ![DSharpBogitonic](ModeDSharpBogitonic.png) |
 
 ## Chords
 

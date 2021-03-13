@@ -46,14 +46,11 @@ Ab
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [339](https://ianring.com/musictheory/scales/339) | [Zaptitonic](ModeZaptitonic.md) | C | C, C#, E, F#, G#, C | ![CNaturalZaptitonic](ModeCNaturalZaptitonic.png) |
-| [789](https://ianring.com/musictheory/scales/789) | [Zogitonic](ModeZogitonic.md) | E | E, F#, G#, C, C#, E | ![ENaturalZogitonic](ModeENaturalZogitonic.png) |
-| [1221](https://ianring.com/musictheory/scales/1221) | [Epyritonic](ModeEpyritonic.md) | F# | F#, G#, C, C#, E, F# | ![FSharpEpyritonic](ModeFSharpEpyritonic.png) |
-| [1221](https://ianring.com/musictheory/scales/1221) | [Epyritonic](ModeEpyritonic.md) | Gb | Gb, Ab, C, Db, E, Gb | ![GFlatEpyritonic](ModeGFlatEpyritonic.png) |
-| [1329](https://ianring.com/musictheory/scales/1329) | [Epygitonic](ModeEpygitonic.md) | G# | G#, C, C#, E, F#, G# | ![GSharpEpygitonic](ModeGSharpEpygitonic.png) |
 | [1329](https://ianring.com/musictheory/scales/1329) | [Epygitonic](ModeEpygitonic.md) | Ab | Ab, C, Db, E, Gb, Ab | ![AFlatEpygitonic](ModeAFlatEpygitonic.png) |
-| [2217](https://ianring.com/musictheory/scales/2217) | [Kagitonic](ModeKagitonic.md) | C# | C#, E, F#, G#, C, C# | ![CSharpKagitonic](ModeCSharpKagitonic.png) |
+| [339](https://ianring.com/musictheory/scales/339) | [Zaptitonic](ModeZaptitonic.md) | C | C, C#, E, F#, G#, C | ![CNaturalZaptitonic](ModeCNaturalZaptitonic.png) |
 | [2217](https://ianring.com/musictheory/scales/2217) | [Kagitonic](ModeKagitonic.md) | Db | Db, E, Gb, Ab, C, Db | ![DFlatKagitonic](ModeDFlatKagitonic.png) |
+| [789](https://ianring.com/musictheory/scales/789) | [Zogitonic](ModeZogitonic.md) | E | E, F#, G#, C, C#, E | ![ENaturalZogitonic](ModeENaturalZogitonic.png) |
+| [1221](https://ianring.com/musictheory/scales/1221) | [Epyritonic](ModeEpyritonic.md) | Gb | Gb, Ab, C, Db, E, Gb | ![GFlatEpyritonic](ModeGFlatEpyritonic.png) |
 
 ## Chords
 
