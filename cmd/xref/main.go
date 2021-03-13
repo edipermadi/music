@@ -23,13 +23,11 @@ import (
 	"go.uber.org/zap"
 )
 
-var mapModeToChords map[int]map[note.Note]chord.Chords
 var mapModeNumberToModes map[int]mode.Modes
 var mapScaleToModes map[scale.Scale]mode.Modes
 var mapChordNumberToModes map[int]mode.Modes
 
 func init() {
-	mapModeToChords = make(map[int]map[note.Note]chord.Chords)
 	mapModeNumberToModes = make(map[int]mode.Modes)
 	mapScaleToModes = make(map[scale.Scale]mode.Modes)
 	mapChordNumberToModes = make(map[int]mode.Modes)
@@ -37,22 +35,14 @@ func init() {
 	for _, givenMode := range mode.AllModes() {
 		computedNotes := givenMode.Notes()
 
-		chordsSet := make(map[note.Note]chord.Chords)
 		for _, givenRoot := range computedNotes {
-			chords := make(chord.Chords, 0)
 			for _, givenChord := range chord.AllChords() {
-				if givenChord.Root() != givenRoot {
-					continue
-				}
-
-				if givenMode.Number()&givenChord.Number() == givenChord.Number() {
-					chords = append(chords, givenChord)
+				if givenChord.Root() == givenRoot &&
+					(givenMode.Number()|givenChord.Number() == givenMode.Number()) {
 					mapChordNumberToModes[givenChord.Number()] = append(mapChordNumberToModes[givenChord.Number()], givenMode)
 				}
 			}
-			chordsSet[givenRoot] = chords.Sort()
 		}
-		mapModeToChords[givenMode.Number()] = chordsSet
 		mapScaleToModes[givenMode.Scale()] = append(mapScaleToModes[givenMode.Scale()], givenMode)
 	}
 
@@ -397,17 +387,27 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 	_, _ = fmt.Fprintf(&buff, "\n")
 	_, _ = fmt.Fprintf(&buff, "## Chords\n\n")
 
-	computedChords := mapModeToChords[givenMode.Number()]
 	for i := 0; i < givenMode.Cardinality(); i++ {
 		givenNote := computedNotes[i]
 		_, _ = fmt.Fprintf(&buff, "### %s\n\n", givenNote.Name())
 		_, _ = fmt.Fprintf(&buff, "| Number | Root | Name | Notes | Illustration | Audio |\n")
 		_, _ = fmt.Fprintf(&buff, "|--------|------|------|-------|--------------|-------|\n")
 
-		for _, givenChord := range computedChords[givenNote] {
+		// list possible chords
+		possibleChords := make(chord.Chords, 0)
+		for _, givenChord := range chord.AllChords() {
+			if givenChord.Root() == givenNote &&
+				(givenMode.Number()|givenChord.Number() == givenMode.Number()) {
+				possibleChords = append(possibleChords, givenChord)
+			}
+		}
+
+		possibleChords = possibleChords.Sort()
+		for _, givenChord := range possibleChords {
 			chordNoteNames := givenChord.Notes().Names()
 			_, _ = fmt.Fprintf(&buff, "| %d | %s | [%s](Chord%s.md) | %s | ![%s](Chord%sRootPosition.png) | [midi](Chord%sRootPosition.mid) |\n", givenChord.Number(), givenNote.Name(), givenChord.Name(), givenChord, strings.Join(chordNoteNames, ", "), givenChord.Name(), givenChord, givenChord)
 		}
+
 		_, _ = fmt.Fprintf(&buff, "\n")
 	}
 
