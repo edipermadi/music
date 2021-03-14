@@ -23,6 +23,10 @@ Gb
 
 [CNaturalMajor]
 
+## Interval Pattern
+
+1, 1, 4, 2, 2, 2
+
 ## Perfection
 
  - 2 Perfect Notes

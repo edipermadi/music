@@ -23,6 +23,10 @@ Db
 
 [CNaturalMajor]
 
+## Interval Pattern
+
+4, 2, 2, 3, 1
+
 ## Perfection
 
  - 2 Perfect Notes

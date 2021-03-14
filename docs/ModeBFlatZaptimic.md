@@ -23,6 +23,10 @@ Bb
 
 [CNaturalMajor]
 
+## Interval Pattern
+
+1, 2, 3, 1, 1, 4
+
 ## Perfection
 
  - 4 Perfect Notes

@@ -20,6 +20,10 @@
 - 1 Perfect notes
 - 3 Perfect notes
 
+## Interval Pattern
+
+3, 3, 4, 2
+
 ## Perfection Profile
 
 [false true false false]

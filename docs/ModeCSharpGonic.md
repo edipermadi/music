@@ -23,6 +23,10 @@ C#
 
 [CNaturalMajor]
 
+## Interval Pattern
+
+4, 1, 3, 4
+
 ## Perfection
 
  - 1 Perfect Notes

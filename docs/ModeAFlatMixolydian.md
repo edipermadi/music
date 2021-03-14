@@ -23,6 +23,10 @@ Ab
 
 [DFlatMajor CSharpMajor]
 
+## Interval Pattern
+
+2, 2, 1, 2, 2, 1, 2
+
 ## Perfection
 
  - 6 Perfect Notes
