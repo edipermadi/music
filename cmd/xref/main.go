@@ -147,8 +147,8 @@ func generateModesTable(logger *zap.Logger, wikiDir string) {
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
 
 	_, _ = fmt.Fprintf(&buff, "## Index\n\n")
-	_, _ = fmt.Fprintf(&buff, "| Number | Scale | Mode | Notes | Illustration | Audio |\n")
-	_, _ = fmt.Fprintf(&buff, "|--------|-------|------|-------|--------------|-------|\n")
+	_, _ = fmt.Fprintf(&buff, "| Number | Scale | Mode | Interval Pattern | Notes | Illustration | Audio |\n")
+	_, _ = fmt.Fprintf(&buff, "|--------|-------|------|------------------|-------|--------------|-------|\n")
 
 	allModes := mode.AllModes()
 	sort.SliceStable(allModes, func(i int, j int) bool {
@@ -170,8 +170,14 @@ func generateModesTable(logger *zap.Logger, wikiDir string) {
 				computedNoteNames = append(computedNoteNames, fmt.Sprintf("**%s**", computedNote.Name()))
 			}
 		}
+
+		var computedIntervals []string
+		for _, interval := range givenMode.Type().IntervalPattern() {
+			computedIntervals = append(computedIntervals, strconv.Itoa(interval))
+		}
+
 		modeURL := fmt.Sprintf("[%d](https://ianring.com/musictheory/scales/%d)", givenMode.CanonicalNumber(), givenMode.CanonicalNumber())
-		_, _ = fmt.Fprintf(&buff, "| %s | [%s](Scale%s.md) | [%s](Mode%s.md) | %s | ![%s](Mode%s.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/Mode%s.mid?raw=true) |\n", modeURL, givenMode.Scale(), givenMode.Scale(), givenMode.Type(), givenMode.Type(), strings.Join(computedNoteNames, ", "), givenMode, givenMode, givenMode)
+		_, _ = fmt.Fprintf(&buff, "| %s | [%s](Scale%s.md) | [%s](Mode%s.md) | %s | %s | ![%s](Mode%s.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/Mode%s.mid?raw=true) |\n", modeURL, givenMode.Scale(), givenMode.Scale(), givenMode.Type(), givenMode.Type(), strings.Join(computedIntervals, ", "), strings.Join(computedNoteNames, ", "), givenMode, givenMode, givenMode)
 	}
 
 	if err := compareAndWrite(filename, buff.Bytes()); err != nil {
@@ -272,6 +278,12 @@ func generateModePage(logger *zap.Logger, filename string, givenType modetype.Ty
 	_, _ = fmt.Fprintf(&buff, "- %d Perfect notes\n", perfection)
 	_, _ = fmt.Fprintf(&buff, "- %d Perfect notes\n\n", imperfection)
 
+	var computedIntervalPatterns []string
+	for _, interval := range givenType.IntervalPattern() {
+		computedIntervalPatterns = append(computedIntervalPatterns, strconv.Itoa(interval))
+	}
+	_, _ = fmt.Fprintf(&buff, "## Interval Pattern\n\n%s\n\n", strings.Join(computedIntervalPatterns, ", "))
+
 	_, _ = fmt.Fprintf(&buff, "## Perfection Profile\n\n%v\n\n", perfectionProfile)
 
 	_, _ = fmt.Fprintf(&buff, "## Permutations\n\n")
@@ -350,6 +362,12 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 	_, _ = fmt.Fprintf(&buff, "## Tonic\n\n%s\n\n", givenMode.Tonic().Name())
 
 	_, _ = fmt.Fprintf(&buff, "## Signature\n\n%s\n\n", signature.FromNotes(computedNotes))
+
+	var computedIntervalPatterns []string
+	for _, interval := range givenMode.Type().IntervalPattern() {
+		computedIntervalPatterns = append(computedIntervalPatterns, strconv.Itoa(interval))
+	}
+	_, _ = fmt.Fprintf(&buff, "## Interval Pattern\n\n%s\n\n", strings.Join(computedIntervalPatterns, ", "))
 
 	_, _ = fmt.Fprintf(&buff, "## Perfection\n\n")
 	_, _ = fmt.Fprintf(&buff, " - %d Perfect Notes\n\n", perfection)

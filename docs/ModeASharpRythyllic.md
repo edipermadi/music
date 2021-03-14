@@ -23,6 +23,10 @@ A#
 
 [CNaturalMajor]
 
+## Interval Pattern
+
+1, 3, 2, 1, 1, 1, 2, 1
+
 ## Perfection
 
  - 6 Perfect Notes
