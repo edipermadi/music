@@ -27,6 +27,10 @@ D#
 
 1, 1, 1, 1, 1, 4, 1, 2
 
+## Chord Pattern
+
+II⁺, iii, VI, VI⁺, vii⁰, vii, VII, VII⁺, viii⁰, viii, VIII
+
 ## Perfection
 
  - 5 Perfect Notes

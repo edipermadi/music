@@ -27,6 +27,10 @@ Eb
 
 1, 1, 3, 2, 1, 1, 3
 
+## Chord Pattern
+
+II⁺, II, iii, iii⁰, IV, IV⁺, iv, VII⁺
+
 ## Perfection
 
  - 5 Perfect Notes

@@ -15,14 +15,18 @@
 
 [1821](https://ianring.com/musictheory/scales/1821)
 
+## Interval Pattern
+
+2, 1, 1, 4, 1, 1, 2
+
+## Chord Pattern
+
+I⁺, IV⁺, V, V⁺, vi⁰, vi
+
 ## Perfection
 
 - 4 Perfect notes
 - 3 Perfect notes
-
-## Interval Pattern
-
-2, 1, 1, 4, 1, 1, 2
 
 ## Perfection Profile
 

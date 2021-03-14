@@ -15,14 +15,18 @@
 
 [365](https://ianring.com/musictheory/scales/365)
 
+## Interval Pattern
+
+2, 1, 2, 1, 2, 4
+
+## Chord Pattern
+
+i⁰, ii⁰, iv, VI
+
 ## Perfection
 
 - 2 Perfect notes
 - 4 Perfect notes
-
-## Interval Pattern
-
-2, 1, 2, 1, 2, 4
 
 ## Perfection Profile
 

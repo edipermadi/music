@@ -27,6 +27,10 @@ Ab
 
 1, 4, 1, 4, 1, 1
 
+## Chord Pattern
+
+IV, v
+
 ## Perfection
 
  - 4 Perfect Notes

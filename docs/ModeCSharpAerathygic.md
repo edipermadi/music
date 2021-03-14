@@ -27,6 +27,10 @@ C#
 
 1, 1, 3, 1, 1, 1, 2, 1, 1
 
+## Chord Pattern
+
+II, iii⁰, III⁺, iv⁰, iv, V, V⁺, VI, vi⁰, vi, vii⁰, viii, VIII, VIII⁺, ix⁰, ix
+
 ## Perfection
 
  - 7 Perfect Notes

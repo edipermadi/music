@@ -27,6 +27,10 @@ B
 
 1, 1, 2, 3, 1, 1, 1, 2
 
+## Chord Pattern
+
+I, I⁺, ii⁰, ii, iv⁰, IV⁺, v⁰, v, VI⁺, VII, vii, viii⁰
+
 ## Perfection
 
  - 5 Perfect Notes

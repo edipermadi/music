@@ -27,6 +27,10 @@ Gb
 
 4, 1, 4, 2, 1
 
+## Chord Pattern
+
+III, iv
+
 ## Perfection
 
  - 3 Perfect Notes
