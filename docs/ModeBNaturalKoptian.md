@@ -29,7 +29,7 @@ B
 
 ## Chord Pattern
 
-V, vi⁰, vi
+
 
 ## Perfection
 

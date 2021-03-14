@@ -705,12 +705,16 @@ var augmentedRomanNumeralChords = map[int]string{
 
 func chordRomanNumeralPattern(givenMode mode.Mode) []string {
 	var numeralChords []string
-	notes := givenMode.Notes()
-	for i := 0; i < givenMode.Cardinality(); i++ {
-		givenNote := notes[i].Normalize()
+	max := givenMode.Cardinality()
+	notes := givenMode.Notes().Normalized()
+	for i := 0; i < max; i++ {
+		givenNote := notes[i]
+		allowedChordNotes := note.Notes{notes[i], notes[(i+2)%max], notes[(i+4)%max]}
+		allowedChordNotesChecksum := allowedChordNotes.Checksum()
 		for _, givenChord := range chord.AllChords() {
 			if (givenChord.Root() == givenNote) &&
-				((givenMode.Number() | givenChord.Number()) == givenMode.Number()) {
+				((givenMode.Number() | givenChord.Number()) == givenMode.Number()) &&
+				givenChord.Number() == allowedChordNotesChecksum {
 				switch givenChord.Type() {
 				case chordtype.Diminished:
 					numeralChords = append(numeralChords, diminishedRomanNumeralChords[i])

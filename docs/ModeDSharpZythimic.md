@@ -29,7 +29,7 @@ D#
 
 ## Chord Pattern
 
-IV, v
+
 
 ## Perfection
 

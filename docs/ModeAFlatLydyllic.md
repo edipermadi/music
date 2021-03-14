@@ -29,7 +29,7 @@ Ab
 
 ## Chord Pattern
 
-i⁰, ii⁰, ii, iii⁰, iii, III, iv⁰, v, V, vi⁰, VIII
+ii⁰, VIII
 
 ## Perfection
 

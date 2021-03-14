@@ -29,7 +29,7 @@ E
 
 ## Chord Pattern
 
-III, v⁰, v, vi, VI
+VI
 
 ## Perfection
 

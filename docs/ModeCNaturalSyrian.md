@@ -29,7 +29,7 @@ C
 
 ## Chord Pattern
 
-i, I, I⁺, II⁺, III⁺, iii, III, iv, iv⁰, V⁺, VI, VI⁺, vi, VII⁺
+I, iii, iv, V⁺, VI⁺
 
 ## Perfection
 

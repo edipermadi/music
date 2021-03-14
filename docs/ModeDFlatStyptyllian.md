@@ -29,7 +29,7 @@ Db
 
 ## Chord Pattern
 
-I, I⁺, ii⁰, ii, II, II⁺, iii⁰, iii, iv, IV, IV⁺, iv⁰, v⁰, v, V, V⁺, VI, vi⁰, vi, vii⁰, VII⁺, viii, VIII, VIII⁺, ix⁰, ix, IX, x⁰
+ii⁰, iii⁰
 
 ## Perfection
 

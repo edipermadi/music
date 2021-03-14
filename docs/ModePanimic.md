@@ -21,7 +21,7 @@
 
 ## Chord Pattern
 
-i, III⁺, IV⁺, V, v, VI⁺
+V
 
 ## Perfection
 

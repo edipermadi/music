@@ -29,7 +29,7 @@ Eb
 
 ## Chord Pattern
 
-i⁰, I⁺, ii, II, III⁺, iii⁰, iv, V⁺, vi, VII, VII⁺, VIII, VIII⁺, ix⁰, ix, IX, IX⁺
+vi, VII
 
 ## Perfection
 

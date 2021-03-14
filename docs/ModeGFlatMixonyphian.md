@@ -29,7 +29,7 @@ Gb
 
 ## Chord Pattern
 
-i, I, ii, V, vii⁰, vii
+
 
 ## Perfection
 

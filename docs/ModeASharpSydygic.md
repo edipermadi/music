@@ -29,7 +29,7 @@ A#
 
 ## Chord Pattern
 
-i, I, ii⁰, II⁺, iii, IV, v⁰, VI, VI⁺, vii, vii⁰, viii⁰, viii, VIII, VIII⁺, IX, ix⁰, ix
+v⁰, VI, vii⁰
 
 ## Perfection
 

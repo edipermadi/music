@@ -29,7 +29,7 @@ G
 
 ## Chord Pattern
 
-III, iv⁰, iv, v⁰, vii
+iv⁰
 
 ## Perfection
 
