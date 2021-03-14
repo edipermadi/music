@@ -29,7 +29,7 @@ C#
 
 ## Chord Pattern
 
-I⁺, ii⁰, ii, II, III, III⁺, iv⁰, iv, IV, v⁰, vi⁰, VI⁺, vii, viii⁰, viii
+ii⁰, iv⁰, v⁰, vi⁰, vii, viii⁰
 
 ## Perfection
 

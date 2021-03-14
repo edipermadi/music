@@ -29,7 +29,7 @@ Gb
 
 ## Chord Pattern
 
-I, I⁺, ii⁰, ii, II, II⁺, iii⁰, iii, iv⁰, iv, IV, IV⁺, v⁰, v, V, V⁺, vi⁰, vi, VI, vii⁰, VII⁺, viii, VIII, VIII⁺, ix⁰, ix, IX, x⁰
+ii⁰, iii⁰
 
 ## Perfection
 

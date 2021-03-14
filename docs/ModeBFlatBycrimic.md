@@ -29,7 +29,7 @@ Bb
 
 ## Chord Pattern
 
-I, iii⁰, iii, iv, IV
+IV
 
 ## Perfection
 

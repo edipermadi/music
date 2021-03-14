@@ -29,7 +29,7 @@ F
 
 ## Chord Pattern
 
-i, i⁰, II, II⁺, iii⁰, iii, III, III⁺, IV, iv⁰, iv, v, V, V⁺, vi⁰, vi, VI, VI⁺, vii⁰, vii, VIII, ix⁰, IX⁺, x, X, X⁺
+
 
 ## Perfection
 
