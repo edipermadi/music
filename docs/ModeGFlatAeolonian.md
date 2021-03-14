@@ -27,6 +27,10 @@ Gb
 
 2, 2, 1, 1, 4, 1, 1
 
+## Chord Pattern
+
+II⁺, V⁺, VI⁺, VI, vii, vii⁰
+
 ## Perfection
 
  - 4 Perfect Notes

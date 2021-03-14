@@ -27,6 +27,10 @@ Db
 
 4, 3, 2, 2, 1
 
+## Chord Pattern
+
+I, ii, iv
+
 ## Perfection
 
  - 3 Perfect Notes

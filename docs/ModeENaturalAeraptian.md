@@ -27,6 +27,10 @@ E
 
 2, 1, 2, 1, 2, 1, 3
 
+## Chord Pattern
+
+i⁰, ii⁰, ii, II, iii⁰, iv, IV, v⁰, VI, vii⁰
+
 ## Perfection
 
  - 3 Perfect Notes

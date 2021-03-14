@@ -15,14 +15,18 @@
 
 [1939](https://ianring.com/musictheory/scales/1939)
 
+## Interval Pattern
+
+1, 3, 3, 1, 1, 1, 2
+
+## Chord Pattern
+
+I, I⁺, ii⁰, ii, III⁺, iii⁰, iv⁰, V⁺, vi, VI, vii⁰
+
 ## Perfection
 
 - 3 Perfect notes
 - 4 Perfect notes
-
-## Interval Pattern
-
-1, 3, 3, 1, 1, 1, 2
 
 ## Perfection Profile
 

@@ -15,14 +15,18 @@
 
 [2019](https://ianring.com/musictheory/scales/2019)
 
+## Interval Pattern
+
+1, 4, 1, 1, 1, 1, 1, 2
+
+## Chord Pattern
+
+II, II⁺, iii, III, III⁺, iv⁰, iv, IV, v⁰, VII⁺, viii
+
 ## Perfection
 
 - 5 Perfect notes
 - 3 Perfect notes
-
-## Interval Pattern
-
-1, 4, 1, 1, 1, 1, 1, 2
 
 ## Perfection Profile
 

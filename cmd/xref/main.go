@@ -14,6 +14,7 @@ import (
 
 	"github.com/edipermadi/music/pkg/illustration"
 	"github.com/edipermadi/music/pkg/theory/chord"
+	"github.com/edipermadi/music/pkg/theory/chord/chordtype"
 	"github.com/edipermadi/music/pkg/theory/mode"
 	"github.com/edipermadi/music/pkg/theory/mode/modetype"
 	"github.com/edipermadi/music/pkg/theory/note"
@@ -262,7 +263,8 @@ func generateModePage(logger *zap.Logger, filename string, givenType modetype.Ty
 	computedScale, _ := givenType.Scale()
 	perfection, imperfection, perfectionProfile := givenType.Perfection()
 
-	modeNumber := mode.New(note.CNatural, givenType).Number()
+	computedMode := mode.New(note.CNatural, givenType)
+	modeNumber := computedMode.Number()
 	var buff bytes.Buffer
 	_, _ = fmt.Fprintf(&buff, "# Mode %s\n\n", givenType.String())
 	_, _ = fmt.Fprintf(&buff, "## Links\n\n")
@@ -274,15 +276,18 @@ func generateModePage(logger *zap.Logger, filename string, givenType modetype.Ty
 	_, _ = fmt.Fprintf(&buff, "## Parent Scale\n\n[%s](Scale%s.md)\n\n", computedScale.String(), computedScale.String())
 	_, _ = fmt.Fprintf(&buff, "## Number\n\n[%d](https://ianring.com/musictheory/scales/%d)\n\n", modeNumber, modeNumber)
 
+	var intervals []string
+	for _, interval := range givenType.IntervalPattern() {
+		intervals = append(intervals, strconv.Itoa(interval))
+	}
+	_, _ = fmt.Fprintf(&buff, "## Interval Pattern\n\n%s\n\n", strings.Join(intervals, ", "))
+
+	romanNumeralChords := chordRomanNumeralPattern(computedMode)
+	_, _ = fmt.Fprintf(&buff, "## Chord Pattern\n\n%s\n\n", strings.Join(romanNumeralChords, ", "))
+
 	_, _ = fmt.Fprintf(&buff, "## Perfection\n\n")
 	_, _ = fmt.Fprintf(&buff, "- %d Perfect notes\n", perfection)
 	_, _ = fmt.Fprintf(&buff, "- %d Perfect notes\n\n", imperfection)
-
-	var computedIntervalPatterns []string
-	for _, interval := range givenType.IntervalPattern() {
-		computedIntervalPatterns = append(computedIntervalPatterns, strconv.Itoa(interval))
-	}
-	_, _ = fmt.Fprintf(&buff, "## Interval Pattern\n\n%s\n\n", strings.Join(computedIntervalPatterns, ", "))
 
 	_, _ = fmt.Fprintf(&buff, "## Perfection Profile\n\n%v\n\n", perfectionProfile)
 
@@ -368,6 +373,9 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 		computedIntervalPatterns = append(computedIntervalPatterns, strconv.Itoa(interval))
 	}
 	_, _ = fmt.Fprintf(&buff, "## Interval Pattern\n\n%s\n\n", strings.Join(computedIntervalPatterns, ", "))
+
+	numeralNumeralChords := chordRomanNumeralPattern(givenMode)
+	_, _ = fmt.Fprintf(&buff, "## Chord Pattern\n\n%s\n\n", strings.Join(numeralNumeralChords, ", "))
 
 	_, _ = fmt.Fprintf(&buff, "## Perfection\n\n")
 	_, _ = fmt.Fprintf(&buff, " - %d Perfect Notes\n\n", perfection)
@@ -633,4 +641,91 @@ func computeFileHash(filename string) (string, error) {
 
 	digest := sha256.Sum256(payload)
 	return hex.EncodeToString(digest[:]), nil
+}
+
+var diminishedRomanNumeralChords = map[int]string{
+	0:  "i⁰",
+	1:  "ii⁰",
+	2:  "iii⁰",
+	3:  "iv⁰",
+	4:  "v⁰",
+	5:  "vi⁰",
+	6:  "vii⁰",
+	7:  "viii⁰",
+	8:  "ix⁰",
+	9:  "x⁰",
+	10: "xi⁰",
+	11: "xii⁰",
+}
+
+var minorRomanNumeralChords = map[int]string{
+	0:  "i",
+	1:  "ii",
+	2:  "iii",
+	3:  "iv",
+	4:  "v",
+	5:  "vi",
+	6:  "vii",
+	7:  "viii",
+	8:  "ix",
+	9:  "x",
+	10: "xi",
+	11: "xii",
+}
+
+var majorRomanNumeralChords = map[int]string{
+	0:  "I",
+	1:  "II",
+	2:  "III",
+	3:  "IV",
+	4:  "V",
+	5:  "VI",
+	6:  "VII",
+	7:  "VIII",
+	8:  "IX",
+	9:  "X",
+	10: "XI",
+	11: "XII",
+}
+
+var augmentedRomanNumeralChords = map[int]string{
+	0:  "I⁺",
+	1:  "II⁺",
+	2:  "III⁺",
+	3:  "IV⁺",
+	4:  "V⁺",
+	5:  "VI⁺",
+	6:  "VII⁺",
+	7:  "VIII⁺",
+	8:  "IX⁺",
+	9:  "X⁺",
+	10: "XI⁺",
+	11: "XII⁺",
+}
+
+func chordRomanNumeralPattern(givenMode mode.Mode) []string {
+	var numeralChords []string
+	notes := givenMode.Notes()
+	for i := 0; i < givenMode.Cardinality(); i++ {
+		givenNote := notes[i].Normalize()
+		for _, givenChord := range chord.AllChords() {
+			if (givenChord.Root() == givenNote) &&
+				((givenMode.Number() | givenChord.Number()) == givenMode.Number()) {
+				switch givenChord.Type() {
+				case chordtype.Diminished:
+					numeralChords = append(numeralChords, diminishedRomanNumeralChords[i])
+				case chordtype.Minor:
+					numeralChords = append(numeralChords, minorRomanNumeralChords[i])
+				case chordtype.Major:
+					numeralChords = append(numeralChords, majorRomanNumeralChords[i])
+				case chordtype.Augmented:
+					numeralChords = append(numeralChords, augmentedRomanNumeralChords[i])
+				}
+			}
+
+		}
+	}
+
+	return numeralChords
+
 }
