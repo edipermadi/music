@@ -48,6 +48,10 @@ xref:
 .PHONY: docs
 docs: xref
 
+.PHONY: db-seed
+db-seed:
+	$(GO) run ./cmd/db-seed > ./db/seed.sql
+
 .PHONY: clean
 clean:
 	$(RM) -rf $(TEST_OUT_DIR)

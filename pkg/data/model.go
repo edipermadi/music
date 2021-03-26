@@ -2,7 +2,8 @@ package data
 
 // Pitch is a database model
 type Pitch struct {
-	ID        int     `json:"id" db:"id"`
+	ID        int64   `json:"id" db:"id"`
+	Number    int     `json:"number" db:"number"`
 	Octave    int     `json:"octave" db:"octave"`
 	Frequency float32 `json:"frequency" db:"frequency"`
 	Label     string  `json:"label" db:"label"`
