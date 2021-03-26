@@ -416,3 +416,645 @@ INSERT INTO pitches (number, octave, frequency, label, name) VALUES (-1, 10, 7.7
 INSERT INTO pitches (number, octave, frequency, label, name) VALUES (-1, 10, 7.716927, 'B10Flat', 'B10');
 INSERT INTO pitches (number, octave, frequency, label, name) VALUES (-1, 10, 7.716927, 'B10Natural', 'B10');
 
+-- seed for accidentals table
+INSERT INTO accidentals (displacement, label, name) VALUES (-3, 'TripleFlat', 'bbb');
+INSERT INTO accidentals (displacement, label, name) VALUES (-2, 'DoubleFlat', 'bb');
+INSERT INTO accidentals (displacement, label, name) VALUES (-1, 'Flat', 'b');
+INSERT INTO accidentals (displacement, label, name) VALUES (0, 'Natural', '');
+INSERT INTO accidentals (displacement, label, name) VALUES (1, 'Sharp', '#');
+INSERT INTO accidentals (displacement, label, name) VALUES (2, 'DoubleSharp', '##');
+INSERT INTO accidentals (displacement, label, name) VALUES (3, 'TripleSharp', '###');
+
+-- seed for notes table
+INSERT INTO notes (number, accidental_id, label, name) VALUES (9, 1, 'CTripleFlat', 'Cbbb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (10, 2, 'CDoubleFlat', 'Cbb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (11, 3, 'CFlat', 'Cb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (0, 4, 'CNatural', 'C');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (1, 5, 'CSharp', 'C#');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (2, 6, 'CDoubleSharp', 'C##');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (3, 7, 'CTripleSharp', 'C###');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (11, 1, 'DTripleFlat', 'Dbbb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (0, 2, 'DDoubleFlat', 'Dbb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (1, 3, 'DFlat', 'Db');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (2, 4, 'DNatural', 'D');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (3, 5, 'DSharp', 'D#');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (4, 6, 'DDoubleSharp', 'D##');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (5, 7, 'DTripleSharp', 'D###');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (1, 1, 'ETripleFlat', 'Ebbb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (2, 2, 'EDoubleFlat', 'Ebb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (3, 3, 'EFlat', 'Eb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (4, 4, 'ENatural', 'E');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (5, 5, 'ESharp', 'E#');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (6, 6, 'EDoubleSharp', 'E##');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (7, 7, 'ETripleSharp', 'E###');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (2, 1, 'FTripleFlat', 'Fbbb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (3, 2, 'FDoubleFlat', 'Fbb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (4, 3, 'FFlat', 'Fb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (5, 4, 'FNatural', 'F');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (6, 5, 'FSharp', 'F#');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (7, 6, 'FDoubleSharp', 'F##');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (8, 7, 'FTripleSharp', 'F###');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (4, 1, 'GTripleFlat', 'Gbbb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (5, 2, 'GDoubleFlat', 'Gbb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (6, 3, 'GFlat', 'Gb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (7, 4, 'GNatural', 'G');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (8, 5, 'GSharp', 'G#');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (9, 6, 'GDoubleSharp', 'G##');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (10, 7, 'GTripleSharp', 'G###');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (6, 1, 'ATripleFlat', 'Abbb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (7, 2, 'ADoubleFlat', 'Abb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (8, 3, 'AFlat', 'Ab');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (9, 4, 'ANatural', 'A');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (10, 5, 'ASharp', 'A#');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (11, 6, 'ADoubleSharp', 'A##');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (0, 7, 'ATripleSharp', 'A###');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (8, 1, 'BTripleFlat', 'Bbbb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (9, 2, 'BDoubleFlat', 'Bbb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (10, 3, 'BFlat', 'Bb');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (11, 4, 'BNatural', 'B');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (0, 5, 'BSharp', 'B#');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (1, 6, 'BDoubleSharp', 'B##');
+INSERT INTO notes (number, accidental_id, label, name) VALUES (2, 7, 'BTripleSharp', 'B###');
+
+-- seed for note_pitches table
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 4, 1); -- CNatural CN1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 5, 2); -- CSharp CN1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 6, 3); -- CDoubleSharp CN1DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 7, 7); -- CTripleSharp DN1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 9, 4); -- DDoubleFlat DN1DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 10, 5); -- DFlat DN1Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 11, 6); -- DNatural DN1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 12, 7); -- DSharp DN1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 13, 8); -- DDoubleSharp DN1DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 14, 16); -- DTripleSharp FN1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 15, 2); -- ETripleFlat CN1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 16, 9); -- EDoubleFlat EN1DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 17, 10); -- EFlat EN1Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 18, 11); -- ENatural EN1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 19, 12); -- ESharp EN1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 20, 13); -- EDoubleSharp EN1DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 21, 21); -- ETripleSharp GN1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 22, 6); -- FTripleFlat DN1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 23, 14); -- FDoubleFlat FN1DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 24, 15); -- FFlat FN1Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 25, 16); -- FNatural FN1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 26, 17); -- FSharp FN1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 27, 18); -- FDoubleSharp FN1DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 28, 22); -- FTripleSharp GN1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 29, 11); -- GTripleFlat EN1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 30, 19); -- GDoubleFlat GN1DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 31, 20); -- GFlat GN1Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 32, 21); -- GNatural GN1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 33, 22); -- GSharp GN1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 34, 23); -- GDoubleSharp GN1DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 35, 27); -- GTripleSharp AN1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 36, 17); -- ATripleFlat FN1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 37, 24); -- ADoubleFlat AN1DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 38, 25); -- AFlat AN1Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 39, 26); -- ANatural AN1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 40, 27); -- ASharp AN1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 41, 28); -- ADoubleSharp AN1DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 42, 1); -- ATripleSharp CN1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 43, 22); -- BTripleFlat GN1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 44, 29); -- BDoubleFlat BN1DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 45, 30); -- BFlat BN1Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 46, 31); -- BNatural BN1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 47, 32); -- BSharp BN1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 48, 33); -- BDoubleSharp BN1DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (-1, 49, 6); -- BTripleSharp DN1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 1, 61); -- CTripleFlat A0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 2, 34); -- CDoubleFlat C0DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 3, 35); -- CFlat C0Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 4, 36); -- CNatural C0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 5, 37); -- CSharp C0Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 6, 38); -- CDoubleSharp C0DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 7, 42); -- CTripleSharp D0Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 8, 66); -- DTripleFlat B0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 9, 39); -- DDoubleFlat D0DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 10, 40); -- DFlat D0Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 11, 41); -- DNatural D0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 12, 42); -- DSharp D0Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 13, 43); -- DDoubleSharp D0DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 14, 51); -- DTripleSharp F0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 15, 37); -- ETripleFlat C0Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 16, 44); -- EDoubleFlat E0DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 17, 45); -- EFlat E0Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 18, 46); -- ENatural E0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 19, 47); -- ESharp E0Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 20, 48); -- EDoubleSharp E0DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 21, 56); -- ETripleSharp G0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 22, 41); -- FTripleFlat D0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 23, 49); -- FDoubleFlat F0DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 24, 50); -- FFlat F0Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 25, 51); -- FNatural F0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 26, 52); -- FSharp F0Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 27, 53); -- FDoubleSharp F0DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 28, 57); -- FTripleSharp G0Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 29, 46); -- GTripleFlat E0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 30, 54); -- GDoubleFlat G0DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 31, 55); -- GFlat G0Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 32, 56); -- GNatural G0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 33, 57); -- GSharp G0Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 34, 58); -- GDoubleSharp G0DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 35, 62); -- GTripleSharp A0Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 36, 52); -- ATripleFlat F0Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 37, 59); -- ADoubleFlat A0DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 38, 60); -- AFlat A0Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 39, 61); -- ANatural A0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 40, 62); -- ASharp A0Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 41, 63); -- ADoubleSharp A0DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 42, 36); -- ATripleSharp C0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 43, 57); -- BTripleFlat G0Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 44, 64); -- BDoubleFlat B0DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 45, 65); -- BFlat B0Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 46, 66); -- BNatural B0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 47, 67); -- BSharp B0Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 48, 68); -- BDoubleSharp B0DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (0, 49, 41); -- BTripleSharp D0Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 1, 96); -- CTripleFlat A1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 2, 69); -- CDoubleFlat C1DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 3, 70); -- CFlat C1Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 4, 71); -- CNatural C1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 5, 72); -- CSharp C1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 6, 73); -- CDoubleSharp C1DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 7, 77); -- CTripleSharp D1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 8, 101); -- DTripleFlat B1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 9, 74); -- DDoubleFlat D1DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 10, 75); -- DFlat D1Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 11, 76); -- DNatural D1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 12, 77); -- DSharp D1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 13, 78); -- DDoubleSharp D1DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 14, 86); -- DTripleSharp F1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 15, 72); -- ETripleFlat C1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 16, 79); -- EDoubleFlat E1DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 17, 80); -- EFlat E1Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 18, 81); -- ENatural E1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 19, 82); -- ESharp E1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 20, 83); -- EDoubleSharp E1DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 21, 91); -- ETripleSharp G1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 22, 76); -- FTripleFlat D1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 23, 84); -- FDoubleFlat F1DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 24, 85); -- FFlat F1Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 25, 86); -- FNatural F1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 26, 87); -- FSharp F1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 27, 88); -- FDoubleSharp F1DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 28, 92); -- FTripleSharp G1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 29, 81); -- GTripleFlat E1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 30, 89); -- GDoubleFlat G1DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 31, 90); -- GFlat G1Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 32, 91); -- GNatural G1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 33, 92); -- GSharp G1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 34, 93); -- GDoubleSharp G1DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 35, 97); -- GTripleSharp A1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 36, 87); -- ATripleFlat F1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 37, 94); -- ADoubleFlat A1DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 38, 95); -- AFlat A1Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 39, 96); -- ANatural A1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 40, 97); -- ASharp A1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 41, 98); -- ADoubleSharp A1DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 42, 71); -- ATripleSharp C1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 43, 92); -- BTripleFlat G1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 44, 99); -- BDoubleFlat B1DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 45, 100); -- BFlat B1Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 46, 101); -- BNatural B1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 47, 102); -- BSharp B1Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 48, 103); -- BDoubleSharp B1DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (1, 49, 76); -- BTripleSharp D1Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 1, 131); -- CTripleFlat A2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 2, 104); -- CDoubleFlat C2DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 3, 105); -- CFlat C2Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 4, 106); -- CNatural C2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 5, 107); -- CSharp C2Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 6, 108); -- CDoubleSharp C2DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 7, 112); -- CTripleSharp D2Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 8, 136); -- DTripleFlat B2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 9, 109); -- DDoubleFlat D2DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 10, 110); -- DFlat D2Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 11, 111); -- DNatural D2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 12, 112); -- DSharp D2Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 13, 113); -- DDoubleSharp D2DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 14, 121); -- DTripleSharp F2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 15, 107); -- ETripleFlat C2Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 16, 114); -- EDoubleFlat E2DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 17, 115); -- EFlat E2Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 18, 116); -- ENatural E2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 19, 117); -- ESharp E2Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 20, 118); -- EDoubleSharp E2DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 21, 126); -- ETripleSharp G2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 22, 111); -- FTripleFlat D2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 23, 119); -- FDoubleFlat F2DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 24, 120); -- FFlat F2Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 25, 121); -- FNatural F2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 26, 122); -- FSharp F2Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 27, 123); -- FDoubleSharp F2DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 28, 127); -- FTripleSharp G2Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 29, 116); -- GTripleFlat E2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 30, 124); -- GDoubleFlat G2DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 31, 125); -- GFlat G2Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 32, 126); -- GNatural G2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 33, 127); -- GSharp G2Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 34, 128); -- GDoubleSharp G2DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 35, 132); -- GTripleSharp A2Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 36, 122); -- ATripleFlat F2Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 37, 129); -- ADoubleFlat A2DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 38, 130); -- AFlat A2Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 39, 131); -- ANatural A2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 40, 132); -- ASharp A2Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 41, 133); -- ADoubleSharp A2DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 42, 106); -- ATripleSharp C2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 43, 127); -- BTripleFlat G2Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 44, 134); -- BDoubleFlat B2DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 45, 135); -- BFlat B2Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 46, 136); -- BNatural B2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 47, 137); -- BSharp B2Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 48, 138); -- BDoubleSharp B2DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (2, 49, 111); -- BTripleSharp D2Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 1, 166); -- CTripleFlat A3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 2, 139); -- CDoubleFlat C3DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 3, 140); -- CFlat C3Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 4, 141); -- CNatural C3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 5, 142); -- CSharp C3Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 6, 143); -- CDoubleSharp C3DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 7, 147); -- CTripleSharp D3Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 8, 171); -- DTripleFlat B3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 9, 144); -- DDoubleFlat D3DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 10, 145); -- DFlat D3Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 11, 146); -- DNatural D3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 12, 147); -- DSharp D3Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 13, 148); -- DDoubleSharp D3DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 14, 156); -- DTripleSharp F3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 15, 142); -- ETripleFlat C3Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 16, 149); -- EDoubleFlat E3DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 17, 150); -- EFlat E3Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 18, 151); -- ENatural E3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 19, 152); -- ESharp E3Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 20, 153); -- EDoubleSharp E3DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 21, 161); -- ETripleSharp G3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 22, 146); -- FTripleFlat D3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 23, 154); -- FDoubleFlat F3DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 24, 155); -- FFlat F3Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 25, 156); -- FNatural F3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 26, 157); -- FSharp F3Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 27, 158); -- FDoubleSharp F3DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 28, 162); -- FTripleSharp G3Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 29, 151); -- GTripleFlat E3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 30, 159); -- GDoubleFlat G3DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 31, 160); -- GFlat G3Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 32, 161); -- GNatural G3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 33, 162); -- GSharp G3Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 34, 163); -- GDoubleSharp G3DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 35, 167); -- GTripleSharp A3Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 36, 157); -- ATripleFlat F3Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 37, 164); -- ADoubleFlat A3DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 38, 165); -- AFlat A3Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 39, 166); -- ANatural A3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 40, 167); -- ASharp A3Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 41, 168); -- ADoubleSharp A3DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 42, 141); -- ATripleSharp C3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 43, 162); -- BTripleFlat G3Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 44, 169); -- BDoubleFlat B3DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 45, 170); -- BFlat B3Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 46, 171); -- BNatural B3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 47, 172); -- BSharp B3Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 48, 173); -- BDoubleSharp B3DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (3, 49, 146); -- BTripleSharp D3Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 1, 201); -- CTripleFlat A4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 2, 174); -- CDoubleFlat C4DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 3, 175); -- CFlat C4Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 4, 176); -- CNatural C4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 5, 177); -- CSharp C4Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 6, 178); -- CDoubleSharp C4DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 7, 182); -- CTripleSharp D4Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 8, 206); -- DTripleFlat B4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 9, 179); -- DDoubleFlat D4DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 10, 180); -- DFlat D4Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 11, 181); -- DNatural D4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 12, 182); -- DSharp D4Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 13, 183); -- DDoubleSharp D4DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 14, 191); -- DTripleSharp F4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 15, 177); -- ETripleFlat C4Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 16, 184); -- EDoubleFlat E4DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 17, 185); -- EFlat E4Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 18, 186); -- ENatural E4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 19, 187); -- ESharp E4Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 20, 188); -- EDoubleSharp E4DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 21, 196); -- ETripleSharp G4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 22, 181); -- FTripleFlat D4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 23, 189); -- FDoubleFlat F4DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 24, 190); -- FFlat F4Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 25, 191); -- FNatural F4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 26, 192); -- FSharp F4Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 27, 193); -- FDoubleSharp F4DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 28, 197); -- FTripleSharp G4Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 29, 186); -- GTripleFlat E4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 30, 194); -- GDoubleFlat G4DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 31, 195); -- GFlat G4Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 32, 196); -- GNatural G4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 33, 197); -- GSharp G4Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 34, 198); -- GDoubleSharp G4DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 35, 202); -- GTripleSharp A4Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 36, 192); -- ATripleFlat F4Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 37, 199); -- ADoubleFlat A4DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 38, 200); -- AFlat A4Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 39, 201); -- ANatural A4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 40, 202); -- ASharp A4Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 41, 203); -- ADoubleSharp A4DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 42, 176); -- ATripleSharp C4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 43, 197); -- BTripleFlat G4Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 44, 204); -- BDoubleFlat B4DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 45, 205); -- BFlat B4Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 46, 206); -- BNatural B4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 47, 207); -- BSharp B4Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 48, 208); -- BDoubleSharp B4DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (4, 49, 181); -- BTripleSharp D4Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 1, 236); -- CTripleFlat A5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 2, 209); -- CDoubleFlat C5DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 3, 210); -- CFlat C5Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 4, 211); -- CNatural C5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 5, 212); -- CSharp C5Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 6, 213); -- CDoubleSharp C5DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 7, 217); -- CTripleSharp D5Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 8, 241); -- DTripleFlat B5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 9, 214); -- DDoubleFlat D5DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 10, 215); -- DFlat D5Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 11, 216); -- DNatural D5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 12, 217); -- DSharp D5Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 13, 218); -- DDoubleSharp D5DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 14, 226); -- DTripleSharp F5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 15, 212); -- ETripleFlat C5Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 16, 219); -- EDoubleFlat E5DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 17, 220); -- EFlat E5Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 18, 221); -- ENatural E5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 19, 222); -- ESharp E5Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 20, 223); -- EDoubleSharp E5DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 21, 231); -- ETripleSharp G5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 22, 216); -- FTripleFlat D5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 23, 224); -- FDoubleFlat F5DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 24, 225); -- FFlat F5Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 25, 226); -- FNatural F5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 26, 227); -- FSharp F5Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 27, 228); -- FDoubleSharp F5DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 28, 232); -- FTripleSharp G5Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 29, 221); -- GTripleFlat E5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 30, 229); -- GDoubleFlat G5DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 31, 230); -- GFlat G5Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 32, 231); -- GNatural G5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 33, 232); -- GSharp G5Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 34, 233); -- GDoubleSharp G5DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 35, 237); -- GTripleSharp A5Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 36, 227); -- ATripleFlat F5Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 37, 234); -- ADoubleFlat A5DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 38, 235); -- AFlat A5Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 39, 236); -- ANatural A5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 40, 237); -- ASharp A5Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 41, 238); -- ADoubleSharp A5DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 42, 211); -- ATripleSharp C5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 43, 232); -- BTripleFlat G5Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 44, 239); -- BDoubleFlat B5DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 45, 240); -- BFlat B5Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 46, 241); -- BNatural B5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 47, 242); -- BSharp B5Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 48, 243); -- BDoubleSharp B5DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (5, 49, 216); -- BTripleSharp D5Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 1, 271); -- CTripleFlat A6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 2, 244); -- CDoubleFlat C6DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 3, 245); -- CFlat C6Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 4, 246); -- CNatural C6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 5, 247); -- CSharp C6Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 6, 248); -- CDoubleSharp C6DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 7, 252); -- CTripleSharp D6Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 8, 276); -- DTripleFlat B6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 9, 249); -- DDoubleFlat D6DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 10, 250); -- DFlat D6Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 11, 251); -- DNatural D6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 12, 252); -- DSharp D6Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 13, 253); -- DDoubleSharp D6DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 14, 261); -- DTripleSharp F6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 15, 247); -- ETripleFlat C6Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 16, 254); -- EDoubleFlat E6DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 17, 255); -- EFlat E6Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 18, 256); -- ENatural E6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 19, 257); -- ESharp E6Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 20, 258); -- EDoubleSharp E6DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 21, 266); -- ETripleSharp G6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 22, 251); -- FTripleFlat D6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 23, 259); -- FDoubleFlat F6DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 24, 260); -- FFlat F6Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 25, 261); -- FNatural F6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 26, 262); -- FSharp F6Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 27, 263); -- FDoubleSharp F6DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 28, 267); -- FTripleSharp G6Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 29, 256); -- GTripleFlat E6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 30, 264); -- GDoubleFlat G6DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 31, 265); -- GFlat G6Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 32, 266); -- GNatural G6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 33, 267); -- GSharp G6Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 34, 268); -- GDoubleSharp G6DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 35, 272); -- GTripleSharp A6Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 36, 262); -- ATripleFlat F6Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 37, 269); -- ADoubleFlat A6DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 38, 270); -- AFlat A6Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 39, 271); -- ANatural A6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 40, 272); -- ASharp A6Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 41, 273); -- ADoubleSharp A6DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 42, 246); -- ATripleSharp C6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 43, 267); -- BTripleFlat G6Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 44, 274); -- BDoubleFlat B6DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 45, 275); -- BFlat B6Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 46, 276); -- BNatural B6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 47, 277); -- BSharp B6Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 48, 278); -- BDoubleSharp B6DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (6, 49, 251); -- BTripleSharp D6Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 1, 306); -- CTripleFlat A7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 2, 279); -- CDoubleFlat C7DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 3, 280); -- CFlat C7Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 4, 281); -- CNatural C7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 5, 282); -- CSharp C7Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 6, 283); -- CDoubleSharp C7DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 7, 287); -- CTripleSharp D7Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 8, 311); -- DTripleFlat B7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 9, 284); -- DDoubleFlat D7DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 10, 285); -- DFlat D7Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 11, 286); -- DNatural D7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 12, 287); -- DSharp D7Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 13, 288); -- DDoubleSharp D7DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 14, 296); -- DTripleSharp F7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 15, 282); -- ETripleFlat C7Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 16, 289); -- EDoubleFlat E7DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 17, 290); -- EFlat E7Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 18, 291); -- ENatural E7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 19, 292); -- ESharp E7Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 20, 293); -- EDoubleSharp E7DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 21, 301); -- ETripleSharp G7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 22, 286); -- FTripleFlat D7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 23, 294); -- FDoubleFlat F7DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 24, 295); -- FFlat F7Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 25, 296); -- FNatural F7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 26, 297); -- FSharp F7Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 27, 298); -- FDoubleSharp F7DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 28, 302); -- FTripleSharp G7Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 29, 291); -- GTripleFlat E7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 30, 299); -- GDoubleFlat G7DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 31, 300); -- GFlat G7Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 32, 301); -- GNatural G7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 33, 302); -- GSharp G7Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 34, 303); -- GDoubleSharp G7DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 35, 307); -- GTripleSharp A7Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 36, 297); -- ATripleFlat F7Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 37, 304); -- ADoubleFlat A7DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 38, 305); -- AFlat A7Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 39, 306); -- ANatural A7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 40, 307); -- ASharp A7Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 41, 308); -- ADoubleSharp A7DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 42, 281); -- ATripleSharp C7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 43, 302); -- BTripleFlat G7Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 44, 309); -- BDoubleFlat B7DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 45, 310); -- BFlat B7Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 46, 311); -- BNatural B7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 47, 312); -- BSharp B7Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 48, 313); -- BDoubleSharp B7DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (7, 49, 286); -- BTripleSharp D7Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 1, 341); -- CTripleFlat A8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 2, 314); -- CDoubleFlat C8DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 3, 315); -- CFlat C8Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 4, 316); -- CNatural C8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 5, 317); -- CSharp C8Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 6, 318); -- CDoubleSharp C8DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 7, 322); -- CTripleSharp D8Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 8, 346); -- DTripleFlat B8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 9, 319); -- DDoubleFlat D8DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 10, 320); -- DFlat D8Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 11, 321); -- DNatural D8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 12, 322); -- DSharp D8Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 13, 323); -- DDoubleSharp D8DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 14, 331); -- DTripleSharp F8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 15, 317); -- ETripleFlat C8Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 16, 324); -- EDoubleFlat E8DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 17, 325); -- EFlat E8Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 18, 326); -- ENatural E8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 19, 327); -- ESharp E8Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 20, 328); -- EDoubleSharp E8DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 21, 336); -- ETripleSharp G8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 22, 321); -- FTripleFlat D8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 23, 329); -- FDoubleFlat F8DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 24, 330); -- FFlat F8Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 25, 331); -- FNatural F8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 26, 332); -- FSharp F8Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 27, 333); -- FDoubleSharp F8DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 28, 337); -- FTripleSharp G8Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 29, 326); -- GTripleFlat E8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 30, 334); -- GDoubleFlat G8DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 31, 335); -- GFlat G8Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 32, 336); -- GNatural G8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 33, 337); -- GSharp G8Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 34, 338); -- GDoubleSharp G8DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 35, 342); -- GTripleSharp A8Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 36, 332); -- ATripleFlat F8Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 37, 339); -- ADoubleFlat A8DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 38, 340); -- AFlat A8Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 39, 341); -- ANatural A8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 40, 342); -- ASharp A8Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 41, 343); -- ADoubleSharp A8DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 42, 316); -- ATripleSharp C8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 43, 337); -- BTripleFlat G8Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 44, 344); -- BDoubleFlat B8DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 45, 345); -- BFlat B8Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 46, 346); -- BNatural B8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 47, 347); -- BSharp B8Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 48, 348); -- BDoubleSharp B8DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (8, 49, 321); -- BTripleSharp D8Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 1, 376); -- CTripleFlat A9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 2, 349); -- CDoubleFlat C9DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 3, 350); -- CFlat C9Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 4, 351); -- CNatural C9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 5, 352); -- CSharp C9Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 6, 353); -- CDoubleSharp C9DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 7, 357); -- CTripleSharp D9Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 8, 381); -- DTripleFlat B9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 9, 354); -- DDoubleFlat D9DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 10, 355); -- DFlat D9Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 11, 356); -- DNatural D9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 12, 357); -- DSharp D9Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 13, 358); -- DDoubleSharp D9DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 14, 366); -- DTripleSharp F9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 15, 352); -- ETripleFlat C9Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 16, 359); -- EDoubleFlat E9DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 17, 360); -- EFlat E9Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 18, 361); -- ENatural E9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 19, 362); -- ESharp E9Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 20, 363); -- EDoubleSharp E9DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 21, 371); -- ETripleSharp G9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 22, 356); -- FTripleFlat D9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 23, 364); -- FDoubleFlat F9DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 24, 365); -- FFlat F9Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 25, 366); -- FNatural F9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 26, 367); -- FSharp F9Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 27, 368); -- FDoubleSharp F9DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 28, 372); -- FTripleSharp G9Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 29, 361); -- GTripleFlat E9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 30, 369); -- GDoubleFlat G9DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 31, 370); -- GFlat G9Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 32, 371); -- GNatural G9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 33, 372); -- GSharp G9Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 34, 373); -- GDoubleSharp G9DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 35, 377); -- GTripleSharp A9Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 36, 367); -- ATripleFlat F9Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 37, 374); -- ADoubleFlat A9DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 38, 375); -- AFlat A9Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 39, 376); -- ANatural A9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 40, 377); -- ASharp A9Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 41, 378); -- ADoubleSharp A9DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 42, 351); -- ATripleSharp C9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 43, 372); -- BTripleFlat G9Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 44, 379); -- BDoubleFlat B9DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 45, 380); -- BFlat B9Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 46, 381); -- BNatural B9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 47, 382); -- BSharp B9Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 48, 383); -- BDoubleSharp B9DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (9, 49, 356); -- BTripleSharp D9Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 1, 411); -- CTripleFlat A10Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 2, 384); -- CDoubleFlat C10DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 3, 385); -- CFlat C10Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 4, 386); -- CNatural C10Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 5, 387); -- CSharp C10Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 6, 388); -- CDoubleSharp C10DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 7, 392); -- CTripleSharp D10Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 8, 416); -- DTripleFlat B10Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 9, 389); -- DDoubleFlat D10DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 10, 390); -- DFlat D10Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 11, 391); -- DNatural D10Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 12, 392); -- DSharp D10Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 13, 393); -- DDoubleSharp D10DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 14, 401); -- DTripleSharp F10Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 15, 387); -- ETripleFlat C10Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 16, 394); -- EDoubleFlat E10DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 17, 395); -- EFlat E10Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 18, 396); -- ENatural E10Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 19, 397); -- ESharp E10Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 20, 398); -- EDoubleSharp E10DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 21, 406); -- ETripleSharp G10Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 22, 391); -- FTripleFlat D10Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 23, 399); -- FDoubleFlat F10DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 24, 400); -- FFlat F10Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 25, 401); -- FNatural F10Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 26, 402); -- FSharp F10Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 27, 403); -- FDoubleSharp F10DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 28, 407); -- FTripleSharp G10Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 29, 396); -- GTripleFlat E10Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 30, 404); -- GDoubleFlat G10DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 31, 405); -- GFlat G10Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 32, 406); -- GNatural G10Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 33, 407); -- GSharp G10Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 34, 408); -- GDoubleSharp G10DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 35, 412); -- GTripleSharp A10Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 36, 402); -- ATripleFlat F10Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 37, 409); -- ADoubleFlat A10DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 38, 410); -- AFlat A10Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 39, 411); -- ANatural A10Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 40, 412); -- ASharp A10Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 41, 413); -- ADoubleSharp A10DoubleSharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 42, 386); -- ATripleSharp C10Natural
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 43, 407); -- BTripleFlat G10Sharp
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 44, 414); -- BDoubleFlat B10DoubleFlat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 45, 415); -- BFlat B10Flat
+INSERT INTO note_pitches (octave, note_id, pitch_id) VALUES (10, 46, 416); -- BNatural B10Natural

@@ -12,7 +12,7 @@ type Pitch struct {
 
 // Accidental is a database model
 type Accidental struct {
-	ID           int    `json:"id" db:"id"`
+	ID           int64  `json:"id" db:"id"`
 	Displacement int    `json:"displacement" db:"displacement"`
 	Label        string `json:"label" db:"label"`
 	Name         string `json:"name" db:"name"`
@@ -20,10 +20,10 @@ type Accidental struct {
 
 // Note is a database model
 type Note struct {
-	ID           int    `json:"id" db:"id"`
-	AccidentalID int    `json:"accidental_id" db:"accidental_id"`
-	Label        string `json:"label" db:"label"`
-	Name         string `json:"name" db:"name"`
+	ID         int64      `json:"id" db:"id"`
+	Accidental Accidental `json:"accidental_id" db:"-"`
+	Label      string     `json:"label" db:"label"`
+	Name       string     `json:"name" db:"name"`
 }
 
 // Chord is a database model
