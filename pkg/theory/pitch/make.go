@@ -46,9 +46,9 @@ var pitchBuilder = map[note.Note]map[int]Pitch{
 
 // Make returns pitch based on given note and octave
 func Make(givenNote note.Note, givenOctave int) Pitch {
-	switch  {
+	switch {
 	case givenOctave < -1,
-	givenOctave > 10:
+		givenOctave > 10:
 		panic("invalid octave number")
 	case givenOctave == -1 && givenNote == note.CFlat,
 		givenOctave == -1 && givenNote == note.CDoubleFlat,

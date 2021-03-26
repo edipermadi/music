@@ -38,10 +38,20 @@ INDEX ON notes (number);
 
 CREATE TABLE note_pitches
 (
-    id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    octave INTEGER NOT NULL,
-    note_id BIGINT NOT NULL REFERENCES notes(id),
-    pitch_id BIGINT NOT NULL REFERENCES pitches(id)
+    id       BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    octave   INTEGER NOT NULL,
+    note_id  BIGINT  NOT NULL REFERENCES notes (id),
+    pitch_id BIGINT  NOT NULL REFERENCES pitches (id)
 );
 
-CREATE UNIQUE INDEX ON note_pitches (note_id, pitch_id);
+CREATE
+UNIQUE INDEX ON note_pitches (note_id, pitch_id);
+
+CREATE TABLE scales
+(
+    id            BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    cardinality   INTEGER NOT NULL,
+    transposition JSONB   NOT NULL,
+    label         TEXT    NOT NULL,
+    name          TEXT    NOT NULL
+);

@@ -1,9 +1,13 @@
 package main
 
 import (
+	"bytes"
+	"encoding/json"
 	"fmt"
+	"github.com/edipermadi/music/pkg/theory/scale"
 	"io"
 	"os"
+	"strings"
 
 	"github.com/edipermadi/music/pkg/theory/note"
 	"github.com/edipermadi/music/pkg/theory/note/accidental"
@@ -15,6 +19,7 @@ func main() {
 	generateAccidentalSeed(os.Stdout)
 	generateNoteSeed(os.Stdout)
 	generateNotePitchSeed(os.Stdout)
+	generateScaleSeed(os.Stdout)
 }
 
 var mapIDToPitch map[int]pitch.Pitch
@@ -112,6 +117,31 @@ func generateNotePitchSeed(writer io.Writer) {
 					panic(err)
 				}
 			}
+		}
+	}
+
+	// trailing new line
+	if _, err := fmt.Fprint(writer, "\n"); err != nil {
+		panic(err)
+	}
+}
+
+func generateScaleSeed(writer io.Writer) {
+	// put comment
+	if _, err := fmt.Fprint(writer, "-- seed for scales table\n"); err != nil {
+		panic(err)
+	}
+
+	// generate seed
+	for _, s := range scale.AllScales() {
+		var buff bytes.Buffer
+		if err := json.NewEncoder(&buff).Encode(s.IntervalPattern()); err != nil {
+			panic(err)
+		}
+
+		transposition := strings.TrimSpace(buff.String())
+		if _, err := fmt.Fprintf(writer, "INSERT INTO scales (cardinality, transposition, label, name) VALUES (%d, '%s', '%s', '%s');\n", s.Cardinality(), transposition, s.String(), s.String()); err != nil {
+			panic(err)
 		}
 	}
 

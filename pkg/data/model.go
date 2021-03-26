@@ -53,8 +53,8 @@ type Mode struct {
 // Scale is a model
 type Scale struct {
 	ID            int    `json:"id" db:"id"`
+	Cardinality   int    `json:"cardinality" db:"cardinality"`
 	Transposition []int  `json:"transposition" db:""`
-	Cardinality   int    `json:"cardinality" db:"cadinality"`
 	Label         string `json:"label" db:"-"`
 	Name          string `json:"name" db:"-"`
 }
