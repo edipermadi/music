@@ -29,7 +29,7 @@ B
 
 ## Chord Pattern
 
-
+IIIb5
 
 ## Perfection
 

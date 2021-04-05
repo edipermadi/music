@@ -29,7 +29,7 @@ Db
 
 ## Chord Pattern
 
-ii⁰, VIII
+i⁰b3, ii⁰, IIIb5, v⁰b3, vi⁰b3, VIIb5, VIII
 
 ## Perfection
 
@@ -89,6 +89,7 @@ ii⁰, VIII
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 134 | Db | [Dbloc](ChordDFlatLocrian.md) | Db, Ebb, Abb | ![Dbloc](ChordDFlatLocrianRootPosition.png) | [midi](ChordDFlatLocrianRootPosition.mid) |
+| 138 | Db | [Db](ChordDFlatDiminishedFlatThird.md) | Db, Fbb, Abb | ![Db](ChordDFlatDiminishedFlatThirdRootPosition.png) | [midi](ChordDFlatDiminishedFlatThirdRootPosition.mid) |
 | 138 | Db | [Dbsus2b5](ChordDFlatSuspendedSecondFlatFifth.md) | Db, Eb, Abb | ![Dbsus2b5](ChordDFlatSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordDFlatSuspendedSecondFlatFifthRootPosition.mid) |
 | 162 | Db | [DbMb5](ChordDFlatMajorFlatFifth.md) | Db, F, Abb | ![DbMb5](ChordDFlatMajorFlatFifthRootPosition.png) | [midi](ChordDFlatMajorFlatFifthRootPosition.mid) |
 | 258 | Db | [Db5](ChordDFlatPowerChord.md) | Db, Ab | ![Db5](ChordDFlatPowerChordRootPosition.png) | [midi](ChordDFlatPowerChordRootPosition.mid) |
@@ -144,6 +145,7 @@ ii⁰, VIII
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 296 | Eb | [Ebsus2bb5](ChordEFlatSuspendedSecondDoubleFlatFifth.md) | Eb, F, Ab | ![Ebsus2bb5](ChordEFlatSuspendedSecondDoubleFlatFifthRootPosition.png) | [midi](ChordEFlatSuspendedSecondDoubleFlatFifthRootPosition.mid) |
+| 552 | Eb | [Eb](ChordEFlatDiminishedFlatThird.md) | Eb, Gbb, Bbb | ![Eb](ChordEFlatDiminishedFlatThirdRootPosition.png) | [midi](ChordEFlatDiminishedFlatThirdRootPosition.mid) |
 | 552 | Eb | [Ebsus2b5](ChordEFlatSuspendedSecondFlatFifth.md) | Eb, F, Bbb | ![Ebsus2b5](ChordEFlatSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordEFlatSuspendedSecondFlatFifthRootPosition.mid) |
 | 648 | Eb | [EbMb5](ChordEFlatMajorFlatFifth.md) | Eb, G, Bbb | ![EbMb5](ChordEFlatMajorFlatFifthRootPosition.png) | [midi](ChordEFlatMajorFlatFifthRootPosition.mid) |
 | 776 | Eb | [Ebsus4b5](ChordEFlatSuspendedFourthFlatFifth.md) | Eb, Ab, Bbb | ![Ebsus4b5](ChordEFlatSuspendedFourthFlatFifthRootPosition.png) | [midi](ChordEFlatSuspendedFourthFlatFifthRootPosition.mid) |
@@ -208,6 +210,7 @@ ii⁰, VIII
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 386 | G | [Gloc](ChordGNaturalLocrian.md) | G, Ab, Db | ![Gloc](ChordGNaturalLocrianRootPosition.png) | [midi](ChordGNaturalLocrianRootPosition.mid) |
+| 642 | G | [G](ChordGNaturalDiminishedFlatThird.md) | G, Bbb, Db | ![G](ChordGNaturalDiminishedFlatThirdRootPosition.png) | [midi](ChordGNaturalDiminishedFlatThirdRootPosition.mid) |
 | 642 | G | [Gsus2b5](ChordGNaturalSuspendedSecondFlatFifth.md) | G, A, Db | ![Gsus2b5](ChordGNaturalSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordGNaturalSuspendedSecondFlatFifthRootPosition.mid) |
 | 1154 | G | [Go](ChordGNaturalDiminished.md) | G, Bb, Db | ![Go](ChordGNaturalDiminishedRootPosition.png) | [midi](ChordGNaturalDiminishedRootPosition.mid) |
 | 132 | G | [G5](ChordGNaturalPowerChord.md) | G, D | ![G5](ChordGNaturalPowerChordRootPosition.png) | [midi](ChordGNaturalPowerChordRootPosition.mid) |
@@ -236,6 +239,7 @@ ii⁰, VIII
 |--------|------|------|-------|--------------|-------|
 | 1282 | Ab | [Absus2bb5](ChordAFlatSuspendedSecondDoubleFlatFifth.md) | Ab, Bb, Db | ![Absus2bb5](ChordAFlatSuspendedSecondDoubleFlatFifthRootPosition.png) | [midi](ChordAFlatSuspendedSecondDoubleFlatFifthRootPosition.mid) |
 | 772 | Ab | [Abloc](ChordAFlatLocrian.md) | Ab, Bbb, Ebb | ![Abloc](ChordAFlatLocrianRootPosition.png) | [midi](ChordAFlatLocrianRootPosition.mid) |
+| 1284 | Ab | [Ab](ChordAFlatDiminishedFlatThird.md) | Ab, Cbb, Ebb | ![Ab](ChordAFlatDiminishedFlatThirdRootPosition.png) | [midi](ChordAFlatDiminishedFlatThirdRootPosition.mid) |
 | 1284 | Ab | [Absus2b5](ChordAFlatSuspendedSecondFlatFifth.md) | Ab, Bb, Ebb | ![Absus2b5](ChordAFlatSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordAFlatSuspendedSecondFlatFifthRootPosition.mid) |
 | 262 | Ab | [Absus4b5](ChordAFlatSuspendedFourthFlatFifth.md) | Ab, Db, Ebb | ![Absus4b5](ChordAFlatSuspendedFourthFlatFifthRootPosition.png) | [midi](ChordAFlatSuspendedFourthFlatFifthRootPosition.mid) |
 | 264 | Ab | [Ab5](ChordAFlatPowerChord.md) | Ab, Eb | ![Ab5](ChordAFlatPowerChordRootPosition.png) | [midi](ChordAFlatPowerChordRootPosition.mid) |

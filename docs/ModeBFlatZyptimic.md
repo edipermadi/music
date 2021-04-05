@@ -29,7 +29,7 @@ Bb
 
 ## Chord Pattern
 
-vi
+v⁰b3, vi
 
 ## Perfection
 
@@ -78,6 +78,7 @@ vi
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 1041 | Bb | [Bb](ChordBFlatDiminishedFlatThird.md) | Bb, Dbb, Fb | ![Bb](ChordBFlatDiminishedFlatThirdRootPosition.png) | [midi](ChordBFlatDiminishedFlatThirdRootPosition.mid) |
 | 1041 | Bb | [Bbsus2b5](ChordBFlatSuspendedSecondFlatFifth.md) | Bb, C, Fb | ![Bbsus2b5](ChordBFlatSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordBFlatSuspendedSecondFlatFifthRootPosition.mid) |
 | 1044 | Bb | [BbMb5](ChordBFlatMajorFlatFifth.md) | Bb, D, Fb | ![BbMb5](ChordBFlatMajorFlatFifthRootPosition.png) | [midi](ChordBFlatMajorFlatFifthRootPosition.mid) |
 | 1300 | Bb | [Bb7b5](ChordBFlatDominantSeventhFlatFifth.md) | Bb, D, Fb, Ab | ![Bb7b5](ChordBFlatDominantSeventhFlatFifthRootPosition.png) | [midi](ChordBFlatDominantSeventhFlatFifthRootPosition.mid) |
@@ -96,6 +97,7 @@ vi
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 276 | D | [D](ChordDNaturalDiminishedFlatThird.md) | D, Fb, Ab | ![D](ChordDNaturalDiminishedFlatThirdRootPosition.png) | [midi](ChordDNaturalDiminishedFlatThirdRootPosition.mid) |
 | 276 | D | [Dsus2b5](ChordDNaturalSuspendedSecondFlatFifth.md) | D, E, Ab | ![Dsus2b5](ChordDNaturalSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordDNaturalSuspendedSecondFlatFifthRootPosition.mid) |
 | 516 | D | [D5](ChordDNaturalPowerChord.md) | D, A | ![D5](ChordDNaturalPowerChordRootPosition.png) | [midi](ChordDNaturalPowerChordRootPosition.mid) |
 | 532 | D | [Dsus2](ChordDNaturalSuspendedSecond.md) | D, E, A | ![Dsus2](ChordDNaturalSuspendedSecondRootPosition.png) | [midi](ChordDNaturalSuspendedSecondRootPosition.mid) |

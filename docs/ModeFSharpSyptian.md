@@ -29,7 +29,7 @@ F#
 
 ## Chord Pattern
 
-
+iii⁰b3, IVb5, Vb5
 
 ## Perfection
 

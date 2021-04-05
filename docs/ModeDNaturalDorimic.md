@@ -94,6 +94,7 @@ i
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 552 | Eb | [Eb](ChordEFlatDiminishedFlatThird.md) | Eb, Gbb, Bbb | ![Eb](ChordEFlatDiminishedFlatThirdRootPosition.png) | [midi](ChordEFlatDiminishedFlatThirdRootPosition.mid) |
 | 552 | Eb | [Ebsus2b5](ChordEFlatSuspendedSecondFlatFifth.md) | Eb, F, Bbb | ![Ebsus2b5](ChordEFlatSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordEFlatSuspendedSecondFlatFifthRootPosition.mid) |
 | 584 | Eb | [Ebo](ChordEFlatDiminished.md) | Eb, Gb, Bbb | ![Ebo](ChordEFlatDiminishedRootPosition.png) | [midi](ChordEFlatDiminishedRootPosition.mid) |
 | 586 | Eb | [Ebø7](ChordEFlatHalfDiminishedSeventh.md) | Eb, Gb, Bbb, Db | ![Ebø7](ChordEFlatHalfDiminishedSeventhRootPosition.png) | [midi](ChordEFlatHalfDiminishedSeventhRootPosition.mid) |

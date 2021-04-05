@@ -29,7 +29,7 @@ C
 
 ## Chord Pattern
 
-III
+IIb5, III
 
 ## Perfection
 
@@ -105,6 +105,7 @@ III
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 1041 | A# | [A#](ChordASharpDiminishedFlatThird.md) | A#, C, E | ![A#](ChordASharpDiminishedFlatThirdRootPosition.png) | [midi](ChordASharpDiminishedFlatThirdRootPosition.mid) |
 | 1041 | A# | [A#sus2b5](ChordASharpSuspendedSecondFlatFifth.md) | A#, B#, E | ![A#sus2b5](ChordASharpSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordASharpSuspendedSecondFlatFifthRootPosition.mid) |
 | 1056 | A# | [A#5](ChordASharpPowerChord.md) | A#, E# | ![A#5](ChordASharpPowerChordRootPosition.png) | [midi](ChordASharpPowerChordRootPosition.mid) |
 | 1057 | A# | [A#sus2](ChordASharpSuspendedSecond.md) | A#, B#, E# | ![A#sus2](ChordASharpSuspendedSecondRootPosition.png) | [midi](ChordASharpSuspendedSecondRootPosition.mid) |

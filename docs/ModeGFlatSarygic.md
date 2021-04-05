@@ -29,7 +29,7 @@ Gb
 
 ## Chord Pattern
 
-VII
+v⁰b3, VII
 
 ## Perfection
 
@@ -94,6 +94,7 @@ VII
 | 2368 | Gb | [Gbsus2bb5](ChordGFlatSuspendedSecondDoubleFlatFifth.md) | Gb, Ab, Cb | ![Gbsus2bb5](ChordGFlatSuspendedSecondDoubleFlatFifthRootPosition.png) | [midi](ChordGFlatSuspendedSecondDoubleFlatFifthRootPosition.mid) |
 | 2624 | Gb | [Gbmbb5](ChordGFlatMinorDoubleFlatFifth.md) | Gb, Bbb, Cb | ![Gbmbb5](ChordGFlatMinorDoubleFlatFifthRootPosition.png) | [midi](ChordGFlatMinorDoubleFlatFifthRootPosition.mid) |
 | 193 | Gb | [Gbloc](ChordGFlatLocrian.md) | Gb, Abb, Dbb | ![Gbloc](ChordGFlatLocrianRootPosition.png) | [midi](ChordGFlatLocrianRootPosition.mid) |
+| 321 | Gb | [Gb](ChordGFlatDiminishedFlatThird.md) | Gb, Bbbb, Dbb | ![Gb](ChordGFlatDiminishedFlatThirdRootPosition.png) | [midi](ChordGFlatDiminishedFlatThirdRootPosition.mid) |
 | 321 | Gb | [Gbsus2b5](ChordGFlatSuspendedSecondFlatFifth.md) | Gb, Ab, Dbb | ![Gbsus2b5](ChordGFlatSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordGFlatSuspendedSecondFlatFifthRootPosition.mid) |
 | 577 | Gb | [Gbo](ChordGFlatDiminished.md) | Gb, Bbb, Dbb | ![Gbo](ChordGFlatDiminishedRootPosition.png) | [midi](ChordGFlatDiminishedRootPosition.mid) |
 | 1089 | Gb | [GbMb5](ChordGFlatMajorFlatFifth.md) | Gb, Bb, Dbb | ![GbMb5](ChordGFlatMajorFlatFifthRootPosition.png) | [midi](ChordGFlatMajorFlatFifthRootPosition.mid) |
@@ -149,6 +150,7 @@ VII
 | 641 | G | [Gsus2bb5](ChordGNaturalSuspendedSecondDoubleFlatFifth.md) | G, A, C | ![Gsus2bb5](ChordGNaturalSuspendedSecondDoubleFlatFifthRootPosition.png) | [midi](ChordGNaturalSuspendedSecondDoubleFlatFifthRootPosition.mid) |
 | 1153 | G | [Gmbb5](ChordGNaturalMinorDoubleFlatFifth.md) | G, Bb, C | ![Gmbb5](ChordGNaturalMinorDoubleFlatFifthRootPosition.png) | [midi](ChordGNaturalMinorDoubleFlatFifthRootPosition.mid) |
 | 386 | G | [Gloc](ChordGNaturalLocrian.md) | G, Ab, Db | ![Gloc](ChordGNaturalLocrianRootPosition.png) | [midi](ChordGNaturalLocrianRootPosition.mid) |
+| 642 | G | [G](ChordGNaturalDiminishedFlatThird.md) | G, Bbb, Db | ![G](ChordGNaturalDiminishedFlatThirdRootPosition.png) | [midi](ChordGNaturalDiminishedFlatThirdRootPosition.mid) |
 | 642 | G | [Gsus2b5](ChordGNaturalSuspendedSecondFlatFifth.md) | G, A, Db | ![Gsus2b5](ChordGNaturalSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordGNaturalSuspendedSecondFlatFifthRootPosition.mid) |
 | 1154 | G | [Go](ChordGNaturalDiminished.md) | G, Bb, Db | ![Go](ChordGNaturalDiminishedRootPosition.png) | [midi](ChordGNaturalDiminishedRootPosition.mid) |
 | 2178 | G | [GMb5](ChordGNaturalMajorFlatFifth.md) | G, B, Db | ![GMb5](ChordGNaturalMajorFlatFifthRootPosition.png) | [midi](ChordGNaturalMajorFlatFifthRootPosition.mid) |
@@ -233,6 +235,7 @@ VII
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 3088 | Bb | [Bbloc](ChordBFlatLocrian.md) | Bb, Cb, Fb | ![Bbloc](ChordBFlatLocrianRootPosition.png) | [midi](ChordBFlatLocrianRootPosition.mid) |
+| 1041 | Bb | [Bb](ChordBFlatDiminishedFlatThird.md) | Bb, Dbb, Fb | ![Bb](ChordBFlatDiminishedFlatThirdRootPosition.png) | [midi](ChordBFlatDiminishedFlatThirdRootPosition.mid) |
 | 1041 | Bb | [Bbsus2b5](ChordBFlatSuspendedSecondFlatFifth.md) | Bb, C, Fb | ![Bbsus2b5](ChordBFlatSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordBFlatSuspendedSecondFlatFifthRootPosition.mid) |
 | 1042 | Bb | [Bbo](ChordBFlatDiminished.md) | Bb, Db, Fb | ![Bbo](ChordBFlatDiminishedRootPosition.png) | [midi](ChordBFlatDiminishedRootPosition.mid) |
 | 1089 | Bb | [Bbsus2#5](ChordBFlatSuspendedSecondSharpFifth.md) | Bb, C, F# | ![Bbsus2#5](ChordBFlatSuspendedSecondSharpFifthRootPosition.png) | [midi](ChordBFlatSuspendedSecondSharpFifthRootPosition.mid) |
@@ -356,6 +359,7 @@ VII
 |--------|------|------|-------|--------------|-------|
 | 592 | E | [Esus2bb5](ChordENaturalSuspendedSecondDoubleFlatFifth.md) | E, F#, A | ![Esus2bb5](ChordENaturalSuspendedSecondDoubleFlatFifthRootPosition.png) | [midi](ChordENaturalSuspendedSecondDoubleFlatFifthRootPosition.mid) |
 | 656 | E | [Embb5](ChordENaturalMinorDoubleFlatFifth.md) | E, G, A | ![Embb5](ChordENaturalMinorDoubleFlatFifthRootPosition.png) | [midi](ChordENaturalMinorDoubleFlatFifthRootPosition.mid) |
+| 1104 | E | [E](ChordENaturalDiminishedFlatThird.md) | E, Gb, Bb | ![E](ChordENaturalDiminishedFlatThirdRootPosition.png) | [midi](ChordENaturalDiminishedFlatThirdRootPosition.mid) |
 | 1104 | E | [Esus2b5](ChordENaturalSuspendedSecondFlatFifth.md) | E, F#, Bb | ![Esus2b5](ChordENaturalSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordENaturalSuspendedSecondFlatFifthRootPosition.mid) |
 | 1168 | E | [Eo](ChordENaturalDiminished.md) | E, G, Bb | ![Eo](ChordENaturalDiminishedRootPosition.png) | [midi](ChordENaturalDiminishedRootPosition.mid) |
 | 1296 | E | [EMb5](ChordENaturalMajorFlatFifth.md) | E, G#, Bb | ![EMb5](ChordENaturalMajorFlatFifthRootPosition.png) | [midi](ChordENaturalMajorFlatFifthRootPosition.mid) |

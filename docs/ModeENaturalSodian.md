@@ -81,6 +81,7 @@ iii⁰
 |--------|------|------|-------|--------------|-------|
 | 592 | E | [Esus2bb5](ChordENaturalSuspendedSecondDoubleFlatFifth.md) | E, F#, A | ![Esus2bb5](ChordENaturalSuspendedSecondDoubleFlatFifthRootPosition.png) | [midi](ChordENaturalSuspendedSecondDoubleFlatFifthRootPosition.mid) |
 | 1072 | E | [Eloc](ChordENaturalLocrian.md) | E, F, Bb | ![Eloc](ChordENaturalLocrianRootPosition.png) | [midi](ChordENaturalLocrianRootPosition.mid) |
+| 1104 | E | [E](ChordENaturalDiminishedFlatThird.md) | E, Gb, Bb | ![E](ChordENaturalDiminishedFlatThirdRootPosition.png) | [midi](ChordENaturalDiminishedFlatThirdRootPosition.mid) |
 | 1104 | E | [Esus2b5](ChordENaturalSuspendedSecondFlatFifth.md) | E, F#, Bb | ![Esus2b5](ChordENaturalSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordENaturalSuspendedSecondFlatFifthRootPosition.mid) |
 | 1296 | E | [EMb5](ChordENaturalMajorFlatFifth.md) | E, G#, Bb | ![EMb5](ChordENaturalMajorFlatFifthRootPosition.png) | [midi](ChordENaturalMajorFlatFifthRootPosition.mid) |
 | 1552 | E | [Esus4b5](ChordENaturalSuspendedFourthFlatFifth.md) | E, A, Bb | ![Esus4b5](ChordENaturalSuspendedFourthFlatFifthRootPosition.png) | [midi](ChordENaturalSuspendedFourthFlatFifthRootPosition.mid) |
@@ -119,6 +120,7 @@ iii⁰
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 321 | Gb | [Gb](ChordGFlatDiminishedFlatThird.md) | Gb, Bbbb, Dbb | ![Gb](ChordGFlatDiminishedFlatThirdRootPosition.png) | [midi](ChordGFlatDiminishedFlatThirdRootPosition.mid) |
 | 321 | Gb | [Gbsus2b5](ChordGFlatSuspendedSecondFlatFifth.md) | Gb, Ab, Dbb | ![Gbsus2b5](ChordGFlatSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordGFlatSuspendedSecondFlatFifthRootPosition.mid) |
 | 577 | Gb | [Gbo](ChordGFlatDiminished.md) | Gb, Bbb, Dbb | ![Gbo](ChordGFlatDiminishedRootPosition.png) | [midi](ChordGFlatDiminishedRootPosition.mid) |
 | 1089 | Gb | [GbMb5](ChordGFlatMajorFlatFifth.md) | Gb, Bb, Dbb | ![GbMb5](ChordGFlatMajorFlatFifthRootPosition.png) | [midi](ChordGFlatMajorFlatFifthRootPosition.mid) |

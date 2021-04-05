@@ -8,6 +8,7 @@ var mapTypeToString = map[Type]string{
 
 	// Triad
 	Diminished:                            "Diminished",
+	DiminishedFlatThird:                   "DiminishedFlatThird",
 	MinorDoubleFlatFifth:                  "MinorDoubleFlatFifth",
 	Minor:                                 "Minor",
 	MinorAddEleventh:                      "MinorAddEleventh",

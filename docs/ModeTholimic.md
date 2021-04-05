@@ -21,7 +21,7 @@
 
 ## Chord Pattern
 
-V
+iv⁰b3, V
 
 ## Perfection
 

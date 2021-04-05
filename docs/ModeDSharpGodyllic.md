@@ -29,7 +29,7 @@ D#
 
 ## Chord Pattern
 
-ii⁰, III, iv, v⁰
+i⁰b3, ii⁰, III, iv, v⁰, VIb5
 
 ## Perfection
 
@@ -89,6 +89,7 @@ ii⁰, III, iv, v⁰
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 536 | D# | [D#loc](ChordDSharpLocrian.md) | D#, E, A | ![D#loc](ChordDSharpLocrianRootPosition.png) | [midi](ChordDSharpLocrianRootPosition.mid) |
+| 552 | D# | [D#](ChordDSharpDiminishedFlatThird.md) | D#, F, A | ![D#](ChordDSharpDiminishedFlatThirdRootPosition.png) | [midi](ChordDSharpDiminishedFlatThirdRootPosition.mid) |
 | 552 | D# | [D#sus2b5](ChordDSharpSuspendedSecondFlatFifth.md) | D#, E#, A | ![D#sus2b5](ChordDSharpSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordDSharpSuspendedSecondFlatFifthRootPosition.mid) |
 | 648 | D# | [D#Mb5](ChordDSharpMajorFlatFifth.md) | D#, F##, A | ![D#Mb5](ChordDSharpMajorFlatFifthRootPosition.png) | [midi](ChordDSharpMajorFlatFifthRootPosition.mid) |
 | 1032 | D# | [D#5](ChordDSharpPowerChord.md) | D#, A# | ![D#5](ChordDSharpPowerChordRootPosition.png) | [midi](ChordDSharpPowerChordRootPosition.mid) |
@@ -255,6 +256,7 @@ ii⁰, III, iv, v⁰
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 1033 | A# | [A#sus2bb5](ChordASharpSuspendedSecondDoubleFlatFifth.md) | A#, B#, D# | ![A#sus2bb5](ChordASharpSuspendedSecondDoubleFlatFifthRootPosition.png) | [midi](ChordASharpSuspendedSecondDoubleFlatFifthRootPosition.mid) |
+| 1041 | A# | [A#](ChordASharpDiminishedFlatThird.md) | A#, C, E | ![A#](ChordASharpDiminishedFlatThirdRootPosition.png) | [midi](ChordASharpDiminishedFlatThirdRootPosition.mid) |
 | 1041 | A# | [A#sus2b5](ChordASharpSuspendedSecondFlatFifth.md) | A#, B#, E | ![A#sus2b5](ChordASharpSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordASharpSuspendedSecondFlatFifthRootPosition.mid) |
 | 1044 | A# | [A#Mb5](ChordASharpMajorFlatFifth.md) | A#, C##, E | ![A#Mb5](ChordASharpMajorFlatFifthRootPosition.png) | [midi](ChordASharpMajorFlatFifthRootPosition.mid) |
 | 1048 | A# | [A#sus4b5](ChordASharpSuspendedFourthFlatFifth.md) | A#, D#, E | ![A#sus4b5](ChordASharpSuspendedFourthFlatFifthRootPosition.png) | [midi](ChordASharpSuspendedFourthFlatFifthRootPosition.mid) |

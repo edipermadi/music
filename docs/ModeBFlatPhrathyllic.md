@@ -29,7 +29,7 @@ Bb
 
 ## Chord Pattern
 
-ii⁰, III⁺, iv
+i⁰b3, ii⁰, III⁺, iv, Vb5, VIb5
 
 ## Perfection
 
@@ -89,6 +89,7 @@ ii⁰, III⁺, iv
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 3088 | Bb | [Bbloc](ChordBFlatLocrian.md) | Bb, Cb, Fb | ![Bbloc](ChordBFlatLocrianRootPosition.png) | [midi](ChordBFlatLocrianRootPosition.mid) |
+| 1041 | Bb | [Bb](ChordBFlatDiminishedFlatThird.md) | Bb, Dbb, Fb | ![Bb](ChordBFlatDiminishedFlatThirdRootPosition.png) | [midi](ChordBFlatDiminishedFlatThirdRootPosition.mid) |
 | 1041 | Bb | [Bbsus2b5](ChordBFlatSuspendedSecondFlatFifth.md) | Bb, C, Fb | ![Bbsus2b5](ChordBFlatSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordBFlatSuspendedSecondFlatFifthRootPosition.mid) |
 | 1044 | Bb | [BbMb5](ChordBFlatMajorFlatFifth.md) | Bb, D, Fb | ![BbMb5](ChordBFlatMajorFlatFifthRootPosition.png) | [midi](ChordBFlatMajorFlatFifthRootPosition.mid) |
 | 1056 | Bb | [Bb5](ChordBFlatPowerChord.md) | Bb, F | ![Bb5](ChordBFlatPowerChordRootPosition.png) | [midi](ChordBFlatPowerChordRootPosition.mid) |
@@ -158,6 +159,7 @@ ii⁰, III⁺, iv
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 276 | D | [D](ChordDNaturalDiminishedFlatThird.md) | D, Fb, Ab | ![D](ChordDNaturalDiminishedFlatThirdRootPosition.png) | [midi](ChordDNaturalDiminishedFlatThirdRootPosition.mid) |
 | 276 | D | [Dsus2b5](ChordDNaturalSuspendedSecondFlatFifth.md) | D, E, Ab | ![Dsus2b5](ChordDNaturalSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordDNaturalSuspendedSecondFlatFifthRootPosition.mid) |
 | 292 | D | [Do](ChordDNaturalDiminished.md) | D, F, Ab | ![Do](ChordDNaturalDiminishedRootPosition.png) | [midi](ChordDNaturalDiminishedRootPosition.mid) |
 | 516 | D | [D5](ChordDNaturalPowerChord.md) | D, A | ![D5](ChordDNaturalPowerChordRootPosition.png) | [midi](ChordDNaturalPowerChordRootPosition.mid) |
@@ -266,6 +268,7 @@ ii⁰, III⁺, iv
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 772 | Ab | [Abloc](ChordAFlatLocrian.md) | Ab, Bbb, Ebb | ![Abloc](ChordAFlatLocrianRootPosition.png) | [midi](ChordAFlatLocrianRootPosition.mid) |
+| 1284 | Ab | [Ab](ChordAFlatDiminishedFlatThird.md) | Ab, Cbb, Ebb | ![Ab](ChordAFlatDiminishedFlatThirdRootPosition.png) | [midi](ChordAFlatDiminishedFlatThirdRootPosition.mid) |
 | 1284 | Ab | [Absus2b5](ChordAFlatSuspendedSecondFlatFifth.md) | Ab, Bb, Ebb | ![Absus2b5](ChordAFlatSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordAFlatSuspendedSecondFlatFifthRootPosition.mid) |
 | 2308 | Ab | [Abo](ChordAFlatDiminished.md) | Ab, Cb, Ebb | ![Abo](ChordAFlatDiminishedRootPosition.png) | [midi](ChordAFlatDiminishedRootPosition.mid) |
 | 261 | Ab | [AbMb5](ChordAFlatMajorFlatFifth.md) | Ab, C, Ebb | ![AbMb5](ChordAFlatMajorFlatFifthRootPosition.png) | [midi](ChordAFlatMajorFlatFifthRootPosition.mid) |

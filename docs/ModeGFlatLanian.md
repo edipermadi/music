@@ -29,7 +29,7 @@ Gb
 
 ## Chord Pattern
 
-III, v, VII⁺
+i⁰b3, IIb5, III, v, VII⁺
 
 ## Perfection
 
@@ -75,6 +75,7 @@ III, v, VII⁺
 |--------|------|------|-------|--------------|-------|
 | 2368 | Gb | [Gbsus2bb5](ChordGFlatSuspendedSecondDoubleFlatFifth.md) | Gb, Ab, Cb | ![Gbsus2bb5](ChordGFlatSuspendedSecondDoubleFlatFifthRootPosition.png) | [midi](ChordGFlatSuspendedSecondDoubleFlatFifthRootPosition.mid) |
 | 193 | Gb | [Gbloc](ChordGFlatLocrian.md) | Gb, Abb, Dbb | ![Gbloc](ChordGFlatLocrianRootPosition.png) | [midi](ChordGFlatLocrianRootPosition.mid) |
+| 321 | Gb | [Gb](ChordGFlatDiminishedFlatThird.md) | Gb, Bbbb, Dbb | ![Gb](ChordGFlatDiminishedFlatThirdRootPosition.png) | [midi](ChordGFlatDiminishedFlatThirdRootPosition.mid) |
 | 321 | Gb | [Gbsus2b5](ChordGFlatSuspendedSecondFlatFifth.md) | Gb, Ab, Dbb | ![Gbsus2b5](ChordGFlatSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordGFlatSuspendedSecondFlatFifthRootPosition.mid) |
 | 2113 | Gb | [Gbsus4b5](ChordGFlatSuspendedFourthFlatFifth.md) | Gb, Cb, Dbb | ![Gbsus4b5](ChordGFlatSuspendedFourthFlatFifthRootPosition.png) | [midi](ChordGFlatSuspendedFourthFlatFifthRootPosition.mid) |
 | 66 | Gb | [Gb5](ChordGFlatPowerChord.md) | Gb, Db | ![Gb5](ChordGFlatPowerChordRootPosition.png) | [midi](ChordGFlatPowerChordRootPosition.mid) |

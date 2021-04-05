@@ -29,7 +29,7 @@ G#
 
 ## Chord Pattern
 
-i⁰, II⁺, IV, vi⁰
+i⁰, II⁺, IV, vi⁰, vii⁰b3
 
 ## Perfection
 
@@ -109,6 +109,7 @@ i⁰, II⁺, IV, vi⁰
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 2082 | B | [B](ChordBNaturalDiminishedFlatThird.md) | B, Db, F | ![B](ChordBNaturalDiminishedFlatThirdRootPosition.png) | [midi](ChordBNaturalDiminishedFlatThirdRootPosition.mid) |
 | 2082 | B | [Bsus2b5](ChordBNaturalSuspendedSecondFlatFifth.md) | B, C#, F | ![Bsus2b5](ChordBNaturalSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordBNaturalSuspendedSecondFlatFifthRootPosition.mid) |
 | 2084 | B | [Bo](ChordBNaturalDiminished.md) | B, D, F | ![Bo](ChordBNaturalDiminishedRootPosition.png) | [midi](ChordBNaturalDiminishedRootPosition.mid) |
 | 2178 | B | [Bsus2#5](ChordBNaturalSuspendedSecondSharpFifth.md) | B, C#, F## | ![Bsus2#5](ChordBNaturalSuspendedSecondSharpFifthRootPosition.png) | [midi](ChordBNaturalSuspendedSecondSharpFifthRootPosition.mid) |

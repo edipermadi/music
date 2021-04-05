@@ -29,7 +29,7 @@ B
 
 ## Chord Pattern
 
-I⁺, II⁺, IV, vi, vii
+I⁺, II⁺, IIIb5, IV, vi, vii
 
 ## Perfection
 
@@ -183,6 +183,7 @@ I⁺, II⁺, IV, vi, vii
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 2568 | A | [A](ChordANaturalDiminishedFlatThird.md) | A, Cb, Eb | ![A](ChordANaturalDiminishedFlatThirdRootPosition.png) | [midi](ChordANaturalDiminishedFlatThirdRootPosition.mid) |
 | 2568 | A | [Asus2b5](ChordANaturalSuspendedSecondFlatFifth.md) | A, B, Eb | ![Asus2b5](ChordANaturalSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordANaturalSuspendedSecondFlatFifthRootPosition.mid) |
 | 521 | A | [Ao](ChordANaturalDiminished.md) | A, C, Eb | ![Ao](ChordANaturalDiminishedRootPosition.png) | [midi](ChordANaturalDiminishedRootPosition.mid) |
 | 528 | A | [A5](ChordANaturalPowerChord.md) | A, E | ![A5](ChordANaturalPowerChordRootPosition.png) | [midi](ChordANaturalPowerChordRootPosition.mid) |

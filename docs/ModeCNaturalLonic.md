@@ -90,6 +90,7 @@ C
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 321 | F# | [F#](ChordFSharpDiminishedFlatThird.md) | F#, Ab, C | ![F#](ChordFSharpDiminishedFlatThirdRootPosition.png) | [midi](ChordFSharpDiminishedFlatThirdRootPosition.mid) |
 | 321 | F# | [F#sus2b5](ChordFSharpSuspendedSecondFlatFifth.md) | F#, G#, C | ![F#sus2b5](ChordFSharpSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordFSharpSuspendedSecondFlatFifthRootPosition.mid) |
 | 329 | F# | [F#M6sus2b5](ChordFSharpMajorSixthSuspendedSecondFlatFifth.md) | F#, G#, C, D# | ![F#M6sus2b5](ChordFSharpMajorSixthSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordFSharpMajorSixthSuspendedSecondFlatFifthRootPosition.mid) |
 

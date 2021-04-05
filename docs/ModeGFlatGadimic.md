@@ -29,7 +29,7 @@ Gb
 
 ## Chord Pattern
 
-v⁰
+v⁰, vi⁰b3
 
 ## Perfection
 
@@ -98,6 +98,7 @@ v⁰
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 552 | D# | [D#](ChordDSharpDiminishedFlatThird.md) | D#, F, A | ![D#](ChordDSharpDiminishedFlatThirdRootPosition.png) | [midi](ChordDSharpDiminishedFlatThirdRootPosition.mid) |
 | 552 | D# | [D#sus2b5](ChordDSharpSuspendedSecondFlatFifth.md) | D#, E#, A | ![D#sus2b5](ChordDSharpSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordDSharpSuspendedSecondFlatFifthRootPosition.mid) |
 | 584 | D# | [D#o](ChordDSharpDiminished.md) | D#, F#, A | ![D#o](ChordDSharpDiminishedRootPosition.png) | [midi](ChordDSharpDiminishedRootPosition.mid) |
 | 648 | D# | [D#Mb5](ChordDSharpMajorFlatFifth.md) | D#, F##, A | ![D#Mb5](ChordDSharpMajorFlatFifthRootPosition.png) | [midi](ChordDSharpMajorFlatFifthRootPosition.mid) |

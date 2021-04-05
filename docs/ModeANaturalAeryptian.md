@@ -29,7 +29,7 @@ A
 
 ## Chord Pattern
 
-
+IIIb5
 
 ## Perfection
 
@@ -126,6 +126,7 @@ A
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 772 | G# | [G#loc](ChordGSharpLocrian.md) | G#, A, D | ![G#loc](ChordGSharpLocrianRootPosition.png) | [midi](ChordGSharpLocrianRootPosition.mid) |
+| 1284 | G# | [G#](ChordGSharpDiminishedFlatThird.md) | G#, Bb, D | ![G#](ChordGSharpDiminishedFlatThirdRootPosition.png) | [midi](ChordGSharpDiminishedFlatThirdRootPosition.mid) |
 | 1284 | G# | [G#sus2b5](ChordGSharpSuspendedSecondFlatFifth.md) | G#, A#, D | ![G#sus2b5](ChordGSharpSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordGSharpSuspendedSecondFlatFifthRootPosition.mid) |
 | 1316 | G# | [G#M6sus2b5](ChordGSharpMajorSixthSuspendedSecondFlatFifth.md) | G#, A#, D, E# | ![G#M6sus2b5](ChordGSharpMajorSixthSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordGSharpMajorSixthSuspendedSecondFlatFifthRootPosition.mid) |
 

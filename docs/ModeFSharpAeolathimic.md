@@ -76,6 +76,7 @@ II⁺, IV⁺, v, VI⁺
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 321 | F# | [F#](ChordFSharpDiminishedFlatThird.md) | F#, Ab, C | ![F#](ChordFSharpDiminishedFlatThirdRootPosition.png) | [midi](ChordFSharpDiminishedFlatThirdRootPosition.mid) |
 | 321 | F# | [F#sus2b5](ChordFSharpSuspendedSecondFlatFifth.md) | F#, G#, C | ![F#sus2b5](ChordFSharpSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordFSharpSuspendedSecondFlatFifthRootPosition.mid) |
 | 1089 | F# | [F#Mb5](ChordFSharpMajorFlatFifth.md) | F#, A#, C | ![F#Mb5](ChordFSharpMajorFlatFifthRootPosition.png) | [midi](ChordFSharpMajorFlatFifthRootPosition.mid) |
 | 1096 | F# | [F#M##5](ChordFSharpMajorDoubleSharpFifth.md) | F#, A#, D# | ![F#M##5](ChordFSharpMajorDoubleSharpFifthRootPosition.png) | [midi](ChordFSharpMajorDoubleSharpFifthRootPosition.mid) |
@@ -105,6 +106,7 @@ II⁺, IV⁺, v, VI⁺
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 1033 | A# | [A#sus2bb5](ChordASharpSuspendedSecondDoubleFlatFifth.md) | A#, B#, D# | ![A#sus2bb5](ChordASharpSuspendedSecondDoubleFlatFifthRootPosition.png) | [midi](ChordASharpSuspendedSecondDoubleFlatFifthRootPosition.mid) |
+| 1041 | A# | [A#](ChordASharpDiminishedFlatThird.md) | A#, C, E | ![A#](ChordASharpDiminishedFlatThirdRootPosition.png) | [midi](ChordASharpDiminishedFlatThirdRootPosition.mid) |
 | 1041 | A# | [A#sus2b5](ChordASharpSuspendedSecondFlatFifth.md) | A#, B#, E | ![A#sus2b5](ChordASharpSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordASharpSuspendedSecondFlatFifthRootPosition.mid) |
 | 1048 | A# | [A#sus4b5](ChordASharpSuspendedFourthFlatFifth.md) | A#, D#, E | ![A#sus4b5](ChordASharpSuspendedFourthFlatFifthRootPosition.png) | [midi](ChordASharpSuspendedFourthFlatFifthRootPosition.mid) |
 | 1089 | A# | [A#sus2#5](ChordASharpSuspendedSecondSharpFifth.md) | A#, B#, E## | ![A#sus2#5](ChordASharpSuspendedSecondSharpFifthRootPosition.png) | [midi](ChordASharpSuspendedSecondSharpFifthRootPosition.mid) |

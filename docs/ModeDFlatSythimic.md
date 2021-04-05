@@ -29,7 +29,7 @@ Db
 
 ## Chord Pattern
 
-v⁰
+IVb5, v⁰
 
 ## Perfection
 
@@ -101,6 +101,7 @@ v⁰
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 1282 | G# | [G#sus2bb5](ChordGSharpSuspendedSecondDoubleFlatFifth.md) | G#, A#, C# | ![G#sus2bb5](ChordGSharpSuspendedSecondDoubleFlatFifthRootPosition.png) | [midi](ChordGSharpSuspendedSecondDoubleFlatFifthRootPosition.mid) |
+| 1284 | G# | [G#](ChordGSharpDiminishedFlatThird.md) | G#, Bb, D | ![G#](ChordGSharpDiminishedFlatThirdRootPosition.png) | [midi](ChordGSharpDiminishedFlatThirdRootPosition.mid) |
 | 1284 | G# | [G#sus2b5](ChordGSharpSuspendedSecondFlatFifth.md) | G#, A#, D | ![G#sus2b5](ChordGSharpSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordGSharpSuspendedSecondFlatFifthRootPosition.mid) |
 | 261 | G# | [G#Mb5](ChordGSharpMajorFlatFifth.md) | G#, B#, D | ![G#Mb5](ChordGSharpMajorFlatFifthRootPosition.png) | [midi](ChordGSharpMajorFlatFifthRootPosition.mid) |
 | 262 | G# | [G#sus4b5](ChordGSharpSuspendedFourthFlatFifth.md) | G#, C#, D | ![G#sus4b5](ChordGSharpSuspendedFourthFlatFifthRootPosition.png) | [midi](ChordGSharpSuspendedFourthFlatFifthRootPosition.mid) |
@@ -114,6 +115,7 @@ v⁰
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 1041 | A# | [A#](ChordASharpDiminishedFlatThird.md) | A#, C, E | ![A#](ChordASharpDiminishedFlatThirdRootPosition.png) | [midi](ChordASharpDiminishedFlatThirdRootPosition.mid) |
 | 1041 | A# | [A#sus2b5](ChordASharpSuspendedSecondFlatFifth.md) | A#, B#, E | ![A#sus2b5](ChordASharpSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordASharpSuspendedSecondFlatFifthRootPosition.mid) |
 | 1042 | A# | [A#o](ChordASharpDiminished.md) | A#, C#, E | ![A#o](ChordASharpDiminishedRootPosition.png) | [midi](ChordASharpDiminishedRootPosition.mid) |
 | 1044 | A# | [A#Mb5](ChordASharpMajorFlatFifth.md) | A#, C##, E | ![A#Mb5](ChordASharpMajorFlatFifthRootPosition.png) | [midi](ChordASharpMajorFlatFifthRootPosition.mid) |

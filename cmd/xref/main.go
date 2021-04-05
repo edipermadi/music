@@ -335,6 +335,8 @@ func generatePitchClassMIDI(logger *zap.Logger, wikiDir string, givenMode mode.M
 	trackName := fmt.Sprintf("Mode%s", givenMode)
 	fileName := fmt.Sprintf("%s/%s.mid", wikiDir, trackName)
 
+	logger.Info("generating midi for pitch-class", zap.String("mode", givenMode.String()))
+
 	var buff bytes.Buffer
 	midiFile, err := illustration.SaveAsMIDI(trackName, givenMode.Pitches(4)...)
 	if err != nil {
@@ -351,6 +353,8 @@ func generatePitchClassMIDI(logger *zap.Logger, wikiDir string, givenMode mode.M
 func generatePitchClassCircleDiagram(logger *zap.Logger, wikiDir string, givenMode mode.Mode) error {
 	diagramName := fmt.Sprintf("CircleMode%s", givenMode)
 	fileName := fmt.Sprintf("%s/%s.dot", wikiDir, diagramName)
+
+	logger.Info("generating circle-of-fifth for pitch-class", zap.String("mode", givenMode.String()))
 
 	diagramTemplate := `
 graph {
@@ -722,6 +726,21 @@ var diminishedRomanNumeralChords = map[int]string{
 	11: "xii⁰",
 }
 
+var diminishedFlatThirdRomanNumeralChords = map[int]string{
+	0:  "i⁰b3",
+	1:  "ii⁰b3",
+	2:  "iii⁰b3",
+	3:  "iv⁰b3",
+	4:  "v⁰b3",
+	5:  "vi⁰b3",
+	6:  "vii⁰b3",
+	7:  "viii⁰b3",
+	8:  "ix⁰b3",
+	9:  "x⁰b3",
+	10: "xi⁰b3",
+	11: "xii⁰b3",
+}
+
 var minorRomanNumeralChords = map[int]string{
 	0:  "i",
 	1:  "ii",
@@ -750,6 +769,21 @@ var majorRomanNumeralChords = map[int]string{
 	9:  "X",
 	10: "XI",
 	11: "XII",
+}
+
+var majorFlatFifthRomanNumeralChords = map[int]string{
+	0:  "Ib5",
+	1:  "IIb5",
+	2:  "IIIb5",
+	3:  "IVb5",
+	4:  "Vb5",
+	5:  "VIb5",
+	6:  "VIIb5",
+	7:  "VIIIb5",
+	8:  "IXb5",
+	9:  "Xb5",
+	10: "XIb5",
+	11: "XIIb5",
 }
 
 var augmentedRomanNumeralChords = map[int]string{
@@ -782,10 +816,14 @@ func chordRomanNumeralPattern(givenMode mode.Mode) []string {
 				switch givenChord.Type() {
 				case chordtype.Diminished:
 					numeralChords = append(numeralChords, diminishedRomanNumeralChords[i])
+				case chordtype.DiminishedFlatThird:
+					numeralChords = append(numeralChords, diminishedFlatThirdRomanNumeralChords[i])
 				case chordtype.Minor:
 					numeralChords = append(numeralChords, minorRomanNumeralChords[i])
 				case chordtype.Major:
 					numeralChords = append(numeralChords, majorRomanNumeralChords[i])
+				case chordtype.MajorFlatFifth:
+					numeralChords = append(numeralChords, majorFlatFifthRomanNumeralChords[i])
 				case chordtype.Augmented:
 					numeralChords = append(numeralChords, augmentedRomanNumeralChords[i])
 				}

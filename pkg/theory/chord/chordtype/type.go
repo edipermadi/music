@@ -15,6 +15,7 @@ const (
 
 	// Triad
 	Diminished                            Type = iota
+	DiminishedFlatThird                   Type = iota
 	MinorDoubleFlatFifth                  Type = iota
 	Minor                                 Type = iota
 	MinorAddEleventh                      Type = iota

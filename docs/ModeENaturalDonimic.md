@@ -29,7 +29,7 @@ E
 
 ## Chord Pattern
 
-I
+I, VIb5
 
 ## Perfection
 
@@ -118,6 +118,7 @@ I
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 2568 | A | [A](ChordANaturalDiminishedFlatThird.md) | A, Cb, Eb | ![A](ChordANaturalDiminishedFlatThirdRootPosition.png) | [midi](ChordANaturalDiminishedFlatThirdRootPosition.mid) |
 | 2568 | A | [Asus2b5](ChordANaturalSuspendedSecondFlatFifth.md) | A, B, Eb | ![Asus2b5](ChordANaturalSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordANaturalSuspendedSecondFlatFifthRootPosition.mid) |
 | 528 | A | [A5](ChordANaturalPowerChord.md) | A, E | ![A5](ChordANaturalPowerChordRootPosition.png) | [midi](ChordANaturalPowerChordRootPosition.mid) |
 | 2576 | A | [Asus2](ChordANaturalSuspendedSecond.md) | A, B, E | ![Asus2](ChordANaturalSuspendedSecondRootPosition.png) | [midi](ChordANaturalSuspendedSecondRootPosition.mid) |

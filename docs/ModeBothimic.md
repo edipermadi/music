@@ -21,7 +21,7 @@
 
 ## Chord Pattern
 
-II
+i⁰b3, II
 
 ## Perfection
 
