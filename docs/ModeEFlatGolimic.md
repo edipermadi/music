@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ Eb
 
 ![EFlatGolimic](ModeEFlatGolimic.png)
 
+## Diagram
+
+![EFlatGolimic](CircleModeEFlatGolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [303](https://ianring.com/musictheory/scales/303) | [Golimic](ModeGolimic.md) | Eb | Eb, Fb, Gbb, Abbb, Bbbb, Cb, Eb | ![EFlatGolimic](ModeEFlatGolimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [303](https://ianring.com/musictheory/scales/303) | [Golimic](ModeGolimic.md) | Eb | Eb, Fb, Gbb, Abbb, Bbbb, Cb, Eb | ![EFlatGolimic](CircleModeEFlatGolimic.png) |
 
 ## Chords
 

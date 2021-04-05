@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ v⁰
 
 ![EFlatGadimic](ModeEFlatGadimic.png)
 
+## Diagram
+
+![EFlatGadimic](CircleModeEFlatGadimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ v⁰
 | [2603](https://ianring.com/musictheory/scales/2603) | [Gadimic](ModeGadimic.md) | Eb | Eb, Fb, Gb, Ab, B#, C##, Eb | ![EFlatGadimic](ModeEFlatGadimic.png) |
 | [1861](https://ianring.com/musictheory/scales/1861) | [Phrygimic](ModePhrygimic.md) | Gb | Gb, Ab, B#, C##, D#, E, Gb | ![GFlatPhrygimic](ModeGFlatPhrygimic.png) |
 | [1489](https://ianring.com/musictheory/scales/1489) | [Gacrimic](ModeGacrimic.md) | Ab | Ab, B#, C##, D#, E, F#, Ab | ![AFlatGacrimic](ModeAFlatGacrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2603](https://ianring.com/musictheory/scales/2603) | [Gadimic](ModeGadimic.md) | Eb | Eb, Fb, Gb, Ab, B#, C##, Eb | ![EFlatGadimic](CircleModeEFlatGadimic.png) |
+| [1861](https://ianring.com/musictheory/scales/1861) | [Phrygimic](ModePhrygimic.md) | Gb | Gb, Ab, B#, C##, D#, E, Gb | ![GFlatPhrygimic](CircleModeGFlatPhrygimic.png) |
+| [1489](https://ianring.com/musictheory/scales/1489) | [Gacrimic](ModeGacrimic.md) | Ab | Ab, B#, C##, D#, E, F#, Ab | ![AFlatGacrimic](CircleModeAFlatGacrimic.png) |
 
 ## Chords
 

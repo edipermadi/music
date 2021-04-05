@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ B
 
 ![BNaturalDyrian](ModeBNaturalDyrian.png)
 
+## Diagram
+
+![BNaturalDyrian](CircleModeBNaturalDyrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ B
 | [2531](https://ianring.com/musictheory/scales/2531) | [Danian](ModeDanian.md) | F | F, Gb, A#, B, C, Db, E, F | ![FNaturalDanian](ModeFNaturalDanian.png) |
 | [3313](https://ianring.com/musictheory/scales/3313) | [Aeolacrian](ModeAeolacrian.md) | Gb | Gb, A#, B, C, Db, E, F, Gb | ![GFlatAeolacrian](ModeGFlatAeolacrian.png) |
 | [463](https://ianring.com/musictheory/scales/463) | [Zythian](ModeZythian.md) | A# | A#, B, C, Db, E, F, Gb, A# | ![ASharpZythian](ModeASharpZythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2279](https://ianring.com/musictheory/scales/2279) | [Dyrian](ModeDyrian.md) | B | B, C, Db, E, F, Gb, A#, B | ![BNaturalDyrian](CircleModeBNaturalDyrian.png) |
+| [3187](https://ianring.com/musictheory/scales/3187) | [Koptian](ModeKoptian.md) | C | C, Db, E, F, Gb, A#, B, C | ![CNaturalKoptian](CircleModeCNaturalKoptian.png) |
+| [3641](https://ianring.com/musictheory/scales/3641) | [Thocrian](ModeThocrian.md) | Db | Db, E, F, Gb, A#, B, C, Db | ![DFlatThocrian](CircleModeDFlatThocrian.png) |
+| [967](https://ianring.com/musictheory/scales/967) | [Aeolanian](ModeAeolanian.md) | E | E, F, Gb, A#, B, C, Db, E | ![ENaturalAeolanian](CircleModeENaturalAeolanian.png) |
+| [2531](https://ianring.com/musictheory/scales/2531) | [Danian](ModeDanian.md) | F | F, Gb, A#, B, C, Db, E, F | ![FNaturalDanian](CircleModeFNaturalDanian.png) |
+| [3313](https://ianring.com/musictheory/scales/3313) | [Aeolacrian](ModeAeolacrian.md) | Gb | Gb, A#, B, C, Db, E, F, Gb | ![GFlatAeolacrian](CircleModeGFlatAeolacrian.png) |
+| [463](https://ianring.com/musictheory/scales/463) | [Zythian](ModeZythian.md) | A# | A#, B, C, Db, E, F, Gb, A# | ![ASharpZythian](CircleModeASharpZythian.png) |
 
 ## Chords
 

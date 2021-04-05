@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺, vi⁰
 
 ![CNaturalKynian](ModeCNaturalKynian.png)
 
+## Diagram
+
+![CNaturalKynian](CircleModeCNaturalKynian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, III⁺, vi⁰
 | [885](https://ianring.com/musictheory/scales/885) | [Sathian](ModeSathian.md) | G | G, A, B, C, Db, Eb, Fb, G | ![GNaturalSathian](ModeGNaturalSathian.png) |
 | [1245](https://ianring.com/musictheory/scales/1245) | [Lathian](ModeLathian.md) | A | A, B, C, Db, Eb, Fb, G, A | ![ANaturalLathian](ModeANaturalLathian.png) |
 | [1335](https://ianring.com/musictheory/scales/1335) | [Aeralian](ModeAeralian.md) | B | B, C, Db, Eb, Fb, G, A, B | ![BNaturalAeralian](ModeBNaturalAeralian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2715](https://ianring.com/musictheory/scales/2715) | [Kynian](ModeKynian.md) | C | C, Db, Eb, Fb, G, A, B, C | ![CNaturalKynian](CircleModeCNaturalKynian.png) |
+| [3405](https://ianring.com/musictheory/scales/3405) | [Stynian](ModeStynian.md) | Db | Db, Eb, Fb, G, A, B, C, Db | ![DFlatStynian](CircleModeDFlatStynian.png) |
+| [1875](https://ianring.com/musictheory/scales/1875) | [Epyphian](ModeEpyphian.md) | Eb | Eb, Fb, G, A, B, C, Db, Eb | ![EFlatEpyphian](CircleModeEFlatEpyphian.png) |
+| [885](https://ianring.com/musictheory/scales/885) | [Sathian](ModeSathian.md) | G | G, A, B, C, Db, Eb, Fb, G | ![GNaturalSathian](CircleModeGNaturalSathian.png) |
+| [1245](https://ianring.com/musictheory/scales/1245) | [Lathian](ModeLathian.md) | A | A, B, C, Db, Eb, Fb, G, A | ![ANaturalLathian](CircleModeANaturalLathian.png) |
+| [1335](https://ianring.com/musictheory/scales/1335) | [Aeralian](ModeAeralian.md) | B | B, C, Db, Eb, Fb, G, A, B | ![BNaturalAeralian](CircleModeBNaturalAeralian.png) |
 
 ## Chords
 

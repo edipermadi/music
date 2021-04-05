@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ I⁺, III, v⁰, vi
 
 ![GSharpDarian](ModeGSharpDarian.png)
 
+## Diagram
+
+![GSharpDarian](CircleModeGSharpDarian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | G# | G#, A#, B#, C###, D##, E#, F##, G# | ![GSharpDarian](ModeGSharpDarian.png) |
 | [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | A# | A#, B#, C###, D##, E#, F##, G#, A# | ![ASharpLonian](ModeASharpLonian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | G# | G#, A#, B#, C###, D##, E#, F##, G# | ![GSharpDarian](CircleModeGSharpDarian.png) |
+| [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | A# | A#, B#, C###, D##, E#, F##, G#, A# | ![ASharpLonian](CircleModeASharpLonian.png) |
 
 ## Chords
 

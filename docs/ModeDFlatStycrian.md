@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ Db
 
 ![DFlatStycrian](ModeDFlatStycrian.png)
 
+## Diagram
+
+![DFlatStycrian](CircleModeDFlatStycrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [671](https://ianring.com/musictheory/scales/671) | [Stycrian](ModeStycrian.md) | Db | Db, Ebb, Fbb, Gbbb, D###, F###, G###, Db | ![DFlatStycrian](ModeDFlatStycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [671](https://ianring.com/musictheory/scales/671) | [Stycrian](ModeStycrian.md) | Db | Db, Ebb, Fbb, Gbbb, D###, F###, G###, Db | ![DFlatStycrian](CircleModeDFlatStycrian.png) |
 
 ## Chords
 

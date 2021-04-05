@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ ii, V⁺, VII
 
 ![BNaturalEpathian](ModeBNaturalEpathian.png)
 
+## Diagram
+
+![BNaturalEpathian](CircleModeBNaturalEpathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ ii, V⁺, VII
 | [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeEpathian.md) | B | B, C##, D##, E#, F#, G##, A#, B | ![BNaturalEpathian](ModeBNaturalEpathian.png) |
 | [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeRothian.md) | F# | F#, G##, A#, B, C##, D##, E#, F# | ![FSharpRothian](ModeFSharpRothian.png) |
 | [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | A# | A#, B, C##, D##, E#, F#, G##, A# | ![ASharpStylian](ModeASharpStylian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeEpathian.md) | B | B, C##, D##, E#, F#, G##, A#, B | ![BNaturalEpathian](CircleModeBNaturalEpathian.png) |
+| [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeRothian.md) | F# | F#, G##, A#, B, C##, D##, E#, F# | ![FSharpRothian](CircleModeFSharpRothian.png) |
+| [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | A# | A#, B, C##, D##, E#, F#, G##, A# | ![ASharpStylian](CircleModeASharpStylian.png) |
 
 ## Chords
 

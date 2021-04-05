@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ ii
 
 ![EFlatStagimic](ModeEFlatStagimic.png)
 
+## Diagram
+
+![EFlatStagimic](CircleModeEFlatStagimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [311](https://ianring.com/musictheory/scales/311) | [Stagimic](ModeStagimic.md) | Eb | Eb, Fb, Gbb, Abb, Bbbb, Cb, Eb | ![EFlatStagimic](ModeEFlatStagimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [311](https://ianring.com/musictheory/scales/311) | [Stagimic](ModeStagimic.md) | Eb | Eb, Fb, Gbb, Abb, Bbbb, Cb, Eb | ![EFlatStagimic](CircleModeEFlatStagimic.png) |
 
 ## Chords
 

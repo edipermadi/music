@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ ii
 
 ![GFlatZylimic](ModeGFlatZylimic.png)
 
+## Diagram
+
+![GFlatZylimic](CircleModeGFlatZylimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [407](https://ianring.com/musictheory/scales/407) | [Zylimic](ModeZylimic.md) | Gb | Gb, Abb, Bbbb, Cbb, Db, Ebb, Gb | ![GFlatZylimic](ModeGFlatZylimic.png) |
 | [739](https://ianring.com/musictheory/scales/739) | [Rorimic](ModeRorimic.md) | Db | Db, Ebb, F#, G, Ab, Bb, Db | ![DFlatRorimic](ModeDFlatRorimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [407](https://ianring.com/musictheory/scales/407) | [Zylimic](ModeZylimic.md) | Gb | Gb, Abb, Bbbb, Cbb, Db, Ebb, Gb | ![GFlatZylimic](CircleModeGFlatZylimic.png) |
+| [739](https://ianring.com/musictheory/scales/739) | [Rorimic](ModeRorimic.md) | Db | Db, Ebb, F#, G, Ab, Bb, Db | ![DFlatRorimic](CircleModeDFlatRorimic.png) |
 
 ## Chords
 

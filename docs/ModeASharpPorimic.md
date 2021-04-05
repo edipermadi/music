@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ II⁺, IV⁺, v, VI⁺
 
 ![ASharpPorimic](ModeASharpPorimic.png)
 
+## Diagram
+
+![ASharpPorimic](CircleModeASharpPorimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModePorimic.md) | A# | A#, B##, C##, D###, E###, Cbbb, A# | ![ASharpPorimic](ModeASharpPorimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModePorimic.md) | A# | A#, B##, C##, D###, E###, Cbbb, A# | ![ASharpPorimic](CircleModeASharpPorimic.png) |
 
 ## Chords
 

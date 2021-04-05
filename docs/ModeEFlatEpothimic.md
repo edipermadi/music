@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, II, III⁺, V⁺
 
 ![EFlatEpothimic](ModeEFlatEpothimic.png)
 
+## Diagram
+
+![EFlatEpothimic](CircleModeEFlatEpothimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I⁺, II, III⁺, V⁺
 | [1357](https://ianring.com/musictheory/scales/1357) | [Katonimic](ModeKatonimic.md) | A | A, B, C, D#, E#, F##, A | ![ANaturalKatonimic](ModeANaturalKatonimic.png) |
 | [1363](https://ianring.com/musictheory/scales/1363) | [Gygimic](ModeGygimic.md) | B | B, C, D#, E#, F##, G##, B | ![BNaturalGygimic](ModeBNaturalGygimic.png) |
 | [2729](https://ianring.com/musictheory/scales/2729) | [Aeragimic](ModeAeragimic.md) | C | C, D#, E#, F##, G##, A##, C | ![CNaturalAeragimic](ModeCNaturalAeragimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [853](https://ianring.com/musictheory/scales/853) | [Epothimic](ModeEpothimic.md) | Eb | Eb, F, G, A, B, C, Eb | ![EFlatEpothimic](CircleModeEFlatEpothimic.png) |
+| [1237](https://ianring.com/musictheory/scales/1237) | [Salimic](ModeSalimic.md) | F | F, G, A, B, C, D#, F | ![FNaturalSalimic](CircleModeFNaturalSalimic.png) |
+| [1333](https://ianring.com/musictheory/scales/1333) | [Lyptimic](ModeLyptimic.md) | G | G, A, B, C, D#, E#, G | ![GNaturalLyptimic](CircleModeGNaturalLyptimic.png) |
+| [1357](https://ianring.com/musictheory/scales/1357) | [Katonimic](ModeKatonimic.md) | A | A, B, C, D#, E#, F##, A | ![ANaturalKatonimic](CircleModeANaturalKatonimic.png) |
+| [1363](https://ianring.com/musictheory/scales/1363) | [Gygimic](ModeGygimic.md) | B | B, C, D#, E#, F##, G##, B | ![BNaturalGygimic](CircleModeBNaturalGygimic.png) |
+| [2729](https://ianring.com/musictheory/scales/2729) | [Aeragimic](ModeAeragimic.md) | C | C, D#, E#, F##, G##, A##, C | ![CNaturalAeragimic](CircleModeCNaturalAeragimic.png) |
 
 ## Chords
 

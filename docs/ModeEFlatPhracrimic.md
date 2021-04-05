@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ ii, iii
 
 ![EFlatPhracrimic](ModeEFlatPhracrimic.png)
 
+## Diagram
+
+![EFlatPhracrimic](CircleModeEFlatPhracrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ ii, iii
 | [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | A | A, B, C#, D#, E##, F###, A | ![ANaturalZoptimic](ModeANaturalZoptimic.png) |
 | [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | B | B, C#, D#, E##, F###, G##, B | ![BNaturalZeracrimic](ModeBNaturalZeracrimic.png) |
 | [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | C# | C#, D#, E##, F###, G##, A##, C# | ![CSharpByptimic](ModeCSharpByptimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | Eb | Eb, F#, G#, A, B, C#, Eb | ![EFlatPhracrimic](CircleModeEFlatPhracrimic.png) |
+| [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeAerathimic.md) | F# | F#, G#, A, B, C#, D#, F# | ![FSharpAerathimic](CircleModeFSharpAerathimic.png) |
+| [1195](https://ianring.com/musictheory/scales/1195) | [Sarimic](ModeSarimic.md) | G# | G#, A, B, C#, D#, E##, G# | ![GSharpSarimic](CircleModeGSharpSarimic.png) |
+| [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | A | A, B, C#, D#, E##, F###, A | ![ANaturalZoptimic](CircleModeANaturalZoptimic.png) |
+| [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | B | B, C#, D#, E##, F###, G##, B | ![BNaturalZeracrimic](CircleModeBNaturalZeracrimic.png) |
+| [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | C# | C#, D#, E##, F###, G##, A##, C# | ![CSharpByptimic](CircleModeCSharpByptimic.png) |
 
 ## Chords
 

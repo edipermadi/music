@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, ii, III, IV⁺, v⁰, VI, vii⁰
 
 ![FSharpPhronian](ModeFSharpPhronian.png)
 
+## Diagram
+
+![FSharpPhronian](CircleModeFSharpPhronian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i, ii, III, IV⁺, v⁰, VI, vii⁰
 | [875](https://ianring.com/musictheory/scales/875) | [Stothian](ModeStothian.md) | C# | C#, D, E, F#, G, A, Bb, C# | ![CSharpStothian](ModeCSharpStothian.png) |
 | [2485](https://ianring.com/musictheory/scales/2485) | [Aerorian](ModeAerorian.md) | D | D, E, F#, G, A, Bb, C#, D | ![DNaturalAerorian](ModeDNaturalAerorian.png) |
 | [1645](https://ianring.com/musictheory/scales/1645) | [Katagian](ModeKatagian.md) | E | E, F#, G, A, Bb, C#, D, E | ![ENaturalKatagian](ModeENaturalKatagian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1435](https://ianring.com/musictheory/scales/1435) | [Phronian](ModePhronian.md) | F# | F#, G, A, Bb, C#, D, E, F# | ![FSharpPhronian](CircleModeFSharpPhronian.png) |
+| [2765](https://ianring.com/musictheory/scales/2765) | [Banian](ModeBanian.md) | G | G, A, Bb, C#, D, E, F#, G | ![GNaturalBanian](CircleModeGNaturalBanian.png) |
+| [1715](https://ianring.com/musictheory/scales/1715) | [Aeronian](ModeAeronian.md) | A | A, Bb, C#, D, E, F#, G, A | ![ANaturalAeronian](CircleModeANaturalAeronian.png) |
+| [2905](https://ianring.com/musictheory/scales/2905) | [Palian](ModePalian.md) | Bb | Bb, C#, D, E, F#, G, A, Bb | ![BFlatPalian](CircleModeBFlatPalian.png) |
+| [875](https://ianring.com/musictheory/scales/875) | [Stothian](ModeStothian.md) | C# | C#, D, E, F#, G, A, Bb, C# | ![CSharpStothian](CircleModeCSharpStothian.png) |
+| [2485](https://ianring.com/musictheory/scales/2485) | [Aerorian](ModeAerorian.md) | D | D, E, F#, G, A, Bb, C#, D | ![DNaturalAerorian](CircleModeDNaturalAerorian.png) |
+| [1645](https://ianring.com/musictheory/scales/1645) | [Katagian](ModeKatagian.md) | E | E, F#, G, A, Bb, C#, D, E | ![ENaturalKatagian](CircleModeENaturalKatagian.png) |
 
 ## Chords
 

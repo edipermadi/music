@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ II, iii⁰
 
 ![GFlatThalimic](ModeGFlatThalimic.png)
 
+## Diagram
+
+![GFlatThalimic](CircleModeGFlatThalimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,15 @@ II, iii⁰
 | [2349](https://ianring.com/musictheory/scales/2349) | [Aerogimic](ModeAerogimic.md) | C# | C#, D#, E, F#, G##, A###, C# | ![CSharpAerogimic](ModeCSharpAerogimic.png) |
 | [1611](https://ianring.com/musictheory/scales/1611) | [Dacrimic](ModeDacrimic.md) | D# | D#, E, F#, G##, A###, B##, D# | ![DSharpDacrimic](ModeDSharpDacrimic.png) |
 | [2853](https://ianring.com/musictheory/scales/2853) | [Baptimic](ModeBaptimic.md) | E | E, F#, G##, A###, B##, C###, E | ![ENaturalBaptimic](ModeENaturalBaptimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1737](https://ianring.com/musictheory/scales/1737) | [Thalimic](ModeThalimic.md) | Gb | Gb, A, B#, C#, D#, E, Gb | ![GFlatThalimic](CircleModeGFlatThalimic.png) |
+| [729](https://ianring.com/musictheory/scales/729) | [Stygimic](ModeStygimic.md) | A | A, B#, C#, D#, E, F#, A | ![ANaturalStygimic](CircleModeANaturalStygimic.png) |
+| [2349](https://ianring.com/musictheory/scales/2349) | [Aerogimic](ModeAerogimic.md) | C# | C#, D#, E, F#, G##, A###, C# | ![CSharpAerogimic](CircleModeCSharpAerogimic.png) |
+| [1611](https://ianring.com/musictheory/scales/1611) | [Dacrimic](ModeDacrimic.md) | D# | D#, E, F#, G##, A###, B##, D# | ![DSharpDacrimic](CircleModeDSharpDacrimic.png) |
+| [2853](https://ianring.com/musictheory/scales/2853) | [Baptimic](ModeBaptimic.md) | E | E, F#, G##, A###, B##, C###, E | ![ENaturalBaptimic](CircleModeENaturalBaptimic.png) |
 
 ## Chords
 

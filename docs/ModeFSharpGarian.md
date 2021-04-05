@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii, iv⁰, vi
 
 ![FSharpGarian](ModeFSharpGarian.png)
 
+## Diagram
+
+![FSharpGarian](CircleModeFSharpGarian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ I, iii, iv⁰, vi
 | [941](https://ianring.com/musictheory/scales/941) | [Phrorian](ModePhrorian.md) | A# | A#, B#, C#, D#, E#, F#, G, A# | ![ASharpPhrorian](ModeASharpPhrorian.png) |
 | [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeThodian.md) | C# | C#, D#, E#, F#, G, A#, B#, C# | ![CSharpThodian](ModeCSharpThodian.png) |
 | [1693](https://ianring.com/musictheory/scales/1693) | [Dogian](ModeDogian.md) | D# | D#, E#, F#, G, A#, B#, C#, D# | ![DSharpDogian](ModeDSharpDogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeGarian.md) | F# | F#, G, A#, B#, C#, D#, E#, F# | ![FSharpGarian](CircleModeFSharpGarian.png) |
+| [3433](https://ianring.com/musictheory/scales/3433) | [Thonian](ModeThonian.md) | G | G, A#, B#, C#, D#, E#, F#, G | ![GNaturalThonian](CircleModeGNaturalThonian.png) |
+| [941](https://ianring.com/musictheory/scales/941) | [Phrorian](ModePhrorian.md) | A# | A#, B#, C#, D#, E#, F#, G, A# | ![ASharpPhrorian](CircleModeASharpPhrorian.png) |
+| [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeThodian.md) | C# | C#, D#, E#, F#, G, A#, B#, C# | ![CSharpThodian](CircleModeCSharpThodian.png) |
+| [1693](https://ianring.com/musictheory/scales/1693) | [Dogian](ModeDogian.md) | D# | D#, E#, F#, G, A#, B#, C#, D# | ![DSharpDogian](CircleModeDSharpDogian.png) |
 
 ## Chords
 

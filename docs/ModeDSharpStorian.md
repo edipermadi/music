@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, iii, IV⁺, V⁺, VI
 
 ![DSharpStorian](ModeDSharpStorian.png)
 
+## Diagram
+
+![DSharpStorian](CircleModeDSharpStorian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰, iii, IV⁺, V⁺, VI
 | [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeAeroptian.md) | A | A, B, C#, D#, E#, F#, G, A | ![ANaturalAeroptian](ModeANaturalAeroptian.png) |
 | [1493](https://ianring.com/musictheory/scales/1493) | [Phryrian](ModePhryrian.md) | B | B, C#, D#, E#, F#, G, A, B | ![BNaturalPhryrian](ModeBNaturalPhryrian.png) |
 | [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | C# | C#, D#, E#, F#, G, A, B, C# | ![CSharpGothian](ModeCSharpGothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | D# | D#, E#, F#, G, A, B, C#, D# | ![DSharpStorian](CircleModeDSharpStorian.png) |
+| [2731](https://ianring.com/musictheory/scales/2731) | [Thydian](ModeThydian.md) | F# | F#, G, A, B, C#, D#, E#, F# | ![FSharpThydian](CircleModeFSharpThydian.png) |
+| [3413](https://ianring.com/musictheory/scales/3413) | [Aeolynian](ModeAeolynian.md) | G | G, A, B, C#, D#, E#, F#, G | ![GNaturalAeolynian](CircleModeGNaturalAeolynian.png) |
+| [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeAeroptian.md) | A | A, B, C#, D#, E#, F#, G, A | ![ANaturalAeroptian](CircleModeANaturalAeroptian.png) |
+| [1493](https://ianring.com/musictheory/scales/1493) | [Phryrian](ModePhryrian.md) | B | B, C#, D#, E#, F#, G, A, B | ![BNaturalPhryrian](CircleModeBNaturalPhryrian.png) |
+| [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | C# | C#, D#, E#, F#, G, A, B, C# | ![CSharpGothian](CircleModeCSharpGothian.png) |
 
 ## Chords
 

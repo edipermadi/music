@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ II, v, VII⁺
 
 ![DSharpStalian](ModeDSharpStalian.png)
 
+## Diagram
+
+![DSharpStalian](CircleModeDSharpStalian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3529](https://ianring.com/musictheory/scales/3529) | [Stalian](ModeStalian.md) | D# | D#, E##, Cbbb, Cbb, Dbbb, Ebbb, Fbbb, D# | ![DSharpStalian](ModeDSharpStalian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3529](https://ianring.com/musictheory/scales/3529) | [Stalian](ModeStalian.md) | D# | D#, E##, Cbbb, Cbb, Dbbb, Ebbb, Fbbb, D# | ![DSharpStalian](CircleModeDSharpStalian.png) |
 
 ## Chords
 

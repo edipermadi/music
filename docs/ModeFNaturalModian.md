@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, II, iv, VI⁺, VII⁺
 
 ![FNaturalModian](ModeFNaturalModian.png)
 
+## Diagram
+
+![FNaturalModian](CircleModeFNaturalModian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I, II, iv, VI⁺, VII⁺
 | [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | Bb | Bb, C, Db, Ebb, F, Gb, A, Bb | ![BFlatSagian](ModeBFlatSagian.png) |
 | [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | C | C, Db, Ebb, F, Gb, A, Bb, C | ![CNaturalAeolothian](ModeCNaturalAeolothian.png) |
 | [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | Db | Db, Ebb, F, Gb, A, Bb, C, Db | ![DFlatSocrian](ModeDFlatSocrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | F | F, Gb, A, Bb, C, Db, Ebb, F | ![FNaturalModian](CircleModeFNaturalModian.png) |
+| [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | Gb | Gb, A, Bb, C, Db, Ebb, F, Gb | ![GFlatBarian](CircleModeGFlatBarian.png) |
+| [827](https://ianring.com/musictheory/scales/827) | [Mixolocrian](ModeMixolocrian.md) | A | A, Bb, C, Db, Ebb, F, Gb, A | ![ANaturalMixolocrian](CircleModeANaturalMixolocrian.png) |
+| [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | Bb | Bb, C, Db, Ebb, F, Gb, A, Bb | ![BFlatSagian](CircleModeBFlatSagian.png) |
+| [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | C | C, Db, Ebb, F, Gb, A, Bb, C | ![CNaturalAeolothian](CircleModeCNaturalAeolothian.png) |
+| [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | Db | Db, Ebb, F, Gb, A, Bb, C, Db | ![DFlatSocrian](CircleModeDFlatSocrian.png) |
 
 ## Chords
 

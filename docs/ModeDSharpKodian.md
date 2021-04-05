@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ II⁺, vii
 
 ![DSharpKodian](ModeDSharpKodian.png)
 
+## Diagram
+
+![DSharpKodian](CircleModeDSharpKodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3685](https://ianring.com/musictheory/scales/3685) | [Kodian](ModeKodian.md) | D# | D#, E#, F###, G##, A###, B##, C##, D# | ![DSharpKodian](ModeDSharpKodian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3685](https://ianring.com/musictheory/scales/3685) | [Kodian](ModeKodian.md) | D# | D#, E#, F###, G##, A###, B##, C##, D# | ![DSharpKodian](CircleModeDSharpKodian.png) |
 
 ## Chords
 

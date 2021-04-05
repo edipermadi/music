@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iii⁰
 
 ![CNaturalZacrian](ModeCNaturalZacrian.png)
 
+## Diagram
+
+![CNaturalZacrian](CircleModeCNaturalZacrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ iii⁰
 | [1597](https://ianring.com/musictheory/scales/1597) | [Aeolodian](ModeAeolodian.md) | G# | G#, A#, B, C, Db, E#, F#, G# | ![GSharpAeolodian](ModeGSharpAeolodian.png) |
 | [1423](https://ianring.com/musictheory/scales/1423) | [Doptian](ModeDoptian.md) | A# | A#, B, C, Db, E#, F#, G#, A# | ![ASharpDoptian](ModeASharpDoptian.png) |
 | [2759](https://ianring.com/musictheory/scales/2759) | [Aeraphian](ModeAeraphian.md) | B | B, C, Db, E#, F#, G#, A#, B | ![BNaturalAeraphian](ModeBNaturalAeraphian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3427](https://ianring.com/musictheory/scales/3427) | [Zacrian](ModeZacrian.md) | C | C, Db, E#, F#, G#, A#, B, C | ![CNaturalZacrian](CircleModeCNaturalZacrian.png) |
+| [3761](https://ianring.com/musictheory/scales/3761) | [Ionythian](ModeIonythian.md) | Db | Db, E#, F#, G#, A#, B, C, Db | ![DFlatIonythian](CircleModeDFlatIonythian.png) |
+| [2293](https://ianring.com/musictheory/scales/2293) | [Gorian](ModeGorian.md) | F# | F#, G#, A#, B, C, Db, E#, F# | ![FSharpGorian](CircleModeFSharpGorian.png) |
+| [1597](https://ianring.com/musictheory/scales/1597) | [Aeolodian](ModeAeolodian.md) | G# | G#, A#, B, C, Db, E#, F#, G# | ![GSharpAeolodian](CircleModeGSharpAeolodian.png) |
+| [1423](https://ianring.com/musictheory/scales/1423) | [Doptian](ModeDoptian.md) | A# | A#, B, C, Db, E#, F#, G#, A# | ![ASharpDoptian](CircleModeASharpDoptian.png) |
+| [2759](https://ianring.com/musictheory/scales/2759) | [Aeraphian](ModeAeraphian.md) | B | B, C, Db, E#, F#, G#, A#, B | ![BNaturalAeraphian](CircleModeBNaturalAeraphian.png) |
 
 ## Chords
 

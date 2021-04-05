@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iii⁰, v⁰
 
 ![EFlatIonolian](ModeEFlatIonolian.png)
 
+## Diagram
+
+![EFlatIonolian](CircleModeEFlatIonolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ iii⁰, v⁰
 | [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | B | B, C, D, Eb, F, G#, A#, B | ![BNaturalPanian](ModeBNaturalPanian.png) |
 | [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | C | C, D, Eb, F, G#, A#, B, C | ![CNaturalLodian](ModeCNaturalLodian.png) |
 | [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | D | D, Eb, F, G#, A#, B, C, D | ![DNaturalSolian](ModeDNaturalSolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2981](https://ianring.com/musictheory/scales/2981) | [Ionolian](ModeIonolian.md) | Eb | Eb, F, G#, A#, B, C, D, Eb | ![EFlatIonolian](CircleModeEFlatIonolian.png) |
+| [1769](https://ianring.com/musictheory/scales/1769) | [Rythian](ModeRythian.md) | F | F, G#, A#, B, C, D, Eb, F | ![FNaturalRythian](CircleModeFNaturalRythian.png) |
+| [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeDonian.md) | G# | G#, A#, B, C, D, Eb, F, G# | ![GSharpDonian](CircleModeGSharpDonian.png) |
+| [1207](https://ianring.com/musictheory/scales/1207) | [Aeoloptian](ModeAeoloptian.md) | A# | A#, B, C, D, Eb, F, G#, A# | ![ASharpAeoloptian](CircleModeASharpAeoloptian.png) |
+| [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | B | B, C, D, Eb, F, G#, A#, B | ![BNaturalPanian](CircleModeBNaturalPanian.png) |
+| [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | C | C, D, Eb, F, G#, A#, B, C | ![CNaturalLodian](CircleModeCNaturalLodian.png) |
+| [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | D | D, Eb, F, G#, A#, B, C, D | ![DNaturalSolian](CircleModeDNaturalSolian.png) |
 
 ## Chords
 

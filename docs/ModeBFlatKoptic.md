@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -49,6 +49,10 @@ Bb
 
 ![BFlatKoptic](ModeBFlatKoptic.png)
 
+## Diagram
+
+![BFlatKoptic](CircleModeBFlatKoptic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -57,6 +61,14 @@ Bb
 | [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | D | D, E, F#, A#, D | ![DNaturalMixolyric](ModeDNaturalMixolyric.png) |
 | [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | E | E, F#, A#, D, E | ![ENaturalLydic](ModeENaturalLydic.png) |
 | [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | Gb | Gb, Bb, D, E, Gb | ![GFlatAeolic](ModeGFlatAeolic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | Bb | Bb, D, E, Gb, Bb | ![BFlatKoptic](CircleModeBFlatKoptic.png) |
+| [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | D | D, E, F#, A#, D | ![DNaturalMixolyric](CircleModeDNaturalMixolyric.png) |
+| [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | E | E, F#, A#, D, E | ![ENaturalLydic](CircleModeENaturalLydic.png) |
+| [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | Gb | Gb, Bb, D, E, Gb | ![GFlatAeolic](CircleModeGFlatAeolic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii, iv⁰, vi
 
 ![BNaturalGarian](ModeBNaturalGarian.png)
 
+## Diagram
+
+![BNaturalGarian](CircleModeBNaturalGarian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I, iii, iv⁰, vi
 | [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeThodian.md) | F# | F#, G#, A#, B, C, D#, E#, F# | ![FSharpThodian](ModeFSharpThodian.png) |
 | [1693](https://ianring.com/musictheory/scales/1693) | [Dogian](ModeDogian.md) | G# | G#, A#, B, C, D#, E#, F#, G# | ![GSharpDogian](ModeGSharpDogian.png) |
 | [1447](https://ianring.com/musictheory/scales/1447) | [Mixopyrian](ModeMixopyrian.md) | A# | A#, B, C, D#, E#, F#, G#, A# | ![ASharpMixopyrian](ModeASharpMixopyrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeGarian.md) | B | B, C, D#, E#, F#, G#, A#, B | ![BNaturalGarian](CircleModeBNaturalGarian.png) |
+| [3433](https://ianring.com/musictheory/scales/3433) | [Thonian](ModeThonian.md) | C | C, D#, E#, F#, G#, A#, B, C | ![CNaturalThonian](CircleModeCNaturalThonian.png) |
+| [941](https://ianring.com/musictheory/scales/941) | [Phrorian](ModePhrorian.md) | D# | D#, E#, F#, G#, A#, B, C, D# | ![DSharpPhrorian](CircleModeDSharpPhrorian.png) |
+| [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeThodian.md) | F# | F#, G#, A#, B, C, D#, E#, F# | ![FSharpThodian](CircleModeFSharpThodian.png) |
+| [1693](https://ianring.com/musictheory/scales/1693) | [Dogian](ModeDogian.md) | G# | G#, A#, B, C, D#, E#, F#, G# | ![GSharpDogian](CircleModeGSharpDogian.png) |
+| [1447](https://ianring.com/musictheory/scales/1447) | [Mixopyrian](ModeMixopyrian.md) | A# | A#, B, C, D#, E#, F#, G#, A# | ![ASharpMixopyrian](CircleModeASharpMixopyrian.png) |
 
 ## Chords
 

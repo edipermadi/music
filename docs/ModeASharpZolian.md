@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ II, iv⁰, V, vii
 
 ![ASharpZolian](ModeASharpZolian.png)
 
+## Diagram
+
+![ASharpZolian](CircleModeASharpZolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2789](https://ianring.com/musictheory/scales/2789) | [Zolian](ModeZolian.md) | A# | A#, B#, C###, D##, E#, F##, G##, A# | ![ASharpZolian](ModeASharpZolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2789](https://ianring.com/musictheory/scales/2789) | [Zolian](ModeZolian.md) | A# | A#, B#, C###, D##, E#, F##, G##, A# | ![ASharpZolian](CircleModeASharpZolian.png) |
 
 ## Chords
 

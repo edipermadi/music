@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰
 
 ![DFlatRygian](ModeDFlatRygian.png)
 
+## Diagram
+
+![DFlatRygian](CircleModeDFlatRygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ i⁰
 | [493](https://ianring.com/musictheory/scales/493) | [Rygian](ModeRygian.md) | Db | Db, Eb, Fb, Gb, Abb, Bbbb, Cbbb, Db | ![DFlatRygian](ModeDFlatRygian.png) |
 | [1147](https://ianring.com/musictheory/scales/1147) | [Epynian](ModeEpynian.md) | Eb | Eb, Fb, Gb, Abb, Bbbb, Cbbb, Db, Eb | ![EFlatEpynian](ModeEFlatEpynian.png) |
 | [1679](https://ianring.com/musictheory/scales/1679) | [Kydian](ModeKydian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Db, Eb, Fb, Gb | ![GFlatKydian](ModeGFlatKydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [493](https://ianring.com/musictheory/scales/493) | [Rygian](ModeRygian.md) | Db | Db, Eb, Fb, Gb, Abb, Bbbb, Cbbb, Db | ![DFlatRygian](CircleModeDFlatRygian.png) |
+| [1147](https://ianring.com/musictheory/scales/1147) | [Epynian](ModeEpynian.md) | Eb | Eb, Fb, Gb, Abb, Bbbb, Cbbb, Db, Eb | ![EFlatEpynian](CircleModeEFlatEpynian.png) |
+| [1679](https://ianring.com/musictheory/scales/1679) | [Kydian](ModeKydian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Db, Eb, Fb, Gb | ![GFlatKydian](CircleModeGFlatKydian.png) |
 
 ## Chords
 

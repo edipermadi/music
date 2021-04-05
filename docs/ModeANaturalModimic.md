@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ ii⁰, iii
 
 ![ANaturalModimic](ModeANaturalModimic.png)
 
+## Diagram
+
+![ANaturalModimic](CircleModeANaturalModimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1457](https://ianring.com/musictheory/scales/1457) | [Modimic](ModeModimic.md) | A | A, B##, C##, D##, E#, F##, A | ![ANaturalModimic](ModeANaturalModimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1457](https://ianring.com/musictheory/scales/1457) | [Modimic](ModeModimic.md) | A | A, B##, C##, D##, E#, F##, A | ![ANaturalModimic](CircleModeANaturalModimic.png) |
 
 ## Chords
 

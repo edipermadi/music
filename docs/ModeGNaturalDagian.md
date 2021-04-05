@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iv⁰, v⁰
 
 ![GNaturalDagian](ModeGNaturalDagian.png)
 
+## Diagram
+
+![GNaturalDagian](CircleModeGNaturalDagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ iv⁰, v⁰
 | [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | D | D, E, F, G, Ab, Bbb, C#, D | ![DNaturalAerogian](ModeDNaturalAerogian.png) |
 | [1595](https://ianring.com/musictheory/scales/1595) | [Dacrian](ModeDacrian.md) | E | E, F, G, Ab, Bbb, C#, D, E | ![ENaturalDacrian](ModeENaturalDacrian.png) |
 | [2845](https://ianring.com/musictheory/scales/2845) | [Baptian](ModeBaptian.md) | F | F, G, Ab, Bbb, C#, D, E, F | ![FNaturalBaptian](ModeFNaturalBaptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1735](https://ianring.com/musictheory/scales/1735) | [Dagian](ModeDagian.md) | G | G, Ab, Bbb, C#, D, E, F, G | ![GNaturalDagian](CircleModeGNaturalDagian.png) |
+| [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | Ab | Ab, Bbb, C#, D, E, F, G, Ab | ![AFlatAeolydian](CircleModeAFlatAeolydian.png) |
+| [475](https://ianring.com/musictheory/scales/475) | [Aeolygian](ModeAeolygian.md) | C# | C#, D, E, F, G, Ab, Bbb, C# | ![CSharpAeolygian](CircleModeCSharpAeolygian.png) |
+| [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | D | D, E, F, G, Ab, Bbb, C#, D | ![DNaturalAerogian](CircleModeDNaturalAerogian.png) |
+| [1595](https://ianring.com/musictheory/scales/1595) | [Dacrian](ModeDacrian.md) | E | E, F, G, Ab, Bbb, C#, D, E | ![ENaturalDacrian](CircleModeENaturalDacrian.png) |
+| [2845](https://ianring.com/musictheory/scales/2845) | [Baptian](ModeBaptian.md) | F | F, G, Ab, Bbb, C#, D, E, F | ![FNaturalBaptian](CircleModeFNaturalBaptian.png) |
 
 ## Chords
 

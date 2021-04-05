@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i⁰, II
 
 ![GSharpSoptimic](ModeGSharpSoptimic.png)
 
+## Diagram
+
+![GSharpSoptimic](CircleModeGSharpSoptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i⁰, II
 | [1419](https://ianring.com/musictheory/scales/1419) | [Zalimic](ModeZalimic.md) | C# | C#, D, E, F###, G##, A##, C# | ![CSharpZalimic](ModeCSharpZalimic.png) |
 | [2757](https://ianring.com/musictheory/scales/2757) | [Stolimic](ModeStolimic.md) | D | D, E, F###, G##, A##, B##, D | ![DNaturalStolimic](ModeDNaturalStolimic.png) |
 | [1713](https://ianring.com/musictheory/scales/1713) | [Garimic](ModeGarimic.md) | E | E, F###, G##, A##, B##, C##, E | ![ENaturalGarimic](ModeENaturalGarimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [363](https://ianring.com/musictheory/scales/363) | [Soptimic](ModeSoptimic.md) | G# | G#, A, B, C#, D, E, G# | ![GSharpSoptimic](CircleModeGSharpSoptimic.png) |
+| [2229](https://ianring.com/musictheory/scales/2229) | [Ionyptimic](ModeIonyptimic.md) | A | A, B, C#, D, E, F###, A | ![ANaturalIonyptimic](CircleModeANaturalIonyptimic.png) |
+| [1581](https://ianring.com/musictheory/scales/1581) | [Gyrimic](ModeGyrimic.md) | B | B, C#, D, E, F###, G##, B | ![BNaturalGyrimic](CircleModeBNaturalGyrimic.png) |
+| [1419](https://ianring.com/musictheory/scales/1419) | [Zalimic](ModeZalimic.md) | C# | C#, D, E, F###, G##, A##, C# | ![CSharpZalimic](CircleModeCSharpZalimic.png) |
+| [2757](https://ianring.com/musictheory/scales/2757) | [Stolimic](ModeStolimic.md) | D | D, E, F###, G##, A##, B##, D | ![DNaturalStolimic](CircleModeDNaturalStolimic.png) |
+| [1713](https://ianring.com/musictheory/scales/1713) | [Garimic](ModeGarimic.md) | E | E, F###, G##, A##, B##, C##, E | ![ENaturalGarimic](CircleModeENaturalGarimic.png) |
 
 ## Chords
 

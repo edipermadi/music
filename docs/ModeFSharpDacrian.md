@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ vi⁰, vii⁰
 
 ![FSharpDacrian](ModeFSharpDacrian.png)
 
+## Diagram
+
+![FSharpDacrian](CircleModeFSharpDacrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ vi⁰, vii⁰
 | [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | Bb | Bb, Cb, D#, E, F#, G, A, Bb | ![BFlatAeolydian](ModeBFlatAeolydian.png) |
 | [475](https://ianring.com/musictheory/scales/475) | [Aeolygian](ModeAeolygian.md) | D# | D#, E, F#, G, A, Bb, Cb, D# | ![DSharpAeolygian](ModeDSharpAeolygian.png) |
 | [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | E | E, F#, G, A, Bb, Cb, D#, E | ![ENaturalAerogian](ModeENaturalAerogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1595](https://ianring.com/musictheory/scales/1595) | [Dacrian](ModeDacrian.md) | F# | F#, G, A, Bb, Cb, D#, E, F# | ![FSharpDacrian](CircleModeFSharpDacrian.png) |
+| [2845](https://ianring.com/musictheory/scales/2845) | [Baptian](ModeBaptian.md) | G | G, A, Bb, Cb, D#, E, F#, G | ![GNaturalBaptian](CircleModeGNaturalBaptian.png) |
+| [1735](https://ianring.com/musictheory/scales/1735) | [Dagian](ModeDagian.md) | A | A, Bb, Cb, D#, E, F#, G, A | ![ANaturalDagian](CircleModeANaturalDagian.png) |
+| [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | Bb | Bb, Cb, D#, E, F#, G, A, Bb | ![BFlatAeolydian](CircleModeBFlatAeolydian.png) |
+| [475](https://ianring.com/musictheory/scales/475) | [Aeolygian](ModeAeolygian.md) | D# | D#, E, F#, G, A, Bb, Cb, D# | ![DSharpAeolygian](CircleModeDSharpAeolygian.png) |
+| [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | E | E, F#, G, A, Bb, Cb, D#, E | ![ENaturalAerogian](CircleModeENaturalAerogian.png) |
 
 ## Chords
 

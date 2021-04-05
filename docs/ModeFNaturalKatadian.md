@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺
 
 ![FNaturalKatadian](ModeFNaturalKatadian.png)
 
+## Diagram
+
+![FNaturalKatadian](CircleModeFNaturalKatadian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i, III⁺
 | [2425](https://ianring.com/musictheory/scales/2425) | [Rorian](ModeRorian.md) | C | C, D#, E, F, Gb, Ab, B, C | ![CNaturalRorian](ModeCNaturalRorian.png) |
 | [815](https://ianring.com/musictheory/scales/815) | [Bolian](ModeBolian.md) | D# | D#, E, F, Gb, Ab, B, C, D# | ![DSharpBolian](ModeDSharpBolian.png) |
 | [2455](https://ianring.com/musictheory/scales/2455) | [Bothian](ModeBothian.md) | E | E, F, Gb, Ab, B, C, D#, E | ![ENaturalBothian](ModeENaturalBothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3275](https://ianring.com/musictheory/scales/3275) | [Katadian](ModeKatadian.md) | F | F, Gb, Ab, B, C, D#, E, F | ![FNaturalKatadian](CircleModeFNaturalKatadian.png) |
+| [3685](https://ianring.com/musictheory/scales/3685) | [Kodian](ModeKodian.md) | Gb | Gb, Ab, B, C, D#, E, F, Gb | ![GFlatKodian](CircleModeGFlatKodian.png) |
+| [1945](https://ianring.com/musictheory/scales/1945) | [Zarian](ModeZarian.md) | Ab | Ab, B, C, D#, E, F, Gb, Ab | ![AFlatZarian](CircleModeAFlatZarian.png) |
+| [755](https://ianring.com/musictheory/scales/755) | [Phrythian](ModePhrythian.md) | B | B, C, D#, E, F, Gb, Ab, B | ![BNaturalPhrythian](CircleModeBNaturalPhrythian.png) |
+| [2425](https://ianring.com/musictheory/scales/2425) | [Rorian](ModeRorian.md) | C | C, D#, E, F, Gb, Ab, B, C | ![CNaturalRorian](CircleModeCNaturalRorian.png) |
+| [815](https://ianring.com/musictheory/scales/815) | [Bolian](ModeBolian.md) | D# | D#, E, F, Gb, Ab, B, C, D# | ![DSharpBolian](CircleModeDSharpBolian.png) |
+| [2455](https://ianring.com/musictheory/scales/2455) | [Bothian](ModeBothian.md) | E | E, F, Gb, Ab, B, C, D#, E | ![ENaturalBothian](CircleModeENaturalBothian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, iii⁰
 
 ![FSharpAeologian](ModeFSharpAeologian.png)
 
+## Diagram
+
+![FSharpAeologian](CircleModeFSharpAeologian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i⁰, iii⁰
 | [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | C | C, Db, Eb, F#, G#, A, B, C | ![CNaturalPhrogian](ModeCNaturalPhrogian.png) |
 | [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | Db | Db, Eb, F#, G#, A, B, C, Db | ![DFlatRathian](ModeDFlatRathian.png) |
 | [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | Eb | Eb, F#, G#, A, B, C, Db, Eb | ![EFlatIonopian](ModeEFlatIonopian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | F# | F#, G#, A, B, C, Db, Eb, F# | ![FSharpAeologian](CircleModeFSharpAeologian.png) |
+| [1211](https://ianring.com/musictheory/scales/1211) | [Zadian](ModeZadian.md) | G# | G#, A, B, C, Db, Eb, F#, G# | ![GSharpZadian](CircleModeGSharpZadian.png) |
+| [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | A | A, B, C, Db, Eb, F#, G#, A | ![ANaturalSygian](CircleModeANaturalSygian.png) |
+| [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | B | B, C, Db, Eb, F#, G#, A, B | ![BNaturalPhralian](CircleModeBNaturalPhralian.png) |
+| [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | C | C, Db, Eb, F#, G#, A, B, C | ![CNaturalPhrogian](CircleModeCNaturalPhrogian.png) |
+| [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | Db | Db, Eb, F#, G#, A, B, C, Db | ![DFlatRathian](CircleModeDFlatRathian.png) |
+| [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | Eb | Eb, F#, G#, A, B, C, Db, Eb | ![EFlatIonopian](CircleModeEFlatIonopian.png) |
 
 ## Chords
 

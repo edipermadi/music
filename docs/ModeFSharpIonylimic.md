@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ iv
 
 ![FSharpIonylimic](ModeFSharpIonylimic.png)
 
+## Diagram
+
+![FSharpIonylimic](CircleModeFSharpIonylimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2953](https://ianring.com/musictheory/scales/2953) | [Ionylimic](ModeIonylimic.md) | F# | F#, G##, Db, Ebb, Fbb, Gbb, F# | ![FSharpIonylimic](ModeFSharpIonylimic.png) |
 | [311](https://ianring.com/musictheory/scales/311) | [Stagimic](ModeStagimic.md) | Db | Db, Ebb, Fbb, Gbb, Abbb, Bbb, Db | ![DFlatStagimic](ModeDFlatStagimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2953](https://ianring.com/musictheory/scales/2953) | [Ionylimic](ModeIonylimic.md) | F# | F#, G##, Db, Ebb, Fbb, Gbb, F# | ![FSharpIonylimic](CircleModeFSharpIonylimic.png) |
+| [311](https://ianring.com/musictheory/scales/311) | [Stagimic](ModeStagimic.md) | Db | Db, Ebb, Fbb, Gbb, Abbb, Bbb, Db | ![DFlatStagimic](CircleModeDFlatStagimic.png) |
 
 ## Chords
 

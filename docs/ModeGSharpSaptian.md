@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iv⁰
 
 ![GSharpSaptian](ModeGSharpSaptian.png)
 
+## Diagram
+
+![GSharpSaptian](CircleModeGSharpSaptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ iv⁰
 | [1777](https://ianring.com/musictheory/scales/1777) | [Saptian](ModeSaptian.md) | G# | G#, A###, B##, C##, D#, E#, F#, G# | ![GSharpSaptian](ModeGSharpSaptian.png) |
 | [3629](https://ianring.com/musictheory/scales/3629) | [Boptian](ModeBoptian.md) | D# | D#, E#, F#, G#, A###, B##, C##, D# | ![DSharpBoptian](ModeDSharpBoptian.png) |
 | [3013](https://ianring.com/musictheory/scales/3013) | [Thynian](ModeThynian.md) | F# | F#, G#, A###, B##, C##, D#, E#, F# | ![FSharpThynian](ModeFSharpThynian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1777](https://ianring.com/musictheory/scales/1777) | [Saptian](ModeSaptian.md) | G# | G#, A###, B##, C##, D#, E#, F#, G# | ![GSharpSaptian](CircleModeGSharpSaptian.png) |
+| [3629](https://ianring.com/musictheory/scales/3629) | [Boptian](ModeBoptian.md) | D# | D#, E#, F#, G#, A###, B##, C##, D# | ![DSharpBoptian](CircleModeDSharpBoptian.png) |
+| [3013](https://ianring.com/musictheory/scales/3013) | [Thynian](ModeThynian.md) | F# | F#, G#, A###, B##, C##, D#, E#, F# | ![FSharpThynian](CircleModeFSharpThynian.png) |
 
 ## Chords
 

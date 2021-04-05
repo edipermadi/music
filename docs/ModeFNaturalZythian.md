@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ F
 
 ![FNaturalZythian](ModeFNaturalZythian.png)
 
+## Diagram
+
+![FNaturalZythian](CircleModeFNaturalZythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [463](https://ianring.com/musictheory/scales/463) | [Zythian](ModeZythian.md) | F | F, Gb, Abb, Bbbb, Cb, Dbb, Ebbb, F | ![FNaturalZythian](ModeFNaturalZythian.png) |
 | [2279](https://ianring.com/musictheory/scales/2279) | [Dyrian](ModeDyrian.md) | Gb | Gb, Abb, Bbbb, Cb, Dbb, Ebbb, F, Gb | ![GFlatDyrian](ModeGFlatDyrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [463](https://ianring.com/musictheory/scales/463) | [Zythian](ModeZythian.md) | F | F, Gb, Abb, Bbbb, Cb, Dbb, Ebbb, F | ![FNaturalZythian](CircleModeFNaturalZythian.png) |
+| [2279](https://ianring.com/musictheory/scales/2279) | [Dyrian](ModeDyrian.md) | Gb | Gb, Abb, Bbbb, Cb, Dbb, Ebbb, F, Gb | ![GFlatDyrian](CircleModeGFlatDyrian.png) |
 
 ## Chords
 

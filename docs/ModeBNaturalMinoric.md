@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -48,6 +48,10 @@ I⁺, II⁺, III⁺
 
 ![BNaturalMinoric](ModeBNaturalMinoric.png)
 
+## Diagram
+
+![BNaturalMinoric](CircleModeBNaturalMinoric.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -55,6 +59,13 @@ I⁺, II⁺, III⁺
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | B | B, D#, G, B | ![BNaturalMinoric](ModeBNaturalMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | D# | D#, G, B, D# | ![DSharpMinoric](ModeDSharpMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | G | G, B, D#, G | ![GNaturalMinoric](ModeGNaturalMinoric.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | B | B, D#, G, B | ![BNaturalMinoric](CircleModeBNaturalMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | D# | D#, G, B, D# | ![DSharpMinoric](CircleModeDSharpMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | G | G, B, D#, G | ![GNaturalMinoric](CircleModeGNaturalMinoric.png) |
 
 ## Chords
 

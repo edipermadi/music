@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i
 
 ![GNaturalMadimic](ModeGNaturalMadimic.png)
 
+## Diagram
+
+![GNaturalMadimic](CircleModeGNaturalMadimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i
 | [839](https://ianring.com/musictheory/scales/839) | [Ionathimic](ModeIonathimic.md) | C# | C#, D, Eb, F##, G##, A#, C# | ![CSharpIonathimic](ModeCSharpIonathimic.png) |
 | [2467](https://ianring.com/musictheory/scales/2467) | [Morimic](ModeMorimic.md) | D | D, Eb, F##, G##, A#, B##, D | ![DNaturalMorimic](ModeDNaturalMorimic.png) |
 | [3281](https://ianring.com/musictheory/scales/3281) | [Katythimic](ModeKatythimic.md) | Eb | Eb, F##, G##, A#, B##, C##, Eb | ![EFlatKatythimic](ModeEFlatKatythimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [461](https://ianring.com/musictheory/scales/461) | [Madimic](ModeMadimic.md) | G | G, A, Bb, C#, D, Eb, G | ![GNaturalMadimic](CircleModeGNaturalMadimic.png) |
+| [1139](https://ianring.com/musictheory/scales/1139) | [Aerygimic](ModeAerygimic.md) | A | A, Bb, C#, D, Eb, F##, A | ![ANaturalAerygimic](CircleModeANaturalAerygimic.png) |
+| [2617](https://ianring.com/musictheory/scales/2617) | [Pylimic](ModePylimic.md) | Bb | Bb, C#, D, Eb, F##, G##, Bb | ![BFlatPylimic](CircleModeBFlatPylimic.png) |
+| [839](https://ianring.com/musictheory/scales/839) | [Ionathimic](ModeIonathimic.md) | C# | C#, D, Eb, F##, G##, A#, C# | ![CSharpIonathimic](CircleModeCSharpIonathimic.png) |
+| [2467](https://ianring.com/musictheory/scales/2467) | [Morimic](ModeMorimic.md) | D | D, Eb, F##, G##, A#, B##, D | ![DNaturalMorimic](CircleModeDNaturalMorimic.png) |
+| [3281](https://ianring.com/musictheory/scales/3281) | [Katythimic](ModeKatythimic.md) | Eb | Eb, F##, G##, A#, B##, C##, Eb | ![EFlatKatythimic](CircleModeEFlatKatythimic.png) |
 
 ## Chords
 

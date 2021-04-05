@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i⁰, II⁺, IV⁺, VI⁺
 
 ![ANaturalParimic](ModeANaturalParimic.png)
 
+## Diagram
+
+![ANaturalParimic](CircleModeANaturalParimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i⁰, II⁺, IV⁺, VI⁺
 | [1427](https://ianring.com/musictheory/scales/1427) | [Lolimic](ModeLolimic.md) | D | D, Eb, F#, G##, A#, B#, D | ![DNaturalLolimic](ModeDNaturalLolimic.png) |
 | [2761](https://ianring.com/musictheory/scales/2761) | [Dagimic](ModeDagimic.md) | Eb | Eb, F#, G##, A#, B#, C##, Eb | ![EFlatDagimic](ModeEFlatDagimic.png) |
 | [857](https://ianring.com/musictheory/scales/857) | [Aeolydimic](ModeAeolydimic.md) | F# | F#, G##, A#, B#, C##, D#, F# | ![FSharpAeolydimic](ModeFSharpAeolydimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [619](https://ianring.com/musictheory/scales/619) | [Parimic](ModeParimic.md) | A | A, Bb, C, D, Eb, F#, A | ![ANaturalParimic](CircleModeANaturalParimic.png) |
+| [2357](https://ianring.com/musictheory/scales/2357) | [Ionaptimic](ModeIonaptimic.md) | Bb | Bb, C, D, Eb, F#, G##, Bb | ![BFlatIonaptimic](CircleModeBFlatIonaptimic.png) |
+| [1613](https://ianring.com/musictheory/scales/1613) | [Thylimic](ModeThylimic.md) | C | C, D, Eb, F#, G##, A#, C | ![CNaturalThylimic](CircleModeCNaturalThylimic.png) |
+| [1427](https://ianring.com/musictheory/scales/1427) | [Lolimic](ModeLolimic.md) | D | D, Eb, F#, G##, A#, B#, D | ![DNaturalLolimic](CircleModeDNaturalLolimic.png) |
+| [2761](https://ianring.com/musictheory/scales/2761) | [Dagimic](ModeDagimic.md) | Eb | Eb, F#, G##, A#, B#, C##, Eb | ![EFlatDagimic](CircleModeEFlatDagimic.png) |
+| [857](https://ianring.com/musictheory/scales/857) | [Aeolydimic](ModeAeolydimic.md) | F# | F#, G##, A#, B#, C##, D#, F# | ![FSharpAeolydimic](CircleModeFSharpAeolydimic.png) |
 
 ## Chords
 

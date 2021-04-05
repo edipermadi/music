@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ D#
 
 ![DSharpMocrimic](ModeDSharpMocrimic.png)
 
+## Diagram
+
+![DSharpMocrimic](CircleModeDSharpMocrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2289](https://ianring.com/musictheory/scales/2289) | [Mocrimic](ModeMocrimic.md) | D# | D#, E###, F###, G##, A#, B###, D# | ![DSharpMocrimic](ModeDSharpMocrimic.png) |
 | [3633](https://ianring.com/musictheory/scales/3633) | [Daptimic](ModeDaptimic.md) | A# | A#, B###, C###, E###, F###, G##, A# | ![ASharpDaptimic](ModeASharpDaptimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2289](https://ianring.com/musictheory/scales/2289) | [Mocrimic](ModeMocrimic.md) | D# | D#, E###, F###, G##, A#, B###, D# | ![DSharpMocrimic](CircleModeDSharpMocrimic.png) |
+| [3633](https://ianring.com/musictheory/scales/3633) | [Daptimic](ModeDaptimic.md) | A# | A#, B###, C###, E###, F###, G##, A# | ![ASharpDaptimic](CircleModeASharpDaptimic.png) |
 
 ## Chords
 

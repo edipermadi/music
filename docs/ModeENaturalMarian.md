@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II⁺, iii⁰, v⁰, vii
 
 ![ENaturalMarian](ModeENaturalMarian.png)
 
+## Diagram
+
+![ENaturalMarian](CircleModeENaturalMarian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ II⁺, iii⁰, v⁰, vii
 | [1881](https://ianring.com/musictheory/scales/1881) | [Korian](ModeKorian.md) | F# | F#, G##, A#, B#, C##, D#, E, F# | ![FSharpKorian](ModeFSharpKorian.png) |
 | [2421](https://ianring.com/musictheory/scales/2421) | [Malian](ModeMalian.md) | A# | A#, B#, C##, D#, E, F#, G##, A# | ![ASharpMalian](ModeASharpMalian.png) |
 | [2763](https://ianring.com/musictheory/scales/2763) | [Manian](ModeManian.md) | D# | D#, E, F#, G##, A#, B#, C##, D# | ![DSharpManian](ModeDSharpManian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3429](https://ianring.com/musictheory/scales/3429) | [Marian](ModeMarian.md) | E | E, F#, G##, A#, B#, C##, D#, E | ![ENaturalMarian](CircleModeENaturalMarian.png) |
+| [1881](https://ianring.com/musictheory/scales/1881) | [Korian](ModeKorian.md) | F# | F#, G##, A#, B#, C##, D#, E, F# | ![FSharpKorian](CircleModeFSharpKorian.png) |
+| [2421](https://ianring.com/musictheory/scales/2421) | [Malian](ModeMalian.md) | A# | A#, B#, C##, D#, E, F#, G##, A# | ![ASharpMalian](CircleModeASharpMalian.png) |
+| [2763](https://ianring.com/musictheory/scales/2763) | [Manian](ModeManian.md) | D# | D#, E, F#, G##, A#, B#, C##, D# | ![DSharpManian](CircleModeDSharpManian.png) |
 
 ## Chords
 

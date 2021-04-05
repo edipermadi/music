@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ iv, v⁰
 
 ![DSharpDanimic](ModeDSharpDanimic.png)
 
+## Diagram
+
+![DSharpDanimic](CircleModeDSharpDanimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1677](https://ianring.com/musictheory/scales/1677) | [Danimic](ModeDanimic.md) | D# | D#, E#, F#, G###, A###, B##, D# | ![DSharpDanimic](ModeDSharpDanimic.png) |
 | [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeDyrimic.md) | F# | F#, G###, A###, B##, C###, D###, F# | ![FSharpDyrimic](ModeFSharpDyrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1677](https://ianring.com/musictheory/scales/1677) | [Danimic](ModeDanimic.md) | D# | D#, E#, F#, G###, A###, B##, D# | ![DSharpDanimic](CircleModeDSharpDanimic.png) |
+| [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeDyrimic.md) | F# | F#, G###, A###, B##, C###, D###, F# | ![FSharpDyrimic](CircleModeFSharpDyrimic.png) |
 
 ## Chords
 

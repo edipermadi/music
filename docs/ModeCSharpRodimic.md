@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i, VI
 
 ![CSharpRodimic](ModeCSharpRodimic.png)
 
+## Diagram
+
+![CSharpRodimic](CircleModeCSharpRodimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i, VI
 | [2857](https://ianring.com/musictheory/scales/2857) | [Stythimic](ModeStythimic.md) | F | F, G#, A#, B##, C##, D##, F | ![FNaturalStythimic](ModeFNaturalStythimic.png) |
 | [869](https://ianring.com/musictheory/scales/869) | [Kothimic](ModeKothimic.md) | G# | G#, A#, B##, C##, D##, E#, G# | ![GSharpKothimic](ModeGSharpKothimic.png) |
 | [1241](https://ianring.com/musictheory/scales/1241) | [Pygimic](ModePygimic.md) | A# | A#, B##, C##, D##, E#, F###, A# | ![ASharpPygimic](ModeASharpPygimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [667](https://ianring.com/musictheory/scales/667) | [Rodimic](ModeRodimic.md) | C# | C#, D, E, F, G#, A#, C# | ![CSharpRodimic](CircleModeCSharpRodimic.png) |
+| [2381](https://ianring.com/musictheory/scales/2381) | [Sorimic](ModeSorimic.md) | D | D, E, F, G#, A#, B##, D | ![DNaturalSorimic](CircleModeDNaturalSorimic.png) |
+| [1619](https://ianring.com/musictheory/scales/1619) | [Monimic](ModeMonimic.md) | E | E, F, G#, A#, B##, C##, E | ![ENaturalMonimic](CircleModeENaturalMonimic.png) |
+| [2857](https://ianring.com/musictheory/scales/2857) | [Stythimic](ModeStythimic.md) | F | F, G#, A#, B##, C##, D##, F | ![FNaturalStythimic](CircleModeFNaturalStythimic.png) |
+| [869](https://ianring.com/musictheory/scales/869) | [Kothimic](ModeKothimic.md) | G# | G#, A#, B##, C##, D##, E#, G# | ![GSharpKothimic](CircleModeGSharpKothimic.png) |
+| [1241](https://ianring.com/musictheory/scales/1241) | [Pygimic](ModePygimic.md) | A# | A#, B##, C##, D##, E#, F###, A# | ![ASharpPygimic](CircleModeASharpPygimic.png) |
 
 ## Chords
 

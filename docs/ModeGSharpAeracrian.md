@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺, V, vii⁰
 
 ![GSharpAeracrian](ModeGSharpAeracrian.png)
 
+## Diagram
+
+![GSharpAeracrian](CircleModeGSharpAeracrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ i, III⁺, V, vii⁰
 | [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | B | B, C#, D#, E##, F##, G#, A#, B | ![BNaturalDarian](ModeBNaturalDarian.png) |
 | [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | C# | C#, D#, E##, F##, G#, A#, B, C# | ![CSharpLonian](ModeCSharpLonian.png) |
 | [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | D# | D#, E##, F##, G#, A#, B, C#, D# | ![DSharpAerathian](ModeDSharpAerathian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3245](https://ianring.com/musictheory/scales/3245) | [Aeracrian](ModeAeracrian.md) | G# | G#, A#, B, C#, D#, E##, F##, G# | ![GSharpAeracrian](CircleModeGSharpAeracrian.png) |
+| [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | A# | A#, B, C#, D#, E##, F##, G#, A# | ![ASharpByptian](CircleModeASharpByptian.png) |
+| [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | B | B, C#, D#, E##, F##, G#, A#, B | ![BNaturalDarian](CircleModeBNaturalDarian.png) |
+| [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | C# | C#, D#, E##, F##, G#, A#, B, C# | ![CSharpLonian](CircleModeCSharpLonian.png) |
+| [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | D# | D#, E##, F##, G#, A#, B, C#, D# | ![DSharpAerathian](CircleModeDSharpAerathian.png) |
 
 ## Chords
 

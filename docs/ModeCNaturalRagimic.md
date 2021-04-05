@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i, II⁺, IV⁺, VI⁺
 
 ![CNaturalRagimic](ModeCNaturalRagimic.png)
 
+## Diagram
+
+![CNaturalRagimic](CircleModeCNaturalRagimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i, II⁺, IV⁺, VI⁺
 | [851](https://ianring.com/musictheory/scales/851) | [Aerylimic](ModeAerylimic.md) | F# | F#, G, A#, B#, C##, D#, F# | ![FSharpAerylimic](ModeFSharpAerylimic.png) |
 | [2473](https://ianring.com/musictheory/scales/2473) | [Mothimic](ModeMothimic.md) | G | G, A#, B#, C##, D#, E##, G | ![GNaturalMothimic](ModeGNaturalMothimic.png) |
 | [821](https://ianring.com/musictheory/scales/821) | [Aeranimic](ModeAeranimic.md) | A# | A#, B#, C##, D#, E##, F##, A# | ![ASharpAeranimic](ModeASharpAeranimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1229](https://ianring.com/musictheory/scales/1229) | [Ragimic](ModeRagimic.md) | C | C, D, Eb, F#, G, A#, C | ![CNaturalRagimic](CircleModeCNaturalRagimic.png) |
+| [1331](https://ianring.com/musictheory/scales/1331) | [Dolimic](ModeDolimic.md) | D | D, Eb, F#, G, A#, B#, D | ![DNaturalDolimic](CircleModeDNaturalDolimic.png) |
+| [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModePorimic.md) | Eb | Eb, F#, G, A#, B#, C##, Eb | ![EFlatPorimic](CircleModeEFlatPorimic.png) |
+| [851](https://ianring.com/musictheory/scales/851) | [Aerylimic](ModeAerylimic.md) | F# | F#, G, A#, B#, C##, D#, F# | ![FSharpAerylimic](CircleModeFSharpAerylimic.png) |
+| [2473](https://ianring.com/musictheory/scales/2473) | [Mothimic](ModeMothimic.md) | G | G, A#, B#, C##, D#, E##, G | ![GNaturalMothimic](CircleModeGNaturalMothimic.png) |
+| [821](https://ianring.com/musictheory/scales/821) | [Aeranimic](ModeAeranimic.md) | A# | A#, B#, C##, D#, E##, F##, A# | ![ASharpAeranimic](CircleModeASharpAeranimic.png) |
 
 ## Chords
 

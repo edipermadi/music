@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ Ab
 
 ![AFlatKadian](ModeAFlatKadian.png)
 
+## Diagram
+
+![AFlatKadian](CircleModeAFlatKadian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [607](https://ianring.com/musictheory/scales/607) | [Kadian](ModeKadian.md) | Ab | Ab, Bbb, Cbb, Dbbb, Dbb, Ebb, F, Ab | ![AFlatKadian](ModeAFlatKadian.png) |
 | [761](https://ianring.com/musictheory/scales/761) | [Ponian](ModePonian.md) | F | F, G#, A, Bb, Cb, Dbb, Ebb, F | ![FNaturalPonian](ModeFNaturalPonian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [607](https://ianring.com/musictheory/scales/607) | [Kadian](ModeKadian.md) | Ab | Ab, Bbb, Cbb, Dbbb, Dbb, Ebb, F, Ab | ![AFlatKadian](CircleModeAFlatKadian.png) |
+| [761](https://ianring.com/musictheory/scales/761) | [Ponian](ModePonian.md) | F | F, G#, A, Bb, Cb, Dbb, Ebb, F | ![FNaturalPonian](CircleModeFNaturalPonian.png) |
 
 ## Chords
 

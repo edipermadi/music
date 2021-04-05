@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iv⁰
 
 ![AFlatSaptian](ModeAFlatSaptian.png)
 
+## Diagram
+
+![AFlatSaptian](CircleModeAFlatSaptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ iv⁰
 | [3629](https://ianring.com/musictheory/scales/3629) | [Boptian](ModeBoptian.md) | Eb | Eb, F, Gb, Ab, B#, C#, D, Eb | ![EFlatBoptian](ModeEFlatBoptian.png) |
 | [1931](https://ianring.com/musictheory/scales/1931) | [Stogian](ModeStogian.md) | F | F, Gb, Ab, B#, C#, D, Eb, F | ![FNaturalStogian](ModeFNaturalStogian.png) |
 | [3013](https://ianring.com/musictheory/scales/3013) | [Thynian](ModeThynian.md) | Gb | Gb, Ab, B#, C#, D, Eb, F, Gb | ![GFlatThynian](ModeGFlatThynian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1777](https://ianring.com/musictheory/scales/1777) | [Saptian](ModeSaptian.md) | Ab | Ab, B#, C#, D, Eb, F, Gb, Ab | ![AFlatSaptian](CircleModeAFlatSaptian.png) |
+| [2231](https://ianring.com/musictheory/scales/2231) | [Macrian](ModeMacrian.md) | C# | C#, D, Eb, F, Gb, Ab, B#, C# | ![CSharpMacrian](CircleModeCSharpMacrian.png) |
+| [3163](https://ianring.com/musictheory/scales/3163) | [Rogian](ModeRogian.md) | D | D, Eb, F, Gb, Ab, B#, C#, D | ![DNaturalRogian](CircleModeDNaturalRogian.png) |
+| [3629](https://ianring.com/musictheory/scales/3629) | [Boptian](ModeBoptian.md) | Eb | Eb, F, Gb, Ab, B#, C#, D, Eb | ![EFlatBoptian](CircleModeEFlatBoptian.png) |
+| [1931](https://ianring.com/musictheory/scales/1931) | [Stogian](ModeStogian.md) | F | F, Gb, Ab, B#, C#, D, Eb, F | ![FNaturalStogian](CircleModeFNaturalStogian.png) |
+| [3013](https://ianring.com/musictheory/scales/3013) | [Thynian](ModeThynian.md) | Gb | Gb, Ab, B#, C#, D, Eb, F, Gb | ![GFlatThynian](CircleModeGFlatThynian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ ii, III⁺, IV⁺, V, vii⁰
 
 ![CSharpPyptian](ModeCSharpPyptian.png)
 
+## Diagram
+
+![CSharpPyptian](CircleModeCSharpPyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ ii, III⁺, IV⁺, V, vii⁰
 | [1493](https://ianring.com/musictheory/scales/1493) | [Phryrian](ModePhryrian.md) | G | G, A, B, C#, D, Eb, F, G | ![GNaturalPhryrian](ModeGNaturalPhryrian.png) |
 | [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | A | A, B, C#, D, Eb, F, G, A | ![ANaturalGothian](ModeANaturalGothian.png) |
 | [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | B | B, C#, D, Eb, F, G, A, B | ![BNaturalStorian](ModeBNaturalStorian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | C# | C#, D, Eb, F, G, A, B, C# | ![CSharpPyptian](CircleModeCSharpPyptian.png) |
+| [2731](https://ianring.com/musictheory/scales/2731) | [Thydian](ModeThydian.md) | D | D, Eb, F, G, A, B, C#, D | ![DNaturalThydian](CircleModeDNaturalThydian.png) |
+| [3413](https://ianring.com/musictheory/scales/3413) | [Aeolynian](ModeAeolynian.md) | Eb | Eb, F, G, A, B, C#, D, Eb | ![EFlatAeolynian](CircleModeEFlatAeolynian.png) |
+| [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeAeroptian.md) | F | F, G, A, B, C#, D, Eb, F | ![FNaturalAeroptian](CircleModeFNaturalAeroptian.png) |
+| [1493](https://ianring.com/musictheory/scales/1493) | [Phryrian](ModePhryrian.md) | G | G, A, B, C#, D, Eb, F, G | ![GNaturalPhryrian](CircleModeGNaturalPhryrian.png) |
+| [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | A | A, B, C#, D, Eb, F, G, A | ![ANaturalGothian](CircleModeANaturalGothian.png) |
+| [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | B | B, C#, D, Eb, F, G, A, B | ![BNaturalStorian](CircleModeBNaturalStorian.png) |
 
 ## Chords
 

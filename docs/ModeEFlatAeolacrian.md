@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ Eb
 
 ![EFlatAeolacrian](ModeEFlatAeolacrian.png)
 
+## Diagram
+
+![EFlatAeolacrian](CircleModeEFlatAeolacrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ Eb
 | [3641](https://ianring.com/musictheory/scales/3641) | [Thocrian](ModeThocrian.md) | Bb | Bb, C#, D, Eb, F##, G#, A, Bb | ![BFlatThocrian](ModeBFlatThocrian.png) |
 | [967](https://ianring.com/musictheory/scales/967) | [Aeolanian](ModeAeolanian.md) | C# | C#, D, Eb, F##, G#, A, Bb, C# | ![CSharpAeolanian](ModeCSharpAeolanian.png) |
 | [2531](https://ianring.com/musictheory/scales/2531) | [Danian](ModeDanian.md) | D | D, Eb, F##, G#, A, Bb, C#, D | ![DNaturalDanian](ModeDNaturalDanian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3313](https://ianring.com/musictheory/scales/3313) | [Aeolacrian](ModeAeolacrian.md) | Eb | Eb, F##, G#, A, Bb, C#, D, Eb | ![EFlatAeolacrian](CircleModeEFlatAeolacrian.png) |
+| [2279](https://ianring.com/musictheory/scales/2279) | [Dyrian](ModeDyrian.md) | G# | G#, A, Bb, C#, D, Eb, F##, G# | ![GSharpDyrian](CircleModeGSharpDyrian.png) |
+| [3187](https://ianring.com/musictheory/scales/3187) | [Koptian](ModeKoptian.md) | A | A, Bb, C#, D, Eb, F##, G#, A | ![ANaturalKoptian](CircleModeANaturalKoptian.png) |
+| [3641](https://ianring.com/musictheory/scales/3641) | [Thocrian](ModeThocrian.md) | Bb | Bb, C#, D, Eb, F##, G#, A, Bb | ![BFlatThocrian](CircleModeBFlatThocrian.png) |
+| [967](https://ianring.com/musictheory/scales/967) | [Aeolanian](ModeAeolanian.md) | C# | C#, D, Eb, F##, G#, A, Bb, C# | ![CSharpAeolanian](CircleModeCSharpAeolanian.png) |
+| [2531](https://ianring.com/musictheory/scales/2531) | [Danian](ModeDanian.md) | D | D, Eb, F##, G#, A, Bb, C#, D | ![DNaturalDanian](CircleModeDNaturalDanian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, ii⁰, iv, VI⁺
 
 ![CSharpIonagian](ModeCSharpIonagian.png)
 
+## Diagram
+
+![CSharpIonagian](CircleModeCSharpIonagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I, ii⁰, iv, VI⁺
 | [1703](https://ianring.com/musictheory/scales/1703) | [Zaptian](ModeZaptian.md) | G# | G#, A, Bb, C#, D#, E#, F#, G# | ![GSharpZaptian](ModeGSharpZaptian.png) |
 | [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeKagian.md) | A | A, Bb, C#, D#, E#, F#, G#, A | ![ANaturalKagian](ModeANaturalKagian.png) |
 | [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModePhrolian.md) | Bb | Bb, C#, D#, E#, F#, G#, A, Bb | ![BFlatPhrolian](ModeBFlatPhrolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [949](https://ianring.com/musictheory/scales/949) | [Ionagian](ModeIonagian.md) | C# | C#, D#, E#, F#, G#, A, Bb, C# | ![CSharpIonagian](CircleModeCSharpIonagian.png) |
+| [1261](https://ianring.com/musictheory/scales/1261) | [Aeodian](ModeAeodian.md) | D# | D#, E#, F#, G#, A, Bb, C#, D# | ![DSharpAeodian](CircleModeDSharpAeodian.png) |
+| [2717](https://ianring.com/musictheory/scales/2717) | [Epygian](ModeEpygian.md) | F# | F#, G#, A, Bb, C#, D#, E#, F# | ![FSharpEpygian](CircleModeFSharpEpygian.png) |
+| [1703](https://ianring.com/musictheory/scales/1703) | [Zaptian](ModeZaptian.md) | G# | G#, A, Bb, C#, D#, E#, F#, G# | ![GSharpZaptian](CircleModeGSharpZaptian.png) |
+| [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeKagian.md) | A | A, Bb, C#, D#, E#, F#, G#, A | ![ANaturalKagian](CircleModeANaturalKagian.png) |
+| [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModePhrolian.md) | Bb | Bb, C#, D#, E#, F#, G#, A, Bb | ![BFlatPhrolian](CircleModeBFlatPhrolian.png) |
 
 ## Chords
 

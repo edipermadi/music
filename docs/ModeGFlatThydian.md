@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, II⁺, III⁺, IV, vi⁰
 
 ![GFlatThydian](ModeGFlatThydian.png)
 
+## Diagram
+
+![GFlatThydian](CircleModeGFlatThydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ i, II⁺, III⁺, IV, vi⁰
 | [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | Db | Db, Eb, F, Gb, Abb, Bbb, Cb, Db | ![DFlatGothian](ModeDFlatGothian.png) |
 | [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | Eb | Eb, F, Gb, Abb, Bbb, Cb, Db, Eb | ![EFlatStorian](ModeEFlatStorian.png) |
 | [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | F | F, Gb, Abb, Bbb, Cb, Db, Eb, F | ![FNaturalPyptian](ModeFNaturalPyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2731](https://ianring.com/musictheory/scales/2731) | [Thydian](ModeThydian.md) | Gb | Gb, Abb, Bbb, Cb, Db, Eb, F, Gb | ![GFlatThydian](CircleModeGFlatThydian.png) |
+| [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | Db | Db, Eb, F, Gb, Abb, Bbb, Cb, Db | ![DFlatGothian](CircleModeDFlatGothian.png) |
+| [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | Eb | Eb, F, Gb, Abb, Bbb, Cb, Db, Eb | ![EFlatStorian](CircleModeEFlatStorian.png) |
+| [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | F | F, Gb, Abb, Bbb, Cb, Db, Eb, F | ![FNaturalPyptian](CircleModeFNaturalPyptian.png) |
 
 ## Chords
 

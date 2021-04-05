@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ Db
 
 ![DFlatZynimic](ModeDFlatZynimic.png)
 
+## Diagram
+
+![DFlatZynimic](CircleModeDFlatZynimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [399](https://ianring.com/musictheory/scales/399) | [Zynimic](ModeZynimic.md) | Db | Db, Ebb, Fbb, Gbbb, Ab, Bbb, Db | ![DFlatZynimic](ModeDFlatZynimic.png) |
 | [483](https://ianring.com/musictheory/scales/483) | [Kygimic](ModeKygimic.md) | Ab | Ab, Bbb, C#, D, Eb, Fb, Ab | ![AFlatKygimic](ModeAFlatKygimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [399](https://ianring.com/musictheory/scales/399) | [Zynimic](ModeZynimic.md) | Db | Db, Ebb, Fbb, Gbbb, Ab, Bbb, Db | ![DFlatZynimic](CircleModeDFlatZynimic.png) |
+| [483](https://ianring.com/musictheory/scales/483) | [Kygimic](ModeKygimic.md) | Ab | Ab, Bbb, C#, D, Eb, Fb, Ab | ![AFlatKygimic](CircleModeAFlatKygimic.png) |
 
 ## Chords
 

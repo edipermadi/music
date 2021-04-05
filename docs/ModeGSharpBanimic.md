@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ v
 
 ![GSharpBanimic](ModeGSharpBanimic.png)
 
+## Diagram
+
+![GSharpBanimic](CircleModeGSharpBanimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2707](https://ianring.com/musictheory/scales/2707) | [Banimic](ModeBanimic.md) | G# | G#, A, B#, C###, D###, E###, G# | ![GSharpBanimic](ModeGSharpBanimic.png) |
 | [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModePalimic.md) | A | A, B#, C###, D###, E###, F###, A | ![ANaturalPalimic](ModeANaturalPalimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2707](https://ianring.com/musictheory/scales/2707) | [Banimic](ModeBanimic.md) | G# | G#, A, B#, C###, D###, E###, G# | ![GSharpBanimic](CircleModeGSharpBanimic.png) |
+| [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModePalimic.md) | A | A, B#, C###, D###, E###, F###, A | ![ANaturalPalimic](CircleModeANaturalPalimic.png) |
 
 ## Chords
 

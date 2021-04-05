@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ v, VI
 
 ![ENaturalAeolythimic](ModeENaturalAeolythimic.png)
 
+## Diagram
+
+![ENaturalAeolythimic](CircleModeENaturalAeolythimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ v, VI
 | [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeAeolythimic.md) | E | E, F##, G#, A#, B##, C###, E | ![ENaturalAeolythimic](ModeENaturalAeolythimic.png) |
 | [2469](https://ianring.com/musictheory/scales/2469) | [Staptimic](ModeStaptimic.md) | G# | G#, A#, B##, C###, D##, E###, G# | ![GSharpStaptimic](ModeGSharpStaptimic.png) |
 | [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | A# | A#, B##, C###, D##, E###, F###, A# | ![ASharpBocrimic](ModeASharpBocrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeAeolythimic.md) | E | E, F##, G#, A#, B##, C###, E | ![ENaturalAeolythimic](CircleModeENaturalAeolythimic.png) |
+| [2469](https://ianring.com/musictheory/scales/2469) | [Staptimic](ModeStaptimic.md) | G# | G#, A#, B##, C###, D##, E###, G# | ![GSharpStaptimic](CircleModeGSharpStaptimic.png) |
+| [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | A# | A#, B##, C###, D##, E###, F###, A# | ![ASharpBocrimic](CircleModeASharpBocrimic.png) |
 
 ## Chords
 

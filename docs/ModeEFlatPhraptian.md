@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II, VII⁺
 
 ![EFlatPhraptian](ModeEFlatPhraptian.png)
 
+## Diagram
+
+![EFlatPhraptian](CircleModeEFlatPhraptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ II, VII⁺
 | [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | A# | A#, B#, C#, D, Eb, F#, G#, A# | ![ASharpMadian](ModeASharpMadian.png) |
 | [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | C# | C#, D, Eb, F#, G#, A#, B#, C# | ![CSharpPylian](ModeCSharpPylian.png) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | D | D, Eb, F#, G#, A#, B#, C#, D | ![DNaturalIonathian](ModeDNaturalIonathian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | Eb | Eb, F#, G#, A#, B#, C#, D, Eb | ![EFlatPhraptian](CircleModeEFlatPhraptian.png) |
+| [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | F# | F#, G#, A#, B#, C#, D, Eb, F# | ![FSharpBacrian](CircleModeFSharpBacrian.png) |
+| [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | G# | G#, A#, B#, C#, D, Eb, F#, G# | ![GSharpKatythian](CircleModeGSharpKatythian.png) |
+| [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | A# | A#, B#, C#, D, Eb, F#, G#, A# | ![ASharpMadian](CircleModeASharpMadian.png) |
+| [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | C# | C#, D, Eb, F#, G#, A#, B#, C# | ![CSharpPylian](CircleModeCSharpPylian.png) |
+| [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | D | D, Eb, F#, G#, A#, B#, C#, D | ![DNaturalIonathian](CircleModeDNaturalIonathian.png) |
 
 ## Chords
 

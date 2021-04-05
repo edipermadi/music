@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ II, III
 
 ![CSharpSolimic](ModeCSharpSolimic.png)
 
+## Diagram
+
+![CSharpSolimic](CircleModeCSharpSolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2865](https://ianring.com/musictheory/scales/2865) | [Solimic](ModeSolimic.md) | C# | C#, D###, E##, Cbbb, Cbb, Dbb, C# | ![CSharpSolimic](ModeCSharpSolimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2865](https://ianring.com/musictheory/scales/2865) | [Solimic](ModeSolimic.md) | C# | C#, D###, E##, Cbbb, Cbb, Dbb, C# | ![CSharpSolimic](CircleModeCSharpSolimic.png) |
 
 ## Chords
 

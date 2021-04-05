@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ vi
 
 ![BFlatZycrimic](ModeBFlatZycrimic.png)
 
+## Diagram
+
+![BFlatZycrimic](CircleModeBFlatZycrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ vi
 | [1575](https://ianring.com/musictheory/scales/1575) | [Zycrimic](ModeZycrimic.md) | Bb | Bb, Cb, Dbb, Eb, F##, G#, Bb | ![BFlatZycrimic](ModeBFlatZycrimic.png) |
 | [945](https://ianring.com/musictheory/scales/945) | [Syrimic](ModeSyrimic.md) | Eb | Eb, F##, G#, A#, B, C, Eb | ![EFlatSyrimic](ModeEFlatSyrimic.png) |
 | [2205](https://ianring.com/musictheory/scales/2205) | [Ionocrimic](ModeIonocrimic.md) | G# | G#, A#, B, C, D#, E###, G# | ![GSharpIonocrimic](ModeGSharpIonocrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1575](https://ianring.com/musictheory/scales/1575) | [Zycrimic](ModeZycrimic.md) | Bb | Bb, Cb, Dbb, Eb, F##, G#, Bb | ![BFlatZycrimic](CircleModeBFlatZycrimic.png) |
+| [945](https://ianring.com/musictheory/scales/945) | [Syrimic](ModeSyrimic.md) | Eb | Eb, F##, G#, A#, B, C, Eb | ![EFlatSyrimic](CircleModeEFlatSyrimic.png) |
+| [2205](https://ianring.com/musictheory/scales/2205) | [Ionocrimic](ModeIonocrimic.md) | G# | G#, A#, B, C, D#, E###, G# | ![GSharpIonocrimic](CircleModeGSharpIonocrimic.png) |
 
 ## Chords
 

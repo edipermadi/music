@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰
 
 ![FSharpAeolyptian](ModeFSharpAeolyptian.png)
 
+## Diagram
+
+![FSharpAeolyptian](CircleModeFSharpAeolyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰
 | [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeAeolagian.md) | B | B, C, Db, E#, F#, G, A, B | ![BNaturalAeolagian](ModeBNaturalAeolagian.png) |
 | [2787](https://ianring.com/musictheory/scales/2787) | [Zyrian](ModeZyrian.md) | C | C, Db, E#, F#, G, A, B, C | ![CNaturalZyrian](ModeCNaturalZyrian.png) |
 | [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeThacrian.md) | Db | Db, E#, F#, G, A, B, C, Db | ![DFlatThacrian](ModeDFlatThacrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2283](https://ianring.com/musictheory/scales/2283) | [Aeolyptian](ModeAeolyptian.md) | F# | F#, G, A, B, C, Db, E#, F# | ![FSharpAeolyptian](CircleModeFSharpAeolyptian.png) |
+| [3189](https://ianring.com/musictheory/scales/3189) | [Aeolonian](ModeAeolonian.md) | G | G, A, B, C, Db, E#, F#, G | ![GNaturalAeolonian](CircleModeGNaturalAeolonian.png) |
+| [1821](https://ianring.com/musictheory/scales/1821) | [Aeradian](ModeAeradian.md) | A | A, B, C, Db, E#, F#, G, A | ![ANaturalAeradian](CircleModeANaturalAeradian.png) |
+| [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeAeolagian.md) | B | B, C, Db, E#, F#, G, A, B | ![BNaturalAeolagian](CircleModeBNaturalAeolagian.png) |
+| [2787](https://ianring.com/musictheory/scales/2787) | [Zyrian](ModeZyrian.md) | C | C, Db, E#, F#, G, A, B, C | ![CNaturalZyrian](CircleModeCNaturalZyrian.png) |
+| [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeThacrian.md) | Db | Db, E#, F#, G, A, B, C, Db | ![DFlatThacrian](CircleModeDFlatThacrian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ Db
 
 ![DFlatSadian](ModeDFlatSadian.png)
 
+## Diagram
+
+![DFlatSadian](CircleModeDFlatSadian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1183](https://ianring.com/musictheory/scales/1183) | [Sadian](ModeSadian.md) | Db | Db, Ebb, Fbb, Gbbb, D###, F###, Cb, Db | ![DFlatSadian](ModeDFlatSadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1183](https://ianring.com/musictheory/scales/1183) | [Sadian](ModeSadian.md) | Db | Db, Ebb, Fbb, Gbbb, D###, F###, Cb, Db | ![DFlatSadian](CircleModeDFlatSadian.png) |
 
 ## Chords
 

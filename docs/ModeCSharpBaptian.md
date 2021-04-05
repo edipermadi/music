@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ v⁰, vi⁰
 
 ![CSharpBaptian](ModeCSharpBaptian.png)
 
+## Diagram
+
+![CSharpBaptian](CircleModeCSharpBaptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ v⁰, vi⁰
 | [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | E | E, F, G##, A#, B#, C#, D#, E | ![ENaturalAeolydian](ModeENaturalAeolydian.png) |
 | [3505](https://ianring.com/musictheory/scales/3505) | [Stygian](ModeStygian.md) | F | F, G##, A#, B#, C#, D#, E, F | ![FNaturalStygian](ModeFNaturalStygian.png) |
 | [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | A# | A#, B#, C#, D#, E, F, G##, A# | ![ASharpAerogian](ModeASharpAerogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2845](https://ianring.com/musictheory/scales/2845) | [Baptian](ModeBaptian.md) | C# | C#, D#, E, F, G##, A#, B#, C# | ![CSharpBaptian](CircleModeCSharpBaptian.png) |
+| [1735](https://ianring.com/musictheory/scales/1735) | [Dagian](ModeDagian.md) | D# | D#, E, F, G##, A#, B#, C#, D# | ![DSharpDagian](CircleModeDSharpDagian.png) |
+| [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | E | E, F, G##, A#, B#, C#, D#, E | ![ENaturalAeolydian](CircleModeENaturalAeolydian.png) |
+| [3505](https://ianring.com/musictheory/scales/3505) | [Stygian](ModeStygian.md) | F | F, G##, A#, B#, C#, D#, E, F | ![FNaturalStygian](CircleModeFNaturalStygian.png) |
+| [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | A# | A#, B#, C#, D#, E, F, G##, A# | ![ASharpAerogian](CircleModeASharpAerogian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii⁰, iv, VI⁺
 
 ![GFlatAerathian](ModeGFlatAerathian.png)
 
+## Diagram
+
+![GFlatAerathian](CircleModeGFlatAerathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ I, iii⁰, iv, VI⁺
 | [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | A | A, Bb, Cb, Db, Ebb, Fb, Gb, A | ![ANaturalSarian](ModeANaturalSarian.png) |
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | Bb | Bb, Cb, Db, Ebb, Fb, Gb, A, Bb | ![BFlatZoptian](ModeBFlatZoptian.png) |
 | [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | Db | Db, Ebb, Fb, Gb, A, Bb, Cb, Db | ![DFlatByptian](ModeDFlatByptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | Gb | Gb, A, Bb, Cb, Db, Ebb, Fb, Gb | ![GFlatAerathian](CircleModeGFlatAerathian.png) |
+| [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | A | A, Bb, Cb, Db, Ebb, Fb, Gb, A | ![ANaturalSarian](CircleModeANaturalSarian.png) |
+| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | Bb | Bb, Cb, Db, Ebb, Fb, Gb, A, Bb | ![BFlatZoptian](CircleModeBFlatZoptian.png) |
+| [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | Db | Db, Ebb, Fb, Gb, A, Bb, Cb, Db | ![DFlatByptian](CircleModeDFlatByptian.png) |
 
 ## Chords
 

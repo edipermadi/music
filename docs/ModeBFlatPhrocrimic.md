@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ iii, iv
 
 ![BFlatPhrocrimic](ModeBFlatPhrocrimic.png)
 
+## Diagram
+
+![BFlatPhrocrimic](CircleModeBFlatPhrocrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,15 @@ iii, iv
 | [2253](https://ianring.com/musictheory/scales/2253) | [Logimic](ModeLogimic.md) | E | E, F#, G, A#, B, C###, E | ![ENaturalLogimic](ModeENaturalLogimic.png) |
 | [1587](https://ianring.com/musictheory/scales/1587) | [Lalimic](ModeLalimic.md) | F# | F#, G, A#, B, C###, D##, F# | ![FSharpLalimic](ModeFSharpLalimic.png) |
 | [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeSothimic.md) | G | G, A#, B, C###, D##, E##, G | ![GNaturalSothimic](ModeGNaturalSothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [867](https://ianring.com/musictheory/scales/867) | [Phrocrimic](ModePhrocrimic.md) | Bb | Bb, Cb, D#, E, F#, G, Bb | ![BFlatPhrocrimic](CircleModeBFlatPhrocrimic.png) |
+| [411](https://ianring.com/musictheory/scales/411) | [Lygimic](ModeLygimic.md) | D# | D#, E, F#, G, A#, B, D# | ![DSharpLygimic](CircleModeDSharpLygimic.png) |
+| [2253](https://ianring.com/musictheory/scales/2253) | [Logimic](ModeLogimic.md) | E | E, F#, G, A#, B, C###, E | ![ENaturalLogimic](CircleModeENaturalLogimic.png) |
+| [1587](https://ianring.com/musictheory/scales/1587) | [Lalimic](ModeLalimic.md) | F# | F#, G, A#, B, C###, D##, F# | ![FSharpLalimic](CircleModeFSharpLalimic.png) |
+| [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeSothimic.md) | G | G, A#, B, C###, D##, E##, G | ![GNaturalSothimic](CircleModeGNaturalSothimic.png) |
 
 ## Chords
 

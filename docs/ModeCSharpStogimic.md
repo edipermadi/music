@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i, II⁺, IV⁺, VI⁺
 
 ![CSharpStogimic](ModeCSharpStogimic.png)
 
+## Diagram
+
+![CSharpStogimic](CircleModeCSharpStogimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i, II⁺, IV⁺, VI⁺
 | [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeBythimic.md) | F# | F#, G#, A#, B##, C##, D##, F# | ![FSharpBythimic](ModeFSharpBythimic.png) |
 | [1381](https://ianring.com/musictheory/scales/1381) | [Padimic](ModePadimic.md) | G# | G#, A#, B##, C##, D##, E##, G# | ![GSharpPadimic](ModeGSharpPadimic.png) |
 | [1369](https://ianring.com/musictheory/scales/1369) | [Boptimic](ModeBoptimic.md) | A# | A#, B##, C##, D##, E##, F###, A# | ![ASharpBoptimic](ModeASharpBoptimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [683](https://ianring.com/musictheory/scales/683) | [Stogimic](ModeStogimic.md) | C# | C#, D, E, F#, G#, A#, C# | ![CSharpStogimic](CircleModeCSharpStogimic.png) |
+| [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeThynimic.md) | D | D, E, F#, G#, A#, B##, D | ![DNaturalThynimic](CircleModeDNaturalThynimic.png) |
+| [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | E | E, F#, G#, A#, B##, C##, E | ![ENaturalAeolathimic](CircleModeENaturalAeolathimic.png) |
+| [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeBythimic.md) | F# | F#, G#, A#, B##, C##, D##, F# | ![FSharpBythimic](CircleModeFSharpBythimic.png) |
+| [1381](https://ianring.com/musictheory/scales/1381) | [Padimic](ModePadimic.md) | G# | G#, A#, B##, C##, D##, E##, G# | ![GSharpPadimic](CircleModeGSharpPadimic.png) |
+| [1369](https://ianring.com/musictheory/scales/1369) | [Boptimic](ModeBoptimic.md) | A# | A#, B##, C##, D##, E##, F###, A# | ![ASharpBoptimic](CircleModeASharpBoptimic.png) |
 
 ## Chords
 

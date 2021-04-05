@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ ii⁰, iii⁰
 
 ![ANaturalStygian](ModeANaturalStygian.png)
 
+## Diagram
+
+![ANaturalStygian](CircleModeANaturalStygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3505](https://ianring.com/musictheory/scales/3505) | [Stygian](ModeStygian.md) | A | A, B##, C##, D##, E#, F##, G#, A | ![ANaturalStygian](ModeANaturalStygian.png) |
 | [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | G# | G#, A, B##, C##, D##, E#, F##, G# | ![GSharpAeolydian](ModeGSharpAeolydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3505](https://ianring.com/musictheory/scales/3505) | [Stygian](ModeStygian.md) | A | A, B##, C##, D##, E#, F##, G#, A | ![ANaturalStygian](CircleModeANaturalStygian.png) |
+| [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | G# | G#, A, B##, C##, D##, E#, F##, G# | ![GSharpAeolydian](CircleModeGSharpAeolydian.png) |
 
 ## Chords
 

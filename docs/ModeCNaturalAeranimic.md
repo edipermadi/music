@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, ii, III⁺, V⁺
 
 ![CNaturalAeranimic](ModeCNaturalAeranimic.png)
 
+## Diagram
+
+![CNaturalAeranimic](CircleModeCNaturalAeranimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I⁺, ii, III⁺, V⁺
 | [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModePorimic.md) | F | F, G#, A, B#, C##, D##, F | ![FNaturalPorimic](ModeFNaturalPorimic.png) |
 | [851](https://ianring.com/musictheory/scales/851) | [Aerylimic](ModeAerylimic.md) | G# | G#, A, B#, C##, D##, E#, G# | ![GSharpAerylimic](ModeGSharpAerylimic.png) |
 | [2473](https://ianring.com/musictheory/scales/2473) | [Mothimic](ModeMothimic.md) | A | A, B#, C##, D##, E#, F###, A | ![ANaturalMothimic](ModeANaturalMothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [821](https://ianring.com/musictheory/scales/821) | [Aeranimic](ModeAeranimic.md) | C | C, D, E, F, G#, A, C | ![CNaturalAeranimic](CircleModeCNaturalAeranimic.png) |
+| [1229](https://ianring.com/musictheory/scales/1229) | [Ragimic](ModeRagimic.md) | D | D, E, F, G#, A, B#, D | ![DNaturalRagimic](CircleModeDNaturalRagimic.png) |
+| [1331](https://ianring.com/musictheory/scales/1331) | [Dolimic](ModeDolimic.md) | E | E, F, G#, A, B#, C##, E | ![ENaturalDolimic](CircleModeENaturalDolimic.png) |
+| [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModePorimic.md) | F | F, G#, A, B#, C##, D##, F | ![FNaturalPorimic](CircleModeFNaturalPorimic.png) |
+| [851](https://ianring.com/musictheory/scales/851) | [Aerylimic](ModeAerylimic.md) | G# | G#, A, B#, C##, D##, E#, G# | ![GSharpAerylimic](CircleModeGSharpAerylimic.png) |
+| [2473](https://ianring.com/musictheory/scales/2473) | [Mothimic](ModeMothimic.md) | A | A, B#, C##, D##, E#, F###, A | ![ANaturalMothimic](CircleModeANaturalMothimic.png) |
 
 ## Chords
 

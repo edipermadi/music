@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺
 
 ![ANaturalAeolocrian](ModeANaturalAeolocrian.png)
 
+## Diagram
+
+![ANaturalAeolocrian](CircleModeANaturalAeolocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, III⁺
 | [3017](https://ianring.com/musictheory/scales/3017) | [Gacrian](ModeGacrian.md) | Db | Db, E, F##, G#, A, Bb, C, Db | ![DFlatGacrian](ModeDFlatGacrian.png) |
 | [889](https://ianring.com/musictheory/scales/889) | [Borian](ModeBorian.md) | E | E, F##, G#, A, Bb, C, Db, E | ![ENaturalBorian](ModeENaturalBorian.png) |
 | [2359](https://ianring.com/musictheory/scales/2359) | [Gadian](ModeGadian.md) | G# | G#, A, Bb, C, Db, E, F##, G# | ![GSharpGadian](ModeGSharpGadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3227](https://ianring.com/musictheory/scales/3227) | [Aeolocrian](ModeAeolocrian.md) | A | A, Bb, C, Db, E, F##, G#, A | ![ANaturalAeolocrian](CircleModeANaturalAeolocrian.png) |
+| [3661](https://ianring.com/musictheory/scales/3661) | [Mixodorian](ModeMixodorian.md) | Bb | Bb, C, Db, E, F##, G#, A, Bb | ![BFlatMixodorian](CircleModeBFlatMixodorian.png) |
+| [1939](https://ianring.com/musictheory/scales/1939) | [Dathian](ModeDathian.md) | C | C, Db, E, F##, G#, A, Bb, C | ![CNaturalDathian](CircleModeCNaturalDathian.png) |
+| [3017](https://ianring.com/musictheory/scales/3017) | [Gacrian](ModeGacrian.md) | Db | Db, E, F##, G#, A, Bb, C, Db | ![DFlatGacrian](CircleModeDFlatGacrian.png) |
+| [889](https://ianring.com/musictheory/scales/889) | [Borian](ModeBorian.md) | E | E, F##, G#, A, Bb, C, Db, E | ![ENaturalBorian](CircleModeENaturalBorian.png) |
+| [2359](https://ianring.com/musictheory/scales/2359) | [Gadian](ModeGadian.md) | G# | G#, A, Bb, C, Db, E, F##, G# | ![GSharpGadian](CircleModeGSharpGadian.png) |
 
 ## Chords
 

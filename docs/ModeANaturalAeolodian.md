@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ vi⁰
 
 ![ANaturalAeolodian](ModeANaturalAeolodian.png)
 
+## Diagram
+
+![ANaturalAeolodian](CircleModeANaturalAeolodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ vi⁰
 | [3427](https://ianring.com/musictheory/scales/3427) | [Zacrian](ModeZacrian.md) | Db | Db, Ebb, F#, G, A, B, C, Db | ![DFlatZacrian](ModeDFlatZacrian.png) |
 | [491](https://ianring.com/musictheory/scales/491) | [Aeolyrian](ModeAeolyrian.md) | F# | F#, G, A, B, C, Db, Ebb, F# | ![FSharpAeolyrian](ModeFSharpAeolyrian.png) |
 | [2293](https://ianring.com/musictheory/scales/2293) | [Gorian](ModeGorian.md) | G | G, A, B, C, Db, Ebb, F#, G | ![GNaturalGorian](ModeGNaturalGorian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1597](https://ianring.com/musictheory/scales/1597) | [Aeolodian](ModeAeolodian.md) | A | A, B, C, Db, Ebb, F#, G, A | ![ANaturalAeolodian](CircleModeANaturalAeolodian.png) |
+| [1423](https://ianring.com/musictheory/scales/1423) | [Doptian](ModeDoptian.md) | B | B, C, Db, Ebb, F#, G, A, B | ![BNaturalDoptian](CircleModeBNaturalDoptian.png) |
+| [2759](https://ianring.com/musictheory/scales/2759) | [Aeraphian](ModeAeraphian.md) | C | C, Db, Ebb, F#, G, A, B, C | ![CNaturalAeraphian](CircleModeCNaturalAeraphian.png) |
+| [3427](https://ianring.com/musictheory/scales/3427) | [Zacrian](ModeZacrian.md) | Db | Db, Ebb, F#, G, A, B, C, Db | ![DFlatZacrian](CircleModeDFlatZacrian.png) |
+| [491](https://ianring.com/musictheory/scales/491) | [Aeolyrian](ModeAeolyrian.md) | F# | F#, G, A, B, C, Db, Ebb, F# | ![FSharpAeolyrian](CircleModeFSharpAeolyrian.png) |
+| [2293](https://ianring.com/musictheory/scales/2293) | [Gorian](ModeGorian.md) | G | G, A, B, C, Db, Ebb, F#, G | ![GNaturalGorian](CircleModeGNaturalGorian.png) |
 
 ## Chords
 

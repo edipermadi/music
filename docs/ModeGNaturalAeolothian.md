@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II⁺, III⁺, IV, V, vii
 
 ![GNaturalAeolothian](ModeGNaturalAeolothian.png)
 
+## Diagram
+
+![GNaturalAeolothian](CircleModeGNaturalAeolothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ II⁺, III⁺, IV, V, vii
 | [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | Db | Db, E, F, G, Ab, Bbb, C, Db | ![DFlatBarian](ModeDFlatBarian.png) |
 | [827](https://ianring.com/musictheory/scales/827) | [Mixolocrian](ModeMixolocrian.md) | E | E, F, G, Ab, Bbb, C, Db, E | ![ENaturalMixolocrian](ModeENaturalMixolocrian.png) |
 | [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | F | F, G, Ab, Bbb, C, Db, E, F | ![FNaturalSagian](ModeFNaturalSagian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | G | G, Ab, Bbb, C, Db, E, F, G | ![GNaturalAeolothian](CircleModeGNaturalAeolothian.png) |
+| [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | Ab | Ab, Bbb, C, Db, E, F, G, Ab | ![AFlatSocrian](CircleModeAFlatSocrian.png) |
+| [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | C | C, Db, E, F, G, Ab, Bbb, C | ![CNaturalModian](CircleModeCNaturalModian.png) |
+| [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | Db | Db, E, F, G, Ab, Bbb, C, Db | ![DFlatBarian](CircleModeDFlatBarian.png) |
+| [827](https://ianring.com/musictheory/scales/827) | [Mixolocrian](ModeMixolocrian.md) | E | E, F, G, Ab, Bbb, C, Db, E | ![ENaturalMixolocrian](CircleModeENaturalMixolocrian.png) |
+| [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | F | F, G, Ab, Bbb, C, Db, E, F | ![FNaturalSagian](CircleModeFNaturalSagian.png) |
 
 ## Chords
 

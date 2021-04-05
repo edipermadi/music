@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ B
 
 ![BNaturalSyptian](ModeBNaturalSyptian.png)
 
+## Diagram
+
+![BNaturalSyptian](CircleModeBNaturalSyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ B
 | [3697](https://ianring.com/musictheory/scales/3697) | [Ionarian](ModeIonarian.md) | C | C, D##, E#, F#, G##, A#, B, C | ![CNaturalIonarian](ModeCNaturalIonarian.png) |
 | [3193](https://ianring.com/musictheory/scales/3193) | [Zathian](ModeZathian.md) | F# | F#, G##, A#, B, C, D##, E#, F# | ![FSharpZathian](ModeFSharpZathian.png) |
 | [2503](https://ianring.com/musictheory/scales/2503) | [Stonian](ModeStonian.md) | A# | A#, B, C, D##, E#, F#, G##, A# | ![ASharpStonian](ModeASharpStonian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3299](https://ianring.com/musictheory/scales/3299) | [Syptian](ModeSyptian.md) | B | B, C, D##, E#, F#, G##, A#, B | ![BNaturalSyptian](CircleModeBNaturalSyptian.png) |
+| [3697](https://ianring.com/musictheory/scales/3697) | [Ionarian](ModeIonarian.md) | C | C, D##, E#, F#, G##, A#, B, C | ![CNaturalIonarian](CircleModeCNaturalIonarian.png) |
+| [3193](https://ianring.com/musictheory/scales/3193) | [Zathian](ModeZathian.md) | F# | F#, G##, A#, B, C, D##, E#, F# | ![FSharpZathian](CircleModeFSharpZathian.png) |
+| [2503](https://ianring.com/musictheory/scales/2503) | [Stonian](ModeStonian.md) | A# | A#, B, C, D##, E#, F#, G##, A# | ![ASharpStonian](CircleModeASharpStonian.png) |
 
 ## Chords
 

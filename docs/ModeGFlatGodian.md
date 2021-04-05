@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ vii⁰
 
 ![GFlatGodian](ModeGFlatGodian.png)
 
+## Diagram
+
+![GFlatGodian](CircleModeGFlatGodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ vii⁰
 | [1815](https://ianring.com/musictheory/scales/1815) | [Godian](ModeGodian.md) | Gb | Gb, Abb, Bbbb, Cbb, D, Eb, Fb, Gb | ![GFlatGodian](ModeGFlatGodian.png) |
 | [375](https://ianring.com/musictheory/scales/375) | [Sodian](ModeSodian.md) | D | D, Eb, Fb, Gb, Abb, Bbbb, Cbb, D | ![DNaturalSodian](ModeDNaturalSodian.png) |
 | [2235](https://ianring.com/musictheory/scales/2235) | [Bathian](ModeBathian.md) | Eb | Eb, Fb, Gb, Abb, Bbbb, Cbb, D, Eb | ![EFlatBathian](ModeEFlatBathian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1815](https://ianring.com/musictheory/scales/1815) | [Godian](ModeGodian.md) | Gb | Gb, Abb, Bbbb, Cbb, D, Eb, Fb, Gb | ![GFlatGodian](CircleModeGFlatGodian.png) |
+| [375](https://ianring.com/musictheory/scales/375) | [Sodian](ModeSodian.md) | D | D, Eb, Fb, Gb, Abb, Bbbb, Cbb, D | ![DNaturalSodian](CircleModeDNaturalSodian.png) |
+| [2235](https://ianring.com/musictheory/scales/2235) | [Bathian](ModeBathian.md) | Eb | Eb, Fb, Gb, Abb, Bbbb, Cbb, D, Eb | ![EFlatBathian](CircleModeEFlatBathian.png) |
 
 ## Chords
 

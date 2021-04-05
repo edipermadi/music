@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, ii⁰, iii, iv, V⁺, VI, VII
 
 ![CNaturalLorian](ModeCNaturalLorian.png)
 
+## Diagram
+
+![CNaturalLorian](CircleModeCNaturalLorian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i⁰, ii⁰, iii, iv, V⁺, VI, VII
 | [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | Gb | Gb, Ab, Bb, C, D, Eb, F, Gb | ![GFlatLarian](ModeGFlatLarian.png) |
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | Ab | Ab, Bb, C, D, Eb, F, Gb, Ab | ![AFlatLythian](ModeAFlatLythian.png) |
 | [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | Bb | Bb, C, D, Eb, F, Gb, Ab, Bb | ![BFlatStydian](ModeBFlatStydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | C | C, D, Eb, F, Gb, Ab, Bb, C | ![CNaturalLorian](CircleModeCNaturalLorian.png) |
+| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | D | D, Eb, F, Gb, Ab, Bb, C, D | ![DNaturalIonadian](CircleModeDNaturalIonadian.png) |
+| [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | Eb | Eb, F, Gb, Ab, Bb, C, D, Eb | ![EFlatBocrian](CircleModeEFlatBocrian.png) |
+| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | F | F, Gb, Ab, Bb, C, D, Eb, F | ![FNaturalMixolythian](CircleModeFNaturalMixolythian.png) |
+| [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | Gb | Gb, Ab, Bb, C, D, Eb, F, Gb | ![GFlatLarian](CircleModeGFlatLarian.png) |
+| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | Ab | Ab, Bb, C, D, Eb, F, Gb, Ab | ![AFlatLythian](CircleModeAFlatLythian.png) |
+| [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | Bb | Bb, C, D, Eb, F, Gb, Ab, Bb | ![BFlatStydian](CircleModeBFlatStydian.png) |
 
 ## Chords
 

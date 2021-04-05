@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, III⁺, V⁺, VI
 
 ![AFlatLyptimic](ModeAFlatLyptimic.png)
 
+## Diagram
+
+![AFlatLyptimic](CircleModeAFlatLyptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I⁺, III⁺, V⁺, VI
 | [2729](https://ianring.com/musictheory/scales/2729) | [Aeragimic](ModeAeragimic.md) | Db | Db, E, F#, G#, A#, B#, Db | ![DFlatAeragimic](ModeDFlatAeragimic.png) |
 | [853](https://ianring.com/musictheory/scales/853) | [Epothimic](ModeEpothimic.md) | E | E, F#, G#, A#, B#, C#, E | ![ENaturalEpothimic](ModeENaturalEpothimic.png) |
 | [1237](https://ianring.com/musictheory/scales/1237) | [Salimic](ModeSalimic.md) | F# | F#, G#, A#, B#, C#, D##, F# | ![FSharpSalimic](ModeFSharpSalimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1333](https://ianring.com/musictheory/scales/1333) | [Lyptimic](ModeLyptimic.md) | Ab | Ab, Bb, C, Db, E, F#, Ab | ![AFlatLyptimic](CircleModeAFlatLyptimic.png) |
+| [1357](https://ianring.com/musictheory/scales/1357) | [Katonimic](ModeKatonimic.md) | Bb | Bb, C, Db, E, F#, G#, Bb | ![BFlatKatonimic](CircleModeBFlatKatonimic.png) |
+| [1363](https://ianring.com/musictheory/scales/1363) | [Gygimic](ModeGygimic.md) | C | C, Db, E, F#, G#, A#, C | ![CNaturalGygimic](CircleModeCNaturalGygimic.png) |
+| [2729](https://ianring.com/musictheory/scales/2729) | [Aeragimic](ModeAeragimic.md) | Db | Db, E, F#, G#, A#, B#, Db | ![DFlatAeragimic](CircleModeDFlatAeragimic.png) |
+| [853](https://ianring.com/musictheory/scales/853) | [Epothimic](ModeEpothimic.md) | E | E, F#, G#, A#, B#, C#, E | ![ENaturalEpothimic](CircleModeENaturalEpothimic.png) |
+| [1237](https://ianring.com/musictheory/scales/1237) | [Salimic](ModeSalimic.md) | F# | F#, G#, A#, B#, C#, D##, F# | ![FSharpSalimic](CircleModeFSharpSalimic.png) |
 
 ## Chords
 

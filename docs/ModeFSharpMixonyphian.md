@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ F#
 
 ![FSharpMixonyphian](ModeFSharpMixonyphian.png)
 
+## Diagram
+
+![FSharpMixonyphian](CircleModeFSharpMixonyphian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ F#
 | [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | Bb | Bb, Cb, Db, Eb, F#, G#, A, Bb | ![BFlatAeolylian](ModeBFlatAeolylian.png) |
 | [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | Db | Db, Eb, F#, G#, A, Bb, Cb, Db | ![DFlatPyrian](ModeDFlatPyrian.png) |
 | [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | Eb | Eb, F#, G#, A, Bb, Cb, Db, Eb | ![EFlatStathian](ModeEFlatStathian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | F# | F#, G#, A, Bb, Cb, Db, Eb, F# | ![FSharpMixonyphian](CircleModeFSharpMixonyphian.png) |
+| [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | G# | G#, A, Bb, Cb, Db, Eb, F#, G# | ![GSharpMagian](CircleModeGSharpMagian.png) |
+| [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | A | A, Bb, Cb, Db, Eb, F#, G#, A | ![ANaturalDadian](CircleModeANaturalDadian.png) |
+| [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | Bb | Bb, Cb, Db, Eb, F#, G#, A, Bb | ![BFlatAeolylian](CircleModeBFlatAeolylian.png) |
+| [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | Db | Db, Eb, F#, G#, A, Bb, Cb, Db | ![DFlatPyrian](CircleModeDFlatPyrian.png) |
+| [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | Eb | Eb, F#, G#, A, Bb, Cb, Db, Eb | ![EFlatStathian](CircleModeEFlatStathian.png) |
 
 ## Chords
 

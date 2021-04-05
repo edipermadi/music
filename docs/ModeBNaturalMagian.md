@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ B
 
 ![BNaturalMagian](ModeBNaturalMagian.png)
 
+## Diagram
+
+![BNaturalMagian](CircleModeBNaturalMagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ B
 | [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | Db | Db, Ebb, Fb, Gb, A, B, C, Db | ![DFlatAeolylian](ModeDFlatAeolylian.png) |
 | [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | Gb | Gb, A, B, C, Db, Ebb, Fb, Gb | ![GFlatStathian](ModeGFlatStathian.png) |
 | [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | A | A, B, C, Db, Ebb, Fb, Gb, A | ![ANaturalMixonyphian](ModeANaturalMixonyphian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | B | B, C, Db, Ebb, Fb, Gb, A, B | ![BNaturalMagian](CircleModeBNaturalMagian.png) |
+| [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | C | C, Db, Ebb, Fb, Gb, A, B, C | ![CNaturalDadian](CircleModeCNaturalDadian.png) |
+| [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | Db | Db, Ebb, Fb, Gb, A, B, C, Db | ![DFlatAeolylian](CircleModeDFlatAeolylian.png) |
+| [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | Gb | Gb, A, B, C, Db, Ebb, Fb, Gb | ![GFlatStathian](CircleModeGFlatStathian.png) |
+| [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | A | A, B, C, Db, Ebb, Fb, Gb, A | ![ANaturalMixonyphian](CircleModeANaturalMixonyphian.png) |
 
 ## Chords
 

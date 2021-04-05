@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ II⁺, IV⁺, VI⁺
 
 ![EFlatLanimic](ModeEFlatLanimic.png)
 
+## Diagram
+
+![EFlatLanimic](CircleModeEFlatLanimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,14 @@ II⁺, IV⁺, VI⁺
 | [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | Ab | Ab, Bb, C, D#, E, F, Ab | ![AFlatDygimic](ModeAFlatDygimic.png) |
 | [1253](https://ianring.com/musictheory/scales/1253) | [Zolimic](ModeZolimic.md) | Bb | Bb, C, D#, E, F, G#, Bb | ![BFlatZolimic](ModeBFlatZolimic.png) |
 | [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeEpogimic.md) | C | C, D#, E, F, G#, A#, C | ![CNaturalEpogimic](ModeCNaturalEpogimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [679](https://ianring.com/musictheory/scales/679) | [Lanimic](ModeLanimic.md) | Eb | Eb, Fb, Gbb, Ab, Bb, C, Eb | ![EFlatLanimic](CircleModeEFlatLanimic.png) |
+| [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | Ab | Ab, Bb, C, D#, E, F, Ab | ![AFlatDygimic](CircleModeAFlatDygimic.png) |
+| [1253](https://ianring.com/musictheory/scales/1253) | [Zolimic](ModeZolimic.md) | Bb | Bb, C, D#, E, F, G#, Bb | ![BFlatZolimic](CircleModeBFlatZolimic.png) |
+| [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeEpogimic.md) | C | C, D#, E, F, G#, A#, C | ![CNaturalEpogimic](CircleModeCNaturalEpogimic.png) |
 
 ## Chords
 

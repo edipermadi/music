@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ ii, III, IV⁺, v, VII
 
 ![FNaturalPorian](ModeFNaturalPorian.png)
 
+## Diagram
+
+![FNaturalPorian](CircleModeFNaturalPorian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ ii, III, IV⁺, v, VII
 | [855](https://ianring.com/musictheory/scales/855) | [Porian](ModePorian.md) | F | F, Gb, Abb, Bbb, Cb, Db, Ebb, F | ![FNaturalPorian](ModeFNaturalPorian.png) |
 | [2475](https://ianring.com/musictheory/scales/2475) | [Aerylian](ModeAerylian.md) | Gb | Gb, Abb, Bbb, Cb, Db, Ebb, F, Gb | ![GFlatAerylian](ModeGFlatAerylian.png) |
 | [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeMixonorian.md) | Db | Db, Ebb, F, Gb, Abb, Bbb, Cb, Db | ![DFlatMixonorian](ModeDFlatMixonorian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [855](https://ianring.com/musictheory/scales/855) | [Porian](ModePorian.md) | F | F, Gb, Abb, Bbb, Cb, Db, Ebb, F | ![FNaturalPorian](CircleModeFNaturalPorian.png) |
+| [2475](https://ianring.com/musictheory/scales/2475) | [Aerylian](ModeAerylian.md) | Gb | Gb, Abb, Bbb, Cb, Db, Ebb, F, Gb | ![GFlatAerylian](CircleModeGFlatAerylian.png) |
+| [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeMixonorian.md) | Db | Db, Ebb, F, Gb, Abb, Bbb, Cb, Db | ![DFlatMixonorian](CircleModeDFlatMixonorian.png) |
 
 ## Chords
 

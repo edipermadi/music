@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ I⁺, III, IV, v, vi
 
 ![GSharpDocrian](ModeGSharpDocrian.png)
 
+## Diagram
+
+![GSharpDocrian](CircleModeGSharpDocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2873](https://ianring.com/musictheory/scales/2873) | [Docrian](ModeDocrian.md) | G# | G#, A##, B#, C#, D##, E#, F##, G# | ![GSharpDocrian](ModeGSharpDocrian.png) |
 | [3289](https://ianring.com/musictheory/scales/3289) | [Loptian](ModeLoptian.md) | C# | C#, D##, E#, F##, G#, A##, B#, C# | ![CSharpLoptian](ModeCSharpLoptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2873](https://ianring.com/musictheory/scales/2873) | [Docrian](ModeDocrian.md) | G# | G#, A##, B#, C#, D##, E#, F##, G# | ![GSharpDocrian](CircleModeGSharpDocrian.png) |
+| [3289](https://ianring.com/musictheory/scales/3289) | [Loptian](ModeLoptian.md) | C# | C#, D##, E#, F##, G#, A##, B#, C# | ![CSharpLoptian](CircleModeCSharpLoptian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, II, iii⁰, iv⁰, v, vi, VII⁺
 
 ![DNaturalLythian](ModeDNaturalLythian.png)
 
+## Diagram
+
+![DNaturalLythian](CircleModeDNaturalLythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ I, II, iii⁰, iv⁰, v, vi, VII⁺
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | A | A, B, C, D, E, F#, G#, A | ![ANaturalBocrian](ModeANaturalBocrian.png) |
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | B | B, C, D, E, F#, G#, A, B | ![BNaturalMixolythian](ModeBNaturalMixolythian.png) |
 | [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | C | C, D, E, F#, G#, A, B, C | ![CNaturalLarian](ModeCNaturalLarian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | D | D, E, F#, G#, A, B, C, D | ![DNaturalLythian](CircleModeDNaturalLythian.png) |
+| [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | E | E, F#, G#, A, B, C, D, E | ![ENaturalStydian](CircleModeENaturalStydian.png) |
+| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | F# | F#, G#, A, B, C, D, E, F# | ![FSharpLorian](CircleModeFSharpLorian.png) |
+| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | G# | G#, A, B, C, D, E, F#, G# | ![GSharpIonadian](CircleModeGSharpIonadian.png) |
+| [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | A | A, B, C, D, E, F#, G#, A | ![ANaturalBocrian](CircleModeANaturalBocrian.png) |
+| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | B | B, C, D, E, F#, G#, A, B | ![BNaturalMixolythian](CircleModeBNaturalMixolythian.png) |
+| [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | C | C, D, E, F#, G#, A, B, C | ![CNaturalLarian](CircleModeCNaturalLarian.png) |
 
 ## Chords
 

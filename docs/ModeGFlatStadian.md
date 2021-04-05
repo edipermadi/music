@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ i⁰, iii, V, vii
 
 ![GFlatStadian](ModeGFlatStadian.png)
 
+## Diagram
+
+![GFlatStadian](CircleModeGFlatStadian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1259](https://ianring.com/musictheory/scales/1259) | [Stadian](ModeStadian.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Ebbb, Fb, Gb | ![GFlatStadian](ModeGFlatStadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1259](https://ianring.com/musictheory/scales/1259) | [Stadian](ModeStadian.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Ebbb, Fb, Gb | ![GFlatStadian](CircleModeGFlatStadian.png) |
 
 ## Chords
 

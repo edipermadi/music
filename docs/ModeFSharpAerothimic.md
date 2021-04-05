@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ iii
 
 ![FSharpAerothimic](ModeFSharpAerothimic.png)
 
+## Diagram
+
+![FSharpAerothimic](CircleModeFSharpAerothimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [881](https://ianring.com/musictheory/scales/881) | [Aerothimic](ModeAerothimic.md) | F# | F#, G###, A##, B#, C##, D#, F# | ![FSharpAerothimic](ModeFSharpAerothimic.png) |
 | [2953](https://ianring.com/musictheory/scales/2953) | [Ionylimic](ModeIonylimic.md) | D# | D#, E##, Cbb, Dbbb, Dbb, Ebb, D# | ![DSharpIonylimic](ModeDSharpIonylimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [881](https://ianring.com/musictheory/scales/881) | [Aerothimic](ModeAerothimic.md) | F# | F#, G###, A##, B#, C##, D#, F# | ![FSharpAerothimic](CircleModeFSharpAerothimic.png) |
+| [2953](https://ianring.com/musictheory/scales/2953) | [Ionylimic](ModeIonylimic.md) | D# | D#, E##, Cbb, Dbbb, Dbb, Ebb, D# | ![DSharpIonylimic](CircleModeDSharpIonylimic.png) |
 
 ## Chords
 

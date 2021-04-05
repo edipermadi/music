@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ II, iv⁰, V, vii
 
 ![DSharpZolian](ModeDSharpZolian.png)
 
+## Diagram
+
+![DSharpZolian](CircleModeDSharpZolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2789](https://ianring.com/musictheory/scales/2789) | [Zolian](ModeZolian.md) | D# | D#, E#, F###, G##, A#, B#, C##, D# | ![DSharpZolian](ModeDSharpZolian.png) |
 | [3253](https://ianring.com/musictheory/scales/3253) | [Gonian](ModeGonian.md) | A# | A#, B#, C##, D#, E#, F###, G##, A# | ![ASharpGonian](ModeASharpGonian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2789](https://ianring.com/musictheory/scales/2789) | [Zolian](ModeZolian.md) | D# | D#, E#, F###, G##, A#, B#, C##, D# | ![DSharpZolian](CircleModeDSharpZolian.png) |
+| [3253](https://ianring.com/musictheory/scales/3253) | [Gonian](ModeGonian.md) | A# | A#, B#, C##, D#, E#, F###, G##, A# | ![ASharpGonian](CircleModeASharpGonian.png) |
 
 ## Chords
 

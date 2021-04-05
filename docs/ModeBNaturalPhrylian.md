@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III, iv⁰, v⁰, vi⁰
 
 ![BNaturalPhrylian](ModeBNaturalPhrylian.png)
 
+## Diagram
+
+![BNaturalPhrylian](CircleModeBNaturalPhrylian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, III, iv⁰, v⁰, vi⁰
 | [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | F# | F#, G#, A, B, C, D, E#, F# | ![FSharpPhrydian](ModeFSharpPhrydian.png) |
 | [1627](https://ianring.com/musictheory/scales/1627) | [Zyptian](ModeZyptian.md) | G# | G#, A, B, C, D, E#, F#, G# | ![GSharpZyptian](ModeGSharpZyptian.png) |
 | [2861](https://ianring.com/musictheory/scales/2861) | [Katothian](ModeKatothian.md) | A | A, B, C, D, E#, F#, G#, A | ![ANaturalKatothian](ModeANaturalKatothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1739](https://ianring.com/musictheory/scales/1739) | [Phrylian](ModePhrylian.md) | B | B, C, D, E#, F#, G#, A, B | ![BNaturalPhrylian](CircleModeBNaturalPhrylian.png) |
+| [2917](https://ianring.com/musictheory/scales/2917) | [Kocrian](ModeKocrian.md) | C | C, D, E#, F#, G#, A, B, C | ![CNaturalKocrian](CircleModeCNaturalKocrian.png) |
+| [1753](https://ianring.com/musictheory/scales/1753) | [Mycrian](ModeMycrian.md) | D | D, E#, F#, G#, A, B, C, D | ![DNaturalMycrian](CircleModeDNaturalMycrian.png) |
+| [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | F# | F#, G#, A, B, C, D, E#, F# | ![FSharpPhrydian](CircleModeFSharpPhrydian.png) |
+| [1627](https://ianring.com/musictheory/scales/1627) | [Zyptian](ModeZyptian.md) | G# | G#, A, B, C, D, E#, F#, G# | ![GSharpZyptian](CircleModeGSharpZyptian.png) |
+| [2861](https://ianring.com/musictheory/scales/2861) | [Katothian](ModeKatothian.md) | A | A, B, C, D, E#, F#, G#, A | ![ANaturalKatothian](CircleModeANaturalKatothian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, II, iv, VI, VII⁺
 
 ![FNaturalDyptian](ModeFNaturalDyptian.png)
 
+## Diagram
+
+![FNaturalDyptian](CircleModeFNaturalDyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, II, iv, VI, VII⁺
 | [1437](https://ianring.com/musictheory/scales/1437) | [Aeolycrian](ModeAeolycrian.md) | Bb | Bb, C, Db, Ebb, F, Gb, Ab, Bb | ![BFlatAeolycrian](ModeBFlatAeolycrian.png) |
 | [1383](https://ianring.com/musictheory/scales/1383) | [Pynian](ModePynian.md) | C | C, Db, Ebb, F, Gb, Ab, Bb, C | ![CNaturalPynian](ModeCNaturalPynian.png) |
 | [2739](https://ianring.com/musictheory/scales/2739) | [Zanian](ModeZanian.md) | Db | Db, Ebb, F, Gb, Ab, Bb, C, Db | ![DFlatZanian](ModeDFlatZanian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [939](https://ianring.com/musictheory/scales/939) | [Dyptian](ModeDyptian.md) | F | F, Gb, Ab, Bb, C, Db, Ebb, F | ![FNaturalDyptian](CircleModeFNaturalDyptian.png) |
+| [2517](https://ianring.com/musictheory/scales/2517) | [Ryphian](ModeRyphian.md) | Gb | Gb, Ab, Bb, C, Db, Ebb, F, Gb | ![GFlatRyphian](CircleModeGFlatRyphian.png) |
+| [1653](https://ianring.com/musictheory/scales/1653) | [Gylian](ModeGylian.md) | Ab | Ab, Bb, C, Db, Ebb, F, Gb, Ab | ![AFlatGylian](CircleModeAFlatGylian.png) |
+| [1437](https://ianring.com/musictheory/scales/1437) | [Aeolycrian](ModeAeolycrian.md) | Bb | Bb, C, Db, Ebb, F, Gb, Ab, Bb | ![BFlatAeolycrian](CircleModeBFlatAeolycrian.png) |
+| [1383](https://ianring.com/musictheory/scales/1383) | [Pynian](ModePynian.md) | C | C, Db, Ebb, F, Gb, Ab, Bb, C | ![CNaturalPynian](CircleModeCNaturalPynian.png) |
+| [2739](https://ianring.com/musictheory/scales/2739) | [Zanian](ModeZanian.md) | Db | Db, Ebb, F, Gb, Ab, Bb, C, Db | ![DFlatZanian](CircleModeDFlatZanian.png) |
 
 ## Chords
 

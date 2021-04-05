@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ ii, III
 
 ![ASharpBylimic](ModeASharpBylimic.png)
 
+## Diagram
+
+![ASharpBylimic](CircleModeASharpBylimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2737](https://ianring.com/musictheory/scales/2737) | [Bylimic](ModeBylimic.md) | A# | A#, B###, C###, D###, E###, Cbbb, A# | ![ASharpBylimic](ModeASharpBylimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2737](https://ianring.com/musictheory/scales/2737) | [Bylimic](ModeBylimic.md) | A# | A#, B###, C###, D###, E###, Cbbb, A# | ![ASharpBylimic](CircleModeASharpBylimic.png) |
 
 ## Chords
 

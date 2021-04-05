@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, III⁺, V⁺
 
 ![CNaturalEpogimic](ModeCNaturalEpogimic.png)
 
+## Diagram
+
+![CNaturalEpogimic](CircleModeCNaturalEpogimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I⁺, III⁺, V⁺
 | [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDalimic.md) | F | F, G#, A#, B#, C###, D##, F | ![FNaturalDalimic](ModeFNaturalDalimic.png) |
 | [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | G# | G#, A#, B#, C###, D##, E#, G# | ![GSharpDygimic](ModeGSharpDygimic.png) |
 | [1253](https://ianring.com/musictheory/scales/1253) | [Zolimic](ModeZolimic.md) | A# | A#, B#, C###, D##, E#, F###, A# | ![ASharpZolimic](ModeASharpZolimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeEpogimic.md) | C | C, D#, E, F, G#, A#, C | ![CNaturalEpogimic](CircleModeCNaturalEpogimic.png) |
+| [679](https://ianring.com/musictheory/scales/679) | [Lanimic](ModeLanimic.md) | D# | D#, E, F, G#, A#, B#, D# | ![DSharpLanimic](CircleModeDSharpLanimic.png) |
+| [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | E | E, F, G#, A#, B#, C###, E | ![ENaturalPaptimic](CircleModeENaturalPaptimic.png) |
+| [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDalimic.md) | F | F, G#, A#, B#, C###, D##, F | ![FNaturalDalimic](CircleModeFNaturalDalimic.png) |
+| [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | G# | G#, A#, B#, C###, D##, E#, G# | ![GSharpDygimic](CircleModeGSharpDygimic.png) |
+| [1253](https://ianring.com/musictheory/scales/1253) | [Zolimic](ModeZolimic.md) | A# | A#, B#, C###, D##, E#, F###, A# | ![ASharpZolimic](CircleModeASharpZolimic.png) |
 
 ## Chords
 

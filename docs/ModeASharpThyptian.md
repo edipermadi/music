@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, II⁺, iii, IV, V, vi⁰, vii
 
 ![ASharpThyptian](ModeASharpThyptian.png)
 
+## Diagram
+
+![ASharpThyptian](CircleModeASharpThyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰, II⁺, iii, IV, V, vi⁰, vii
 | [1459](https://ianring.com/musictheory/scales/1459) | [Ionalian](ModeIonalian.md) | D# | D#, E, F##, G#, A#, B, C#, D# | ![DSharpIonalian](ModeDSharpIonalian.png) |
 | [2777](https://ianring.com/musictheory/scales/2777) | [Bycrian](ModeBycrian.md) | E | E, F##, G#, A#, B, C#, D#, E | ![ENaturalBycrian](ModeENaturalBycrian.png) |
 | [2477](https://ianring.com/musictheory/scales/2477) | [Mydian](ModeMydian.md) | G# | G#, A#, B, C#, D#, E, F##, G# | ![GSharpMydian](ModeGSharpMydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1643](https://ianring.com/musictheory/scales/1643) | [Thyptian](ModeThyptian.md) | A# | A#, B, C#, D#, E, F##, G#, A# | ![ASharpThyptian](CircleModeASharpThyptian.png) |
+| [2869](https://ianring.com/musictheory/scales/2869) | [Phrothian](ModePhrothian.md) | B | B, C#, D#, E, F##, G#, A#, B | ![BNaturalPhrothian](CircleModeBNaturalPhrothian.png) |
+| [1741](https://ianring.com/musictheory/scales/1741) | [Katycrian](ModeKatycrian.md) | C# | C#, D#, E, F##, G#, A#, B, C# | ![CSharpKatycrian](CircleModeCSharpKatycrian.png) |
+| [1459](https://ianring.com/musictheory/scales/1459) | [Ionalian](ModeIonalian.md) | D# | D#, E, F##, G#, A#, B, C#, D# | ![DSharpIonalian](CircleModeDSharpIonalian.png) |
+| [2777](https://ianring.com/musictheory/scales/2777) | [Bycrian](ModeBycrian.md) | E | E, F##, G#, A#, B, C#, D#, E | ![ENaturalBycrian](CircleModeENaturalBycrian.png) |
+| [2477](https://ianring.com/musictheory/scales/2477) | [Mydian](ModeMydian.md) | G# | G#, A#, B, C#, D#, E, F##, G# | ![GSharpMydian](CircleModeGSharpMydian.png) |
 
 ## Chords
 

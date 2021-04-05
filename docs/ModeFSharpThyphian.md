@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ F#
 
 ![FSharpThyphian](ModeFSharpThyphian.png)
 
+## Diagram
+
+![FSharpThyphian](CircleModeFSharpThyphian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ F#
 | [3877](https://ianring.com/musictheory/scales/3877) | [Thanian](ModeThanian.md) | Ab | Ab, Bb, C#, D##, E#, F#, G, Ab | ![AFlatThanian](ModeAFlatThanian.png) |
 | [1993](https://ianring.com/musictheory/scales/1993) | [Katoptian](ModeKatoptian.md) | Bb | Bb, C#, D##, E#, F#, G, Ab, Bb | ![BFlatKatoptian](ModeBFlatKatoptian.png) |
 | [761](https://ianring.com/musictheory/scales/761) | [Ponian](ModePonian.md) | C# | C#, D##, E#, F#, G, Ab, Bb, C# | ![CSharpPonian](ModeCSharpPonian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3223](https://ianring.com/musictheory/scales/3223) | [Thyphian](ModeThyphian.md) | F# | F#, G, Ab, Bb, C#, D##, E#, F# | ![FSharpThyphian](CircleModeFSharpThyphian.png) |
+| [3659](https://ianring.com/musictheory/scales/3659) | [Polian](ModePolian.md) | G | G, Ab, Bb, C#, D##, E#, F#, G | ![GNaturalPolian](CircleModeGNaturalPolian.png) |
+| [3877](https://ianring.com/musictheory/scales/3877) | [Thanian](ModeThanian.md) | Ab | Ab, Bb, C#, D##, E#, F#, G, Ab | ![AFlatThanian](CircleModeAFlatThanian.png) |
+| [1993](https://ianring.com/musictheory/scales/1993) | [Katoptian](ModeKatoptian.md) | Bb | Bb, C#, D##, E#, F#, G, Ab, Bb | ![BFlatKatoptian](CircleModeBFlatKatoptian.png) |
+| [761](https://ianring.com/musictheory/scales/761) | [Ponian](ModePonian.md) | C# | C#, D##, E#, F#, G, Ab, Bb, C# | ![CSharpPonian](CircleModeCSharpPonian.png) |
 
 ## Chords
 

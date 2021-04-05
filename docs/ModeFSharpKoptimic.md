@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i, ii⁰
 
 ![FSharpKoptimic](ModeFSharpKoptimic.png)
 
+## Diagram
+
+![FSharpKoptimic](CircleModeFSharpKoptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i, ii⁰
 | [1677](https://ianring.com/musictheory/scales/1677) | [Danimic](ModeDanimic.md) | B | B, C#, D, E##, F###, G##, B | ![BNaturalDanimic](ModeBNaturalDanimic.png) |
 | [1443](https://ianring.com/musictheory/scales/1443) | [Ionarimic](ModeIonarimic.md) | C# | C#, D, E##, F###, G##, A##, C# | ![CSharpIonarimic](ModeCSharpIonarimic.png) |
 | [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeDyrimic.md) | D | D, E##, F###, G##, A##, B##, D | ![DNaturalDyrimic](ModeDNaturalDyrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [429](https://ianring.com/musictheory/scales/429) | [Koptimic](ModeKoptimic.md) | F# | F#, G#, A, B, C#, D, F# | ![FSharpKoptimic](CircleModeFSharpKoptimic.png) |
+| [1131](https://ianring.com/musictheory/scales/1131) | [Thocrimic](ModeThocrimic.md) | G# | G#, A, B, C#, D, E##, G# | ![GSharpThocrimic](CircleModeGSharpThocrimic.png) |
+| [2613](https://ianring.com/musictheory/scales/2613) | [Aeolanimic](ModeAeolanimic.md) | A | A, B, C#, D, E##, F###, A | ![ANaturalAeolanimic](CircleModeANaturalAeolanimic.png) |
+| [1677](https://ianring.com/musictheory/scales/1677) | [Danimic](ModeDanimic.md) | B | B, C#, D, E##, F###, G##, B | ![BNaturalDanimic](CircleModeBNaturalDanimic.png) |
+| [1443](https://ianring.com/musictheory/scales/1443) | [Ionarimic](ModeIonarimic.md) | C# | C#, D, E##, F###, G##, A##, C# | ![CSharpIonarimic](CircleModeCSharpIonarimic.png) |
+| [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeDyrimic.md) | D | D, E##, F###, G##, A##, B##, D | ![DNaturalDyrimic](CircleModeDNaturalDyrimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ v⁰, vii⁰
 
 ![ASharpPhralian](ModeASharpPhralian.png)
 
+## Diagram
+
+![ASharpPhralian](CircleModeASharpPhralian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ v⁰, vii⁰
 | [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | C | C, D, E#, F##, G#, A#, B, C | ![CNaturalRathian](ModeCNaturalRathian.png) |
 | [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | D | D, E#, F##, G#, A#, B, C, D | ![DNaturalIonopian](ModeDNaturalIonopian.png) |
 | [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | G# | G#, A#, B, C, D, E#, F##, G# | ![GSharpSygian](ModeGSharpSygian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | A# | A#, B, C, D, E#, F##, G#, A# | ![ASharpPhralian](CircleModeASharpPhralian.png) |
+| [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | B | B, C, D, E#, F##, G#, A#, B | ![BNaturalPhrogian](CircleModeBNaturalPhrogian.png) |
+| [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | C | C, D, E#, F##, G#, A#, B, C | ![CNaturalRathian](CircleModeCNaturalRathian.png) |
+| [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | D | D, E#, F##, G#, A#, B, C, D | ![DNaturalIonopian](CircleModeDNaturalIonopian.png) |
+| [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | G# | G#, A#, B, C, D, E#, F##, G# | ![GSharpSygian](CircleModeGSharpSygian.png) |
 
 ## Chords
 

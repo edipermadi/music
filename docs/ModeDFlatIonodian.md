@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ i, ii, IV⁺, VI, VII
 
 ![DFlatIonodian](ModeDFlatIonodian.png)
 
+## Diagram
+
+![DFlatIonodian](CircleModeDFlatIonodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [923](https://ianring.com/musictheory/scales/923) | [Ionodian](ModeIonodian.md) | Db | Db, Ebb, Fb, Gbb, Ab, Bbb, Cbb, Db | ![DFlatIonodian](ModeDFlatIonodian.png) |
 | [871](https://ianring.com/musictheory/scales/871) | [Epadian](ModeEpadian.md) | Ab | Ab, Bbb, Cbb, Db, Ebb, Fb, Gbb, Ab | ![AFlatEpadian](ModeAFlatEpadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [923](https://ianring.com/musictheory/scales/923) | [Ionodian](ModeIonodian.md) | Db | Db, Ebb, Fb, Gbb, Ab, Bbb, Cbb, Db | ![DFlatIonodian](CircleModeDFlatIonodian.png) |
+| [871](https://ianring.com/musictheory/scales/871) | [Epadian](ModeEpadian.md) | Ab | Ab, Bbb, Cbb, Db, Ebb, Fb, Gbb, Ab | ![AFlatEpadian](CircleModeAFlatEpadian.png) |
 
 ## Chords
 

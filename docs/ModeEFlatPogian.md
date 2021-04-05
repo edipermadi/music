@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ ii⁰, iii⁰, iv⁰, v, VII
 
 ![EFlatPogian](ModeEFlatPogian.png)
 
+## Diagram
+
+![EFlatPogian](CircleModeEFlatPogian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ ii⁰, iii⁰, iv⁰, v, VII
 | [1691](https://ianring.com/musictheory/scales/1691) | [Kathian](ModeKathian.md) | B | B, C, D, Eb, F#, G#, A, B | ![BNaturalKathian](ModeBNaturalKathian.png) |
 | [2893](https://ianring.com/musictheory/scales/2893) | [Lylian](ModeLylian.md) | C | C, D, Eb, F#, G#, A, B, C | ![CNaturalLylian](ModeCNaturalLylian.png) |
 | [1747](https://ianring.com/musictheory/scales/1747) | [Epalian](ModeEpalian.md) | D | D, Eb, F#, G#, A, B, C, D | ![DNaturalEpalian](ModeDNaturalEpalian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2921](https://ianring.com/musictheory/scales/2921) | [Pogian](ModePogian.md) | Eb | Eb, F#, G#, A, B, C, D, Eb | ![EFlatPogian](CircleModeEFlatPogian.png) |
+| [877](https://ianring.com/musictheory/scales/877) | [Aeraptian](ModeAeraptian.md) | F# | F#, G#, A, B, C, D, Eb, F# | ![FSharpAeraptian](CircleModeFSharpAeraptian.png) |
+| [1243](https://ianring.com/musictheory/scales/1243) | [Epylian](ModeEpylian.md) | G# | G#, A, B, C, D, Eb, F#, G# | ![GSharpEpylian](CircleModeGSharpEpylian.png) |
+| [2669](https://ianring.com/musictheory/scales/2669) | [Gamian](ModeGamian.md) | A | A, B, C, D, Eb, F#, G#, A | ![ANaturalGamian](CircleModeANaturalGamian.png) |
+| [1691](https://ianring.com/musictheory/scales/1691) | [Kathian](ModeKathian.md) | B | B, C, D, Eb, F#, G#, A, B | ![BNaturalKathian](CircleModeBNaturalKathian.png) |
+| [2893](https://ianring.com/musictheory/scales/2893) | [Lylian](ModeLylian.md) | C | C, D, Eb, F#, G#, A, B, C | ![CNaturalLylian](CircleModeCNaturalLylian.png) |
+| [1747](https://ianring.com/musictheory/scales/1747) | [Epalian](ModeEpalian.md) | D | D, Eb, F#, G#, A, B, C, D | ![DNaturalEpalian](CircleModeDNaturalEpalian.png) |
 
 ## Chords
 

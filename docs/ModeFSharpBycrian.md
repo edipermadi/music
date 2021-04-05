@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, ii⁰, iii, iv⁰, V⁺, vi, VII
 
 ![FSharpBycrian](ModeFSharpBycrian.png)
 
+## Diagram
+
+![FSharpBycrian](CircleModeFSharpBycrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ I, ii⁰, iii, iv⁰, V⁺, vi, VII
 | [2477](https://ianring.com/musictheory/scales/2477) | [Mydian](ModeMydian.md) | A# | A#, B#, C#, D#, E#, F#, G##, A# | ![ASharpMydian](ModeASharpMydian.png) |
 | [2869](https://ianring.com/musictheory/scales/2869) | [Phrothian](ModePhrothian.md) | C# | C#, D#, E#, F#, G##, A#, B#, C# | ![CSharpPhrothian](ModeCSharpPhrothian.png) |
 | [1741](https://ianring.com/musictheory/scales/1741) | [Katycrian](ModeKatycrian.md) | D# | D#, E#, F#, G##, A#, B#, C#, D# | ![DSharpKatycrian](ModeDSharpKatycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2777](https://ianring.com/musictheory/scales/2777) | [Bycrian](ModeBycrian.md) | F# | F#, G##, A#, B#, C#, D#, E#, F# | ![FSharpBycrian](CircleModeFSharpBycrian.png) |
+| [2477](https://ianring.com/musictheory/scales/2477) | [Mydian](ModeMydian.md) | A# | A#, B#, C#, D#, E#, F#, G##, A# | ![ASharpMydian](CircleModeASharpMydian.png) |
+| [2869](https://ianring.com/musictheory/scales/2869) | [Phrothian](ModePhrothian.md) | C# | C#, D#, E#, F#, G##, A#, B#, C# | ![CSharpPhrothian](CircleModeCSharpPhrothian.png) |
+| [1741](https://ianring.com/musictheory/scales/1741) | [Katycrian](ModeKatycrian.md) | D# | D#, E#, F#, G##, A#, B#, C#, D# | ![DSharpKatycrian](CircleModeDSharpKatycrian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, ii, III⁺, IV⁺, VI
 
 ![ANaturalIonocrian](ModeANaturalIonocrian.png)
 
+## Diagram
+
+![ANaturalIonocrian](CircleModeANaturalIonocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i, ii, III⁺, IV⁺, VI
 | [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | E | E, F, G#, A, Bb, C, Db, E | ![ENaturalRalian](ModeENaturalRalian.png) |
 | [2489](https://ianring.com/musictheory/scales/2489) | [Syrian](ModeSyrian.md) | F | F, G#, A, Bb, C, Db, E, F | ![FNaturalSyrian](ModeFNaturalSyrian.png) |
 | [823](https://ianring.com/musictheory/scales/823) | [Stodian](ModeStodian.md) | G# | G#, A, Bb, C, Db, E, F, G# | ![GSharpStodian](ModeGSharpStodian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2459](https://ianring.com/musictheory/scales/2459) | [Ionocrian](ModeIonocrian.md) | A | A, Bb, C, Db, E, F, G#, A | ![ANaturalIonocrian](CircleModeANaturalIonocrian.png) |
+| [3277](https://ianring.com/musictheory/scales/3277) | [Zycrian](ModeZycrian.md) | Bb | Bb, C, Db, E, F, G#, A, Bb | ![BFlatZycrian](CircleModeBFlatZycrian.png) |
+| [1843](https://ianring.com/musictheory/scales/1843) | [Ionygian](ModeIonygian.md) | C | C, Db, E, F, G#, A, Bb, C | ![CNaturalIonygian](CircleModeCNaturalIonygian.png) |
+| [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeTholian.md) | Db | Db, E, F, G#, A, Bb, C, Db | ![DFlatTholian](CircleModeDFlatTholian.png) |
+| [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | E | E, F, G#, A, Bb, C, Db, E | ![ENaturalRalian](CircleModeENaturalRalian.png) |
+| [2489](https://ianring.com/musictheory/scales/2489) | [Syrian](ModeSyrian.md) | F | F, G#, A, Bb, C, Db, E, F | ![FNaturalSyrian](CircleModeFNaturalSyrian.png) |
+| [823](https://ianring.com/musictheory/scales/823) | [Stodian](ModeStodian.md) | G# | G#, A, Bb, C, Db, E, F, G# | ![GSharpStodian](CircleModeGSharpStodian.png) |
 
 ## Chords
 

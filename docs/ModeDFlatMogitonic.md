@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -50,6 +50,10 @@ Db
 
 ![DFlatMogitonic](ModeDFlatMogitonic.png)
 
+## Diagram
+
+![DFlatMogitonic](CircleModeDFlatMogitonic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,15 @@ Db
 | [837](https://ianring.com/musictheory/scales/837) | [Epaditonic](ModeEpaditonic.md) | F | F, G, B, C#, D, F | ![FNaturalEpaditonic](ModeFNaturalEpaditonic.png) |
 | [1233](https://ianring.com/musictheory/scales/1233) | [Ionoditonic](ModeIonoditonic.md) | G | G, B, C#, D, F, G | ![GNaturalIonoditonic](ModeGNaturalIonoditonic.png) |
 | [333](https://ianring.com/musictheory/scales/333) | [Bogitonic](ModeBogitonic.md) | B | B, C#, D, F, G, B | ![BNaturalBogitonic](ModeBNaturalBogitonic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1107](https://ianring.com/musictheory/scales/1107) | [Mogitonic](ModeMogitonic.md) | Db | Db, D, F, G, B, Db | ![DFlatMogitonic](CircleModeDFlatMogitonic.png) |
+| [2601](https://ianring.com/musictheory/scales/2601) | [Docritonic](ModeDocritonic.md) | D | D, F, G, B, C#, D | ![DNaturalDocritonic](CircleModeDNaturalDocritonic.png) |
+| [837](https://ianring.com/musictheory/scales/837) | [Epaditonic](ModeEpaditonic.md) | F | F, G, B, C#, D, F | ![FNaturalEpaditonic](CircleModeFNaturalEpaditonic.png) |
+| [1233](https://ianring.com/musictheory/scales/1233) | [Ionoditonic](ModeIonoditonic.md) | G | G, B, C#, D, F, G | ![GNaturalIonoditonic](CircleModeGNaturalIonoditonic.png) |
+| [333](https://ianring.com/musictheory/scales/333) | [Bogitonic](ModeBogitonic.md) | B | B, C#, D, F, G, B | ![BNaturalBogitonic](CircleModeBNaturalBogitonic.png) |
 
 ## Chords
 

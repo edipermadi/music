@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iii⁰, v, VII⁺
 
 ![BNaturalEpacrian](ModeBNaturalEpacrian.png)
 
+## Diagram
+
+![BNaturalEpacrian](CircleModeBNaturalEpacrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ iii⁰, v, VII⁺
 | [2985](https://ianring.com/musictheory/scales/2985) | [Epacrian](ModeEpacrian.md) | B | B, C##, D##, E##, F##, G#, A#, B | ![BNaturalEpacrian](ModeBNaturalEpacrian.png) |
 | [3405](https://ianring.com/musictheory/scales/3405) | [Stynian](ModeStynian.md) | G# | G#, A#, B, C##, D##, E##, F##, G# | ![GSharpStynian](ModeGSharpStynian.png) |
 | [1875](https://ianring.com/musictheory/scales/1875) | [Epyphian](ModeEpyphian.md) | A# | A#, B, C##, D##, E##, F##, G#, A# | ![ASharpEpyphian](ModeASharpEpyphian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2985](https://ianring.com/musictheory/scales/2985) | [Epacrian](ModeEpacrian.md) | B | B, C##, D##, E##, F##, G#, A#, B | ![BNaturalEpacrian](CircleModeBNaturalEpacrian.png) |
+| [3405](https://ianring.com/musictheory/scales/3405) | [Stynian](ModeStynian.md) | G# | G#, A#, B, C##, D##, E##, F##, G# | ![GSharpStynian](CircleModeGSharpStynian.png) |
+| [1875](https://ianring.com/musictheory/scales/1875) | [Epyphian](ModeEpyphian.md) | A# | A#, B, C##, D##, E##, F##, G#, A# | ![ASharpEpyphian](CircleModeASharpEpyphian.png) |
 
 ## Chords
 

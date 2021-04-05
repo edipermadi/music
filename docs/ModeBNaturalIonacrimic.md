@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ III
 
 ![BNaturalIonacrimic](ModeBNaturalIonacrimic.png)
 
+## Diagram
+
+![BNaturalIonacrimic](CircleModeBNaturalIonacrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1833](https://ianring.com/musictheory/scales/1833) | [Ionacrimic](ModeIonacrimic.md) | B | B, C##, D##, E###, F###, G##, B | ![BNaturalIonacrimic](ModeBNaturalIonacrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1833](https://ianring.com/musictheory/scales/1833) | [Ionacrimic](ModeIonacrimic.md) | B | B, C##, D##, E###, F###, G##, B | ![BNaturalIonacrimic](CircleModeBNaturalIonacrimic.png) |
 
 ## Chords
 

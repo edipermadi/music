@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ iii⁰
 
 ![ASharpPhrygimic](ModeASharpPhrygimic.png)
 
+## Diagram
+
+![ASharpPhrygimic](CircleModeASharpPhrygimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1861](https://ianring.com/musictheory/scales/1861) | [Phrygimic](ModePhrygimic.md) | A# | A#, B#, D##, E##, F##, G#, A# | ![ASharpPhrygimic](ModeASharpPhrygimic.png) |
 | [3349](https://ianring.com/musictheory/scales/3349) | [Aeolocrimic](ModeAeolocrimic.md) | G# | G#, A#, B#, D##, E##, F##, G# | ![GSharpAeolocrimic](ModeGSharpAeolocrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1861](https://ianring.com/musictheory/scales/1861) | [Phrygimic](ModePhrygimic.md) | A# | A#, B#, D##, E##, F##, G#, A# | ![ASharpPhrygimic](CircleModeASharpPhrygimic.png) |
+| [3349](https://ianring.com/musictheory/scales/3349) | [Aeolocrimic](ModeAeolocrimic.md) | G# | G#, A#, B#, D##, E##, F##, G# | ![GSharpAeolocrimic](CircleModeGSharpAeolocrimic.png) |
 
 ## Chords
 

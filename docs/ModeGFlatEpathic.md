@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -49,6 +49,10 @@ Gb
 
 ![GFlatEpathic](ModeGFlatEpathic.png)
 
+## Diagram
+
+![GFlatEpathic](CircleModeGFlatEpathic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -57,6 +61,14 @@ Gb
 | [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | Bb | Bb, Db, Eb, Gb, Bb | ![BFlatMynic](ModeBFlatMynic.png) |
 | [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | Db | Db, Eb, Gb, Bb, Db | ![DFlatRothic](ModeDFlatRothic.png) |
 | [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | Eb | Eb, Gb, Bb, Db, Eb | ![EFlatEporic](ModeEFlatEporic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | Gb | Gb, Bb, Db, Eb, Gb | ![GFlatEpathic](CircleModeGFlatEpathic.png) |
+| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | Bb | Bb, Db, Eb, Gb, Bb | ![BFlatMynic](CircleModeBFlatMynic.png) |
+| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | Db | Db, Eb, Gb, Bb, Db | ![DFlatRothic](CircleModeDFlatRothic.png) |
+| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | Eb | Eb, Gb, Bb, Db, Eb | ![EFlatEporic](CircleModeEFlatEporic.png) |
 
 ## Chords
 

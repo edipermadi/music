@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ F#
 
 ![FSharpBylian](ModeFSharpBylian.png)
 
+## Diagram
+
+![FSharpBylian](CircleModeFSharpBylian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ F#
 | [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | F# | F#, G, A, B#, C##, D##, E#, F# | ![FSharpBylian](ModeFSharpBylian.png) |
 | [3749](https://ianring.com/musictheory/scales/3749) | [Zothian](ModeZothian.md) | G | G, A, B#, C##, D##, E#, F#, G | ![GNaturalZothian](ModeGNaturalZothian.png) |
 | [1961](https://ianring.com/musictheory/scales/1961) | [Soptian](ModeSoptian.md) | A | A, B#, C##, D##, E#, F#, G, A | ![ANaturalSoptian](ModeANaturalSoptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | F# | F#, G, A, B#, C##, D##, E#, F# | ![FSharpBylian](CircleModeFSharpBylian.png) |
+| [3749](https://ianring.com/musictheory/scales/3749) | [Zothian](ModeZothian.md) | G | G, A, B#, C##, D##, E#, F#, G | ![GNaturalZothian](CircleModeGNaturalZothian.png) |
+| [1961](https://ianring.com/musictheory/scales/1961) | [Soptian](ModeSoptian.md) | A | A, B#, C##, D##, E#, F#, G, A | ![ANaturalSoptian](CircleModeANaturalSoptian.png) |
 
 ## Chords
 

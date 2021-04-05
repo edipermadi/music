@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺, V
 
 ![DNaturalAeolaptian](ModeDNaturalAeolaptian.png)
 
+## Diagram
+
+![DNaturalAeolaptian](CircleModeDNaturalAeolaptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, III⁺, V
 | [3529](https://ianring.com/musictheory/scales/3529) | [Stalian](ModeStalian.md) | Gb | Gb, A, B#, C#, D, E, F, Gb | ![GFlatStalian](ModeGFlatStalian.png) |
 | [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | A | A, B#, C#, D, E, F, Gb, A | ![ANaturalStoptian](ModeANaturalStoptian.png) |
 | [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | C# | C#, D, E, F, Gb, A, B#, C# | ![CSharpKataptian](ModeCSharpKataptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3229](https://ianring.com/musictheory/scales/3229) | [Aeolaptian](ModeAeolaptian.md) | D | D, E, F, Gb, A, B#, C#, D | ![DNaturalAeolaptian](CircleModeDNaturalAeolaptian.png) |
+| [1831](https://ianring.com/musictheory/scales/1831) | [Pothian](ModePothian.md) | E | E, F, Gb, A, B#, C#, D, E | ![ENaturalPothian](CircleModeENaturalPothian.png) |
+| [2963](https://ianring.com/musictheory/scales/2963) | [Bygian](ModeBygian.md) | F | F, Gb, A, B#, C#, D, E, F | ![FNaturalBygian](CircleModeFNaturalBygian.png) |
+| [3529](https://ianring.com/musictheory/scales/3529) | [Stalian](ModeStalian.md) | Gb | Gb, A, B#, C#, D, E, F, Gb | ![GFlatStalian](CircleModeGFlatStalian.png) |
+| [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | A | A, B#, C#, D, E, F, Gb, A | ![ANaturalStoptian](CircleModeANaturalStoptian.png) |
+| [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | C# | C#, D, E, F, Gb, A, B#, C# | ![CSharpKataptian](CircleModeCSharpKataptian.png) |
 
 ## Chords
 

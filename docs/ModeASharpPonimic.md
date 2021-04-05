@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ A#
 
 ![ASharpPonimic](ModeASharpPonimic.png)
 
+## Diagram
+
+![ASharpPonimic](CircleModeASharpPonimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ A#
 | [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModePonimic.md) | A# | A#, B###, E##, F##, G#, A, A# | ![ASharpPonimic](ModeASharpPonimic.png) |
 | [3143](https://ianring.com/musictheory/scales/3143) | [Polimic](ModePolimic.md) | G# | G#, A, Bb, C##, E##, F##, G# | ![GSharpPolimic](ModeGSharpPolimic.png) |
 | [3619](https://ianring.com/musictheory/scales/3619) | [Thanimic](ModeThanimic.md) | A | A, Bb, C##, E##, F##, G#, A | ![ANaturalThanimic](ModeANaturalThanimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModePonimic.md) | A# | A#, B###, E##, F##, G#, A, A# | ![ASharpPonimic](CircleModeASharpPonimic.png) |
+| [3143](https://ianring.com/musictheory/scales/3143) | [Polimic](ModePolimic.md) | G# | G#, A, Bb, C##, E##, F##, G# | ![GSharpPolimic](CircleModeGSharpPolimic.png) |
+| [3619](https://ianring.com/musictheory/scales/3619) | [Thanimic](ModeThanimic.md) | A | A, Bb, C##, E##, F##, G#, A | ![ANaturalThanimic](CircleModeANaturalThanimic.png) |
 
 ## Chords
 

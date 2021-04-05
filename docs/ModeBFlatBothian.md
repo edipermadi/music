@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ ii, IV⁺
 
 ![BFlatBothian](ModeBFlatBothian.png)
 
+## Diagram
+
+![BFlatBothian](CircleModeBFlatBothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ ii, IV⁺
 | [755](https://ianring.com/musictheory/scales/755) | [Phrythian](ModePhrythian.md) | F | F, Gb, A, Bb, Cb, Dbb, Ebb, F | ![FNaturalPhrythian](ModeFNaturalPhrythian.png) |
 | [2425](https://ianring.com/musictheory/scales/2425) | [Rorian](ModeRorian.md) | Gb | Gb, A, Bb, Cb, Dbb, Ebb, F, Gb | ![GFlatRorian](ModeGFlatRorian.png) |
 | [815](https://ianring.com/musictheory/scales/815) | [Bolian](ModeBolian.md) | A | A, Bb, Cb, Dbb, Ebb, F, Gb, A | ![ANaturalBolian](ModeANaturalBolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2455](https://ianring.com/musictheory/scales/2455) | [Bothian](ModeBothian.md) | Bb | Bb, Cb, Dbb, Ebb, F, Gb, A, Bb | ![BFlatBothian](CircleModeBFlatBothian.png) |
+| [755](https://ianring.com/musictheory/scales/755) | [Phrythian](ModePhrythian.md) | F | F, Gb, A, Bb, Cb, Dbb, Ebb, F | ![FNaturalPhrythian](CircleModeFNaturalPhrythian.png) |
+| [2425](https://ianring.com/musictheory/scales/2425) | [Rorian](ModeRorian.md) | Gb | Gb, A, Bb, Cb, Dbb, Ebb, F, Gb | ![GFlatRorian](CircleModeGFlatRorian.png) |
+| [815](https://ianring.com/musictheory/scales/815) | [Bolian](ModeBolian.md) | A | A, Bb, Cb, Dbb, Ebb, F, Gb, A | ![ANaturalBolian](CircleModeANaturalBolian.png) |
 
 ## Chords
 

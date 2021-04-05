@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -53,6 +53,10 @@ I, vii
 
 ![ANaturalStacryllic](ModeANaturalStacryllic.png)
 
+## Diagram
+
+![ANaturalStacryllic](CircleModeANaturalStacryllic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -65,6 +69,18 @@ I, vii
 | [3479](https://ianring.com/musictheory/scales/3479) | [Rothyllic](ModeRothyllic.md) | F | F, F#, G, A, C, C#, D#, E, F | ![FNaturalRothyllic](ModeFNaturalRothyllic.png) |
 | [3787](https://ianring.com/musictheory/scales/3787) | [Kagyllic](ModeKagyllic.md) | F# | F#, G, A, C, C#, D#, E, F, F# | ![FSharpKagyllic](ModeFSharpKagyllic.png) |
 | [3941](https://ianring.com/musictheory/scales/3941) | [Stathyllic](ModeStathyllic.md) | G | G, A, C, C#, D#, E, F, F#, G | ![GNaturalStathyllic](ModeGNaturalStathyllic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2009](https://ianring.com/musictheory/scales/2009) | [Stacryllic](ModeStacryllic.md) | A | A, C, C#, D#, E, F, F#, G, A | ![ANaturalStacryllic](CircleModeANaturalStacryllic.png) |
+| [763](https://ianring.com/musictheory/scales/763) | [Doryllic](ModeDoryllic.md) | C | C, C#, D#, E, F, F#, G, A, C | ![CNaturalDoryllic](CircleModeCNaturalDoryllic.png) |
+| [2429](https://ianring.com/musictheory/scales/2429) | [Kadyllic](ModeKadyllic.md) | C# | C#, D#, E, F, F#, G, A, C, C# | ![CSharpKadyllic](CircleModeCSharpKadyllic.png) |
+| [1631](https://ianring.com/musictheory/scales/1631) | [Rynyllic](ModeRynyllic.md) | D# | D#, E, F, F#, G, A, C, C#, D# | ![DSharpRynyllic](CircleModeDSharpRynyllic.png) |
+| [2863](https://ianring.com/musictheory/scales/2863) | [Aerogyllic](ModeAerogyllic.md) | E | E, F, F#, G, A, C, C#, D#, E | ![ENaturalAerogyllic](CircleModeENaturalAerogyllic.png) |
+| [3479](https://ianring.com/musictheory/scales/3479) | [Rothyllic](ModeRothyllic.md) | F | F, F#, G, A, C, C#, D#, E, F | ![FNaturalRothyllic](CircleModeFNaturalRothyllic.png) |
+| [3787](https://ianring.com/musictheory/scales/3787) | [Kagyllic](ModeKagyllic.md) | F# | F#, G, A, C, C#, D#, E, F, F# | ![FSharpKagyllic](CircleModeFSharpKagyllic.png) |
+| [3941](https://ianring.com/musictheory/scales/3941) | [Stathyllic](ModeStathyllic.md) | G | G, A, C, C#, D#, E, F, F#, G | ![GNaturalStathyllic](CircleModeGNaturalStathyllic.png) |
 
 ## Chords
 

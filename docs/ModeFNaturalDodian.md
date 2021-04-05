@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ ii⁰
 
 ![FNaturalDodian](ModeFNaturalDodian.png)
 
+## Diagram
+
+![FNaturalDodian](CircleModeFNaturalDodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [471](https://ianring.com/musictheory/scales/471) | [Dodian](ModeDodian.md) | F | F, Gb, Abb, Bbb, Cb, Dbb, Ebbb, F | ![FNaturalDodian](ModeFNaturalDodian.png) |
 | [2283](https://ianring.com/musictheory/scales/2283) | [Aeolyptian](ModeAeolyptian.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Ebbb, F, Gb | ![GFlatAeolyptian](ModeGFlatAeolyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [471](https://ianring.com/musictheory/scales/471) | [Dodian](ModeDodian.md) | F | F, Gb, Abb, Bbb, Cb, Dbb, Ebbb, F | ![FNaturalDodian](CircleModeFNaturalDodian.png) |
+| [2283](https://ianring.com/musictheory/scales/2283) | [Aeolyptian](ModeAeolyptian.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Ebbb, F, Gb | ![GFlatAeolyptian](CircleModeGFlatAeolyptian.png) |
 
 ## Chords
 

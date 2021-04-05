@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ II
 
 ![BNaturalRythimic](ModeBNaturalRythimic.png)
 
+## Diagram
+
+![BNaturalRythimic](CircleModeBNaturalRythimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ II
 | [2443](https://ianring.com/musictheory/scales/2443) | [Panimic](ModePanimic.md) | E | E, F, G, A##, B#, C###, E | ![ENaturalPanimic](ModeENaturalPanimic.png) |
 | [3269](https://ianring.com/musictheory/scales/3269) | [Lodimic](ModeLodimic.md) | F | F, G, A##, B#, C###, D##, F | ![FNaturalLodimic](ModeFNaturalLodimic.png) |
 | [1841](https://ianring.com/musictheory/scales/1841) | [Thogimic](ModeThogimic.md) | G | G, A##, B#, C###, D##, E#, G | ![GNaturalThogimic](ModeGNaturalThogimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [371](https://ianring.com/musictheory/scales/371) | [Rythimic](ModeRythimic.md) | B | B, C, D#, E, F, G, B | ![BNaturalRythimic](CircleModeBNaturalRythimic.png) |
+| [2233](https://ianring.com/musictheory/scales/2233) | [Donimic](ModeDonimic.md) | C | C, D#, E, F, G, A##, C | ![CNaturalDonimic](CircleModeCNaturalDonimic.png) |
+| [791](https://ianring.com/musictheory/scales/791) | [Aeoloptimic](ModeAeoloptimic.md) | D# | D#, E, F, G, A##, B#, D# | ![DSharpAeoloptimic](CircleModeDSharpAeoloptimic.png) |
+| [2443](https://ianring.com/musictheory/scales/2443) | [Panimic](ModePanimic.md) | E | E, F, G, A##, B#, C###, E | ![ENaturalPanimic](CircleModeENaturalPanimic.png) |
+| [3269](https://ianring.com/musictheory/scales/3269) | [Lodimic](ModeLodimic.md) | F | F, G, A##, B#, C###, D##, F | ![FNaturalLodimic](CircleModeFNaturalLodimic.png) |
+| [1841](https://ianring.com/musictheory/scales/1841) | [Thogimic](ModeThogimic.md) | G | G, A##, B#, C###, D##, E#, G | ![GNaturalThogimic](CircleModeGNaturalThogimic.png) |
 
 ## Chords
 

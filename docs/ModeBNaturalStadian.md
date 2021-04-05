@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, iii, V, vii
 
 ![BNaturalStadian](ModeBNaturalStadian.png)
 
+## Diagram
+
+![BNaturalStadian](CircleModeBNaturalStadian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i⁰, iii, V, vii
 | [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeGarian.md) | F | F, Gb, A, B, C, D, E, F | ![FNaturalGarian](ModeFNaturalGarian.png) |
 | [3433](https://ianring.com/musictheory/scales/3433) | [Thonian](ModeThonian.md) | Gb | Gb, A, B, C, D, E, F, Gb | ![GFlatThonian](ModeGFlatThonian.png) |
 | [941](https://ianring.com/musictheory/scales/941) | [Phrorian](ModePhrorian.md) | A | A, B, C, D, E, F, Gb, A | ![ANaturalPhrorian](ModeANaturalPhrorian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1259](https://ianring.com/musictheory/scales/1259) | [Stadian](ModeStadian.md) | B | B, C, D, E, F, Gb, A, B | ![BNaturalStadian](CircleModeBNaturalStadian.png) |
+| [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeThodian.md) | C | C, D, E, F, Gb, A, B, C | ![CNaturalThodian](CircleModeCNaturalThodian.png) |
+| [1693](https://ianring.com/musictheory/scales/1693) | [Dogian](ModeDogian.md) | D | D, E, F, Gb, A, B, C, D | ![DNaturalDogian](CircleModeDNaturalDogian.png) |
+| [1447](https://ianring.com/musictheory/scales/1447) | [Mixopyrian](ModeMixopyrian.md) | E | E, F, Gb, A, B, C, D, E | ![ENaturalMixopyrian](CircleModeENaturalMixopyrian.png) |
+| [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeGarian.md) | F | F, Gb, A, B, C, D, E, F | ![FNaturalGarian](CircleModeFNaturalGarian.png) |
+| [3433](https://ianring.com/musictheory/scales/3433) | [Thonian](ModeThonian.md) | Gb | Gb, A, B, C, D, E, F, Gb | ![GFlatThonian](CircleModeGFlatThonian.png) |
+| [941](https://ianring.com/musictheory/scales/941) | [Phrorian](ModePhrorian.md) | A | A, B, C, D, E, F, Gb, A | ![ANaturalPhrorian](CircleModeANaturalPhrorian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺, IV⁺, V, VI
 
 ![GSharpSagian](ModeGSharpSagian.png)
 
+## Diagram
+
+![GSharpSagian](CircleModeGSharpSagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, III⁺, IV⁺, V, VI
 | [3481](https://ianring.com/musictheory/scales/3481) | [Katathian](ModeKatathian.md) | C | C, D#, E, F##, G#, A#, B, C | ![CNaturalKatathian](ModeCNaturalKatathian.png) |
 | [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | D# | D#, E, F##, G#, A#, B, C, D# | ![DSharpModian](ModeDSharpModian.png) |
 | [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | E | E, F##, G#, A#, B, C, D#, E | ![ENaturalBarian](ModeENaturalBarian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | G# | G#, A#, B, C, D#, E, F##, G# | ![GSharpSagian](CircleModeGSharpSagian.png) |
+| [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | A# | A#, B, C, D#, E, F##, G#, A# | ![ASharpAeolothian](CircleModeASharpAeolothian.png) |
+| [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | B | B, C, D#, E, F##, G#, A#, B | ![BNaturalSocrian](CircleModeBNaturalSocrian.png) |
+| [3481](https://ianring.com/musictheory/scales/3481) | [Katathian](ModeKatathian.md) | C | C, D#, E, F##, G#, A#, B, C | ![CNaturalKatathian](CircleModeCNaturalKatathian.png) |
+| [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | D# | D#, E, F##, G#, A#, B, C, D# | ![DSharpModian](CircleModeDSharpModian.png) |
+| [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | E | E, F##, G#, A#, B, C, D#, E | ![ENaturalBarian](CircleModeENaturalBarian.png) |
 
 ## Chords
 

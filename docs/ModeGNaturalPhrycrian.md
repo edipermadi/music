@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II⁺, IV, vi⁰
 
 ![GNaturalPhrycrian](ModeGNaturalPhrycrian.png)
 
+## Diagram
+
+![GNaturalPhrycrian](CircleModeGNaturalPhrycrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ II⁺, IV, vi⁰
 | [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeAerothian.md) | D# | D#, E, F#, G, Ab, Bb, C, D# | ![DSharpAerothian](ModeDSharpAerothian.png) |
 | [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | E | E, F#, G, Ab, Bb, C, D#, E | ![ENaturalStagian](ModeENaturalStagian.png) |
 | [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | F# | F#, G, Ab, Bb, C, D#, E, F# | ![FSharpLothian](ModeFSharpLothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | G | G, Ab, Bb, C, D#, E, F#, G | ![GNaturalPhrycrian](CircleModeGNaturalPhrycrian.png) |
+| [3477](https://ianring.com/musictheory/scales/3477) | [Kyptian](ModeKyptian.md) | Ab | Ab, Bb, C, D#, E, F#, G, Ab | ![AFlatKyptian](CircleModeAFlatKyptian.png) |
+| [1893](https://ianring.com/musictheory/scales/1893) | [Ionylian](ModeIonylian.md) | Bb | Bb, C, D#, E, F#, G, Ab, Bb | ![BFlatIonylian](CircleModeBFlatIonylian.png) |
+| [1497](https://ianring.com/musictheory/scales/1497) | [Ionanian](ModeIonanian.md) | C | C, D#, E, F#, G, Ab, Bb, C | ![CNaturalIonanian](CircleModeCNaturalIonanian.png) |
+| [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeAerothian.md) | D# | D#, E, F#, G, Ab, Bb, C, D# | ![DSharpAerothian](CircleModeDSharpAerothian.png) |
+| [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | E | E, F#, G, Ab, Bb, C, D#, E | ![ENaturalStagian](CircleModeENaturalStagian.png) |
+| [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | F# | F#, G, Ab, Bb, C, D#, E, F# | ![FSharpLothian](CircleModeFSharpLothian.png) |
 
 ## Chords
 

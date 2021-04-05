@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ G
 
 ![GNaturalRydian](ModeGNaturalRydian.png)
 
+## Diagram
+
+![GNaturalRydian](CircleModeGNaturalRydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ G
 | [3909](https://ianring.com/musictheory/scales/3909) | [Rydian](ModeRydian.md) | G | G, A, B##, C###, D##, E#, F#, G | ![GNaturalRydian](ModeGNaturalRydian.png) |
 | [2001](https://ianring.com/musictheory/scales/2001) | [Gydian](ModeGydian.md) | A | A, B##, C###, D##, E#, F#, G, A | ![ANaturalGydian](ModeANaturalGydian.png) |
 | [3723](https://ianring.com/musictheory/scales/3723) | [Myptian](ModeMyptian.md) | F# | F#, G, A, B##, C###, D##, E#, F# | ![FSharpMyptian](ModeFSharpMyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3909](https://ianring.com/musictheory/scales/3909) | [Rydian](ModeRydian.md) | G | G, A, B##, C###, D##, E#, F#, G | ![GNaturalRydian](CircleModeGNaturalRydian.png) |
+| [2001](https://ianring.com/musictheory/scales/2001) | [Gydian](ModeGydian.md) | A | A, B##, C###, D##, E#, F#, G, A | ![ANaturalGydian](CircleModeANaturalGydian.png) |
+| [3723](https://ianring.com/musictheory/scales/3723) | [Myptian](ModeMyptian.md) | F# | F#, G, A, B##, C###, D##, E#, F# | ![FSharpMyptian](CircleModeFSharpMyptian.png) |
 
 ## Chords
 

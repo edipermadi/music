@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i, vi
 
 ![FNaturalSarimic](ModeFNaturalSarimic.png)
 
+## Diagram
+
+![FNaturalSarimic](CircleModeFNaturalSarimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i, vi
 | [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | Bb | Bb, C, D#, E#, F#, G#, Bb | ![BFlatByptimic](ModeBFlatByptimic.png) |
 | [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | C | C, D#, E#, F#, G#, A#, C | ![CNaturalPhracrimic](ModeCNaturalPhracrimic.png) |
 | [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeAerathimic.md) | D# | D#, E#, F#, G#, A#, B#, D# | ![DSharpAerathimic](ModeDSharpAerathimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1195](https://ianring.com/musictheory/scales/1195) | [Sarimic](ModeSarimic.md) | F | F, Gb, Ab, Bb, C, D#, F | ![FNaturalSarimic](CircleModeFNaturalSarimic.png) |
+| [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | Gb | Gb, Ab, Bb, C, D#, E#, Gb | ![GFlatZoptimic](CircleModeGFlatZoptimic.png) |
+| [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | Ab | Ab, Bb, C, D#, E#, F#, Ab | ![AFlatZeracrimic](CircleModeAFlatZeracrimic.png) |
+| [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | Bb | Bb, C, D#, E#, F#, G#, Bb | ![BFlatByptimic](CircleModeBFlatByptimic.png) |
+| [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | C | C, D#, E#, F#, G#, A#, C | ![CNaturalPhracrimic](CircleModeCNaturalPhracrimic.png) |
+| [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeAerathimic.md) | D# | D#, E#, F#, G#, A#, B#, D# | ![DSharpAerathimic](CircleModeDSharpAerathimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iii⁰
 
 ![FSharpAerodian](ModeFSharpAerodian.png)
 
+## Diagram
+
+![FSharpAerodian](CircleModeFSharpAerodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ iii⁰
 | [367](https://ianring.com/musictheory/scales/367) | [Aerodian](ModeAerodian.md) | F# | F#, G, Ab, Bbb, Cb, Dbb, Ebb, F# | ![FSharpAerodian](ModeFSharpAerodian.png) |
 | [2231](https://ianring.com/musictheory/scales/2231) | [Macrian](ModeMacrian.md) | G | G, Ab, Bbb, Cb, Dbb, Ebb, F#, G | ![GNaturalMacrian](ModeGNaturalMacrian.png) |
 | [3163](https://ianring.com/musictheory/scales/3163) | [Rogian](ModeRogian.md) | Ab | Ab, Bbb, Cb, Dbb, Ebb, F#, G, Ab | ![AFlatRogian](ModeAFlatRogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [367](https://ianring.com/musictheory/scales/367) | [Aerodian](ModeAerodian.md) | F# | F#, G, Ab, Bbb, Cb, Dbb, Ebb, F# | ![FSharpAerodian](CircleModeFSharpAerodian.png) |
+| [2231](https://ianring.com/musictheory/scales/2231) | [Macrian](ModeMacrian.md) | G | G, Ab, Bbb, Cb, Dbb, Ebb, F#, G | ![GNaturalMacrian](CircleModeGNaturalMacrian.png) |
+| [3163](https://ianring.com/musictheory/scales/3163) | [Rogian](ModeRogian.md) | Ab | Ab, Bbb, Cb, Dbb, Ebb, F#, G, Ab | ![AFlatRogian](CircleModeAFlatRogian.png) |
 
 ## Chords
 

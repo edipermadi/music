@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, iii⁰, v, VII⁺
 
 ![BNaturalLynian](ModeBNaturalLynian.png)
 
+## Diagram
+
+![BNaturalLynian](CircleModeBNaturalLynian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i⁰, iii⁰, v, VII⁺
 | [2763](https://ianring.com/musictheory/scales/2763) | [Manian](ModeManian.md) | F | F, Gb, Ab, B, C, D, E, F | ![FNaturalManian](ModeFNaturalManian.png) |
 | [3429](https://ianring.com/musictheory/scales/3429) | [Marian](ModeMarian.md) | Gb | Gb, Ab, B, C, D, E, F, Gb | ![GFlatMarian](ModeGFlatMarian.png) |
 | [1881](https://ianring.com/musictheory/scales/1881) | [Korian](ModeKorian.md) | Ab | Ab, B, C, D, E, F, Gb, Ab | ![AFlatKorian](ModeAFlatKorian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [747](https://ianring.com/musictheory/scales/747) | [Lynian](ModeLynian.md) | B | B, C, D, E, F, Gb, Ab, B | ![BNaturalLynian](CircleModeBNaturalLynian.png) |
+| [2421](https://ianring.com/musictheory/scales/2421) | [Malian](ModeMalian.md) | C | C, D, E, F, Gb, Ab, B, C | ![CNaturalMalian](CircleModeCNaturalMalian.png) |
+| [1629](https://ianring.com/musictheory/scales/1629) | [Synian](ModeSynian.md) | D | D, E, F, Gb, Ab, B, C, D | ![DNaturalSynian](CircleModeDNaturalSynian.png) |
+| [1431](https://ianring.com/musictheory/scales/1431) | [Phragian](ModePhragian.md) | E | E, F, Gb, Ab, B, C, D, E | ![ENaturalPhragian](CircleModeENaturalPhragian.png) |
+| [2763](https://ianring.com/musictheory/scales/2763) | [Manian](ModeManian.md) | F | F, Gb, Ab, B, C, D, E, F | ![FNaturalManian](CircleModeFNaturalManian.png) |
+| [3429](https://ianring.com/musictheory/scales/3429) | [Marian](ModeMarian.md) | Gb | Gb, Ab, B, C, D, E, F, Gb | ![GFlatMarian](CircleModeGFlatMarian.png) |
+| [1881](https://ianring.com/musictheory/scales/1881) | [Korian](ModeKorian.md) | Ab | Ab, B, C, D, E, F, Gb, Ab | ![AFlatKorian](CircleModeAFlatKorian.png) |
 
 ## Chords
 

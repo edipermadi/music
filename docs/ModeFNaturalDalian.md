@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ ii, IV, vi⁰, VII
 
 ![FNaturalDalian](ModeFNaturalDalian.png)
 
+## Diagram
+
+![FNaturalDalian](CircleModeFNaturalDalian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ ii, IV, vi⁰, VII
 | [727](https://ianring.com/musictheory/scales/727) | [Phradian](ModePhradian.md) | C# | C#, D, Eb, F, G, Ab, Bb, C# | ![CSharpPhradian](ModeCSharpPhradian.png) |
 | [2411](https://ianring.com/musictheory/scales/2411) | [Aeolorian](ModeAeolorian.md) | D | D, Eb, F, G, Ab, Bb, C#, D | ![DNaturalAeolorian](ModeDNaturalAeolorian.png) |
 | [3253](https://ianring.com/musictheory/scales/3253) | [Gonian](ModeGonian.md) | Eb | Eb, F, G, Ab, Bb, C#, D, Eb | ![EFlatGonian](ModeEFlatGonian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1837](https://ianring.com/musictheory/scales/1837) | [Dalian](ModeDalian.md) | F | F, G, Ab, Bb, C#, D, Eb, F | ![FNaturalDalian](CircleModeFNaturalDalian.png) |
+| [1483](https://ianring.com/musictheory/scales/1483) | [Dygian](ModeDygian.md) | G | G, Ab, Bb, C#, D, Eb, F, G | ![GNaturalDygian](CircleModeGNaturalDygian.png) |
+| [2789](https://ianring.com/musictheory/scales/2789) | [Zolian](ModeZolian.md) | Ab | Ab, Bb, C#, D, Eb, F, G, Ab | ![AFlatZolian](CircleModeAFlatZolian.png) |
+| [1721](https://ianring.com/musictheory/scales/1721) | [Ionycrian](ModeIonycrian.md) | Bb | Bb, C#, D, Eb, F, G, Ab, Bb | ![BFlatIonycrian](CircleModeBFlatIonycrian.png) |
+| [727](https://ianring.com/musictheory/scales/727) | [Phradian](ModePhradian.md) | C# | C#, D, Eb, F, G, Ab, Bb, C# | ![CSharpPhradian](CircleModeCSharpPhradian.png) |
+| [2411](https://ianring.com/musictheory/scales/2411) | [Aeolorian](ModeAeolorian.md) | D | D, Eb, F, G, Ab, Bb, C#, D | ![DNaturalAeolorian](CircleModeDNaturalAeolorian.png) |
+| [3253](https://ianring.com/musictheory/scales/3253) | [Gonian](ModeGonian.md) | Eb | Eb, F, G, Ab, Bb, C#, D, Eb | ![EFlatGonian](CircleModeEFlatGonian.png) |
 
 ## Chords
 

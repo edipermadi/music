@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ II, iii⁰
 
 ![CNaturalRycrimic](ModeCNaturalRycrimic.png)
 
+## Diagram
+
+![CNaturalRycrimic](CircleModeCNaturalRycrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeRycrimic.md) | C | C, D##, E##, F###, G##, A##, C | ![CNaturalRycrimic](ModeCNaturalRycrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeRycrimic.md) | C | C, D##, E##, F###, G##, A##, C | ![CNaturalRycrimic](CircleModeCNaturalRycrimic.png) |
 
 ## Chords
 

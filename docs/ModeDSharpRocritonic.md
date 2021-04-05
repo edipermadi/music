@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -50,6 +50,10 @@ D#
 
 ![DSharpRocritonic](ModeDSharpRocritonic.png)
 
+## Diagram
+
+![DSharpRocritonic](CircleModeDSharpRocritonic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,15 @@ D#
 | [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | G# | G#, A#, C#, D#, F#, G# | ![GSharpThaptitonic](ModeGSharpThaptitonic.png) |
 | [1321](https://ianring.com/musictheory/scales/1321) | [Epathitonic](ModeEpathitonic.md) | A# | A#, C#, D#, F#, G#, A# | ![ASharpEpathitonic](ModeASharpEpathitonic.png) |
 | [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | C# | C#, D#, F#, G#, A#, C# | ![CSharpMynitonic](ModeCSharpMynitonic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1193](https://ianring.com/musictheory/scales/1193) | [Rocritonic](ModeRocritonic.md) | D# | D#, F#, G#, A#, C#, D# | ![DSharpRocritonic](CircleModeDSharpRocritonic.png) |
+| [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | F# | F#, G#, A#, C#, D#, F# | ![FSharpPentatonic](CircleModeFSharpPentatonic.png) |
+| [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | G# | G#, A#, C#, D#, F#, G# | ![GSharpThaptitonic](CircleModeGSharpThaptitonic.png) |
+| [1321](https://ianring.com/musictheory/scales/1321) | [Epathitonic](ModeEpathitonic.md) | A# | A#, C#, D#, F#, G#, A# | ![ASharpEpathitonic](CircleModeASharpEpathitonic.png) |
+| [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | C# | C#, D#, F#, G#, A#, C# | ![CSharpMynitonic](CircleModeCSharpMynitonic.png) |
 
 ## Chords
 

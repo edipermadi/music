@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺, V
 
 ![BFlatAeolaptian](ModeBFlatAeolaptian.png)
 
+## Diagram
+
+![BFlatAeolaptian](CircleModeBFlatAeolaptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, III⁺, V
 | [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | F | F, G#, A, Bb, C, Db, Ebb, F | ![FNaturalStoptian](ModeFNaturalStoptian.png) |
 | [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | G# | G#, A, Bb, C, Db, Ebb, F, G# | ![GSharpZygian](ModeGSharpZygian.png) |
 | [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | A | A, Bb, C, Db, Ebb, F, G#, A | ![ANaturalKataptian](ModeANaturalKataptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3229](https://ianring.com/musictheory/scales/3229) | [Aeolaptian](ModeAeolaptian.md) | Bb | Bb, C, Db, Ebb, F, G#, A, Bb | ![BFlatAeolaptian](CircleModeBFlatAeolaptian.png) |
+| [1831](https://ianring.com/musictheory/scales/1831) | [Pothian](ModePothian.md) | C | C, Db, Ebb, F, G#, A, Bb, C | ![CNaturalPothian](CircleModeCNaturalPothian.png) |
+| [2963](https://ianring.com/musictheory/scales/2963) | [Bygian](ModeBygian.md) | Db | Db, Ebb, F, G#, A, Bb, C, Db | ![DFlatBygian](CircleModeDFlatBygian.png) |
+| [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | F | F, G#, A, Bb, C, Db, Ebb, F | ![FNaturalStoptian](CircleModeFNaturalStoptian.png) |
+| [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | G# | G#, A, Bb, C, Db, Ebb, F, G# | ![GSharpZygian](CircleModeGSharpZygian.png) |
+| [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | A | A, Bb, C, Db, Ebb, F, G#, A | ![ANaturalKataptian](CircleModeANaturalKataptian.png) |
 
 ## Chords
 

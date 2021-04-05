@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ iv⁰
 
 ![BNaturalKatolimic](ModeBNaturalKatolimic.png)
 
+## Diagram
+
+![BNaturalKatolimic](CircleModeBNaturalKatolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | B | B, C#, D##, E###, Cbbb, Cbb, B | ![BNaturalKatolimic](ModeBNaturalKatolimic.png) |
 | [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | C# | C#, D##, E###, Cbbb, Cbb, Dbbb, C# | ![CSharpThagimic](ModeCSharpThagimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | B | B, C#, D##, E###, Cbbb, Cbb, B | ![BNaturalKatolimic](CircleModeBNaturalKatolimic.png) |
+| [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | C# | C#, D##, E###, Cbbb, Cbb, Dbbb, C# | ![CSharpThagimic](CircleModeCSharpThagimic.png) |
 
 ## Chords
 

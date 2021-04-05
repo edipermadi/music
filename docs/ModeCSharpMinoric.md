@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -48,6 +48,10 @@ I⁺, II⁺, III⁺
 
 ![CSharpMinoric](ModeCSharpMinoric.png)
 
+## Diagram
+
+![CSharpMinoric](CircleModeCSharpMinoric.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -55,6 +59,13 @@ I⁺, II⁺, III⁺
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | C# | C#, F, A, C# | ![CSharpMinoric](ModeCSharpMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | F | F, A, C#, F | ![FNaturalMinoric](ModeFNaturalMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | A | A, C#, F, A | ![ANaturalMinoric](ModeANaturalMinoric.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | C# | C#, F, A, C# | ![CSharpMinoric](CircleModeCSharpMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | F | F, A, C#, F | ![FNaturalMinoric](CircleModeFNaturalMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | A | A, C#, F, A | ![ANaturalMinoric](CircleModeANaturalMinoric.png) |
 
 ## Chords
 

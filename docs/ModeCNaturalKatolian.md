@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ C
 
 ![CNaturalKatolian](ModeCNaturalKatolian.png)
 
+## Diagram
+
+![CNaturalKatolian](CircleModeCNaturalKatolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ C
 | [1135](https://ianring.com/musictheory/scales/1135) | [Katolian](ModeKatolian.md) | C | C, Db, Ebb, Fbb, Gbb, Abbb, Bb, C | ![CNaturalKatolian](ModeCNaturalKatolian.png) |
 | [2615](https://ianring.com/musictheory/scales/2615) | [Thoptian](ModeThoptian.md) | Db | Db, Ebb, Fbb, Gbb, Abbb, Bb, C, Db | ![DFlatThoptian](ModeDFlatThoptian.png) |
 | [445](https://ianring.com/musictheory/scales/445) | [Gocrian](ModeGocrian.md) | Bb | Bb, C, Db, Ebb, Fbb, Gbb, Abbb, Bb | ![BFlatGocrian](ModeBFlatGocrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1135](https://ianring.com/musictheory/scales/1135) | [Katolian](ModeKatolian.md) | C | C, Db, Ebb, Fbb, Gbb, Abbb, Bb, C | ![CNaturalKatolian](CircleModeCNaturalKatolian.png) |
+| [2615](https://ianring.com/musictheory/scales/2615) | [Thoptian](ModeThoptian.md) | Db | Db, Ebb, Fbb, Gbb, Abbb, Bb, C, Db | ![DFlatThoptian](CircleModeDFlatThoptian.png) |
+| [445](https://ianring.com/musictheory/scales/445) | [Gocrian](ModeGocrian.md) | Bb | Bb, C, Db, Ebb, Fbb, Gbb, Abbb, Bb | ![BFlatGocrian](CircleModeBFlatGocrian.png) |
 
 ## Chords
 

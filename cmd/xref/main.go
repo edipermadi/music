@@ -90,7 +90,7 @@ func main() {
 }
 
 func generateMainPage(logger *zap.Logger, wikiDir string) {
-	filename := fmt.Sprintf("%s/index.md", wikiDir)
+	filename := fmt.Sprintf("%s/README.md", wikiDir)
 
 	var buff bytes.Buffer
 	_, _ = fmt.Fprintf(&buff, "# Documentation\n\n")
@@ -111,7 +111,7 @@ func generateScalesTable(logger *zap.Logger, wikiDir string) {
 	var buff bytes.Buffer
 	_, _ = fmt.Fprintf(&buff, "# Scales\n\n")
 	_, _ = fmt.Fprintf(&buff, "## Links\n\n")
-	_, _ = fmt.Fprintf(&buff, "- [Documentation](index.md)\n")
+	_, _ = fmt.Fprintf(&buff, "- [Documentation](README.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Scales Index](Scales.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Modes Index](Modes.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
@@ -142,7 +142,7 @@ func generateModesTable(logger *zap.Logger, wikiDir string) {
 	var buff bytes.Buffer
 	_, _ = fmt.Fprintf(&buff, "# Modes\n\n")
 	_, _ = fmt.Fprintf(&buff, "## Links\n\n")
-	_, _ = fmt.Fprintf(&buff, "- [Documentation](index.md)\n")
+	_, _ = fmt.Fprintf(&buff, "- [Documentation](README.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Scales Index](Scales.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Modes Index](Modes.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
@@ -202,7 +202,7 @@ func generateScalePage(logger *zap.Logger, filename string, givenScale scale.Sca
 	perfection, imperfection, perfectionProfile := givenScale.Perfection()
 	_, _ = fmt.Fprintf(&buff, "# Scale %s\n\n", givenScale.String())
 	_, _ = fmt.Fprintf(&buff, "## Links\n\n")
-	_, _ = fmt.Fprintf(&buff, "- [Documentation](index.md)\n")
+	_, _ = fmt.Fprintf(&buff, "- [Documentation](README.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Scales Index](Scales.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Modes Index](Modes.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
@@ -268,7 +268,7 @@ func generateModePage(logger *zap.Logger, filename string, givenType modetype.Ty
 	var buff bytes.Buffer
 	_, _ = fmt.Fprintf(&buff, "# Mode %s\n\n", givenType.String())
 	_, _ = fmt.Fprintf(&buff, "## Links\n\n")
-	_, _ = fmt.Fprintf(&buff, "- [Documentation](index.md)\n")
+	_, _ = fmt.Fprintf(&buff, "- [Documentation](README.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Scales Index](Scales.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Modes Index](Modes.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
@@ -325,6 +325,9 @@ func generatePitchClassPages(logger *zap.Logger, wikiDir string) {
 		if err := generatePitchClassMIDI(logger, wikiDir, givenMode); err != nil {
 			logger.Panic("failed to generate pitch class page", zap.String("scale", givenMode.String()), zap.Error(err))
 		}
+		if err := generatePitchClassCircleDiagram(logger, wikiDir, givenMode); err != nil {
+			logger.Panic("failed to generate pitch class diagram", zap.String("scale", givenMode.String()), zap.Error(err))
+		}
 	}
 }
 
@@ -345,6 +348,49 @@ func generatePitchClassMIDI(logger *zap.Logger, wikiDir string, givenMode mode.M
 	return compareAndWrite(fileName, buff.Bytes())
 }
 
+func generatePitchClassCircleDiagram(logger *zap.Logger, wikiDir string, givenMode mode.Mode) error {
+	diagramName := fmt.Sprintf("CircleMode%s", givenMode)
+	fileName := fmt.Sprintf("%s/%s.dot", wikiDir, diagramName)
+
+	diagramTemplate := `
+graph {
+
+layout = circo;
+mindist = .1
+
+node [shape = circle, fontname = Helvetica, margin = 0]
+edge [style=invis]
+
+subgraph 1 {
+	E -- B -- Gb -- Db -- Ab -- Eb -- Bb -- F -- C -- G -- D -- A -- E
+}
+
+%s
+}
+`
+
+	notes := []note.Note{
+		note.ENatural, note.BNatural, note.GFlat, note.DFlat, note.AFlat, note.EFlat, note.BFlat,
+		note.FNatural, note.CNatural, note.GNatural, note.DNatural, note.ANatural,
+	}
+
+	var parts []string
+	for _, givenNote := range notes {
+		if givenMode.Tonic() == givenNote {
+			parts = append(parts, fmt.Sprintf("%s [color=blue];", givenNote.Name()))
+		} else if givenMode.Notes().Contains(givenNote) {
+			parts = append(parts, fmt.Sprintf("%s [color=orange];", givenNote.Name()))
+		}
+	}
+
+	var buff bytes.Buffer
+	if _, err := fmt.Fprintf(&buff, diagramTemplate, strings.Join(parts, "\n")); err != nil {
+		return err
+	}
+
+	return compareAndWrite(fileName, buff.Bytes())
+}
+
 func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.Mode) error {
 	logger.Info("processing pitch class", zap.String("filename", filename))
 
@@ -355,7 +401,7 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 	var buff bytes.Buffer
 	_, _ = fmt.Fprintf(&buff, "# Mode %s\n\n", givenMode)
 	_, _ = fmt.Fprintf(&buff, "## Links\n\n")
-	_, _ = fmt.Fprintf(&buff, "- [Documentation](index.md)\n")
+	_, _ = fmt.Fprintf(&buff, "- [Documentation](README.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Scales Index](Scales.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Modes Index](Modes.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
@@ -394,6 +440,8 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 
 	_, _ = fmt.Fprintf(&buff, "## Illustration\n\n![%s](Mode%s.png)\n\n", givenMode, givenMode)
 
+	_, _ = fmt.Fprintf(&buff, "## Diagram\n\n![%s](CircleMode%s.png)\n\n", givenMode, givenMode)
+
 	_, _ = fmt.Fprintf(&buff, "## Relative Modes\n\n")
 	_, _ = fmt.Fprintf(&buff, "| Number | Mode | Tonic | Notes | Illustration |\n")
 	_, _ = fmt.Fprintf(&buff, "|--------|------|-------|-------|--------------|\n")
@@ -405,6 +453,22 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 					computedNoteNames := relativeMode.Notes().Names()
 					modeURL := fmt.Sprintf("https://ianring.com/musictheory/scales/%d", canonicalNumber)
 					_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %s | %s | ![%s](Mode%s.png) |\n", canonicalNumber, modeURL, relativeMode.Type(), relativeMode.Type(), relativeMode.Tonic().Name(), strings.Join(computedNoteNames, ", "), relativeMode, relativeMode)
+				}
+			}
+		}
+	}
+
+	_, _ = fmt.Fprintf(&buff, "## Relative Brightness\n\n")
+	_, _ = fmt.Fprintf(&buff, "| Number | Mode | Tonic | Notes | Illustration |\n")
+	_, _ = fmt.Fprintf(&buff, "|--------|------|-------|-------|--------------|\n")
+	for idx, expectedTonic := range givenMode.Notes() {
+		if idx < givenMode.Cardinality() {
+			for _, relativeMode := range mapModeNumberToModes[givenMode.Number()] {
+				if relativeMode.Tonic() == expectedTonic {
+					canonicalNumber := relativeMode.CanonicalNumber()
+					computedNoteNames := relativeMode.Notes().Names()
+					modeURL := fmt.Sprintf("https://ianring.com/musictheory/scales/%d", canonicalNumber)
+					_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %s | %s | ![%s](CircleMode%s.png) |\n", canonicalNumber, modeURL, relativeMode.Type(), relativeMode.Type(), relativeMode.Tonic().Name(), strings.Join(computedNoteNames, ", "), relativeMode, relativeMode)
 				}
 			}
 		}
@@ -468,7 +532,7 @@ func generateChordsTable(logger *zap.Logger, wikiDir string) {
 	_, _ = fmt.Fprintf(&buff, "# Chords\n\n")
 
 	_, _ = fmt.Fprintf(&buff, "## Links\n\n")
-	_, _ = fmt.Fprintf(&buff, "- [Documentation](index.md)\n")
+	_, _ = fmt.Fprintf(&buff, "- [Documentation](README.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Scales Index](Scales.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Modes Index](Modes.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
@@ -563,7 +627,7 @@ func generateChordPage(logger *zap.Logger, filename string, givenChord chord.Cho
 	var buff bytes.Buffer
 	_, _ = fmt.Fprintf(&buff, "# %s\n\n", givenChord)
 	_, _ = fmt.Fprintf(&buff, "## Links\n\n")
-	_, _ = fmt.Fprintf(&buff, "- [Documentation](index.md)\n")
+	_, _ = fmt.Fprintf(&buff, "- [Documentation](README.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Scales Index](Scales.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Modes Index](Modes.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")

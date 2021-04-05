@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ v⁰
 
 ![DSharpDoptian](ModeDSharpDoptian.png)
 
+## Diagram
+
+![DSharpDoptian](CircleModeDSharpDoptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ v⁰
 | [491](https://ianring.com/musictheory/scales/491) | [Aeolyrian](ModeAeolyrian.md) | A# | A#, B, C#, D#, E, F, Gb, A# | ![ASharpAeolyrian](ModeASharpAeolyrian.png) |
 | [2293](https://ianring.com/musictheory/scales/2293) | [Gorian](ModeGorian.md) | B | B, C#, D#, E, F, Gb, A#, B | ![BNaturalGorian](ModeBNaturalGorian.png) |
 | [1597](https://ianring.com/musictheory/scales/1597) | [Aeolodian](ModeAeolodian.md) | C# | C#, D#, E, F, Gb, A#, B, C# | ![CSharpAeolodian](ModeCSharpAeolodian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1423](https://ianring.com/musictheory/scales/1423) | [Doptian](ModeDoptian.md) | D# | D#, E, F, Gb, A#, B, C#, D# | ![DSharpDoptian](CircleModeDSharpDoptian.png) |
+| [2759](https://ianring.com/musictheory/scales/2759) | [Aeraphian](ModeAeraphian.md) | E | E, F, Gb, A#, B, C#, D#, E | ![ENaturalAeraphian](CircleModeENaturalAeraphian.png) |
+| [3427](https://ianring.com/musictheory/scales/3427) | [Zacrian](ModeZacrian.md) | F | F, Gb, A#, B, C#, D#, E, F | ![FNaturalZacrian](CircleModeFNaturalZacrian.png) |
+| [3761](https://ianring.com/musictheory/scales/3761) | [Ionythian](ModeIonythian.md) | Gb | Gb, A#, B, C#, D#, E, F, Gb | ![GFlatIonythian](CircleModeGFlatIonythian.png) |
+| [491](https://ianring.com/musictheory/scales/491) | [Aeolyrian](ModeAeolyrian.md) | A# | A#, B, C#, D#, E, F, Gb, A# | ![ASharpAeolyrian](CircleModeASharpAeolyrian.png) |
+| [2293](https://ianring.com/musictheory/scales/2293) | [Gorian](ModeGorian.md) | B | B, C#, D#, E, F, Gb, A#, B | ![BNaturalGorian](CircleModeBNaturalGorian.png) |
+| [1597](https://ianring.com/musictheory/scales/1597) | [Aeolodian](ModeAeolodian.md) | C# | C#, D#, E, F, Gb, A#, B, C# | ![CSharpAeolodian](CircleModeCSharpAeolodian.png) |
 
 ## Chords
 

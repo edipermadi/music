@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ v, VII⁺
 
 ![FSharpGacrian](ModeFSharpGacrian.png)
 
+## Diagram
+
+![FSharpGacrian](CircleModeFSharpGacrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3017](https://ianring.com/musictheory/scales/3017) | [Gacrian](ModeGacrian.md) | F# | F#, G##, A###, B##, C##, D#, E#, F# | ![FSharpGacrian](ModeFSharpGacrian.png) |
 | [3661](https://ianring.com/musictheory/scales/3661) | [Mixodorian](ModeMixodorian.md) | D# | D#, E#, F#, G##, A###, B##, C##, D# | ![DSharpMixodorian](ModeDSharpMixodorian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3017](https://ianring.com/musictheory/scales/3017) | [Gacrian](ModeGacrian.md) | F# | F#, G##, A###, B##, C##, D#, E#, F# | ![FSharpGacrian](CircleModeFSharpGacrian.png) |
+| [3661](https://ianring.com/musictheory/scales/3661) | [Mixodorian](ModeMixodorian.md) | D# | D#, E#, F#, G##, A###, B##, C##, D# | ![DSharpMixodorian](CircleModeDSharpMixodorian.png) |
 
 ## Chords
 

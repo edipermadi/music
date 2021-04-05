@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ Bb
 
 ![BFlatPhrathimic](ModeBFlatPhrathimic.png)
 
+## Diagram
+
+![BFlatPhrathimic](CircleModeBFlatPhrathimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ Bb
 | [2631](https://ianring.com/musictheory/scales/2631) | [Macrimic](ModeMacrimic.md) | E | E, F, Gb, A#, B##, C###, E | ![ENaturalMacrimic](ModeENaturalMacrimic.png) |
 | [3363](https://ianring.com/musictheory/scales/3363) | [Rogimic](ModeRogimic.md) | F | F, Gb, A#, B##, C###, D##, F | ![FNaturalRogimic](ModeFNaturalRogimic.png) |
 | [3729](https://ianring.com/musictheory/scales/3729) | [Starimic](ModeStarimic.md) | Gb | Gb, A#, B##, C###, D##, E#, Gb | ![GFlatStarimic](ModeGFlatStarimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [489](https://ianring.com/musictheory/scales/489) | [Phrathimic](ModePhrathimic.md) | Bb | Bb, C#, D#, E, F, Gb, Bb | ![BFlatPhrathimic](CircleModeBFlatPhrathimic.png) |
+| [573](https://ianring.com/musictheory/scales/573) | [Saptimic](ModeSaptimic.md) | C# | C#, D#, E, F, Gb, A#, C# | ![CSharpSaptimic](CircleModeCSharpSaptimic.png) |
+| [1167](https://ianring.com/musictheory/scales/1167) | [Aerodimic](ModeAerodimic.md) | D# | D#, E, F, Gb, A#, B##, D# | ![DSharpAerodimic](CircleModeDSharpAerodimic.png) |
+| [2631](https://ianring.com/musictheory/scales/2631) | [Macrimic](ModeMacrimic.md) | E | E, F, Gb, A#, B##, C###, E | ![ENaturalMacrimic](CircleModeENaturalMacrimic.png) |
+| [3363](https://ianring.com/musictheory/scales/3363) | [Rogimic](ModeRogimic.md) | F | F, Gb, A#, B##, C###, D##, F | ![FNaturalRogimic](CircleModeFNaturalRogimic.png) |
+| [3729](https://ianring.com/musictheory/scales/3729) | [Starimic](ModeStarimic.md) | Gb | Gb, A#, B##, C###, D##, E#, Gb | ![GFlatStarimic](CircleModeGFlatStarimic.png) |
 
 ## Chords
 

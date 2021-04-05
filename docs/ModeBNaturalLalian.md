@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II⁺, IV
 
 ![BNaturalLalian](ModeBNaturalLalian.png)
 
+## Diagram
+
+![BNaturalLalian](CircleModeBNaturalLalian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ II⁺, IV
 | [2537](https://ianring.com/musictheory/scales/2537) | [Laptian](ModeLaptian.md) | F | F, G#, A#, B, C, Db, E, F | ![FNaturalLaptian](ModeFNaturalLaptian.png) |
 | [829](https://ianring.com/musictheory/scales/829) | [Lygian](ModeLygian.md) | G# | G#, A#, B, C, Db, E, F, G# | ![GSharpLygian](ModeGSharpLygian.png) |
 | [1231](https://ianring.com/musictheory/scales/1231) | [Logian](ModeLogian.md) | A# | A#, B, C, Db, E, F, G#, A# | ![ASharpLogian](ModeASharpLogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2663](https://ianring.com/musictheory/scales/2663) | [Lalian](ModeLalian.md) | B | B, C, Db, E, F, G#, A#, B | ![BNaturalLalian](CircleModeBNaturalLalian.png) |
+| [3379](https://ianring.com/musictheory/scales/3379) | [Sothian](ModeSothian.md) | C | C, Db, E, F, G#, A#, B, C | ![CNaturalSothian](CircleModeCNaturalSothian.png) |
+| [3737](https://ianring.com/musictheory/scales/3737) | [Phrocrian](ModePhrocrian.md) | Db | Db, E, F, G#, A#, B, C, Db | ![DFlatPhrocrian](CircleModeDFlatPhrocrian.png) |
+| [979](https://ianring.com/musictheory/scales/979) | [Thogian](ModeThogian.md) | E | E, F, G#, A#, B, C, Db, E | ![ENaturalThogian](CircleModeENaturalThogian.png) |
+| [2537](https://ianring.com/musictheory/scales/2537) | [Laptian](ModeLaptian.md) | F | F, G#, A#, B, C, Db, E, F | ![FNaturalLaptian](CircleModeFNaturalLaptian.png) |
+| [829](https://ianring.com/musictheory/scales/829) | [Lygian](ModeLygian.md) | G# | G#, A#, B, C, Db, E, F, G# | ![GSharpLygian](CircleModeGSharpLygian.png) |
+| [1231](https://ianring.com/musictheory/scales/1231) | [Logian](ModeLogian.md) | A# | A#, B, C, Db, E, F, G#, A# | ![ASharpLogian](CircleModeASharpLogian.png) |
 
 ## Chords
 

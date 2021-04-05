@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, ii⁰, III, iv, v, VI, VII
 
 ![DNaturalAeolian](ModeDNaturalAeolian.png)
 
+## Diagram
+
+![DNaturalAeolian](CircleModeDNaturalAeolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i, ii⁰, III, iv, v, VI, VII
 | [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | A | A, Bb, C, D, E, F, G, A | ![ANaturalPhrygian](ModeANaturalPhrygian.png) |
 | [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeLydian.md) | Bb | Bb, C, D, E, F, G, A, Bb | ![BFlatLydian](ModeBFlatLydian.png) |
 | [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | C | C, D, E, F, G, A, Bb, C | ![CNaturalMixolydian](ModeCNaturalMixolydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | D | D, E, F, G, A, Bb, C, D | ![DNaturalAeolian](CircleModeDNaturalAeolian.png) |
+| [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | E | E, F, G, A, Bb, C, D, E | ![ENaturalLocrian](CircleModeENaturalLocrian.png) |
+| [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeIonian.md) | F | F, G, A, Bb, C, D, E, F | ![FNaturalIonian](CircleModeFNaturalIonian.png) |
+| [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | G | G, A, Bb, C, D, E, F, G | ![GNaturalDorian](CircleModeGNaturalDorian.png) |
+| [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | A | A, Bb, C, D, E, F, G, A | ![ANaturalPhrygian](CircleModeANaturalPhrygian.png) |
+| [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeLydian.md) | Bb | Bb, C, D, E, F, G, A, Bb | ![BFlatLydian](CircleModeBFlatLydian.png) |
+| [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | C | C, D, E, F, G, A, Bb, C | ![CNaturalMixolydian](CircleModeCNaturalMixolydian.png) |
 
 ## Chords
 

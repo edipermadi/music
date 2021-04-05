@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺, V, VI, vii
 
 ![BNaturalBogian](ModeBNaturalBogian.png)
 
+## Diagram
+
+![BNaturalBogian](CircleModeBNaturalBogian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, III⁺, V, VI, vii
 | [2483](https://ianring.com/musictheory/scales/2483) | [Aerynian](ModeAerynian.md) | F# | F#, G, A#, B, C#, D, E#, F# | ![FSharpAerynian](ModeFSharpAerynian.png) |
 | [3289](https://ianring.com/musictheory/scales/3289) | [Loptian](ModeLoptian.md) | G | G, A#, B, C#, D, E#, F#, G | ![GNaturalLoptian](ModeGNaturalLoptian.png) |
 | [923](https://ianring.com/musictheory/scales/923) | [Ionodian](ModeIonodian.md) | A# | A#, B, C#, D, E#, F#, G, A# | ![ASharpIonodian](ModeASharpIonodian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2509](https://ianring.com/musictheory/scales/2509) | [Bogian](ModeBogian.md) | B | B, C#, D, E#, F#, G, A#, B | ![BNaturalBogian](CircleModeBNaturalBogian.png) |
+| [1651](https://ianring.com/musictheory/scales/1651) | [Mogian](ModeMogian.md) | C# | C#, D, E#, F#, G, A#, B, C# | ![CSharpMogian](CircleModeCSharpMogian.png) |
+| [2873](https://ianring.com/musictheory/scales/2873) | [Docrian](ModeDocrian.md) | D | D, E#, F#, G, A#, B, C#, D | ![DNaturalDocrian](CircleModeDNaturalDocrian.png) |
+| [2483](https://ianring.com/musictheory/scales/2483) | [Aerynian](ModeAerynian.md) | F# | F#, G, A#, B, C#, D, E#, F# | ![FSharpAerynian](CircleModeFSharpAerynian.png) |
+| [3289](https://ianring.com/musictheory/scales/3289) | [Loptian](ModeLoptian.md) | G | G, A#, B, C#, D, E#, F#, G | ![GNaturalLoptian](CircleModeGNaturalLoptian.png) |
+| [923](https://ianring.com/musictheory/scales/923) | [Ionodian](ModeIonodian.md) | A# | A#, B, C#, D, E#, F#, G, A# | ![ASharpIonodian](CircleModeASharpIonodian.png) |
 
 ## Chords
 

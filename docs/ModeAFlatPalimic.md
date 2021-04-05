@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ iv
 
 ![AFlatPalimic](ModeAFlatPalimic.png)
 
+## Diagram
+
+![AFlatPalimic](CircleModeAFlatPalimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModePalimic.md) | Ab | Ab, B, C##, D##, E##, F##, Ab | ![AFlatPalimic](ModeAFlatPalimic.png) |
 | [937](https://ianring.com/musictheory/scales/937) | [Stothimic](ModeStothimic.md) | B | B, C##, D##, E##, F##, G#, B | ![BNaturalStothimic](ModeBNaturalStothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModePalimic.md) | Ab | Ab, B, C##, D##, E##, F##, Ab | ![AFlatPalimic](CircleModeAFlatPalimic.png) |
+| [937](https://ianring.com/musictheory/scales/937) | [Stothimic](ModeStothimic.md) | B | B, C##, D##, E##, F##, G#, B | ![BNaturalStothimic](CircleModeBNaturalStothimic.png) |
 
 ## Chords
 

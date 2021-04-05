@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ I⁺, II, III⁺, V⁺
 
 ![GSharpEpothimic](ModeGSharpEpothimic.png)
 
+## Diagram
+
+![GSharpEpothimic](CircleModeGSharpEpothimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [853](https://ianring.com/musictheory/scales/853) | [Epothimic](ModeEpothimic.md) | G# | G#, A#, B#, C##, D##, E#, G# | ![GSharpEpothimic](ModeGSharpEpothimic.png) |
 | [1237](https://ianring.com/musictheory/scales/1237) | [Salimic](ModeSalimic.md) | A# | A#, B#, C##, D##, E#, F###, A# | ![ASharpSalimic](ModeASharpSalimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [853](https://ianring.com/musictheory/scales/853) | [Epothimic](ModeEpothimic.md) | G# | G#, A#, B#, C##, D##, E#, G# | ![GSharpEpothimic](CircleModeGSharpEpothimic.png) |
+| [1237](https://ianring.com/musictheory/scales/1237) | [Salimic](ModeSalimic.md) | A# | A#, B#, C##, D##, E#, F###, A# | ![ASharpSalimic](CircleModeASharpSalimic.png) |
 
 ## Chords
 

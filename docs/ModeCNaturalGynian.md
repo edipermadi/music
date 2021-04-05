@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ C
 
 ![CNaturalGynian](ModeCNaturalGynian.png)
 
+## Diagram
+
+![CNaturalGynian](CircleModeCNaturalGynian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ C
 | [3223](https://ianring.com/musictheory/scales/3223) | [Thyphian](ModeThyphian.md) | Db | Db, Ebb, Fbb, Gbb, Ab, B, C, Db | ![DFlatThyphian](ModeDFlatThyphian.png) |
 | [761](https://ianring.com/musictheory/scales/761) | [Ponian](ModePonian.md) | Ab | Ab, B, C, Db, Ebb, Fbb, Gbb, Ab | ![AFlatPonian](ModeAFlatPonian.png) |
 | [607](https://ianring.com/musictheory/scales/607) | [Kadian](ModeKadian.md) | B | B, C, Db, Ebb, Fbb, Gbb, Ab, B | ![BNaturalKadian](ModeBNaturalKadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2351](https://ianring.com/musictheory/scales/2351) | [Gynian](ModeGynian.md) | C | C, Db, Ebb, Fbb, Gbb, Ab, B, C | ![CNaturalGynian](CircleModeCNaturalGynian.png) |
+| [3223](https://ianring.com/musictheory/scales/3223) | [Thyphian](ModeThyphian.md) | Db | Db, Ebb, Fbb, Gbb, Ab, B, C, Db | ![DFlatThyphian](CircleModeDFlatThyphian.png) |
+| [761](https://ianring.com/musictheory/scales/761) | [Ponian](ModePonian.md) | Ab | Ab, B, C, Db, Ebb, Fbb, Gbb, Ab | ![AFlatPonian](CircleModeAFlatPonian.png) |
+| [607](https://ianring.com/musictheory/scales/607) | [Kadian](ModeKadian.md) | B | B, C, Db, Ebb, Fbb, Gbb, Ab, B | ![BNaturalKadian](CircleModeBNaturalKadian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii, iv, V⁺, VI⁺
 
 ![ASharpSyrian](ModeASharpSyrian.png)
 
+## Diagram
+
+![ASharpSyrian](CircleModeASharpSyrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ I, iii, iv, V⁺, VI⁺
 | [2489](https://ianring.com/musictheory/scales/2489) | [Syrian](ModeSyrian.md) | A# | A#, B##, C##, D#, E#, F#, G##, A# | ![ASharpSyrian](ModeASharpSyrian.png) |
 | [3277](https://ianring.com/musictheory/scales/3277) | [Zycrian](ModeZycrian.md) | D# | D#, E#, F#, G##, A#, B##, C##, D# | ![DSharpZycrian](ModeDSharpZycrian.png) |
 | [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeTholian.md) | F# | F#, G##, A#, B##, C##, D#, E#, F# | ![FSharpTholian](ModeFSharpTholian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2489](https://ianring.com/musictheory/scales/2489) | [Syrian](ModeSyrian.md) | A# | A#, B##, C##, D#, E#, F#, G##, A# | ![ASharpSyrian](CircleModeASharpSyrian.png) |
+| [3277](https://ianring.com/musictheory/scales/3277) | [Zycrian](ModeZycrian.md) | D# | D#, E#, F#, G##, A#, B##, C##, D# | ![DSharpZycrian](CircleModeDSharpZycrian.png) |
+| [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeTholian.md) | F# | F#, G##, A#, B##, C##, D#, E#, F# | ![FSharpTholian](CircleModeFSharpTholian.png) |
 
 ## Chords
 

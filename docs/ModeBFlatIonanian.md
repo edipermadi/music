@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii⁰, VI⁺
 
 ![BFlatIonanian](ModeBFlatIonanian.png)
 
+## Diagram
+
+![BFlatIonanian](CircleModeBFlatIonanian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ I, iii⁰, VI⁺
 | [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | F | F, Gb, Ab, Bb, C#, D, E, F | ![FNaturalPhrycrian](ModeFNaturalPhrycrian.png) |
 | [3477](https://ianring.com/musictheory/scales/3477) | [Kyptian](ModeKyptian.md) | Gb | Gb, Ab, Bb, C#, D, E, F, Gb | ![GFlatKyptian](ModeGFlatKyptian.png) |
 | [1893](https://ianring.com/musictheory/scales/1893) | [Ionylian](ModeIonylian.md) | Ab | Ab, Bb, C#, D, E, F, Gb, Ab | ![AFlatIonylian](ModeAFlatIonylian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1497](https://ianring.com/musictheory/scales/1497) | [Ionanian](ModeIonanian.md) | Bb | Bb, C#, D, E, F, Gb, Ab, Bb | ![BFlatIonanian](CircleModeBFlatIonanian.png) |
+| [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeAerothian.md) | C# | C#, D, E, F, Gb, Ab, Bb, C# | ![CSharpAerothian](CircleModeCSharpAerothian.png) |
+| [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | D | D, E, F, Gb, Ab, Bb, C#, D | ![DNaturalStagian](CircleModeDNaturalStagian.png) |
+| [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | E | E, F, Gb, Ab, Bb, C#, D, E | ![ENaturalLothian](CircleModeENaturalLothian.png) |
+| [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | F | F, Gb, Ab, Bb, C#, D, E, F | ![FNaturalPhrycrian](CircleModeFNaturalPhrycrian.png) |
+| [3477](https://ianring.com/musictheory/scales/3477) | [Kyptian](ModeKyptian.md) | Gb | Gb, Ab, Bb, C#, D, E, F, Gb | ![GFlatKyptian](CircleModeGFlatKyptian.png) |
+| [1893](https://ianring.com/musictheory/scales/1893) | [Ionylian](ModeIonylian.md) | Ab | Ab, Bb, C#, D, E, F, Gb, Ab | ![AFlatIonylian](CircleModeAFlatIonylian.png) |
 
 ## Chords
 

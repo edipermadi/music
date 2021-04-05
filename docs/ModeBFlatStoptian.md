@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iv, VI⁺
 
 ![BFlatStoptian](ModeBFlatStoptian.png)
 
+## Diagram
+
+![BFlatStoptian](CircleModeBFlatStoptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I, iv, VI⁺
 | [3229](https://ianring.com/musictheory/scales/3229) | [Aeolaptian](ModeAeolaptian.md) | Eb | Eb, F, Gb, Abb, Bb, C#, D, Eb | ![EFlatAeolaptian](ModeEFlatAeolaptian.png) |
 | [1831](https://ianring.com/musictheory/scales/1831) | [Pothian](ModePothian.md) | F | F, Gb, Abb, Bb, C#, D, Eb, F | ![FNaturalPothian](ModeFNaturalPothian.png) |
 | [2963](https://ianring.com/musictheory/scales/2963) | [Bygian](ModeBygian.md) | Gb | Gb, Abb, Bb, C#, D, Eb, F, Gb | ![GFlatBygian](ModeGFlatBygian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | Bb | Bb, C#, D, Eb, F, Gb, Abb, Bb | ![BFlatStoptian](CircleModeBFlatStoptian.png) |
+| [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | C# | C#, D, Eb, F, Gb, Abb, Bb, C# | ![CSharpZygian](CircleModeCSharpZygian.png) |
+| [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | D | D, Eb, F, Gb, Abb, Bb, C#, D | ![DNaturalKataptian](CircleModeDNaturalKataptian.png) |
+| [3229](https://ianring.com/musictheory/scales/3229) | [Aeolaptian](ModeAeolaptian.md) | Eb | Eb, F, Gb, Abb, Bb, C#, D, Eb | ![EFlatAeolaptian](CircleModeEFlatAeolaptian.png) |
+| [1831](https://ianring.com/musictheory/scales/1831) | [Pothian](ModePothian.md) | F | F, Gb, Abb, Bb, C#, D, Eb, F | ![FNaturalPothian](CircleModeFNaturalPothian.png) |
+| [2963](https://ianring.com/musictheory/scales/2963) | [Bygian](ModeBygian.md) | Gb | Gb, Abb, Bb, C#, D, Eb, F, Gb | ![GFlatBygian](CircleModeGFlatBygian.png) |
 
 ## Chords
 

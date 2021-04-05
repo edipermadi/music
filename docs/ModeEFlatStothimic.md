@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ iii
 
 ![EFlatStothimic](ModeEFlatStothimic.png)
 
+## Diagram
+
+![EFlatStothimic](CircleModeEFlatStothimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ iii
 | [1319](https://ianring.com/musictheory/scales/1319) | [Phronimic](ModePhronimic.md) | A# | A#, B, C, D#, E##, F###, A# | ![ASharpPhronimic](ModeASharpPhronimic.png) |
 | [2707](https://ianring.com/musictheory/scales/2707) | [Banimic](ModeBanimic.md) | B | B, C, D#, E##, F###, G###, B | ![BNaturalBanimic](ModeBNaturalBanimic.png) |
 | [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModePalimic.md) | C | C, D#, E##, F###, G###, A##, C | ![CNaturalPalimic](ModeCNaturalPalimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [937](https://ianring.com/musictheory/scales/937) | [Stothimic](ModeStothimic.md) | Eb | Eb, F#, G#, A#, B, C, Eb | ![EFlatStothimic](CircleModeEFlatStothimic.png) |
+| [629](https://ianring.com/musictheory/scales/629) | [Aeronimic](ModeAeronimic.md) | F# | F#, G#, A#, B, C, D#, F# | ![FSharpAeronimic](CircleModeFSharpAeronimic.png) |
+| [1181](https://ianring.com/musictheory/scales/1181) | [Katagimic](ModeKatagimic.md) | G# | G#, A#, B, C, D#, E##, G# | ![GSharpKatagimic](CircleModeGSharpKatagimic.png) |
+| [1319](https://ianring.com/musictheory/scales/1319) | [Phronimic](ModePhronimic.md) | A# | A#, B, C, D#, E##, F###, A# | ![ASharpPhronimic](CircleModeASharpPhronimic.png) |
+| [2707](https://ianring.com/musictheory/scales/2707) | [Banimic](ModeBanimic.md) | B | B, C, D#, E##, F###, G###, B | ![BNaturalBanimic](CircleModeBNaturalBanimic.png) |
+| [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModePalimic.md) | C | C, D#, E##, F###, G###, A##, C | ![CNaturalPalimic](CircleModeCNaturalPalimic.png) |
 
 ## Chords
 

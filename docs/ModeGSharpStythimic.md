@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ III, iv
 
 ![GSharpStythimic](ModeGSharpStythimic.png)
 
+## Diagram
+
+![GSharpStythimic](CircleModeGSharpStythimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2857](https://ianring.com/musictheory/scales/2857) | [Stythimic](ModeStythimic.md) | G# | G#, A##, B##, D##, E#, F##, G# | ![GSharpStythimic](ModeGSharpStythimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2857](https://ianring.com/musictheory/scales/2857) | [Stythimic](ModeStythimic.md) | G# | G#, A##, B##, D##, E#, F##, G# | ![GSharpStythimic](CircleModeGSharpStythimic.png) |
 
 ## Chords
 

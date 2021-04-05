@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii, V, VI⁺, vii
 
 ![BNaturalRyphian](ModeBNaturalRyphian.png)
 
+## Diagram
+
+![BNaturalRyphian](CircleModeBNaturalRyphian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I, iii, V, VI⁺, vii
 | [2739](https://ianring.com/musictheory/scales/2739) | [Zanian](ModeZanian.md) | F# | F#, G, A#, B, C#, D#, E#, F# | ![FSharpZanian](ModeFSharpZanian.png) |
 | [3417](https://ianring.com/musictheory/scales/3417) | [Golian](ModeGolian.md) | G | G, A#, B, C#, D#, E#, F#, G | ![GNaturalGolian](ModeGNaturalGolian.png) |
 | [939](https://ianring.com/musictheory/scales/939) | [Dyptian](ModeDyptian.md) | A# | A#, B, C#, D#, E#, F#, G, A# | ![ASharpDyptian](ModeASharpDyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2517](https://ianring.com/musictheory/scales/2517) | [Ryphian](ModeRyphian.md) | B | B, C#, D#, E#, F#, G, A#, B | ![BNaturalRyphian](CircleModeBNaturalRyphian.png) |
+| [1653](https://ianring.com/musictheory/scales/1653) | [Gylian](ModeGylian.md) | C# | C#, D#, E#, F#, G, A#, B, C# | ![CSharpGylian](CircleModeCSharpGylian.png) |
+| [1437](https://ianring.com/musictheory/scales/1437) | [Aeolycrian](ModeAeolycrian.md) | D# | D#, E#, F#, G, A#, B, C#, D# | ![DSharpAeolycrian](CircleModeDSharpAeolycrian.png) |
+| [2739](https://ianring.com/musictheory/scales/2739) | [Zanian](ModeZanian.md) | F# | F#, G, A#, B, C#, D#, E#, F# | ![FSharpZanian](CircleModeFSharpZanian.png) |
+| [3417](https://ianring.com/musictheory/scales/3417) | [Golian](ModeGolian.md) | G | G, A#, B, C#, D#, E#, F#, G | ![GNaturalGolian](CircleModeGNaturalGolian.png) |
+| [939](https://ianring.com/musictheory/scales/939) | [Dyptian](ModeDyptian.md) | A# | A#, B, C#, D#, E#, F#, G, A# | ![ASharpDyptian](CircleModeASharpDyptian.png) |
 
 ## Chords
 

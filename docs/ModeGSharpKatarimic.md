@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ V
 
 ![GSharpKatarimic](ModeGSharpKatarimic.png)
 
+## Diagram
+
+![GSharpKatarimic](CircleModeGSharpKatarimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ V
 | [909](https://ianring.com/musictheory/scales/909) | [Katarimic](ModeKatarimic.md) | G# | G#, A#, B, C###, D##, E#, G# | ![GSharpKatarimic](ModeGSharpKatarimic.png) |
 | [1251](https://ianring.com/musictheory/scales/1251) | [Sylimic](ModeSylimic.md) | A# | A#, B, C###, D##, E#, F###, A# | ![ASharpSylimic](ModeASharpSylimic.png) |
 | [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeMythimic.md) | B | B, C###, D##, E#, F###, G###, B | ![BNaturalMythimic](ModeBNaturalMythimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [909](https://ianring.com/musictheory/scales/909) | [Katarimic](ModeKatarimic.md) | G# | G#, A#, B, C###, D##, E#, G# | ![GSharpKatarimic](CircleModeGSharpKatarimic.png) |
+| [1251](https://ianring.com/musictheory/scales/1251) | [Sylimic](ModeSylimic.md) | A# | A#, B, C###, D##, E#, F###, A# | ![ASharpSylimic](CircleModeASharpSylimic.png) |
+| [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeMythimic.md) | B | B, C###, D##, E#, F###, G###, B | ![BNaturalMythimic](CircleModeBNaturalMythimic.png) |
 
 ## Chords
 

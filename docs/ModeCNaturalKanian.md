@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ III, v
 
 ![CNaturalKanian](ModeCNaturalKanian.png)
 
+## Diagram
+
+![CNaturalKanian](CircleModeCNaturalKanian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ III, v
 | [719](https://ianring.com/musictheory/scales/719) | [Kanian](ModeKanian.md) | C | C, Db, Ebb, Fbb, Gb, Abb, Bbb, C | ![CNaturalKanian](ModeCNaturalKanian.png) |
 | [2407](https://ianring.com/musictheory/scales/2407) | [Zylian](ModeZylian.md) | Db | Db, Ebb, Fbb, Gb, Abb, Bbb, C, Db | ![DFlatZylian](ModeDFlatZylian.png) |
 | [971](https://ianring.com/musictheory/scales/971) | [Ladian](ModeLadian.md) | Gb | Gb, Abb, Bbb, C, Db, Ebb, Fbb, Gb | ![GFlatLadian](ModeGFlatLadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [719](https://ianring.com/musictheory/scales/719) | [Kanian](ModeKanian.md) | C | C, Db, Ebb, Fbb, Gb, Abb, Bbb, C | ![CNaturalKanian](CircleModeCNaturalKanian.png) |
+| [2407](https://ianring.com/musictheory/scales/2407) | [Zylian](ModeZylian.md) | Db | Db, Ebb, Fbb, Gb, Abb, Bbb, C, Db | ![DFlatZylian](CircleModeDFlatZylian.png) |
+| [971](https://ianring.com/musictheory/scales/971) | [Ladian](ModeLadian.md) | Gb | Gb, Abb, Bbb, C, Db, Ebb, Fbb, Gb | ![GFlatLadian](CircleModeGFlatLadian.png) |
 
 ## Chords
 

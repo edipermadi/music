@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, iii, V⁺, vi⁰
 
 ![EFlatSynian](ModeEFlatSynian.png)
 
+## Diagram
+
+![EFlatSynian](CircleModeEFlatSynian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ i⁰, iii, V⁺, vi⁰
 | [2763](https://ianring.com/musictheory/scales/2763) | [Manian](ModeManian.md) | Gb | Gb, Abb, Bbb, C, Db, Eb, F, Gb | ![GFlatManian](ModeGFlatManian.png) |
 | [747](https://ianring.com/musictheory/scales/747) | [Lynian](ModeLynian.md) | C | C, Db, Eb, F, Gb, Abb, Bbb, C | ![CNaturalLynian](ModeCNaturalLynian.png) |
 | [2421](https://ianring.com/musictheory/scales/2421) | [Malian](ModeMalian.md) | Db | Db, Eb, F, Gb, Abb, Bbb, C, Db | ![DFlatMalian](ModeDFlatMalian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1629](https://ianring.com/musictheory/scales/1629) | [Synian](ModeSynian.md) | Eb | Eb, F, Gb, Abb, Bbb, C, Db, Eb | ![EFlatSynian](CircleModeEFlatSynian.png) |
+| [1431](https://ianring.com/musictheory/scales/1431) | [Phragian](ModePhragian.md) | F | F, Gb, Abb, Bbb, C, Db, Eb, F | ![FNaturalPhragian](CircleModeFNaturalPhragian.png) |
+| [2763](https://ianring.com/musictheory/scales/2763) | [Manian](ModeManian.md) | Gb | Gb, Abb, Bbb, C, Db, Eb, F, Gb | ![GFlatManian](CircleModeGFlatManian.png) |
+| [747](https://ianring.com/musictheory/scales/747) | [Lynian](ModeLynian.md) | C | C, Db, Eb, F, Gb, Abb, Bbb, C | ![CNaturalLynian](CircleModeCNaturalLynian.png) |
+| [2421](https://ianring.com/musictheory/scales/2421) | [Malian](ModeMalian.md) | Db | Db, Eb, F, Gb, Abb, Bbb, C, Db | ![DFlatMalian](CircleModeDFlatMalian.png) |
 
 ## Chords
 

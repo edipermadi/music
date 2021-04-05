@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, II⁺, III, IV, v⁰, vi⁰, vii
 
 ![ENaturalMixolythian](ModeENaturalMixolythian.png)
 
+## Diagram
+
+![ENaturalMixolythian](CircleModeENaturalMixolythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i, II⁺, III, IV, v⁰, vi⁰, vii
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | B | B, C#, D, E, F, G, A, B | ![BNaturalLorian](ModeBNaturalLorian.png) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | C# | C#, D, E, F, G, A, B, C# | ![CSharpIonadian](ModeCSharpIonadian.png) |
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | D | D, E, F, G, A, B, C#, D | ![DNaturalBocrian](ModeDNaturalBocrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | E | E, F, G, A, B, C#, D, E | ![ENaturalMixolythian](CircleModeENaturalMixolythian.png) |
+| [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | F | F, G, A, B, C#, D, E, F | ![FNaturalLarian](CircleModeFNaturalLarian.png) |
+| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | G | G, A, B, C#, D, E, F, G | ![GNaturalLythian](CircleModeGNaturalLythian.png) |
+| [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | A | A, B, C#, D, E, F, G, A | ![ANaturalStydian](CircleModeANaturalStydian.png) |
+| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | B | B, C#, D, E, F, G, A, B | ![BNaturalLorian](CircleModeBNaturalLorian.png) |
+| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | C# | C#, D, E, F, G, A, B, C# | ![CSharpIonadian](CircleModeCSharpIonadian.png) |
+| [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | D | D, E, F, G, A, B, C#, D | ![DNaturalBocrian](CircleModeDNaturalBocrian.png) |
 
 ## Chords
 

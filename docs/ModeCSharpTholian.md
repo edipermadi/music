@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ I⁺, III, v, vi, VII⁺
 
 ![CSharpTholian](ModeCSharpTholian.png)
 
+## Diagram
+
+![CSharpTholian](CircleModeCSharpTholian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeTholian.md) | C# | C#, D##, E#, F###, G##, A#, B#, C# | ![CSharpTholian](ModeCSharpTholian.png) |
 | [3277](https://ianring.com/musictheory/scales/3277) | [Zycrian](ModeZycrian.md) | A# | A#, B#, C#, D##, E#, F###, G##, A# | ![ASharpZycrian](ModeASharpZycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeTholian.md) | C# | C#, D##, E#, F###, G##, A#, B#, C# | ![CSharpTholian](CircleModeCSharpTholian.png) |
+| [3277](https://ianring.com/musictheory/scales/3277) | [Zycrian](ModeZycrian.md) | A# | A#, B#, C#, D##, E#, F###, G##, A# | ![ASharpZycrian](CircleModeASharpZycrian.png) |
 
 ## Chords
 

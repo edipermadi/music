@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ Db
 
 ![DFlatDydian](ModeDFlatDydian.png)
 
+## Diagram
+
+![DFlatDydian](CircleModeDFlatDydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ Db
 | [2223](https://ianring.com/musictheory/scales/2223) | [Konian](ModeKonian.md) | G# | G#, A, Bb, Cb, Db, Eb, F##, G# | ![GSharpKonian](ModeGSharpKonian.png) |
 | [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeStocrian.md) | A | A, Bb, Cb, Db, Eb, F##, G#, A | ![ANaturalStocrian](ModeANaturalStocrian.png) |
 | [3627](https://ianring.com/musictheory/scales/3627) | [Kalian](ModeKalian.md) | Bb | Bb, Cb, Db, Eb, F##, G#, A, Bb | ![BFlatKalian](ModeBFlatKalian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1989](https://ianring.com/musictheory/scales/1989) | [Dydian](ModeDydian.md) | Db | Db, Eb, F##, G#, A, Bb, Cb, Db | ![DFlatDydian](CircleModeDFlatDydian.png) |
+| [1521](https://ianring.com/musictheory/scales/1521) | [Stanian](ModeStanian.md) | Eb | Eb, F##, G#, A, Bb, Cb, Db, Eb | ![EFlatStanian](CircleModeEFlatStanian.png) |
+| [2223](https://ianring.com/musictheory/scales/2223) | [Konian](ModeKonian.md) | G# | G#, A, Bb, Cb, Db, Eb, F##, G# | ![GSharpKonian](CircleModeGSharpKonian.png) |
+| [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeStocrian.md) | A | A, Bb, Cb, Db, Eb, F##, G#, A | ![ANaturalStocrian](CircleModeANaturalStocrian.png) |
+| [3627](https://ianring.com/musictheory/scales/3627) | [Kalian](ModeKalian.md) | Bb | Bb, Cb, Db, Eb, F##, G#, A, Bb | ![BFlatKalian](CircleModeBFlatKalian.png) |
 
 ## Chords
 

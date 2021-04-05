@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, VI
 
 ![ENaturalPhryptian](ModeENaturalPhryptian.png)
 
+## Diagram
+
+![ENaturalPhryptian](CircleModeENaturalPhryptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i, VI
 | [2471](https://ianring.com/musictheory/scales/2471) | [Eparian](ModeEparian.md) | B | B, C, Db, E, F#, G, A#, B | ![BNaturalEparian](ModeBNaturalEparian.png) |
 | [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeLyrian.md) | C | C, Db, E, F#, G, A#, B, C | ![CNaturalLyrian](ModeCNaturalLyrian.png) |
 | [3689](https://ianring.com/musictheory/scales/3689) | [Katocrian](ModeKatocrian.md) | Db | Db, E, F#, G, A#, B, C, Db | ![DFlatKatocrian](ModeDFlatKatocrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [973](https://ianring.com/musictheory/scales/973) | [Phryptian](ModePhryptian.md) | E | E, F#, G, A#, B, C, Db, E | ![ENaturalPhryptian](CircleModeENaturalPhryptian.png) |
+| [1267](https://ianring.com/musictheory/scales/1267) | [Katynian](ModeKatynian.md) | F# | F#, G, A#, B, C, Db, E, F# | ![FSharpKatynian](CircleModeFSharpKatynian.png) |
+| [2681](https://ianring.com/musictheory/scales/2681) | [Aerycrian](ModeAerycrian.md) | G | G, A#, B, C, Db, E, F#, G | ![GNaturalAerycrian](CircleModeGNaturalAerycrian.png) |
+| [847](https://ianring.com/musictheory/scales/847) | [Ganian](ModeGanian.md) | A# | A#, B, C, Db, E, F#, G, A# | ![ASharpGanian](CircleModeASharpGanian.png) |
+| [2471](https://ianring.com/musictheory/scales/2471) | [Eparian](ModeEparian.md) | B | B, C, Db, E, F#, G, A#, B | ![BNaturalEparian](CircleModeBNaturalEparian.png) |
+| [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeLyrian.md) | C | C, Db, E, F#, G, A#, B, C | ![CNaturalLyrian](CircleModeCNaturalLyrian.png) |
+| [3689](https://ianring.com/musictheory/scales/3689) | [Katocrian](ModeKatocrian.md) | Db | Db, E, F#, G, A#, B, C, Db | ![DFlatKatocrian](CircleModeDFlatKatocrian.png) |
 
 ## Chords
 

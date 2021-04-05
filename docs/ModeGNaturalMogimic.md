@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ II⁺, IV⁺, VI⁺
 
 ![GNaturalMogimic](ModeGNaturalMogimic.png)
 
+## Diagram
+
+![GNaturalMogimic](CircleModeGNaturalMogimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ II⁺, IV⁺, VI⁺
 | [2451](https://ianring.com/musictheory/scales/2451) | [Aerynimic](ModeAerynimic.md) | C | C, Db, E, F##, G#, A##, C | ![CNaturalAerynimic](ModeCNaturalAerynimic.png) |
 | [3273](https://ianring.com/musictheory/scales/3273) | [Ionodimic](ModeIonodimic.md) | Db | Db, E, F##, G#, A##, B#, Db | ![DFlatIonodimic](ModeDFlatIonodimic.png) |
 | [921](https://ianring.com/musictheory/scales/921) | [Bogimic](ModeBogimic.md) | E | E, F##, G#, A##, B#, C#, E | ![ENaturalBogimic](ModeENaturalBogimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [627](https://ianring.com/musictheory/scales/627) | [Mogimic](ModeMogimic.md) | G | G, Ab, B, C, Db, E, G | ![GNaturalMogimic](CircleModeGNaturalMogimic.png) |
+| [2361](https://ianring.com/musictheory/scales/2361) | [Docrimic](ModeDocrimic.md) | Ab | Ab, B, C, Db, E, F##, Ab | ![AFlatDocrimic](CircleModeAFlatDocrimic.png) |
+| [807](https://ianring.com/musictheory/scales/807) | [Epadimic](ModeEpadimic.md) | B | B, C, Db, E, F##, G#, B | ![BNaturalEpadimic](CircleModeBNaturalEpadimic.png) |
+| [2451](https://ianring.com/musictheory/scales/2451) | [Aerynimic](ModeAerynimic.md) | C | C, Db, E, F##, G#, A##, C | ![CNaturalAerynimic](CircleModeCNaturalAerynimic.png) |
+| [3273](https://ianring.com/musictheory/scales/3273) | [Ionodimic](ModeIonodimic.md) | Db | Db, E, F##, G#, A##, B#, Db | ![DFlatIonodimic](CircleModeDFlatIonodimic.png) |
+| [921](https://ianring.com/musictheory/scales/921) | [Bogimic](ModeBogimic.md) | E | E, F##, G#, A##, B#, C#, E | ![ENaturalBogimic](CircleModeENaturalBogimic.png) |
 
 ## Chords
 

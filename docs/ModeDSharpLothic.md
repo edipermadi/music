@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -49,6 +49,10 @@ D#
 
 ![DSharpLothic](ModeDSharpLothic.png)
 
+## Diagram
+
+![DSharpLothic](CircleModeDSharpLothic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -57,6 +61,14 @@ D#
 | [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | F# | F#, A#, B, D#, F# | ![FSharpPhratic](ModeFSharpPhratic.png) |
 | [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | A# | A#, B, D#, F#, A# | ![ASharpAerathic](ModeASharpAerathic.png) |
 | [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | B | B, D#, F#, A#, B | ![BNaturalThaptic](ModeBNaturalThaptic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | D# | D#, F#, A#, B, D# | ![DSharpLothic](CircleModeDSharpLothic.png) |
+| [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | F# | F#, A#, B, D#, F# | ![FSharpPhratic](CircleModeFSharpPhratic.png) |
+| [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | A# | A#, B, D#, F#, A# | ![ASharpAerathic](CircleModeASharpAerathic.png) |
+| [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | B | B, D#, F#, A#, B | ![BNaturalThaptic](CircleModeBNaturalThaptic.png) |
 
 ## Chords
 

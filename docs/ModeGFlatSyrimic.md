@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ iii
 
 ![GFlatSyrimic](ModeGFlatSyrimic.png)
 
+## Diagram
+
+![GFlatSyrimic](CircleModeGFlatSyrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ iii
 | [1575](https://ianring.com/musictheory/scales/1575) | [Zycrimic](ModeZycrimic.md) | C# | C#, D, Eb, F#, G###, A##, C# | ![CSharpZycrimic](ModeCSharpZycrimic.png) |
 | [2835](https://ianring.com/musictheory/scales/2835) | [Ionygimic](ModeIonygimic.md) | D | D, Eb, F#, G###, A##, B##, D | ![DNaturalIonygimic](ModeDNaturalIonygimic.png) |
 | [3465](https://ianring.com/musictheory/scales/3465) | [Katathimic](ModeKatathimic.md) | Eb | Eb, F#, G###, A##, B##, C##, Eb | ![EFlatKatathimic](ModeEFlatKatathimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [945](https://ianring.com/musictheory/scales/945) | [Syrimic](ModeSyrimic.md) | Gb | Gb, A#, B, C#, D, Eb, Gb | ![GFlatSyrimic](CircleModeGFlatSyrimic.png) |
+| [315](https://ianring.com/musictheory/scales/315) | [Stodimic](ModeStodimic.md) | A# | A#, B, C#, D, Eb, F#, A# | ![ASharpStodimic](CircleModeASharpStodimic.png) |
+| [2205](https://ianring.com/musictheory/scales/2205) | [Ionocrimic](ModeIonocrimic.md) | B | B, C#, D, Eb, F#, G###, B | ![BNaturalIonocrimic](CircleModeBNaturalIonocrimic.png) |
+| [1575](https://ianring.com/musictheory/scales/1575) | [Zycrimic](ModeZycrimic.md) | C# | C#, D, Eb, F#, G###, A##, C# | ![CSharpZycrimic](CircleModeCSharpZycrimic.png) |
+| [2835](https://ianring.com/musictheory/scales/2835) | [Ionygimic](ModeIonygimic.md) | D | D, Eb, F#, G###, A##, B##, D | ![DNaturalIonygimic](CircleModeDNaturalIonygimic.png) |
+| [3465](https://ianring.com/musictheory/scales/3465) | [Katathimic](ModeKatathimic.md) | Eb | Eb, F#, G###, A##, B##, C##, Eb | ![EFlatKatathimic](CircleModeEFlatKatathimic.png) |
 
 ## Chords
 

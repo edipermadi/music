@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ iii
 
 ![ANaturalMorimic](ModeANaturalMorimic.png)
 
+## Diagram
+
+![ANaturalMorimic](CircleModeANaturalMorimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2467](https://ianring.com/musictheory/scales/2467) | [Morimic](ModeMorimic.md) | A | A, Bb, C##, D##, E#, F###, A | ![ANaturalMorimic](ModeANaturalMorimic.png) |
 | [3281](https://ianring.com/musictheory/scales/3281) | [Katythimic](ModeKatythimic.md) | Bb | Bb, C##, D##, E#, F###, G##, Bb | ![BFlatKatythimic](ModeBFlatKatythimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2467](https://ianring.com/musictheory/scales/2467) | [Morimic](ModeMorimic.md) | A | A, Bb, C##, D##, E#, F###, A | ![ANaturalMorimic](CircleModeANaturalMorimic.png) |
+| [3281](https://ianring.com/musictheory/scales/3281) | [Katythimic](ModeKatythimic.md) | Bb | Bb, C##, D##, E#, F###, G##, Bb | ![BFlatKatythimic](CircleModeBFlatKatythimic.png) |
 
 ## Chords
 

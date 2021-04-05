@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ B
 
 ![BNaturalEpodian](ModeBNaturalEpodian.png)
 
+## Diagram
+
+![BNaturalEpodian](CircleModeBNaturalEpodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ B
 | [319](https://ianring.com/musictheory/scales/319) | [Epodian](ModeEpodian.md) | B | B, C, Db, Ebb, Fbb, Gbbb, Abb, B | ![BNaturalEpodian](ModeBNaturalEpodian.png) |
 | [2207](https://ianring.com/musictheory/scales/2207) | [Mygian](ModeMygian.md) | C | C, Db, Ebb, Fbb, Gbbb, Abb, B, C | ![CNaturalMygian](ModeCNaturalMygian.png) |
 | [3151](https://ianring.com/musictheory/scales/3151) | [Pacrian](ModePacrian.md) | Db | Db, Ebb, Fbb, Gbbb, Abb, B, C, Db | ![DFlatPacrian](ModeDFlatPacrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [319](https://ianring.com/musictheory/scales/319) | [Epodian](ModeEpodian.md) | B | B, C, Db, Ebb, Fbb, Gbbb, Abb, B | ![BNaturalEpodian](CircleModeBNaturalEpodian.png) |
+| [2207](https://ianring.com/musictheory/scales/2207) | [Mygian](ModeMygian.md) | C | C, Db, Ebb, Fbb, Gbbb, Abb, B, C | ![CNaturalMygian](CircleModeCNaturalMygian.png) |
+| [3151](https://ianring.com/musictheory/scales/3151) | [Pacrian](ModePacrian.md) | Db | Db, Ebb, Fbb, Gbbb, Abb, B, C, Db | ![DFlatPacrian](CircleModeDFlatPacrian.png) |
 
 ## Chords
 

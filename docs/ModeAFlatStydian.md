@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, ii⁰, iii⁰, iv, v, VI⁺, VII
 
 ![AFlatStydian](ModeAFlatStydian.png)
 
+## Diagram
+
+![AFlatStydian](CircleModeAFlatStydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I, ii⁰, iii⁰, iv, v, VI⁺, VII
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | Db | Db, Eb, Fb, Gb, Ab, Bb, C, Db | ![DFlatBocrian](ModeDFlatBocrian.png) |
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | Eb | Eb, Fb, Gb, Ab, Bb, C, Db, Eb | ![EFlatMixolythian](ModeEFlatMixolythian.png) |
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | Gb | Gb, Ab, Bb, C, Db, Eb, Fb, Gb | ![GFlatLythian](ModeGFlatLythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | Ab | Ab, Bb, C, Db, Eb, Fb, Gb, Ab | ![AFlatStydian](CircleModeAFlatStydian.png) |
+| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | Bb | Bb, C, Db, Eb, Fb, Gb, Ab, Bb | ![BFlatLorian](CircleModeBFlatLorian.png) |
+| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | C | C, Db, Eb, Fb, Gb, Ab, Bb, C | ![CNaturalIonadian](CircleModeCNaturalIonadian.png) |
+| [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | Db | Db, Eb, Fb, Gb, Ab, Bb, C, Db | ![DFlatBocrian](CircleModeDFlatBocrian.png) |
+| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | Eb | Eb, Fb, Gb, Ab, Bb, C, Db, Eb | ![EFlatMixolythian](CircleModeEFlatMixolythian.png) |
+| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | Gb | Gb, Ab, Bb, C, Db, Eb, Fb, Gb | ![GFlatLythian](CircleModeGFlatLythian.png) |
 
 ## Chords
 

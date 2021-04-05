@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ B
 
 ![BNaturalThyphian](ModeBNaturalThyphian.png)
 
+## Diagram
+
+![BNaturalThyphian](CircleModeBNaturalThyphian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ B
 | [1993](https://ianring.com/musictheory/scales/1993) | [Katoptian](ModeKatoptian.md) | Eb | Eb, F#, G##, A#, B, C, Db, Eb | ![EFlatKatoptian](ModeEFlatKatoptian.png) |
 | [761](https://ianring.com/musictheory/scales/761) | [Ponian](ModePonian.md) | F# | F#, G##, A#, B, C, Db, Eb, F# | ![FSharpPonian](ModeFSharpPonian.png) |
 | [2351](https://ianring.com/musictheory/scales/2351) | [Gynian](ModeGynian.md) | A# | A#, B, C, Db, Eb, F#, G##, A# | ![ASharpGynian](ModeASharpGynian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3223](https://ianring.com/musictheory/scales/3223) | [Thyphian](ModeThyphian.md) | B | B, C, Db, Eb, F#, G##, A#, B | ![BNaturalThyphian](CircleModeBNaturalThyphian.png) |
+| [3659](https://ianring.com/musictheory/scales/3659) | [Polian](ModePolian.md) | C | C, Db, Eb, F#, G##, A#, B, C | ![CNaturalPolian](CircleModeCNaturalPolian.png) |
+| [3877](https://ianring.com/musictheory/scales/3877) | [Thanian](ModeThanian.md) | Db | Db, Eb, F#, G##, A#, B, C, Db | ![DFlatThanian](CircleModeDFlatThanian.png) |
+| [1993](https://ianring.com/musictheory/scales/1993) | [Katoptian](ModeKatoptian.md) | Eb | Eb, F#, G##, A#, B, C, Db, Eb | ![EFlatKatoptian](CircleModeEFlatKatoptian.png) |
+| [761](https://ianring.com/musictheory/scales/761) | [Ponian](ModePonian.md) | F# | F#, G##, A#, B, C, Db, Eb, F# | ![FSharpPonian](CircleModeFSharpPonian.png) |
+| [2351](https://ianring.com/musictheory/scales/2351) | [Gynian](ModeGynian.md) | A# | A#, B, C, Db, Eb, F#, G##, A# | ![ASharpGynian](CircleModeASharpGynian.png) |
 
 ## Chords
 

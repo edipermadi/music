@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ i⁰, iii, IV⁺, V⁺, VI
 
 ![DFlatStorian](ModeDFlatStorian.png)
 
+## Diagram
+
+![DFlatStorian](CircleModeDFlatStorian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | Db | Db, Eb, Fb, Gbb, Abb, Bbb, Cb, Db | ![DFlatStorian](ModeDFlatStorian.png) |
 | [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | Eb | Eb, Fb, Gbb, Abb, Bbb, Cb, Db, Eb | ![EFlatPyptian](ModeEFlatPyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | Db | Db, Eb, Fb, Gbb, Abb, Bbb, Cb, Db | ![DFlatStorian](CircleModeDFlatStorian.png) |
+| [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | Eb | Eb, Fb, Gbb, Abb, Bbb, Cb, Db, Eb | ![EFlatPyptian](CircleModeEFlatPyptian.png) |
 
 ## Chords
 

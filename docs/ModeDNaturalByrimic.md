@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ iii⁰, iv⁰
 
 ![DNaturalByrimic](ModeDNaturalByrimic.png)
 
+## Diagram
+
+![DNaturalByrimic](CircleModeDNaturalByrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2885](https://ianring.com/musictheory/scales/2885) | [Byrimic](ModeByrimic.md) | D | D, E, F###, G###, A##, B##, D | ![DNaturalByrimic](ModeDNaturalByrimic.png) |
 | [1745](https://ianring.com/musictheory/scales/1745) | [Manimic](ModeManimic.md) | E | E, F###, G###, A##, B##, C##, E | ![ENaturalManimic](ModeENaturalManimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2885](https://ianring.com/musictheory/scales/2885) | [Byrimic](ModeByrimic.md) | D | D, E, F###, G###, A##, B##, D | ![DNaturalByrimic](CircleModeDNaturalByrimic.png) |
+| [1745](https://ianring.com/musictheory/scales/1745) | [Manimic](ModeManimic.md) | E | E, F###, G###, A##, B##, C##, E | ![ENaturalManimic](CircleModeENaturalManimic.png) |
 
 ## Chords
 

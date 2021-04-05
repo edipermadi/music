@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺, V, vii⁰
 
 ![AFlatAeracrian](ModeAFlatAeracrian.png)
 
+## Diagram
+
+![AFlatAeracrian](CircleModeAFlatAeracrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, III⁺, V, vii⁰
 | [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | Eb | Eb, F#, G, Ab, Bb, Cb, Db, Eb | ![EFlatAerathian](ModeEFlatAerathian.png) |
 | [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | F# | F#, G, Ab, Bb, Cb, Db, Eb, F# | ![FSharpSarian](ModeFSharpSarian.png) |
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | G | G, Ab, Bb, Cb, Db, Eb, F#, G | ![GNaturalZoptian](ModeGNaturalZoptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3245](https://ianring.com/musictheory/scales/3245) | [Aeracrian](ModeAeracrian.md) | Ab | Ab, Bb, Cb, Db, Eb, F#, G, Ab | ![AFlatAeracrian](CircleModeAFlatAeracrian.png) |
+| [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | Bb | Bb, Cb, Db, Eb, F#, G, Ab, Bb | ![BFlatByptian](CircleModeBFlatByptian.png) |
+| [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | Db | Db, Eb, F#, G, Ab, Bb, Cb, Db | ![DFlatLonian](CircleModeDFlatLonian.png) |
+| [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | Eb | Eb, F#, G, Ab, Bb, Cb, Db, Eb | ![EFlatAerathian](CircleModeEFlatAerathian.png) |
+| [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | F# | F#, G, Ab, Bb, Cb, Db, Eb, F# | ![FSharpSarian](CircleModeFSharpSarian.png) |
+| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | G | G, Ab, Bb, Cb, Db, Eb, F#, G | ![GNaturalZoptian](CircleModeGNaturalZoptian.png) |
 
 ## Chords
 

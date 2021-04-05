@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ i⁰, VI
 
 ![AFlatAeolygimic](ModeAFlatAeolygimic.png)
 
+## Diagram
+
+![AFlatAeolygimic](CircleModeAFlatAeolygimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [603](https://ianring.com/musictheory/scales/603) | [Aeolygimic](ModeAeolygimic.md) | Ab | Ab, Bbb, Cb, Dbb, Ebb, F, Ab | ![AFlatAeolygimic](ModeAFlatAeolygimic.png) |
 | [729](https://ianring.com/musictheory/scales/729) | [Stygimic](ModeStygimic.md) | F | F, G#, A, B, C, D, F | ![FNaturalStygimic](ModeFNaturalStygimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [603](https://ianring.com/musictheory/scales/603) | [Aeolygimic](ModeAeolygimic.md) | Ab | Ab, Bbb, Cb, Dbb, Ebb, F, Ab | ![AFlatAeolygimic](CircleModeAFlatAeolygimic.png) |
+| [729](https://ianring.com/musictheory/scales/729) | [Stygimic](ModeStygimic.md) | F | F, G#, A, B, C, D, F | ![FNaturalStygimic](CircleModeFNaturalStygimic.png) |
 
 ## Chords
 

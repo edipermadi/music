@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -50,6 +50,10 @@ Eb
 
 ![EFlatIonythitonic](ModeEFlatIonythitonic.png)
 
+## Diagram
+
+![EFlatIonythitonic](CircleModeEFlatIonythitonic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,15 @@ Eb
 | [453](https://ianring.com/musictheory/scales/453) | [Raditonic](ModeRaditonic.md) | Ab | Ab, Bb, D, Eb, E, Ab | ![AFlatRaditonic](ModeAFlatRaditonic.png) |
 | [1137](https://ianring.com/musictheory/scales/1137) | [Stonitonic](ModeStonitonic.md) | Bb | Bb, D, Eb, E, Ab, Bb | ![BFlatStonitonic](ModeBFlatStonitonic.png) |
 | [327](https://ianring.com/musictheory/scales/327) | [Syptitonic](ModeSyptitonic.md) | D | D, D#, E, G#, A#, D | ![DNaturalSyptitonic](ModeDNaturalSyptitonic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2211](https://ianring.com/musictheory/scales/2211) | [Ionythitonic](ModeIonythitonic.md) | Eb | Eb, E, Ab, Bb, D, Eb | ![EFlatIonythitonic](CircleModeEFlatIonythitonic.png) |
+| [3153](https://ianring.com/musictheory/scales/3153) | [Zathitonic](ModeZathitonic.md) | E | E, G#, A#, D, D#, E | ![ENaturalZathitonic](CircleModeENaturalZathitonic.png) |
+| [453](https://ianring.com/musictheory/scales/453) | [Raditonic](ModeRaditonic.md) | Ab | Ab, Bb, D, Eb, E, Ab | ![AFlatRaditonic](CircleModeAFlatRaditonic.png) |
+| [1137](https://ianring.com/musictheory/scales/1137) | [Stonitonic](ModeStonitonic.md) | Bb | Bb, D, Eb, E, Ab, Bb | ![BFlatStonitonic](CircleModeBFlatStonitonic.png) |
+| [327](https://ianring.com/musictheory/scales/327) | [Syptitonic](ModeSyptitonic.md) | D | D, D#, E, G#, A#, D | ![DNaturalSyptitonic](CircleModeDNaturalSyptitonic.png) |
 
 ## Chords
 

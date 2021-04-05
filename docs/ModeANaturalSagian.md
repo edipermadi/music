@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺, IV⁺, V, VI
 
 ![ANaturalSagian](ModeANaturalSagian.png)
 
+## Diagram
+
+![ANaturalSagian](CircleModeANaturalSagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i, III⁺, IV⁺, V, VI
 | [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | E | E, F, G#, A, B, C, Db, E | ![ENaturalModian](ModeENaturalModian.png) |
 | [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | F | F, G#, A, B, C, Db, E, F | ![FNaturalBarian](ModeFNaturalBarian.png) |
 | [827](https://ianring.com/musictheory/scales/827) | [Mixolocrian](ModeMixolocrian.md) | G# | G#, A, B, C, Db, E, F, G# | ![GSharpMixolocrian](ModeGSharpMixolocrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | A | A, B, C, Db, E, F, G#, A | ![ANaturalSagian](CircleModeANaturalSagian.png) |
+| [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | B | B, C, Db, E, F, G#, A, B | ![BNaturalAeolothian](CircleModeBNaturalAeolothian.png) |
+| [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | C | C, Db, E, F, G#, A, B, C | ![CNaturalSocrian](CircleModeCNaturalSocrian.png) |
+| [3481](https://ianring.com/musictheory/scales/3481) | [Katathian](ModeKatathian.md) | Db | Db, E, F, G#, A, B, C, Db | ![DFlatKatathian](CircleModeDFlatKatathian.png) |
+| [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | E | E, F, G#, A, B, C, Db, E | ![ENaturalModian](CircleModeENaturalModian.png) |
+| [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | F | F, G#, A, B, C, Db, E, F | ![FNaturalBarian](CircleModeFNaturalBarian.png) |
+| [827](https://ianring.com/musictheory/scales/827) | [Mixolocrian](ModeMixolocrian.md) | G# | G#, A, B, C, Db, E, F, G# | ![GSharpMixolocrian](CircleModeGSharpMixolocrian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -50,6 +50,10 @@ F#
 
 ![FSharpKatycritonic](ModeFSharpKatycritonic.png)
 
+## Diagram
+
+![FSharpKatycritonic](CircleModeFSharpKatycritonic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,15 @@ F#
 | [1171](https://ianring.com/musictheory/scales/1171) | [Loptitonic](ModeLoptitonic.md) | B | B, C, D#, F#, A, B | ![BNaturalLoptitonic](ModeBNaturalLoptitonic.png) |
 | [2633](https://ianring.com/musictheory/scales/2633) | [Mixitonic](ModeMixitonic.md) | C | C, D#, F#, A, B, C | ![CNaturalMixitonic](ModeCNaturalMixitonic.png) |
 | [841](https://ianring.com/musictheory/scales/841) | [Phrothitonic](ModePhrothitonic.md) | D# | D#, F#, A, B, C, D# | ![DSharpPhrothitonic](ModeDSharpPhrothitonic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [617](https://ianring.com/musictheory/scales/617) | [Katycritonic](ModeKatycritonic.md) | F# | F#, A, B, C, D#, F# | ![FSharpKatycritonic](CircleModeFSharpKatycritonic.png) |
+| [589](https://ianring.com/musictheory/scales/589) | [Ionalitonic](ModeIonalitonic.md) | A | A, B, C, D#, F#, A | ![ANaturalIonalitonic](CircleModeANaturalIonalitonic.png) |
+| [1171](https://ianring.com/musictheory/scales/1171) | [Loptitonic](ModeLoptitonic.md) | B | B, C, D#, F#, A, B | ![BNaturalLoptitonic](CircleModeBNaturalLoptitonic.png) |
+| [2633](https://ianring.com/musictheory/scales/2633) | [Mixitonic](ModeMixitonic.md) | C | C, D#, F#, A, B, C | ![CNaturalMixitonic](CircleModeCNaturalMixitonic.png) |
+| [841](https://ianring.com/musictheory/scales/841) | [Phrothitonic](ModePhrothitonic.md) | D# | D#, F#, A, B, C, D# | ![DSharpPhrothitonic](CircleModeDSharpPhrothitonic.png) |
 
 ## Chords
 

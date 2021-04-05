@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -53,6 +53,10 @@ i⁰, ii⁰, iii⁰, iv⁰, v⁰, vi⁰, vii⁰, viii⁰
 
 ![ASharpMinorDiminished](ModeASharpMinorDiminished.png)
 
+## Diagram
+
+![ASharpMinorDiminished](CircleModeASharpMinorDiminished.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -65,6 +69,18 @@ i⁰, ii⁰, iii⁰, iv⁰, v⁰, vi⁰, vii⁰, viii⁰
 | [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | F | F, G, G#, A#, B, C#, D, E, F | ![FNaturalMajorDiminished](ModeFNaturalMajorDiminished.png) |
 | [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | G | G, G#, A#, B, C#, D, E, F, G | ![GNaturalMinorDiminished](ModeGNaturalMinorDiminished.png) |
 | [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | G# | G#, A#, B, C#, D, E, F, G, G# | ![GSharpMajorDiminished](ModeGSharpMajorDiminished.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | A# | A#, B, C#, D, E, F, G, G#, A# | ![ASharpMinorDiminished](CircleModeASharpMinorDiminished.png) |
+| [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | B | B, C#, D, E, F, G, G#, A#, B | ![BNaturalMajorDiminished](CircleModeBNaturalMajorDiminished.png) |
+| [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | C# | C#, D, E, F, G, G#, A#, B, C# | ![CSharpMinorDiminished](CircleModeCSharpMinorDiminished.png) |
+| [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | D | D, E, F, G, G#, A#, B, C#, D | ![DNaturalMajorDiminished](CircleModeDNaturalMajorDiminished.png) |
+| [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | E | E, F, G, G#, A#, B, C#, D, E | ![ENaturalMinorDiminished](CircleModeENaturalMinorDiminished.png) |
+| [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | F | F, G, G#, A#, B, C#, D, E, F | ![FNaturalMajorDiminished](CircleModeFNaturalMajorDiminished.png) |
+| [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | G | G, G#, A#, B, C#, D, E, F, G | ![GNaturalMinorDiminished](CircleModeGNaturalMinorDiminished.png) |
+| [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | G# | G#, A#, B, C#, D, E, F, G, G# | ![GSharpMajorDiminished](CircleModeGSharpMajorDiminished.png) |
 
 ## Chords
 

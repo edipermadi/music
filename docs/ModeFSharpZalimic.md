@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ iv⁰, V
 
 ![FSharpZalimic](ModeFSharpZalimic.png)
 
+## Diagram
+
+![FSharpZalimic](CircleModeFSharpZalimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ iv⁰, V
 | [1419](https://ianring.com/musictheory/scales/1419) | [Zalimic](ModeZalimic.md) | F# | F#, G, A, B##, C##, D##, F# | ![FSharpZalimic](ModeFSharpZalimic.png) |
 | [2757](https://ianring.com/musictheory/scales/2757) | [Stolimic](ModeStolimic.md) | G | G, A, B##, C##, D##, E##, G | ![GNaturalStolimic](ModeGNaturalStolimic.png) |
 | [1713](https://ianring.com/musictheory/scales/1713) | [Garimic](ModeGarimic.md) | A | A, B##, C##, D##, E##, F##, A | ![ANaturalGarimic](ModeANaturalGarimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1419](https://ianring.com/musictheory/scales/1419) | [Zalimic](ModeZalimic.md) | F# | F#, G, A, B##, C##, D##, F# | ![FSharpZalimic](CircleModeFSharpZalimic.png) |
+| [2757](https://ianring.com/musictheory/scales/2757) | [Stolimic](ModeStolimic.md) | G | G, A, B##, C##, D##, E##, G | ![GNaturalStolimic](CircleModeGNaturalStolimic.png) |
+| [1713](https://ianring.com/musictheory/scales/1713) | [Garimic](ModeGarimic.md) | A | A, B##, C##, D##, E##, F##, A | ![ANaturalGarimic](CircleModeANaturalGarimic.png) |
 
 ## Chords
 

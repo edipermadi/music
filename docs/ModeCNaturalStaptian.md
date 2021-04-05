@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺
 
 ![CNaturalStaptian](ModeCNaturalStaptian.png)
 
+## Diagram
+
+![CNaturalStaptian](CircleModeCNaturalStaptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i, III⁺
 | [1401](https://ianring.com/musictheory/scales/1401) | [Pagian](ModePagian.md) | G | G, A#, B, C, Db, Eb, F, G | ![GNaturalPagian](ModeGNaturalPagian.png) |
 | [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeAeolythian.md) | A# | A#, B, C, Db, Eb, F, G, A# | ![ASharpAeolythian](ModeASharpAeolythian.png) |
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | B | B, C, Db, Eb, F, G, A#, B | ![BNaturalMolian](ModeBNaturalMolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3243](https://ianring.com/musictheory/scales/3243) | [Staptian](ModeStaptian.md) | C | C, Db, Eb, F, G, A#, B, C | ![CNaturalStaptian](CircleModeCNaturalStaptian.png) |
+| [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeMothian.md) | Db | Db, Eb, F, G, A#, B, C, Db | ![DFlatMothian](CircleModeDFlatMothian.png) |
+| [1941](https://ianring.com/musictheory/scales/1941) | [Aeranian](ModeAeranian.md) | Eb | Eb, F, G, A#, B, C, Db, Eb | ![EFlatAeranian](CircleModeEFlatAeranian.png) |
+| [1509](https://ianring.com/musictheory/scales/1509) | [Ragian](ModeRagian.md) | F | F, G, A#, B, C, Db, Eb, F | ![FNaturalRagian](CircleModeFNaturalRagian.png) |
+| [1401](https://ianring.com/musictheory/scales/1401) | [Pagian](ModePagian.md) | G | G, A#, B, C, Db, Eb, F, G | ![GNaturalPagian](CircleModeGNaturalPagian.png) |
+| [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeAeolythian.md) | A# | A#, B, C, Db, Eb, F, G, A# | ![ASharpAeolythian](CircleModeASharpAeolythian.png) |
+| [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | B | B, C, Db, Eb, F, G, A#, B | ![BNaturalMolian](CircleModeBNaturalMolian.png) |
 
 ## Chords
 

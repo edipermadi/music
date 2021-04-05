@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ II, VII⁺
 
 ![DSharpPhrocrian](ModeDSharpPhrocrian.png)
 
+## Diagram
+
+![DSharpPhrocrian](CircleModeDSharpPhrocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3737](https://ianring.com/musictheory/scales/3737) | [Phrocrian](ModePhrocrian.md) | D# | D#, E##, F##, G###, A###, B##, C##, D# | ![DSharpPhrocrian](ModeDSharpPhrocrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3737](https://ianring.com/musictheory/scales/3737) | [Phrocrian](ModePhrocrian.md) | D# | D#, E##, F##, G###, A###, B##, C##, D# | ![DSharpPhrocrian](CircleModeDSharpPhrocrian.png) |
 
 ## Chords
 

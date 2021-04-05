@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II, iii⁰, v, VII⁺
 
 ![EFlatPhrolian](ModeEFlatPhrolian.png)
 
+## Diagram
+
+![EFlatPhrolian](CircleModeEFlatPhrolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ II, iii⁰, v, VII⁺
 | [2717](https://ianring.com/musictheory/scales/2717) | [Epygian](ModeEpygian.md) | B | B, C#, D, Eb, F#, G#, A#, B | ![BNaturalEpygian](ModeBNaturalEpygian.png) |
 | [1703](https://ianring.com/musictheory/scales/1703) | [Zaptian](ModeZaptian.md) | C# | C#, D, Eb, F#, G#, A#, B, C# | ![CSharpZaptian](ModeCSharpZaptian.png) |
 | [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeKagian.md) | D | D, Eb, F#, G#, A#, B, C#, D | ![DNaturalKagian](ModeDNaturalKagian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModePhrolian.md) | Eb | Eb, F#, G#, A#, B, C#, D, Eb | ![EFlatPhrolian](CircleModeEFlatPhrolian.png) |
+| [949](https://ianring.com/musictheory/scales/949) | [Ionagian](ModeIonagian.md) | F# | F#, G#, A#, B, C#, D, Eb, F# | ![FSharpIonagian](CircleModeFSharpIonagian.png) |
+| [1261](https://ianring.com/musictheory/scales/1261) | [Aeodian](ModeAeodian.md) | G# | G#, A#, B, C#, D, Eb, F#, G# | ![GSharpAeodian](CircleModeGSharpAeodian.png) |
+| [1339](https://ianring.com/musictheory/scales/1339) | [Kycrian](ModeKycrian.md) | A# | A#, B, C#, D, Eb, F#, G#, A# | ![ASharpKycrian](CircleModeASharpKycrian.png) |
+| [2717](https://ianring.com/musictheory/scales/2717) | [Epygian](ModeEpygian.md) | B | B, C#, D, Eb, F#, G#, A#, B | ![BNaturalEpygian](CircleModeBNaturalEpygian.png) |
+| [1703](https://ianring.com/musictheory/scales/1703) | [Zaptian](ModeZaptian.md) | C# | C#, D, Eb, F#, G#, A#, B, C# | ![CSharpZaptian](CircleModeCSharpZaptian.png) |
+| [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeKagian.md) | D | D, Eb, F#, G#, A#, B, C#, D | ![DNaturalKagian](CircleModeDNaturalKagian.png) |
 
 ## Chords
 

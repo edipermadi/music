@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ iii⁰
 
 ![DSharpStythian](ModeDSharpStythian.png)
 
+## Diagram
+
+![DSharpStythian](CircleModeDSharpStythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2993](https://ianring.com/musictheory/scales/2993) | [Stythian](ModeStythian.md) | D# | D#, E###, F###, G###, A##, B#, C##, D# | ![DSharpStythian](ModeDSharpStythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2993](https://ianring.com/musictheory/scales/2993) | [Stythian](ModeStythian.md) | D# | D#, E###, F###, G###, A##, B#, C##, D# | ![DSharpStythian](CircleModeDSharpStythian.png) |
 
 ## Chords
 

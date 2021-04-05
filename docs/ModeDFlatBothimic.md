@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ II
 
 ![DFlatBothimic](ModeDFlatBothimic.png)
 
+## Diagram
+
+![DFlatBothimic](CircleModeDFlatBothimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [359](https://ianring.com/musictheory/scales/359) | [Bothimic](ModeBothimic.md) | Db | Db, Ebb, Fbb, Gb, Abb, Bbb, Db | ![DFlatBothimic](ModeDFlatBothimic.png) |
 | [907](https://ianring.com/musictheory/scales/907) | [Tholimic](ModeTholimic.md) | Gb | Gb, Abb, Bbb, C#, D, Eb, Gb | ![GFlatTholimic](ModeGFlatTholimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [359](https://ianring.com/musictheory/scales/359) | [Bothimic](ModeBothimic.md) | Db | Db, Ebb, Fbb, Gb, Abb, Bbb, Db | ![DFlatBothimic](CircleModeDFlatBothimic.png) |
+| [907](https://ianring.com/musictheory/scales/907) | [Tholimic](ModeTholimic.md) | Gb | Gb, Abb, Bbb, C#, D, Eb, Gb | ![GFlatTholimic](CircleModeGFlatTholimic.png) |
 
 ## Chords
 

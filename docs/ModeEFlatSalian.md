@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ Eb
 
 ![EFlatSalian](ModeEFlatSalian.png)
 
+## Diagram
+
+![EFlatSalian](CircleModeEFlatSalian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ Eb
 | [1583](https://ianring.com/musictheory/scales/1583) | [Salian](ModeSalian.md) | Eb | Eb, Fb, Gbb, Abbb, Bbbb, C, Db, Eb | ![EFlatSalian](ModeEFlatSalian.png) |
 | [379](https://ianring.com/musictheory/scales/379) | [Aeragian](ModeAeragian.md) | C | C, Db, Eb, Fb, Gbb, Abbb, Bbbb, C | ![CNaturalAeragian](ModeCNaturalAeragian.png) |
 | [2237](https://ianring.com/musictheory/scales/2237) | [Epothian](ModeEpothian.md) | Db | Db, Eb, Fb, Gbb, Abbb, Bbbb, C, Db | ![DFlatEpothian](ModeDFlatEpothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1583](https://ianring.com/musictheory/scales/1583) | [Salian](ModeSalian.md) | Eb | Eb, Fb, Gbb, Abbb, Bbbb, C, Db, Eb | ![EFlatSalian](CircleModeEFlatSalian.png) |
+| [379](https://ianring.com/musictheory/scales/379) | [Aeragian](ModeAeragian.md) | C | C, Db, Eb, Fb, Gbb, Abbb, Bbbb, C | ![CNaturalAeragian](CircleModeCNaturalAeragian.png) |
+| [2237](https://ianring.com/musictheory/scales/2237) | [Epothian](ModeEpothian.md) | Db | Db, Eb, Fb, Gbb, Abbb, Bbbb, C, Db | ![DFlatEpothian](CircleModeDFlatEpothian.png) |
 
 ## Chords
 

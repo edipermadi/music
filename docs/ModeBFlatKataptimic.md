@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ Bb
 
 ![BFlatKataptimic](ModeBFlatKataptimic.png)
 
+## Diagram
+
+![BFlatKataptimic](CircleModeBFlatKataptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ Bb
 | [655](https://ianring.com/musictheory/scales/655) | [Kataptimic](ModeKataptimic.md) | Bb | Bb, Cb, Dbb, Ebbb, F, G, Bb | ![BFlatKataptimic](ModeBFlatKataptimic.png) |
 | [485](https://ianring.com/musictheory/scales/485) | [Stoptimic](ModeStoptimic.md) | F | F, G, A#, B, C, Db, F | ![FNaturalStoptimic](ModeFNaturalStoptimic.png) |
 | [1145](https://ianring.com/musictheory/scales/1145) | [Zygimic](ModeZygimic.md) | G | G, A#, B, C, Db, E#, G | ![GNaturalZygimic](ModeGNaturalZygimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [655](https://ianring.com/musictheory/scales/655) | [Kataptimic](ModeKataptimic.md) | Bb | Bb, Cb, Dbb, Ebbb, F, G, Bb | ![BFlatKataptimic](CircleModeBFlatKataptimic.png) |
+| [485](https://ianring.com/musictheory/scales/485) | [Stoptimic](ModeStoptimic.md) | F | F, G, A#, B, C, Db, F | ![FNaturalStoptimic](CircleModeFNaturalStoptimic.png) |
+| [1145](https://ianring.com/musictheory/scales/1145) | [Zygimic](ModeZygimic.md) | G | G, A#, B, C, Db, E#, G | ![GNaturalZygimic](CircleModeGNaturalZygimic.png) |
 
 ## Chords
 

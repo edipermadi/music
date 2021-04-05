@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, II, III⁺, iv, VI
 
 ![FSharpAerylian](ModeFSharpAerylian.png)
 
+## Diagram
+
+![FSharpAerylian](CircleModeFSharpAerylian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, II, III⁺, iv, VI
 | [1485](https://ianring.com/musictheory/scales/1485) | [Tyrian](ModeTyrian.md) | B | B, C#, D, E#, F#, G, A, B | ![BNaturalTyrian](ModeBNaturalTyrian.png) |
 | [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeMixonorian.md) | C# | C#, D, E#, F#, G, A, B, C# | ![CSharpMixonorian](ModeCSharpMixonorian.png) |
 | [2745](https://ianring.com/musictheory/scales/2745) | [Dolian](ModeDolian.md) | D | D, E#, F#, G, A, B, C#, D | ![DNaturalDolian](ModeDNaturalDolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2475](https://ianring.com/musictheory/scales/2475) | [Aerylian](ModeAerylian.md) | F# | F#, G, A, B, C#, D, E#, F# | ![FSharpAerylian](CircleModeFSharpAerylian.png) |
+| [3285](https://ianring.com/musictheory/scales/3285) | [Zagian](ModeZagian.md) | G | G, A, B, C#, D, E#, F#, G | ![GNaturalZagian](CircleModeGNaturalZagian.png) |
+| [1845](https://ianring.com/musictheory/scales/1845) | [Lagian](ModeLagian.md) | A | A, B, C#, D, E#, F#, G, A | ![ANaturalLagian](CircleModeANaturalLagian.png) |
+| [1485](https://ianring.com/musictheory/scales/1485) | [Tyrian](ModeTyrian.md) | B | B, C#, D, E#, F#, G, A, B | ![BNaturalTyrian](CircleModeBNaturalTyrian.png) |
+| [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeMixonorian.md) | C# | C#, D, E#, F#, G, A, B, C# | ![CSharpMixonorian](CircleModeCSharpMixonorian.png) |
+| [2745](https://ianring.com/musictheory/scales/2745) | [Dolian](ModeDolian.md) | D | D, E#, F#, G, A, B, C#, D | ![DNaturalDolian](CircleModeDNaturalDolian.png) |
 
 ## Chords
 

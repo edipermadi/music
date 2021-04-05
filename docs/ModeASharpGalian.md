@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ A#
 
 ![ASharpGalian](ModeASharpGalian.png)
 
+## Diagram
+
+![ASharpGalian](CircleModeASharpGalian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ A#
 | [3399](https://ianring.com/musictheory/scales/3399) | [Zonian](ModeZonian.md) | B | B, C, Db, E#, F##, G##, A#, B | ![BNaturalZonian](ModeBNaturalZonian.png) |
 | [3747](https://ianring.com/musictheory/scales/3747) | [Myrian](ModeMyrian.md) | C | C, Db, E#, F##, G##, A#, B, C | ![CNaturalMyrian](ModeCNaturalMyrian.png) |
 | [3921](https://ianring.com/musictheory/scales/3921) | [Pythian](ModePythian.md) | Db | Db, E#, F##, G##, A#, B, C, Db | ![DFlatPythian](ModeDFlatPythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2703](https://ianring.com/musictheory/scales/2703) | [Galian](ModeGalian.md) | A# | A#, B, C, Db, E#, F##, G##, A# | ![ASharpGalian](CircleModeASharpGalian.png) |
+| [3399](https://ianring.com/musictheory/scales/3399) | [Zonian](ModeZonian.md) | B | B, C, Db, E#, F##, G##, A#, B | ![BNaturalZonian](CircleModeBNaturalZonian.png) |
+| [3747](https://ianring.com/musictheory/scales/3747) | [Myrian](ModeMyrian.md) | C | C, Db, E#, F##, G##, A#, B, C | ![CNaturalMyrian](CircleModeCNaturalMyrian.png) |
+| [3921](https://ianring.com/musictheory/scales/3921) | [Pythian](ModePythian.md) | Db | Db, E#, F##, G##, A#, B, C, Db | ![DFlatPythian](CircleModeDFlatPythian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰
 
 ![ASharpAeolyptian](ModeASharpAeolyptian.png)
 
+## Diagram
+
+![ASharpAeolyptian](CircleModeASharpAeolyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰
 | [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeAeolagian.md) | D# | D#, E, F, G##, A#, B, C#, D# | ![DSharpAeolagian](ModeDSharpAeolagian.png) |
 | [2787](https://ianring.com/musictheory/scales/2787) | [Zyrian](ModeZyrian.md) | E | E, F, G##, A#, B, C#, D#, E | ![ENaturalZyrian](ModeENaturalZyrian.png) |
 | [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeThacrian.md) | F | F, G##, A#, B, C#, D#, E, F | ![FNaturalThacrian](ModeFNaturalThacrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2283](https://ianring.com/musictheory/scales/2283) | [Aeolyptian](ModeAeolyptian.md) | A# | A#, B, C#, D#, E, F, G##, A# | ![ASharpAeolyptian](CircleModeASharpAeolyptian.png) |
+| [3189](https://ianring.com/musictheory/scales/3189) | [Aeolonian](ModeAeolonian.md) | B | B, C#, D#, E, F, G##, A#, B | ![BNaturalAeolonian](CircleModeBNaturalAeolonian.png) |
+| [1821](https://ianring.com/musictheory/scales/1821) | [Aeradian](ModeAeradian.md) | C# | C#, D#, E, F, G##, A#, B, C# | ![CSharpAeradian](CircleModeCSharpAeradian.png) |
+| [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeAeolagian.md) | D# | D#, E, F, G##, A#, B, C#, D# | ![DSharpAeolagian](CircleModeDSharpAeolagian.png) |
+| [2787](https://ianring.com/musictheory/scales/2787) | [Zyrian](ModeZyrian.md) | E | E, F, G##, A#, B, C#, D#, E | ![ENaturalZyrian](CircleModeENaturalZyrian.png) |
+| [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeThacrian.md) | F | F, G##, A#, B, C#, D#, E, F | ![FNaturalThacrian](CircleModeFNaturalThacrian.png) |
 
 ## Chords
 

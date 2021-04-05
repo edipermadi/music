@@ -5,6 +5,8 @@ GOLINT		:= $(GOPATH)/bin/golint
 RM		:= $(shell which rm)
 TEST_OUT_DIR	:= test_out
 WIKI_DIR	:= $(CURDIR)/docs
+DOT_FILES	:= $(wildcard docs/*.dot)
+DIAGRAM_FILES	:= $(patsubst %.dot,%.png,$(DOT_FILES))
 
 .PHONY: build
 build: test docs
@@ -44,6 +46,12 @@ test: lint vet coverage
 xref:
 	mkdir -p $(WIKI_DIR)
 	WIKI_DIR=$(WIKI_DIR) $(GO) run ./cmd/$@
+
+%.png: %.dot
+	dot -Tpng $< -o $@
+
+.PHONY: diagrams
+diagrams: $(DIAGRAM_FILES)
 
 .PHONY: docs
 docs: xref

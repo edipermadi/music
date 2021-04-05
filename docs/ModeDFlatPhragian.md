@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ ii, IV⁺, v⁰, vii⁰
 
 ![DFlatPhragian](ModeDFlatPhragian.png)
 
+## Diagram
+
+![DFlatPhragian](CircleModeDFlatPhragian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1431](https://ianring.com/musictheory/scales/1431) | [Phragian](ModePhragian.md) | Db | Db, Ebb, Fbb, Gbb, Ab, Bbb, Cb, Db | ![DFlatPhragian](ModeDFlatPhragian.png) |
 | [747](https://ianring.com/musictheory/scales/747) | [Lynian](ModeLynian.md) | Ab | Ab, Bbb, Cb, Db, Ebb, Fbb, Gbb, Ab | ![AFlatLynian](ModeAFlatLynian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1431](https://ianring.com/musictheory/scales/1431) | [Phragian](ModePhragian.md) | Db | Db, Ebb, Fbb, Gbb, Ab, Bbb, Cb, Db | ![DFlatPhragian](CircleModeDFlatPhragian.png) |
+| [747](https://ianring.com/musictheory/scales/747) | [Lynian](ModeLynian.md) | Ab | Ab, Bbb, Cb, Db, Ebb, Fbb, Gbb, Ab | ![AFlatLynian](CircleModeAFlatLynian.png) |
 
 ## Chords
 

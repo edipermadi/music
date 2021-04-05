@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, III, v⁰
 
 ![FNaturalKyptian](ModeFNaturalKyptian.png)
 
+## Diagram
+
+![FNaturalKyptian](CircleModeFNaturalKyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I⁺, III, v⁰
 | [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | C# | C#, D#, E, F, G, A, B#, C# | ![CSharpStagian](ModeCSharpStagian.png) |
 | [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | D# | D#, E, F, G, A, B#, C#, D# | ![DSharpLothian](ModeDSharpLothian.png) |
 | [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | E | E, F, G, A, B#, C#, D#, E | ![ENaturalPhrycrian](ModeENaturalPhrycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3477](https://ianring.com/musictheory/scales/3477) | [Kyptian](ModeKyptian.md) | F | F, G, A, B#, C#, D#, E, F | ![FNaturalKyptian](CircleModeFNaturalKyptian.png) |
+| [1893](https://ianring.com/musictheory/scales/1893) | [Ionylian](ModeIonylian.md) | G | G, A, B#, C#, D#, E, F, G | ![GNaturalIonylian](CircleModeGNaturalIonylian.png) |
+| [1497](https://ianring.com/musictheory/scales/1497) | [Ionanian](ModeIonanian.md) | A | A, B#, C#, D#, E, F, G, A | ![ANaturalIonanian](CircleModeANaturalIonanian.png) |
+| [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | C# | C#, D#, E, F, G, A, B#, C# | ![CSharpStagian](CircleModeCSharpStagian.png) |
+| [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | D# | D#, E, F, G, A, B#, C#, D# | ![DSharpLothian](CircleModeDSharpLothian.png) |
+| [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | E | E, F, G, A, B#, C#, D#, E | ![ENaturalPhrycrian](CircleModeENaturalPhrycrian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ V, vii
 
 ![BFlatPodian](ModeBFlatPodian.png)
 
+## Diagram
+
+![BFlatPodian](CircleModeBFlatPodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ V, vii
 | [3251](https://ianring.com/musictheory/scales/3251) | [Zodian](ModeZodian.md) | F | F, Gb, A, Bb, C, D#, E, F | ![FNaturalZodian](ModeFNaturalZodian.png) |
 | [3673](https://ianring.com/musictheory/scales/3673) | [Ranian](ModeRanian.md) | Gb | Gb, A, Bb, C, D#, E, F, Gb | ![GFlatRanian](ModeGFlatRanian.png) |
 | [971](https://ianring.com/musictheory/scales/971) | [Ladian](ModeLadian.md) | A | A, Bb, C, D#, E, F, Gb, A | ![ANaturalLadian](ModeANaturalLadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2533](https://ianring.com/musictheory/scales/2533) | [Podian](ModePodian.md) | Bb | Bb, C, D#, E, F, Gb, A, Bb | ![BFlatPodian](CircleModeBFlatPodian.png) |
+| [1657](https://ianring.com/musictheory/scales/1657) | [Ionothian](ModeIonothian.md) | C | C, D#, E, F, Gb, A, Bb, C | ![CNaturalIonothian](CircleModeCNaturalIonothian.png) |
+| [719](https://ianring.com/musictheory/scales/719) | [Kanian](ModeKanian.md) | D# | D#, E, F, Gb, A, Bb, C, D# | ![DSharpKanian](CircleModeDSharpKanian.png) |
+| [2407](https://ianring.com/musictheory/scales/2407) | [Zylian](ModeZylian.md) | E | E, F, Gb, A, Bb, C, D#, E | ![ENaturalZylian](CircleModeENaturalZylian.png) |
+| [3251](https://ianring.com/musictheory/scales/3251) | [Zodian](ModeZodian.md) | F | F, Gb, A, Bb, C, D#, E, F | ![FNaturalZodian](CircleModeFNaturalZodian.png) |
+| [3673](https://ianring.com/musictheory/scales/3673) | [Ranian](ModeRanian.md) | Gb | Gb, A, Bb, C, D#, E, F, Gb | ![GFlatRanian](CircleModeGFlatRanian.png) |
+| [971](https://ianring.com/musictheory/scales/971) | [Ladian](ModeLadian.md) | A | A, Bb, C, D#, E, F, Gb, A | ![ANaturalLadian](CircleModeANaturalLadian.png) |
 
 ## Chords
 

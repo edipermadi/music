@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III, v⁰, VI
 
 ![BFlatDygian](ModeBFlatDygian.png)
 
+## Diagram
+
+![BFlatDygian](CircleModeBFlatDygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, III, v⁰, VI
 | [2411](https://ianring.com/musictheory/scales/2411) | [Aeolorian](ModeAeolorian.md) | F | F, Gb, Ab, Bb, Cb, Db, E, F | ![FNaturalAeolorian](ModeFNaturalAeolorian.png) |
 | [3253](https://ianring.com/musictheory/scales/3253) | [Gonian](ModeGonian.md) | Gb | Gb, Ab, Bb, Cb, Db, E, F, Gb | ![GFlatGonian](ModeGFlatGonian.png) |
 | [1837](https://ianring.com/musictheory/scales/1837) | [Dalian](ModeDalian.md) | Ab | Ab, Bb, Cb, Db, E, F, Gb, Ab | ![AFlatDalian](ModeAFlatDalian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1483](https://ianring.com/musictheory/scales/1483) | [Dygian](ModeDygian.md) | Bb | Bb, Cb, Db, E, F, Gb, Ab, Bb | ![BFlatDygian](CircleModeBFlatDygian.png) |
+| [1721](https://ianring.com/musictheory/scales/1721) | [Ionycrian](ModeIonycrian.md) | Db | Db, E, F, Gb, Ab, Bb, Cb, Db | ![DFlatIonycrian](CircleModeDFlatIonycrian.png) |
+| [727](https://ianring.com/musictheory/scales/727) | [Phradian](ModePhradian.md) | E | E, F, Gb, Ab, Bb, Cb, Db, E | ![ENaturalPhradian](CircleModeENaturalPhradian.png) |
+| [2411](https://ianring.com/musictheory/scales/2411) | [Aeolorian](ModeAeolorian.md) | F | F, Gb, Ab, Bb, Cb, Db, E, F | ![FNaturalAeolorian](CircleModeFNaturalAeolorian.png) |
+| [3253](https://ianring.com/musictheory/scales/3253) | [Gonian](ModeGonian.md) | Gb | Gb, Ab, Bb, Cb, Db, E, F, Gb | ![GFlatGonian](CircleModeGFlatGonian.png) |
+| [1837](https://ianring.com/musictheory/scales/1837) | [Dalian](ModeDalian.md) | Ab | Ab, Bb, Cb, Db, E, F, Gb, Ab | ![AFlatDalian](CircleModeAFlatDalian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ iii⁰, IV
 
 ![DNaturalStolimic](ModeDNaturalStolimic.png)
 
+## Diagram
+
+![DNaturalStolimic](CircleModeDNaturalStolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2757](https://ianring.com/musictheory/scales/2757) | [Stolimic](ModeStolimic.md) | D | D, E, F###, G##, A##, B##, D | ![DNaturalStolimic](ModeDNaturalStolimic.png) |
 | [1713](https://ianring.com/musictheory/scales/1713) | [Garimic](ModeGarimic.md) | E | E, F###, G##, A##, B##, C##, E | ![ENaturalGarimic](ModeENaturalGarimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2757](https://ianring.com/musictheory/scales/2757) | [Stolimic](ModeStolimic.md) | D | D, E, F###, G##, A##, B##, D | ![DNaturalStolimic](CircleModeDNaturalStolimic.png) |
+| [1713](https://ianring.com/musictheory/scales/1713) | [Garimic](ModeGarimic.md) | E | E, F###, G##, A##, B##, C##, E | ![ENaturalGarimic](CircleModeENaturalGarimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ F
 
 ![FNaturalGynimic](ModeFNaturalGynimic.png)
 
+## Diagram
+
+![FNaturalGynimic](CircleModeFNaturalGynimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ F
 | [287](https://ianring.com/musictheory/scales/287) | [Gynimic](ModeGynimic.md) | F | F, Gb, Abb, Bbbb, Cbbb, Db, F | ![FNaturalGynimic](ModeFNaturalGynimic.png) |
 | [2191](https://ianring.com/musictheory/scales/2191) | [Thydimic](ModeThydimic.md) | Gb | Gb, Abb, Bbbb, Cbbb, Db, E#, Gb | ![GFlatThydimic](ModeGFlatThydimic.png) |
 | [497](https://ianring.com/musictheory/scales/497) | [Kadimic](ModeKadimic.md) | Db | Db, E#, F#, G, Ab, Bbb, Db | ![DFlatKadimic](ModeDFlatKadimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [287](https://ianring.com/musictheory/scales/287) | [Gynimic](ModeGynimic.md) | F | F, Gb, Abb, Bbbb, Cbbb, Db, F | ![FNaturalGynimic](CircleModeFNaturalGynimic.png) |
+| [2191](https://ianring.com/musictheory/scales/2191) | [Thydimic](ModeThydimic.md) | Gb | Gb, Abb, Bbbb, Cbbb, Db, E#, Gb | ![GFlatThydimic](CircleModeGFlatThydimic.png) |
+| [497](https://ianring.com/musictheory/scales/497) | [Kadimic](ModeKadimic.md) | Db | Db, E#, F#, G, Ab, Bbb, Db | ![DFlatKadimic](CircleModeDFlatKadimic.png) |
 
 ## Chords
 

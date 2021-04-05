@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ iii⁰, iv⁰
 
 ![AFlatByrimic](ModeAFlatByrimic.png)
 
+## Diagram
+
+![AFlatByrimic](CircleModeAFlatByrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2885](https://ianring.com/musictheory/scales/2885) | [Byrimic](ModeByrimic.md) | Ab | Ab, Bb, C##, D##, E#, F##, Ab | ![AFlatByrimic](ModeAFlatByrimic.png) |
 | [1745](https://ianring.com/musictheory/scales/1745) | [Manimic](ModeManimic.md) | Bb | Bb, C##, D##, E#, F##, G#, Bb | ![BFlatManimic](ModeBFlatManimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2885](https://ianring.com/musictheory/scales/2885) | [Byrimic](ModeByrimic.md) | Ab | Ab, Bb, C##, D##, E#, F##, Ab | ![AFlatByrimic](CircleModeAFlatByrimic.png) |
+| [1745](https://ianring.com/musictheory/scales/1745) | [Manimic](ModeManimic.md) | Bb | Bb, C##, D##, E#, F##, G#, Bb | ![BFlatManimic](CircleModeBFlatManimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, II, III, iv⁰, v⁰, vi, vii
 
 ![ENaturalLarian](ModeENaturalLarian.png)
 
+## Diagram
+
+![ENaturalLarian](CircleModeENaturalLarian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I⁺, II, III, iv⁰, v⁰, vi, vii
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | A# | A#, B#, C#, D#, E, F#, G#, A# | ![ASharpLorian](ModeASharpLorian.png) |
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | C# | C#, D#, E, F#, G#, A#, B#, C# | ![CSharpBocrian](ModeCSharpBocrian.png) |
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | D# | D#, E, F#, G#, A#, B#, C#, D# | ![DSharpMixolythian](ModeDSharpMixolythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | E | E, F#, G#, A#, B#, C#, D#, E | ![ENaturalLarian](CircleModeENaturalLarian.png) |
+| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | F# | F#, G#, A#, B#, C#, D#, E, F# | ![FSharpLythian](CircleModeFSharpLythian.png) |
+| [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | G# | G#, A#, B#, C#, D#, E, F#, G# | ![GSharpStydian](CircleModeGSharpStydian.png) |
+| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | A# | A#, B#, C#, D#, E, F#, G#, A# | ![ASharpLorian](CircleModeASharpLorian.png) |
+| [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | C# | C#, D#, E, F#, G#, A#, B#, C# | ![CSharpBocrian](CircleModeCSharpBocrian.png) |
+| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | D# | D#, E, F#, G#, A#, B#, C#, D# | ![DSharpMixolythian](CircleModeDSharpMixolythian.png) |
 
 ## Chords
 

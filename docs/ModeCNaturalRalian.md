@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II, iv, v, VI⁺, VII⁺
 
 ![CNaturalRalian](ModeCNaturalRalian.png)
 
+## Diagram
+
+![CNaturalRalian](CircleModeCNaturalRalian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ II, iv, v, VI⁺, VII⁺
 | [2459](https://ianring.com/musictheory/scales/2459) | [Ionocrian](ModeIonocrian.md) | F | F, Gb, Ab, Bbb, C, Db, E, F | ![FNaturalIonocrian](ModeFNaturalIonocrian.png) |
 | [3277](https://ianring.com/musictheory/scales/3277) | [Zycrian](ModeZycrian.md) | Gb | Gb, Ab, Bbb, C, Db, E, F, Gb | ![GFlatZycrian](ModeGFlatZycrian.png) |
 | [1843](https://ianring.com/musictheory/scales/1843) | [Ionygian](ModeIonygian.md) | Ab | Ab, Bbb, C, Db, E, F, Gb, Ab | ![AFlatIonygian](ModeAFlatIonygian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | C | C, Db, E, F, Gb, Ab, Bbb, C | ![CNaturalRalian](CircleModeCNaturalRalian.png) |
+| [2489](https://ianring.com/musictheory/scales/2489) | [Syrian](ModeSyrian.md) | Db | Db, E, F, Gb, Ab, Bbb, C, Db | ![DFlatSyrian](CircleModeDFlatSyrian.png) |
+| [823](https://ianring.com/musictheory/scales/823) | [Stodian](ModeStodian.md) | E | E, F, Gb, Ab, Bbb, C, Db, E | ![ENaturalStodian](CircleModeENaturalStodian.png) |
+| [2459](https://ianring.com/musictheory/scales/2459) | [Ionocrian](ModeIonocrian.md) | F | F, Gb, Ab, Bbb, C, Db, E, F | ![FNaturalIonocrian](CircleModeFNaturalIonocrian.png) |
+| [3277](https://ianring.com/musictheory/scales/3277) | [Zycrian](ModeZycrian.md) | Gb | Gb, Ab, Bbb, C, Db, E, F, Gb | ![GFlatZycrian](CircleModeGFlatZycrian.png) |
+| [1843](https://ianring.com/musictheory/scales/1843) | [Ionygian](ModeIonygian.md) | Ab | Ab, Bbb, C, Db, E, F, Gb, Ab | ![AFlatIonygian](CircleModeAFlatIonygian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ G
 
 ![GNaturalDylian](ModeGNaturalDylian.png)
 
+## Diagram
+
+![GNaturalDylian](CircleModeGNaturalDylian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ G
 | [3175](https://ianring.com/musictheory/scales/3175) | [Eponian](ModeEponian.md) | Ab | Ab, Bbb, Cbb, Db, Ebb, F#, G, Ab | ![AFlatEponian](ModeAFlatEponian.png) |
 | [995](https://ianring.com/musictheory/scales/995) | [Phrathian](ModePhrathian.md) | Db | Db, Ebb, F#, G, Ab, Bbb, Cbb, Db | ![DFlatPhrathian](ModeDFlatPhrathian.png) |
 | [415](https://ianring.com/musictheory/scales/415) | [Aeoladian](ModeAeoladian.md) | F# | F#, G, Ab, Bbb, Cbb, Db, Ebb, F# | ![FSharpAeoladian](ModeFSharpAeoladian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2255](https://ianring.com/musictheory/scales/2255) | [Dylian](ModeDylian.md) | G | G, Ab, Bbb, Cbb, Db, Ebb, F#, G | ![GNaturalDylian](CircleModeGNaturalDylian.png) |
+| [3175](https://ianring.com/musictheory/scales/3175) | [Eponian](ModeEponian.md) | Ab | Ab, Bbb, Cbb, Db, Ebb, F#, G, Ab | ![AFlatEponian](CircleModeAFlatEponian.png) |
+| [995](https://ianring.com/musictheory/scales/995) | [Phrathian](ModePhrathian.md) | Db | Db, Ebb, F#, G, Ab, Bbb, Cbb, Db | ![DFlatPhrathian](CircleModeDFlatPhrathian.png) |
+| [415](https://ianring.com/musictheory/scales/415) | [Aeoladian](ModeAeoladian.md) | F# | F#, G, Ab, Bbb, Cbb, Db, Ebb, F# | ![FSharpAeoladian](CircleModeFSharpAeoladian.png) |
 
 ## Chords
 

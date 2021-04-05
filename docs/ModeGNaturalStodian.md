@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ ii, iii, IV⁺, V⁺, VII
 
 ![GNaturalStodian](ModeGNaturalStodian.png)
 
+## Diagram
+
+![GNaturalStodian](CircleModeGNaturalStodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ ii, iii, IV⁺, V⁺, VII
 | [823](https://ianring.com/musictheory/scales/823) | [Stodian](ModeStodian.md) | G | G, Ab, Bbb, Cb, Dbb, Eb, Fb, G | ![GNaturalStodian](ModeGNaturalStodian.png) |
 | [2459](https://ianring.com/musictheory/scales/2459) | [Ionocrian](ModeIonocrian.md) | Ab | Ab, Bbb, Cb, Dbb, Eb, Fb, G, Ab | ![AFlatIonocrian](ModeAFlatIonocrian.png) |
 | [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | Eb | Eb, Fb, G, Ab, Bbb, Cb, Dbb, Eb | ![EFlatRalian](ModeEFlatRalian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [823](https://ianring.com/musictheory/scales/823) | [Stodian](ModeStodian.md) | G | G, Ab, Bbb, Cb, Dbb, Eb, Fb, G | ![GNaturalStodian](CircleModeGNaturalStodian.png) |
+| [2459](https://ianring.com/musictheory/scales/2459) | [Ionocrian](ModeIonocrian.md) | Ab | Ab, Bbb, Cb, Dbb, Eb, Fb, G, Ab | ![AFlatIonocrian](CircleModeAFlatIonocrian.png) |
+| [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | Eb | Eb, Fb, G, Ab, Bbb, Cb, Dbb, Eb | ![EFlatRalian](CircleModeEFlatRalian.png) |
 
 ## Chords
 

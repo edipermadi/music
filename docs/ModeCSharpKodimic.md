@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ VI
 
 ![CSharpKodimic](ModeCSharpKodimic.png)
 
+## Diagram
+
+![CSharpKodimic](CircleModeCSharpKodimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3161](https://ianring.com/musictheory/scales/3161) | [Kodimic](ModeKodimic.md) | C# | C#, D##, E#, F##, Cb, Dbb, C# | ![CSharpKodimic](ModeCSharpKodimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3161](https://ianring.com/musictheory/scales/3161) | [Kodimic](ModeKodimic.md) | C# | C#, D##, E#, F##, Cb, Dbb, C# | ![CSharpKodimic](CircleModeCSharpKodimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ A
 
 ![ANaturalStathian](ModeANaturalStathian.png)
 
+## Diagram
+
+![ANaturalStathian](CircleModeANaturalStathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ A
 | [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | E | E, F, G, A, B#, C##, D#, E | ![ENaturalAeolylian](ModeENaturalAeolylian.png) |
 | [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | F | F, G, A, B#, C##, D#, E, F | ![FNaturalGycrian](ModeFNaturalGycrian.png) |
 | [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | G | G, A, B#, C##, D#, E, F, G | ![GNaturalPyrian](ModeGNaturalPyrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | A | A, B#, C##, D#, E, F, G, A | ![ANaturalStathian](CircleModeANaturalStathian.png) |
+| [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | D# | D#, E, F, G, A, B#, C##, D# | ![DSharpDadian](CircleModeDSharpDadian.png) |
+| [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | E | E, F, G, A, B#, C##, D#, E | ![ENaturalAeolylian](CircleModeENaturalAeolylian.png) |
+| [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | F | F, G, A, B#, C##, D#, E, F | ![FNaturalGycrian](CircleModeFNaturalGycrian.png) |
+| [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | G | G, A, B#, C##, D#, E, F, G | ![GNaturalPyrian](CircleModeGNaturalPyrian.png) |
 
 ## Chords
 

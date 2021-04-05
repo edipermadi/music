@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ iv, v
 
 ![DSharpZeracrimic](ModeDSharpZeracrimic.png)
 
+## Diagram
+
+![DSharpZeracrimic](CircleModeDSharpZeracrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | D# | D#, E#, F##, G###, A###, B##, D# | ![DSharpZeracrimic](ModeDSharpZeracrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | D# | D#, E#, F##, G###, A###, B##, D# | ![DSharpZeracrimic](CircleModeDSharpZeracrimic.png) |
 
 ## Chords
 

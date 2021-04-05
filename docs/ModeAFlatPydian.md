@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ vi⁰, vii⁰
 
 ![AFlatPydian](ModeAFlatPydian.png)
 
+## Diagram
+
+![AFlatPydian](CircleModeAFlatPydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ vi⁰, vii⁰
 | [439](https://ianring.com/musictheory/scales/439) | [Bythian](ModeBythian.md) | E | E, F, Gb, Ab, Bbb, Cb, Dbb, E | ![ENaturalBythian](ModeENaturalBythian.png) |
 | [2267](https://ianring.com/musictheory/scales/2267) | [Padian](ModePadian.md) | F | F, Gb, Ab, Bbb, Cb, Dbb, E, F | ![FNaturalPadian](ModeFNaturalPadian.png) |
 | [3181](https://ianring.com/musictheory/scales/3181) | [Rolian](ModeRolian.md) | Gb | Gb, Ab, Bbb, Cb, Dbb, E, F, Gb | ![GFlatRolian](ModeGFlatRolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1819](https://ianring.com/musictheory/scales/1819) | [Pydian](ModePydian.md) | Ab | Ab, Bbb, Cb, Dbb, E, F, Gb, Ab | ![AFlatPydian](CircleModeAFlatPydian.png) |
+| [439](https://ianring.com/musictheory/scales/439) | [Bythian](ModeBythian.md) | E | E, F, Gb, Ab, Bbb, Cb, Dbb, E | ![ENaturalBythian](CircleModeENaturalBythian.png) |
+| [2267](https://ianring.com/musictheory/scales/2267) | [Padian](ModePadian.md) | F | F, Gb, Ab, Bbb, Cb, Dbb, E, F | ![FNaturalPadian](CircleModeFNaturalPadian.png) |
+| [3181](https://ianring.com/musictheory/scales/3181) | [Rolian](ModeRolian.md) | Gb | Gb, Ab, Bbb, Cb, Dbb, E, F, Gb | ![GFlatRolian](CircleModeGFlatRolian.png) |
 
 ## Chords
 

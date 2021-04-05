@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ II⁺, IV⁺, VI⁺
 
 ![CNaturalDalimic](ModeCNaturalDalimic.png)
 
+## Diagram
+
+![CNaturalDalimic](CircleModeCNaturalDalimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDalimic.md) | C | C, D#, E#, F##, G###, A##, C | ![CNaturalDalimic](ModeCNaturalDalimic.png) |
 | [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | D# | D#, E#, F##, G###, A##, B#, D# | ![DSharpDygimic](ModeDSharpDygimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDalimic.md) | C | C, D#, E#, F##, G###, A##, C | ![CNaturalDalimic](CircleModeCNaturalDalimic.png) |
+| [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | D# | D#, E#, F##, G###, A##, B#, D# | ![DSharpDygimic](CircleModeDSharpDygimic.png) |
 
 ## Chords
 

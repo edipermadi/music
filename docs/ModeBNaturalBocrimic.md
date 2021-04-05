@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ ii, III
 
 ![BNaturalBocrimic](ModeBNaturalBocrimic.png)
 
+## Diagram
+
+![BNaturalBocrimic](CircleModeBNaturalBocrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | B | B, C##, D##, E#, F###, G##, B | ![BNaturalBocrimic](ModeBNaturalBocrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | B | B, C##, D##, E#, F###, G##, B | ![BNaturalBocrimic](CircleModeBNaturalBocrimic.png) |
 
 ## Chords
 

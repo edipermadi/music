@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ II⁺, vii
 
 ![FSharpKodian](ModeFSharpKodian.png)
 
+## Diagram
+
+![FSharpKodian](CircleModeFSharpKodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3685](https://ianring.com/musictheory/scales/3685) | [Kodian](ModeKodian.md) | F# | F#, G#, A##, B#, C###, D##, E#, F# | ![FSharpKodian](ModeFSharpKodian.png) |
 | [1945](https://ianring.com/musictheory/scales/1945) | [Zarian](ModeZarian.md) | G# | G#, A##, B#, C###, D##, E#, F#, G# | ![GSharpZarian](ModeGSharpZarian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3685](https://ianring.com/musictheory/scales/3685) | [Kodian](ModeKodian.md) | F# | F#, G#, A##, B#, C###, D##, E#, F# | ![FSharpKodian](CircleModeFSharpKodian.png) |
+| [1945](https://ianring.com/musictheory/scales/1945) | [Zarian](ModeZarian.md) | G# | G#, A##, B#, C###, D##, E#, F#, G# | ![GSharpZarian](CircleModeGSharpZarian.png) |
 
 ## Chords
 

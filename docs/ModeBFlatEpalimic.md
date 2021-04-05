@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ Bb
 
 ![BFlatEpalimic](ModeBFlatEpalimic.png)
 
+## Diagram
+
+![BFlatEpalimic](CircleModeBFlatEpalimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2327](https://ianring.com/musictheory/scales/2327) | [Epalimic](ModeEpalimic.md) | Bb | Bb, Cb, Dbb, Ebb, F#, G##, Bb | ![BFlatEpalimic](ModeBFlatEpalimic.png) |
 | [377](https://ianring.com/musictheory/scales/377) | [Kathimic](ModeKathimic.md) | F# | F#, G##, A#, B, C, D, F# | ![FSharpKathimic](ModeFSharpKathimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2327](https://ianring.com/musictheory/scales/2327) | [Epalimic](ModeEpalimic.md) | Bb | Bb, Cb, Dbb, Ebb, F#, G##, Bb | ![BFlatEpalimic](CircleModeBFlatEpalimic.png) |
+| [377](https://ianring.com/musictheory/scales/377) | [Kathimic](ModeKathimic.md) | F# | F#, G##, A#, B, C, D, F# | ![FSharpKathimic](CircleModeFSharpKathimic.png) |
 
 ## Chords
 

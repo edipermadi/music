@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ Eb
 
 ![EFlatGydian](ModeEFlatGydian.png)
 
+## Diagram
+
+![EFlatGydian](CircleModeEFlatGydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ Eb
 | [3351](https://ianring.com/musictheory/scales/3351) | [Karian](ModeKarian.md) | B | B, C, Db, Eb, F##, G##, A#, B | ![BNaturalKarian](ModeBNaturalKarian.png) |
 | [3723](https://ianring.com/musictheory/scales/3723) | [Myptian](ModeMyptian.md) | C | C, Db, Eb, F##, G##, A#, B, C | ![CNaturalMyptian](ModeCNaturalMyptian.png) |
 | [3909](https://ianring.com/musictheory/scales/3909) | [Rydian](ModeRydian.md) | Db | Db, Eb, F##, G##, A#, B, C, Db | ![DFlatRydian](ModeDFlatRydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2001](https://ianring.com/musictheory/scales/2001) | [Gydian](ModeGydian.md) | Eb | Eb, F##, G##, A#, B, C, Db, Eb | ![EFlatGydian](CircleModeEFlatGydian.png) |
+| [2607](https://ianring.com/musictheory/scales/2607) | [Aerolian](ModeAerolian.md) | A# | A#, B, C, Db, Eb, F##, G##, A# | ![ASharpAerolian](CircleModeASharpAerolian.png) |
+| [3351](https://ianring.com/musictheory/scales/3351) | [Karian](ModeKarian.md) | B | B, C, Db, Eb, F##, G##, A#, B | ![BNaturalKarian](CircleModeBNaturalKarian.png) |
+| [3723](https://ianring.com/musictheory/scales/3723) | [Myptian](ModeMyptian.md) | C | C, Db, Eb, F##, G##, A#, B, C | ![CNaturalMyptian](CircleModeCNaturalMyptian.png) |
+| [3909](https://ianring.com/musictheory/scales/3909) | [Rydian](ModeRydian.md) | Db | Db, Eb, F##, G##, A#, B, C, Db | ![DFlatRydian](CircleModeDFlatRydian.png) |
 
 ## Chords
 

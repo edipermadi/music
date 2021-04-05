@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i⁰, VI
 
 ![ENaturalAeolygimic](ModeENaturalAeolygimic.png)
 
+## Diagram
+
+![ENaturalAeolygimic](CircleModeENaturalAeolygimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i⁰, VI
 | [2853](https://ianring.com/musictheory/scales/2853) | [Baptimic](ModeBaptimic.md) | Ab | Ab, Bb, C#, D##, E#, F##, Ab | ![AFlatBaptimic](ModeAFlatBaptimic.png) |
 | [1737](https://ianring.com/musictheory/scales/1737) | [Thalimic](ModeThalimic.md) | Bb | Bb, C#, D##, E#, F##, G#, Bb | ![BFlatThalimic](ModeBFlatThalimic.png) |
 | [729](https://ianring.com/musictheory/scales/729) | [Stygimic](ModeStygimic.md) | C# | C#, D##, E#, F##, G#, A#, C# | ![CSharpStygimic](ModeCSharpStygimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [603](https://ianring.com/musictheory/scales/603) | [Aeolygimic](ModeAeolygimic.md) | E | E, F, G, Ab, Bb, C#, E | ![ENaturalAeolygimic](CircleModeENaturalAeolygimic.png) |
+| [2349](https://ianring.com/musictheory/scales/2349) | [Aerogimic](ModeAerogimic.md) | F | F, G, Ab, Bb, C#, D##, F | ![FNaturalAerogimic](CircleModeFNaturalAerogimic.png) |
+| [1611](https://ianring.com/musictheory/scales/1611) | [Dacrimic](ModeDacrimic.md) | G | G, Ab, Bb, C#, D##, E#, G | ![GNaturalDacrimic](CircleModeGNaturalDacrimic.png) |
+| [2853](https://ianring.com/musictheory/scales/2853) | [Baptimic](ModeBaptimic.md) | Ab | Ab, Bb, C#, D##, E#, F##, Ab | ![AFlatBaptimic](CircleModeAFlatBaptimic.png) |
+| [1737](https://ianring.com/musictheory/scales/1737) | [Thalimic](ModeThalimic.md) | Bb | Bb, C#, D##, E#, F##, G#, Bb | ![BFlatThalimic](CircleModeBFlatThalimic.png) |
+| [729](https://ianring.com/musictheory/scales/729) | [Stygimic](ModeStygimic.md) | C# | C#, D##, E#, F##, G#, A#, C# | ![CSharpStygimic](CircleModeCSharpStygimic.png) |
 
 ## Chords
 

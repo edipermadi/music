@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, ii, III, IV, v⁰, vi, vii⁰
 
 ![GNaturalPhrothian](ModeGNaturalPhrothian.png)
 
+## Diagram
+
+![GNaturalPhrothian](CircleModeGNaturalPhrothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ I⁺, ii, III, IV, v⁰, vi, vii⁰
 | [859](https://ianring.com/musictheory/scales/859) | [Pathian](ModePathian.md) | D# | D#, E, F#, G, A, B, C, D# | ![DSharpPathian](ModeDSharpPathian.png) |
 | [2477](https://ianring.com/musictheory/scales/2477) | [Mydian](ModeMydian.md) | E | E, F#, G, A, B, C, D#, E | ![ENaturalMydian](ModeENaturalMydian.png) |
 | [1643](https://ianring.com/musictheory/scales/1643) | [Thyptian](ModeThyptian.md) | F# | F#, G, A, B, C, D#, E, F# | ![FSharpThyptian](ModeFSharpThyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2869](https://ianring.com/musictheory/scales/2869) | [Phrothian](ModePhrothian.md) | G | G, A, B, C, D#, E, F#, G | ![GNaturalPhrothian](CircleModeGNaturalPhrothian.png) |
+| [1741](https://ianring.com/musictheory/scales/1741) | [Katycrian](ModeKatycrian.md) | A | A, B, C, D#, E, F#, G, A | ![ANaturalKatycrian](CircleModeANaturalKatycrian.png) |
+| [1459](https://ianring.com/musictheory/scales/1459) | [Ionalian](ModeIonalian.md) | B | B, C, D#, E, F#, G, A, B | ![BNaturalIonalian](CircleModeBNaturalIonalian.png) |
+| [2777](https://ianring.com/musictheory/scales/2777) | [Bycrian](ModeBycrian.md) | C | C, D#, E, F#, G, A, B, C | ![CNaturalBycrian](CircleModeCNaturalBycrian.png) |
+| [859](https://ianring.com/musictheory/scales/859) | [Pathian](ModePathian.md) | D# | D#, E, F#, G, A, B, C, D# | ![DSharpPathian](CircleModeDSharpPathian.png) |
+| [2477](https://ianring.com/musictheory/scales/2477) | [Mydian](ModeMydian.md) | E | E, F#, G, A, B, C, D#, E | ![ENaturalMydian](CircleModeENaturalMydian.png) |
+| [1643](https://ianring.com/musictheory/scales/1643) | [Thyptian](ModeThyptian.md) | F# | F#, G, A, B, C, D#, E, F# | ![FSharpThyptian](CircleModeFSharpThyptian.png) |
 
 ## Chords
 

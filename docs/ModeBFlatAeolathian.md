@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iii⁰, iv⁰
 
 ![BFlatAeolathian](ModeBFlatAeolathian.png)
 
+## Diagram
+
+![BFlatAeolathian](CircleModeBFlatAeolathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ iii⁰, iv⁰
 | [1819](https://ianring.com/musictheory/scales/1819) | [Pydian](ModePydian.md) | F# | F#, G, A, Bb, C##, D#, E, F# | ![FSharpPydian](ModeFSharpPydian.png) |
 | [2957](https://ianring.com/musictheory/scales/2957) | [Thygian](ModeThygian.md) | G | G, A, Bb, C##, D#, E, F#, G | ![GNaturalThygian](ModeGNaturalThygian.png) |
 | [1763](https://ianring.com/musictheory/scales/1763) | [Katalian](ModeKatalian.md) | A | A, Bb, C##, D#, E, F#, G, A | ![ANaturalKatalian](ModeANaturalKatalian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeAeolathian.md) | Bb | Bb, C##, D#, E, F#, G, A, Bb | ![BFlatAeolathian](CircleModeBFlatAeolathian.png) |
+| [2267](https://ianring.com/musictheory/scales/2267) | [Padian](ModePadian.md) | D# | D#, E, F#, G, A, Bb, C##, D# | ![DSharpPadian](CircleModeDSharpPadian.png) |
+| [3181](https://ianring.com/musictheory/scales/3181) | [Rolian](ModeRolian.md) | E | E, F#, G, A, Bb, C##, D#, E | ![ENaturalRolian](CircleModeENaturalRolian.png) |
+| [1819](https://ianring.com/musictheory/scales/1819) | [Pydian](ModePydian.md) | F# | F#, G, A, Bb, C##, D#, E, F# | ![FSharpPydian](CircleModeFSharpPydian.png) |
+| [2957](https://ianring.com/musictheory/scales/2957) | [Thygian](ModeThygian.md) | G | G, A, Bb, C##, D#, E, F#, G | ![GNaturalThygian](CircleModeGNaturalThygian.png) |
+| [1763](https://ianring.com/musictheory/scales/1763) | [Katalian](ModeKatalian.md) | A | A, Bb, C##, D#, E, F#, G, A | ![ANaturalKatalian](CircleModeANaturalKatalian.png) |
 
 ## Chords
 

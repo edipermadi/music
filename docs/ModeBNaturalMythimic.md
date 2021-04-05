@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ III
 
 ![BNaturalMythimic](ModeBNaturalMythimic.png)
 
+## Diagram
+
+![BNaturalMythimic](CircleModeBNaturalMythimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeMythimic.md) | B | B, C###, D##, E#, F###, G###, B | ![BNaturalMythimic](ModeBNaturalMythimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeMythimic.md) | B | B, C###, D##, E#, F###, G###, B | ![BNaturalMythimic](CircleModeBNaturalMythimic.png) |
 
 ## Chords
 

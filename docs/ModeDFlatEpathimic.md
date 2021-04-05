@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ II, iii
 
 ![DFlatEpathimic](ModeDFlatEpathimic.png)
 
+## Diagram
+
+![DFlatEpathimic](CircleModeDFlatEpathimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ II, iii
 | [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | G# | G#, A, B, C#, D##, E##, G# | ![GSharpEporimic](ModeGSharpEporimic.png) |
 | [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | A | A, B, C#, D##, E##, F###, A | ![ANaturalThaptimic](ModeANaturalThaptimic.png) |
 | [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | B | B, C#, D##, E##, F###, G##, B | ![BNaturalLothimic](ModeBNaturalLothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | Db | Db, E, F#, G#, A, B, Db | ![DFlatEpathimic](CircleModeDFlatEpathimic.png) |
+| [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | E | E, F#, G#, A, B, C#, E | ![ENaturalMynimic](CircleModeENaturalMynimic.png) |
+| [1197](https://ianring.com/musictheory/scales/1197) | [Rocrimic](ModeRocrimic.md) | F# | F#, G#, A, B, C#, D##, F# | ![FSharpRocrimic](CircleModeFSharpRocrimic.png) |
+| [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | G# | G#, A, B, C#, D##, E##, G# | ![GSharpEporimic](CircleModeGSharpEporimic.png) |
+| [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | A | A, B, C#, D##, E##, F###, A | ![ANaturalThaptimic](CircleModeANaturalThaptimic.png) |
+| [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | B | B, C#, D##, E##, F###, G##, B | ![BNaturalLothimic](CircleModeBNaturalLothimic.png) |
 
 ## Chords
 

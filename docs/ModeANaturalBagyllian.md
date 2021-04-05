@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -55,6 +55,10 @@ iv⁰, v⁰
 
 ![ANaturalBagyllian](ModeANaturalBagyllian.png)
 
+## Diagram
+
+![ANaturalBagyllian](CircleModeANaturalBagyllian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -69,6 +73,20 @@ iv⁰, v⁰
 | [1791](https://ianring.com/musictheory/scales/1791) | [Aerygyllian](ModeAerygyllian.md) | F# | F#, G, G#, A, A#, B, C, C#, D#, E, F# | ![FSharpAerygyllian](ModeFSharpAerygyllian.png) |
 | [2943](https://ianring.com/musictheory/scales/2943) | [Dathyllian](ModeDathyllian.md) | G | G, G#, A, A#, B, C, C#, D#, E, F#, G | ![GNaturalDathyllian](ModeGNaturalDathyllian.png) |
 | [3519](https://ianring.com/musictheory/scales/3519) | [Boptyllian](ModeBoptyllian.md) | G# | G#, A, A#, B, C, C#, D#, E, F#, G, G# | ![GSharpBoptyllian](ModeGSharpBoptyllian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3807](https://ianring.com/musictheory/scales/3807) | [Bagyllian](ModeBagyllian.md) | A | A, A#, B, C, C#, D#, E, F#, G, G#, A | ![ANaturalBagyllian](CircleModeANaturalBagyllian.png) |
+| [3951](https://ianring.com/musictheory/scales/3951) | [Mathyllian](ModeMathyllian.md) | A# | A#, B, C, C#, D#, E, F#, G, G#, A, A# | ![ASharpMathyllian](CircleModeASharpMathyllian.png) |
+| [4023](https://ianring.com/musictheory/scales/4023) | [Styptyllian](ModeStyptyllian.md) | B | B, C, C#, D#, E, F#, G, G#, A, A#, B | ![BNaturalStyptyllian](CircleModeBNaturalStyptyllian.png) |
+| [4059](https://ianring.com/musictheory/scales/4059) | [Zolyllian](ModeZolyllian.md) | C | C, C#, D#, E, F#, G, G#, A, A#, B, C | ![CNaturalZolyllian](CircleModeCNaturalZolyllian.png) |
+| [4077](https://ianring.com/musictheory/scales/4077) | [Gothyllian](ModeGothyllian.md) | C# | C#, D#, E, F#, G, G#, A, A#, B, C, C# | ![CSharpGothyllian](CircleModeCSharpGothyllian.png) |
+| [2043](https://ianring.com/musictheory/scales/2043) | [Lythyllian](ModeLythyllian.md) | D# | D#, E, F#, G, G#, A, A#, B, C, C#, D# | ![DSharpLythyllian](CircleModeDSharpLythyllian.png) |
+| [3069](https://ianring.com/musictheory/scales/3069) | [Bacryllian](ModeBacryllian.md) | E | E, F#, G, G#, A, A#, B, C, C#, D#, E | ![ENaturalBacryllian](CircleModeENaturalBacryllian.png) |
+| [1791](https://ianring.com/musictheory/scales/1791) | [Aerygyllian](ModeAerygyllian.md) | F# | F#, G, G#, A, A#, B, C, C#, D#, E, F# | ![FSharpAerygyllian](CircleModeFSharpAerygyllian.png) |
+| [2943](https://ianring.com/musictheory/scales/2943) | [Dathyllian](ModeDathyllian.md) | G | G, G#, A, A#, B, C, C#, D#, E, F#, G | ![GNaturalDathyllian](CircleModeGNaturalDathyllian.png) |
+| [3519](https://ianring.com/musictheory/scales/3519) | [Boptyllian](ModeBoptyllian.md) | G# | G#, A, A#, B, C, C#, D#, E, F#, G, G# | ![GSharpBoptyllian](CircleModeGSharpBoptyllian.png) |
 
 ## Chords
 

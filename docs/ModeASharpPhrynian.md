@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ II⁺, V, vii
 
 ![ASharpPhrynian](ModeASharpPhrynian.png)
 
+## Diagram
+
+![ASharpPhrynian](CircleModeASharpPhrynian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3301](https://ianring.com/musictheory/scales/3301) | [Phrynian](ModePhrynian.md) | A# | A#, B#, C###, D##, E#, F###, G##, A# | ![ASharpPhrynian](ModeASharpPhrynian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3301](https://ianring.com/musictheory/scales/3301) | [Phrynian](ModePhrynian.md) | A# | A#, B#, C###, D##, E#, F###, G##, A# | ![ASharpPhrynian](CircleModeASharpPhrynian.png) |
 
 ## Chords
 

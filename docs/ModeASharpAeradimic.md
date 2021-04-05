@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ III, VI
 
 ![ASharpAeradimic](ModeASharpAeradimic.png)
 
+## Diagram
+
+![ASharpAeradimic](CircleModeASharpAeradimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2665](https://ianring.com/musictheory/scales/2665) | [Aeradimic](ModeAeradimic.md) | A# | A#, B##, C###, D##, E###, Cbbb, A# | ![ASharpAeradimic](ModeASharpAeradimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2665](https://ianring.com/musictheory/scales/2665) | [Aeradimic](ModeAeradimic.md) | A# | A#, B##, C###, D##, E###, Cbbb, A# | ![ASharpAeradimic](CircleModeASharpAeradimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ Db
 
 ![DFlatAeolimic](ModeDFlatAeolimic.png)
 
+## Diagram
+
+![DFlatAeolimic](CircleModeDFlatAeolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ Db
 | [2247](https://ianring.com/musictheory/scales/2247) | [Aeolimic](ModeAeolimic.md) | Db | Db, Ebb, Fbb, G, Ab, B#, Db | ![DFlatAeolimic](ModeDFlatAeolimic.png) |
 | [483](https://ianring.com/musictheory/scales/483) | [Kygimic](ModeKygimic.md) | G | G, Ab, B#, C#, D, Eb, G | ![GNaturalKygimic](ModeGNaturalKygimic.png) |
 | [2289](https://ianring.com/musictheory/scales/2289) | [Mocrimic](ModeMocrimic.md) | Ab | Ab, B#, C#, D, Eb, F##, Ab | ![AFlatMocrimic](ModeAFlatMocrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2247](https://ianring.com/musictheory/scales/2247) | [Aeolimic](ModeAeolimic.md) | Db | Db, Ebb, Fbb, G, Ab, B#, Db | ![DFlatAeolimic](CircleModeDFlatAeolimic.png) |
+| [483](https://ianring.com/musictheory/scales/483) | [Kygimic](ModeKygimic.md) | G | G, Ab, B#, C#, D, Eb, G | ![GNaturalKygimic](CircleModeGNaturalKygimic.png) |
+| [2289](https://ianring.com/musictheory/scales/2289) | [Mocrimic](ModeMocrimic.md) | Ab | Ab, B#, C#, D, Eb, F##, Ab | ![AFlatMocrimic](CircleModeAFlatMocrimic.png) |
 
 ## Chords
 

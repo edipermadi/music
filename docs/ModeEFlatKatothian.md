@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ ii, IV, v⁰, vi⁰, vii⁰
 
 ![EFlatKatothian](ModeEFlatKatothian.png)
 
+## Diagram
+
+![EFlatKatothian](CircleModeEFlatKatothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ ii, IV, v⁰, vi⁰, vii⁰
 | [731](https://ianring.com/musictheory/scales/731) | [Ionorian](ModeIonorian.md) | B | B, C, D, Eb, F, Gb, Ab, B | ![BNaturalIonorian](ModeBNaturalIonorian.png) |
 | [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | C | C, D, Eb, F, Gb, Ab, B, C | ![CNaturalPhrydian](ModeCNaturalPhrydian.png) |
 | [1627](https://ianring.com/musictheory/scales/1627) | [Zyptian](ModeZyptian.md) | D | D, Eb, F, Gb, Ab, B, C, D | ![DNaturalZyptian](ModeDNaturalZyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2861](https://ianring.com/musictheory/scales/2861) | [Katothian](ModeKatothian.md) | Eb | Eb, F, Gb, Ab, B, C, D, Eb | ![EFlatKatothian](CircleModeEFlatKatothian.png) |
+| [1739](https://ianring.com/musictheory/scales/1739) | [Phrylian](ModePhrylian.md) | F | F, Gb, Ab, B, C, D, Eb, F | ![FNaturalPhrylian](CircleModeFNaturalPhrylian.png) |
+| [2917](https://ianring.com/musictheory/scales/2917) | [Kocrian](ModeKocrian.md) | Gb | Gb, Ab, B, C, D, Eb, F, Gb | ![GFlatKocrian](CircleModeGFlatKocrian.png) |
+| [1753](https://ianring.com/musictheory/scales/1753) | [Mycrian](ModeMycrian.md) | Ab | Ab, B, C, D, Eb, F, Gb, Ab | ![AFlatMycrian](CircleModeAFlatMycrian.png) |
+| [731](https://ianring.com/musictheory/scales/731) | [Ionorian](ModeIonorian.md) | B | B, C, D, Eb, F, Gb, Ab, B | ![BNaturalIonorian](CircleModeBNaturalIonorian.png) |
+| [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | C | C, D, Eb, F, Gb, Ab, B, C | ![CNaturalPhrydian](CircleModeCNaturalPhrydian.png) |
+| [1627](https://ianring.com/musictheory/scales/1627) | [Zyptian](ModeZyptian.md) | D | D, Eb, F, Gb, Ab, B, C, D | ![DNaturalZyptian](CircleModeDNaturalZyptian.png) |
 
 ## Chords
 

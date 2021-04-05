@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iii⁰
 
 ![GFlatThacrian](ModeGFlatThacrian.png)
 
+## Diagram
+
+![GFlatThacrian](CircleModeGFlatThacrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ iii⁰
 | [1821](https://ianring.com/musictheory/scales/1821) | [Aeradian](ModeAeradian.md) | D | D, E, F, Gb, A#, B, C, D | ![DNaturalAeradian](ModeDNaturalAeradian.png) |
 | [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeAeolagian.md) | E | E, F, Gb, A#, B, C, D, E | ![ENaturalAeolagian](ModeENaturalAeolagian.png) |
 | [2787](https://ianring.com/musictheory/scales/2787) | [Zyrian](ModeZyrian.md) | F | F, Gb, A#, B, C, D, E, F | ![FNaturalZyrian](ModeFNaturalZyrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeThacrian.md) | Gb | Gb, A#, B, C, D, E, F, Gb | ![GFlatThacrian](CircleModeGFlatThacrian.png) |
+| [471](https://ianring.com/musictheory/scales/471) | [Dodian](ModeDodian.md) | A# | A#, B, C, D, E, F, Gb, A# | ![ASharpDodian](CircleModeASharpDodian.png) |
+| [2283](https://ianring.com/musictheory/scales/2283) | [Aeolyptian](ModeAeolyptian.md) | B | B, C, D, E, F, Gb, A#, B | ![BNaturalAeolyptian](CircleModeBNaturalAeolyptian.png) |
+| [3189](https://ianring.com/musictheory/scales/3189) | [Aeolonian](ModeAeolonian.md) | C | C, D, E, F, Gb, A#, B, C | ![CNaturalAeolonian](CircleModeCNaturalAeolonian.png) |
+| [1821](https://ianring.com/musictheory/scales/1821) | [Aeradian](ModeAeradian.md) | D | D, E, F, Gb, A#, B, C, D | ![DNaturalAeradian](CircleModeDNaturalAeradian.png) |
+| [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeAeolagian.md) | E | E, F, Gb, A#, B, C, D, E | ![ENaturalAeolagian](CircleModeENaturalAeolagian.png) |
+| [2787](https://ianring.com/musictheory/scales/2787) | [Zyrian](ModeZyrian.md) | F | F, Gb, A#, B, C, D, E, F | ![FNaturalZyrian](CircleModeFNaturalZyrian.png) |
 
 ## Chords
 

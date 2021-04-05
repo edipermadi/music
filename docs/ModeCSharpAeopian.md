@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii⁰
 
 ![CSharpAeopian](ModeCSharpAeopian.png)
 
+## Diagram
+
+![CSharpAeopian](CircleModeCSharpAeopian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3793](https://ianring.com/musictheory/scales/3793) | [Aeopian](ModeAeopian.md) | C# | C#, D###, E###, F###, G###, A##, B#, C# | ![CSharpAeopian](ModeCSharpAeopian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3793](https://ianring.com/musictheory/scales/3793) | [Aeopian](ModeAeopian.md) | C# | C#, D###, E###, F###, G###, A##, B#, C# | ![CSharpAeopian](CircleModeCSharpAeopian.png) |
 
 ## Chords
 

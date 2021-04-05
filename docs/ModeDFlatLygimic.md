@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ i, ii
 
 ![DFlatLygimic](ModeDFlatLygimic.png)
 
+## Diagram
+
+![DFlatLygimic](CircleModeDFlatLygimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [411](https://ianring.com/musictheory/scales/411) | [Lygimic](ModeLygimic.md) | Db | Db, Ebb, Fb, Gbb, Ab, Bbb, Db | ![DFlatLygimic](ModeDFlatLygimic.png) |
 | [867](https://ianring.com/musictheory/scales/867) | [Phrocrimic](ModePhrocrimic.md) | Ab | Ab, Bbb, C#, D, E, F, Ab | ![AFlatPhrocrimic](ModeAFlatPhrocrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [411](https://ianring.com/musictheory/scales/411) | [Lygimic](ModeLygimic.md) | Db | Db, Ebb, Fb, Gbb, Ab, Bbb, Db | ![DFlatLygimic](CircleModeDFlatLygimic.png) |
+| [867](https://ianring.com/musictheory/scales/867) | [Phrocrimic](ModePhrocrimic.md) | Ab | Ab, Bbb, C#, D, E, F, Ab | ![AFlatPhrocrimic](CircleModeAFlatPhrocrimic.png) |
 
 ## Chords
 

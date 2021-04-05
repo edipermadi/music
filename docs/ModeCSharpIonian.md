@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, ii, iii, IV, V, vi, vii⁰
 
 ![CSharpIonian](ModeCSharpIonian.png)
 
+## Diagram
+
+![CSharpIonian](CircleModeCSharpIonian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ I, ii, iii, IV, V, vi, vii⁰
 | [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeLydian.md) | F# | F#, G#, A#, B#, C#, D#, E#, F# | ![FSharpLydian](ModeFSharpLydian.png) |
 | [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | G# | G#, A#, B#, C#, D#, E#, F#, G# | ![GSharpMixolydian](ModeGSharpMixolydian.png) |
 | [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | A# | A#, B#, C#, D#, E#, F#, G#, A# | ![ASharpAeolian](ModeASharpAeolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeIonian.md) | C# | C#, D#, E#, F#, G#, A#, B#, C# | ![CSharpIonian](CircleModeCSharpIonian.png) |
+| [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | D# | D#, E#, F#, G#, A#, B#, C#, D# | ![DSharpDorian](CircleModeDSharpDorian.png) |
+| [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeLydian.md) | F# | F#, G#, A#, B#, C#, D#, E#, F# | ![FSharpLydian](CircleModeFSharpLydian.png) |
+| [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | G# | G#, A#, B#, C#, D#, E#, F#, G# | ![GSharpMixolydian](CircleModeGSharpMixolydian.png) |
+| [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | A# | A#, B#, C#, D#, E#, F#, G#, A# | ![ASharpAeolian](CircleModeASharpAeolian.png) |
 
 ## Chords
 

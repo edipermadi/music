@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II, iv, V, VI⁺, vii
 
 ![DSharpMixonorian](ModeDSharpMixonorian.png)
 
+## Diagram
+
+![DSharpMixonorian](CircleModeDSharpMixonorian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ II, iv, V, VI⁺, vii
 | [3285](https://ianring.com/musictheory/scales/3285) | [Zagian](ModeZagian.md) | A | A, B, C#, D#, E, F##, G#, A | ![ANaturalZagian](ModeANaturalZagian.png) |
 | [1845](https://ianring.com/musictheory/scales/1845) | [Lagian](ModeLagian.md) | B | B, C#, D#, E, F##, G#, A, B | ![BNaturalLagian](ModeBNaturalLagian.png) |
 | [1485](https://ianring.com/musictheory/scales/1485) | [Tyrian](ModeTyrian.md) | C# | C#, D#, E, F##, G#, A, B, C# | ![CSharpTyrian](ModeCSharpTyrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeMixonorian.md) | D# | D#, E, F##, G#, A, B, C#, D# | ![DSharpMixonorian](CircleModeDSharpMixonorian.png) |
+| [2745](https://ianring.com/musictheory/scales/2745) | [Dolian](ModeDolian.md) | E | E, F##, G#, A, B, C#, D#, E | ![ENaturalDolian](CircleModeENaturalDolian.png) |
+| [2475](https://ianring.com/musictheory/scales/2475) | [Aerylian](ModeAerylian.md) | G# | G#, A, B, C#, D#, E, F##, G# | ![GSharpAerylian](CircleModeGSharpAerylian.png) |
+| [3285](https://ianring.com/musictheory/scales/3285) | [Zagian](ModeZagian.md) | A | A, B, C#, D#, E, F##, G#, A | ![ANaturalZagian](CircleModeANaturalZagian.png) |
+| [1845](https://ianring.com/musictheory/scales/1845) | [Lagian](ModeLagian.md) | B | B, C#, D#, E, F##, G#, A, B | ![BNaturalLagian](CircleModeBNaturalLagian.png) |
+| [1485](https://ianring.com/musictheory/scales/1485) | [Tyrian](ModeTyrian.md) | C# | C#, D#, E, F##, G#, A, B, C# | ![CSharpTyrian](CircleModeCSharpTyrian.png) |
 
 ## Chords
 

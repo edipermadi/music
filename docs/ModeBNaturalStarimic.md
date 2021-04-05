@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ B
 
 ![BNaturalStarimic](ModeBNaturalStarimic.png)
 
+## Diagram
+
+![BNaturalStarimic](CircleModeBNaturalStarimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3729](https://ianring.com/musictheory/scales/3729) | [Starimic](ModeStarimic.md) | B | B, C###, E##, F###, G##, A#, B | ![BNaturalStarimic](ModeBNaturalStarimic.png) |
 | [3363](https://ianring.com/musictheory/scales/3363) | [Rogimic](ModeRogimic.md) | A# | A#, B, C###, E##, F###, G##, A# | ![ASharpRogimic](ModeASharpRogimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3729](https://ianring.com/musictheory/scales/3729) | [Starimic](ModeStarimic.md) | B | B, C###, E##, F###, G##, A#, B | ![BNaturalStarimic](CircleModeBNaturalStarimic.png) |
+| [3363](https://ianring.com/musictheory/scales/3363) | [Rogimic](ModeRogimic.md) | A# | A#, B, C###, E##, F###, G##, A# | ![ASharpRogimic](CircleModeASharpRogimic.png) |
 
 ## Chords
 

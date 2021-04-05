@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ III
 
 ![FSharpMythimic](ModeFSharpMythimic.png)
 
+## Diagram
+
+![FSharpMythimic](CircleModeFSharpMythimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeMythimic.md) | F# | F#, G###, A##, B#, C###, D###, F# | ![FSharpMythimic](ModeFSharpMythimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeMythimic.md) | F# | F#, G###, A##, B#, C###, D###, F# | ![FSharpMythimic](CircleModeFSharpMythimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ I, ii, iii, V⁺, VII
 
 ![ASharpLoptian](ModeASharpLoptian.png)
 
+## Diagram
+
+![ASharpLoptian](CircleModeASharpLoptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3289](https://ianring.com/musictheory/scales/3289) | [Loptian](ModeLoptian.md) | A# | A#, B##, C##, D##, E#, F###, G##, A# | ![ASharpLoptian](ModeASharpLoptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3289](https://ianring.com/musictheory/scales/3289) | [Loptian](ModeLoptian.md) | A# | A#, B##, C##, D##, E#, F###, G##, A# | ![ASharpLoptian](CircleModeASharpLoptian.png) |
 
 ## Chords
 

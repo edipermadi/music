@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, II⁺, III⁺, IV⁺, V⁺, VI⁺
 
 ![BNaturalWholeTone](ModeBNaturalWholeTone.png)
 
+## Diagram
+
+![BNaturalWholeTone](CircleModeBNaturalWholeTone.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ I⁺, II⁺, III⁺, IV⁺, V⁺, VI⁺
 | [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | B | B, C#, D#, E#, F##, G##, B | ![BNaturalWholeTone](ModeBNaturalWholeTone.png) |
 | [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | C# | C#, D#, E#, F##, G##, A##, C# | ![CSharpWholeTone](ModeCSharpWholeTone.png) |
 | [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | D# | D#, E#, F##, G##, A##, B##, D# | ![DSharpWholeTone](ModeDSharpWholeTone.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | B | B, C#, D#, E#, F##, G##, B | ![BNaturalWholeTone](CircleModeBNaturalWholeTone.png) |
+| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | C# | C#, D#, E#, F##, G##, A##, C# | ![CSharpWholeTone](CircleModeCSharpWholeTone.png) |
+| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | D# | D#, E#, F##, G##, A##, B##, D# | ![DSharpWholeTone](CircleModeDSharpWholeTone.png) |
 
 ## Chords
 

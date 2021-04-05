@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ Eb
 
 ![EFlatEpodian](ModeEFlatEpodian.png)
 
+## Diagram
+
+![EFlatEpodian](CircleModeEFlatEpodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [319](https://ianring.com/musictheory/scales/319) | [Epodian](ModeEpodian.md) | Eb | Eb, Fb, Gbb, Abbb, E###, F###, Cb, Eb | ![EFlatEpodian](ModeEFlatEpodian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [319](https://ianring.com/musictheory/scales/319) | [Epodian](ModeEpodian.md) | Eb | Eb, Fb, Gbb, Abbb, E###, F###, Cb, Eb | ![EFlatEpodian](CircleModeEFlatEpodian.png) |
 
 ## Chords
 

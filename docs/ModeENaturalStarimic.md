@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ E
 
 ![ENaturalStarimic](ModeENaturalStarimic.png)
 
+## Diagram
+
+![ENaturalStarimic](CircleModeENaturalStarimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3729](https://ianring.com/musictheory/scales/3729) | [Starimic](ModeStarimic.md) | E | E, F###, Cb, Db, Ebb, Fbb, E | ![ENaturalStarimic](ModeENaturalStarimic.png) |
 | [1167](https://ianring.com/musictheory/scales/1167) | [Aerodimic](ModeAerodimic.md) | Db | Db, Ebb, Fbb, Gbbb, Ab, B, Db | ![DFlatAerodimic](ModeDFlatAerodimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3729](https://ianring.com/musictheory/scales/3729) | [Starimic](ModeStarimic.md) | E | E, F###, Cb, Db, Ebb, Fbb, E | ![ENaturalStarimic](CircleModeENaturalStarimic.png) |
+| [1167](https://ianring.com/musictheory/scales/1167) | [Aerodimic](ModeAerodimic.md) | Db | Db, Ebb, Fbb, Gbbb, Ab, B, Db | ![DFlatAerodimic](CircleModeDFlatAerodimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ Db
 
 ![DFlatSalian](ModeDFlatSalian.png)
 
+## Diagram
+
+![DFlatSalian](CircleModeDFlatSalian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1583](https://ianring.com/musictheory/scales/1583) | [Salian](ModeSalian.md) | Db | Db, Ebb, Fbb, Gbbb, Abbb, Bb, Cb, Db | ![DFlatSalian](ModeDFlatSalian.png) |
 | [379](https://ianring.com/musictheory/scales/379) | [Aeragian](ModeAeragian.md) | Bb | Bb, Cb, Db, Ebb, Fbb, Gbbb, Abbb, Bb | ![BFlatAeragian](ModeBFlatAeragian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1583](https://ianring.com/musictheory/scales/1583) | [Salian](ModeSalian.md) | Db | Db, Ebb, Fbb, Gbbb, Abbb, Bb, Cb, Db | ![DFlatSalian](CircleModeDFlatSalian.png) |
+| [379](https://ianring.com/musictheory/scales/379) | [Aeragian](ModeAeragian.md) | Bb | Bb, Cb, Db, Ebb, Fbb, Gbbb, Abbb, Bb | ![BFlatAeragian](CircleModeBFlatAeragian.png) |
 
 ## Chords
 

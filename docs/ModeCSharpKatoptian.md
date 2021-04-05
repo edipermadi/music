@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ C#
 
 ![CSharpKatoptian](ModeCSharpKatoptian.png)
 
+## Diagram
+
+![CSharpKatoptian](CircleModeCSharpKatoptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ C#
 | [1993](https://ianring.com/musictheory/scales/1993) | [Katoptian](ModeKatoptian.md) | C# | C#, D##, E###, F###, G##, A#, B, C# | ![CSharpKatoptian](ModeCSharpKatoptian.png) |
 | [3659](https://ianring.com/musictheory/scales/3659) | [Polian](ModePolian.md) | A# | A#, B, C#, D##, E###, F###, G##, A# | ![ASharpPolian](ModeASharpPolian.png) |
 | [3877](https://ianring.com/musictheory/scales/3877) | [Thanian](ModeThanian.md) | B | B, C#, D##, E###, F###, G##, A#, B | ![BNaturalThanian](ModeBNaturalThanian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1993](https://ianring.com/musictheory/scales/1993) | [Katoptian](ModeKatoptian.md) | C# | C#, D##, E###, F###, G##, A#, B, C# | ![CSharpKatoptian](CircleModeCSharpKatoptian.png) |
+| [3659](https://ianring.com/musictheory/scales/3659) | [Polian](ModePolian.md) | A# | A#, B, C#, D##, E###, F###, G##, A# | ![ASharpPolian](CircleModeASharpPolian.png) |
+| [3877](https://ianring.com/musictheory/scales/3877) | [Thanian](ModeThanian.md) | B | B, C#, D##, E###, F###, G##, A#, B | ![BNaturalThanian](CircleModeBNaturalThanian.png) |
 
 ## Chords
 

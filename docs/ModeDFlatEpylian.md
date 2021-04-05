@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ i⁰, ii⁰, iii, V, vii⁰
 
 ![DFlatEpylian](ModeDFlatEpylian.png)
 
+## Diagram
+
+![DFlatEpylian](CircleModeDFlatEpylian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1243](https://ianring.com/musictheory/scales/1243) | [Epylian](ModeEpylian.md) | Db | Db, Ebb, Fb, Gbb, Abb, Bbbb, Cb, Db | ![DFlatEpylian](ModeDFlatEpylian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1243](https://ianring.com/musictheory/scales/1243) | [Epylian](ModeEpylian.md) | Db | Db, Ebb, Fb, Gbb, Abb, Bbbb, Cb, Db | ![DFlatEpylian](CircleModeDFlatEpylian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ G#
 
 ![GSharpEpycrian](ModeGSharpEpycrian.png)
 
+## Diagram
+
+![GSharpEpycrian](CircleModeGSharpEpycrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3025](https://ianring.com/musictheory/scales/3025) | [Epycrian](ModeEpycrian.md) | G# | G#, A###, B###, C###, D##, E#, F##, G# | ![GSharpEpycrian](ModeGSharpEpycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3025](https://ianring.com/musictheory/scales/3025) | [Epycrian](ModeEpycrian.md) | G# | G#, A###, B###, C###, D##, E#, F##, G# | ![GSharpEpycrian](CircleModeGSharpEpycrian.png) |
 
 ## Chords
 

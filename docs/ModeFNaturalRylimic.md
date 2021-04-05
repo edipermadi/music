@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ v⁰, vi⁰
 
 ![FNaturalRylimic](ModeFNaturalRylimic.png)
 
+## Diagram
+
+![FNaturalRylimic](CircleModeFNaturalRylimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,14 @@ v⁰, vi⁰
 | [1675](https://ianring.com/musictheory/scales/1675) | [Epatimic](ModeEpatimic.md) | G | G, Ab, Bb, C##, D##, E#, G | ![GNaturalEpatimic](ModeGNaturalEpatimic.png) |
 | [2885](https://ianring.com/musictheory/scales/2885) | [Byrimic](ModeByrimic.md) | Ab | Ab, Bb, C##, D##, E#, F##, Ab | ![AFlatByrimic](ModeAFlatByrimic.png) |
 | [1745](https://ianring.com/musictheory/scales/1745) | [Manimic](ModeManimic.md) | Bb | Bb, C##, D##, E#, F##, G#, Bb | ![BFlatManimic](ModeBFlatManimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2605](https://ianring.com/musictheory/scales/2605) | [Rylimic](ModeRylimic.md) | F | F, G, Ab, Bb, C##, D##, F | ![FNaturalRylimic](CircleModeFNaturalRylimic.png) |
+| [1675](https://ianring.com/musictheory/scales/1675) | [Epatimic](ModeEpatimic.md) | G | G, Ab, Bb, C##, D##, E#, G | ![GNaturalEpatimic](CircleModeGNaturalEpatimic.png) |
+| [2885](https://ianring.com/musictheory/scales/2885) | [Byrimic](ModeByrimic.md) | Ab | Ab, Bb, C##, D##, E#, F##, Ab | ![AFlatByrimic](CircleModeAFlatByrimic.png) |
+| [1745](https://ianring.com/musictheory/scales/1745) | [Manimic](ModeManimic.md) | Bb | Bb, C##, D##, E#, F##, G#, Bb | ![BFlatManimic](CircleModeBFlatManimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -49,6 +49,10 @@ E
 
 ![ENaturalZyphic](ModeENaturalZyphic.png)
 
+## Diagram
+
+![ENaturalZyphic](CircleModeENaturalZyphic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -57,6 +61,14 @@ E
 | [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | G# | G#, C, D#, E, G# | ![GSharpEpogic](ModeGSharpEpogic.png) |
 | [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | C | C, D#, E, G#, C | ![CNaturalLanic](ModeCNaturalLanic.png) |
 | [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | D# | D#, E, G#, C, D# | ![DSharpPyrric](ModeDSharpPyrric.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | E | E, G#, C, D#, E | ![ENaturalZyphic](CircleModeENaturalZyphic.png) |
+| [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | G# | G#, C, D#, E, G# | ![GSharpEpogic](CircleModeGSharpEpogic.png) |
+| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | C | C, D#, E, G#, C | ![CNaturalLanic](CircleModeCNaturalLanic.png) |
+| [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | D# | D#, E, G#, C, D# | ![DSharpPyrric](CircleModeDSharpPyrric.png) |
 
 ## Chords
 
