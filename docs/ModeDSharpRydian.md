@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ D#
 
 ![DSharpRydian](ModeDSharpRydian.png)
 
+## Diagram
+
+![DSharpRydian](CircleModeDSharpRydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3909](https://ianring.com/musictheory/scales/3909) | [Rydian](ModeRydian.md) | D# | D#, E#, Cbbb, Dbbb, Dbb, Ebbb, Fbbb, D# | ![DSharpRydian](ModeDSharpRydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3909](https://ianring.com/musictheory/scales/3909) | [Rydian](ModeRydian.md) | D# | D#, E#, Cbbb, Dbbb, Dbb, Ebbb, Fbbb, D# | ![DSharpRydian](CircleModeDSharpRydian.png) |
 
 ## Chords
 

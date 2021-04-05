@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ Db
 
 ![DFlatMagian](ModeDFlatMagian.png)
 
+## Diagram
+
+![DFlatMagian](CircleModeDFlatMagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | Db | Db, Ebb, Fbb, Gbbb, Abbb, Bbbb, Cb, Db | ![DFlatMagian](ModeDFlatMagian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | Db | Db, Ebb, Fbb, Gbbb, Abbb, Bbbb, Cb, Db | ![DFlatMagian](CircleModeDFlatMagian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i, vi⁰
 
 ![ASharpPoptimic](ModeASharpPoptimic.png)
 
+## Diagram
+
+![ASharpPoptimic](CircleModeASharpPoptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ i, vi⁰
 | [2221](https://ianring.com/musictheory/scales/2221) | [Poptimic](ModePoptimic.md) | A# | A#, B#, C#, D#, E#, Cbbb, A# | ![ASharpPoptimic](ModeASharpPoptimic.png) |
 | [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeAelothimic.md) | C# | C#, D#, E#, Cbbb, Cbb, Dbb, C# | ![CSharpAelothimic](ModeCSharpAelothimic.png) |
 | [1733](https://ianring.com/musictheory/scales/1733) | [Socrimic](ModeSocrimic.md) | D# | D#, E#, Cbbb, Cbb, Dbb, Ebbb, D# | ![DSharpSocrimic](ModeDSharpSocrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2221](https://ianring.com/musictheory/scales/2221) | [Poptimic](ModePoptimic.md) | A# | A#, B#, C#, D#, E#, Cbbb, A# | ![ASharpPoptimic](CircleModeASharpPoptimic.png) |
+| [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeAelothimic.md) | C# | C#, D#, E#, Cbbb, Cbb, Dbb, C# | ![CSharpAelothimic](CircleModeCSharpAelothimic.png) |
+| [1733](https://ianring.com/musictheory/scales/1733) | [Socrimic](ModeSocrimic.md) | D# | D#, E#, Cbbb, Cbb, Dbb, Ebbb, D# | ![DSharpSocrimic](CircleModeDSharpSocrimic.png) |
 
 ## Chords
 

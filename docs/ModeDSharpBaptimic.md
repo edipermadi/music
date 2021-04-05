@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ III, iv⁰
 
 ![DSharpBaptimic](ModeDSharpBaptimic.png)
 
+## Diagram
+
+![DSharpBaptimic](CircleModeDSharpBaptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2853](https://ianring.com/musictheory/scales/2853) | [Baptimic](ModeBaptimic.md) | D# | D#, E#, F###, Cb, Dbb, Ebb, D# | ![DSharpBaptimic](ModeDSharpBaptimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2853](https://ianring.com/musictheory/scales/2853) | [Baptimic](ModeBaptimic.md) | D# | D#, E#, F###, Cb, Dbb, Ebb, D# | ![DSharpBaptimic](CircleModeDSharpBaptimic.png) |
 
 ## Chords
 

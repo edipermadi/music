@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ III
 
 ![GNaturalMythimic](ModeGNaturalMythimic.png)
 
+## Diagram
+
+![GNaturalMythimic](CircleModeGNaturalMythimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeMythimic.md) | G | G, A##, B#, C#, D##, E##, G | ![GNaturalMythimic](ModeGNaturalMythimic.png) |
 | [3177](https://ianring.com/musictheory/scales/3177) | [Rothimic](ModeRothimic.md) | C# | C#, D##, E##, F##, Cb, Dbb, C# | ![CSharpRothimic](ModeCSharpRothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeMythimic.md) | G | G, A##, B#, C#, D##, E##, G | ![GNaturalMythimic](CircleModeGNaturalMythimic.png) |
+| [3177](https://ianring.com/musictheory/scales/3177) | [Rothimic](ModeRothimic.md) | C# | C#, D##, E##, F##, Cb, Dbb, C# | ![CSharpRothimic](CircleModeCSharpRothimic.png) |
 
 ## Chords
 

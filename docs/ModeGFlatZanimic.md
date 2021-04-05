@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ Gb
 
 ![GFlatZanimic](ModeGFlatZanimic.png)
 
+## Diagram
+
+![GFlatZanimic](CircleModeGFlatZanimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [335](https://ianring.com/musictheory/scales/335) | [Zanimic](ModeZanimic.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbb, Ebb, Gb | ![GFlatZanimic](ModeGFlatZanimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [335](https://ianring.com/musictheory/scales/335) | [Zanimic](ModeZanimic.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbb, Ebb, Gb | ![GFlatZanimic](CircleModeGFlatZanimic.png) |
 
 ## Chords
 

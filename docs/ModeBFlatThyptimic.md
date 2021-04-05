@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, III⁺, V⁺
 
 ![BFlatThyptimic](ModeBFlatThyptimic.png)
 
+## Diagram
+
+![BFlatThyptimic](CircleModeBFlatThyptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I⁺, III⁺, V⁺
 | [3225](https://ianring.com/musictheory/scales/3225) | [Ionalimic](ModeIonalimic.md) | Eb | Eb, F#, G, A#, B##, C##, Eb | ![EFlatIonalimic](ModeEFlatIonalimic.png) |
 | [915](https://ianring.com/musictheory/scales/915) | [Loptimic](ModeLoptimic.md) | F# | F#, G, A#, B##, C##, D#, F# | ![FSharpLoptimic](ModeFSharpLoptimic.png) |
 | [2505](https://ianring.com/musictheory/scales/2505) | [Mydimic](ModeMydimic.md) | G | G, A#, B##, C##, D#, E##, G | ![GNaturalMydimic](ModeGNaturalMydimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [825](https://ianring.com/musictheory/scales/825) | [Thyptimic](ModeThyptimic.md) | Bb | Bb, C#, D, Eb, F#, G, Bb | ![BFlatThyptimic](CircleModeBFlatThyptimic.png) |
+| [615](https://ianring.com/musictheory/scales/615) | [Phrothimic](ModePhrothimic.md) | C# | C#, D, Eb, F#, G, A#, C# | ![CSharpPhrothimic](CircleModeCSharpPhrothimic.png) |
+| [2355](https://ianring.com/musictheory/scales/2355) | [Katycrimic](ModeKatycrimic.md) | D | D, Eb, F#, G, A#, B##, D | ![DNaturalKatycrimic](CircleModeDNaturalKatycrimic.png) |
+| [3225](https://ianring.com/musictheory/scales/3225) | [Ionalimic](ModeIonalimic.md) | Eb | Eb, F#, G, A#, B##, C##, Eb | ![EFlatIonalimic](CircleModeEFlatIonalimic.png) |
+| [915](https://ianring.com/musictheory/scales/915) | [Loptimic](ModeLoptimic.md) | F# | F#, G, A#, B##, C##, D#, F# | ![FSharpLoptimic](CircleModeFSharpLoptimic.png) |
+| [2505](https://ianring.com/musictheory/scales/2505) | [Mydimic](ModeMydimic.md) | G | G, A#, B##, C##, D#, E##, G | ![GNaturalMydimic](CircleModeGNaturalMydimic.png) |
 
 ## Chords
 

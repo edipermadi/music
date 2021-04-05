@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ V⁺, VII
 
 ![EFlatLaptian](ModeEFlatLaptian.png)
 
+## Diagram
+
+![EFlatLaptian](CircleModeEFlatLaptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ V⁺, VII
 | [2663](https://ianring.com/musictheory/scales/2663) | [Lalian](ModeLalian.md) | A | A, Bb, Cb, D, Eb, F#, G#, A | ![ANaturalLalian](ModeANaturalLalian.png) |
 | [3379](https://ianring.com/musictheory/scales/3379) | [Sothian](ModeSothian.md) | Bb | Bb, Cb, D, Eb, F#, G#, A, Bb | ![BFlatSothian](ModeBFlatSothian.png) |
 | [979](https://ianring.com/musictheory/scales/979) | [Thogian](ModeThogian.md) | D | D, Eb, F#, G#, A, Bb, Cb, D | ![DNaturalThogian](ModeDNaturalThogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2537](https://ianring.com/musictheory/scales/2537) | [Laptian](ModeLaptian.md) | Eb | Eb, F#, G#, A, Bb, Cb, D, Eb | ![EFlatLaptian](CircleModeEFlatLaptian.png) |
+| [829](https://ianring.com/musictheory/scales/829) | [Lygian](ModeLygian.md) | F# | F#, G#, A, Bb, Cb, D, Eb, F# | ![FSharpLygian](CircleModeFSharpLygian.png) |
+| [1231](https://ianring.com/musictheory/scales/1231) | [Logian](ModeLogian.md) | G# | G#, A, Bb, Cb, D, Eb, F#, G# | ![GSharpLogian](CircleModeGSharpLogian.png) |
+| [2663](https://ianring.com/musictheory/scales/2663) | [Lalian](ModeLalian.md) | A | A, Bb, Cb, D, Eb, F#, G#, A | ![ANaturalLalian](CircleModeANaturalLalian.png) |
+| [3379](https://ianring.com/musictheory/scales/3379) | [Sothian](ModeSothian.md) | Bb | Bb, Cb, D, Eb, F#, G#, A, Bb | ![BFlatSothian](CircleModeBFlatSothian.png) |
+| [979](https://ianring.com/musictheory/scales/979) | [Thogian](ModeThogian.md) | D | D, Eb, F#, G#, A, Bb, Cb, D | ![DNaturalThogian](CircleModeDNaturalThogian.png) |
 
 ## Chords
 

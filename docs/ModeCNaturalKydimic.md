@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ C
 
 ![CNaturalKydimic](ModeCNaturalKydimic.png)
 
+## Diagram
+
+![CNaturalKydimic](CircleModeCNaturalKydimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ C
 | [3219](https://ianring.com/musictheory/scales/3219) | [Ionaphimic](ModeIonaphimic.md) | F | F, Gb, A, B#, C###, D##, F | ![FNaturalIonaphimic](ModeFNaturalIonaphimic.png) |
 | [3657](https://ianring.com/musictheory/scales/3657) | [Epynimic](ModeEpynimic.md) | Gb | Gb, A, B#, C###, D##, E#, Gb | ![GFlatEpynimic](ModeGFlatEpynimic.png) |
 | [969](https://ianring.com/musictheory/scales/969) | [Ionogimic](ModeIonogimic.md) | A | A, B#, C###, D##, E#, F#, A | ![ANaturalIonogimic](ModeANaturalIonogimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [633](https://ianring.com/musictheory/scales/633) | [Kydimic](ModeKydimic.md) | C | C, D#, E, F, Gb, A, C | ![CNaturalKydimic](CircleModeCNaturalKydimic.png) |
+| [591](https://ianring.com/musictheory/scales/591) | [Gaptimic](ModeGaptimic.md) | D# | D#, E, F, Gb, A, B#, D# | ![DSharpGaptimic](CircleModeDSharpGaptimic.png) |
+| [2343](https://ianring.com/musictheory/scales/2343) | [Tharimic](ModeTharimic.md) | E | E, F, Gb, A, B#, C###, E | ![ENaturalTharimic](CircleModeENaturalTharimic.png) |
+| [3219](https://ianring.com/musictheory/scales/3219) | [Ionaphimic](ModeIonaphimic.md) | F | F, Gb, A, B#, C###, D##, F | ![FNaturalIonaphimic](CircleModeFNaturalIonaphimic.png) |
+| [3657](https://ianring.com/musictheory/scales/3657) | [Epynimic](ModeEpynimic.md) | Gb | Gb, A, B#, C###, D##, E#, Gb | ![GFlatEpynimic](CircleModeGFlatEpynimic.png) |
+| [969](https://ianring.com/musictheory/scales/969) | [Ionogimic](ModeIonogimic.md) | A | A, B#, C###, D##, E#, F#, A | ![ANaturalIonogimic](CircleModeANaturalIonogimic.png) |
 
 ## Chords
 

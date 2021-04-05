@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ II
 
 ![GFlatGathimic](ModeGFlatGathimic.png)
 
+## Diagram
+
+![GFlatGathimic](CircleModeGFlatGathimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ II
 | [2379](https://ianring.com/musictheory/scales/2379) | [Stathimic](ModeStathimic.md) | C | C, Db, Eb, F#, G#, A##, C | ![CNaturalStathimic](ModeCNaturalStathimic.png) |
 | [3237](https://ianring.com/musictheory/scales/3237) | [Thatimic](ModeThatimic.md) | Db | Db, Eb, F#, G#, A##, B#, Db | ![DFlatThatimic](ModeDFlatThatimic.png) |
 | [1833](https://ianring.com/musictheory/scales/1833) | [Ionacrimic](ModeIonacrimic.md) | Eb | Eb, F#, G#, A##, B#, C#, Eb | ![EFlatIonacrimic](ModeEFlatIonacrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [741](https://ianring.com/musictheory/scales/741) | [Gathimic](ModeGathimic.md) | Gb | Gb, Ab, B, C, Db, Eb, Gb | ![GFlatGathimic](CircleModeGFlatGathimic.png) |
+| [1209](https://ianring.com/musictheory/scales/1209) | [Ionynimic](ModeIonynimic.md) | Ab | Ab, B, C, Db, Eb, F#, Ab | ![AFlatIonynimic](CircleModeAFlatIonynimic.png) |
+| [663](https://ianring.com/musictheory/scales/663) | [Phrynimic](ModePhrynimic.md) | B | B, C, Db, Eb, F#, G#, B | ![BNaturalPhrynimic](CircleModeBNaturalPhrynimic.png) |
+| [2379](https://ianring.com/musictheory/scales/2379) | [Stathimic](ModeStathimic.md) | C | C, Db, Eb, F#, G#, A##, C | ![CNaturalStathimic](CircleModeCNaturalStathimic.png) |
+| [3237](https://ianring.com/musictheory/scales/3237) | [Thatimic](ModeThatimic.md) | Db | Db, Eb, F#, G#, A##, B#, Db | ![DFlatThatimic](CircleModeDFlatThatimic.png) |
+| [1833](https://ianring.com/musictheory/scales/1833) | [Ionacrimic](ModeIonacrimic.md) | Eb | Eb, F#, G#, A##, B#, C#, Eb | ![EFlatIonacrimic](CircleModeEFlatIonacrimic.png) |
 
 ## Chords
 

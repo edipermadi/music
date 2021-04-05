@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ II, VII⁺
 
 ![DNaturalPhraptian](ModeDNaturalPhraptian.png)
 
+## Diagram
+
+![DNaturalPhraptian](CircleModeDNaturalPhraptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | D | D, E#, F##, G##, A##, B#, C#, D | ![DNaturalPhraptian](ModeDNaturalPhraptian.png) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | C# | C#, D, E#, F##, G##, A##, B#, C# | ![CSharpIonathian](ModeCSharpIonathian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | D | D, E#, F##, G##, A##, B#, C#, D | ![DNaturalPhraptian](CircleModeDNaturalPhraptian.png) |
+| [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | C# | C#, D, E#, F##, G##, A##, B#, C# | ![CSharpIonathian](CircleModeCSharpIonathian.png) |
 
 ## Chords
 

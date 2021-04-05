@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ Ab
 
 ![AFlatGaptimic](ModeAFlatGaptimic.png)
 
+## Diagram
+
+![AFlatGaptimic](CircleModeAFlatGaptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [591](https://ianring.com/musictheory/scales/591) | [Gaptimic](ModeGaptimic.md) | Ab | Ab, Bbb, Cbb, Dbbb, Ebb, F, Ab | ![AFlatGaptimic](ModeAFlatGaptimic.png) |
 | [633](https://ianring.com/musictheory/scales/633) | [Kydimic](ModeKydimic.md) | F | F, G#, A, Bb, Cb, D, F | ![FNaturalKydimic](ModeFNaturalKydimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [591](https://ianring.com/musictheory/scales/591) | [Gaptimic](ModeGaptimic.md) | Ab | Ab, Bbb, Cbb, Dbbb, Ebb, F, Ab | ![AFlatGaptimic](CircleModeAFlatGaptimic.png) |
+| [633](https://ianring.com/musictheory/scales/633) | [Kydimic](ModeKydimic.md) | F | F, G#, A, Bb, Cb, D, F | ![FNaturalKydimic](CircleModeFNaturalKydimic.png) |
 
 ## Chords
 

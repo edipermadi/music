@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ iv⁰, v⁰
 
 ![ENaturalEpatimic](ModeENaturalEpatimic.png)
 
+## Diagram
+
+![ENaturalEpatimic](CircleModeENaturalEpatimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ iv⁰, v⁰
 | [1675](https://ianring.com/musictheory/scales/1675) | [Epatimic](ModeEpatimic.md) | E | E, F, G, A##, B##, C##, E | ![ENaturalEpatimic](ModeENaturalEpatimic.png) |
 | [2885](https://ianring.com/musictheory/scales/2885) | [Byrimic](ModeByrimic.md) | F | F, G, A##, B##, C##, D##, F | ![FNaturalByrimic](ModeFNaturalByrimic.png) |
 | [1745](https://ianring.com/musictheory/scales/1745) | [Manimic](ModeManimic.md) | G | G, A##, B##, C##, D##, E#, G | ![GNaturalManimic](ModeGNaturalManimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1675](https://ianring.com/musictheory/scales/1675) | [Epatimic](ModeEpatimic.md) | E | E, F, G, A##, B##, C##, E | ![ENaturalEpatimic](CircleModeENaturalEpatimic.png) |
+| [2885](https://ianring.com/musictheory/scales/2885) | [Byrimic](ModeByrimic.md) | F | F, G, A##, B##, C##, D##, F | ![FNaturalByrimic](CircleModeFNaturalByrimic.png) |
+| [1745](https://ianring.com/musictheory/scales/1745) | [Manimic](ModeManimic.md) | G | G, A##, B##, C##, D##, E#, G | ![GNaturalManimic](CircleModeGNaturalManimic.png) |
 
 ## Chords
 

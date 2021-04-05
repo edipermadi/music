@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ i, II⁺, IV⁺, VI⁺
 
 ![ASharpRagimic](ModeASharpRagimic.png)
 
+## Diagram
+
+![ASharpRagimic](CircleModeASharpRagimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1229](https://ianring.com/musictheory/scales/1229) | [Ragimic](ModeRagimic.md) | A# | A#, B#, C#, D##, E#, F###, A# | ![ASharpRagimic](ModeASharpRagimic.png) |
 | [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModePorimic.md) | C# | C#, D##, E#, F###, G###, A###, C# | ![CSharpPorimic](ModeCSharpPorimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1229](https://ianring.com/musictheory/scales/1229) | [Ragimic](ModeRagimic.md) | A# | A#, B#, C#, D##, E#, F###, A# | ![ASharpRagimic](CircleModeASharpRagimic.png) |
+| [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModePorimic.md) | C# | C#, D##, E#, F###, G###, A###, C# | ![CSharpPorimic](CircleModeCSharpPorimic.png) |
 
 ## Chords
 

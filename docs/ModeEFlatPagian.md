@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iv, VI⁺
 
 ![EFlatPagian](ModeEFlatPagian.png)
 
+## Diagram
+
+![EFlatPagian](CircleModeEFlatPagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ iv, VI⁺
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | G | G, Ab, Bbb, Cb, Db, Eb, F#, G | ![GNaturalMolian](ModeGNaturalMolian.png) |
 | [3243](https://ianring.com/musictheory/scales/3243) | [Staptian](ModeStaptian.md) | Ab | Ab, Bbb, Cb, Db, Eb, F#, G, Ab | ![AFlatStaptian](ModeAFlatStaptian.png) |
 | [1509](https://ianring.com/musictheory/scales/1509) | [Ragian](ModeRagian.md) | Db | Db, Eb, F#, G, Ab, Bbb, Cb, Db | ![DFlatRagian](ModeDFlatRagian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1401](https://ianring.com/musictheory/scales/1401) | [Pagian](ModePagian.md) | Eb | Eb, F#, G, Ab, Bbb, Cb, Db, Eb | ![EFlatPagian](CircleModeEFlatPagian.png) |
+| [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeAeolythian.md) | F# | F#, G, Ab, Bbb, Cb, Db, Eb, F# | ![FSharpAeolythian](CircleModeFSharpAeolythian.png) |
+| [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | G | G, Ab, Bbb, Cb, Db, Eb, F#, G | ![GNaturalMolian](CircleModeGNaturalMolian.png) |
+| [3243](https://ianring.com/musictheory/scales/3243) | [Staptian](ModeStaptian.md) | Ab | Ab, Bbb, Cb, Db, Eb, F#, G, Ab | ![AFlatStaptian](CircleModeAFlatStaptian.png) |
+| [1509](https://ianring.com/musictheory/scales/1509) | [Ragian](ModeRagian.md) | Db | Db, Eb, F#, G, Ab, Bbb, Cb, Db | ![DFlatRagian](CircleModeDFlatRagian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, IV⁺, VI
 
 ![DFlatStagian](ModeDFlatStagian.png)
 
+## Diagram
+
+![DFlatStagian](CircleModeDFlatStagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ i⁰, IV⁺, VI
 | [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | Db | Db, Eb, Fb, Gbb, Abb, Bbb, C, Db | ![DFlatStagian](ModeDFlatStagian.png) |
 | [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | Eb | Eb, Fb, Gbb, Abb, Bbb, C, Db, Eb | ![EFlatLothian](ModeEFlatLothian.png) |
 | [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeAerothian.md) | C | C, Db, Eb, Fb, Gbb, Abb, Bbb, C | ![CNaturalAerothian](ModeCNaturalAerothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | Db | Db, Eb, Fb, Gbb, Abb, Bbb, C, Db | ![DFlatStagian](CircleModeDFlatStagian.png) |
+| [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | Eb | Eb, Fb, Gbb, Abb, Bbb, C, Db, Eb | ![EFlatLothian](CircleModeEFlatLothian.png) |
+| [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeAerothian.md) | C | C, Db, Eb, Fb, Gbb, Abb, Bbb, C | ![CNaturalAerothian](CircleModeCNaturalAerothian.png) |
 
 ## Chords
 

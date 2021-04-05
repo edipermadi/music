@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ Eb
 
 ![EFlatSoptian](ModeEFlatSoptian.png)
 
+## Diagram
+
+![EFlatSoptian](CircleModeEFlatSoptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ Eb
 | [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | B | B, C, Db, Eb, F#, G#, A#, B | ![BNaturalStolian](ModeBNaturalStolian.png) |
 | [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | C | C, Db, Eb, F#, G#, A#, B, C | ![CNaturalBylian](ModeCNaturalBylian.png) |
 | [3749](https://ianring.com/musictheory/scales/3749) | [Zothian](ModeZothian.md) | Db | Db, Eb, F#, G#, A#, B, C, Db | ![DFlatZothian](ModeDFlatZothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1961](https://ianring.com/musictheory/scales/1961) | [Soptian](ModeSoptian.md) | Eb | Eb, F#, G#, A#, B, C, Db, Eb | ![EFlatSoptian](CircleModeEFlatSoptian.png) |
+| [757](https://ianring.com/musictheory/scales/757) | [Ionyptian](ModeIonyptian.md) | F# | F#, G#, A#, B, C, Db, Eb, F# | ![FSharpIonyptian](CircleModeFSharpIonyptian.png) |
+| [1213](https://ianring.com/musictheory/scales/1213) | [Gyrian](ModeGyrian.md) | G# | G#, A#, B, C, Db, Eb, F#, G# | ![GSharpGyrian](CircleModeGSharpGyrian.png) |
+| [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | A# | A#, B, C, Db, Eb, F#, G#, A# | ![ASharpZalian](CircleModeASharpZalian.png) |
+| [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | B | B, C, Db, Eb, F#, G#, A#, B | ![BNaturalStolian](CircleModeBNaturalStolian.png) |
+| [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | C | C, Db, Eb, F#, G#, A#, B, C | ![CNaturalBylian](CircleModeCNaturalBylian.png) |
+| [3749](https://ianring.com/musictheory/scales/3749) | [Zothian](ModeZothian.md) | Db | Db, Eb, F#, G#, A#, B, C, Db | ![DFlatZothian](CircleModeDFlatZothian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ iv
 
 ![FNaturalIonylimic](ModeFNaturalIonylimic.png)
 
+## Diagram
+
+![FNaturalIonylimic](CircleModeFNaturalIonylimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2953](https://ianring.com/musictheory/scales/2953) | [Ionylimic](ModeIonylimic.md) | F | F, G#, A###, B##, C##, D##, F | ![FNaturalIonylimic](ModeFNaturalIonylimic.png) |
 | [881](https://ianring.com/musictheory/scales/881) | [Aerothimic](ModeAerothimic.md) | G# | G#, A###, B##, C##, D##, E#, G# | ![GSharpAerothimic](ModeGSharpAerothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2953](https://ianring.com/musictheory/scales/2953) | [Ionylimic](ModeIonylimic.md) | F | F, G#, A###, B##, C##, D##, F | ![FNaturalIonylimic](CircleModeFNaturalIonylimic.png) |
+| [881](https://ianring.com/musictheory/scales/881) | [Aerothimic](ModeAerothimic.md) | G# | G#, A###, B##, C##, D##, E#, G# | ![GSharpAerothimic](CircleModeGSharpAerothimic.png) |
 
 ## Chords
 

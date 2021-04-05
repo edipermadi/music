@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i
 
 ![GSharpZaptimic](ModeGSharpZaptimic.png)
 
+## Diagram
+
+![GSharpZaptimic](CircleModeGSharpZaptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,15 @@ i
 | [1593](https://ianring.com/musictheory/scales/1593) | [Zogimic](ModeZogimic.md) | B | B, C##, D#, E, F###, G##, B | ![BNaturalZogimic](ModeBNaturalZogimic.png) |
 | [2403](https://ianring.com/musictheory/scales/2403) | [Lycrimic](ModeLycrimic.md) | D# | D#, E, F###, G##, A##, B###, D# | ![DSharpLycrimic](ModeDSharpLycrimic.png) |
 | [3249](https://ianring.com/musictheory/scales/3249) | [Epygimic](ModeEpygimic.md) | E | E, F###, G##, A##, B###, C###, E | ![ENaturalEpygimic](ModeENaturalEpygimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [459](https://ianring.com/musictheory/scales/459) | [Zaptimic](ModeZaptimic.md) | G# | G#, A, B, C##, D#, E, G# | ![GSharpZaptimic](CircleModeGSharpZaptimic.png) |
+| [2277](https://ianring.com/musictheory/scales/2277) | [Kagimic](ModeKagimic.md) | A | A, B, C##, D#, E, F###, A | ![ANaturalKagimic](CircleModeANaturalKagimic.png) |
+| [1593](https://ianring.com/musictheory/scales/1593) | [Zogimic](ModeZogimic.md) | B | B, C##, D#, E, F###, G##, B | ![BNaturalZogimic](CircleModeBNaturalZogimic.png) |
+| [2403](https://ianring.com/musictheory/scales/2403) | [Lycrimic](ModeLycrimic.md) | D# | D#, E, F###, G##, A##, B###, D# | ![DSharpLycrimic](CircleModeDSharpLycrimic.png) |
+| [3249](https://ianring.com/musictheory/scales/3249) | [Epygimic](ModeEpygimic.md) | E | E, F###, G##, A##, B###, C###, E | ![ENaturalEpygimic](CircleModeENaturalEpygimic.png) |
 
 ## Chords
 

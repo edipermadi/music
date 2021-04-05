@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -49,6 +49,10 @@ D#
 
 ![DSharpStathic](ModeDSharpStathic.png)
 
+## Diagram
+
+![DSharpStathic](CircleModeDSharpStathic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -57,6 +61,14 @@ D#
 | [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | G | G, A, C#, D#, G | ![GNaturalDadic](ModeGNaturalDadic.png) |
 | [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | A | A, C#, D#, G, A | ![ANaturalStathic](ModeANaturalStathic.png) |
 | [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | C# | C#, D#, G, A, C# | ![CSharpDadic](ModeCSharpDadic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | D# | D#, G, A, C#, D# | ![DSharpStathic](CircleModeDSharpStathic.png) |
+| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | G | G, A, C#, D#, G | ![GNaturalDadic](CircleModeGNaturalDadic.png) |
+| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | A | A, C#, D#, G, A | ![ANaturalStathic](CircleModeANaturalStathic.png) |
+| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | C# | C#, D#, G, A, C# | ![CSharpDadic](CircleModeCSharpDadic.png) |
 
 ## Chords
 

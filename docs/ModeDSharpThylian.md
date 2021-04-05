@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ D#
 
 ![DSharpThylian](ModeDSharpThylian.png)
 
+## Diagram
+
+![DSharpThylian](CircleModeDSharpThylian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ D#
 | [3271](https://ianring.com/musictheory/scales/3271) | [Kolian](ModeKolian.md) | G# | G#, A, Bb, C##, D#, E##, F##, G# | ![GSharpKolian](ModeGSharpKolian.png) |
 | [3683](https://ianring.com/musictheory/scales/3683) | [Dycrian](ModeDycrian.md) | A | A, Bb, C##, D#, E##, F##, G#, A | ![ANaturalDycrian](ModeANaturalDycrian.png) |
 | [3889](https://ianring.com/musictheory/scales/3889) | [Parian](ModeParian.md) | Bb | Bb, C##, D#, E##, F##, G#, A, Bb | ![BFlatParian](ModeBFlatParian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2297](https://ianring.com/musictheory/scales/2297) | [Thylian](ModeThylian.md) | D# | D#, E##, F##, G#, A, Bb, C##, D# | ![DSharpThylian](CircleModeDSharpThylian.png) |
+| [3271](https://ianring.com/musictheory/scales/3271) | [Kolian](ModeKolian.md) | G# | G#, A, Bb, C##, D#, E##, F##, G# | ![GSharpKolian](CircleModeGSharpKolian.png) |
+| [3683](https://ianring.com/musictheory/scales/3683) | [Dycrian](ModeDycrian.md) | A | A, Bb, C##, D#, E##, F##, G#, A | ![ANaturalDycrian](CircleModeANaturalDycrian.png) |
+| [3889](https://ianring.com/musictheory/scales/3889) | [Parian](ModeParian.md) | Bb | Bb, C##, D#, E##, F##, G#, A, Bb | ![BFlatParian](CircleModeBFlatParian.png) |
 
 ## Chords
 

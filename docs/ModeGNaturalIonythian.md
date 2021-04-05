@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ ii⁰
 
 ![GNaturalIonythian](ModeGNaturalIonythian.png)
 
+## Diagram
+
+![GNaturalIonythian](CircleModeGNaturalIonythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3761](https://ianring.com/musictheory/scales/3761) | [Ionythian](ModeIonythian.md) | G | G, A##, B#, C##, D##, E#, F#, G | ![GNaturalIonythian](ModeGNaturalIonythian.png) |
 | [3427](https://ianring.com/musictheory/scales/3427) | [Zacrian](ModeZacrian.md) | F# | F#, G, A##, B#, C##, D##, E#, F# | ![FSharpZacrian](ModeFSharpZacrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3761](https://ianring.com/musictheory/scales/3761) | [Ionythian](ModeIonythian.md) | G | G, A##, B#, C##, D##, E#, F#, G | ![GNaturalIonythian](CircleModeGNaturalIonythian.png) |
+| [3427](https://ianring.com/musictheory/scales/3427) | [Zacrian](ModeZacrian.md) | F# | F#, G, A##, B#, C##, D##, E#, F# | ![FSharpZacrian](CircleModeFSharpZacrian.png) |
 
 ## Chords
 

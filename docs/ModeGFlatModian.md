@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, II, iv, VI⁺, VII⁺
 
 ![GFlatModian](ModeGFlatModian.png)
 
+## Diagram
+
+![GFlatModian](CircleModeGFlatModian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ I, II, iv, VI⁺, VII⁺
 | [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | Gb | Gb, Abb, Bb, Cb, Db, Ebb, Fbb, Gb | ![GFlatModian](ModeGFlatModian.png) |
 | [827](https://ianring.com/musictheory/scales/827) | [Mixolocrian](ModeMixolocrian.md) | Bb | Bb, Cb, Db, Ebb, Fbb, Gb, Abb, Bb | ![BFlatMixolocrian](ModeBFlatMixolocrian.png) |
 | [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | Db | Db, Ebb, Fbb, Gb, Abb, Bb, Cb, Db | ![DFlatAeolothian](ModeDFlatAeolothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | Gb | Gb, Abb, Bb, Cb, Db, Ebb, Fbb, Gb | ![GFlatModian](CircleModeGFlatModian.png) |
+| [827](https://ianring.com/musictheory/scales/827) | [Mixolocrian](ModeMixolocrian.md) | Bb | Bb, Cb, Db, Ebb, Fbb, Gb, Abb, Bb | ![BFlatMixolocrian](CircleModeBFlatMixolocrian.png) |
+| [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | Db | Db, Ebb, Fbb, Gb, Abb, Bb, Cb, Db | ![DFlatAeolothian](CircleModeDFlatAeolothian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, III, v⁰
 
 ![FSharpKyptian](ModeFSharpKyptian.png)
 
+## Diagram
+
+![FSharpKyptian](CircleModeFSharpKyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ I⁺, III, v⁰
 | [3477](https://ianring.com/musictheory/scales/3477) | [Kyptian](ModeKyptian.md) | F# | F#, G#, A#, B##, C##, D##, E#, F# | ![FSharpKyptian](ModeFSharpKyptian.png) |
 | [1893](https://ianring.com/musictheory/scales/1893) | [Ionylian](ModeIonylian.md) | G# | G#, A#, B##, C##, D##, E#, F#, G# | ![GSharpIonylian](ModeGSharpIonylian.png) |
 | [1497](https://ianring.com/musictheory/scales/1497) | [Ionanian](ModeIonanian.md) | A# | A#, B##, C##, D##, E#, F#, G#, A# | ![ASharpIonanian](ModeASharpIonanian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3477](https://ianring.com/musictheory/scales/3477) | [Kyptian](ModeKyptian.md) | F# | F#, G#, A#, B##, C##, D##, E#, F# | ![FSharpKyptian](CircleModeFSharpKyptian.png) |
+| [1893](https://ianring.com/musictheory/scales/1893) | [Ionylian](ModeIonylian.md) | G# | G#, A#, B##, C##, D##, E#, F#, G# | ![GSharpIonylian](CircleModeGSharpIonylian.png) |
+| [1497](https://ianring.com/musictheory/scales/1497) | [Ionanian](ModeIonanian.md) | A# | A#, B##, C##, D##, E#, F#, G#, A# | ![ASharpIonanian](CircleModeASharpIonanian.png) |
 
 ## Chords
 

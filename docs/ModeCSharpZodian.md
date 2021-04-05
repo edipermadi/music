@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii
 
 ![CSharpZodian](ModeCSharpZodian.png)
 
+## Diagram
+
+![CSharpZodian](CircleModeCSharpZodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ I, iii
 | [3673](https://ianring.com/musictheory/scales/3673) | [Ranian](ModeRanian.md) | D | D, E#, F#, G#, A##, B#, C#, D | ![DNaturalRanian](ModeDNaturalRanian.png) |
 | [2533](https://ianring.com/musictheory/scales/2533) | [Podian](ModePodian.md) | F# | F#, G#, A##, B#, C#, D, E#, F# | ![FSharpPodian](ModeFSharpPodian.png) |
 | [1657](https://ianring.com/musictheory/scales/1657) | [Ionothian](ModeIonothian.md) | G# | G#, A##, B#, C#, D, E#, F#, G# | ![GSharpIonothian](ModeGSharpIonothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3251](https://ianring.com/musictheory/scales/3251) | [Zodian](ModeZodian.md) | C# | C#, D, E#, F#, G#, A##, B#, C# | ![CSharpZodian](CircleModeCSharpZodian.png) |
+| [3673](https://ianring.com/musictheory/scales/3673) | [Ranian](ModeRanian.md) | D | D, E#, F#, G#, A##, B#, C#, D | ![DNaturalRanian](CircleModeDNaturalRanian.png) |
+| [2533](https://ianring.com/musictheory/scales/2533) | [Podian](ModePodian.md) | F# | F#, G#, A##, B#, C#, D, E#, F# | ![FSharpPodian](CircleModeFSharpPodian.png) |
+| [1657](https://ianring.com/musictheory/scales/1657) | [Ionothian](ModeIonothian.md) | G# | G#, A##, B#, C#, D, E#, F#, G# | ![GSharpIonothian](CircleModeGSharpIonothian.png) |
 
 ## Chords
 

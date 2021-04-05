@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ C#
 
 ![CSharpPhroptian](ModeCSharpPhroptian.png)
 
+## Diagram
+
+![CSharpPhroptian](CircleModeCSharpPhroptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3861](https://ianring.com/musictheory/scales/3861) | [Phroptian](ModePhroptian.md) | C# | C#, D#, E#, Cbbb, Cbb, Dbbb, Dbb, C# | ![CSharpPhroptian](ModeCSharpPhroptian.png) |
 | [1989](https://ianring.com/musictheory/scales/1989) | [Dydian](ModeDydian.md) | D# | D#, E#, Cbbb, Cbb, Dbbb, Dbb, Ebbb, D# | ![DSharpDydian](ModeDSharpDydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3861](https://ianring.com/musictheory/scales/3861) | [Phroptian](ModePhroptian.md) | C# | C#, D#, E#, Cbbb, Cbb, Dbbb, Dbb, C# | ![CSharpPhroptian](CircleModeCSharpPhroptian.png) |
+| [1989](https://ianring.com/musictheory/scales/1989) | [Dydian](ModeDydian.md) | D# | D#, E#, Cbbb, Cbb, Dbbb, Dbb, Ebbb, D# | ![DSharpDydian](CircleModeDSharpDydian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii⁰, VI⁺
 
 ![ANaturalIonanian](ModeANaturalIonanian.png)
 
+## Diagram
+
+![ANaturalIonanian](CircleModeANaturalIonanian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I, iii⁰, VI⁺
 | [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | E | E, F, G, A, B#, C#, D#, E | ![ENaturalPhrycrian](ModeENaturalPhrycrian.png) |
 | [3477](https://ianring.com/musictheory/scales/3477) | [Kyptian](ModeKyptian.md) | F | F, G, A, B#, C#, D#, E, F | ![FNaturalKyptian](ModeFNaturalKyptian.png) |
 | [1893](https://ianring.com/musictheory/scales/1893) | [Ionylian](ModeIonylian.md) | G | G, A, B#, C#, D#, E, F, G | ![GNaturalIonylian](ModeGNaturalIonylian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1497](https://ianring.com/musictheory/scales/1497) | [Ionanian](ModeIonanian.md) | A | A, B#, C#, D#, E, F, G, A | ![ANaturalIonanian](CircleModeANaturalIonanian.png) |
+| [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | C# | C#, D#, E, F, G, A, B#, C# | ![CSharpStagian](CircleModeCSharpStagian.png) |
+| [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | D# | D#, E, F, G, A, B#, C#, D# | ![DSharpLothian](CircleModeDSharpLothian.png) |
+| [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | E | E, F, G, A, B#, C#, D#, E | ![ENaturalPhrycrian](CircleModeENaturalPhrycrian.png) |
+| [3477](https://ianring.com/musictheory/scales/3477) | [Kyptian](ModeKyptian.md) | F | F, G, A, B#, C#, D#, E, F | ![FNaturalKyptian](CircleModeFNaturalKyptian.png) |
+| [1893](https://ianring.com/musictheory/scales/1893) | [Ionylian](ModeIonylian.md) | G | G, A, B#, C#, D#, E, F, G | ![GNaturalIonylian](CircleModeGNaturalIonylian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ III, v, VII⁺
 
 ![EFlatLanian](ModeEFlatLanian.png)
 
+## Diagram
+
+![EFlatLanian](CircleModeEFlatLanian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [743](https://ianring.com/musictheory/scales/743) | [Lanian](ModeLanian.md) | Eb | Eb, Fb, Gbb, Ab, Bbb, Cbb, Dbb, Eb | ![EFlatLanian](ModeEFlatLanian.png) |
 | [919](https://ianring.com/musictheory/scales/919) | [Gathian](ModeGathian.md) | Ab | Ab, Bbb, Cbb, Dbb, Eb, Fb, Gbb, Ab | ![AFlatGathian](ModeAFlatGathian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [743](https://ianring.com/musictheory/scales/743) | [Lanian](ModeLanian.md) | Eb | Eb, Fb, Gbb, Ab, Bbb, Cbb, Dbb, Eb | ![EFlatLanian](CircleModeEFlatLanian.png) |
+| [919](https://ianring.com/musictheory/scales/919) | [Gathian](ModeGathian.md) | Ab | Ab, Bbb, Cbb, Dbb, Eb, Fb, Gbb, Ab | ![AFlatGathian](CircleModeAFlatGathian.png) |
 
 ## Chords
 

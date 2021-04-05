@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, iii, V, vi⁰, vii⁰
 
 ![DSharpZyptian](ModeDSharpZyptian.png)
 
+## Diagram
+
+![DSharpZyptian](CircleModeDSharpZyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰, iii, V, vi⁰, vii⁰
 | [2917](https://ianring.com/musictheory/scales/2917) | [Kocrian](ModeKocrian.md) | G | G, A, B#, C#, D#, E, F#, G | ![GNaturalKocrian](ModeGNaturalKocrian.png) |
 | [1753](https://ianring.com/musictheory/scales/1753) | [Mycrian](ModeMycrian.md) | A | A, B#, C#, D#, E, F#, G, A | ![ANaturalMycrian](ModeANaturalMycrian.png) |
 | [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | C# | C#, D#, E, F#, G, A, B#, C# | ![CSharpPhrydian](ModeCSharpPhrydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1627](https://ianring.com/musictheory/scales/1627) | [Zyptian](ModeZyptian.md) | D# | D#, E, F#, G, A, B#, C#, D# | ![DSharpZyptian](CircleModeDSharpZyptian.png) |
+| [2861](https://ianring.com/musictheory/scales/2861) | [Katothian](ModeKatothian.md) | E | E, F#, G, A, B#, C#, D#, E | ![ENaturalKatothian](CircleModeENaturalKatothian.png) |
+| [1739](https://ianring.com/musictheory/scales/1739) | [Phrylian](ModePhrylian.md) | F# | F#, G, A, B#, C#, D#, E, F# | ![FSharpPhrylian](CircleModeFSharpPhrylian.png) |
+| [2917](https://ianring.com/musictheory/scales/2917) | [Kocrian](ModeKocrian.md) | G | G, A, B#, C#, D#, E, F#, G | ![GNaturalKocrian](CircleModeGNaturalKocrian.png) |
+| [1753](https://ianring.com/musictheory/scales/1753) | [Mycrian](ModeMycrian.md) | A | A, B#, C#, D#, E, F#, G, A | ![ANaturalMycrian](CircleModeANaturalMycrian.png) |
+| [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | C# | C#, D#, E, F#, G, A, B#, C# | ![CSharpPhrydian](CircleModeCSharpPhrydian.png) |
 
 ## Chords
 

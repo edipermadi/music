@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ II, iii⁰, v, VII⁺
 
 ![GSharpPhrolian](ModeGSharpPhrolian.png)
 
+## Diagram
+
+![GSharpPhrolian](CircleModeGSharpPhrolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModePhrolian.md) | G# | G#, A##, B##, C###, D##, E##, F##, G# | ![GSharpPhrolian](ModeGSharpPhrolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModePhrolian.md) | G# | G#, A##, B##, C###, D##, E##, F##, G# | ![GSharpPhrolian](CircleModeGSharpPhrolian.png) |
 
 ## Chords
 

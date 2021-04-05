@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ I⁺, ii⁰, iv⁰, vi
 
 ![DSharpKorian](ModeDSharpKorian.png)
 
+## Diagram
+
+![DSharpKorian](CircleModeDSharpKorian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1881](https://ianring.com/musictheory/scales/1881) | [Korian](ModeKorian.md) | D# | D#, E##, F##, G##, A##, B#, C#, D# | ![DSharpKorian](ModeDSharpKorian.png) |
 | [3429](https://ianring.com/musictheory/scales/3429) | [Marian](ModeMarian.md) | C# | C#, D#, E##, F##, G##, A##, B#, C# | ![CSharpMarian](ModeCSharpMarian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1881](https://ianring.com/musictheory/scales/1881) | [Korian](ModeKorian.md) | D# | D#, E##, F##, G##, A##, B#, C#, D# | ![DSharpKorian](CircleModeDSharpKorian.png) |
+| [3429](https://ianring.com/musictheory/scales/3429) | [Marian](ModeMarian.md) | C# | C#, D#, E##, F##, G##, A##, B#, C# | ![CSharpMarian](CircleModeCSharpMarian.png) |
 
 ## Chords
 

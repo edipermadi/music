@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ iii⁰, iv⁰
 
 ![GSharpAeolathian](ModeGSharpAeolathian.png)
 
+## Diagram
+
+![GSharpAeolathian](CircleModeGSharpAeolathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeAeolathian.md) | G# | G#, A###, B##, C##, D##, E#, F##, G# | ![GSharpAeolathian](ModeGSharpAeolathian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeAeolathian.md) | G# | G#, A###, B##, C##, D##, E#, F##, G# | ![GSharpAeolathian](CircleModeGSharpAeolathian.png) |
 
 ## Chords
 

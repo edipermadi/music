@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, III, v⁰
 
 ![BFlatKyptian](ModeBFlatKyptian.png)
 
+## Diagram
+
+![BFlatKyptian](CircleModeBFlatKyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I⁺, III, v⁰
 | [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | F# | F#, G#, A, Bb, C, D, E#, F# | ![FSharpStagian](ModeFSharpStagian.png) |
 | [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | G# | G#, A, Bb, C, D, E#, F#, G# | ![GSharpLothian](ModeGSharpLothian.png) |
 | [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | A | A, Bb, C, D, E#, F#, G#, A | ![ANaturalPhrycrian](ModeANaturalPhrycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3477](https://ianring.com/musictheory/scales/3477) | [Kyptian](ModeKyptian.md) | Bb | Bb, C, D, E#, F#, G#, A, Bb | ![BFlatKyptian](CircleModeBFlatKyptian.png) |
+| [1893](https://ianring.com/musictheory/scales/1893) | [Ionylian](ModeIonylian.md) | C | C, D, E#, F#, G#, A, Bb, C | ![CNaturalIonylian](CircleModeCNaturalIonylian.png) |
+| [1497](https://ianring.com/musictheory/scales/1497) | [Ionanian](ModeIonanian.md) | D | D, E#, F#, G#, A, Bb, C, D | ![DNaturalIonanian](CircleModeDNaturalIonanian.png) |
+| [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | F# | F#, G#, A, Bb, C, D, E#, F# | ![FSharpStagian](CircleModeFSharpStagian.png) |
+| [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | G# | G#, A, Bb, C, D, E#, F#, G# | ![GSharpLothian](CircleModeGSharpLothian.png) |
+| [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | A | A, Bb, C, D, E#, F#, G#, A | ![ANaturalPhrycrian](CircleModeANaturalPhrycrian.png) |
 
 ## Chords
 

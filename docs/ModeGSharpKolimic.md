@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ ii⁰
 
 ![GSharpKolimic](ModeGSharpKolimic.png)
 
+## Diagram
+
+![GSharpKolimic](CircleModeGSharpKolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | G# | G#, A##, B##, C##, D#, E#, G# | ![GSharpKolimic](ModeGSharpKolimic.png) |
 | [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | D# | D#, E#, F###, Cb, Db, Ebb, D# | ![DSharpKatolimic](ModeDSharpKatolimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | G# | G#, A##, B##, C##, D#, E#, G# | ![GSharpKolimic](CircleModeGSharpKolimic.png) |
+| [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | D# | D#, E#, F###, Cb, Db, Ebb, D# | ![DSharpKatolimic](CircleModeDSharpKatolimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, II⁺, III⁺, IV⁺, V⁺, VI⁺
 
 ![FNaturalAerythimic](ModeFNaturalAerythimic.png)
 
+## Diagram
+
+![FNaturalAerythimic](CircleModeFNaturalAerythimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I⁺, II⁺, III⁺, IV⁺, V⁺, VI⁺
 | [2457](https://ianring.com/musictheory/scales/2457) | [Ionythimic](ModeIonythimic.md) | Bb | Bb, C#, D, E#, F#, G##, Bb | ![BFlatIonythimic](ModeBFlatIonythimic.png) |
 | [819](https://ianring.com/musictheory/scales/819) | [Aerythimic](ModeAerythimic.md) | C# | C#, D, E#, F#, G##, A#, C# | ![CSharpAerythimic](ModeCSharpAerythimic.png) |
 | [2457](https://ianring.com/musictheory/scales/2457) | [Ionythimic](ModeIonythimic.md) | D | D, E#, F#, G##, A#, B##, D | ![DNaturalIonythimic](ModeDNaturalIonythimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [819](https://ianring.com/musictheory/scales/819) | [Aerythimic](ModeAerythimic.md) | F | F, Gb, A, Bb, C#, D, F | ![FNaturalAerythimic](CircleModeFNaturalAerythimic.png) |
+| [2457](https://ianring.com/musictheory/scales/2457) | [Ionythimic](ModeIonythimic.md) | Gb | Gb, A, Bb, C#, D, E#, Gb | ![GFlatIonythimic](CircleModeGFlatIonythimic.png) |
+| [819](https://ianring.com/musictheory/scales/819) | [Aerythimic](ModeAerythimic.md) | A | A, Bb, C#, D, E#, F#, A | ![ANaturalAerythimic](CircleModeANaturalAerythimic.png) |
+| [2457](https://ianring.com/musictheory/scales/2457) | [Ionythimic](ModeIonythimic.md) | Bb | Bb, C#, D, E#, F#, G##, Bb | ![BFlatIonythimic](CircleModeBFlatIonythimic.png) |
+| [819](https://ianring.com/musictheory/scales/819) | [Aerythimic](ModeAerythimic.md) | C# | C#, D, E#, F#, G##, A#, C# | ![CSharpAerythimic](CircleModeCSharpAerythimic.png) |
+| [2457](https://ianring.com/musictheory/scales/2457) | [Ionythimic](ModeIonythimic.md) | D | D, E#, F#, G##, A#, B##, D | ![DNaturalIonythimic](CircleModeDNaturalIonythimic.png) |
 
 ## Chords
 

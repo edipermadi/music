@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ Eb
 
 ![EFlatAeoladian](ModeEFlatAeoladian.png)
 
+## Diagram
+
+![EFlatAeoladian](CircleModeEFlatAeoladian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [415](https://ianring.com/musictheory/scales/415) | [Aeoladian](ModeAeoladian.md) | Eb | Eb, Fb, Gbb, Abbb, E###, Cbb, Dbbb, Eb | ![EFlatAeoladian](ModeEFlatAeoladian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [415](https://ianring.com/musictheory/scales/415) | [Aeoladian](ModeAeoladian.md) | Eb | Eb, Fb, Gbb, Abbb, E###, Cbb, Dbbb, Eb | ![EFlatAeoladian](CircleModeEFlatAeoladian.png) |
 
 ## Chords
 

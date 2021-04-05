@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ C#
 
 ![CSharpKaptian](ModeCSharpKaptian.png)
 
+## Diagram
+
+![CSharpKaptian](CircleModeCSharpKaptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeKaptian.md) | C# | C#, D, E#, F##, G###, A##, B#, C# | ![CSharpKaptian](ModeCSharpKaptian.png) |
 | [3881](https://ianring.com/musictheory/scales/3881) | [Morian](ModeMorian.md) | D | D, E#, F##, G###, A##, B#, C#, D | ![DNaturalMorian](ModeDNaturalMorian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeKaptian.md) | C# | C#, D, E#, F##, G###, A##, B#, C# | ![CSharpKaptian](CircleModeCSharpKaptian.png) |
+| [3881](https://ianring.com/musictheory/scales/3881) | [Morian](ModeMorian.md) | D | D, E#, F##, G###, A##, B#, C#, D | ![DNaturalMorian](CircleModeDNaturalMorian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ I⁺, III⁺, V⁺
 
 ![DSharpLoptimic](ModeDSharpLoptimic.png)
 
+## Diagram
+
+![DSharpLoptimic](CircleModeDSharpLoptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [915](https://ianring.com/musictheory/scales/915) | [Loptimic](ModeLoptimic.md) | D# | D#, E, F##, G###, A##, B#, D# | ![DSharpLoptimic](ModeDSharpLoptimic.png) |
 | [2505](https://ianring.com/musictheory/scales/2505) | [Mydimic](ModeMydimic.md) | E | E, F##, G###, A##, B#, C###, E | ![ENaturalMydimic](ModeENaturalMydimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [915](https://ianring.com/musictheory/scales/915) | [Loptimic](ModeLoptimic.md) | D# | D#, E, F##, G###, A##, B#, D# | ![DSharpLoptimic](CircleModeDSharpLoptimic.png) |
+| [2505](https://ianring.com/musictheory/scales/2505) | [Mydimic](ModeMydimic.md) | E | E, F##, G###, A##, B#, C###, E | ![ENaturalMydimic](CircleModeENaturalMydimic.png) |
 
 ## Chords
 

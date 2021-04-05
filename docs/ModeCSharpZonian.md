@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ C#
 
 ![CSharpZonian](ModeCSharpZonian.png)
 
+## Diagram
+
+![CSharpZonian](CircleModeCSharpZonian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ C#
 | [3399](https://ianring.com/musictheory/scales/3399) | [Zonian](ModeZonian.md) | C# | C#, D, Eb, F##, G##, A##, B#, C# | ![CSharpZonian](ModeCSharpZonian.png) |
 | [3747](https://ianring.com/musictheory/scales/3747) | [Myrian](ModeMyrian.md) | D | D, Eb, F##, G##, A##, B#, C#, D | ![DNaturalMyrian](ModeDNaturalMyrian.png) |
 | [3921](https://ianring.com/musictheory/scales/3921) | [Pythian](ModePythian.md) | Eb | Eb, F##, G##, A##, B#, C#, D, Eb | ![EFlatPythian](ModeEFlatPythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3399](https://ianring.com/musictheory/scales/3399) | [Zonian](ModeZonian.md) | C# | C#, D, Eb, F##, G##, A##, B#, C# | ![CSharpZonian](CircleModeCSharpZonian.png) |
+| [3747](https://ianring.com/musictheory/scales/3747) | [Myrian](ModeMyrian.md) | D | D, Eb, F##, G##, A##, B#, C#, D | ![DNaturalMyrian](CircleModeDNaturalMyrian.png) |
+| [3921](https://ianring.com/musictheory/scales/3921) | [Pythian](ModePythian.md) | Eb | Eb, F##, G##, A##, B#, C#, D, Eb | ![EFlatPythian](CircleModeEFlatPythian.png) |
 
 ## Chords
 

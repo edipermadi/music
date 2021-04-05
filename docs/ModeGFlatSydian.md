@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ III⁺, V
 
 ![GFlatSydian](ModeGFlatSydian.png)
 
+## Diagram
+
+![GFlatSydian](CircleModeGFlatSydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1615](https://ianring.com/musictheory/scales/1615) | [Sydian](ModeSydian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbb, Eb, Fb, Gb | ![GFlatSydian](ModeGFlatSydian.png) |
 | [635](https://ianring.com/musictheory/scales/635) | [Epolian](ModeEpolian.md) | Eb | Eb, Fb, Gb, Abb, Bbbb, Cbbb, Dbb, Eb | ![EFlatEpolian](ModeEFlatEpolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1615](https://ianring.com/musictheory/scales/1615) | [Sydian](ModeSydian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbb, Eb, Fb, Gb | ![GFlatSydian](CircleModeGFlatSydian.png) |
+| [635](https://ianring.com/musictheory/scales/635) | [Epolian](ModeEpolian.md) | Eb | Eb, Fb, Gb, Abb, Bbbb, Cbbb, Dbb, Eb | ![EFlatEpolian](CircleModeEFlatEpolian.png) |
 
 ## Chords
 

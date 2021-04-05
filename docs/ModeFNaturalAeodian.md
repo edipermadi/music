@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, iii, V⁺, VII
 
 ![FNaturalAeodian](ModeFNaturalAeodian.png)
 
+## Diagram
+
+![FNaturalAeodian](CircleModeFNaturalAeodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ i⁰, iii, V⁺, VII
 | [2717](https://ianring.com/musictheory/scales/2717) | [Epygian](ModeEpygian.md) | Ab | Ab, Bb, Cb, Dbb, Eb, F, G, Ab | ![AFlatEpygian](ModeAFlatEpygian.png) |
 | [1703](https://ianring.com/musictheory/scales/1703) | [Zaptian](ModeZaptian.md) | Bb | Bb, Cb, Dbb, Eb, F, G, Ab, Bb | ![BFlatZaptian](ModeBFlatZaptian.png) |
 | [949](https://ianring.com/musictheory/scales/949) | [Ionagian](ModeIonagian.md) | Eb | Eb, F, G, Ab, Bb, Cb, Dbb, Eb | ![EFlatIonagian](ModeEFlatIonagian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1261](https://ianring.com/musictheory/scales/1261) | [Aeodian](ModeAeodian.md) | F | F, G, Ab, Bb, Cb, Dbb, Eb, F | ![FNaturalAeodian](CircleModeFNaturalAeodian.png) |
+| [1339](https://ianring.com/musictheory/scales/1339) | [Kycrian](ModeKycrian.md) | G | G, Ab, Bb, Cb, Dbb, Eb, F, G | ![GNaturalKycrian](CircleModeGNaturalKycrian.png) |
+| [2717](https://ianring.com/musictheory/scales/2717) | [Epygian](ModeEpygian.md) | Ab | Ab, Bb, Cb, Dbb, Eb, F, G, Ab | ![AFlatEpygian](CircleModeAFlatEpygian.png) |
+| [1703](https://ianring.com/musictheory/scales/1703) | [Zaptian](ModeZaptian.md) | Bb | Bb, Cb, Dbb, Eb, F, G, Ab, Bb | ![BFlatZaptian](CircleModeBFlatZaptian.png) |
+| [949](https://ianring.com/musictheory/scales/949) | [Ionagian](ModeIonagian.md) | Eb | Eb, F, G, Ab, Bb, Cb, Dbb, Eb | ![EFlatIonagian](CircleModeEFlatIonagian.png) |
 
 ## Chords
 

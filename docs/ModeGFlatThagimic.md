@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ iii⁰
 
 ![GFlatThagimic](ModeGFlatThagimic.png)
 
+## Diagram
+
+![GFlatThagimic](CircleModeGFlatThagimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,14 @@ iii⁰
 | [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | A | A, B#, C##, D#, E, F#, A | ![ANaturalKolimic](ModeANaturalKolimic.png) |
 | [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | D# | D#, E, F#, G##, A###, B###, D# | ![DSharpGocrimic](ModeDSharpGocrimic.png) |
 | [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | E | E, F#, G##, A###, B###, C###, E | ![ENaturalKatolimic](ModeENaturalKatolimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | Gb | Gb, A, B#, C##, D#, E, Gb | ![GFlatThagimic](CircleModeGFlatThagimic.png) |
+| [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | A | A, B#, C##, D#, E, F#, A | ![ANaturalKolimic](CircleModeANaturalKolimic.png) |
+| [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | D# | D#, E, F#, G##, A###, B###, D# | ![DSharpGocrimic](CircleModeDSharpGocrimic.png) |
+| [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | E | E, F#, G##, A###, B###, C###, E | ![ENaturalKatolimic](CircleModeENaturalKatolimic.png) |
 
 ## Chords
 

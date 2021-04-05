@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ vi⁰, vii⁰
 
 ![DNaturalPydian](ModeDNaturalPydian.png)
 
+## Diagram
+
+![DNaturalPydian](CircleModeDNaturalPydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ vi⁰, vii⁰
 | [439](https://ianring.com/musictheory/scales/439) | [Bythian](ModeBythian.md) | A# | A#, B, C, D, Eb, F, Gb, A# | ![ASharpBythian](ModeASharpBythian.png) |
 | [2267](https://ianring.com/musictheory/scales/2267) | [Padian](ModePadian.md) | B | B, C, D, Eb, F, Gb, A#, B | ![BNaturalPadian](ModeBNaturalPadian.png) |
 | [3181](https://ianring.com/musictheory/scales/3181) | [Rolian](ModeRolian.md) | C | C, D, Eb, F, Gb, A#, B, C | ![CNaturalRolian](ModeCNaturalRolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1819](https://ianring.com/musictheory/scales/1819) | [Pydian](ModePydian.md) | D | D, Eb, F, Gb, A#, B, C, D | ![DNaturalPydian](CircleModeDNaturalPydian.png) |
+| [2957](https://ianring.com/musictheory/scales/2957) | [Thygian](ModeThygian.md) | Eb | Eb, F, Gb, A#, B, C, D, Eb | ![EFlatThygian](CircleModeEFlatThygian.png) |
+| [1763](https://ianring.com/musictheory/scales/1763) | [Katalian](ModeKatalian.md) | F | F, Gb, A#, B, C, D, Eb, F | ![FNaturalKatalian](CircleModeFNaturalKatalian.png) |
+| [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeAeolathian.md) | Gb | Gb, A#, B, C, D, Eb, F, Gb | ![GFlatAeolathian](CircleModeGFlatAeolathian.png) |
+| [439](https://ianring.com/musictheory/scales/439) | [Bythian](ModeBythian.md) | A# | A#, B, C, D, Eb, F, Gb, A# | ![ASharpBythian](CircleModeASharpBythian.png) |
+| [2267](https://ianring.com/musictheory/scales/2267) | [Padian](ModePadian.md) | B | B, C, D, Eb, F, Gb, A#, B | ![BNaturalPadian](CircleModeBNaturalPadian.png) |
+| [3181](https://ianring.com/musictheory/scales/3181) | [Rolian](ModeRolian.md) | C | C, D, Eb, F, Gb, A#, B, C | ![CNaturalRolian](CircleModeCNaturalRolian.png) |
 
 ## Chords
 

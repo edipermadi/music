@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ ii⁰, iii⁰
 
 ![GNaturalBythian](ModeGNaturalBythian.png)
 
+## Diagram
+
+![GNaturalBythian](CircleModeGNaturalBythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [439](https://ianring.com/musictheory/scales/439) | [Bythian](ModeBythian.md) | G | G, Ab, Bbb, Cb, Dbb, Ebb, Fbb, G | ![GNaturalBythian](ModeGNaturalBythian.png) |
 | [2267](https://ianring.com/musictheory/scales/2267) | [Padian](ModePadian.md) | Ab | Ab, Bbb, Cb, Dbb, Ebb, Fbb, G, Ab | ![AFlatPadian](ModeAFlatPadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [439](https://ianring.com/musictheory/scales/439) | [Bythian](ModeBythian.md) | G | G, Ab, Bbb, Cb, Dbb, Ebb, Fbb, G | ![GNaturalBythian](CircleModeGNaturalBythian.png) |
+| [2267](https://ianring.com/musictheory/scales/2267) | [Padian](ModePadian.md) | Ab | Ab, Bbb, Cb, Dbb, Ebb, Fbb, G, Ab | ![AFlatPadian](CircleModeAFlatPadian.png) |
 
 ## Chords
 

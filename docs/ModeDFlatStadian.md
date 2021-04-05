@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ i⁰, iii, V, vii
 
 ![DFlatStadian](ModeDFlatStadian.png)
 
+## Diagram
+
+![DFlatStadian](CircleModeDFlatStadian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1259](https://ianring.com/musictheory/scales/1259) | [Stadian](ModeStadian.md) | Db | Db, Ebb, Fb, Gb, Abb, Bbbb, Cb, Db | ![DFlatStadian](ModeDFlatStadian.png) |
 | [1447](https://ianring.com/musictheory/scales/1447) | [Mixopyrian](ModeMixopyrian.md) | Gb | Gb, Abb, Bbbb, Cb, Db, Ebb, Fb, Gb | ![GFlatMixopyrian](ModeGFlatMixopyrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1259](https://ianring.com/musictheory/scales/1259) | [Stadian](ModeStadian.md) | Db | Db, Ebb, Fb, Gb, Abb, Bbbb, Cb, Db | ![DFlatStadian](CircleModeDFlatStadian.png) |
+| [1447](https://ianring.com/musictheory/scales/1447) | [Mixopyrian](ModeMixopyrian.md) | Gb | Gb, Abb, Bbbb, Cb, Db, Ebb, Fb, Gb | ![GFlatMixopyrian](CircleModeGFlatMixopyrian.png) |
 
 ## Chords
 

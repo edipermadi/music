@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ vi⁰, vii⁰
 
 ![DSharpDacrian](ModeDSharpDacrian.png)
 
+## Diagram
+
+![DSharpDacrian](CircleModeDSharpDacrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ vi⁰, vii⁰
 | [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | G | G, Ab, B#, C#, D#, E, F#, G | ![GNaturalAeolydian](ModeGNaturalAeolydian.png) |
 | [3505](https://ianring.com/musictheory/scales/3505) | [Stygian](ModeStygian.md) | Ab | Ab, B#, C#, D#, E, F#, G, Ab | ![AFlatStygian](ModeAFlatStygian.png) |
 | [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | C# | C#, D#, E, F#, G, Ab, B#, C# | ![CSharpAerogian](ModeCSharpAerogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1595](https://ianring.com/musictheory/scales/1595) | [Dacrian](ModeDacrian.md) | D# | D#, E, F#, G, Ab, B#, C#, D# | ![DSharpDacrian](CircleModeDSharpDacrian.png) |
+| [2845](https://ianring.com/musictheory/scales/2845) | [Baptian](ModeBaptian.md) | E | E, F#, G, Ab, B#, C#, D#, E | ![ENaturalBaptian](CircleModeENaturalBaptian.png) |
+| [1735](https://ianring.com/musictheory/scales/1735) | [Dagian](ModeDagian.md) | F# | F#, G, Ab, B#, C#, D#, E, F# | ![FSharpDagian](CircleModeFSharpDagian.png) |
+| [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | G | G, Ab, B#, C#, D#, E, F#, G | ![GNaturalAeolydian](CircleModeGNaturalAeolydian.png) |
+| [3505](https://ianring.com/musictheory/scales/3505) | [Stygian](ModeStygian.md) | Ab | Ab, B#, C#, D#, E, F#, G, Ab | ![AFlatStygian](CircleModeAFlatStygian.png) |
+| [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | C# | C#, D#, E, F#, G, Ab, B#, C# | ![CSharpAerogian](CircleModeCSharpAerogian.png) |
 
 ## Chords
 

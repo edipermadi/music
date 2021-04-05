@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ III⁺, V, vii
 
 ![GFlatSogian](ModeGFlatSogian.png)
 
+## Diagram
+
+![GFlatSogian](CircleModeGFlatSogian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeSogian.md) | Gb | Gb, Abb, Bbbb, Cb, Dbb, Ebbb, Fb, Gb | ![GFlatSogian](ModeGFlatSogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeSogian.md) | Gb | Gb, Abb, Bbbb, Cb, Dbb, Ebbb, Fb, Gb | ![GFlatSogian](CircleModeGFlatSogian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II⁺, IV
 
 ![GNaturalEpocrian](ModeGNaturalEpocrian.png)
 
+## Diagram
+
+![GNaturalEpocrian](CircleModeGNaturalEpocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ II⁺, IV
 | [635](https://ianring.com/musictheory/scales/635) | [Epolian](ModeEpolian.md) | D# | D#, E, F#, G, Ab, Bbb, C, D# | ![DSharpEpolian](ModeDSharpEpolian.png) |
 | [2365](https://ianring.com/musictheory/scales/2365) | [Sythian](ModeSythian.md) | E | E, F#, G, Ab, Bbb, C, D#, E | ![ENaturalSythian](ModeENaturalSythian.png) |
 | [1615](https://ianring.com/musictheory/scales/1615) | [Sydian](ModeSydian.md) | F# | F#, G, Ab, Bbb, C, D#, E, F# | ![FSharpSydian](ModeFSharpSydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2855](https://ianring.com/musictheory/scales/2855) | [Epocrian](ModeEpocrian.md) | G | G, Ab, Bbb, C, D#, E, F#, G | ![GNaturalEpocrian](CircleModeGNaturalEpocrian.png) |
+| [3475](https://ianring.com/musictheory/scales/3475) | [Kylian](ModeKylian.md) | Ab | Ab, Bbb, C, D#, E, F#, G, Ab | ![AFlatKylian](CircleModeAFlatKylian.png) |
+| [985](https://ianring.com/musictheory/scales/985) | [Raptian](ModeRaptian.md) | C | C, D#, E, F#, G, Ab, Bbb, C | ![CNaturalRaptian](CircleModeCNaturalRaptian.png) |
+| [635](https://ianring.com/musictheory/scales/635) | [Epolian](ModeEpolian.md) | D# | D#, E, F#, G, Ab, Bbb, C, D# | ![DSharpEpolian](CircleModeDSharpEpolian.png) |
+| [2365](https://ianring.com/musictheory/scales/2365) | [Sythian](ModeSythian.md) | E | E, F#, G, Ab, Bbb, C, D#, E | ![ENaturalSythian](CircleModeENaturalSythian.png) |
+| [1615](https://ianring.com/musictheory/scales/1615) | [Sydian](ModeSydian.md) | F# | F#, G, Ab, Bbb, C, D#, E, F# | ![FSharpSydian](CircleModeFSharpSydian.png) |
 
 ## Chords
 

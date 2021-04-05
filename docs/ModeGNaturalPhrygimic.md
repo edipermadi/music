@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ iii⁰
 
 ![GNaturalPhrygimic](ModeGNaturalPhrygimic.png)
 
+## Diagram
+
+![GNaturalPhrygimic](CircleModeGNaturalPhrygimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1861](https://ianring.com/musictheory/scales/1861) | [Phrygimic](ModePhrygimic.md) | G | G, A, B##, C###, D##, E#, G | ![GNaturalPhrygimic](ModeGNaturalPhrygimic.png) |
 | [1489](https://ianring.com/musictheory/scales/1489) | [Gacrimic](ModeGacrimic.md) | A | A, B##, C###, D##, E#, F##, A | ![ANaturalGacrimic](ModeANaturalGacrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1861](https://ianring.com/musictheory/scales/1861) | [Phrygimic](ModePhrygimic.md) | G | G, A, B##, C###, D##, E#, G | ![GNaturalPhrygimic](CircleModeGNaturalPhrygimic.png) |
+| [1489](https://ianring.com/musictheory/scales/1489) | [Gacrimic](ModeGacrimic.md) | A | A, B##, C###, D##, E#, F##, A | ![ANaturalGacrimic](CircleModeANaturalGacrimic.png) |
 
 ## Chords
 

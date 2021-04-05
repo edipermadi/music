@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ iv
 
 ![ENaturalPalimic](ModeENaturalPalimic.png)
 
+## Diagram
+
+![ENaturalPalimic](CircleModeENaturalPalimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModePalimic.md) | E | E, F##, G###, A###, B###, C###, E | ![ENaturalPalimic](ModeENaturalPalimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModePalimic.md) | E | E, F##, G###, A###, B###, C###, E | ![ENaturalPalimic](CircleModeENaturalPalimic.png) |
 
 ## Chords
 

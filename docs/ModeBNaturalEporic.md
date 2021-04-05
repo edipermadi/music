@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -49,6 +49,10 @@ B
 
 ![BNaturalEporic](ModeBNaturalEporic.png)
 
+## Diagram
+
+![BNaturalEporic](CircleModeBNaturalEporic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -57,6 +61,14 @@ B
 | [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | D | D, F#, A, B, D | ![DNaturalEpathic](ModeDNaturalEpathic.png) |
 | [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | F# | F#, A, B, D, F# | ![FSharpMynic](ModeFSharpMynic.png) |
 | [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | A | A, B, D, F#, A | ![ANaturalRothic](ModeANaturalRothic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | B | B, D, F#, A, B | ![BNaturalEporic](CircleModeBNaturalEporic.png) |
+| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | D | D, F#, A, B, D | ![DNaturalEpathic](CircleModeDNaturalEpathic.png) |
+| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | F# | F#, A, B, D, F# | ![FSharpMynic](CircleModeFSharpMynic.png) |
+| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | A | A, B, D, F#, A | ![ANaturalRothic](CircleModeANaturalRothic.png) |
 
 ## Chords
 

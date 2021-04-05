@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II⁺, v⁰, vii
 
 ![AFlatStynian](ModeAFlatStynian.png)
 
+## Diagram
+
+![AFlatStynian](CircleModeAFlatStynian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ II⁺, v⁰, vii
 | [1245](https://ianring.com/musictheory/scales/1245) | [Lathian](ModeLathian.md) | E | E, F#, G, Ab, Bb, Cb, D, E | ![ENaturalLathian](ModeENaturalLathian.png) |
 | [1335](https://ianring.com/musictheory/scales/1335) | [Aeralian](ModeAeralian.md) | F# | F#, G, Ab, Bb, Cb, D, E, F# | ![FSharpAeralian](ModeFSharpAeralian.png) |
 | [2715](https://ianring.com/musictheory/scales/2715) | [Kynian](ModeKynian.md) | G | G, Ab, Bb, Cb, D, E, F#, G | ![GNaturalKynian](ModeGNaturalKynian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3405](https://ianring.com/musictheory/scales/3405) | [Stynian](ModeStynian.md) | Ab | Ab, Bb, Cb, D, E, F#, G, Ab | ![AFlatStynian](CircleModeAFlatStynian.png) |
+| [1875](https://ianring.com/musictheory/scales/1875) | [Epyphian](ModeEpyphian.md) | Bb | Bb, Cb, D, E, F#, G, Ab, Bb | ![BFlatEpyphian](CircleModeBFlatEpyphian.png) |
+| [885](https://ianring.com/musictheory/scales/885) | [Sathian](ModeSathian.md) | D | D, E, F#, G, Ab, Bb, Cb, D | ![DNaturalSathian](CircleModeDNaturalSathian.png) |
+| [1245](https://ianring.com/musictheory/scales/1245) | [Lathian](ModeLathian.md) | E | E, F#, G, Ab, Bb, Cb, D, E | ![ENaturalLathian](CircleModeENaturalLathian.png) |
+| [1335](https://ianring.com/musictheory/scales/1335) | [Aeralian](ModeAeralian.md) | F# | F#, G, Ab, Bb, Cb, D, E, F# | ![FSharpAeralian](CircleModeFSharpAeralian.png) |
+| [2715](https://ianring.com/musictheory/scales/2715) | [Kynian](ModeKynian.md) | G | G, Ab, Bb, Cb, D, E, F#, G | ![GNaturalKynian](CircleModeGNaturalKynian.png) |
 
 ## Chords
 

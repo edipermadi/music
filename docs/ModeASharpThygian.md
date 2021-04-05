@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ v⁰, vi⁰
 
 ![ASharpThygian](ModeASharpThygian.png)
 
+## Diagram
+
+![ASharpThygian](CircleModeASharpThygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2957](https://ianring.com/musictheory/scales/2957) | [Thygian](ModeThygian.md) | A# | A#, B#, C#, D###, E##, F##, G##, A# | ![ASharpThygian](ModeASharpThygian.png) |
 | [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeAeolathian.md) | C# | C#, D###, E##, F##, G##, A#, B#, C# | ![CSharpAeolathian](ModeCSharpAeolathian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2957](https://ianring.com/musictheory/scales/2957) | [Thygian](ModeThygian.md) | A# | A#, B#, C#, D###, E##, F##, G##, A# | ![ASharpThygian](CircleModeASharpThygian.png) |
+| [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeAeolathian.md) | C# | C#, D###, E##, F##, G##, A#, B#, C# | ![CSharpAeolathian](CircleModeCSharpAeolathian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, VI
 
 ![CSharpPhryptian](ModeCSharpPhryptian.png)
 
+## Diagram
+
+![CSharpPhryptian](CircleModeCSharpPhryptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, VI
 | [2471](https://ianring.com/musictheory/scales/2471) | [Eparian](ModeEparian.md) | G# | G#, A, Bb, C#, D#, E, F##, G# | ![GSharpEparian](ModeGSharpEparian.png) |
 | [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeLyrian.md) | A | A, Bb, C#, D#, E, F##, G#, A | ![ANaturalLyrian](ModeANaturalLyrian.png) |
 | [3689](https://ianring.com/musictheory/scales/3689) | [Katocrian](ModeKatocrian.md) | Bb | Bb, C#, D#, E, F##, G#, A, Bb | ![BFlatKatocrian](ModeBFlatKatocrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [973](https://ianring.com/musictheory/scales/973) | [Phryptian](ModePhryptian.md) | C# | C#, D#, E, F##, G#, A, Bb, C# | ![CSharpPhryptian](CircleModeCSharpPhryptian.png) |
+| [1267](https://ianring.com/musictheory/scales/1267) | [Katynian](ModeKatynian.md) | D# | D#, E, F##, G#, A, Bb, C#, D# | ![DSharpKatynian](CircleModeDSharpKatynian.png) |
+| [2681](https://ianring.com/musictheory/scales/2681) | [Aerycrian](ModeAerycrian.md) | E | E, F##, G#, A, Bb, C#, D#, E | ![ENaturalAerycrian](CircleModeENaturalAerycrian.png) |
+| [2471](https://ianring.com/musictheory/scales/2471) | [Eparian](ModeEparian.md) | G# | G#, A, Bb, C#, D#, E, F##, G# | ![GSharpEparian](CircleModeGSharpEparian.png) |
+| [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeLyrian.md) | A | A, Bb, C#, D#, E, F##, G#, A | ![ANaturalLyrian](CircleModeANaturalLyrian.png) |
+| [3689](https://ianring.com/musictheory/scales/3689) | [Katocrian](ModeKatocrian.md) | Bb | Bb, C#, D#, E, F##, G#, A, Bb | ![BFlatKatocrian](CircleModeBFlatKatocrian.png) |
 
 ## Chords
 

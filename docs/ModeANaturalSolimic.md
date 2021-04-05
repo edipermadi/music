@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ II, III
 
 ![ANaturalSolimic](ModeANaturalSolimic.png)
 
+## Diagram
+
+![ANaturalSolimic](CircleModeANaturalSolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2865](https://ianring.com/musictheory/scales/2865) | [Solimic](ModeSolimic.md) | A | A, B##, C##, D###, E##, F###, A | ![ANaturalSolimic](ModeANaturalSolimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2865](https://ianring.com/musictheory/scales/2865) | [Solimic](ModeSolimic.md) | A | A, B##, C##, D###, E##, F###, A | ![ANaturalSolimic](CircleModeANaturalSolimic.png) |
 
 ## Chords
 

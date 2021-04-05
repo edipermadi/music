@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ F
 
 ![FNaturalMixonyphian](ModeFNaturalMixonyphian.png)
 
+## Diagram
+
+![FNaturalMixonyphian](CircleModeFNaturalMixonyphian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ F
 | [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | F | F, G, Ab, Bbb, Cbb, Dbb, Ebb, F | ![FNaturalMixonyphian](ModeFNaturalMixonyphian.png) |
 | [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | G | G, Ab, Bbb, Cbb, Dbb, Ebb, F, G | ![GNaturalMagian](ModeGNaturalMagian.png) |
 | [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | Ab | Ab, Bbb, Cbb, Dbb, Ebb, F, G, Ab | ![AFlatDadian](ModeAFlatDadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | F | F, G, Ab, Bbb, Cbb, Dbb, Ebb, F | ![FNaturalMixonyphian](CircleModeFNaturalMixonyphian.png) |
+| [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | G | G, Ab, Bbb, Cbb, Dbb, Ebb, F, G | ![GNaturalMagian](CircleModeGNaturalMagian.png) |
+| [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | Ab | Ab, Bbb, Cbb, Dbb, Ebb, F, G, Ab | ![AFlatDadian](CircleModeAFlatDadian.png) |
 
 ## Chords
 

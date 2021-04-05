@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ i, II, III, iv, v⁰, VI, vii
 
 ![GFlatPhrygian](ModeGFlatPhrygian.png)
 
+## Diagram
+
+![GFlatPhrygian](CircleModeGFlatPhrygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | Gb | Gb, Abb, Bbb, Cb, Db, Ebb, Fb, Gb | ![GFlatPhrygian](ModeGFlatPhrygian.png) |
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | Db | Db, Ebb, Fb, Gb, Abb, Bbb, Cb, Db | ![DFlatLocrian](ModeDFlatLocrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | Gb | Gb, Abb, Bbb, Cb, Db, Ebb, Fb, Gb | ![GFlatPhrygian](CircleModeGFlatPhrygian.png) |
+| [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | Db | Db, Ebb, Fb, Gb, Abb, Bbb, Cb, Db | ![DFlatLocrian](CircleModeDFlatLocrian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -50,6 +50,10 @@ V⁺
 
 ![FSharpStothitonic](ModeFSharpStothitonic.png)
 
+## Diagram
+
+![FSharpStothitonic](CircleModeFSharpStothitonic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,15 @@ V⁺
 | [2697](https://ianring.com/musictheory/scales/2697) | [Katagitonic](ModeKatagitonic.md) | A | A, C, E, F#, G#, A | ![ANaturalKatagitonic](ModeANaturalKatagitonic.png) |
 | [849](https://ianring.com/musictheory/scales/849) | [Aerynitonic](ModeAerynitonic.md) | C | C, E, F#, G#, A, C | ![CNaturalAerynitonic](ModeCNaturalAerynitonic.png) |
 | [309](https://ianring.com/musictheory/scales/309) | [Palitonic](ModePalitonic.md) | E | E, F#, G#, A, C, E | ![ENaturalPalitonic](ModeENaturalPalitonic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1101](https://ianring.com/musictheory/scales/1101) | [Stothitonic](ModeStothitonic.md) | F# | F#, G#, A, C, E, F# | ![FSharpStothitonic](CircleModeFSharpStothitonic.png) |
+| [1299](https://ianring.com/musictheory/scales/1299) | [Aerophitonic](ModeAerophitonic.md) | G# | G#, A, C, E, F#, G# | ![GSharpAerophitonic](CircleModeGSharpAerophitonic.png) |
+| [2697](https://ianring.com/musictheory/scales/2697) | [Katagitonic](ModeKatagitonic.md) | A | A, C, E, F#, G#, A | ![ANaturalKatagitonic](CircleModeANaturalKatagitonic.png) |
+| [849](https://ianring.com/musictheory/scales/849) | [Aerynitonic](ModeAerynitonic.md) | C | C, E, F#, G#, A, C | ![CNaturalAerynitonic](CircleModeCNaturalAerynitonic.png) |
+| [309](https://ianring.com/musictheory/scales/309) | [Palitonic](ModePalitonic.md) | E | E, F#, G#, A, C, E | ![ENaturalPalitonic](CircleModeENaturalPalitonic.png) |
 
 ## Chords
 

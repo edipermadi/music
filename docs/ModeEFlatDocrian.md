@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, III, IV, v, vi
 
 ![EFlatDocrian](ModeEFlatDocrian.png)
 
+## Diagram
+
+![EFlatDocrian](CircleModeEFlatDocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ I⁺, III, IV, v, vi
 | [923](https://ianring.com/musictheory/scales/923) | [Ionodian](ModeIonodian.md) | B | B, C, D, Eb, F#, G, Ab, B | ![BNaturalIonodian](ModeBNaturalIonodian.png) |
 | [2509](https://ianring.com/musictheory/scales/2509) | [Bogian](ModeBogian.md) | C | C, D, Eb, F#, G, Ab, B, C | ![CNaturalBogian](ModeCNaturalBogian.png) |
 | [1651](https://ianring.com/musictheory/scales/1651) | [Mogian](ModeMogian.md) | D | D, Eb, F#, G, Ab, B, C, D | ![DNaturalMogian](ModeDNaturalMogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2873](https://ianring.com/musictheory/scales/2873) | [Docrian](ModeDocrian.md) | Eb | Eb, F#, G, Ab, B, C, D, Eb | ![EFlatDocrian](CircleModeEFlatDocrian.png) |
+| [871](https://ianring.com/musictheory/scales/871) | [Epadian](ModeEpadian.md) | F# | F#, G, Ab, B, C, D, Eb, F# | ![FSharpEpadian](CircleModeFSharpEpadian.png) |
+| [2483](https://ianring.com/musictheory/scales/2483) | [Aerynian](ModeAerynian.md) | G | G, Ab, B, C, D, Eb, F#, G | ![GNaturalAerynian](CircleModeGNaturalAerynian.png) |
+| [3289](https://ianring.com/musictheory/scales/3289) | [Loptian](ModeLoptian.md) | Ab | Ab, B, C, D, Eb, F#, G, Ab | ![AFlatLoptian](CircleModeAFlatLoptian.png) |
+| [923](https://ianring.com/musictheory/scales/923) | [Ionodian](ModeIonodian.md) | B | B, C, D, Eb, F#, G, Ab, B | ![BNaturalIonodian](CircleModeBNaturalIonodian.png) |
+| [2509](https://ianring.com/musictheory/scales/2509) | [Bogian](ModeBogian.md) | C | C, D, Eb, F#, G, Ab, B, C | ![CNaturalBogian](CircleModeCNaturalBogian.png) |
+| [1651](https://ianring.com/musictheory/scales/1651) | [Mogian](ModeMogian.md) | D | D, Eb, F#, G, Ab, B, C, D | ![DNaturalMogian](CircleModeDNaturalMogian.png) |
 
 ## Chords
 

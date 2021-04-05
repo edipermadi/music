@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ III, v
 
 ![GFlatKanian](ModeGFlatKanian.png)
 
+## Diagram
+
+![GFlatKanian](CircleModeGFlatKanian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [719](https://ianring.com/musictheory/scales/719) | [Kanian](ModeKanian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbb, Ebbb, Fbb, Gb | ![GFlatKanian](ModeGFlatKanian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [719](https://ianring.com/musictheory/scales/719) | [Kanian](ModeKanian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbb, Ebbb, Fbb, Gb | ![GFlatKanian](CircleModeGFlatKanian.png) |
 
 ## Chords
 

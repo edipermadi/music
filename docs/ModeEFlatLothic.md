@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -49,6 +49,10 @@ Eb
 
 ![EFlatLothic](ModeEFlatLothic.png)
 
+## Diagram
+
+![EFlatLothic](CircleModeEFlatLothic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -57,6 +61,14 @@ Eb
 | [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | Gb | Gb, Bb, B, Eb, Gb | ![GFlatPhratic](ModeGFlatPhratic.png) |
 | [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | Bb | Bb, B, Eb, Gb, Bb | ![BFlatAerathic](ModeBFlatAerathic.png) |
 | [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | B | B, D#, F#, A#, B | ![BNaturalThaptic](ModeBNaturalThaptic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | Eb | Eb, Gb, Bb, B, Eb | ![EFlatLothic](CircleModeEFlatLothic.png) |
+| [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | Gb | Gb, Bb, B, Eb, Gb | ![GFlatPhratic](CircleModeGFlatPhratic.png) |
+| [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | Bb | Bb, B, Eb, Gb, Bb | ![BFlatAerathic](CircleModeBFlatAerathic.png) |
+| [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | B | B, D#, F#, A#, B | ![BNaturalThaptic](CircleModeBNaturalThaptic.png) |
 
 ## Chords
 

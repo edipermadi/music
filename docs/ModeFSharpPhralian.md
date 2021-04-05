@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ v⁰, vii⁰
 
 ![FSharpPhralian](ModeFSharpPhralian.png)
 
+## Diagram
+
+![FSharpPhralian](CircleModeFSharpPhralian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ v⁰, vii⁰
 | [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | C# | C#, D#, E, F#, G, Ab, Bb, C# | ![CSharpAeologian](ModeCSharpAeologian.png) |
 | [1211](https://ianring.com/musictheory/scales/1211) | [Zadian](ModeZadian.md) | D# | D#, E, F#, G, Ab, Bb, C#, D# | ![DSharpZadian](ModeDSharpZadian.png) |
 | [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | E | E, F#, G, Ab, Bb, C#, D#, E | ![ENaturalSygian](ModeENaturalSygian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | F# | F#, G, Ab, Bb, C#, D#, E, F# | ![FSharpPhralian](CircleModeFSharpPhralian.png) |
+| [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | G | G, Ab, Bb, C#, D#, E, F#, G | ![GNaturalPhrogian](CircleModeGNaturalPhrogian.png) |
+| [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | Ab | Ab, Bb, C#, D#, E, F#, G, Ab | ![AFlatRathian](CircleModeAFlatRathian.png) |
+| [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | Bb | Bb, C#, D#, E, F#, G, Ab, Bb | ![BFlatIonopian](CircleModeBFlatIonopian.png) |
+| [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | C# | C#, D#, E, F#, G, Ab, Bb, C# | ![CSharpAeologian](CircleModeCSharpAeologian.png) |
+| [1211](https://ianring.com/musictheory/scales/1211) | [Zadian](ModeZadian.md) | D# | D#, E, F#, G, Ab, Bb, C#, D# | ![DSharpZadian](CircleModeDSharpZadian.png) |
+| [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | E | E, F#, G, Ab, Bb, C#, D#, E | ![ENaturalSygian](CircleModeENaturalSygian.png) |
 
 ## Chords
 

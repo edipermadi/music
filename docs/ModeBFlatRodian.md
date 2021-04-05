@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ vii⁰
 
 ![BFlatRodian](ModeBFlatRodian.png)
 
+## Diagram
+
+![BFlatRodian](CircleModeBFlatRodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ vii⁰
 | [1591](https://ianring.com/musictheory/scales/1591) | [Rodian](ModeRodian.md) | Bb | Bb, Cb, Dbb, Ebb, Fbb, G, Ab, Bb | ![BFlatRodian](ModeBFlatRodian.png) |
 | [443](https://ianring.com/musictheory/scales/443) | [Kothian](ModeKothian.md) | G | G, Ab, Bb, Cb, Dbb, Ebb, Fbb, G | ![GNaturalKothian](ModeGNaturalKothian.png) |
 | [2269](https://ianring.com/musictheory/scales/2269) | [Pygian](ModePygian.md) | Ab | Ab, Bb, Cb, Dbb, Ebb, Fbb, G, Ab | ![AFlatPygian](ModeAFlatPygian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1591](https://ianring.com/musictheory/scales/1591) | [Rodian](ModeRodian.md) | Bb | Bb, Cb, Dbb, Ebb, Fbb, G, Ab, Bb | ![BFlatRodian](CircleModeBFlatRodian.png) |
+| [443](https://ianring.com/musictheory/scales/443) | [Kothian](ModeKothian.md) | G | G, Ab, Bb, Cb, Dbb, Ebb, Fbb, G | ![GNaturalKothian](CircleModeGNaturalKothian.png) |
+| [2269](https://ianring.com/musictheory/scales/2269) | [Pygian](ModePygian.md) | Ab | Ab, Bb, Cb, Dbb, Ebb, Fbb, G, Ab | ![AFlatPygian](CircleModeAFlatPygian.png) |
 
 ## Chords
 

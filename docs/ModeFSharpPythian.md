@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ F#
 
 ![FSharpPythian](ModeFSharpPythian.png)
 
+## Diagram
+
+![FSharpPythian](CircleModeFSharpPythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3921](https://ianring.com/musictheory/scales/3921) | [Pythian](ModePythian.md) | F# | F#, G###, A###, B###, C###, D##, E#, F# | ![FSharpPythian](ModeFSharpPythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3921](https://ianring.com/musictheory/scales/3921) | [Pythian](ModePythian.md) | F# | F#, G###, A###, B###, C###, D##, E#, F# | ![FSharpPythian](CircleModeFSharpPythian.png) |
 
 ## Chords
 

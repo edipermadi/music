@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii, III, IV⁺, v, VII
 
 ![DFlatPorian](ModeDFlatPorian.png)
 
+## Diagram
+
+![DFlatPorian](CircleModeDFlatPorian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [855](https://ianring.com/musictheory/scales/855) | [Porian](ModePorian.md) | Db | Db, Ebb, Fbb, Gbb, Abb, Bbb, Cbb, Db | ![DFlatPorian](ModeDFlatPorian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [855](https://ianring.com/musictheory/scales/855) | [Porian](ModePorian.md) | Db | Db, Ebb, Fbb, Gbb, Abb, Bbb, Cbb, Db | ![DFlatPorian](CircleModeDFlatPorian.png) |
 
 ## Chords
 

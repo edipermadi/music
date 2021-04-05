@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ III
 
 ![DNaturalBolimic](ModeDNaturalBolimic.png)
 
+## Diagram
+
+![DNaturalBolimic](CircleModeDNaturalBolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1649](https://ianring.com/musictheory/scales/1649) | [Bolimic](ModeBolimic.md) | D | D, E##, F##, G#, A##, B#, D | ![DNaturalBolimic](ModeDNaturalBolimic.png) |
 | [3161](https://ianring.com/musictheory/scales/3161) | [Kodimic](ModeKodimic.md) | G# | G#, A##, B#, C##, E##, F##, G# | ![GSharpKodimic](ModeGSharpKodimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1649](https://ianring.com/musictheory/scales/1649) | [Bolimic](ModeBolimic.md) | D | D, E##, F##, G#, A##, B#, D | ![DNaturalBolimic](CircleModeDNaturalBolimic.png) |
+| [3161](https://ianring.com/musictheory/scales/3161) | [Kodimic](ModeKodimic.md) | G# | G#, A##, B#, C##, E##, F##, G# | ![GSharpKodimic](CircleModeGSharpKodimic.png) |
 
 ## Chords
 

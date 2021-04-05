@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ iv
 
 ![ASharpMixolimic](ModeASharpMixolimic.png)
 
+## Diagram
+
+![ASharpMixolimic](CircleModeASharpMixolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3369](https://ianring.com/musictheory/scales/3369) | [Mixolimic](ModeMixolimic.md) | A# | A#, B##, C###, E##, F###, G##, A# | ![ASharpMixolimic](ModeASharpMixolimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3369](https://ianring.com/musictheory/scales/3369) | [Mixolimic](ModeMixolimic.md) | A# | A#, B##, C###, E##, F###, G##, A# | ![ASharpMixolimic](CircleModeASharpMixolimic.png) |
 
 ## Chords
 

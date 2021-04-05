@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, ii⁰, iii⁰, iv, VI
 
 ![CSharpAeraptian](ModeCSharpAeraptian.png)
 
+## Diagram
+
+![CSharpAeraptian](CircleModeCSharpAeraptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i⁰, ii⁰, iii⁰, iv, VI
 | [2893](https://ianring.com/musictheory/scales/2893) | [Lylian](ModeLylian.md) | G | G, A, Bb, C#, D#, E, F#, G | ![GNaturalLylian](ModeGNaturalLylian.png) |
 | [1747](https://ianring.com/musictheory/scales/1747) | [Epalian](ModeEpalian.md) | A | A, Bb, C#, D#, E, F#, G, A | ![ANaturalEpalian](ModeANaturalEpalian.png) |
 | [2921](https://ianring.com/musictheory/scales/2921) | [Pogian](ModePogian.md) | Bb | Bb, C#, D#, E, F#, G, A, Bb | ![BFlatPogian](ModeBFlatPogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [877](https://ianring.com/musictheory/scales/877) | [Aeraptian](ModeAeraptian.md) | C# | C#, D#, E, F#, G, A, Bb, C# | ![CSharpAeraptian](CircleModeCSharpAeraptian.png) |
+| [1243](https://ianring.com/musictheory/scales/1243) | [Epylian](ModeEpylian.md) | D# | D#, E, F#, G, A, Bb, C#, D# | ![DSharpEpylian](CircleModeDSharpEpylian.png) |
+| [2669](https://ianring.com/musictheory/scales/2669) | [Gamian](ModeGamian.md) | E | E, F#, G, A, Bb, C#, D#, E | ![ENaturalGamian](CircleModeENaturalGamian.png) |
+| [1691](https://ianring.com/musictheory/scales/1691) | [Kathian](ModeKathian.md) | F# | F#, G, A, Bb, C#, D#, E, F# | ![FSharpKathian](CircleModeFSharpKathian.png) |
+| [2893](https://ianring.com/musictheory/scales/2893) | [Lylian](ModeLylian.md) | G | G, A, Bb, C#, D#, E, F#, G | ![GNaturalLylian](CircleModeGNaturalLylian.png) |
+| [1747](https://ianring.com/musictheory/scales/1747) | [Epalian](ModeEpalian.md) | A | A, Bb, C#, D#, E, F#, G, A | ![ANaturalEpalian](CircleModeANaturalEpalian.png) |
+| [2921](https://ianring.com/musictheory/scales/2921) | [Pogian](ModePogian.md) | Bb | Bb, C#, D#, E, F#, G, A, Bb | ![BFlatPogian](CircleModeBFlatPogian.png) |
 
 ## Chords
 

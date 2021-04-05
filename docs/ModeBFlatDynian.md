@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ Bb
 
 ![BFlatDynian](ModeBFlatDynian.png)
 
+## Diagram
+
+![BFlatDynian](CircleModeBFlatDynian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [487](https://ianring.com/musictheory/scales/487) | [Dynian](ModeDynian.md) | Bb | Bb, Cb, Dbb, Eb, Fb, Gbb, Abbb, Bb | ![BFlatDynian](ModeBFlatDynian.png) |
 | [911](https://ianring.com/musictheory/scales/911) | [Radian](ModeRadian.md) | Eb | Eb, Fb, Gbb, Abbb, Bb, Cb, Dbb, Eb | ![EFlatRadian](ModeEFlatRadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [487](https://ianring.com/musictheory/scales/487) | [Dynian](ModeDynian.md) | Bb | Bb, Cb, Dbb, Eb, Fb, Gbb, Abbb, Bb | ![BFlatDynian](CircleModeBFlatDynian.png) |
+| [911](https://ianring.com/musictheory/scales/911) | [Radian](ModeRadian.md) | Eb | Eb, Fb, Gbb, Abbb, Bb, Cb, Dbb, Eb | ![EFlatRadian](CircleModeEFlatRadian.png) |
 
 ## Chords
 

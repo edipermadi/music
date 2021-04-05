@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, III, v
 
 ![BFlatRothian](ModeBFlatRothian.png)
 
+## Diagram
+
+![BFlatRothian](CircleModeBFlatRothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ I⁺, III, v
 | [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeMythian.md) | F# | F#, G#, A, Bb, C#, D, Eb, F# | ![FSharpMythian](ModeFSharpMythian.png) |
 | [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeSogian.md) | G# | G#, A, Bb, C#, D, Eb, F#, G# | ![GSharpSogian](ModeGSharpSogian.png) |
 | [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeGogian.md) | A | A, Bb, C#, D, Eb, F#, G#, A | ![ANaturalGogian](ModeANaturalGogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeRothian.md) | Bb | Bb, C#, D, Eb, F#, G#, A, Bb | ![BFlatRothian](CircleModeBFlatRothian.png) |
+| [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | C# | C#, D, Eb, F#, G#, A, Bb, C# | ![CSharpKatarian](CircleModeCSharpKatarian.png) |
+| [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | D | D, Eb, F#, G#, A, Bb, C#, D | ![DNaturalStylian](CircleModeDNaturalStylian.png) |
+| [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeEpathian.md) | Eb | Eb, F#, G#, A, Bb, C#, D, Eb | ![EFlatEpathian](CircleModeEFlatEpathian.png) |
+| [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeMythian.md) | F# | F#, G#, A, Bb, C#, D, Eb, F# | ![FSharpMythian](CircleModeFSharpMythian.png) |
+| [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeSogian.md) | G# | G#, A, Bb, C#, D, Eb, F#, G# | ![GSharpSogian](CircleModeGSharpSogian.png) |
+| [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeGogian.md) | A | A, Bb, C#, D, Eb, F#, G#, A | ![ANaturalGogian](CircleModeANaturalGogian.png) |
 
 ## Chords
 

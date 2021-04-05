@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, II, iii, iv, V, VI, vii
 
 ![FNaturalLocrian](ModeFNaturalLocrian.png)
 
+## Diagram
+
+![FNaturalLocrian](CircleModeFNaturalLocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰, II, iii, iv, V, VI, vii
 | [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | Bb | Bb, Cb, Db, Eb, F, Gb, Ab, Bb | ![BFlatPhrygian](ModeBFlatPhrygian.png) |
 | [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | Db | Db, Eb, F, Gb, Ab, Bb, Cb, Db | ![DFlatMixolydian](ModeDFlatMixolydian.png) |
 | [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | Eb | Eb, F, Gb, Ab, Bb, Cb, Db, Eb | ![EFlatAeolian](ModeEFlatAeolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | F | F, Gb, Ab, Bb, Cb, Db, Eb, F | ![FNaturalLocrian](CircleModeFNaturalLocrian.png) |
+| [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeIonian.md) | Gb | Gb, Ab, Bb, Cb, Db, Eb, F, Gb | ![GFlatIonian](CircleModeGFlatIonian.png) |
+| [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | Ab | Ab, Bb, Cb, Db, Eb, F, Gb, Ab | ![AFlatDorian](CircleModeAFlatDorian.png) |
+| [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | Bb | Bb, Cb, Db, Eb, F, Gb, Ab, Bb | ![BFlatPhrygian](CircleModeBFlatPhrygian.png) |
+| [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | Db | Db, Eb, F, Gb, Ab, Bb, Cb, Db | ![DFlatMixolydian](CircleModeDFlatMixolydian.png) |
+| [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | Eb | Eb, F, Gb, Ab, Bb, Cb, Db, Eb | ![EFlatAeolian](CircleModeEFlatAeolian.png) |
 
 ## Chords
 

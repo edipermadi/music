@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ v⁰, vi
 
 ![CSharpSagimic](ModeCSharpSagimic.png)
 
+## Diagram
+
+![CSharpSagimic](CircleModeCSharpSagimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,14 @@ v⁰, vi
 | [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeAelothimic.md) | D | D, E, F#, G###, A##, B##, D | ![DNaturalAelothimic](ModeDNaturalAelothimic.png) |
 | [1733](https://ianring.com/musictheory/scales/1733) | [Socrimic](ModeSocrimic.md) | E | E, F#, G###, A##, B##, C##, E | ![ENaturalSocrimic](ModeENaturalSocrimic.png) |
 | [1457](https://ianring.com/musictheory/scales/1457) | [Modimic](ModeModimic.md) | F# | F#, G###, A##, B##, C##, D##, F# | ![FSharpModimic](ModeFSharpModimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1579](https://ianring.com/musictheory/scales/1579) | [Sagimic](ModeSagimic.md) | C# | C#, D, E, F#, G###, A##, C# | ![CSharpSagimic](CircleModeCSharpSagimic.png) |
+| [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeAelothimic.md) | D | D, E, F#, G###, A##, B##, D | ![DNaturalAelothimic](CircleModeDNaturalAelothimic.png) |
+| [1733](https://ianring.com/musictheory/scales/1733) | [Socrimic](ModeSocrimic.md) | E | E, F#, G###, A##, B##, C##, E | ![ENaturalSocrimic](CircleModeENaturalSocrimic.png) |
+| [1457](https://ianring.com/musictheory/scales/1457) | [Modimic](ModeModimic.md) | F# | F#, G###, A##, B##, C##, D##, F# | ![FSharpModimic](CircleModeFSharpModimic.png) |
 
 ## Chords
 

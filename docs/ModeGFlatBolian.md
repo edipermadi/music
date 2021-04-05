@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ iii, V⁺
 
 ![GFlatBolian](ModeGFlatBolian.png)
 
+## Diagram
+
+![GFlatBolian](CircleModeGFlatBolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [815](https://ianring.com/musictheory/scales/815) | [Bolian](ModeBolian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbbb, Ebb, Fbb, Gb | ![GFlatBolian](ModeGFlatBolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [815](https://ianring.com/musictheory/scales/815) | [Bolian](ModeBolian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbbb, Ebb, Fbb, Gb | ![GFlatBolian](CircleModeGFlatBolian.png) |
 
 ## Chords
 

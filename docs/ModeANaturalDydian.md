@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ A
 
 ![ANaturalDydian](ModeANaturalDydian.png)
 
+## Diagram
+
+![ANaturalDydian](CircleModeANaturalDydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ A
 | [1521](https://ianring.com/musictheory/scales/1521) | [Stanian](ModeStanian.md) | B | B, C###, D##, E#, F#, G, A, B | ![BNaturalStanian](ModeBNaturalStanian.png) |
 | [3627](https://ianring.com/musictheory/scales/3627) | [Kalian](ModeKalian.md) | F# | F#, G, A, B, C###, D##, E#, F# | ![FSharpKalian](ModeFSharpKalian.png) |
 | [3861](https://ianring.com/musictheory/scales/3861) | [Phroptian](ModePhroptian.md) | G | G, A, B, C###, D##, E#, F#, G | ![GNaturalPhroptian](ModeGNaturalPhroptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1989](https://ianring.com/musictheory/scales/1989) | [Dydian](ModeDydian.md) | A | A, B, C###, D##, E#, F#, G, A | ![ANaturalDydian](CircleModeANaturalDydian.png) |
+| [1521](https://ianring.com/musictheory/scales/1521) | [Stanian](ModeStanian.md) | B | B, C###, D##, E#, F#, G, A, B | ![BNaturalStanian](CircleModeBNaturalStanian.png) |
+| [3627](https://ianring.com/musictheory/scales/3627) | [Kalian](ModeKalian.md) | F# | F#, G, A, B, C###, D##, E#, F# | ![FSharpKalian](CircleModeFSharpKalian.png) |
+| [3861](https://ianring.com/musictheory/scales/3861) | [Phroptian](ModePhroptian.md) | G | G, A, B, C###, D##, E#, F#, G | ![GNaturalPhroptian](CircleModeGNaturalPhroptian.png) |
 
 ## Chords
 

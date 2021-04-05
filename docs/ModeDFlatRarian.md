@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ Db
 
 ![DFlatRarian](ModeDFlatRarian.png)
 
+## Diagram
+
+![DFlatRarian](CircleModeDFlatRarian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1119](https://ianring.com/musictheory/scales/1119) | [Rarian](ModeRarian.md) | Db | Db, Ebb, Fbb, Gbbb, D###, E###, Cb, Db | ![DFlatRarian](ModeDFlatRarian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1119](https://ianring.com/musictheory/scales/1119) | [Rarian](ModeRarian.md) | Db | Db, Ebb, Fbb, Gbbb, D###, E###, Cb, Db | ![DFlatRarian](CircleModeDFlatRarian.png) |
 
 ## Chords
 

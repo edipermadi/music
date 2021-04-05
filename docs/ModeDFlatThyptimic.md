@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, III⁺, V⁺
 
 ![DFlatThyptimic](ModeDFlatThyptimic.png)
 
+## Diagram
+
+![DFlatThyptimic](CircleModeDFlatThyptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I⁺, III⁺, V⁺
 | [3225](https://ianring.com/musictheory/scales/3225) | [Ionalimic](ModeIonalimic.md) | Gb | Gb, A, Bb, C#, D##, E#, Gb | ![GFlatIonalimic](ModeGFlatIonalimic.png) |
 | [915](https://ianring.com/musictheory/scales/915) | [Loptimic](ModeLoptimic.md) | A | A, Bb, C#, D##, E#, F#, A | ![ANaturalLoptimic](ModeANaturalLoptimic.png) |
 | [2505](https://ianring.com/musictheory/scales/2505) | [Mydimic](ModeMydimic.md) | Bb | Bb, C#, D##, E#, F#, G##, Bb | ![BFlatMydimic](ModeBFlatMydimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [825](https://ianring.com/musictheory/scales/825) | [Thyptimic](ModeThyptimic.md) | Db | Db, E, F, Gb, A, Bb, Db | ![DFlatThyptimic](CircleModeDFlatThyptimic.png) |
+| [615](https://ianring.com/musictheory/scales/615) | [Phrothimic](ModePhrothimic.md) | E | E, F, Gb, A, Bb, C#, E | ![ENaturalPhrothimic](CircleModeENaturalPhrothimic.png) |
+| [2355](https://ianring.com/musictheory/scales/2355) | [Katycrimic](ModeKatycrimic.md) | F | F, Gb, A, Bb, C#, D##, F | ![FNaturalKatycrimic](CircleModeFNaturalKatycrimic.png) |
+| [3225](https://ianring.com/musictheory/scales/3225) | [Ionalimic](ModeIonalimic.md) | Gb | Gb, A, Bb, C#, D##, E#, Gb | ![GFlatIonalimic](CircleModeGFlatIonalimic.png) |
+| [915](https://ianring.com/musictheory/scales/915) | [Loptimic](ModeLoptimic.md) | A | A, Bb, C#, D##, E#, F#, A | ![ANaturalLoptimic](CircleModeANaturalLoptimic.png) |
+| [2505](https://ianring.com/musictheory/scales/2505) | [Mydimic](ModeMydimic.md) | Bb | Bb, C#, D##, E#, F#, G##, Bb | ![BFlatMydimic](CircleModeBFlatMydimic.png) |
 
 ## Chords
 

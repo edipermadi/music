@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ III, iv
 
 ![ENaturalLothimic](ModeENaturalLothimic.png)
 
+## Diagram
+
+![ENaturalLothimic](CircleModeENaturalLothimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | E | E, F#, G##, A##, B##, C##, E | ![ENaturalLothimic](ModeENaturalLothimic.png) |
 | [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | F# | F#, G##, A##, B##, C##, D##, F# | ![FSharpEpathimic](ModeFSharpEpathimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | E | E, F#, G##, A##, B##, C##, E | ![ENaturalLothimic](CircleModeENaturalLothimic.png) |
+| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | F# | F#, G##, A##, B##, C##, D##, F# | ![FSharpEpathimic](CircleModeFSharpEpathimic.png) |
 
 ## Chords
 

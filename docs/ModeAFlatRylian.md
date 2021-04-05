@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ i⁰, iii⁰, IV⁺, VI
 
 ![AFlatRylian](ModeAFlatRylian.png)
 
+## Diagram
+
+![AFlatRylian](CircleModeAFlatRylian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [861](https://ianring.com/musictheory/scales/861) | [Rylian](ModeRylian.md) | Ab | Ab, Bb, Cb, Dbb, Ebb, Fb, Gbb, Ab | ![AFlatRylian](ModeAFlatRylian.png) |
 | [1239](https://ianring.com/musictheory/scales/1239) | [Epaptian](ModeEpaptian.md) | Bb | Bb, Cb, Dbb, Ebb, Fb, Gbb, Ab, Bb | ![BFlatEpaptian](ModeBFlatEpaptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [861](https://ianring.com/musictheory/scales/861) | [Rylian](ModeRylian.md) | Ab | Ab, Bb, Cb, Dbb, Ebb, Fb, Gbb, Ab | ![AFlatRylian](CircleModeAFlatRylian.png) |
+| [1239](https://ianring.com/musictheory/scales/1239) | [Epaptian](ModeEpaptian.md) | Bb | Bb, Cb, Dbb, Ebb, Fb, Gbb, Ab, Bb | ![BFlatEpaptian](CircleModeBFlatEpaptian.png) |
 
 ## Chords
 

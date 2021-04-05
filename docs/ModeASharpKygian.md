@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ vii⁰
 
 ![ASharpKygian](ModeASharpKygian.png)
 
+## Diagram
+
+![ASharpKygian](CircleModeASharpKygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3637](https://ianring.com/musictheory/scales/3637) | [Kygian](ModeKygian.md) | A# | A#, B#, C##, D#, E###, F###, G##, A# | ![ASharpKygian](ModeASharpKygian.png) |
 | [2801](https://ianring.com/musictheory/scales/2801) | [Zogian](ModeZogian.md) | D# | D#, E###, F###, G##, A#, B#, C##, D# | ![DSharpZogian](ModeDSharpZogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3637](https://ianring.com/musictheory/scales/3637) | [Kygian](ModeKygian.md) | A# | A#, B#, C##, D#, E###, F###, G##, A# | ![ASharpKygian](CircleModeASharpKygian.png) |
+| [2801](https://ianring.com/musictheory/scales/2801) | [Zogian](ModeZogian.md) | D# | D#, E###, F###, G##, A#, B#, C##, D# | ![DSharpZogian](CircleModeDSharpZogian.png) |
 
 ## Chords
 

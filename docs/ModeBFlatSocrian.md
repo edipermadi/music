@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, II⁺, III, IV, vi
 
 ![BFlatSocrian](ModeBFlatSocrian.png)
 
+## Diagram
+
+![BFlatSocrian](CircleModeBFlatSocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I⁺, II⁺, III, IV, vi
 | [827](https://ianring.com/musictheory/scales/827) | [Mixolocrian](ModeMixolocrian.md) | F# | F#, G, A, Bb, Cb, D, Eb, F# | ![FSharpMixolocrian](ModeFSharpMixolocrian.png) |
 | [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | G | G, A, Bb, Cb, D, Eb, F#, G | ![GNaturalSagian](ModeGNaturalSagian.png) |
 | [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | A | A, Bb, Cb, D, Eb, F#, G, A | ![ANaturalAeolothian](ModeANaturalAeolothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | Bb | Bb, Cb, D, Eb, F#, G, A, Bb | ![BFlatSocrian](CircleModeBFlatSocrian.png) |
+| [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | D | D, Eb, F#, G, A, Bb, Cb, D | ![DNaturalModian](CircleModeDNaturalModian.png) |
+| [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | Eb | Eb, F#, G, A, Bb, Cb, D, Eb | ![EFlatBarian](CircleModeEFlatBarian.png) |
+| [827](https://ianring.com/musictheory/scales/827) | [Mixolocrian](ModeMixolocrian.md) | F# | F#, G, A, Bb, Cb, D, Eb, F# | ![FSharpMixolocrian](CircleModeFSharpMixolocrian.png) |
+| [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | G | G, A, Bb, Cb, D, Eb, F#, G | ![GNaturalSagian](CircleModeGNaturalSagian.png) |
+| [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | A | A, Bb, Cb, D, Eb, F#, G, A | ![ANaturalAeolothian](CircleModeANaturalAeolothian.png) |
 
 ## Chords
 

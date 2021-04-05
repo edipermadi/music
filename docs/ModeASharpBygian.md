@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ I⁺, III, vi
 
 ![ASharpBygian](ModeASharpBygian.png)
 
+## Diagram
+
+![ASharpBygian](CircleModeASharpBygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2963](https://ianring.com/musictheory/scales/2963) | [Bygian](ModeBygian.md) | A# | A#, B, C##, D###, E##, F##, G##, A# | ![ASharpBygian](ModeASharpBygian.png) |
 | [3529](https://ianring.com/musictheory/scales/3529) | [Stalian](ModeStalian.md) | B | B, C##, D###, E##, F##, G##, A#, B | ![BNaturalStalian](ModeBNaturalStalian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2963](https://ianring.com/musictheory/scales/2963) | [Bygian](ModeBygian.md) | A# | A#, B, C##, D###, E##, F##, G##, A# | ![ASharpBygian](CircleModeASharpBygian.png) |
+| [3529](https://ianring.com/musictheory/scales/3529) | [Stalian](ModeStalian.md) | B | B, C##, D###, E##, F##, G##, A#, B | ![BNaturalStalian](CircleModeBNaturalStalian.png) |
 
 ## Chords
 

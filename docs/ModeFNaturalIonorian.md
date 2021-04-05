@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, ii⁰, iii⁰, v, VII
 
 ![FNaturalIonorian](ModeFNaturalIonorian.png)
 
+## Diagram
+
+![FNaturalIonorian](CircleModeFNaturalIonorian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ i⁰, ii⁰, iii⁰, v, VII
 | [731](https://ianring.com/musictheory/scales/731) | [Ionorian](ModeIonorian.md) | F | F, Gb, Ab, Bbb, Cb, Dbb, Ebb, F | ![FNaturalIonorian](ModeFNaturalIonorian.png) |
 | [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | Gb | Gb, Ab, Bbb, Cb, Dbb, Ebb, F, Gb | ![GFlatPhrydian](ModeGFlatPhrydian.png) |
 | [1627](https://ianring.com/musictheory/scales/1627) | [Zyptian](ModeZyptian.md) | Ab | Ab, Bbb, Cb, Dbb, Ebb, F, Gb, Ab | ![AFlatZyptian](ModeAFlatZyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [731](https://ianring.com/musictheory/scales/731) | [Ionorian](ModeIonorian.md) | F | F, Gb, Ab, Bbb, Cb, Dbb, Ebb, F | ![FNaturalIonorian](CircleModeFNaturalIonorian.png) |
+| [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | Gb | Gb, Ab, Bbb, Cb, Dbb, Ebb, F, Gb | ![GFlatPhrydian](CircleModeGFlatPhrydian.png) |
+| [1627](https://ianring.com/musictheory/scales/1627) | [Zyptian](ModeZyptian.md) | Ab | Ab, Bbb, Cb, Dbb, Ebb, F, Gb, Ab | ![AFlatZyptian](CircleModeAFlatZyptian.png) |
 
 ## Chords
 

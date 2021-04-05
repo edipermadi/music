@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ Eb
 
 ![EFlatIonyptian](ModeEFlatIonyptian.png)
 
+## Diagram
+
+![EFlatIonyptian](CircleModeEFlatIonyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ Eb
 | [1213](https://ianring.com/musictheory/scales/1213) | [Gyrian](ModeGyrian.md) | F | F, G, Ab, Bbb, Cbb, Dbb, Eb, F | ![FNaturalGyrian](ModeFNaturalGyrian.png) |
 | [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | G | G, Ab, Bbb, Cbb, Dbb, Eb, F, G | ![GNaturalZalian](ModeGNaturalZalian.png) |
 | [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | Ab | Ab, Bbb, Cbb, Dbb, Eb, F, G, Ab | ![AFlatStolian](ModeAFlatStolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [757](https://ianring.com/musictheory/scales/757) | [Ionyptian](ModeIonyptian.md) | Eb | Eb, F, G, Ab, Bbb, Cbb, Dbb, Eb | ![EFlatIonyptian](CircleModeEFlatIonyptian.png) |
+| [1213](https://ianring.com/musictheory/scales/1213) | [Gyrian](ModeGyrian.md) | F | F, G, Ab, Bbb, Cbb, Dbb, Eb, F | ![FNaturalGyrian](CircleModeFNaturalGyrian.png) |
+| [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | G | G, Ab, Bbb, Cbb, Dbb, Eb, F, G | ![GNaturalZalian](CircleModeGNaturalZalian.png) |
+| [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | Ab | Ab, Bbb, Cbb, Dbb, Eb, F, G, Ab | ![AFlatStolian](CircleModeAFlatStolian.png) |
 
 ## Chords
 

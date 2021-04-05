@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ ii⁰, iii
 
 ![BFlatBagimic](ModeBFlatBagimic.png)
 
+## Diagram
+
+![BFlatBagimic](CircleModeBFlatBagimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ ii⁰, iii
 | [2637](https://ianring.com/musictheory/scales/2637) | [Aeolonimic](ModeAeolonimic.md) | E | E, F#, G, A#, B##, C###, E | ![ENaturalAeolonimic](ModeENaturalAeolonimic.png) |
 | [1683](https://ianring.com/musictheory/scales/1683) | [Rygimic](ModeRygimic.md) | F# | F#, G, A#, B##, C###, D##, F# | ![FSharpRygimic](ModeFSharpRygimic.png) |
 | [2889](https://ianring.com/musictheory/scales/2889) | [Thoptimic](ModeThoptimic.md) | G | G, A#, B##, C###, D##, E##, G | ![GNaturalThoptimic](ModeGNaturalThoptimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [873](https://ianring.com/musictheory/scales/873) | [Bagimic](ModeBagimic.md) | Bb | Bb, C#, D#, E, F#, G, Bb | ![BFlatBagimic](CircleModeBFlatBagimic.png) |
+| [621](https://ianring.com/musictheory/scales/621) | [Kyrimic](ModeKyrimic.md) | C# | C#, D#, E, F#, G, A#, C# | ![CSharpKyrimic](CircleModeCSharpKyrimic.png) |
+| [1179](https://ianring.com/musictheory/scales/1179) | [Sonimic](ModeSonimic.md) | D# | D#, E, F#, G, A#, B##, D# | ![DSharpSonimic](CircleModeDSharpSonimic.png) |
+| [2637](https://ianring.com/musictheory/scales/2637) | [Aeolonimic](ModeAeolonimic.md) | E | E, F#, G, A#, B##, C###, E | ![ENaturalAeolonimic](CircleModeENaturalAeolonimic.png) |
+| [1683](https://ianring.com/musictheory/scales/1683) | [Rygimic](ModeRygimic.md) | F# | F#, G, A#, B##, C###, D##, F# | ![FSharpRygimic](CircleModeFSharpRygimic.png) |
+| [2889](https://ianring.com/musictheory/scales/2889) | [Thoptimic](ModeThoptimic.md) | G | G, A#, B##, C###, D##, E##, G | ![GNaturalThoptimic](CircleModeGNaturalThoptimic.png) |
 
 ## Chords
 

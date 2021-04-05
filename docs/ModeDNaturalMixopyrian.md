@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II, iv, v⁰, vii
 
 ![DNaturalMixopyrian](ModeDNaturalMixopyrian.png)
 
+## Diagram
+
+![DNaturalMixopyrian](CircleModeDNaturalMixopyrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ II, iv, v⁰, vii
 | [1259](https://ianring.com/musictheory/scales/1259) | [Stadian](ModeStadian.md) | A | A, Bb, C, D, Eb, Fb, G, A | ![ANaturalStadian](ModeANaturalStadian.png) |
 | [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeThodian.md) | Bb | Bb, C, D, Eb, Fb, G, A, Bb | ![BFlatThodian](ModeBFlatThodian.png) |
 | [1693](https://ianring.com/musictheory/scales/1693) | [Dogian](ModeDogian.md) | C | C, D, Eb, Fb, G, A, Bb, C | ![CNaturalDogian](ModeCNaturalDogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1447](https://ianring.com/musictheory/scales/1447) | [Mixopyrian](ModeMixopyrian.md) | D | D, Eb, Fb, G, A, Bb, C, D | ![DNaturalMixopyrian](CircleModeDNaturalMixopyrian.png) |
+| [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeGarian.md) | Eb | Eb, Fb, G, A, Bb, C, D, Eb | ![EFlatGarian](CircleModeEFlatGarian.png) |
+| [941](https://ianring.com/musictheory/scales/941) | [Phrorian](ModePhrorian.md) | G | G, A, Bb, C, D, Eb, Fb, G | ![GNaturalPhrorian](CircleModeGNaturalPhrorian.png) |
+| [1259](https://ianring.com/musictheory/scales/1259) | [Stadian](ModeStadian.md) | A | A, Bb, C, D, Eb, Fb, G, A | ![ANaturalStadian](CircleModeANaturalStadian.png) |
+| [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeThodian.md) | Bb | Bb, C, D, Eb, Fb, G, A, Bb | ![BFlatThodian](CircleModeBFlatThodian.png) |
+| [1693](https://ianring.com/musictheory/scales/1693) | [Dogian](ModeDogian.md) | C | C, D, Eb, Fb, G, A, Bb, C | ![CNaturalDogian](CircleModeCNaturalDogian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -49,6 +49,10 @@ G#
 
 ![GSharpGonic](ModeGSharpGonic.png)
 
+## Diagram
+
+![GSharpGonic](CircleModeGSharpGonic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -57,6 +61,14 @@ G#
 | [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | C | C, C#, E, G#, C | ![CNaturalDalic](ModeCNaturalDalic.png) |
 | [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | C# | C#, E, G#, C, C# | ![CSharpDygic](ModeCSharpDygic.png) |
 | [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | E | E, G#, C, C#, E | ![ENaturalAeoloric](ModeENaturalAeoloric.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | G# | G#, C, C#, E, G# | ![GSharpGonic](CircleModeGSharpGonic.png) |
+| [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | C | C, C#, E, G#, C | ![CNaturalDalic](CircleModeCNaturalDalic.png) |
+| [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | C# | C#, E, G#, C, C# | ![CSharpDygic](CircleModeCSharpDygic.png) |
+| [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | E | E, G#, C, C#, E | ![ENaturalAeoloric](CircleModeENaturalAeoloric.png) |
 
 ## Chords
 

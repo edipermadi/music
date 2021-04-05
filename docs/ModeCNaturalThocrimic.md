@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i⁰, vi
 
 ![CNaturalThocrimic](ModeCNaturalThocrimic.png)
 
+## Diagram
+
+![CNaturalThocrimic](CircleModeCNaturalThocrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i⁰, vi
 | [1443](https://ianring.com/musictheory/scales/1443) | [Ionarimic](ModeIonarimic.md) | F | F, Gb, A#, B#, C#, D#, F | ![FNaturalIonarimic](ModeFNaturalIonarimic.png) |
 | [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeDyrimic.md) | Gb | Gb, A#, B#, C#, D#, E#, Gb | ![GFlatDyrimic](ModeGFlatDyrimic.png) |
 | [429](https://ianring.com/musictheory/scales/429) | [Koptimic](ModeKoptimic.md) | A# | A#, B#, C#, D#, E#, F#, A# | ![ASharpKoptimic](ModeASharpKoptimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1131](https://ianring.com/musictheory/scales/1131) | [Thocrimic](ModeThocrimic.md) | C | C, Db, Eb, F, Gb, A#, C | ![CNaturalThocrimic](CircleModeCNaturalThocrimic.png) |
+| [2613](https://ianring.com/musictheory/scales/2613) | [Aeolanimic](ModeAeolanimic.md) | Db | Db, Eb, F, Gb, A#, B#, Db | ![DFlatAeolanimic](CircleModeDFlatAeolanimic.png) |
+| [1677](https://ianring.com/musictheory/scales/1677) | [Danimic](ModeDanimic.md) | Eb | Eb, F, Gb, A#, B#, C#, Eb | ![EFlatDanimic](CircleModeEFlatDanimic.png) |
+| [1443](https://ianring.com/musictheory/scales/1443) | [Ionarimic](ModeIonarimic.md) | F | F, Gb, A#, B#, C#, D#, F | ![FNaturalIonarimic](CircleModeFNaturalIonarimic.png) |
+| [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeDyrimic.md) | Gb | Gb, A#, B#, C#, D#, E#, Gb | ![GFlatDyrimic](CircleModeGFlatDyrimic.png) |
+| [429](https://ianring.com/musictheory/scales/429) | [Koptimic](ModeKoptimic.md) | A# | A#, B#, C#, D#, E#, F#, A# | ![ASharpKoptimic](CircleModeASharpKoptimic.png) |
 
 ## Chords
 

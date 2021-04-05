@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ iv
 
 ![DSharpMixolimic](ModeDSharpMixolimic.png)
 
+## Diagram
+
+![DSharpMixolimic](CircleModeDSharpMixolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3369](https://ianring.com/musictheory/scales/3369) | [Mixolimic](ModeMixolimic.md) | D# | D#, E##, F###, Cb, Db, Ebb, D# | ![DSharpMixolimic](ModeDSharpMixolimic.png) |
 | [1191](https://ianring.com/musictheory/scales/1191) | [Pyrimic](ModePyrimic.md) | Db | Db, Ebb, Fbb, Gb, Ab, B, Db | ![DFlatPyrimic](ModeDFlatPyrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3369](https://ianring.com/musictheory/scales/3369) | [Mixolimic](ModeMixolimic.md) | D# | D#, E##, F###, Cb, Db, Ebb, D# | ![DSharpMixolimic](CircleModeDSharpMixolimic.png) |
+| [1191](https://ianring.com/musictheory/scales/1191) | [Pyrimic](ModePyrimic.md) | Db | Db, Ebb, Fbb, Gb, Ab, B, Db | ![DFlatPyrimic](CircleModeDFlatPyrimic.png) |
 
 ## Chords
 

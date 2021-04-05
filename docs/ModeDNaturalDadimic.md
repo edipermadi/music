@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ iii
 
 ![DNaturalDadimic](ModeDNaturalDadimic.png)
 
+## Diagram
+
+![DNaturalDadimic](CircleModeDNaturalDadimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,14 @@ iii
 | [1257](https://ianring.com/musictheory/scales/1257) | [Aeolyphimic](ModeAeolyphimic.md) | E | E, F##, G##, A#, B, C##, E | ![ENaturalAeolyphimic](ModeENaturalAeolyphimic.png) |
 | [2643](https://ianring.com/musictheory/scales/2643) | [Lydimic](ModeLydimic.md) | A# | A#, B, C##, D##, E###, Cbbb, A# | ![ASharpLydimic](ModeASharpLydimic.png) |
 | [3369](https://ianring.com/musictheory/scales/3369) | [Mixolimic](ModeMixolimic.md) | B | B, C##, D##, E###, Cbbb, Cbb, B | ![BNaturalMixolimic](ModeBNaturalMixolimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [933](https://ianring.com/musictheory/scales/933) | [Dadimic](ModeDadimic.md) | D | D, E, F##, G##, A#, B, D | ![DNaturalDadimic](CircleModeDNaturalDadimic.png) |
+| [1257](https://ianring.com/musictheory/scales/1257) | [Aeolyphimic](ModeAeolyphimic.md) | E | E, F##, G##, A#, B, C##, E | ![ENaturalAeolyphimic](CircleModeENaturalAeolyphimic.png) |
+| [2643](https://ianring.com/musictheory/scales/2643) | [Lydimic](ModeLydimic.md) | A# | A#, B, C##, D##, E###, Cbbb, A# | ![ASharpLydimic](CircleModeASharpLydimic.png) |
+| [3369](https://ianring.com/musictheory/scales/3369) | [Mixolimic](ModeMixolimic.md) | B | B, C##, D##, E###, Cbbb, Cbb, B | ![BNaturalMixolimic](CircleModeBNaturalMixolimic.png) |
 
 ## Chords
 

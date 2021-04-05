@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II⁺, iii⁰, v⁰, vii
 
 ![AFlatMarian](ModeAFlatMarian.png)
 
+## Diagram
+
+![AFlatMarian](CircleModeAFlatMarian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ II⁺, iii⁰, v⁰, vii
 | [1629](https://ianring.com/musictheory/scales/1629) | [Synian](ModeSynian.md) | E | E, F#, G, Ab, Bb, C#, D, E | ![ENaturalSynian](ModeENaturalSynian.png) |
 | [1431](https://ianring.com/musictheory/scales/1431) | [Phragian](ModePhragian.md) | F# | F#, G, Ab, Bb, C#, D, E, F# | ![FSharpPhragian](ModeFSharpPhragian.png) |
 | [2763](https://ianring.com/musictheory/scales/2763) | [Manian](ModeManian.md) | G | G, Ab, Bb, C#, D, E, F#, G | ![GNaturalManian](ModeGNaturalManian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3429](https://ianring.com/musictheory/scales/3429) | [Marian](ModeMarian.md) | Ab | Ab, Bb, C#, D, E, F#, G, Ab | ![AFlatMarian](CircleModeAFlatMarian.png) |
+| [1881](https://ianring.com/musictheory/scales/1881) | [Korian](ModeKorian.md) | Bb | Bb, C#, D, E, F#, G, Ab, Bb | ![BFlatKorian](CircleModeBFlatKorian.png) |
+| [747](https://ianring.com/musictheory/scales/747) | [Lynian](ModeLynian.md) | C# | C#, D, E, F#, G, Ab, Bb, C# | ![CSharpLynian](CircleModeCSharpLynian.png) |
+| [2421](https://ianring.com/musictheory/scales/2421) | [Malian](ModeMalian.md) | D | D, E, F#, G, Ab, Bb, C#, D | ![DNaturalMalian](CircleModeDNaturalMalian.png) |
+| [1629](https://ianring.com/musictheory/scales/1629) | [Synian](ModeSynian.md) | E | E, F#, G, Ab, Bb, C#, D, E | ![ENaturalSynian](CircleModeENaturalSynian.png) |
+| [1431](https://ianring.com/musictheory/scales/1431) | [Phragian](ModePhragian.md) | F# | F#, G, Ab, Bb, C#, D, E, F# | ![FSharpPhragian](CircleModeFSharpPhragian.png) |
+| [2763](https://ianring.com/musictheory/scales/2763) | [Manian](ModeManian.md) | G | G, Ab, Bb, C#, D, E, F#, G | ![GNaturalManian](CircleModeGNaturalManian.png) |
 
 ## Chords
 

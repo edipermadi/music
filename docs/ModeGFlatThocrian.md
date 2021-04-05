@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ Gb
 
 ![GFlatThocrian](ModeGFlatThocrian.png)
 
+## Diagram
+
+![GFlatThocrian](CircleModeGFlatThocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ Gb
 | [463](https://ianring.com/musictheory/scales/463) | [Zythian](ModeZythian.md) | D# | D#, E, F, Gb, A, Bb, Cb, D# | ![DSharpZythian](ModeDSharpZythian.png) |
 | [2279](https://ianring.com/musictheory/scales/2279) | [Dyrian](ModeDyrian.md) | E | E, F, Gb, A, Bb, Cb, D#, E | ![ENaturalDyrian](ModeENaturalDyrian.png) |
 | [3187](https://ianring.com/musictheory/scales/3187) | [Koptian](ModeKoptian.md) | F | F, Gb, A, Bb, Cb, D#, E, F | ![FNaturalKoptian](ModeFNaturalKoptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3641](https://ianring.com/musictheory/scales/3641) | [Thocrian](ModeThocrian.md) | Gb | Gb, A, Bb, Cb, D#, E, F, Gb | ![GFlatThocrian](CircleModeGFlatThocrian.png) |
+| [967](https://ianring.com/musictheory/scales/967) | [Aeolanian](ModeAeolanian.md) | A | A, Bb, Cb, D#, E, F, Gb, A | ![ANaturalAeolanian](CircleModeANaturalAeolanian.png) |
+| [2531](https://ianring.com/musictheory/scales/2531) | [Danian](ModeDanian.md) | Bb | Bb, Cb, D#, E, F, Gb, A, Bb | ![BFlatDanian](CircleModeBFlatDanian.png) |
+| [463](https://ianring.com/musictheory/scales/463) | [Zythian](ModeZythian.md) | D# | D#, E, F, Gb, A, Bb, Cb, D# | ![DSharpZythian](CircleModeDSharpZythian.png) |
+| [2279](https://ianring.com/musictheory/scales/2279) | [Dyrian](ModeDyrian.md) | E | E, F, Gb, A, Bb, Cb, D#, E | ![ENaturalDyrian](CircleModeENaturalDyrian.png) |
+| [3187](https://ianring.com/musictheory/scales/3187) | [Koptian](ModeKoptian.md) | F | F, Gb, A, Bb, Cb, D#, E, F | ![FNaturalKoptian](CircleModeFNaturalKoptian.png) |
 
 ## Chords
 

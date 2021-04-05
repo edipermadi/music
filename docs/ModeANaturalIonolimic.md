@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I, II
 
 ![ANaturalIonolimic](ModeANaturalIonolimic.png)
 
+## Diagram
+
+![ANaturalIonolimic](CircleModeANaturalIonolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I, II
 | [2445](https://ianring.com/musictheory/scales/2445) | [Zadimic](ModeZadimic.md) | D | D, E, F, G##, A#, B##, D | ![DNaturalZadimic](ModeDNaturalZadimic.png) |
 | [1635](https://ianring.com/musictheory/scales/1635) | [Sygimic](ModeSygimic.md) | E | E, F, G##, A#, B##, C##, E | ![ENaturalSygimic](ModeENaturalSygimic.png) |
 | [2865](https://ianring.com/musictheory/scales/2865) | [Solimic](ModeSolimic.md) | F | F, G##, A#, B##, C##, D##, F | ![FNaturalSolimic](ModeFNaturalSolimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [435](https://ianring.com/musictheory/scales/435) | [Ionolimic](ModeIonolimic.md) | A | A, Bb, C#, D, E, F, A | ![ANaturalIonolimic](CircleModeANaturalIonolimic.png) |
+| [2265](https://ianring.com/musictheory/scales/2265) | [Ionophimic](ModeIonophimic.md) | Bb | Bb, C#, D, E, F, G##, Bb | ![BFlatIonophimic](CircleModeBFlatIonophimic.png) |
+| [795](https://ianring.com/musictheory/scales/795) | [Aeologimic](ModeAeologimic.md) | C# | C#, D, E, F, G##, A#, C# | ![CSharpAeologimic](CircleModeCSharpAeologimic.png) |
+| [2445](https://ianring.com/musictheory/scales/2445) | [Zadimic](ModeZadimic.md) | D | D, E, F, G##, A#, B##, D | ![DNaturalZadimic](CircleModeDNaturalZadimic.png) |
+| [1635](https://ianring.com/musictheory/scales/1635) | [Sygimic](ModeSygimic.md) | E | E, F, G##, A#, B##, C##, E | ![ENaturalSygimic](CircleModeENaturalSygimic.png) |
+| [2865](https://ianring.com/musictheory/scales/2865) | [Solimic](ModeSolimic.md) | F | F, G##, A#, B##, C##, D##, F | ![FNaturalSolimic](CircleModeFNaturalSolimic.png) |
 
 ## Chords
 

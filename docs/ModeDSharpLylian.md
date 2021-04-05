@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ II, iv⁰, v⁰, vi⁰, vii
 
 ![DSharpLylian](ModeDSharpLylian.png)
 
+## Diagram
+
+![DSharpLylian](CircleModeDSharpLylian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2893](https://ianring.com/musictheory/scales/2893) | [Lylian](ModeLylian.md) | D# | D#, E#, F#, G##, A##, B#, C##, D# | ![DSharpLylian](ModeDSharpLylian.png) |
 | [2921](https://ianring.com/musictheory/scales/2921) | [Pogian](ModePogian.md) | F# | F#, G##, A##, B#, C##, D#, E#, F# | ![FSharpPogian](ModeFSharpPogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2893](https://ianring.com/musictheory/scales/2893) | [Lylian](ModeLylian.md) | D# | D#, E#, F#, G##, A##, B#, C##, D# | ![DSharpLylian](CircleModeDSharpLylian.png) |
+| [2921](https://ianring.com/musictheory/scales/2921) | [Pogian](ModePogian.md) | F# | F#, G##, A##, B#, C##, D#, E#, F# | ![FSharpPogian](CircleModeFSharpPogian.png) |
 
 ## Chords
 

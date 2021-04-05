@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ A#
 
 ![ASharpSyptian](ModeASharpSyptian.png)
 
+## Diagram
+
+![ASharpSyptian](CircleModeASharpSyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3299](https://ianring.com/musictheory/scales/3299) | [Syptian](ModeSyptian.md) | A# | A#, B, C###, D##, E#, F###, G##, A# | ![ASharpSyptian](ModeASharpSyptian.png) |
 | [3697](https://ianring.com/musictheory/scales/3697) | [Ionarian](ModeIonarian.md) | B | B, C###, D##, E#, F###, G##, A#, B | ![BNaturalIonarian](ModeBNaturalIonarian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3299](https://ianring.com/musictheory/scales/3299) | [Syptian](ModeSyptian.md) | A# | A#, B, C###, D##, E#, F###, G##, A# | ![ASharpSyptian](CircleModeASharpSyptian.png) |
+| [3697](https://ianring.com/musictheory/scales/3697) | [Ionarian](ModeIonarian.md) | B | B, C###, D##, E#, F###, G##, A#, B | ![BNaturalIonarian](CircleModeBNaturalIonarian.png) |
 
 ## Chords
 

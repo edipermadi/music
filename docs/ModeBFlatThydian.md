@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, II⁺, III⁺, IV, vi⁰
 
 ![BFlatThydian](ModeBFlatThydian.png)
 
+## Diagram
+
+![BFlatThydian](CircleModeBFlatThydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, II⁺, III⁺, IV, vi⁰
 | [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | F | F, G, A, Bb, Cb, Db, Eb, F | ![FNaturalGothian](ModeFNaturalGothian.png) |
 | [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | G | G, A, Bb, Cb, Db, Eb, F, G | ![GNaturalStorian](ModeGNaturalStorian.png) |
 | [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | A | A, Bb, Cb, Db, Eb, F, G, A | ![ANaturalPyptian](ModeANaturalPyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2731](https://ianring.com/musictheory/scales/2731) | [Thydian](ModeThydian.md) | Bb | Bb, Cb, Db, Eb, F, G, A, Bb | ![BFlatThydian](CircleModeBFlatThydian.png) |
+| [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeAeroptian.md) | Db | Db, Eb, F, G, A, Bb, Cb, Db | ![DFlatAeroptian](CircleModeDFlatAeroptian.png) |
+| [1493](https://ianring.com/musictheory/scales/1493) | [Phryrian](ModePhryrian.md) | Eb | Eb, F, G, A, Bb, Cb, Db, Eb | ![EFlatPhryrian](CircleModeEFlatPhryrian.png) |
+| [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | F | F, G, A, Bb, Cb, Db, Eb, F | ![FNaturalGothian](CircleModeFNaturalGothian.png) |
+| [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | G | G, A, Bb, Cb, Db, Eb, F, G | ![GNaturalStorian](CircleModeGNaturalStorian.png) |
+| [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | A | A, Bb, Cb, Db, Eb, F, G, A | ![ANaturalPyptian](CircleModeANaturalPyptian.png) |
 
 ## Chords
 

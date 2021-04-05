@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III, v⁰, vi⁰, vii⁰
 
 ![GNaturalKathian](ModeGNaturalKathian.png)
 
+## Diagram
+
+![GNaturalKathian](CircleModeGNaturalKathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, III, v⁰, vi⁰, vii⁰
 | [877](https://ianring.com/musictheory/scales/877) | [Aeraptian](ModeAeraptian.md) | D | D, E, F, G, Ab, Bb, Cb, D | ![DNaturalAeraptian](ModeDNaturalAeraptian.png) |
 | [1243](https://ianring.com/musictheory/scales/1243) | [Epylian](ModeEpylian.md) | E | E, F, G, Ab, Bb, Cb, D, E | ![ENaturalEpylian](ModeENaturalEpylian.png) |
 | [2669](https://ianring.com/musictheory/scales/2669) | [Gamian](ModeGamian.md) | F | F, G, Ab, Bb, Cb, D, E, F | ![FNaturalGamian](ModeFNaturalGamian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1691](https://ianring.com/musictheory/scales/1691) | [Kathian](ModeKathian.md) | G | G, Ab, Bb, Cb, D, E, F, G | ![GNaturalKathian](CircleModeGNaturalKathian.png) |
+| [2893](https://ianring.com/musictheory/scales/2893) | [Lylian](ModeLylian.md) | Ab | Ab, Bb, Cb, D, E, F, G, Ab | ![AFlatLylian](CircleModeAFlatLylian.png) |
+| [1747](https://ianring.com/musictheory/scales/1747) | [Epalian](ModeEpalian.md) | Bb | Bb, Cb, D, E, F, G, Ab, Bb | ![BFlatEpalian](CircleModeBFlatEpalian.png) |
+| [877](https://ianring.com/musictheory/scales/877) | [Aeraptian](ModeAeraptian.md) | D | D, E, F, G, Ab, Bb, Cb, D | ![DNaturalAeraptian](CircleModeDNaturalAeraptian.png) |
+| [1243](https://ianring.com/musictheory/scales/1243) | [Epylian](ModeEpylian.md) | E | E, F, G, Ab, Bb, Cb, D, E | ![ENaturalEpylian](CircleModeENaturalEpylian.png) |
+| [2669](https://ianring.com/musictheory/scales/2669) | [Gamian](ModeGamian.md) | F | F, G, Ab, Bb, Cb, D, E, F | ![FNaturalGamian](CircleModeFNaturalGamian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II, iv⁰, v, VII⁺
 
 ![AFlatLonian](ModeAFlatLonian.png)
 
+## Diagram
+
+![AFlatLonian](CircleModeAFlatLonian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ II, iv⁰, v, VII⁺
 | [3245](https://ianring.com/musictheory/scales/3245) | [Aeracrian](ModeAeracrian.md) | Eb | Eb, F, Gb, Ab, Bb, C#, D, Eb | ![EFlatAeracrian](ModeEFlatAeracrian.png) |
 | [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | F | F, Gb, Ab, Bb, C#, D, Eb, F | ![FNaturalByptian](ModeFNaturalByptian.png) |
 | [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | Gb | Gb, Ab, Bb, C#, D, Eb, F, Gb | ![GFlatDarian](ModeGFlatDarian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | Ab | Ab, Bb, C#, D, Eb, F, Gb, Ab | ![AFlatLonian](CircleModeAFlatLonian.png) |
+| [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | Bb | Bb, C#, D, Eb, F, Gb, Ab, Bb | ![BFlatAerathian](CircleModeBFlatAerathian.png) |
+| [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | C# | C#, D, Eb, F, Gb, Ab, Bb, C# | ![CSharpSarian](CircleModeCSharpSarian.png) |
+| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | D | D, Eb, F, Gb, Ab, Bb, C#, D | ![DNaturalZoptian](CircleModeDNaturalZoptian.png) |
+| [3245](https://ianring.com/musictheory/scales/3245) | [Aeracrian](ModeAeracrian.md) | Eb | Eb, F, Gb, Ab, Bb, C#, D, Eb | ![EFlatAeracrian](CircleModeEFlatAeracrian.png) |
+| [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | F | F, Gb, Ab, Bb, C#, D, Eb, F | ![FNaturalByptian](CircleModeFNaturalByptian.png) |
+| [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | Gb | Gb, Ab, Bb, C#, D, Eb, F, Gb | ![GFlatDarian](CircleModeGFlatDarian.png) |
 
 ## Chords
 

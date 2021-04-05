@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i, VI
 
 ![BFlatRocrimic](ModeBFlatRocrimic.png)
 
+## Diagram
+
+![BFlatRocrimic](CircleModeBFlatRocrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i, VI
 | [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | Eb | Eb, F, G#, A#, B#, C#, Eb | ![EFlatLothimic](ModeEFlatLothimic.png) |
 | [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | F | F, G#, A#, B#, C#, D#, F | ![FNaturalEpathimic](ModeFNaturalEpathimic.png) |
 | [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | G# | G#, A#, B#, C#, D#, E#, G# | ![GSharpMynimic](ModeGSharpMynimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1197](https://ianring.com/musictheory/scales/1197) | [Rocrimic](ModeRocrimic.md) | Bb | Bb, C, Db, Eb, F, G#, Bb | ![BFlatRocrimic](CircleModeBFlatRocrimic.png) |
+| [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | C | C, Db, Eb, F, G#, A#, C | ![CNaturalEporimic](CircleModeCNaturalEporimic.png) |
+| [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | Db | Db, Eb, F, G#, A#, B#, Db | ![DFlatThaptimic](CircleModeDFlatThaptimic.png) |
+| [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | Eb | Eb, F, G#, A#, B#, C#, Eb | ![EFlatLothimic](CircleModeEFlatLothimic.png) |
+| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | F | F, G#, A#, B#, C#, D#, F | ![FNaturalEpathimic](CircleModeFNaturalEpathimic.png) |
+| [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | G# | G#, A#, B#, C#, D#, E#, G# | ![GSharpMynimic](CircleModeGSharpMynimic.png) |
 
 ## Chords
 

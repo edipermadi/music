@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ v⁰
 
 ![ASharpMonian](ModeASharpMonian.png)
 
+## Diagram
+
+![ASharpMonian](CircleModeASharpMonian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3469](https://ianring.com/musictheory/scales/3469) | [Monian](ModeMonian.md) | A# | A#, B#, C#, D###, E##, F###, G##, A# | ![ASharpMonian](ModeASharpMonian.png) |
 | [2993](https://ianring.com/musictheory/scales/2993) | [Stythian](ModeStythian.md) | C# | C#, D###, E##, F###, G##, A#, B#, C# | ![CSharpStythian](ModeCSharpStythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3469](https://ianring.com/musictheory/scales/3469) | [Monian](ModeMonian.md) | A# | A#, B#, C#, D###, E##, F###, G##, A# | ![ASharpMonian](CircleModeASharpMonian.png) |
+| [2993](https://ianring.com/musictheory/scales/2993) | [Stythian](ModeStythian.md) | C# | C#, D###, E##, F###, G##, A#, B#, C# | ![CSharpStythian](CircleModeCSharpStythian.png) |
 
 ## Chords
 

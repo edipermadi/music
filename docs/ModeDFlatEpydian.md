@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ Db
 
 ![DFlatEpydian](ModeDFlatEpydian.png)
 
+## Diagram
+
+![DFlatEpydian](CircleModeDFlatEpydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2335](https://ianring.com/musictheory/scales/2335) | [Epydian](ModeEpydian.md) | Db | Db, Ebb, Fbb, Gbbb, D###, Cbbb, Dbb, Db | ![DFlatEpydian](ModeDFlatEpydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2335](https://ianring.com/musictheory/scales/2335) | [Epydian](ModeEpydian.md) | Db | Db, Ebb, Fbb, Gbbb, D###, Cbbb, Dbb, Db | ![DFlatEpydian](CircleModeDFlatEpydian.png) |
 
 ## Chords
 

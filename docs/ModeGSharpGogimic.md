@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I
 
 ![GSharpGogimic](ModeGSharpGogimic.png)
 
+## Diagram
+
+![GSharpGogimic](CircleModeGSharpGogimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ I
 | [2259](https://ianring.com/musictheory/scales/2259) | [Gogimic](ModeGogimic.md) | G# | G#, A, B#, C##, D#, E###, G# | ![GSharpGogimic](ModeGSharpGogimic.png) |
 | [3177](https://ianring.com/musictheory/scales/3177) | [Rothimic](ModeRothimic.md) | A | A, B#, C##, D#, E###, F###, A | ![ANaturalRothimic](ModeANaturalRothimic.png) |
 | [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeMythimic.md) | D# | D#, E###, F###, G##, A###, B###, D# | ![DSharpMythimic](ModeDSharpMythimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2259](https://ianring.com/musictheory/scales/2259) | [Gogimic](ModeGogimic.md) | G# | G#, A, B#, C##, D#, E###, G# | ![GSharpGogimic](CircleModeGSharpGogimic.png) |
+| [3177](https://ianring.com/musictheory/scales/3177) | [Rothimic](ModeRothimic.md) | A | A, B#, C##, D#, E###, F###, A | ![ANaturalRothimic](CircleModeANaturalRothimic.png) |
+| [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeMythimic.md) | D# | D#, E###, F###, G##, A###, B###, D# | ![DSharpMythimic](CircleModeDSharpMythimic.png) |
 
 ## Chords
 

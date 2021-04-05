@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ VI
 
 ![ENaturalThyrimic](ModeENaturalThyrimic.png)
 
+## Diagram
+
+![ENaturalThyrimic](CircleModeENaturalThyrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ VI
 | [1829](https://ianring.com/musictheory/scales/1829) | [Pathimic](ModePathimic.md) | Ab | Ab, Bb, C#, D##, E#, F#, Ab | ![AFlatPathimic](ModeAFlatPathimic.png) |
 | [1481](https://ianring.com/musictheory/scales/1481) | [Zagimic](ModeZagimic.md) | Bb | Bb, C#, D##, E#, F#, G#, Bb | ![BFlatZagimic](ModeBFlatZagimic.png) |
 | [697](https://ianring.com/musictheory/scales/697) | [Lagimic](ModeLagimic.md) | C# | C#, D##, E#, F#, G#, A#, C# | ![CSharpLagimic](ModeCSharpLagimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [599](https://ianring.com/musictheory/scales/599) | [Thyrimic](ModeThyrimic.md) | E | E, F, Gb, Ab, Bb, C#, E | ![ENaturalThyrimic](CircleModeENaturalThyrimic.png) |
+| [2347](https://ianring.com/musictheory/scales/2347) | [Thothimic](ModeThothimic.md) | F | F, Gb, Ab, Bb, C#, D##, F | ![FNaturalThothimic](CircleModeFNaturalThothimic.png) |
+| [3221](https://ianring.com/musictheory/scales/3221) | [Bycrimic](ModeBycrimic.md) | Gb | Gb, Ab, Bb, C#, D##, E#, Gb | ![GFlatBycrimic](CircleModeGFlatBycrimic.png) |
+| [1829](https://ianring.com/musictheory/scales/1829) | [Pathimic](ModePathimic.md) | Ab | Ab, Bb, C#, D##, E#, F#, Ab | ![AFlatPathimic](CircleModeAFlatPathimic.png) |
+| [1481](https://ianring.com/musictheory/scales/1481) | [Zagimic](ModeZagimic.md) | Bb | Bb, C#, D##, E#, F#, G#, Bb | ![BFlatZagimic](CircleModeBFlatZagimic.png) |
+| [697](https://ianring.com/musictheory/scales/697) | [Lagimic](ModeLagimic.md) | C# | C#, D##, E#, F#, G#, A#, C# | ![CSharpLagimic](CircleModeCSharpLagimic.png) |
 
 ## Chords
 

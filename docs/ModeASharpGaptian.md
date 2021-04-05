@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iv⁰
 
 ![ASharpGaptian](ModeASharpGaptian.png)
 
+## Diagram
+
+![ASharpGaptian](CircleModeASharpGaptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ iv⁰
 | [2887](https://ianring.com/musictheory/scales/2887) | [Gaptian](ModeGaptian.md) | A# | A#, B, C, D##, E##, F##, G##, A# | ![ASharpGaptian](ModeASharpGaptian.png) |
 | [3491](https://ianring.com/musictheory/scales/3491) | [Tharian](ModeTharian.md) | B | B, C, D##, E##, F##, G##, A#, B | ![BNaturalTharian](ModeBNaturalTharian.png) |
 | [3793](https://ianring.com/musictheory/scales/3793) | [Aeopian](ModeAeopian.md) | C | C, D##, E##, F##, G##, A#, B, C | ![CNaturalAeopian](ModeCNaturalAeopian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2887](https://ianring.com/musictheory/scales/2887) | [Gaptian](ModeGaptian.md) | A# | A#, B, C, D##, E##, F##, G##, A# | ![ASharpGaptian](CircleModeASharpGaptian.png) |
+| [3491](https://ianring.com/musictheory/scales/3491) | [Tharian](ModeTharian.md) | B | B, C, D##, E##, F##, G##, A#, B | ![BNaturalTharian](CircleModeBNaturalTharian.png) |
+| [3793](https://ianring.com/musictheory/scales/3793) | [Aeopian](ModeAeopian.md) | C | C, D##, E##, F##, G##, A#, B, C | ![CNaturalAeopian](CircleModeCNaturalAeopian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii, V, VI⁺, vii
 
 ![CSharpRyphian](ModeCSharpRyphian.png)
 
+## Diagram
+
+![CSharpRyphian](CircleModeCSharpRyphian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ I, iii, V, VI⁺, vii
 | [1653](https://ianring.com/musictheory/scales/1653) | [Gylian](ModeGylian.md) | D# | D#, E#, F##, G#, A, B#, C#, D# | ![DSharpGylian](ModeDSharpGylian.png) |
 | [2739](https://ianring.com/musictheory/scales/2739) | [Zanian](ModeZanian.md) | G# | G#, A, B#, C#, D#, E#, F##, G# | ![GSharpZanian](ModeGSharpZanian.png) |
 | [3417](https://ianring.com/musictheory/scales/3417) | [Golian](ModeGolian.md) | A | A, B#, C#, D#, E#, F##, G#, A | ![ANaturalGolian](ModeANaturalGolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2517](https://ianring.com/musictheory/scales/2517) | [Ryphian](ModeRyphian.md) | C# | C#, D#, E#, F##, G#, A, B#, C# | ![CSharpRyphian](CircleModeCSharpRyphian.png) |
+| [1653](https://ianring.com/musictheory/scales/1653) | [Gylian](ModeGylian.md) | D# | D#, E#, F##, G#, A, B#, C#, D# | ![DSharpGylian](CircleModeDSharpGylian.png) |
+| [2739](https://ianring.com/musictheory/scales/2739) | [Zanian](ModeZanian.md) | G# | G#, A, B#, C#, D#, E#, F##, G# | ![GSharpZanian](CircleModeGSharpZanian.png) |
+| [3417](https://ianring.com/musictheory/scales/3417) | [Golian](ModeGolian.md) | A | A, B#, C#, D#, E#, F##, G#, A | ![ANaturalGolian](CircleModeANaturalGolian.png) |
 
 ## Chords
 

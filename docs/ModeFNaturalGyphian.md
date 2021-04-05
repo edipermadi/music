@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ F
 
 ![FNaturalGyphian](ModeFNaturalGyphian.png)
 
+## Diagram
+
+![FNaturalGyphian](CircleModeFNaturalGyphian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ F
 | [1969](https://ianring.com/musictheory/scales/1969) | [Zorian](ModeZorian.md) | G | G, A##, B#, C##, D#, E, F, G | ![GNaturalZorian](ModeGNaturalZorian.png) |
 | [2839](https://ianring.com/musictheory/scales/2839) | [Lyptian](ModeLyptian.md) | D# | D#, E, F, G, A##, B#, C##, D# | ![DSharpLyptian](ModeDSharpLyptian.png) |
 | [3467](https://ianring.com/musictheory/scales/3467) | [Katonian](ModeKatonian.md) | E | E, F, G, A##, B#, C##, D#, E | ![ENaturalKatonian](ModeENaturalKatonian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3781](https://ianring.com/musictheory/scales/3781) | [Gyphian](ModeGyphian.md) | F | F, G, A##, B#, C##, D#, E, F | ![FNaturalGyphian](CircleModeFNaturalGyphian.png) |
+| [1969](https://ianring.com/musictheory/scales/1969) | [Zorian](ModeZorian.md) | G | G, A##, B#, C##, D#, E, F, G | ![GNaturalZorian](CircleModeGNaturalZorian.png) |
+| [2839](https://ianring.com/musictheory/scales/2839) | [Lyptian](ModeLyptian.md) | D# | D#, E, F, G, A##, B#, C##, D# | ![DSharpLyptian](CircleModeDSharpLyptian.png) |
+| [3467](https://ianring.com/musictheory/scales/3467) | [Katonian](ModeKatonian.md) | E | E, F, G, A##, B#, C##, D#, E | ![ENaturalKatonian](CircleModeENaturalKatonian.png) |
 
 ## Chords
 

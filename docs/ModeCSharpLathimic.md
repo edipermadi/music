@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ II
 
 ![CSharpLathimic](ModeCSharpLathimic.png)
 
+## Diagram
+
+![CSharpLathimic](CircleModeCSharpLathimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3473](https://ianring.com/musictheory/scales/3473) | [Lathimic](ModeLathimic.md) | C# | C#, D###, F###, G##, A##, B#, C# | ![CSharpLathimic](ModeCSharpLathimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3473](https://ianring.com/musictheory/scales/3473) | [Lathimic](ModeLathimic.md) | C# | C#, D###, F###, G##, A##, B#, C# | ![CSharpLathimic](CircleModeCSharpLathimic.png) |
 
 ## Chords
 

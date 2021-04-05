@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, ii⁰, iii⁰, iv, v, VI⁺, VII
 
 ![DFlatStydian](ModeDFlatStydian.png)
 
+## Diagram
+
+![DFlatStydian](CircleModeDFlatStydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ I, ii⁰, iii⁰, iv, v, VI⁺, VII
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | F | F, Gb, Ab, Bbb, Cb, Db, Eb, F | ![FNaturalIonadian](ModeFNaturalIonadian.png) |
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | Gb | Gb, Ab, Bbb, Cb, Db, Eb, F, Gb | ![GFlatBocrian](ModeGFlatBocrian.png) |
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | Ab | Ab, Bbb, Cb, Db, Eb, F, Gb, Ab | ![AFlatMixolythian](ModeAFlatMixolythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | Db | Db, Eb, F, Gb, Ab, Bbb, Cb, Db | ![DFlatStydian](CircleModeDFlatStydian.png) |
+| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | Eb | Eb, F, Gb, Ab, Bbb, Cb, Db, Eb | ![EFlatLorian](CircleModeEFlatLorian.png) |
+| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | F | F, Gb, Ab, Bbb, Cb, Db, Eb, F | ![FNaturalIonadian](CircleModeFNaturalIonadian.png) |
+| [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | Gb | Gb, Ab, Bbb, Cb, Db, Eb, F, Gb | ![GFlatBocrian](CircleModeGFlatBocrian.png) |
+| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | Ab | Ab, Bbb, Cb, Db, Eb, F, Gb, Ab | ![AFlatMixolythian](CircleModeAFlatMixolythian.png) |
 
 ## Chords
 

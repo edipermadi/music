@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, vii⁰
 
 ![GNaturalAerogian](ModeGNaturalAerogian.png)
 
+## Diagram
+
+![GNaturalAerogian](CircleModeGNaturalAerogian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰, vii⁰
 | [1735](https://ianring.com/musictheory/scales/1735) | [Dagian](ModeDagian.md) | C | C, Db, Ebb, F#, G, A, Bb, C | ![CNaturalDagian](ModeCNaturalDagian.png) |
 | [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | Db | Db, Ebb, F#, G, A, Bb, C, Db | ![DFlatAeolydian](ModeDFlatAeolydian.png) |
 | [475](https://ianring.com/musictheory/scales/475) | [Aeolygian](ModeAeolygian.md) | F# | F#, G, A, Bb, C, Db, Ebb, F# | ![FSharpAeolygian](ModeFSharpAeolygian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | G | G, A, Bb, C, Db, Ebb, F#, G | ![GNaturalAerogian](CircleModeGNaturalAerogian.png) |
+| [1595](https://ianring.com/musictheory/scales/1595) | [Dacrian](ModeDacrian.md) | A | A, Bb, C, Db, Ebb, F#, G, A | ![ANaturalDacrian](CircleModeANaturalDacrian.png) |
+| [2845](https://ianring.com/musictheory/scales/2845) | [Baptian](ModeBaptian.md) | Bb | Bb, C, Db, Ebb, F#, G, A, Bb | ![BFlatBaptian](CircleModeBFlatBaptian.png) |
+| [1735](https://ianring.com/musictheory/scales/1735) | [Dagian](ModeDagian.md) | C | C, Db, Ebb, F#, G, A, Bb, C | ![CNaturalDagian](CircleModeCNaturalDagian.png) |
+| [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | Db | Db, Ebb, F#, G, A, Bb, C, Db | ![DFlatAeolydian](CircleModeDFlatAeolydian.png) |
+| [475](https://ianring.com/musictheory/scales/475) | [Aeolygian](ModeAeolygian.md) | F# | F#, G, A, Bb, C, Db, Ebb, F# | ![FSharpAeolygian](CircleModeFSharpAeolygian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ II, iii
 
 ![FSharpKothimic](ModeFSharpKothimic.png)
 
+## Diagram
+
+![FSharpKothimic](CircleModeFSharpKothimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ II, iii
 | [869](https://ianring.com/musictheory/scales/869) | [Kothimic](ModeKothimic.md) | F# | F#, G#, A##, B#, C##, D#, F# | ![FSharpKothimic](ModeFSharpKothimic.png) |
 | [1241](https://ianring.com/musictheory/scales/1241) | [Pygimic](ModePygimic.md) | G# | G#, A##, B#, C##, D#, E##, G# | ![GSharpPygimic](ModeGSharpPygimic.png) |
 | [2857](https://ianring.com/musictheory/scales/2857) | [Stythimic](ModeStythimic.md) | D# | D#, E##, F###, Cb, Dbb, Ebb, D# | ![DSharpStythimic](ModeDSharpStythimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [869](https://ianring.com/musictheory/scales/869) | [Kothimic](ModeKothimic.md) | F# | F#, G#, A##, B#, C##, D#, F# | ![FSharpKothimic](CircleModeFSharpKothimic.png) |
+| [1241](https://ianring.com/musictheory/scales/1241) | [Pygimic](ModePygimic.md) | G# | G#, A##, B#, C##, D#, E##, G# | ![GSharpPygimic](CircleModeGSharpPygimic.png) |
+| [2857](https://ianring.com/musictheory/scales/2857) | [Stythimic](ModeStythimic.md) | D# | D#, E##, F###, Cb, Dbb, Ebb, D# | ![DSharpStythimic](CircleModeDSharpStythimic.png) |
 
 ## Chords
 

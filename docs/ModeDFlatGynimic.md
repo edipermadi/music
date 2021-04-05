@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ Db
 
 ![DFlatGynimic](ModeDFlatGynimic.png)
 
+## Diagram
+
+![DFlatGynimic](CircleModeDFlatGynimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [287](https://ianring.com/musictheory/scales/287) | [Gynimic](ModeGynimic.md) | Db | Db, Ebb, Fbb, Gbbb, D###, Cbbb, Db | ![DFlatGynimic](ModeDFlatGynimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [287](https://ianring.com/musictheory/scales/287) | [Gynimic](ModeGynimic.md) | Db | Db, Ebb, Fbb, Gbbb, D###, Cbbb, Db | ![DFlatGynimic](CircleModeDFlatGynimic.png) |
 
 ## Chords
 

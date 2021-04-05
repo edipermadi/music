@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I
 
 ![CNaturalThycrimic](ModeCNaturalThycrimic.png)
 
+## Diagram
+
+![CNaturalThycrimic](CircleModeCNaturalThycrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I
 | [3213](https://ianring.com/musictheory/scales/3213) | [Eponimic](ModeEponimic.md) | F | F, G, Ab, B#, C###, D##, F | ![FNaturalEponimic](ModeFNaturalEponimic.png) |
 | [1827](https://ianring.com/musictheory/scales/1827) | [Katygimic](ModeKatygimic.md) | G | G, Ab, B#, C###, D##, E#, G | ![GNaturalKatygimic](ModeGNaturalKatygimic.png) |
 | [2961](https://ianring.com/musictheory/scales/2961) | [Bygimic](ModeBygimic.md) | Ab | Ab, B#, C###, D##, E#, F##, Ab | ![AFlatBygimic](ModeAFlatBygimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [441](https://ianring.com/musictheory/scales/441) | [Thycrimic](ModeThycrimic.md) | C | C, D#, E, F, G, Ab, C | ![CNaturalThycrimic](CircleModeCNaturalThycrimic.png) |
+| [567](https://ianring.com/musictheory/scales/567) | [Aeoladimic](ModeAeoladimic.md) | D# | D#, E, F, G, Ab, B#, D# | ![DSharpAeoladimic](CircleModeDSharpAeoladimic.png) |
+| [2331](https://ianring.com/musictheory/scales/2331) | [Dylimic](ModeDylimic.md) | E | E, F, G, Ab, B#, C###, E | ![ENaturalDylimic](CircleModeENaturalDylimic.png) |
+| [3213](https://ianring.com/musictheory/scales/3213) | [Eponimic](ModeEponimic.md) | F | F, G, Ab, B#, C###, D##, F | ![FNaturalEponimic](CircleModeFNaturalEponimic.png) |
+| [1827](https://ianring.com/musictheory/scales/1827) | [Katygimic](ModeKatygimic.md) | G | G, Ab, B#, C###, D##, E#, G | ![GNaturalKatygimic](CircleModeGNaturalKatygimic.png) |
+| [2961](https://ianring.com/musictheory/scales/2961) | [Bygimic](ModeBygimic.md) | Ab | Ab, B#, C###, D##, E#, F##, Ab | ![AFlatBygimic](CircleModeAFlatBygimic.png) |
 
 ## Chords
 

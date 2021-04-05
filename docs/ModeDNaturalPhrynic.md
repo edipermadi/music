@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -49,6 +49,10 @@ D
 
 ![DNaturalPhrynic](ModeDNaturalPhrynic.png)
 
+## Diagram
+
+![DNaturalPhrynic](CircleModeDNaturalPhrynic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -57,6 +61,14 @@ D
 | [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | F | F, G#, B, D, F | ![FNaturalPhrynic](ModeFNaturalPhrynic.png) |
 | [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | G# | G#, B, D, F, G# | ![GSharpPhrynic](ModeGSharpPhrynic.png) |
 | [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | B | B, D, F, G#, B | ![BNaturalPhrynic](ModeBNaturalPhrynic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | D | D, F, G#, B, D | ![DNaturalPhrynic](CircleModeDNaturalPhrynic.png) |
+| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | F | F, G#, B, D, F | ![FNaturalPhrynic](CircleModeFNaturalPhrynic.png) |
+| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | G# | G#, B, D, F, G# | ![GSharpPhrynic](CircleModeGSharpPhrynic.png) |
+| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | B | B, D, F, G#, B | ![BNaturalPhrynic](CircleModeBNaturalPhrynic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iv⁰
 
 ![DFlatZyrian](ModeDFlatZyrian.png)
 
+## Diagram
+
+![DFlatZyrian](CircleModeDFlatZyrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ iv⁰
 | [3189](https://ianring.com/musictheory/scales/3189) | [Aeolonian](ModeAeolonian.md) | Ab | Ab, Bb, C, Db, Ebb, F#, G, Ab | ![AFlatAeolonian](ModeAFlatAeolonian.png) |
 | [1821](https://ianring.com/musictheory/scales/1821) | [Aeradian](ModeAeradian.md) | Bb | Bb, C, Db, Ebb, F#, G, Ab, Bb | ![BFlatAeradian](ModeBFlatAeradian.png) |
 | [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeAeolagian.md) | C | C, Db, Ebb, F#, G, Ab, Bb, C | ![CNaturalAeolagian](ModeCNaturalAeolagian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2787](https://ianring.com/musictheory/scales/2787) | [Zyrian](ModeZyrian.md) | Db | Db, Ebb, F#, G, Ab, Bb, C, Db | ![DFlatZyrian](CircleModeDFlatZyrian.png) |
+| [471](https://ianring.com/musictheory/scales/471) | [Dodian](ModeDodian.md) | F# | F#, G, Ab, Bb, C, Db, Ebb, F# | ![FSharpDodian](CircleModeFSharpDodian.png) |
+| [2283](https://ianring.com/musictheory/scales/2283) | [Aeolyptian](ModeAeolyptian.md) | G | G, Ab, Bb, C, Db, Ebb, F#, G | ![GNaturalAeolyptian](CircleModeGNaturalAeolyptian.png) |
+| [3189](https://ianring.com/musictheory/scales/3189) | [Aeolonian](ModeAeolonian.md) | Ab | Ab, Bb, C, Db, Ebb, F#, G, Ab | ![AFlatAeolonian](CircleModeAFlatAeolonian.png) |
+| [1821](https://ianring.com/musictheory/scales/1821) | [Aeradian](ModeAeradian.md) | Bb | Bb, C, Db, Ebb, F#, G, Ab, Bb | ![BFlatAeradian](CircleModeBFlatAeradian.png) |
+| [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeAeolagian.md) | C | C, Db, Ebb, F#, G, Ab, Bb, C | ![CNaturalAeolagian](CircleModeCNaturalAeolagian.png) |
 
 ## Chords
 

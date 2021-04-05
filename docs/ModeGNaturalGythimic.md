@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i, II
 
 ![GNaturalGythimic](ModeGNaturalGythimic.png)
 
+## Diagram
+
+![GNaturalGythimic](CircleModeGNaturalGythimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i, II
 | [843](https://ianring.com/musictheory/scales/843) | [Molimic](ModeMolimic.md) | C# | C#, D, E, F##, G##, A#, C# | ![CSharpMolimic](ModeCSharpMolimic.png) |
 | [2469](https://ianring.com/musictheory/scales/2469) | [Staptimic](ModeStaptimic.md) | D | D, E, F##, G##, A#, B##, D | ![DNaturalStaptimic](ModeDNaturalStaptimic.png) |
 | [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | E | E, F##, G##, A#, B##, C##, E | ![ENaturalBocrimic](ModeENaturalBocrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [717](https://ianring.com/musictheory/scales/717) | [Gythimic](ModeGythimic.md) | G | G, A, Bb, C#, D, E, G | ![GNaturalGythimic](CircleModeGNaturalGythimic.png) |
+| [1203](https://ianring.com/musictheory/scales/1203) | [Pagimic](ModePagimic.md) | A | A, Bb, C#, D, E, F##, A | ![ANaturalPagimic](CircleModeANaturalPagimic.png) |
+| [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeAeolythimic.md) | Bb | Bb, C#, D, E, F##, G##, Bb | ![BFlatAeolythimic](CircleModeBFlatAeolythimic.png) |
+| [843](https://ianring.com/musictheory/scales/843) | [Molimic](ModeMolimic.md) | C# | C#, D, E, F##, G##, A#, C# | ![CSharpMolimic](CircleModeCSharpMolimic.png) |
+| [2469](https://ianring.com/musictheory/scales/2469) | [Staptimic](ModeStaptimic.md) | D | D, E, F##, G##, A#, B##, D | ![DNaturalStaptimic](CircleModeDNaturalStaptimic.png) |
+| [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | E | E, F##, G##, A#, B##, C##, E | ![ENaturalBocrimic](CircleModeENaturalBocrimic.png) |
 
 ## Chords
 

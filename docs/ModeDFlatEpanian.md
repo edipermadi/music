@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ Db
 
 ![DFlatEpanian](ModeDFlatEpanian.png)
 
+## Diagram
+
+![DFlatEpanian](CircleModeDFlatEpanian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeEpanian.md) | Db | Db, Ebb, Fbb, Gbbb, D###, E###, Cbbb, Db | ![DFlatEpanian](ModeDFlatEpanian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeEpanian.md) | Db | Db, Ebb, Fbb, Gbbb, D###, E###, Cbbb, Db | ![DFlatEpanian](CircleModeDFlatEpanian.png) |
 
 ## Chords
 

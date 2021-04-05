@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰
 
 ![ASharpMylian](ModeASharpMylian.png)
 
+## Diagram
+
+![ASharpMylian](CircleModeASharpMylian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ i⁰
 | [2955](https://ianring.com/musictheory/scales/2955) | [Thorian](ModeThorian.md) | C# | C#, D, E, F###, G##, A#, B#, C# | ![CSharpThorian](ModeCSharpThorian.png) |
 | [3525](https://ianring.com/musictheory/scales/3525) | [Zocrian](ModeZocrian.md) | D | D, E, F###, G##, A#, B#, C#, D | ![DNaturalZocrian](ModeDNaturalZocrian.png) |
 | [1905](https://ianring.com/musictheory/scales/1905) | [Katacrian](ModeKatacrian.md) | E | E, F###, G##, A#, B#, C#, D, E | ![ENaturalKatacrian](ModeENaturalKatacrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3165](https://ianring.com/musictheory/scales/3165) | [Mylian](ModeMylian.md) | A# | A#, B#, C#, D, E, F###, G##, A# | ![ASharpMylian](CircleModeASharpMylian.png) |
+| [2955](https://ianring.com/musictheory/scales/2955) | [Thorian](ModeThorian.md) | C# | C#, D, E, F###, G##, A#, B#, C# | ![CSharpThorian](CircleModeCSharpThorian.png) |
+| [3525](https://ianring.com/musictheory/scales/3525) | [Zocrian](ModeZocrian.md) | D | D, E, F###, G##, A#, B#, C#, D | ![DNaturalZocrian](CircleModeDNaturalZocrian.png) |
+| [1905](https://ianring.com/musictheory/scales/1905) | [Katacrian](ModeKatacrian.md) | E | E, F###, G##, A#, B#, C#, D, E | ![ENaturalKatacrian](CircleModeENaturalKatacrian.png) |
 
 ## Chords
 

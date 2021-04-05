@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ Eb
 
 ![EFlatPonimic](ModeEFlatPonimic.png)
 
+## Diagram
+
+![EFlatPonimic](CircleModeEFlatPonimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModePonimic.md) | Eb | Eb, F##, Cb, Dbb, Ebbb, Fbbb, Eb | ![EFlatPonimic](ModeEFlatPonimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModePonimic.md) | Eb | Eb, F##, Cb, Dbb, Ebbb, Fbbb, Eb | ![EFlatPonimic](CircleModeEFlatPonimic.png) |
 
 ## Chords
 

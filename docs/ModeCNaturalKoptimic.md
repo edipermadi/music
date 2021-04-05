@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i, ii⁰
 
 ![CNaturalKoptimic](ModeCNaturalKoptimic.png)
 
+## Diagram
+
+![CNaturalKoptimic](CircleModeCNaturalKoptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i, ii⁰
 | [1677](https://ianring.com/musictheory/scales/1677) | [Danimic](ModeDanimic.md) | F | F, G, Ab, B#, C##, D#, F | ![FNaturalDanimic](ModeFNaturalDanimic.png) |
 | [1443](https://ianring.com/musictheory/scales/1443) | [Ionarimic](ModeIonarimic.md) | G | G, Ab, B#, C##, D#, E#, G | ![GNaturalIonarimic](ModeGNaturalIonarimic.png) |
 | [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeDyrimic.md) | Ab | Ab, B#, C##, D#, E#, F##, Ab | ![AFlatDyrimic](ModeAFlatDyrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [429](https://ianring.com/musictheory/scales/429) | [Koptimic](ModeKoptimic.md) | C | C, D, Eb, F, G, Ab, C | ![CNaturalKoptimic](CircleModeCNaturalKoptimic.png) |
+| [1131](https://ianring.com/musictheory/scales/1131) | [Thocrimic](ModeThocrimic.md) | D | D, Eb, F, G, Ab, B#, D | ![DNaturalThocrimic](CircleModeDNaturalThocrimic.png) |
+| [2613](https://ianring.com/musictheory/scales/2613) | [Aeolanimic](ModeAeolanimic.md) | Eb | Eb, F, G, Ab, B#, C##, Eb | ![EFlatAeolanimic](CircleModeEFlatAeolanimic.png) |
+| [1677](https://ianring.com/musictheory/scales/1677) | [Danimic](ModeDanimic.md) | F | F, G, Ab, B#, C##, D#, F | ![FNaturalDanimic](CircleModeFNaturalDanimic.png) |
+| [1443](https://ianring.com/musictheory/scales/1443) | [Ionarimic](ModeIonarimic.md) | G | G, Ab, B#, C##, D#, E#, G | ![GNaturalIonarimic](CircleModeGNaturalIonarimic.png) |
+| [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeDyrimic.md) | Ab | Ab, B#, C##, D#, E#, F##, Ab | ![AFlatDyrimic](CircleModeAFlatDyrimic.png) |
 
 ## Chords
 

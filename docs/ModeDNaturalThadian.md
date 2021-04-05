@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ D
 
 ![DNaturalThadian](ModeDNaturalThadian.png)
 
+## Diagram
+
+![DNaturalThadian](CircleModeDNaturalThadian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3985](https://ianring.com/musictheory/scales/3985) | [Thadian](ModeThadian.md) | D | D, E##, Cbbb, Cbb, Dbbb, Dbb, Ebbb, D | ![DNaturalThadian](ModeDNaturalThadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3985](https://ianring.com/musictheory/scales/3985) | [Thadian](ModeThadian.md) | D | D, E##, Cbbb, Cbb, Dbbb, Dbb, Ebbb, D | ![DNaturalThadian](CircleModeDNaturalThadian.png) |
 
 ## Chords
 

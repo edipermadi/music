@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ II, iii
 
 ![ASharpKothimic](ModeASharpKothimic.png)
 
+## Diagram
+
+![ASharpKothimic](CircleModeASharpKothimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [869](https://ianring.com/musictheory/scales/869) | [Kothimic](ModeKothimic.md) | A# | A#, B#, C###, D##, E##, F##, A# | ![ASharpKothimic](ModeASharpKothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [869](https://ianring.com/musictheory/scales/869) | [Kothimic](ModeKothimic.md) | A# | A#, B#, C###, D##, E##, F##, A# | ![ASharpKothimic](CircleModeASharpKothimic.png) |
 
 ## Chords
 

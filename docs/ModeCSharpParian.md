@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ C#
 
 ![CSharpParian](ModeCSharpParian.png)
 
+## Diagram
+
+![CSharpParian](CircleModeCSharpParian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3889](https://ianring.com/musictheory/scales/3889) | [Parian](ModeParian.md) | C# | C#, D###, E##, Cbbb, Cbb, Dbbb, Dbb, C# | ![CSharpParian](ModeCSharpParian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3889](https://ianring.com/musictheory/scales/3889) | [Parian](ModeParian.md) | C# | C#, D###, E##, Cbbb, Cbb, Dbbb, Dbb, C# | ![CSharpParian](CircleModeCSharpParian.png) |
 
 ## Chords
 

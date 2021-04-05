@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ iii
 
 ![GNaturalKanimic](ModeGNaturalKanimic.png)
 
+## Diagram
+
+![GNaturalKanimic](CircleModeGNaturalKanimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ iii
 | [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | G | G, A##, B#, C#, D#, E##, G | ![GNaturalKanimic](ModeGNaturalKanimic.png) |
 | [3173](https://ianring.com/musictheory/scales/3173) | [Zarimic](ModeZarimic.md) | C# | C#, D#, E##, F##, Cb, Dbb, C# | ![CSharpZarimic](ModeCSharpZarimic.png) |
 | [1817](https://ianring.com/musictheory/scales/1817) | [Phrythimic](ModePhrythimic.md) | D# | D#, E##, F##, Cb, Dbb, Ebbb, D# | ![DSharpPhrythimic](ModeDSharpPhrythimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | G | G, A##, B#, C#, D#, E##, G | ![GNaturalKanimic](CircleModeGNaturalKanimic.png) |
+| [3173](https://ianring.com/musictheory/scales/3173) | [Zarimic](ModeZarimic.md) | C# | C#, D#, E##, F##, Cb, Dbb, C# | ![CSharpZarimic](CircleModeCSharpZarimic.png) |
+| [1817](https://ianring.com/musictheory/scales/1817) | [Phrythimic](ModePhrythimic.md) | D# | D#, E##, F##, Cb, Dbb, Ebbb, D# | ![DSharpPhrythimic](CircleModeDSharpPhrythimic.png) |
 
 ## Chords
 

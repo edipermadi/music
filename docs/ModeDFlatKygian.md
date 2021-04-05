@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ vii⁰
 
 ![DFlatKygian](ModeDFlatKygian.png)
 
+## Diagram
+
+![DFlatKygian](CircleModeDFlatKygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ vii⁰
 | [431](https://ianring.com/musictheory/scales/431) | [Epyrian](ModeEpyrian.md) | A# | A#, B, C, Db, Eb, F, Gb, A# | ![ASharpEpyrian](ModeASharpEpyrian.png) |
 | [2263](https://ianring.com/musictheory/scales/2263) | [Lycrian](ModeLycrian.md) | B | B, C, Db, Eb, F, Gb, A#, B | ![BNaturalLycrian](ModeBNaturalLycrian.png) |
 | [3179](https://ianring.com/musictheory/scales/3179) | [Daptian](ModeDaptian.md) | C | C, Db, Eb, F, Gb, A#, B, C | ![CNaturalDaptian](ModeCNaturalDaptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3637](https://ianring.com/musictheory/scales/3637) | [Kygian](ModeKygian.md) | Db | Db, Eb, F, Gb, A#, B, C, Db | ![DFlatKygian](CircleModeDFlatKygian.png) |
+| [1933](https://ianring.com/musictheory/scales/1933) | [Mocrian](ModeMocrian.md) | Eb | Eb, F, Gb, A#, B, C, Db, Eb | ![EFlatMocrian](CircleModeEFlatMocrian.png) |
+| [1507](https://ianring.com/musictheory/scales/1507) | [Zynian](ModeZynian.md) | F | F, Gb, A#, B, C, Db, Eb, F | ![FNaturalZynian](CircleModeFNaturalZynian.png) |
+| [2801](https://ianring.com/musictheory/scales/2801) | [Zogian](ModeZogian.md) | Gb | Gb, A#, B, C, Db, Eb, F, Gb | ![GFlatZogian](CircleModeGFlatZogian.png) |
+| [431](https://ianring.com/musictheory/scales/431) | [Epyrian](ModeEpyrian.md) | A# | A#, B, C, Db, Eb, F, Gb, A# | ![ASharpEpyrian](CircleModeASharpEpyrian.png) |
+| [2263](https://ianring.com/musictheory/scales/2263) | [Lycrian](ModeLycrian.md) | B | B, C, Db, Eb, F, Gb, A#, B | ![BNaturalLycrian](CircleModeBNaturalLycrian.png) |
+| [3179](https://ianring.com/musictheory/scales/3179) | [Daptian](ModeDaptian.md) | C | C, Db, Eb, F, Gb, A#, B, C | ![CNaturalDaptian](CircleModeCNaturalDaptian.png) |
 
 ## Chords
 

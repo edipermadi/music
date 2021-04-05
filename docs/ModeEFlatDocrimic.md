@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, III⁺, V⁺
 
 ![EFlatDocrimic](ModeEFlatDocrimic.png)
 
+## Diagram
+
+![EFlatDocrimic](CircleModeEFlatDocrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,15 @@ I⁺, III⁺, V⁺
 | [2451](https://ianring.com/musictheory/scales/2451) | [Aerynimic](ModeAerynimic.md) | G | G, Ab, B, C##, D#, E##, G | ![GNaturalAerynimic](ModeGNaturalAerynimic.png) |
 | [3273](https://ianring.com/musictheory/scales/3273) | [Ionodimic](ModeIonodimic.md) | Ab | Ab, B, C##, D#, E##, F##, Ab | ![AFlatIonodimic](ModeAFlatIonodimic.png) |
 | [921](https://ianring.com/musictheory/scales/921) | [Bogimic](ModeBogimic.md) | B | B, C##, D#, E##, F##, G#, B | ![BNaturalBogimic](ModeBNaturalBogimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2361](https://ianring.com/musictheory/scales/2361) | [Docrimic](ModeDocrimic.md) | Eb | Eb, F#, G, Ab, B, C##, Eb | ![EFlatDocrimic](CircleModeEFlatDocrimic.png) |
+| [807](https://ianring.com/musictheory/scales/807) | [Epadimic](ModeEpadimic.md) | F# | F#, G, Ab, B, C##, D#, F# | ![FSharpEpadimic](CircleModeFSharpEpadimic.png) |
+| [2451](https://ianring.com/musictheory/scales/2451) | [Aerynimic](ModeAerynimic.md) | G | G, Ab, B, C##, D#, E##, G | ![GNaturalAerynimic](CircleModeGNaturalAerynimic.png) |
+| [3273](https://ianring.com/musictheory/scales/3273) | [Ionodimic](ModeIonodimic.md) | Ab | Ab, B, C##, D#, E##, F##, Ab | ![AFlatIonodimic](CircleModeAFlatIonodimic.png) |
+| [921](https://ianring.com/musictheory/scales/921) | [Bogimic](ModeBogimic.md) | B | B, C##, D#, E##, F##, G#, B | ![BNaturalBogimic](CircleModeBNaturalBogimic.png) |
 
 ## Chords
 

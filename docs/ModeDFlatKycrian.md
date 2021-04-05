@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii, IV⁺, VI, vii⁰
 
 ![DFlatKycrian](ModeDFlatKycrian.png)
 
+## Diagram
+
+![DFlatKycrian](CircleModeDFlatKycrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1339](https://ianring.com/musictheory/scales/1339) | [Kycrian](ModeKycrian.md) | Db | Db, Ebb, Fb, Gbb, Abbb, Bbb, Cb, Db | ![DFlatKycrian](ModeDFlatKycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1339](https://ianring.com/musictheory/scales/1339) | [Kycrian](ModeKycrian.md) | Db | Db, Ebb, Fb, Gbb, Abbb, Bbb, Cb, Db | ![DFlatKycrian](CircleModeDFlatKycrian.png) |
 
 ## Chords
 

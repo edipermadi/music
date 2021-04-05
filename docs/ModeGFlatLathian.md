@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ i⁰, iii, V⁺
 
 ![GFlatLathian](ModeGFlatLathian.png)
 
+## Diagram
+
+![GFlatLathian](CircleModeGFlatLathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1245](https://ianring.com/musictheory/scales/1245) | [Lathian](ModeLathian.md) | Gb | Gb, Ab, Bbb, Cbb, Dbb, Ebbb, Fb, Gb | ![GFlatLathian](ModeGFlatLathian.png) |
 | [1335](https://ianring.com/musictheory/scales/1335) | [Aeralian](ModeAeralian.md) | Ab | Ab, Bbb, Cbb, Dbb, Ebbb, Fb, Gb, Ab | ![AFlatAeralian](ModeAFlatAeralian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1245](https://ianring.com/musictheory/scales/1245) | [Lathian](ModeLathian.md) | Gb | Gb, Ab, Bbb, Cbb, Dbb, Ebbb, Fb, Gb | ![GFlatLathian](CircleModeGFlatLathian.png) |
+| [1335](https://ianring.com/musictheory/scales/1335) | [Aeralian](ModeAeralian.md) | Ab | Ab, Bbb, Cbb, Dbb, Ebbb, Fb, Gb, Ab | ![AFlatAeralian](CircleModeAFlatAeralian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -53,6 +53,10 @@ i, vi⁰, vii⁰, viii
 
 ![ENaturalGyptyllic](ModeENaturalGyptyllic.png)
 
+## Diagram
+
+![ENaturalGyptyllic](CircleModeENaturalGyptyllic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -65,6 +69,18 @@ i, vi⁰, vii⁰, viii
 | [3291](https://ianring.com/musictheory/scales/3291) | [Kodyllic](ModeKodyllic.md) | C | C, C#, D#, E, F#, G, A#, B, C | ![CNaturalKodyllic](ModeCNaturalKodyllic.png) |
 | [3693](https://ianring.com/musictheory/scales/3693) | [Epaptyllic](ModeEpaptyllic.md) | C# | C#, D#, E, F#, G, A#, B, C, C# | ![CSharpEpaptyllic](ModeCSharpEpaptyllic.png) |
 | [1947](https://ianring.com/musictheory/scales/1947) | [Ionoyllic](ModeIonoyllic.md) | D# | D#, E, F#, G, A#, B, C, C#, D# | ![DSharpIonoyllic](ModeDSharpIonoyllic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3021](https://ianring.com/musictheory/scales/3021) | [Gyptyllic](ModeGyptyllic.md) | E | E, F#, G, A#, B, C, C#, D#, E | ![ENaturalGyptyllic](CircleModeENaturalGyptyllic.png) |
+| [1779](https://ianring.com/musictheory/scales/1779) | [Aerythyllic](ModeAerythyllic.md) | F# | F#, G, A#, B, C, C#, D#, E, F# | ![FSharpAerythyllic](CircleModeFSharpAerythyllic.png) |
+| [2937](https://ianring.com/musictheory/scales/2937) | [Aeolathyllic](ModeAeolathyllic.md) | G | G, A#, B, C, C#, D#, E, F#, G | ![GNaturalAeolathyllic](CircleModeGNaturalAeolathyllic.png) |
+| [879](https://ianring.com/musictheory/scales/879) | [Aeolocryllic](ModeAeolocryllic.md) | A# | A#, B, C, C#, D#, E, F#, G, A# | ![ASharpAeolocryllic](CircleModeASharpAeolocryllic.png) |
+| [2487](https://ianring.com/musictheory/scales/2487) | [Phroptyllic](ModePhroptyllic.md) | B | B, C, C#, D#, E, F#, G, A#, B | ![BNaturalPhroptyllic](CircleModeBNaturalPhroptyllic.png) |
+| [3291](https://ianring.com/musictheory/scales/3291) | [Kodyllic](ModeKodyllic.md) | C | C, C#, D#, E, F#, G, A#, B, C | ![CNaturalKodyllic](CircleModeCNaturalKodyllic.png) |
+| [3693](https://ianring.com/musictheory/scales/3693) | [Epaptyllic](ModeEpaptyllic.md) | C# | C#, D#, E, F#, G, A#, B, C, C# | ![CSharpEpaptyllic](CircleModeCSharpEpaptyllic.png) |
+| [1947](https://ianring.com/musictheory/scales/1947) | [Ionoyllic](ModeIonoyllic.md) | D# | D#, E, F#, G, A#, B, C, C#, D# | ![DSharpIonoyllic](CircleModeDSharpIonoyllic.png) |
 
 ## Chords
 

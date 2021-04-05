@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ iv⁰
 
 ![ASharpZogian](ModeASharpZogian.png)
 
+## Diagram
+
+![ASharpZogian](CircleModeASharpZogian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2801](https://ianring.com/musictheory/scales/2801) | [Zogian](ModeZogian.md) | A# | A#, B###, C###, D##, E#, F##, G##, A# | ![ASharpZogian](ModeASharpZogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2801](https://ianring.com/musictheory/scales/2801) | [Zogian](ModeZogian.md) | A# | A#, B###, C###, D##, E#, F##, G##, A# | ![ASharpZogian](CircleModeASharpZogian.png) |
 
 ## Chords
 

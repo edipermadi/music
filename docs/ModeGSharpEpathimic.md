@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ II, iii
 
 ![GSharpEpathimic](ModeGSharpEpathimic.png)
 
+## Diagram
+
+![GSharpEpathimic](CircleModeGSharpEpathimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | G# | G#, A##, B##, C###, D##, E##, G# | ![GSharpEpathimic](ModeGSharpEpathimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | G# | G#, A##, B##, C###, D##, E##, G# | ![GSharpEpathimic](CircleModeGSharpEpathimic.png) |
 
 ## Chords
 

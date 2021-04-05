@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ IV⁺, VI
 
 ![AFlatLygian](ModeAFlatLygian.png)
 
+## Diagram
+
+![AFlatLygian](CircleModeAFlatLygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [829](https://ianring.com/musictheory/scales/829) | [Lygian](ModeLygian.md) | Ab | Ab, Bb, Cb, Dbb, Ebbb, Fb, Gbb, Ab | ![AFlatLygian](ModeAFlatLygian.png) |
 | [1231](https://ianring.com/musictheory/scales/1231) | [Logian](ModeLogian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fb, Gbb, Ab, Bb | ![BFlatLogian](ModeBFlatLogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [829](https://ianring.com/musictheory/scales/829) | [Lygian](ModeLygian.md) | Ab | Ab, Bb, Cb, Dbb, Ebbb, Fb, Gbb, Ab | ![AFlatLygian](CircleModeAFlatLygian.png) |
+| [1231](https://ianring.com/musictheory/scales/1231) | [Logian](ModeLogian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fb, Gbb, Ab, Bb | ![BFlatLogian](CircleModeBFlatLogian.png) |
 
 ## Chords
 

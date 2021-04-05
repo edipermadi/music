@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ ii, IV, v⁰, vi⁰, vii⁰
 
 ![AFlatKatothian](ModeAFlatKatothian.png)
 
+## Diagram
+
+![AFlatKatothian](CircleModeAFlatKatothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ ii, IV, v⁰, vi⁰, vii⁰
 | [731](https://ianring.com/musictheory/scales/731) | [Ionorian](ModeIonorian.md) | E | E, F, G, Ab, Bb, Cb, Db, E | ![ENaturalIonorian](ModeENaturalIonorian.png) |
 | [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | F | F, G, Ab, Bb, Cb, Db, E, F | ![FNaturalPhrydian](ModeFNaturalPhrydian.png) |
 | [1627](https://ianring.com/musictheory/scales/1627) | [Zyptian](ModeZyptian.md) | G | G, Ab, Bb, Cb, Db, E, F, G | ![GNaturalZyptian](ModeGNaturalZyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2861](https://ianring.com/musictheory/scales/2861) | [Katothian](ModeKatothian.md) | Ab | Ab, Bb, Cb, Db, E, F, G, Ab | ![AFlatKatothian](CircleModeAFlatKatothian.png) |
+| [1739](https://ianring.com/musictheory/scales/1739) | [Phrylian](ModePhrylian.md) | Bb | Bb, Cb, Db, E, F, G, Ab, Bb | ![BFlatPhrylian](CircleModeBFlatPhrylian.png) |
+| [1753](https://ianring.com/musictheory/scales/1753) | [Mycrian](ModeMycrian.md) | Db | Db, E, F, G, Ab, Bb, Cb, Db | ![DFlatMycrian](CircleModeDFlatMycrian.png) |
+| [731](https://ianring.com/musictheory/scales/731) | [Ionorian](ModeIonorian.md) | E | E, F, G, Ab, Bb, Cb, Db, E | ![ENaturalIonorian](CircleModeENaturalIonorian.png) |
+| [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | F | F, G, Ab, Bb, Cb, Db, E, F | ![FNaturalPhrydian](CircleModeFNaturalPhrydian.png) |
+| [1627](https://ianring.com/musictheory/scales/1627) | [Zyptian](ModeZyptian.md) | G | G, Ab, Bb, Cb, Db, E, F, G | ![GNaturalZyptian](CircleModeGNaturalZyptian.png) |
 
 ## Chords
 

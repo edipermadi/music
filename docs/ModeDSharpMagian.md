@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ D#
 
 ![DSharpMagian](ModeDSharpMagian.png)
 
+## Diagram
+
+![DSharpMagian](CircleModeDSharpMagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ D#
 | [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | Ab | Ab, Bb, C#, D#, E, F, Gb, Ab | ![AFlatPyrian](ModeAFlatPyrian.png) |
 | [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | Bb | Bb, C#, D#, E, F, Gb, Ab, Bb | ![BFlatStathian](ModeBFlatStathian.png) |
 | [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | C# | C#, D#, E, F, Gb, Ab, Bb, C# | ![CSharpMixonyphian](ModeCSharpMixonyphian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | D# | D#, E, F, Gb, Ab, Bb, C#, D# | ![DSharpMagian](CircleModeDSharpMagian.png) |
+| [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | E | E, F, Gb, Ab, Bb, C#, D#, E | ![ENaturalDadian](CircleModeENaturalDadian.png) |
+| [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | F | F, Gb, Ab, Bb, C#, D#, E, F | ![FNaturalAeolylian](CircleModeFNaturalAeolylian.png) |
+| [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | Gb | Gb, Ab, Bb, C#, D#, E, F, Gb | ![GFlatGycrian](CircleModeGFlatGycrian.png) |
+| [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | Ab | Ab, Bb, C#, D#, E, F, Gb, Ab | ![AFlatPyrian](CircleModeAFlatPyrian.png) |
+| [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | Bb | Bb, C#, D#, E, F, Gb, Ab, Bb | ![BFlatStathian](CircleModeBFlatStathian.png) |
+| [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | C# | C#, D#, E, F, Gb, Ab, Bb, C# | ![CSharpMixonyphian](CircleModeCSharpMixonyphian.png) |
 
 ## Chords
 

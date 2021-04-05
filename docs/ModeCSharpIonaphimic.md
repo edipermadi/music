@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ C#
 
 ![CSharpIonaphimic](ModeCSharpIonaphimic.png)
 
+## Diagram
+
+![CSharpIonaphimic](CircleModeCSharpIonaphimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3219](https://ianring.com/musictheory/scales/3219) | [Ionaphimic](ModeIonaphimic.md) | C# | C#, D, E#, F###, Cb, Dbb, C# | ![CSharpIonaphimic](ModeCSharpIonaphimic.png) |
 | [3657](https://ianring.com/musictheory/scales/3657) | [Epynimic](ModeEpynimic.md) | D | D, E#, F###, Cb, Dbb, Ebbb, D | ![DNaturalEpynimic](ModeDNaturalEpynimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3219](https://ianring.com/musictheory/scales/3219) | [Ionaphimic](ModeIonaphimic.md) | C# | C#, D, E#, F###, Cb, Dbb, C# | ![CSharpIonaphimic](CircleModeCSharpIonaphimic.png) |
+| [3657](https://ianring.com/musictheory/scales/3657) | [Epynimic](ModeEpynimic.md) | D | D, E#, F###, Cb, Dbb, Ebbb, D | ![DNaturalEpynimic](CircleModeDNaturalEpynimic.png) |
 
 ## Chords
 

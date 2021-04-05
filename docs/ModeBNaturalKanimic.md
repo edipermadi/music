@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ iii
 
 ![BNaturalKanimic](ModeBNaturalKanimic.png)
 
+## Diagram
+
+![BNaturalKanimic](CircleModeBNaturalKanimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | B | B, C###, D##, E#, F##, G###, B | ![BNaturalKanimic](ModeBNaturalKanimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | B | B, C###, D##, E#, F##, G###, B | ![BNaturalKanimic](CircleModeBNaturalKanimic.png) |
 
 ## Chords
 

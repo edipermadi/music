@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, II⁺, iii⁰, IV, v⁰, vi, vii
 
 ![EFlatAeronian](ModeEFlatAeronian.png)
 
+## Diagram
+
+![EFlatAeronian](CircleModeEFlatAeronian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I, II⁺, iii⁰, IV, v⁰, vi, vii
 | [1645](https://ianring.com/musictheory/scales/1645) | [Katagian](ModeKatagian.md) | Bb | Bb, C, Db, Eb, Fb, G, Ab, Bb | ![BFlatKatagian](ModeBFlatKatagian.png) |
 | [1435](https://ianring.com/musictheory/scales/1435) | [Phronian](ModePhronian.md) | C | C, Db, Eb, Fb, G, Ab, Bb, C | ![CNaturalPhronian](ModeCNaturalPhronian.png) |
 | [2765](https://ianring.com/musictheory/scales/2765) | [Banian](ModeBanian.md) | Db | Db, Eb, Fb, G, Ab, Bb, C, Db | ![DFlatBanian](ModeDFlatBanian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1715](https://ianring.com/musictheory/scales/1715) | [Aeronian](ModeAeronian.md) | Eb | Eb, Fb, G, Ab, Bb, C, Db, Eb | ![EFlatAeronian](CircleModeEFlatAeronian.png) |
+| [875](https://ianring.com/musictheory/scales/875) | [Stothian](ModeStothian.md) | G | G, Ab, Bb, C, Db, Eb, Fb, G | ![GNaturalStothian](CircleModeGNaturalStothian.png) |
+| [2485](https://ianring.com/musictheory/scales/2485) | [Aerorian](ModeAerorian.md) | Ab | Ab, Bb, C, Db, Eb, Fb, G, Ab | ![AFlatAerorian](CircleModeAFlatAerorian.png) |
+| [1645](https://ianring.com/musictheory/scales/1645) | [Katagian](ModeKatagian.md) | Bb | Bb, C, Db, Eb, Fb, G, Ab, Bb | ![BFlatKatagian](CircleModeBFlatKatagian.png) |
+| [1435](https://ianring.com/musictheory/scales/1435) | [Phronian](ModePhronian.md) | C | C, Db, Eb, Fb, G, Ab, Bb, C | ![CNaturalPhronian](CircleModeCNaturalPhronian.png) |
+| [2765](https://ianring.com/musictheory/scales/2765) | [Banian](ModeBanian.md) | Db | Db, Eb, Fb, G, Ab, Bb, C, Db | ![DFlatBanian](CircleModeDFlatBanian.png) |
 
 ## Chords
 

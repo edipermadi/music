@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ Eb
 
 ![EFlatKatorian](ModeEFlatKatorian.png)
 
+## Diagram
+
+![EFlatKatorian](CircleModeEFlatKatorian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2383](https://ianring.com/musictheory/scales/2383) | [Katorian](ModeKatorian.md) | Eb | Eb, Fb, Gbb, Abbb, Bbb, Cb, D, Eb | ![EFlatKatorian](ModeEFlatKatorian.png) |
 | [671](https://ianring.com/musictheory/scales/671) | [Stycrian](ModeStycrian.md) | D | D, Eb, Fb, Gbb, Abbb, Bbb, Cb, D | ![DNaturalStycrian](ModeDNaturalStycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2383](https://ianring.com/musictheory/scales/2383) | [Katorian](ModeKatorian.md) | Eb | Eb, Fb, Gbb, Abbb, Bbb, Cb, D, Eb | ![EFlatKatorian](CircleModeEFlatKatorian.png) |
+| [671](https://ianring.com/musictheory/scales/671) | [Stycrian](ModeStycrian.md) | D | D, Eb, Fb, Gbb, Abbb, Bbb, Cb, D | ![DNaturalStycrian](CircleModeDNaturalStycrian.png) |
 
 ## Chords
 

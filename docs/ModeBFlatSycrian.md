@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ iii, V⁺
 
 ![BFlatSycrian](ModeBFlatSycrian.png)
 
+## Diagram
+
+![BFlatSycrian](CircleModeBFlatSycrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [623](https://ianring.com/musictheory/scales/623) | [Sycrian](ModeSycrian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fbb, Gbbb, Abb, Bb | ![BFlatSycrian](ModeBFlatSycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [623](https://ianring.com/musictheory/scales/623) | [Sycrian](ModeSycrian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fbb, Gbbb, Abb, Bb | ![BFlatSycrian](CircleModeBFlatSycrian.png) |
 
 ## Chords
 

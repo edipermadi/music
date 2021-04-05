@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺, VI
 
 ![GNaturalIonyphian](ModeGNaturalIonyphian.png)
 
+## Diagram
+
+![GNaturalIonyphian](CircleModeGNaturalIonyphian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i, III⁺, VI
 | [2419](https://ianring.com/musictheory/scales/2419) | [Paptian](ModePaptian.md) | D | D, Eb, F#, G, Ab, Bb, C#, D | ![DNaturalPaptian](ModeDNaturalPaptian.png) |
 | [3257](https://ianring.com/musictheory/scales/3257) | [Ionacrian](ModeIonacrian.md) | Eb | Eb, F#, G, Ab, Bb, C#, D, Eb | ![EFlatIonacrian](ModeEFlatIonacrian.png) |
 | [919](https://ianring.com/musictheory/scales/919) | [Gathian](ModeGathian.md) | F# | F#, G, Ab, Bb, C#, D, Eb, F# | ![FSharpGathian](ModeFSharpGathian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2507](https://ianring.com/musictheory/scales/2507) | [Ionyphian](ModeIonyphian.md) | G | G, Ab, Bb, C#, D, Eb, F#, G | ![GNaturalIonyphian](CircleModeGNaturalIonyphian.png) |
+| [3301](https://ianring.com/musictheory/scales/3301) | [Phrynian](ModePhrynian.md) | Ab | Ab, Bb, C#, D, Eb, F#, G, Ab | ![AFlatPhrynian](CircleModeAFlatPhrynian.png) |
+| [1849](https://ianring.com/musictheory/scales/1849) | [Epogian](ModeEpogian.md) | Bb | Bb, C#, D, Eb, F#, G, Ab, Bb | ![BFlatEpogian](CircleModeBFlatEpogian.png) |
+| [743](https://ianring.com/musictheory/scales/743) | [Lanian](ModeLanian.md) | C# | C#, D, Eb, F#, G, Ab, Bb, C# | ![CSharpLanian](CircleModeCSharpLanian.png) |
+| [2419](https://ianring.com/musictheory/scales/2419) | [Paptian](ModePaptian.md) | D | D, Eb, F#, G, Ab, Bb, C#, D | ![DNaturalPaptian](CircleModeDNaturalPaptian.png) |
+| [3257](https://ianring.com/musictheory/scales/3257) | [Ionacrian](ModeIonacrian.md) | Eb | Eb, F#, G, Ab, Bb, C#, D, Eb | ![EFlatIonacrian](CircleModeEFlatIonacrian.png) |
+| [919](https://ianring.com/musictheory/scales/919) | [Gathian](ModeGathian.md) | F# | F#, G, Ab, Bb, C#, D, Eb, F# | ![FSharpGathian](CircleModeFSharpGathian.png) |
 
 ## Chords
 

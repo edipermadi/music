@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ ii⁰, iii⁰
 
 ![EFlatStygian](ModeEFlatStygian.png)
 
+## Diagram
+
+![EFlatStygian](CircleModeEFlatStygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ ii⁰, iii⁰
 | [2845](https://ianring.com/musictheory/scales/2845) | [Baptian](ModeBaptian.md) | B | B, C#, D, Eb, F##, G#, A#, B | ![BNaturalBaptian](ModeBNaturalBaptian.png) |
 | [1735](https://ianring.com/musictheory/scales/1735) | [Dagian](ModeDagian.md) | C# | C#, D, Eb, F##, G#, A#, B, C# | ![CSharpDagian](ModeCSharpDagian.png) |
 | [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | D | D, Eb, F##, G#, A#, B, C#, D | ![DNaturalAeolydian](ModeDNaturalAeolydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3505](https://ianring.com/musictheory/scales/3505) | [Stygian](ModeStygian.md) | Eb | Eb, F##, G#, A#, B, C#, D, Eb | ![EFlatStygian](CircleModeEFlatStygian.png) |
+| [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | G# | G#, A#, B, C#, D, Eb, F##, G# | ![GSharpAerogian](CircleModeGSharpAerogian.png) |
+| [1595](https://ianring.com/musictheory/scales/1595) | [Dacrian](ModeDacrian.md) | A# | A#, B, C#, D, Eb, F##, G#, A# | ![ASharpDacrian](CircleModeASharpDacrian.png) |
+| [2845](https://ianring.com/musictheory/scales/2845) | [Baptian](ModeBaptian.md) | B | B, C#, D, Eb, F##, G#, A#, B | ![BNaturalBaptian](CircleModeBNaturalBaptian.png) |
+| [1735](https://ianring.com/musictheory/scales/1735) | [Dagian](ModeDagian.md) | C# | C#, D, Eb, F##, G#, A#, B, C# | ![CSharpDagian](CircleModeCSharpDagian.png) |
+| [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | D | D, Eb, F##, G#, A#, B, C#, D | ![DNaturalAeolydian](CircleModeDNaturalAeolydian.png) |
 
 ## Chords
 

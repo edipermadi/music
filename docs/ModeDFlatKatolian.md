@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ Db
 
 ![DFlatKatolian](ModeDFlatKatolian.png)
 
+## Diagram
+
+![DFlatKatolian](CircleModeDFlatKatolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1135](https://ianring.com/musictheory/scales/1135) | [Katolian](ModeKatolian.md) | Db | Db, Ebb, Fbb, Gbbb, Abbb, E###, Cb, Db | ![DFlatKatolian](ModeDFlatKatolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1135](https://ianring.com/musictheory/scales/1135) | [Katolian](ModeKatolian.md) | Db | Db, Ebb, Fbb, Gbbb, Abbb, E###, Cb, Db | ![DFlatKatolian](CircleModeDFlatKatolian.png) |
 
 ## Chords
 

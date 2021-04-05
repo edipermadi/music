@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ Db
 
 ![DFlatLynimic](ModeDFlatLynimic.png)
 
+## Diagram
+
+![DFlatLynimic](CircleModeDFlatLynimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1103](https://ianring.com/musictheory/scales/1103) | [Lynimic](ModeLynimic.md) | Db | Db, Ebb, Fbb, Gbbb, Abb, B, Db | ![DFlatLynimic](ModeDFlatLynimic.png) |
 | [317](https://ianring.com/musictheory/scales/317) | [Korimic](ModeKorimic.md) | B | B, C#, D, Eb, Fb, G, B | ![BNaturalKorimic](ModeBNaturalKorimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1103](https://ianring.com/musictheory/scales/1103) | [Lynimic](ModeLynimic.md) | Db | Db, Ebb, Fbb, Gbbb, Abb, B, Db | ![DFlatLynimic](CircleModeDFlatLynimic.png) |
+| [317](https://ianring.com/musictheory/scales/317) | [Korimic](ModeKorimic.md) | B | B, C#, D, Eb, Fb, G, B | ![BNaturalKorimic](CircleModeBNaturalKorimic.png) |
 
 ## Chords
 

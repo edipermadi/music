@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ IV
 
 ![ENaturalThatimic](ModeENaturalThatimic.png)
 
+## Diagram
+
+![ENaturalThatimic](CircleModeENaturalThatimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3237](https://ianring.com/musictheory/scales/3237) | [Thatimic](ModeThatimic.md) | E | E, F#, G##, A##, B###, C###, E | ![ENaturalThatimic](ModeENaturalThatimic.png) |
 | [1833](https://ianring.com/musictheory/scales/1833) | [Ionacrimic](ModeIonacrimic.md) | F# | F#, G##, A##, B###, C###, D##, F# | ![FSharpIonacrimic](ModeFSharpIonacrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3237](https://ianring.com/musictheory/scales/3237) | [Thatimic](ModeThatimic.md) | E | E, F#, G##, A##, B###, C###, E | ![ENaturalThatimic](CircleModeENaturalThatimic.png) |
+| [1833](https://ianring.com/musictheory/scales/1833) | [Ionacrimic](ModeIonacrimic.md) | F# | F#, G##, A##, B###, C###, D##, F# | ![FSharpIonacrimic](CircleModeFSharpIonacrimic.png) |
 
 ## Chords
 

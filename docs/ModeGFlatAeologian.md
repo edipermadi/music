@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ i⁰, iii⁰
 
 ![GFlatAeologian](ModeGFlatAeologian.png)
 
+## Diagram
+
+![GFlatAeologian](CircleModeGFlatAeologian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | Gb | Gb, Ab, Bbb, Cb, Dbb, Ebbb, Fbb, Gb | ![GFlatAeologian](ModeGFlatAeologian.png) |
 | [1211](https://ianring.com/musictheory/scales/1211) | [Zadian](ModeZadian.md) | Ab | Ab, Bbb, Cb, Dbb, Ebbb, Fbb, Gb, Ab | ![AFlatZadian](ModeAFlatZadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | Gb | Gb, Ab, Bbb, Cb, Dbb, Ebbb, Fbb, Gb | ![GFlatAeologian](CircleModeGFlatAeologian.png) |
+| [1211](https://ianring.com/musictheory/scales/1211) | [Zadian](ModeZadian.md) | Ab | Ab, Bbb, Cb, Dbb, Ebbb, Fbb, Gb, Ab | ![AFlatZadian](CircleModeAFlatZadian.png) |
 
 ## Chords
 

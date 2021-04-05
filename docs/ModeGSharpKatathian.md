@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ I⁺, II, III, v, VII⁺
 
 ![GSharpKatathian](ModeGSharpKatathian.png)
 
+## Diagram
+
+![GSharpKatathian](CircleModeGSharpKatathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3481](https://ianring.com/musictheory/scales/3481) | [Katathian](ModeKatathian.md) | G# | G#, A##, B#, C###, D##, E##, F##, G# | ![GSharpKatathian](ModeGSharpKatathian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3481](https://ianring.com/musictheory/scales/3481) | [Katathian](ModeKatathian.md) | G# | G#, A##, B#, C###, D##, E##, F##, G# | ![GSharpKatathian](CircleModeGSharpKatathian.png) |
 
 ## Chords
 

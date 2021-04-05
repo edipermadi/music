@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ v⁰
 
 ![DFlatGocrimic](ModeDFlatGocrimic.png)
 
+## Diagram
+
+![DFlatGocrimic](CircleModeDFlatGocrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ v⁰
 | [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | Db | Db, Ebb, Fb, G, A#, B#, Db | ![DFlatGocrimic](ModeDFlatGocrimic.png) |
 | [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | G | G, A#, B#, C#, D, E, G | ![GNaturalKolimic](ModeGNaturalKolimic.png) |
 | [605](https://ianring.com/musictheory/scales/605) | [Dycrimic](ModeDycrimic.md) | A# | A#, B#, C#, D, E, F##, A# | ![ASharpDycrimic](ModeASharpDycrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | Db | Db, Ebb, Fb, G, A#, B#, Db | ![DFlatGocrimic](CircleModeDFlatGocrimic.png) |
+| [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | G | G, A#, B#, C#, D, E, G | ![GNaturalKolimic](CircleModeGNaturalKolimic.png) |
+| [605](https://ianring.com/musictheory/scales/605) | [Dycrimic](ModeDycrimic.md) | A# | A#, B#, C#, D, E, F##, A# | ![ASharpDycrimic](CircleModeASharpDycrimic.png) |
 
 ## Chords
 

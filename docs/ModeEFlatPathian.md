@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ i⁰, ii, iii⁰, IV⁺, v, VI, VII
 
 ![EFlatPathian](ModeEFlatPathian.png)
 
+## Diagram
+
+![EFlatPathian](CircleModeEFlatPathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [859](https://ianring.com/musictheory/scales/859) | [Pathian](ModePathian.md) | Eb | Eb, Fb, Gb, Abb, Bbb, Cb, Dbb, Eb | ![EFlatPathian](ModeEFlatPathian.png) |
 | [1643](https://ianring.com/musictheory/scales/1643) | [Thyptian](ModeThyptian.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Eb, Fb, Gb | ![GFlatThyptian](ModeGFlatThyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [859](https://ianring.com/musictheory/scales/859) | [Pathian](ModePathian.md) | Eb | Eb, Fb, Gb, Abb, Bbb, Cb, Dbb, Eb | ![EFlatPathian](CircleModeEFlatPathian.png) |
+| [1643](https://ianring.com/musictheory/scales/1643) | [Thyptian](ModeThyptian.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Eb, Fb, Gb | ![GFlatThyptian](CircleModeGFlatThyptian.png) |
 
 ## Chords
 

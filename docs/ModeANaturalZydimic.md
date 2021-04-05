@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I, II⁺, IV⁺, VI⁺
 
 ![ANaturalZydimic](ModeANaturalZydimic.png)
 
+## Diagram
+
+![ANaturalZydimic](CircleModeANaturalZydimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I, II⁺, IV⁺, VI⁺
 | [2453](https://ianring.com/musictheory/scales/2453) | [Stonimic](ModeStonimic.md) | D | D, E, F#, G##, A#, B##, D | ![DNaturalStonimic](ModeDNaturalStonimic.png) |
 | [1637](https://ianring.com/musictheory/scales/1637) | [Syptimic](ModeSyptimic.md) | E | E, F#, G##, A#, B##, C##, E | ![ENaturalSyptimic](ModeENaturalSyptimic.png) |
 | [1433](https://ianring.com/musictheory/scales/1433) | [Dynimic](ModeDynimic.md) | F# | F#, G##, A#, B##, C##, D##, F# | ![FSharpDynimic](ModeFSharpDynimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [691](https://ianring.com/musictheory/scales/691) | [Zydimic](ModeZydimic.md) | A | A, Bb, C#, D, E, F#, A | ![ANaturalZydimic](CircleModeANaturalZydimic.png) |
+| [2393](https://ianring.com/musictheory/scales/2393) | [Zathimic](ModeZathimic.md) | Bb | Bb, C#, D, E, F#, G##, Bb | ![BFlatZathimic](CircleModeBFlatZathimic.png) |
+| [811](https://ianring.com/musictheory/scales/811) | [Radimic](ModeRadimic.md) | C# | C#, D, E, F#, G##, A#, C# | ![CSharpRadimic](CircleModeCSharpRadimic.png) |
+| [2453](https://ianring.com/musictheory/scales/2453) | [Stonimic](ModeStonimic.md) | D | D, E, F#, G##, A#, B##, D | ![DNaturalStonimic](CircleModeDNaturalStonimic.png) |
+| [1637](https://ianring.com/musictheory/scales/1637) | [Syptimic](ModeSyptimic.md) | E | E, F#, G##, A#, B##, C##, E | ![ENaturalSyptimic](CircleModeENaturalSyptimic.png) |
+| [1433](https://ianring.com/musictheory/scales/1433) | [Dynimic](ModeDynimic.md) | F# | F#, G##, A#, B##, C##, D##, F# | ![FSharpDynimic](CircleModeFSharpDynimic.png) |
 
 ## Chords
 

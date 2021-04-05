@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ i⁰, iii⁰, v, VII⁺
 
 ![GFlatLynian](ModeGFlatLynian.png)
 
+## Diagram
+
+![GFlatLynian](CircleModeGFlatLynian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [747](https://ianring.com/musictheory/scales/747) | [Lynian](ModeLynian.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Ebbb, Fbb, Gb | ![GFlatLynian](ModeGFlatLynian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [747](https://ianring.com/musictheory/scales/747) | [Lynian](ModeLynian.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Ebbb, Fbb, Gb | ![GFlatLynian](CircleModeGFlatLynian.png) |
 
 ## Chords
 

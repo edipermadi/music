@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II, III, iv, v, VII⁺
 
 ![BFlatEpadian](ModeBFlatEpadian.png)
 
+## Diagram
+
+![BFlatEpadian](CircleModeBFlatEpadian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ II, III, iv, v, VII⁺
 | [871](https://ianring.com/musictheory/scales/871) | [Epadian](ModeEpadian.md) | Bb | Bb, Cb, Dbb, Eb, Fb, Gb, Abb, Bb | ![BFlatEpadian](ModeBFlatEpadian.png) |
 | [923](https://ianring.com/musictheory/scales/923) | [Ionodian](ModeIonodian.md) | Eb | Eb, Fb, Gb, Abb, Bb, Cb, Dbb, Eb | ![EFlatIonodian](ModeEFlatIonodian.png) |
 | [1651](https://ianring.com/musictheory/scales/1651) | [Mogian](ModeMogian.md) | Gb | Gb, Abb, Bb, Cb, Dbb, Eb, Fb, Gb | ![GFlatMogian](ModeGFlatMogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [871](https://ianring.com/musictheory/scales/871) | [Epadian](ModeEpadian.md) | Bb | Bb, Cb, Dbb, Eb, Fb, Gb, Abb, Bb | ![BFlatEpadian](CircleModeBFlatEpadian.png) |
+| [923](https://ianring.com/musictheory/scales/923) | [Ionodian](ModeIonodian.md) | Eb | Eb, Fb, Gb, Abb, Bb, Cb, Dbb, Eb | ![EFlatIonodian](CircleModeEFlatIonodian.png) |
+| [1651](https://ianring.com/musictheory/scales/1651) | [Mogian](ModeMogian.md) | Gb | Gb, Abb, Bb, Cb, Dbb, Eb, Fb, Gb | ![GFlatMogian](CircleModeGFlatMogian.png) |
 
 ## Chords
 

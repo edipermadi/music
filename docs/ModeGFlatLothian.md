@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ III⁺, V, vii⁰
 
 ![GFlatLothian](ModeGFlatLothian.png)
 
+## Diagram
+
+![GFlatLothian](CircleModeGFlatLothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | Gb | Gb, Abb, Bbbb, Cbb, Dbb, Eb, Fb, Gb | ![GFlatLothian](ModeGFlatLothian.png) |
 | [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeAerothian.md) | Eb | Eb, Fb, Gb, Abb, Bbbb, Cbb, Dbb, Eb | ![EFlatAerothian](ModeEFlatAerothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | Gb | Gb, Abb, Bbbb, Cbb, Dbb, Eb, Fb, Gb | ![GFlatLothian](CircleModeGFlatLothian.png) |
+| [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeAerothian.md) | Eb | Eb, Fb, Gb, Abb, Bbbb, Cbb, Dbb, Eb | ![EFlatAerothian](CircleModeEFlatAerothian.png) |
 
 ## Chords
 

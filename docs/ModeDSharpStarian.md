@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ D#
 
 ![DSharpStarian](ModeDSharpStarian.png)
 
+## Diagram
+
+![DSharpStarian](CircleModeDSharpStarian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3865](https://ianring.com/musictheory/scales/3865) | [Starian](ModeStarian.md) | D# | D#, E##, F##, Cb, Dbb, Ebbb, Fbbb, D# | ![DSharpStarian](ModeDSharpStarian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3865](https://ianring.com/musictheory/scales/3865) | [Starian](ModeStarian.md) | D# | D#, E##, F##, Cb, Dbb, Ebbb, Fbbb, D# | ![DSharpStarian](CircleModeDSharpStarian.png) |
 
 ## Chords
 

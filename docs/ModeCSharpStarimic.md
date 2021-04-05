@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ C#
 
 ![CSharpStarimic](ModeCSharpStarimic.png)
 
+## Diagram
+
+![CSharpStarimic](CircleModeCSharpStarimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3729](https://ianring.com/musictheory/scales/3729) | [Starimic](ModeStarimic.md) | C# | C#, D###, F###, G###, A##, B#, C# | ![CSharpStarimic](ModeCSharpStarimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3729](https://ianring.com/musictheory/scales/3729) | [Starimic](ModeStarimic.md) | C# | C#, D###, F###, G###, A##, B#, C# | ![CSharpStarimic](CircleModeCSharpStarimic.png) |
 
 ## Chords
 

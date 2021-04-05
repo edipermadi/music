@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II, iv, VII⁺
 
 ![DFlatKatarian](ModeDFlatKatarian.png)
 
+## Diagram
+
+![DFlatKatarian](CircleModeDFlatKatarian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ II, iv, VII⁺
 | [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | Db | Db, Ebb, Fbb, Gb, Ab, Bbb, Cbb, Db | ![DFlatKatarian](ModeDFlatKatarian.png) |
 | [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeMythian.md) | Gb | Gb, Ab, Bbb, Cbb, Db, Ebb, Fbb, Gb | ![GFlatMythian](ModeGFlatMythian.png) |
 | [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeSogian.md) | Ab | Ab, Bbb, Cbb, Db, Ebb, Fbb, Gb, Ab | ![AFlatSogian](ModeAFlatSogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | Db | Db, Ebb, Fbb, Gb, Ab, Bbb, Cbb, Db | ![DFlatKatarian](CircleModeDFlatKatarian.png) |
+| [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeMythian.md) | Gb | Gb, Ab, Bbb, Cbb, Db, Ebb, Fbb, Gb | ![GFlatMythian](CircleModeGFlatMythian.png) |
+| [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeSogian.md) | Ab | Ab, Bbb, Cbb, Db, Ebb, Fbb, Gb, Ab | ![AFlatSogian](CircleModeAFlatSogian.png) |
 
 ## Chords
 

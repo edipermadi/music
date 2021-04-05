@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, II⁺, III⁺, IV⁺, V⁺, VI⁺
 
 ![FNaturalIonythimic](ModeFNaturalIonythimic.png)
 
+## Diagram
+
+![FNaturalIonythimic](CircleModeFNaturalIonythimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,14 @@ I⁺, II⁺, III⁺, IV⁺, V⁺, VI⁺
 | [819](https://ianring.com/musictheory/scales/819) | [Aerythimic](ModeAerythimic.md) | G# | G#, A, B#, C#, D##, E#, G# | ![GSharpAerythimic](ModeGSharpAerythimic.png) |
 | [2457](https://ianring.com/musictheory/scales/2457) | [Ionythimic](ModeIonythimic.md) | A | A, B#, C#, D##, E#, F###, A | ![ANaturalIonythimic](ModeANaturalIonythimic.png) |
 | [2457](https://ianring.com/musictheory/scales/2457) | [Ionythimic](ModeIonythimic.md) | C# | C#, D##, E#, F###, G##, A###, C# | ![CSharpIonythimic](ModeCSharpIonythimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2457](https://ianring.com/musictheory/scales/2457) | [Ionythimic](ModeIonythimic.md) | F | F, G#, A, B#, C#, D##, F | ![FNaturalIonythimic](CircleModeFNaturalIonythimic.png) |
+| [819](https://ianring.com/musictheory/scales/819) | [Aerythimic](ModeAerythimic.md) | G# | G#, A, B#, C#, D##, E#, G# | ![GSharpAerythimic](CircleModeGSharpAerythimic.png) |
+| [2457](https://ianring.com/musictheory/scales/2457) | [Ionythimic](ModeIonythimic.md) | A | A, B#, C#, D##, E#, F###, A | ![ANaturalIonythimic](CircleModeANaturalIonythimic.png) |
+| [2457](https://ianring.com/musictheory/scales/2457) | [Ionythimic](ModeIonythimic.md) | C# | C#, D##, E#, F###, G##, A###, C# | ![CSharpIonythimic](CircleModeCSharpIonythimic.png) |
 
 ## Chords
 

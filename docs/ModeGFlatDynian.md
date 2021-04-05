@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ Gb
 
 ![GFlatDynian](ModeGFlatDynian.png)
 
+## Diagram
+
+![GFlatDynian](CircleModeGFlatDynian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [487](https://ianring.com/musictheory/scales/487) | [Dynian](ModeDynian.md) | Gb | Gb, Abb, Bbbb, Cb, Dbb, Ebbb, Fbbb, Gb | ![GFlatDynian](ModeGFlatDynian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [487](https://ianring.com/musictheory/scales/487) | [Dynian](ModeDynian.md) | Gb | Gb, Abb, Bbbb, Cb, Dbb, Ebbb, Fbbb, Gb | ![GFlatDynian](CircleModeGFlatDynian.png) |
 
 ## Chords
 

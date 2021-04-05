@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ i⁰, ii⁰
 
 ![DFlatAeolygian](ModeDFlatAeolygian.png)
 
+## Diagram
+
+![DFlatAeolygian](CircleModeDFlatAeolygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [475](https://ianring.com/musictheory/scales/475) | [Aeolygian](ModeAeolygian.md) | Db | Db, Ebb, Fb, Gbb, Abb, Bbbb, Cbbb, Db | ![DFlatAeolygian](ModeDFlatAeolygian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [475](https://ianring.com/musictheory/scales/475) | [Aeolygian](ModeAeolygian.md) | Db | Db, Ebb, Fb, Gbb, Abb, Bbbb, Cbbb, Db | ![DFlatAeolygian](CircleModeDFlatAeolygian.png) |
 
 ## Chords
 

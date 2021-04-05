@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii, VII
 
 ![DSharpRanian](ModeDSharpRanian.png)
 
+## Diagram
+
+![DSharpRanian](CircleModeDSharpRanian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3673](https://ianring.com/musictheory/scales/3673) | [Ranian](ModeRanian.md) | D# | D#, E##, F##, G##, A###, B##, C##, D# | ![DSharpRanian](ModeDSharpRanian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3673](https://ianring.com/musictheory/scales/3673) | [Ranian](ModeRanian.md) | D# | D#, E##, F##, G##, A###, B##, C##, D# | ![DSharpRanian](CircleModeDSharpRanian.png) |
 
 ## Chords
 

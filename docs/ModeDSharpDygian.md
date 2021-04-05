@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III, v⁰, VI
 
 ![DSharpDygian](ModeDSharpDygian.png)
 
+## Diagram
+
+![DSharpDygian](CircleModeDSharpDygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, III, v⁰, VI
 | [2411](https://ianring.com/musictheory/scales/2411) | [Aeolorian](ModeAeolorian.md) | A# | A#, B, C#, D#, E, F#, G##, A# | ![ASharpAeolorian](ModeASharpAeolorian.png) |
 | [3253](https://ianring.com/musictheory/scales/3253) | [Gonian](ModeGonian.md) | B | B, C#, D#, E, F#, G##, A#, B | ![BNaturalGonian](ModeBNaturalGonian.png) |
 | [1837](https://ianring.com/musictheory/scales/1837) | [Dalian](ModeDalian.md) | C# | C#, D#, E, F#, G##, A#, B, C# | ![CSharpDalian](ModeCSharpDalian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1483](https://ianring.com/musictheory/scales/1483) | [Dygian](ModeDygian.md) | D# | D#, E, F#, G##, A#, B, C#, D# | ![DSharpDygian](CircleModeDSharpDygian.png) |
+| [2789](https://ianring.com/musictheory/scales/2789) | [Zolian](ModeZolian.md) | E | E, F#, G##, A#, B, C#, D#, E | ![ENaturalZolian](CircleModeENaturalZolian.png) |
+| [1721](https://ianring.com/musictheory/scales/1721) | [Ionycrian](ModeIonycrian.md) | F# | F#, G##, A#, B, C#, D#, E, F# | ![FSharpIonycrian](CircleModeFSharpIonycrian.png) |
+| [2411](https://ianring.com/musictheory/scales/2411) | [Aeolorian](ModeAeolorian.md) | A# | A#, B, C#, D#, E, F#, G##, A# | ![ASharpAeolorian](CircleModeASharpAeolorian.png) |
+| [3253](https://ianring.com/musictheory/scales/3253) | [Gonian](ModeGonian.md) | B | B, C#, D#, E, F#, G##, A#, B | ![BNaturalGonian](CircleModeBNaturalGonian.png) |
+| [1837](https://ianring.com/musictheory/scales/1837) | [Dalian](ModeDalian.md) | C# | C#, D#, E, F#, G##, A#, B, C# | ![CSharpDalian](CircleModeCSharpDalian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ E
 
 ![ENaturalKadimic](ModeENaturalKadimic.png)
 
+## Diagram
+
+![ENaturalKadimic](CircleModeENaturalKadimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,14 @@ E
 | [3143](https://ianring.com/musictheory/scales/3143) | [Polimic](ModePolimic.md) | A# | A#, B, C, D##, F###, G##, A# | ![ASharpPolimic](ModeASharpPolimic.png) |
 | [3619](https://ianring.com/musictheory/scales/3619) | [Thanimic](ModeThanimic.md) | B | B, C, D##, F###, G##, A#, B | ![BNaturalThanimic](ModeBNaturalThanimic.png) |
 | [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModePonimic.md) | C | C, D##, F###, G##, A#, B, C | ![CNaturalPonimic](ModeCNaturalPonimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [497](https://ianring.com/musictheory/scales/497) | [Kadimic](ModeKadimic.md) | E | E, F###, G##, A#, B, C, E | ![ENaturalKadimic](CircleModeENaturalKadimic.png) |
+| [3143](https://ianring.com/musictheory/scales/3143) | [Polimic](ModePolimic.md) | A# | A#, B, C, D##, F###, G##, A# | ![ASharpPolimic](CircleModeASharpPolimic.png) |
+| [3619](https://ianring.com/musictheory/scales/3619) | [Thanimic](ModeThanimic.md) | B | B, C, D##, F###, G##, A#, B | ![BNaturalThanimic](CircleModeBNaturalThanimic.png) |
+| [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModePonimic.md) | C | C, D##, F###, G##, A#, B, C | ![CNaturalPonimic](CircleModeCNaturalPonimic.png) |
 
 ## Chords
 

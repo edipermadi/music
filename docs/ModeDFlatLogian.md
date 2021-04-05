@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ III⁺, V
 
 ![DFlatLogian](ModeDFlatLogian.png)
 
+## Diagram
+
+![DFlatLogian](CircleModeDFlatLogian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1231](https://ianring.com/musictheory/scales/1231) | [Logian](ModeLogian.md) | Db | Db, Ebb, Fbb, Gbbb, Abb, Bbbb, Cb, Db | ![DFlatLogian](ModeDFlatLogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1231](https://ianring.com/musictheory/scales/1231) | [Logian](ModeLogian.md) | Db | Db, Ebb, Fbb, Gbbb, Abb, Bbbb, Cb, Db | ![DFlatLogian](CircleModeDFlatLogian.png) |
 
 ## Chords
 

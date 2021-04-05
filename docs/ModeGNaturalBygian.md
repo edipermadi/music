@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, III, vi
 
 ![GNaturalBygian](ModeGNaturalBygian.png)
 
+## Diagram
+
+![GNaturalBygian](CircleModeGNaturalBygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I⁺, III, vi
 | [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | D# | D#, E, F#, G, Ab, B, C##, D# | ![DSharpKataptian](ModeDSharpKataptian.png) |
 | [3229](https://ianring.com/musictheory/scales/3229) | [Aeolaptian](ModeAeolaptian.md) | E | E, F#, G, Ab, B, C##, D#, E | ![ENaturalAeolaptian](ModeENaturalAeolaptian.png) |
 | [1831](https://ianring.com/musictheory/scales/1831) | [Pothian](ModePothian.md) | F# | F#, G, Ab, B, C##, D#, E, F# | ![FSharpPothian](ModeFSharpPothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2963](https://ianring.com/musictheory/scales/2963) | [Bygian](ModeBygian.md) | G | G, Ab, B, C##, D#, E, F#, G | ![GNaturalBygian](CircleModeGNaturalBygian.png) |
+| [3529](https://ianring.com/musictheory/scales/3529) | [Stalian](ModeStalian.md) | Ab | Ab, B, C##, D#, E, F#, G, Ab | ![AFlatStalian](CircleModeAFlatStalian.png) |
+| [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | B | B, C##, D#, E, F#, G, Ab, B | ![BNaturalStoptian](CircleModeBNaturalStoptian.png) |
+| [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | D# | D#, E, F#, G, Ab, B, C##, D# | ![DSharpKataptian](CircleModeDSharpKataptian.png) |
+| [3229](https://ianring.com/musictheory/scales/3229) | [Aeolaptian](ModeAeolaptian.md) | E | E, F#, G, Ab, B, C##, D#, E | ![ENaturalAeolaptian](CircleModeENaturalAeolaptian.png) |
+| [1831](https://ianring.com/musictheory/scales/1831) | [Pothian](ModePothian.md) | F# | F#, G, Ab, B, C##, D#, E, F# | ![FSharpPothian](CircleModeFSharpPothian.png) |
 
 ## Chords
 

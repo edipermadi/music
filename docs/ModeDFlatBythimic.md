@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, III⁺, iv, V⁺
 
 ![DFlatBythimic](ModeDFlatBythimic.png)
 
+## Diagram
+
+![DFlatBythimic](CircleModeDFlatBythimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I⁺, III⁺, iv, V⁺
 | [683](https://ianring.com/musictheory/scales/683) | [Stogimic](ModeStogimic.md) | G# | G#, A, B, C#, D#, E#, G# | ![GSharpStogimic](ModeGSharpStogimic.png) |
 | [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeThynimic.md) | A | A, B, C#, D#, E#, F###, A | ![ANaturalThynimic](ModeANaturalThynimic.png) |
 | [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | B | B, C#, D#, E#, F###, G##, B | ![BNaturalAeolathimic](ModeBNaturalAeolathimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeBythimic.md) | Db | Db, Eb, F, G#, A, B, Db | ![DFlatBythimic](CircleModeDFlatBythimic.png) |
+| [1381](https://ianring.com/musictheory/scales/1381) | [Padimic](ModePadimic.md) | Eb | Eb, F, G#, A, B, C#, Eb | ![EFlatPadimic](CircleModeEFlatPadimic.png) |
+| [1369](https://ianring.com/musictheory/scales/1369) | [Boptimic](ModeBoptimic.md) | F | F, G#, A, B, C#, D#, F | ![FNaturalBoptimic](CircleModeFNaturalBoptimic.png) |
+| [683](https://ianring.com/musictheory/scales/683) | [Stogimic](ModeStogimic.md) | G# | G#, A, B, C#, D#, E#, G# | ![GSharpStogimic](CircleModeGSharpStogimic.png) |
+| [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeThynimic.md) | A | A, B, C#, D#, E#, F###, A | ![ANaturalThynimic](CircleModeANaturalThynimic.png) |
+| [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | B | B, C#, D#, E#, F###, G##, B | ![BNaturalAeolathimic](CircleModeBNaturalAeolathimic.png) |
 
 ## Chords
 

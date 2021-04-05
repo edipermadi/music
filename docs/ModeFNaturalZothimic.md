@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i, II
 
 ![FNaturalZothimic](ModeFNaturalZothimic.png)
 
+## Diagram
+
+![FNaturalZothimic](CircleModeFNaturalZothimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i, II
 | [1421](https://ianring.com/musictheory/scales/1421) | [Aeolaphimic](ModeAeolaphimic.md) | Bb | Bb, C, Db, E#, F#, G#, Bb | ![BFlatAeolaphimic](ModeBFlatAeolaphimic.png) |
 | [1379](https://ianring.com/musictheory/scales/1379) | [Kycrimic](ModeKycrimic.md) | C | C, Db, E#, F#, G#, A#, C | ![CNaturalKycrimic](ModeCNaturalKycrimic.png) |
 | [2737](https://ianring.com/musictheory/scales/2737) | [Bylimic](ModeBylimic.md) | Db | Db, E#, F#, G#, A#, B#, Db | ![DFlatBylimic](ModeDFlatBylimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [427](https://ianring.com/musictheory/scales/427) | [Zothimic](ModeZothimic.md) | F | F, Gb, Ab, Bb, C, Db, F | ![FNaturalZothimic](CircleModeFNaturalZothimic.png) |
+| [2261](https://ianring.com/musictheory/scales/2261) | [Phrolimic](ModePhrolimic.md) | Gb | Gb, Ab, Bb, C, Db, E#, Gb | ![GFlatPhrolimic](CircleModeGFlatPhrolimic.png) |
+| [1589](https://ianring.com/musictheory/scales/1589) | [Ionagimic](ModeIonagimic.md) | Ab | Ab, Bb, C, Db, E#, F#, Ab | ![AFlatIonagimic](CircleModeAFlatIonagimic.png) |
+| [1421](https://ianring.com/musictheory/scales/1421) | [Aeolaphimic](ModeAeolaphimic.md) | Bb | Bb, C, Db, E#, F#, G#, Bb | ![BFlatAeolaphimic](CircleModeBFlatAeolaphimic.png) |
+| [1379](https://ianring.com/musictheory/scales/1379) | [Kycrimic](ModeKycrimic.md) | C | C, Db, E#, F#, G#, A#, C | ![CNaturalKycrimic](CircleModeCNaturalKycrimic.png) |
+| [2737](https://ianring.com/musictheory/scales/2737) | [Bylimic](ModeBylimic.md) | Db | Db, E#, F#, G#, A#, B#, Db | ![DFlatBylimic](CircleModeDFlatBylimic.png) |
 
 ## Chords
 

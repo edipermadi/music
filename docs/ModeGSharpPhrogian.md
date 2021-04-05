@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iv⁰, vi⁰
 
 ![GSharpPhrogian](ModeGSharpPhrogian.png)
 
+## Diagram
+
+![GSharpPhrogian](CircleModeGSharpPhrogian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ iv⁰, vi⁰
 | [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | G# | G#, A, B, C##, D##, E#, F##, G# | ![GSharpPhrogian](ModeGSharpPhrogian.png) |
 | [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | A | A, B, C##, D##, E#, F##, G#, A | ![ANaturalRathian](ModeANaturalRathian.png) |
 | [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | B | B, C##, D##, E#, F##, G#, A, B | ![BNaturalIonopian](ModeBNaturalIonopian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | G# | G#, A, B, C##, D##, E#, F##, G# | ![GSharpPhrogian](CircleModeGSharpPhrogian.png) |
+| [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | A | A, B, C##, D##, E#, F##, G#, A | ![ANaturalRathian](CircleModeANaturalRathian.png) |
+| [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | B | B, C##, D##, E#, F##, G#, A, B | ![BNaturalIonopian](CircleModeBNaturalIonopian.png) |
 
 ## Chords
 

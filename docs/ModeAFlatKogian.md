@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ Ab
 
 ![AFlatKogian](ModeAFlatKogian.png)
 
+## Diagram
+
+![AFlatKogian](CircleModeAFlatKogian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [381](https://ianring.com/musictheory/scales/381) | [Kogian](ModeKogian.md) | Ab | Ab, Bb, Cb, Dbb, Ebbb, Fbbb, Gbbb, Ab | ![AFlatKogian](ModeAFlatKogian.png) |
 | [1119](https://ianring.com/musictheory/scales/1119) | [Rarian](ModeRarian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fbbb, Gbbb, Ab, Bb | ![BFlatRarian](ModeBFlatRarian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [381](https://ianring.com/musictheory/scales/381) | [Kogian](ModeKogian.md) | Ab | Ab, Bb, Cb, Dbb, Ebbb, Fbbb, Gbbb, Ab | ![AFlatKogian](CircleModeAFlatKogian.png) |
+| [1119](https://ianring.com/musictheory/scales/1119) | [Rarian](ModeRarian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fbbb, Gbbb, Ab, Bb | ![BFlatRarian](CircleModeBFlatRarian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, ii⁰, III⁺, iv, V, VI, vii⁰
 
 ![FSharpMydian](ModeFSharpMydian.png)
 
+## Diagram
+
+![FSharpMydian](CircleModeFSharpMydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, ii⁰, III⁺, iv, V, VI, vii⁰
 | [1741](https://ianring.com/musictheory/scales/1741) | [Katycrian](ModeKatycrian.md) | B | B, C#, D, E#, F#, G#, A, B | ![BNaturalKatycrian](ModeBNaturalKatycrian.png) |
 | [1459](https://ianring.com/musictheory/scales/1459) | [Ionalian](ModeIonalian.md) | C# | C#, D, E#, F#, G#, A, B, C# | ![CSharpIonalian](ModeCSharpIonalian.png) |
 | [2777](https://ianring.com/musictheory/scales/2777) | [Bycrian](ModeBycrian.md) | D | D, E#, F#, G#, A, B, C#, D | ![DNaturalBycrian](ModeDNaturalBycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2477](https://ianring.com/musictheory/scales/2477) | [Mydian](ModeMydian.md) | F# | F#, G#, A, B, C#, D, E#, F# | ![FSharpMydian](CircleModeFSharpMydian.png) |
+| [1643](https://ianring.com/musictheory/scales/1643) | [Thyptian](ModeThyptian.md) | G# | G#, A, B, C#, D, E#, F#, G# | ![GSharpThyptian](CircleModeGSharpThyptian.png) |
+| [2869](https://ianring.com/musictheory/scales/2869) | [Phrothian](ModePhrothian.md) | A | A, B, C#, D, E#, F#, G#, A | ![ANaturalPhrothian](CircleModeANaturalPhrothian.png) |
+| [1741](https://ianring.com/musictheory/scales/1741) | [Katycrian](ModeKatycrian.md) | B | B, C#, D, E#, F#, G#, A, B | ![BNaturalKatycrian](CircleModeBNaturalKatycrian.png) |
+| [1459](https://ianring.com/musictheory/scales/1459) | [Ionalian](ModeIonalian.md) | C# | C#, D, E#, F#, G#, A, B, C# | ![CSharpIonalian](CircleModeCSharpIonalian.png) |
+| [2777](https://ianring.com/musictheory/scales/2777) | [Bycrian](ModeBycrian.md) | D | D, E#, F#, G#, A, B, C#, D | ![DNaturalBycrian](CircleModeDNaturalBycrian.png) |
 
 ## Chords
 

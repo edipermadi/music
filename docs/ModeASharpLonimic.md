@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ I, II
 
 ![ASharpLonimic](ModeASharpLonimic.png)
 
+## Diagram
+
+![ASharpLonimic](CircleModeASharpLonimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeLonimic.md) | A# | A#, B#, C##, D##, E#, F##, A# | ![ASharpLonimic](ModeASharpLonimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeLonimic.md) | A# | A#, B#, C##, D##, E#, F##, A# | ![ASharpLonimic](CircleModeASharpLonimic.png) |
 
 ## Chords
 

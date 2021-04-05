@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ ii, V⁺, VII
 
 ![CNaturalEpathian](ModeCNaturalEpathian.png)
 
+## Diagram
+
+![CNaturalEpathian](CircleModeCNaturalEpathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ ii, V⁺, VII
 | [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeRothian.md) | G | G, A#, B, C, D#, E#, F#, G | ![GNaturalRothian](ModeGNaturalRothian.png) |
 | [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | A# | A#, B, C, D#, E#, F#, G, A# | ![ASharpKatarian](ModeASharpKatarian.png) |
 | [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | B | B, C, D#, E#, F#, G, A#, B | ![BNaturalStylian](ModeBNaturalStylian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeEpathian.md) | C | C, D#, E#, F#, G, A#, B, C | ![CNaturalEpathian](CircleModeCNaturalEpathian.png) |
+| [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeMythian.md) | D# | D#, E#, F#, G, A#, B, C, D# | ![DSharpMythian](CircleModeDSharpMythian.png) |
+| [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeGogian.md) | F# | F#, G, A#, B, C, D#, E#, F# | ![FSharpGogian](CircleModeFSharpGogian.png) |
+| [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeRothian.md) | G | G, A#, B, C, D#, E#, F#, G | ![GNaturalRothian](CircleModeGNaturalRothian.png) |
+| [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | A# | A#, B, C, D#, E#, F#, G, A# | ![ASharpKatarian](CircleModeASharpKatarian.png) |
+| [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | B | B, C, D#, E#, F#, G, A#, B | ![BNaturalStylian](CircleModeBNaturalStylian.png) |
 
 ## Chords
 

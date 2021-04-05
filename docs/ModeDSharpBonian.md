@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ D#
 
 ![DSharpBonian](ModeDSharpBonian.png)
 
+## Diagram
+
+![DSharpBonian](CircleModeDSharpBonian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3913](https://ianring.com/musictheory/scales/3913) | [Bonian](ModeBonian.md) | D# | D#, E##, Cbbb, Dbbb, Dbb, Ebbb, Fbbb, D# | ![DSharpBonian](ModeDSharpBonian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3913](https://ianring.com/musictheory/scales/3913) | [Bonian](ModeBonian.md) | D# | D#, E##, Cbbb, Dbbb, Dbb, Ebbb, Fbbb, D# | ![DSharpBonian](CircleModeDSharpBonian.png) |
 
 ## Chords
 

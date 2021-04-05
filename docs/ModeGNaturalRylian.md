@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, iii⁰, IV⁺, VI
 
 ![GNaturalRylian](ModeGNaturalRylian.png)
 
+## Diagram
+
+![GNaturalRylian](CircleModeGNaturalRylian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ i⁰, iii⁰, IV⁺, VI
 | [2667](https://ianring.com/musictheory/scales/2667) | [Byrian](ModeByrian.md) | Bb | Bb, Cb, Db, Eb, Fb, G, A, Bb | ![BFlatByrian](ModeBFlatByrian.png) |
 | [1869](https://ianring.com/musictheory/scales/1869) | [Katyrian](ModeKatyrian.md) | Db | Db, Eb, Fb, G, A, Bb, Cb, Db | ![DFlatKatyrian](ModeDFlatKatyrian.png) |
 | [1491](https://ianring.com/musictheory/scales/1491) | [Rynian](ModeRynian.md) | Eb | Eb, Fb, G, A, Bb, Cb, Db, Eb | ![EFlatRynian](ModeEFlatRynian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [861](https://ianring.com/musictheory/scales/861) | [Rylian](ModeRylian.md) | G | G, A, Bb, Cb, Db, Eb, Fb, G | ![GNaturalRylian](CircleModeGNaturalRylian.png) |
+| [1239](https://ianring.com/musictheory/scales/1239) | [Epaptian](ModeEpaptian.md) | A | A, Bb, Cb, Db, Eb, Fb, G, A | ![ANaturalEpaptian](CircleModeANaturalEpaptian.png) |
+| [2667](https://ianring.com/musictheory/scales/2667) | [Byrian](ModeByrian.md) | Bb | Bb, Cb, Db, Eb, Fb, G, A, Bb | ![BFlatByrian](CircleModeBFlatByrian.png) |
+| [1869](https://ianring.com/musictheory/scales/1869) | [Katyrian](ModeKatyrian.md) | Db | Db, Eb, Fb, G, A, Bb, Cb, Db | ![DFlatKatyrian](CircleModeDFlatKatyrian.png) |
+| [1491](https://ianring.com/musictheory/scales/1491) | [Rynian](ModeRynian.md) | Eb | Eb, Fb, G, A, Bb, Cb, Db, Eb | ![EFlatRynian](CircleModeEFlatRynian.png) |
 
 ## Chords
 

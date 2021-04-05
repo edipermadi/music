@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ F#
 
 ![FSharpRydian](ModeFSharpRydian.png)
 
+## Diagram
+
+![FSharpRydian](CircleModeFSharpRydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3909](https://ianring.com/musictheory/scales/3909) | [Rydian](ModeRydian.md) | F# | F#, G#, A###, B###, C###, D##, E#, F# | ![FSharpRydian](ModeFSharpRydian.png) |
 | [2001](https://ianring.com/musictheory/scales/2001) | [Gydian](ModeGydian.md) | G# | G#, A###, B###, C###, D##, E#, F#, G# | ![GSharpGydian](ModeGSharpGydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3909](https://ianring.com/musictheory/scales/3909) | [Rydian](ModeRydian.md) | F# | F#, G#, A###, B###, C###, D##, E#, F# | ![FSharpRydian](CircleModeFSharpRydian.png) |
+| [2001](https://ianring.com/musictheory/scales/2001) | [Gydian](ModeGydian.md) | G# | G#, A###, B###, C###, D##, E#, F#, G# | ![GSharpGydian](CircleModeGSharpGydian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ v
 
 ![DSharpKyptimic](ModeDSharpKyptimic.png)
 
+## Diagram
+
+![DSharpKyptimic](CircleModeDSharpKyptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1811](https://ianring.com/musictheory/scales/1811) | [Kyptimic](ModeKyptimic.md) | D# | D#, E, F##, Cb, Dbb, Ebbb, D# | ![DSharpKyptimic](ModeDSharpKyptimic.png) |
 | [2953](https://ianring.com/musictheory/scales/2953) | [Ionylimic](ModeIonylimic.md) | E | E, F##, Cb, Dbb, Ebbb, Fbb, E | ![ENaturalIonylimic](ModeENaturalIonylimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1811](https://ianring.com/musictheory/scales/1811) | [Kyptimic](ModeKyptimic.md) | D# | D#, E, F##, Cb, Dbb, Ebbb, D# | ![DSharpKyptimic](CircleModeDSharpKyptimic.png) |
+| [2953](https://ianring.com/musictheory/scales/2953) | [Ionylimic](ModeIonylimic.md) | E | E, F##, Cb, Dbb, Ebbb, Fbb, E | ![ENaturalIonylimic](CircleModeENaturalIonylimic.png) |
 
 ## Chords
 

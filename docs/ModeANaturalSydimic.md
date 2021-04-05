@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ iv⁰
 
 ![ANaturalSydimic](ModeANaturalSydimic.png)
 
+## Diagram
+
+![ANaturalSydimic](CircleModeANaturalSydimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3397](https://ianring.com/musictheory/scales/3397) | [Sydimic](ModeSydimic.md) | A | A, B, C###, D###, E###, F###, A | ![ANaturalSydimic](ModeANaturalSydimic.png) |
 | [1873](https://ianring.com/musictheory/scales/1873) | [Dathimic](ModeDathimic.md) | B | B, C###, D###, E###, F###, G##, B | ![BNaturalDathimic](ModeBNaturalDathimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3397](https://ianring.com/musictheory/scales/3397) | [Sydimic](ModeSydimic.md) | A | A, B, C###, D###, E###, F###, A | ![ANaturalSydimic](CircleModeANaturalSydimic.png) |
+| [1873](https://ianring.com/musictheory/scales/1873) | [Dathimic](ModeDathimic.md) | B | B, C###, D###, E###, F###, G##, B | ![BNaturalDathimic](CircleModeBNaturalDathimic.png) |
 
 ## Chords
 

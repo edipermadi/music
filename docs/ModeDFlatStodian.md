@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii, iii, IV⁺, V⁺, VII
 
 ![DFlatStodian](ModeDFlatStodian.png)
 
+## Diagram
+
+![DFlatStodian](CircleModeDFlatStodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [823](https://ianring.com/musictheory/scales/823) | [Stodian](ModeStodian.md) | Db | Db, Ebb, Fbb, Gbb, Abbb, Bbb, Cbb, Db | ![DFlatStodian](ModeDFlatStodian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [823](https://ianring.com/musictheory/scales/823) | [Stodian](ModeStodian.md) | Db | Db, Ebb, Fbb, Gbb, Abbb, Bbb, Cbb, Db | ![DFlatStodian](CircleModeDFlatStodian.png) |
 
 ## Chords
 

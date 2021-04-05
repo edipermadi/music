@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ III
 
 ![GNaturalKatoptimic](ModeGNaturalKatoptimic.png)
 
+## Diagram
+
+![GNaturalKatoptimic](CircleModeGNaturalKatoptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2851](https://ianring.com/musictheory/scales/2851) | [Katoptimic](ModeKatoptimic.md) | G | G, Ab, B#, C###, D##, E##, G | ![GNaturalKatoptimic](ModeGNaturalKatoptimic.png) |
 | [3473](https://ianring.com/musictheory/scales/3473) | [Lathimic](ModeLathimic.md) | Ab | Ab, B#, C###, D##, E##, F##, Ab | ![AFlatLathimic](ModeAFlatLathimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2851](https://ianring.com/musictheory/scales/2851) | [Katoptimic](ModeKatoptimic.md) | G | G, Ab, B#, C###, D##, E##, G | ![GNaturalKatoptimic](CircleModeGNaturalKatoptimic.png) |
+| [3473](https://ianring.com/musictheory/scales/3473) | [Lathimic](ModeLathimic.md) | Ab | Ab, B#, C###, D##, E##, F##, Ab | ![AFlatLathimic](CircleModeAFlatLathimic.png) |
 
 ## Chords
 

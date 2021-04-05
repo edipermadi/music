@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, III⁺, V⁺, vi
 
 ![FNaturalDolimic](ModeFNaturalDolimic.png)
 
+## Diagram
+
+![FNaturalDolimic](CircleModeFNaturalDolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I⁺, III⁺, V⁺, vi
 | [2473](https://ianring.com/musictheory/scales/2473) | [Mothimic](ModeMothimic.md) | Bb | Bb, C#, D#, E#, F#, G##, Bb | ![BFlatMothimic](ModeBFlatMothimic.png) |
 | [821](https://ianring.com/musictheory/scales/821) | [Aeranimic](ModeAeranimic.md) | C# | C#, D#, E#, F#, G##, A#, C# | ![CSharpAeranimic](ModeCSharpAeranimic.png) |
 | [1229](https://ianring.com/musictheory/scales/1229) | [Ragimic](ModeRagimic.md) | D# | D#, E#, F#, G##, A#, B##, D# | ![DSharpRagimic](ModeDSharpRagimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1331](https://ianring.com/musictheory/scales/1331) | [Dolimic](ModeDolimic.md) | F | F, Gb, A, Bb, C#, D#, F | ![FNaturalDolimic](CircleModeFNaturalDolimic.png) |
+| [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModePorimic.md) | Gb | Gb, A, Bb, C#, D#, E#, Gb | ![GFlatPorimic](CircleModeGFlatPorimic.png) |
+| [851](https://ianring.com/musictheory/scales/851) | [Aerylimic](ModeAerylimic.md) | A | A, Bb, C#, D#, E#, F#, A | ![ANaturalAerylimic](CircleModeANaturalAerylimic.png) |
+| [2473](https://ianring.com/musictheory/scales/2473) | [Mothimic](ModeMothimic.md) | Bb | Bb, C#, D#, E#, F#, G##, Bb | ![BFlatMothimic](CircleModeBFlatMothimic.png) |
+| [821](https://ianring.com/musictheory/scales/821) | [Aeranimic](ModeAeranimic.md) | C# | C#, D#, E#, F#, G##, A#, C# | ![CSharpAeranimic](CircleModeCSharpAeranimic.png) |
+| [1229](https://ianring.com/musictheory/scales/1229) | [Ragimic](ModeRagimic.md) | D# | D#, E#, F#, G##, A#, B##, D# | ![DSharpRagimic](CircleModeDSharpRagimic.png) |
 
 ## Chords
 

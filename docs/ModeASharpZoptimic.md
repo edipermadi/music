@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ v, vi
 
 ![ASharpZoptimic](ModeASharpZoptimic.png)
 
+## Diagram
+
+![ASharpZoptimic](CircleModeASharpZoptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | A# | A#, B#, C##, D##, E###, Cbbb, A# | ![ASharpZoptimic](ModeASharpZoptimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | A# | A#, B#, C##, D##, E###, Cbbb, A# | ![ASharpZoptimic](CircleModeASharpZoptimic.png) |
 
 ## Chords
 

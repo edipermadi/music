@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, II⁺, III, IV, vi
 
 ![ENaturalSocrian](ModeENaturalSocrian.png)
 
+## Diagram
+
+![ENaturalSocrian](CircleModeENaturalSocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I⁺, II⁺, III, IV, vi
 | [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | A | A, B#, C#, D#, E, F, G#, A | ![ANaturalBarian](ModeANaturalBarian.png) |
 | [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | C# | C#, D#, E, F, G#, A, B#, C# | ![CSharpSagian](ModeCSharpSagian.png) |
 | [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | D# | D#, E, F, G#, A, B#, C#, D# | ![DSharpAeolothian](ModeDSharpAeolothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | E | E, F, G#, A, B#, C#, D#, E | ![ENaturalSocrian](CircleModeENaturalSocrian.png) |
+| [3481](https://ianring.com/musictheory/scales/3481) | [Katathian](ModeKatathian.md) | F | F, G#, A, B#, C#, D#, E, F | ![FNaturalKatathian](CircleModeFNaturalKatathian.png) |
+| [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | G# | G#, A, B#, C#, D#, E, F, G# | ![GSharpModian](CircleModeGSharpModian.png) |
+| [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | A | A, B#, C#, D#, E, F, G#, A | ![ANaturalBarian](CircleModeANaturalBarian.png) |
+| [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | C# | C#, D#, E, F, G#, A, B#, C# | ![CSharpSagian](CircleModeCSharpSagian.png) |
+| [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | D# | D#, E, F, G#, A, B#, C#, D# | ![DSharpAeolothian](CircleModeDSharpAeolothian.png) |
 
 ## Chords
 

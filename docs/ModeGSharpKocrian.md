@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ II, iii⁰, iv⁰, v⁰, vii
 
 ![GSharpKocrian](ModeGSharpKocrian.png)
 
+## Diagram
+
+![GSharpKocrian](CircleModeGSharpKocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2917](https://ianring.com/musictheory/scales/2917) | [Kocrian](ModeKocrian.md) | G# | G#, A#, B##, C##, D##, E#, F##, G# | ![GSharpKocrian](ModeGSharpKocrian.png) |
 | [1753](https://ianring.com/musictheory/scales/1753) | [Mycrian](ModeMycrian.md) | A# | A#, B##, C##, D##, E#, F##, G#, A# | ![ASharpMycrian](ModeASharpMycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2917](https://ianring.com/musictheory/scales/2917) | [Kocrian](ModeKocrian.md) | G# | G#, A#, B##, C##, D##, E#, F##, G# | ![GSharpKocrian](CircleModeGSharpKocrian.png) |
+| [1753](https://ianring.com/musictheory/scales/1753) | [Mycrian](ModeMycrian.md) | A# | A#, B##, C##, D##, E#, F##, G#, A# | ![ASharpMycrian](CircleModeASharpMycrian.png) |
 
 ## Chords
 

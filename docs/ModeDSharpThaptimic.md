@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ IV, v
 
 ![DSharpThaptimic](ModeDSharpThaptimic.png)
 
+## Diagram
+
+![DSharpThaptimic](CircleModeDSharpThaptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | D# | D#, E#, F##, G###, A###, B###, D# | ![DSharpThaptimic](ModeDSharpThaptimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | D# | D#, E#, F##, G###, A###, B###, D# | ![DSharpThaptimic](CircleModeDSharpThaptimic.png) |
 
 ## Chords
 

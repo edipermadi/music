@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ v, VII⁺
 
 ![GSharpPhrythian](ModeGSharpPhrythian.png)
 
+## Diagram
+
+![GSharpPhrythian](CircleModeGSharpPhrythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ v, VII⁺
 | [3275](https://ianring.com/musictheory/scales/3275) | [Katadian](ModeKatadian.md) | D | D, Eb, F, G#, A, B#, C#, D | ![DNaturalKatadian](ModeDNaturalKatadian.png) |
 | [3685](https://ianring.com/musictheory/scales/3685) | [Kodian](ModeKodian.md) | Eb | Eb, F, G#, A, B#, C#, D, Eb | ![EFlatKodian](ModeEFlatKodian.png) |
 | [1945](https://ianring.com/musictheory/scales/1945) | [Zarian](ModeZarian.md) | F | F, G#, A, B#, C#, D, Eb, F | ![FNaturalZarian](ModeFNaturalZarian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [755](https://ianring.com/musictheory/scales/755) | [Phrythian](ModePhrythian.md) | G# | G#, A, B#, C#, D, Eb, F, G# | ![GSharpPhrythian](CircleModeGSharpPhrythian.png) |
+| [2425](https://ianring.com/musictheory/scales/2425) | [Rorian](ModeRorian.md) | A | A, B#, C#, D, Eb, F, G#, A | ![ANaturalRorian](CircleModeANaturalRorian.png) |
+| [2455](https://ianring.com/musictheory/scales/2455) | [Bothian](ModeBothian.md) | C# | C#, D, Eb, F, G#, A, B#, C# | ![CSharpBothian](CircleModeCSharpBothian.png) |
+| [3275](https://ianring.com/musictheory/scales/3275) | [Katadian](ModeKatadian.md) | D | D, Eb, F, G#, A, B#, C#, D | ![DNaturalKatadian](CircleModeDNaturalKatadian.png) |
+| [3685](https://ianring.com/musictheory/scales/3685) | [Kodian](ModeKodian.md) | Eb | Eb, F, G#, A, B#, C#, D, Eb | ![EFlatKodian](CircleModeEFlatKodian.png) |
+| [1945](https://ianring.com/musictheory/scales/1945) | [Zarian](ModeZarian.md) | F | F, G#, A, B#, C#, D, Eb, F | ![FNaturalZarian](CircleModeFNaturalZarian.png) |
 
 ## Chords
 

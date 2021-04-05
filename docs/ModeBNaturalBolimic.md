@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ III
 
 ![BNaturalBolimic](ModeBNaturalBolimic.png)
 
+## Diagram
+
+![BNaturalBolimic](CircleModeBNaturalBolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1649](https://ianring.com/musictheory/scales/1649) | [Bolimic](ModeBolimic.md) | B | B, C###, D##, E#, F###, G##, B | ![BNaturalBolimic](ModeBNaturalBolimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1649](https://ianring.com/musictheory/scales/1649) | [Bolimic](ModeBolimic.md) | B | B, C###, D##, E#, F###, G##, B | ![BNaturalBolimic](CircleModeBNaturalBolimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, II⁺, III⁺, V, vii
 
 ![GNaturalZycrian](ModeGNaturalZycrian.png)
 
+## Diagram
+
+![GNaturalZycrian](CircleModeGNaturalZycrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, II⁺, III⁺, V, vii
 | [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | C# | C#, D, E#, F#, G, A, Bb, C# | ![CSharpRalian](ModeCSharpRalian.png) |
 | [2489](https://ianring.com/musictheory/scales/2489) | [Syrian](ModeSyrian.md) | D | D, E#, F#, G, A, Bb, C#, D | ![DNaturalSyrian](ModeDNaturalSyrian.png) |
 | [2459](https://ianring.com/musictheory/scales/2459) | [Ionocrian](ModeIonocrian.md) | F# | F#, G, A, Bb, C#, D, E#, F# | ![FSharpIonocrian](ModeFSharpIonocrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3277](https://ianring.com/musictheory/scales/3277) | [Zycrian](ModeZycrian.md) | G | G, A, Bb, C#, D, E#, F#, G | ![GNaturalZycrian](CircleModeGNaturalZycrian.png) |
+| [1843](https://ianring.com/musictheory/scales/1843) | [Ionygian](ModeIonygian.md) | A | A, Bb, C#, D, E#, F#, G, A | ![ANaturalIonygian](CircleModeANaturalIonygian.png) |
+| [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeTholian.md) | Bb | Bb, C#, D, E#, F#, G, A, Bb | ![BFlatTholian](CircleModeBFlatTholian.png) |
+| [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | C# | C#, D, E#, F#, G, A, Bb, C# | ![CSharpRalian](CircleModeCSharpRalian.png) |
+| [2489](https://ianring.com/musictheory/scales/2489) | [Syrian](ModeSyrian.md) | D | D, E#, F#, G, A, Bb, C#, D | ![DNaturalSyrian](CircleModeDNaturalSyrian.png) |
+| [2459](https://ianring.com/musictheory/scales/2459) | [Ionocrian](ModeIonocrian.md) | F# | F#, G, A, Bb, C#, D, E#, F# | ![FSharpIonocrian](CircleModeFSharpIonocrian.png) |
 
 ## Chords
 

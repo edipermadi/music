@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰
 
 ![BNaturalAeolyrian](ModeBNaturalAeolyrian.png)
 
+## Diagram
+
+![BNaturalAeolyrian](CircleModeBNaturalAeolyrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰
 | [1423](https://ianring.com/musictheory/scales/1423) | [Doptian](ModeDoptian.md) | E | E, F, Gb, Abb, B, C, D, E | ![ENaturalDoptian](ModeENaturalDoptian.png) |
 | [2759](https://ianring.com/musictheory/scales/2759) | [Aeraphian](ModeAeraphian.md) | F | F, Gb, Abb, B, C, D, E, F | ![FNaturalAeraphian](ModeFNaturalAeraphian.png) |
 | [3427](https://ianring.com/musictheory/scales/3427) | [Zacrian](ModeZacrian.md) | Gb | Gb, Abb, B, C, D, E, F, Gb | ![GFlatZacrian](ModeGFlatZacrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [491](https://ianring.com/musictheory/scales/491) | [Aeolyrian](ModeAeolyrian.md) | B | B, C, D, E, F, Gb, Abb, B | ![BNaturalAeolyrian](CircleModeBNaturalAeolyrian.png) |
+| [2293](https://ianring.com/musictheory/scales/2293) | [Gorian](ModeGorian.md) | C | C, D, E, F, Gb, Abb, B, C | ![CNaturalGorian](CircleModeCNaturalGorian.png) |
+| [1597](https://ianring.com/musictheory/scales/1597) | [Aeolodian](ModeAeolodian.md) | D | D, E, F, Gb, Abb, B, C, D | ![DNaturalAeolodian](CircleModeDNaturalAeolodian.png) |
+| [1423](https://ianring.com/musictheory/scales/1423) | [Doptian](ModeDoptian.md) | E | E, F, Gb, Abb, B, C, D, E | ![ENaturalDoptian](CircleModeENaturalDoptian.png) |
+| [2759](https://ianring.com/musictheory/scales/2759) | [Aeraphian](ModeAeraphian.md) | F | F, Gb, Abb, B, C, D, E, F | ![FNaturalAeraphian](CircleModeFNaturalAeraphian.png) |
+| [3427](https://ianring.com/musictheory/scales/3427) | [Zacrian](ModeZacrian.md) | Gb | Gb, Abb, B, C, D, E, F, Gb | ![GFlatZacrian](CircleModeGFlatZacrian.png) |
 
 ## Chords
 

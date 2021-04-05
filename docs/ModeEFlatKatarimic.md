@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ V
 
 ![EFlatKatarimic](ModeEFlatKatarimic.png)
 
+## Diagram
+
+![EFlatKatarimic](CircleModeEFlatKatarimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ V
 | [423](https://ianring.com/musictheory/scales/423) | [Sogimic](ModeSogimic.md) | A# | A#, B, C, D#, E#, F#, A# | ![ASharpSogimic](ModeASharpSogimic.png) |
 | [2259](https://ianring.com/musictheory/scales/2259) | [Gogimic](ModeGogimic.md) | B | B, C, D#, E#, F#, G###, B | ![BNaturalGogimic](ModeBNaturalGogimic.png) |
 | [3177](https://ianring.com/musictheory/scales/3177) | [Rothimic](ModeRothimic.md) | C | C, D#, E#, F#, G###, A##, C | ![CNaturalRothimic](ModeCNaturalRothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [909](https://ianring.com/musictheory/scales/909) | [Katarimic](ModeKatarimic.md) | Eb | Eb, F, Gb, A#, B, C, Eb | ![EFlatKatarimic](CircleModeEFlatKatarimic.png) |
+| [1251](https://ianring.com/musictheory/scales/1251) | [Sylimic](ModeSylimic.md) | F | F, Gb, A#, B, C, D#, F | ![FNaturalSylimic](CircleModeFNaturalSylimic.png) |
+| [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeMythimic.md) | Gb | Gb, A#, B, C, D#, E#, Gb | ![GFlatMythimic](CircleModeGFlatMythimic.png) |
+| [423](https://ianring.com/musictheory/scales/423) | [Sogimic](ModeSogimic.md) | A# | A#, B, C, D#, E#, F#, A# | ![ASharpSogimic](CircleModeASharpSogimic.png) |
+| [2259](https://ianring.com/musictheory/scales/2259) | [Gogimic](ModeGogimic.md) | B | B, C, D#, E#, F#, G###, B | ![BNaturalGogimic](CircleModeBNaturalGogimic.png) |
+| [3177](https://ianring.com/musictheory/scales/3177) | [Rothimic](ModeRothimic.md) | C | C, D#, E#, F#, G###, A##, C | ![CNaturalRothimic](CircleModeCNaturalRothimic.png) |
 
 ## Chords
 

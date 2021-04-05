@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, ii, III⁺, V⁺
 
 ![DNaturalAeranimic](ModeDNaturalAeranimic.png)
 
+## Diagram
+
+![DNaturalAeranimic](CircleModeDNaturalAeranimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I⁺, ii, III⁺, V⁺
 | [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModePorimic.md) | G | G, A#, B, C##, D##, E##, G | ![GNaturalPorimic](ModeGNaturalPorimic.png) |
 | [851](https://ianring.com/musictheory/scales/851) | [Aerylimic](ModeAerylimic.md) | A# | A#, B, C##, D##, E##, F##, A# | ![ASharpAerylimic](ModeASharpAerylimic.png) |
 | [2473](https://ianring.com/musictheory/scales/2473) | [Mothimic](ModeMothimic.md) | B | B, C##, D##, E##, F##, G###, B | ![BNaturalMothimic](ModeBNaturalMothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [821](https://ianring.com/musictheory/scales/821) | [Aeranimic](ModeAeranimic.md) | D | D, E, F#, G, A#, B, D | ![DNaturalAeranimic](CircleModeDNaturalAeranimic.png) |
+| [1229](https://ianring.com/musictheory/scales/1229) | [Ragimic](ModeRagimic.md) | E | E, F#, G, A#, B, C##, E | ![ENaturalRagimic](CircleModeENaturalRagimic.png) |
+| [1331](https://ianring.com/musictheory/scales/1331) | [Dolimic](ModeDolimic.md) | F# | F#, G, A#, B, C##, D##, F# | ![FSharpDolimic](CircleModeFSharpDolimic.png) |
+| [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModePorimic.md) | G | G, A#, B, C##, D##, E##, G | ![GNaturalPorimic](CircleModeGNaturalPorimic.png) |
+| [851](https://ianring.com/musictheory/scales/851) | [Aerylimic](ModeAerylimic.md) | A# | A#, B, C##, D##, E##, F##, A# | ![ASharpAerylimic](CircleModeASharpAerylimic.png) |
+| [2473](https://ianring.com/musictheory/scales/2473) | [Mothimic](ModeMothimic.md) | B | B, C##, D##, E##, F##, G###, B | ![BNaturalMothimic](CircleModeBNaturalMothimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II⁺, IV, vi
 
 ![DSharpGogian](ModeDSharpGogian.png)
 
+## Diagram
+
+![DSharpGogian](CircleModeDSharpGogian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ II⁺, IV, vi
 | [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeRothian.md) | E | E, F##, G#, A, B#, C##, D#, E | ![ENaturalRothian](ModeENaturalRothian.png) |
 | [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | G# | G#, A, B#, C##, D#, E, F##, G# | ![GSharpStylian](ModeGSharpStylian.png) |
 | [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeEpathian.md) | A | A, B#, C##, D#, E, F##, G#, A | ![ANaturalEpathian](ModeANaturalEpathian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeGogian.md) | D# | D#, E, F##, G#, A, B#, C##, D# | ![DSharpGogian](CircleModeDSharpGogian.png) |
+| [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeRothian.md) | E | E, F##, G#, A, B#, C##, D#, E | ![ENaturalRothian](CircleModeENaturalRothian.png) |
+| [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | G# | G#, A, B#, C##, D#, E, F##, G# | ![GSharpStylian](CircleModeGSharpStylian.png) |
+| [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeEpathian.md) | A | A, B#, C##, D#, E, F##, G#, A | ![ANaturalEpathian](CircleModeANaturalEpathian.png) |
 
 ## Chords
 

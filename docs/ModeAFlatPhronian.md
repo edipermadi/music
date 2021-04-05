@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, ii, III, IV⁺, v⁰, VI, vii⁰
 
 ![AFlatPhronian](ModeAFlatPhronian.png)
 
+## Diagram
+
+![AFlatPhronian](CircleModeAFlatPhronian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ i, ii, III, IV⁺, v⁰, VI, vii⁰
 | [1435](https://ianring.com/musictheory/scales/1435) | [Phronian](ModePhronian.md) | Ab | Ab, Bbb, Cb, Dbb, Eb, Fb, Gb, Ab | ![AFlatPhronian](ModeAFlatPhronian.png) |
 | [875](https://ianring.com/musictheory/scales/875) | [Stothian](ModeStothian.md) | Eb | Eb, Fb, Gb, Ab, Bbb, Cb, Dbb, Eb | ![EFlatStothian](ModeEFlatStothian.png) |
 | [1645](https://ianring.com/musictheory/scales/1645) | [Katagian](ModeKatagian.md) | Gb | Gb, Ab, Bbb, Cb, Dbb, Eb, Fb, Gb | ![GFlatKatagian](ModeGFlatKatagian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1435](https://ianring.com/musictheory/scales/1435) | [Phronian](ModePhronian.md) | Ab | Ab, Bbb, Cb, Dbb, Eb, Fb, Gb, Ab | ![AFlatPhronian](CircleModeAFlatPhronian.png) |
+| [875](https://ianring.com/musictheory/scales/875) | [Stothian](ModeStothian.md) | Eb | Eb, Fb, Gb, Ab, Bbb, Cb, Dbb, Eb | ![EFlatStothian](CircleModeEFlatStothian.png) |
+| [1645](https://ianring.com/musictheory/scales/1645) | [Katagian](ModeKatagian.md) | Gb | Gb, Ab, Bbb, Cb, Dbb, Eb, Fb, Gb | ![GFlatKatagian](CircleModeGFlatKatagian.png) |
 
 ## Chords
 

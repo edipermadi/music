@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, vii⁰
 
 ![BNaturalRolian](ModeBNaturalRolian.png)
 
+## Diagram
+
+![BNaturalRolian](CircleModeBNaturalRolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰, vii⁰
 | [1763](https://ianring.com/musictheory/scales/1763) | [Katalian](ModeKatalian.md) | E | E, F, G##, A#, B, C#, D, E | ![ENaturalKatalian](ModeENaturalKatalian.png) |
 | [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeAeolathian.md) | F | F, G##, A#, B, C#, D, E, F | ![FNaturalAeolathian](ModeFNaturalAeolathian.png) |
 | [2267](https://ianring.com/musictheory/scales/2267) | [Padian](ModePadian.md) | A# | A#, B, C#, D, E, F, G##, A# | ![ASharpPadian](ModeASharpPadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3181](https://ianring.com/musictheory/scales/3181) | [Rolian](ModeRolian.md) | B | B, C#, D, E, F, G##, A#, B | ![BNaturalRolian](CircleModeBNaturalRolian.png) |
+| [1819](https://ianring.com/musictheory/scales/1819) | [Pydian](ModePydian.md) | C# | C#, D, E, F, G##, A#, B, C# | ![CSharpPydian](CircleModeCSharpPydian.png) |
+| [2957](https://ianring.com/musictheory/scales/2957) | [Thygian](ModeThygian.md) | D | D, E, F, G##, A#, B, C#, D | ![DNaturalThygian](CircleModeDNaturalThygian.png) |
+| [1763](https://ianring.com/musictheory/scales/1763) | [Katalian](ModeKatalian.md) | E | E, F, G##, A#, B, C#, D, E | ![ENaturalKatalian](CircleModeENaturalKatalian.png) |
+| [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeAeolathian.md) | F | F, G##, A#, B, C#, D, E, F | ![FNaturalAeolathian](CircleModeFNaturalAeolathian.png) |
+| [2267](https://ianring.com/musictheory/scales/2267) | [Padian](ModePadian.md) | A# | A#, B, C#, D, E, F, G##, A# | ![ASharpPadian](CircleModeASharpPadian.png) |
 
 ## Chords
 

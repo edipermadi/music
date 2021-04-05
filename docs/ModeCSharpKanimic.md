@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ iii
 
 ![CSharpKanimic](ModeCSharpKanimic.png)
 
+## Diagram
+
+![CSharpKanimic](CircleModeCSharpKanimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | C# | C#, D###, E##, F##, G##, A###, C# | ![CSharpKanimic](ModeCSharpKanimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | C# | C#, D###, E##, F##, G##, A###, C# | ![CSharpKanimic](CircleModeCSharpKanimic.png) |
 
 ## Chords
 

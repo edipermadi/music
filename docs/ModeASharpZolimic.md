@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ II⁺, IV⁺, VI⁺
 
 ![ASharpZolimic](ModeASharpZolimic.png)
 
+## Diagram
+
+![ASharpZolimic](CircleModeASharpZolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1253](https://ianring.com/musictheory/scales/1253) | [Zolimic](ModeZolimic.md) | A# | A#, B#, C###, D##, E#, F###, A# | ![ASharpZolimic](ModeASharpZolimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1253](https://ianring.com/musictheory/scales/1253) | [Zolimic](ModeZolimic.md) | A# | A#, B#, C###, D##, E#, F###, A# | ![ASharpZolimic](CircleModeASharpZolimic.png) |
 
 ## Chords
 

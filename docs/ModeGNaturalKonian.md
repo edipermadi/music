@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ G
 
 ![GNaturalKonian](ModeGNaturalKonian.png)
 
+## Diagram
+
+![GNaturalKonian](CircleModeGNaturalKonian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ G
 | [2223](https://ianring.com/musictheory/scales/2223) | [Konian](ModeKonian.md) | G | G, Ab, Bbb, Cbb, Dbb, Ebb, F#, G | ![GNaturalKonian](ModeGNaturalKonian.png) |
 | [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeStocrian.md) | Ab | Ab, Bbb, Cbb, Dbb, Ebb, F#, G, Ab | ![AFlatStocrian](ModeAFlatStocrian.png) |
 | [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeEpanian.md) | F# | F#, G, Ab, Bbb, Cbb, Dbb, Ebb, F# | ![FSharpEpanian](ModeFSharpEpanian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2223](https://ianring.com/musictheory/scales/2223) | [Konian](ModeKonian.md) | G | G, Ab, Bbb, Cbb, Dbb, Ebb, F#, G | ![GNaturalKonian](CircleModeGNaturalKonian.png) |
+| [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeStocrian.md) | Ab | Ab, Bbb, Cbb, Dbb, Ebb, F#, G, Ab | ![AFlatStocrian](CircleModeAFlatStocrian.png) |
+| [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeEpanian.md) | F# | F#, G, Ab, Bbb, Cbb, Dbb, Ebb, F# | ![FSharpEpanian](CircleModeFSharpEpanian.png) |
 
 ## Chords
 

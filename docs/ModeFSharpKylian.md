@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, III
 
 ![FSharpKylian](ModeFSharpKylian.png)
 
+## Diagram
+
+![FSharpKylian](CircleModeFSharpKylian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ I⁺, III
 | [3475](https://ianring.com/musictheory/scales/3475) | [Kylian](ModeKylian.md) | F# | F#, G, A#, B##, C##, D##, E#, F# | ![FSharpKylian](ModeFSharpKylian.png) |
 | [3785](https://ianring.com/musictheory/scales/3785) | [Epagian](ModeEpagian.md) | G | G, A#, B##, C##, D##, E#, F#, G | ![GNaturalEpagian](ModeGNaturalEpagian.png) |
 | [985](https://ianring.com/musictheory/scales/985) | [Raptian](ModeRaptian.md) | A# | A#, B##, C##, D##, E#, F#, G, A# | ![ASharpRaptian](ModeASharpRaptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3475](https://ianring.com/musictheory/scales/3475) | [Kylian](ModeKylian.md) | F# | F#, G, A#, B##, C##, D##, E#, F# | ![FSharpKylian](CircleModeFSharpKylian.png) |
+| [3785](https://ianring.com/musictheory/scales/3785) | [Epagian](ModeEpagian.md) | G | G, A#, B##, C##, D##, E#, F#, G | ![GNaturalEpagian](CircleModeGNaturalEpagian.png) |
+| [985](https://ianring.com/musictheory/scales/985) | [Raptian](ModeRaptian.md) | A# | A#, B##, C##, D##, E#, F#, G, A# | ![ASharpRaptian](CircleModeASharpRaptian.png) |
 
 ## Chords
 

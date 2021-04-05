@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii⁰, iii, V⁺, VII
 
 ![DFlatSarian](ModeDFlatSarian.png)
 
+## Diagram
+
+![DFlatSarian](CircleModeDFlatSarian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | Db | Db, Ebb, Fbb, Gbb, Abbb, Bbbb, Cbb, Db | ![DFlatSarian](ModeDFlatSarian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | Db | Db, Ebb, Fbb, Gbb, Abbb, Bbbb, Cbb, Db | ![DFlatSarian](CircleModeDFlatSarian.png) |
 
 ## Chords
 

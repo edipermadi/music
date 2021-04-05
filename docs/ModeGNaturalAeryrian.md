@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ G
 
 ![GNaturalAeryrian](ModeGNaturalAeryrian.png)
 
+## Diagram
+
+![GNaturalAeryrian](CircleModeGNaturalAeryrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ G
 | [3913](https://ianring.com/musictheory/scales/3913) | [Bonian](ModeBonian.md) | Ab | Ab, B, C##, D##, E#, F#, G, Ab | ![AFlatBonian](ModeAFlatBonian.png) |
 | [1001](https://ianring.com/musictheory/scales/1001) | [Badian](ModeBadian.md) | B | B, C##, D##, E#, F#, G, Ab, B | ![BNaturalBadian](ModeBNaturalBadian.png) |
 | [3367](https://ianring.com/musictheory/scales/3367) | [Moptian](ModeMoptian.md) | F# | F#, G, Ab, B, C##, D##, E#, F# | ![FSharpMoptian](ModeFSharpMoptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3731](https://ianring.com/musictheory/scales/3731) | [Aeryrian](ModeAeryrian.md) | G | G, Ab, B, C##, D##, E#, F#, G | ![GNaturalAeryrian](CircleModeGNaturalAeryrian.png) |
+| [3913](https://ianring.com/musictheory/scales/3913) | [Bonian](ModeBonian.md) | Ab | Ab, B, C##, D##, E#, F#, G, Ab | ![AFlatBonian](CircleModeAFlatBonian.png) |
+| [1001](https://ianring.com/musictheory/scales/1001) | [Badian](ModeBadian.md) | B | B, C##, D##, E#, F#, G, Ab, B | ![BNaturalBadian](CircleModeBNaturalBadian.png) |
+| [3367](https://ianring.com/musictheory/scales/3367) | [Moptian](ModeMoptian.md) | F# | F#, G, Ab, B, C##, D##, E#, F# | ![FSharpMoptian](CircleModeFSharpMoptian.png) |
 
 ## Chords
 

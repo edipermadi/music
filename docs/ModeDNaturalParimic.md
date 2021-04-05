@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i⁰, II⁺, IV⁺, VI⁺
 
 ![DNaturalParimic](ModeDNaturalParimic.png)
 
+## Diagram
+
+![DNaturalParimic](CircleModeDNaturalParimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i⁰, II⁺, IV⁺, VI⁺
 | [1427](https://ianring.com/musictheory/scales/1427) | [Lolimic](ModeLolimic.md) | G | G, Ab, B, C##, D#, E#, G | ![GNaturalLolimic](ModeGNaturalLolimic.png) |
 | [2761](https://ianring.com/musictheory/scales/2761) | [Dagimic](ModeDagimic.md) | Ab | Ab, B, C##, D#, E#, F##, Ab | ![AFlatDagimic](ModeAFlatDagimic.png) |
 | [857](https://ianring.com/musictheory/scales/857) | [Aeolydimic](ModeAeolydimic.md) | B | B, C##, D#, E#, F##, G#, B | ![BNaturalAeolydimic](ModeBNaturalAeolydimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [619](https://ianring.com/musictheory/scales/619) | [Parimic](ModeParimic.md) | D | D, Eb, F, G, Ab, B, D | ![DNaturalParimic](CircleModeDNaturalParimic.png) |
+| [2357](https://ianring.com/musictheory/scales/2357) | [Ionaptimic](ModeIonaptimic.md) | Eb | Eb, F, G, Ab, B, C##, Eb | ![EFlatIonaptimic](CircleModeEFlatIonaptimic.png) |
+| [1613](https://ianring.com/musictheory/scales/1613) | [Thylimic](ModeThylimic.md) | F | F, G, Ab, B, C##, D#, F | ![FNaturalThylimic](CircleModeFNaturalThylimic.png) |
+| [1427](https://ianring.com/musictheory/scales/1427) | [Lolimic](ModeLolimic.md) | G | G, Ab, B, C##, D#, E#, G | ![GNaturalLolimic](CircleModeGNaturalLolimic.png) |
+| [2761](https://ianring.com/musictheory/scales/2761) | [Dagimic](ModeDagimic.md) | Ab | Ab, B, C##, D#, E#, F##, Ab | ![AFlatDagimic](CircleModeAFlatDagimic.png) |
+| [857](https://ianring.com/musictheory/scales/857) | [Aeolydimic](ModeAeolydimic.md) | B | B, C##, D#, E#, F##, G#, B | ![BNaturalAeolydimic](CircleModeBNaturalAeolydimic.png) |
 
 ## Chords
 

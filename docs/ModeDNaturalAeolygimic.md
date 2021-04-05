@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i⁰, VI
 
 ![DNaturalAeolygimic](ModeDNaturalAeolygimic.png)
 
+## Diagram
+
+![DNaturalAeolygimic](CircleModeDNaturalAeolygimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i⁰, VI
 | [2853](https://ianring.com/musictheory/scales/2853) | [Baptimic](ModeBaptimic.md) | Gb | Gb, Ab, B, C##, D#, E#, Gb | ![GFlatBaptimic](ModeGFlatBaptimic.png) |
 | [1737](https://ianring.com/musictheory/scales/1737) | [Thalimic](ModeThalimic.md) | Ab | Ab, B, C##, D#, E#, F#, Ab | ![AFlatThalimic](ModeAFlatThalimic.png) |
 | [729](https://ianring.com/musictheory/scales/729) | [Stygimic](ModeStygimic.md) | B | B, C##, D#, E#, F#, G#, B | ![BNaturalStygimic](ModeBNaturalStygimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [603](https://ianring.com/musictheory/scales/603) | [Aeolygimic](ModeAeolygimic.md) | D | D, Eb, F, Gb, Ab, B, D | ![DNaturalAeolygimic](CircleModeDNaturalAeolygimic.png) |
+| [2349](https://ianring.com/musictheory/scales/2349) | [Aerogimic](ModeAerogimic.md) | Eb | Eb, F, Gb, Ab, B, C##, Eb | ![EFlatAerogimic](CircleModeEFlatAerogimic.png) |
+| [1611](https://ianring.com/musictheory/scales/1611) | [Dacrimic](ModeDacrimic.md) | F | F, Gb, Ab, B, C##, D#, F | ![FNaturalDacrimic](CircleModeFNaturalDacrimic.png) |
+| [2853](https://ianring.com/musictheory/scales/2853) | [Baptimic](ModeBaptimic.md) | Gb | Gb, Ab, B, C##, D#, E#, Gb | ![GFlatBaptimic](CircleModeGFlatBaptimic.png) |
+| [1737](https://ianring.com/musictheory/scales/1737) | [Thalimic](ModeThalimic.md) | Ab | Ab, B, C##, D#, E#, F#, Ab | ![AFlatThalimic](CircleModeAFlatThalimic.png) |
+| [729](https://ianring.com/musictheory/scales/729) | [Stygimic](ModeStygimic.md) | B | B, C##, D#, E#, F#, G#, B | ![BNaturalStygimic](CircleModeBNaturalStygimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ IV⁺, VI
 
 ![CSharpLygian](ModeCSharpLygian.png)
 
+## Diagram
+
+![CSharpLygian](CircleModeCSharpLygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ IV⁺, VI
 | [3737](https://ianring.com/musictheory/scales/3737) | [Phrocrian](ModePhrocrian.md) | Gb | Gb, A, Bb, C#, D#, E, F, Gb | ![GFlatPhrocrian](ModeGFlatPhrocrian.png) |
 | [979](https://ianring.com/musictheory/scales/979) | [Thogian](ModeThogian.md) | A | A, Bb, C#, D#, E, F, Gb, A | ![ANaturalThogian](ModeANaturalThogian.png) |
 | [2537](https://ianring.com/musictheory/scales/2537) | [Laptian](ModeLaptian.md) | Bb | Bb, C#, D#, E, F, Gb, A, Bb | ![BFlatLaptian](ModeBFlatLaptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [829](https://ianring.com/musictheory/scales/829) | [Lygian](ModeLygian.md) | C# | C#, D#, E, F, Gb, A, Bb, C# | ![CSharpLygian](CircleModeCSharpLygian.png) |
+| [1231](https://ianring.com/musictheory/scales/1231) | [Logian](ModeLogian.md) | D# | D#, E, F, Gb, A, Bb, C#, D# | ![DSharpLogian](CircleModeDSharpLogian.png) |
+| [2663](https://ianring.com/musictheory/scales/2663) | [Lalian](ModeLalian.md) | E | E, F, Gb, A, Bb, C#, D#, E | ![ENaturalLalian](CircleModeENaturalLalian.png) |
+| [3379](https://ianring.com/musictheory/scales/3379) | [Sothian](ModeSothian.md) | F | F, Gb, A, Bb, C#, D#, E, F | ![FNaturalSothian](CircleModeFNaturalSothian.png) |
+| [3737](https://ianring.com/musictheory/scales/3737) | [Phrocrian](ModePhrocrian.md) | Gb | Gb, A, Bb, C#, D#, E, F, Gb | ![GFlatPhrocrian](CircleModeGFlatPhrocrian.png) |
+| [979](https://ianring.com/musictheory/scales/979) | [Thogian](ModeThogian.md) | A | A, Bb, C#, D#, E, F, Gb, A | ![ANaturalThogian](CircleModeANaturalThogian.png) |
+| [2537](https://ianring.com/musictheory/scales/2537) | [Laptian](ModeLaptian.md) | Bb | Bb, C#, D#, E, F, Gb, A, Bb | ![BFlatLaptian](CircleModeBFlatLaptian.png) |
 
 ## Chords
 

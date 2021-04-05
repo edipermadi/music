@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii, IV, V⁺, vi
 
 ![FNaturalDolian](ModeFNaturalDolian.png)
 
+## Diagram
+
+![FNaturalDolian](CircleModeFNaturalDolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ I, iii, IV, V⁺, vi
 | [1845](https://ianring.com/musictheory/scales/1845) | [Lagian](ModeLagian.md) | C | C, D, E, F, G#, A, Bb, C | ![CNaturalLagian](ModeCNaturalLagian.png) |
 | [1485](https://ianring.com/musictheory/scales/1485) | [Tyrian](ModeTyrian.md) | D | D, E, F, G#, A, Bb, C, D | ![DNaturalTyrian](ModeDNaturalTyrian.png) |
 | [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeMixonorian.md) | E | E, F, G#, A, Bb, C, D, E | ![ENaturalMixonorian](ModeENaturalMixonorian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2745](https://ianring.com/musictheory/scales/2745) | [Dolian](ModeDolian.md) | F | F, G#, A, Bb, C, D, E, F | ![FNaturalDolian](CircleModeFNaturalDolian.png) |
+| [855](https://ianring.com/musictheory/scales/855) | [Porian](ModePorian.md) | G# | G#, A, Bb, C, D, E, F, G# | ![GSharpPorian](CircleModeGSharpPorian.png) |
+| [2475](https://ianring.com/musictheory/scales/2475) | [Aerylian](ModeAerylian.md) | A | A, Bb, C, D, E, F, G#, A | ![ANaturalAerylian](CircleModeANaturalAerylian.png) |
+| [3285](https://ianring.com/musictheory/scales/3285) | [Zagian](ModeZagian.md) | Bb | Bb, C, D, E, F, G#, A, Bb | ![BFlatZagian](CircleModeBFlatZagian.png) |
+| [1845](https://ianring.com/musictheory/scales/1845) | [Lagian](ModeLagian.md) | C | C, D, E, F, G#, A, Bb, C | ![CNaturalLagian](CircleModeCNaturalLagian.png) |
+| [1485](https://ianring.com/musictheory/scales/1485) | [Tyrian](ModeTyrian.md) | D | D, E, F, G#, A, Bb, C, D | ![DNaturalTyrian](CircleModeDNaturalTyrian.png) |
+| [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeMixonorian.md) | E | E, F, G#, A, Bb, C, D, E | ![ENaturalMixonorian](CircleModeENaturalMixonorian.png) |
 
 ## Chords
 

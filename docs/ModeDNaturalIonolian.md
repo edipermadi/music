@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iii⁰, v⁰
 
 ![DNaturalIonolian](ModeDNaturalIonolian.png)
 
+## Diagram
+
+![DNaturalIonolian](CircleModeDNaturalIonolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ iii⁰, v⁰
 | [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | A# | A#, B, C#, D, E, F##, G##, A# | ![ASharpPanian](ModeASharpPanian.png) |
 | [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | B | B, C#, D, E, F##, G##, A#, B | ![BNaturalLodian](ModeBNaturalLodian.png) |
 | [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | C# | C#, D, E, F##, G##, A#, B, C# | ![CSharpSolian](ModeCSharpSolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2981](https://ianring.com/musictheory/scales/2981) | [Ionolian](ModeIonolian.md) | D | D, E, F##, G##, A#, B, C#, D | ![DNaturalIonolian](CircleModeDNaturalIonolian.png) |
+| [1769](https://ianring.com/musictheory/scales/1769) | [Rythian](ModeRythian.md) | E | E, F##, G##, A#, B, C#, D, E | ![ENaturalRythian](CircleModeENaturalRythian.png) |
+| [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | A# | A#, B, C#, D, E, F##, G##, A# | ![ASharpPanian](CircleModeASharpPanian.png) |
+| [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | B | B, C#, D, E, F##, G##, A#, B | ![BNaturalLodian](CircleModeBNaturalLodian.png) |
+| [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | C# | C#, D, E, F##, G##, A#, B, C# | ![CSharpSolian](CircleModeCSharpSolian.png) |
 
 ## Chords
 

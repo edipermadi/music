@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ ii
 
 ![DSharpKatythimic](ModeDSharpKatythimic.png)
 
+## Diagram
+
+![DSharpKatythimic](CircleModeDSharpKatythimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3281](https://ianring.com/musictheory/scales/3281) | [Katythimic](ModeKatythimic.md) | D# | D#, E###, Cbbb, Cbb, Db, Ebb, D# | ![DSharpKatythimic](ModeDSharpKatythimic.png) |
 | [839](https://ianring.com/musictheory/scales/839) | [Ionathimic](ModeIonathimic.md) | Db | Db, Ebb, Fbb, G, A, Bb, Db | ![DFlatIonathimic](ModeDFlatIonathimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3281](https://ianring.com/musictheory/scales/3281) | [Katythimic](ModeKatythimic.md) | D# | D#, E###, Cbbb, Cbb, Db, Ebb, D# | ![DSharpKatythimic](CircleModeDSharpKatythimic.png) |
+| [839](https://ianring.com/musictheory/scales/839) | [Ionathimic](ModeIonathimic.md) | Db | Db, Ebb, Fbb, G, A, Bb, Db | ![DFlatIonathimic](CircleModeDFlatIonathimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III, v⁰, vi⁰, vii⁰
 
 ![FNaturalKathian](ModeFNaturalKathian.png)
 
+## Diagram
+
+![FNaturalKathian](CircleModeFNaturalKathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, III, v⁰, vi⁰, vii⁰
 | [877](https://ianring.com/musictheory/scales/877) | [Aeraptian](ModeAeraptian.md) | C | C, D, Eb, F, Gb, Ab, Bbb, C | ![CNaturalAeraptian](ModeCNaturalAeraptian.png) |
 | [1243](https://ianring.com/musictheory/scales/1243) | [Epylian](ModeEpylian.md) | D | D, Eb, F, Gb, Ab, Bbb, C, D | ![DNaturalEpylian](ModeDNaturalEpylian.png) |
 | [2669](https://ianring.com/musictheory/scales/2669) | [Gamian](ModeGamian.md) | Eb | Eb, F, Gb, Ab, Bbb, C, D, Eb | ![EFlatGamian](ModeEFlatGamian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1691](https://ianring.com/musictheory/scales/1691) | [Kathian](ModeKathian.md) | F | F, Gb, Ab, Bbb, C, D, Eb, F | ![FNaturalKathian](CircleModeFNaturalKathian.png) |
+| [2893](https://ianring.com/musictheory/scales/2893) | [Lylian](ModeLylian.md) | Gb | Gb, Ab, Bbb, C, D, Eb, F, Gb | ![GFlatLylian](CircleModeGFlatLylian.png) |
+| [1747](https://ianring.com/musictheory/scales/1747) | [Epalian](ModeEpalian.md) | Ab | Ab, Bbb, C, D, Eb, F, Gb, Ab | ![AFlatEpalian](CircleModeAFlatEpalian.png) |
+| [877](https://ianring.com/musictheory/scales/877) | [Aeraptian](ModeAeraptian.md) | C | C, D, Eb, F, Gb, Ab, Bbb, C | ![CNaturalAeraptian](CircleModeCNaturalAeraptian.png) |
+| [1243](https://ianring.com/musictheory/scales/1243) | [Epylian](ModeEpylian.md) | D | D, Eb, F, Gb, Ab, Bbb, C, D | ![DNaturalEpylian](CircleModeDNaturalEpylian.png) |
+| [2669](https://ianring.com/musictheory/scales/2669) | [Gamian](ModeGamian.md) | Eb | Eb, F, Gb, Ab, Bbb, C, D, Eb | ![EFlatGamian](CircleModeEFlatGamian.png) |
 
 ## Chords
 

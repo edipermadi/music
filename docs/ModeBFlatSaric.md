@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -49,6 +49,10 @@ Bb
 
 ![BFlatSaric](ModeBFlatSaric.png)
 
+## Diagram
+
+![BFlatSaric](CircleModeBFlatSaric.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -57,6 +61,14 @@ Bb
 | [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | D | D, E, G, A#, D | ![DNaturalZoptic](ModeDNaturalZoptic.png) |
 | [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | E | E, G, A#, D, E | ![ENaturalAeraphic](ModeENaturalAeraphic.png) |
 | [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | G | G, A#, D, E, G | ![GNaturalByptic](ModeGNaturalByptic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | Bb | Bb, D, E, G, Bb | ![BFlatSaric](CircleModeBFlatSaric.png) |
+| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | D | D, E, G, A#, D | ![DNaturalZoptic](CircleModeDNaturalZoptic.png) |
+| [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | E | E, G, A#, D, E | ![ENaturalAeraphic](CircleModeENaturalAeraphic.png) |
+| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | G | G, A#, D, E, G | ![GNaturalByptic](CircleModeGNaturalByptic.png) |
 
 ## Chords
 

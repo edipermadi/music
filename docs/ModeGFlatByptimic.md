@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ iii, iv
 
 ![GFlatByptimic](ModeGFlatByptimic.png)
 
+## Diagram
+
+![GFlatByptimic](CircleModeGFlatByptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ iii, iv
 | [1195](https://ianring.com/musictheory/scales/1195) | [Sarimic](ModeSarimic.md) | C# | C#, D, E, F#, G#, A##, C# | ![CSharpSarimic](ModeCSharpSarimic.png) |
 | [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | D | D, E, F#, G#, A##, B##, D | ![DNaturalZoptimic](ModeDNaturalZoptimic.png) |
 | [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | E | E, F#, G#, A##, B##, C##, E | ![ENaturalZeracrimic](ModeENaturalZeracrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | Gb | Gb, Ab, B, C#, D, E, Gb | ![GFlatByptimic](CircleModeGFlatByptimic.png) |
+| [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | Ab | Ab, B, C#, D, E, F#, Ab | ![AFlatPhracrimic](CircleModeAFlatPhracrimic.png) |
+| [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeAerathimic.md) | B | B, C#, D, E, F#, G#, B | ![BNaturalAerathimic](CircleModeBNaturalAerathimic.png) |
+| [1195](https://ianring.com/musictheory/scales/1195) | [Sarimic](ModeSarimic.md) | C# | C#, D, E, F#, G#, A##, C# | ![CSharpSarimic](CircleModeCSharpSarimic.png) |
+| [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | D | D, E, F#, G#, A##, B##, D | ![DNaturalZoptimic](CircleModeDNaturalZoptimic.png) |
+| [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | E | E, F#, G#, A##, B##, C##, E | ![ENaturalZeracrimic](CircleModeENaturalZeracrimic.png) |
 
 ## Chords
 

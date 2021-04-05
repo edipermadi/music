@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -57,6 +57,10 @@ A#
 
 ![ASharpChromatic](ModeASharpChromatic.png)
 
+## Diagram
+
+![ASharpChromatic](CircleModeASharpChromatic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -73,6 +77,22 @@ A#
 | [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | G | G, G#, A, A#, B, C, C#, D, D#, E, F, F#, G | ![GNaturalChromatic](ModeGNaturalChromatic.png) |
 | [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | G# | G#, A, A#, B, C, C#, D, D#, E, F, F#, G, G# | ![GSharpChromatic](ModeGSharpChromatic.png) |
 | [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | A | A, A#, B, C, C#, D, D#, E, F, F#, G, G#, A | ![ANaturalChromatic](ModeANaturalChromatic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | A# | A#, B, C, C#, D, D#, E, F, F#, G, G#, A, A# | ![ASharpChromatic](CircleModeASharpChromatic.png) |
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | B | B, C, C#, D, D#, E, F, F#, G, G#, A, A#, B | ![BNaturalChromatic](CircleModeBNaturalChromatic.png) |
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | C | C, C#, D, D#, E, F, F#, G, G#, A, A#, B, C | ![CNaturalChromatic](CircleModeCNaturalChromatic.png) |
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | C# | C#, D, D#, E, F, F#, G, G#, A, A#, B, C, C# | ![CSharpChromatic](CircleModeCSharpChromatic.png) |
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | D | D, D#, E, F, F#, G, G#, A, A#, B, C, C#, D | ![DNaturalChromatic](CircleModeDNaturalChromatic.png) |
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | D# | D#, E, F, F#, G, G#, A, A#, B, C, C#, D, D# | ![DSharpChromatic](CircleModeDSharpChromatic.png) |
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | E | E, F, F#, G, G#, A, A#, B, C, C#, D, D#, E | ![ENaturalChromatic](CircleModeENaturalChromatic.png) |
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | F | F, F#, G, G#, A, A#, B, C, C#, D, D#, E, F | ![FNaturalChromatic](CircleModeFNaturalChromatic.png) |
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | F# | F#, G, G#, A, A#, B, C, C#, D, D#, E, F, F# | ![FSharpChromatic](CircleModeFSharpChromatic.png) |
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | G | G, G#, A, A#, B, C, C#, D, D#, E, F, F#, G | ![GNaturalChromatic](CircleModeGNaturalChromatic.png) |
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | G# | G#, A, A#, B, C, C#, D, D#, E, F, F#, G, G# | ![GSharpChromatic](CircleModeGSharpChromatic.png) |
+| [4095](https://ianring.com/musictheory/scales/4095) | [Chromatic](ModeChromatic.md) | A | A, A#, B, C, C#, D, D#, E, F, F#, G, G#, A | ![ANaturalChromatic](CircleModeANaturalChromatic.png) |
 
 ## Chords
 

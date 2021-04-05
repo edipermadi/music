@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii⁰, III⁺, V, vii⁰
 
 ![DFlatEpaptian](ModeDFlatEpaptian.png)
 
+## Diagram
+
+![DFlatEpaptian](CircleModeDFlatEpaptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1239](https://ianring.com/musictheory/scales/1239) | [Epaptian](ModeEpaptian.md) | Db | Db, Ebb, Fbb, Gbb, Abb, Bbbb, Cb, Db | ![DFlatEpaptian](ModeDFlatEpaptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1239](https://ianring.com/musictheory/scales/1239) | [Epaptian](ModeEpaptian.md) | Db | Db, Ebb, Fbb, Gbb, Abb, Bbbb, Cb, Db | ![DFlatEpaptian](CircleModeDFlatEpaptian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iii⁰, v, VII⁺
 
 ![EFlatEpacrian](ModeEFlatEpacrian.png)
 
+## Diagram
+
+![EFlatEpacrian](CircleModeEFlatEpacrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ iii⁰, v, VII⁺
 | [2715](https://ianring.com/musictheory/scales/2715) | [Kynian](ModeKynian.md) | B | B, C, D, Eb, F#, G#, A#, B | ![BNaturalKynian](ModeBNaturalKynian.png) |
 | [3405](https://ianring.com/musictheory/scales/3405) | [Stynian](ModeStynian.md) | C | C, D, Eb, F#, G#, A#, B, C | ![CNaturalStynian](ModeCNaturalStynian.png) |
 | [1875](https://ianring.com/musictheory/scales/1875) | [Epyphian](ModeEpyphian.md) | D | D, Eb, F#, G#, A#, B, C, D | ![DNaturalEpyphian](ModeDNaturalEpyphian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2985](https://ianring.com/musictheory/scales/2985) | [Epacrian](ModeEpacrian.md) | Eb | Eb, F#, G#, A#, B, C, D, Eb | ![EFlatEpacrian](CircleModeEFlatEpacrian.png) |
+| [885](https://ianring.com/musictheory/scales/885) | [Sathian](ModeSathian.md) | F# | F#, G#, A#, B, C, D, Eb, F# | ![FSharpSathian](CircleModeFSharpSathian.png) |
+| [1245](https://ianring.com/musictheory/scales/1245) | [Lathian](ModeLathian.md) | G# | G#, A#, B, C, D, Eb, F#, G# | ![GSharpLathian](CircleModeGSharpLathian.png) |
+| [1335](https://ianring.com/musictheory/scales/1335) | [Aeralian](ModeAeralian.md) | A# | A#, B, C, D, Eb, F#, G#, A# | ![ASharpAeralian](CircleModeASharpAeralian.png) |
+| [2715](https://ianring.com/musictheory/scales/2715) | [Kynian](ModeKynian.md) | B | B, C, D, Eb, F#, G#, A#, B | ![BNaturalKynian](CircleModeBNaturalKynian.png) |
+| [3405](https://ianring.com/musictheory/scales/3405) | [Stynian](ModeStynian.md) | C | C, D, Eb, F#, G#, A#, B, C | ![CNaturalStynian](CircleModeCNaturalStynian.png) |
+| [1875](https://ianring.com/musictheory/scales/1875) | [Epyphian](ModeEpyphian.md) | D | D, Eb, F#, G#, A#, B, C, D | ![DNaturalEpyphian](CircleModeDNaturalEpyphian.png) |
 
 ## Chords
 

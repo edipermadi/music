@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ II, iii⁰
 
 ![ENaturalThalimic](ModeENaturalThalimic.png)
 
+## Diagram
+
+![ENaturalThalimic](CircleModeENaturalThalimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1737](https://ianring.com/musictheory/scales/1737) | [Thalimic](ModeThalimic.md) | E | E, F##, G###, A##, B##, C##, E | ![ENaturalThalimic](ModeENaturalThalimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1737](https://ianring.com/musictheory/scales/1737) | [Thalimic](ModeThalimic.md) | E | E, F##, G###, A##, B##, C##, E | ![ENaturalThalimic](CircleModeENaturalThalimic.png) |
 
 ## Chords
 

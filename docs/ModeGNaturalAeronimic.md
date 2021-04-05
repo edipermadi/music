@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ ii
 
 ![GNaturalAeronimic](ModeGNaturalAeronimic.png)
 
+## Diagram
+
+![GNaturalAeronimic](CircleModeGNaturalAeronimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ ii
 | [2707](https://ianring.com/musictheory/scales/2707) | [Banimic](ModeBanimic.md) | C | C, Db, E, F##, G##, A##, C | ![CNaturalBanimic](ModeCNaturalBanimic.png) |
 | [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModePalimic.md) | Db | Db, E, F##, G##, A##, B#, Db | ![DFlatPalimic](ModeDFlatPalimic.png) |
 | [937](https://ianring.com/musictheory/scales/937) | [Stothimic](ModeStothimic.md) | E | E, F##, G##, A##, B#, C#, E | ![ENaturalStothimic](ModeENaturalStothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [629](https://ianring.com/musictheory/scales/629) | [Aeronimic](ModeAeronimic.md) | G | G, A, B, C, Db, E, G | ![GNaturalAeronimic](CircleModeGNaturalAeronimic.png) |
+| [1181](https://ianring.com/musictheory/scales/1181) | [Katagimic](ModeKatagimic.md) | A | A, B, C, Db, E, F##, A | ![ANaturalKatagimic](CircleModeANaturalKatagimic.png) |
+| [1319](https://ianring.com/musictheory/scales/1319) | [Phronimic](ModePhronimic.md) | B | B, C, Db, E, F##, G##, B | ![BNaturalPhronimic](CircleModeBNaturalPhronimic.png) |
+| [2707](https://ianring.com/musictheory/scales/2707) | [Banimic](ModeBanimic.md) | C | C, Db, E, F##, G##, A##, C | ![CNaturalBanimic](CircleModeCNaturalBanimic.png) |
+| [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModePalimic.md) | Db | Db, E, F##, G##, A##, B#, Db | ![DFlatPalimic](CircleModeDFlatPalimic.png) |
+| [937](https://ianring.com/musictheory/scales/937) | [Stothimic](ModeStothimic.md) | E | E, F##, G##, A##, B#, C#, E | ![ENaturalStothimic](CircleModeENaturalStothimic.png) |
 
 ## Chords
 

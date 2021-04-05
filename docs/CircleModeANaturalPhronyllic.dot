@@ -1,0 +1,22 @@
+
+graph {
+
+layout = circo;
+mindist = .1
+
+node [shape = circle, fontname = Helvetica, margin = 0]
+edge [style=invis]
+
+subgraph 1 {
+	E -- B -- Gb -- Db -- Ab -- Eb -- Bb -- F -- C -- G -- D -- A -- E
+}
+
+E [color=orange];
+B [color=orange];
+Gb [color=orange];
+Db [color=orange];
+F [color=orange];
+C [color=orange];
+D [color=orange];
+A [color=blue];
+}

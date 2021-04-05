@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰
 
 ![GSharpAeolyptian](ModeGSharpAeolyptian.png)
 
+## Diagram
+
+![GSharpAeolyptian](CircleModeGSharpAeolyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰
 | [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeAeolagian.md) | C# | C#, D, Eb, F##, G#, A, B, C# | ![CSharpAeolagian](ModeCSharpAeolagian.png) |
 | [2787](https://ianring.com/musictheory/scales/2787) | [Zyrian](ModeZyrian.md) | D | D, Eb, F##, G#, A, B, C#, D | ![DNaturalZyrian](ModeDNaturalZyrian.png) |
 | [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeThacrian.md) | Eb | Eb, F##, G#, A, B, C#, D, Eb | ![EFlatThacrian](ModeEFlatThacrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2283](https://ianring.com/musictheory/scales/2283) | [Aeolyptian](ModeAeolyptian.md) | G# | G#, A, B, C#, D, Eb, F##, G# | ![GSharpAeolyptian](CircleModeGSharpAeolyptian.png) |
+| [3189](https://ianring.com/musictheory/scales/3189) | [Aeolonian](ModeAeolonian.md) | A | A, B, C#, D, Eb, F##, G#, A | ![ANaturalAeolonian](CircleModeANaturalAeolonian.png) |
+| [1821](https://ianring.com/musictheory/scales/1821) | [Aeradian](ModeAeradian.md) | B | B, C#, D, Eb, F##, G#, A, B | ![BNaturalAeradian](CircleModeBNaturalAeradian.png) |
+| [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeAeolagian.md) | C# | C#, D, Eb, F##, G#, A, B, C# | ![CSharpAeolagian](CircleModeCSharpAeolagian.png) |
+| [2787](https://ianring.com/musictheory/scales/2787) | [Zyrian](ModeZyrian.md) | D | D, Eb, F##, G#, A, B, C#, D | ![DNaturalZyrian](CircleModeDNaturalZyrian.png) |
+| [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeThacrian.md) | Eb | Eb, F##, G#, A, B, C#, D, Eb | ![EFlatThacrian](CircleModeEFlatThacrian.png) |
 
 ## Chords
 

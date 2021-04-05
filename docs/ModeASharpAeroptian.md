@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ I⁺, II, iv⁰, vi, VII⁺
 
 ![ASharpAeroptian](ModeASharpAeroptian.png)
 
+## Diagram
+
+![ASharpAeroptian](CircleModeASharpAeroptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeAeroptian.md) | A# | A#, B#, C##, D##, E##, F##, G#, A# | ![ASharpAeroptian](ModeASharpAeroptian.png) |
 | [3413](https://ianring.com/musictheory/scales/3413) | [Aeolynian](ModeAeolynian.md) | G# | G#, A#, B#, C##, D##, E##, F##, G# | ![GSharpAeolynian](ModeGSharpAeolynian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeAeroptian.md) | A# | A#, B#, C##, D##, E##, F##, G#, A# | ![ASharpAeroptian](CircleModeASharpAeroptian.png) |
+| [3413](https://ianring.com/musictheory/scales/3413) | [Aeolynian](ModeAeolynian.md) | G# | G#, A#, B#, C##, D##, E##, F##, G# | ![GSharpAeolynian](CircleModeGSharpAeolynian.png) |
 
 ## Chords
 

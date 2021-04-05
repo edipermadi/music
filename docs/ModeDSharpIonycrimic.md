@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I, VI
 
 ![DSharpIonycrimic](ModeDSharpIonycrimic.png)
 
+## Diagram
+
+![DSharpIonycrimic](CircleModeDSharpIonycrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ I, VI
 | [1205](https://ianring.com/musictheory/scales/1205) | [Ionycrimic](ModeIonycrimic.md) | D# | D#, E#, F##, G#, A#, B##, D# | ![DSharpIonycrimic](ModeDSharpIonycrimic.png) |
 | [2725](https://ianring.com/musictheory/scales/2725) | [Gonimic](ModeGonimic.md) | G# | G#, A#, B##, C###, D###, E###, G# | ![GSharpGonimic](ModeGSharpGonimic.png) |
 | [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeDarmic.md) | A# | A#, B##, C###, D###, E###, F###, A# | ![ASharpDarmic](ModeASharpDarmic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1205](https://ianring.com/musictheory/scales/1205) | [Ionycrimic](ModeIonycrimic.md) | D# | D#, E#, F##, G#, A#, B##, D# | ![DSharpIonycrimic](CircleModeDSharpIonycrimic.png) |
+| [2725](https://ianring.com/musictheory/scales/2725) | [Gonimic](ModeGonimic.md) | G# | G#, A#, B##, C###, D###, E###, G# | ![GSharpGonimic](CircleModeGSharpGonimic.png) |
+| [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeDarmic.md) | A# | A#, B##, C###, D###, E###, F###, A# | ![ASharpDarmic](CircleModeASharpDarmic.png) |
 
 ## Chords
 

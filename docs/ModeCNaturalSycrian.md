@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ iii, V⁺
 
 ![CNaturalSycrian](ModeCNaturalSycrian.png)
 
+## Diagram
+
+![CNaturalSycrian](CircleModeCNaturalSycrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [623](https://ianring.com/musictheory/scales/623) | [Sycrian](ModeSycrian.md) | C | C, Db, Ebb, Fbb, Gbb, Abbb, Bbb, C | ![CNaturalSycrian](ModeCNaturalSycrian.png) |
 | [2359](https://ianring.com/musictheory/scales/2359) | [Gadian](ModeGadian.md) | Db | Db, Ebb, Fbb, Gbb, Abbb, Bbb, C, Db | ![DFlatGadian](ModeDFlatGadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [623](https://ianring.com/musictheory/scales/623) | [Sycrian](ModeSycrian.md) | C | C, Db, Ebb, Fbb, Gbb, Abbb, Bbb, C | ![CNaturalSycrian](CircleModeCNaturalSycrian.png) |
+| [2359](https://ianring.com/musictheory/scales/2359) | [Gadian](ModeGadian.md) | Db | Db, Ebb, Fbb, Gbb, Abbb, Bbb, C, Db | ![DFlatGadian](CircleModeDFlatGadian.png) |
 
 ## Chords
 

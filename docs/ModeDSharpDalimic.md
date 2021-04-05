@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ II⁺, IV⁺, VI⁺
 
 ![DSharpDalimic](ModeDSharpDalimic.png)
 
+## Diagram
+
+![DSharpDalimic](CircleModeDSharpDalimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDalimic.md) | D# | D#, E##, F###, G###, Db, Ebb, D# | ![DSharpDalimic](ModeDSharpDalimic.png) |
 | [679](https://ianring.com/musictheory/scales/679) | [Lanimic](ModeLanimic.md) | Db | Db, Ebb, Fbb, Gb, Ab, Bb, Db | ![DFlatLanimic](ModeDFlatLanimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDalimic.md) | D# | D#, E##, F###, G###, Db, Ebb, D# | ![DSharpDalimic](CircleModeDSharpDalimic.png) |
+| [679](https://ianring.com/musictheory/scales/679) | [Lanimic](ModeLanimic.md) | Db | Db, Ebb, Fbb, Gb, Ab, Bb, Db | ![DFlatLanimic](CircleModeDFlatLanimic.png) |
 
 ## Chords
 

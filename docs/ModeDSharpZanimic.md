@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ D#
 
 ![DSharpZanimic](ModeDSharpZanimic.png)
 
+## Diagram
+
+![DSharpZanimic](CircleModeDSharpZanimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ D#
 | [3625](https://ianring.com/musictheory/scales/3625) | [Podimic](ModePodimic.md) | Gb | Gb, A, B, C###, D##, E#, Gb | ![GFlatPodimic](ModeGFlatPodimic.png) |
 | [965](https://ianring.com/musictheory/scales/965) | [Ionothimic](ModeIonothimic.md) | A | A, B, C###, D##, E#, F#, A | ![ANaturalIonothimic](ModeANaturalIonothimic.png) |
 | [1265](https://ianring.com/musictheory/scales/1265) | [Pynimic](ModePynimic.md) | B | B, C###, D##, E#, F#, G##, B | ![BNaturalPynimic](ModeBNaturalPynimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [335](https://ianring.com/musictheory/scales/335) | [Zanimic](ModeZanimic.md) | D# | D#, E, F, Gb, A, B, D# | ![DSharpZanimic](CircleModeDSharpZanimic.png) |
+| [2215](https://ianring.com/musictheory/scales/2215) | [Ranimic](ModeRanimic.md) | E | E, F, Gb, A, B, C###, E | ![ENaturalRanimic](CircleModeENaturalRanimic.png) |
+| [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeLadimic.md) | F | F, Gb, A, B, C###, D##, F | ![FNaturalLadimic](CircleModeFNaturalLadimic.png) |
+| [3625](https://ianring.com/musictheory/scales/3625) | [Podimic](ModePodimic.md) | Gb | Gb, A, B, C###, D##, E#, Gb | ![GFlatPodimic](CircleModeGFlatPodimic.png) |
+| [965](https://ianring.com/musictheory/scales/965) | [Ionothimic](ModeIonothimic.md) | A | A, B, C###, D##, E#, F#, A | ![ANaturalIonothimic](CircleModeANaturalIonothimic.png) |
+| [1265](https://ianring.com/musictheory/scales/1265) | [Pynimic](ModePynimic.md) | B | B, C###, D##, E#, F#, G##, B | ![BNaturalPynimic](CircleModeBNaturalPynimic.png) |
 
 ## Chords
 

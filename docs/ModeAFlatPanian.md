@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, vi⁰
 
 ![AFlatPanian](ModeAFlatPanian.png)
 
+## Diagram
+
+![AFlatPanian](CircleModeAFlatPanian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ i⁰, vi⁰
 | [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | Ab | Ab, Bbb, Cb, Dbb, Ebb, F, G, Ab | ![AFlatPanian](ModeAFlatPanian.png) |
 | [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeDonian.md) | F | F, G, Ab, Bbb, Cb, Dbb, Ebb, F | ![FNaturalDonian](ModeFNaturalDonian.png) |
 | [1207](https://ianring.com/musictheory/scales/1207) | [Aeoloptian](ModeAeoloptian.md) | G | G, Ab, Bbb, Cb, Dbb, Ebb, F, G | ![GNaturalAeoloptian](ModeGNaturalAeoloptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | Ab | Ab, Bbb, Cb, Dbb, Ebb, F, G, Ab | ![AFlatPanian](CircleModeAFlatPanian.png) |
+| [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeDonian.md) | F | F, G, Ab, Bbb, Cb, Dbb, Ebb, F | ![FNaturalDonian](CircleModeFNaturalDonian.png) |
+| [1207](https://ianring.com/musictheory/scales/1207) | [Aeoloptian](ModeAeoloptian.md) | G | G, Ab, Bbb, Cb, Dbb, Ebb, F, G | ![GNaturalAeoloptian](CircleModeGNaturalAeoloptian.png) |
 
 ## Chords
 

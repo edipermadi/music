@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ v⁰
 
 ![DSharpThynian](ModeDSharpThynian.png)
 
+## Diagram
+
+![DSharpThynian](CircleModeDSharpThynian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3013](https://ianring.com/musictheory/scales/3013) | [Thynian](ModeThynian.md) | D# | D#, E#, Cbbb, Cbb, Dbbb, Dbb, Ebb, D# | ![DSharpThynian](ModeDSharpThynian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3013](https://ianring.com/musictheory/scales/3013) | [Thynian](ModeThynian.md) | D# | D#, E#, Cbbb, Cbb, Dbbb, Dbb, Ebb, D# | ![DSharpThynian](CircleModeDSharpThynian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, II, III, v, VII⁺
 
 ![BNaturalKatathian](ModeBNaturalKatathian.png)
 
+## Diagram
+
+![BNaturalKatathian](CircleModeBNaturalKatathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ I⁺, II, III, v, VII⁺
 | [3481](https://ianring.com/musictheory/scales/3481) | [Katathian](ModeKatathian.md) | B | B, C##, D#, E##, F##, G##, A#, B | ![BNaturalKatathian](ModeBNaturalKatathian.png) |
 | [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | D# | D#, E##, F##, G##, A#, B, C##, D# | ![DSharpBarian](ModeDSharpBarian.png) |
 | [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | A# | A#, B, C##, D#, E##, F##, G##, A# | ![ASharpSocrian](ModeASharpSocrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3481](https://ianring.com/musictheory/scales/3481) | [Katathian](ModeKatathian.md) | B | B, C##, D#, E##, F##, G##, A#, B | ![BNaturalKatathian](CircleModeBNaturalKatathian.png) |
+| [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | D# | D#, E##, F##, G##, A#, B, C##, D# | ![DSharpBarian](CircleModeDSharpBarian.png) |
+| [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | A# | A#, B, C##, D#, E##, F##, G##, A# | ![ASharpSocrian](CircleModeASharpSocrian.png) |
 
 ## Chords
 

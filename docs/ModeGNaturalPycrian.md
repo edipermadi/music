@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iv⁰
 
 ![GNaturalPycrian](ModeGNaturalPycrian.png)
 
+## Diagram
+
+![GNaturalPycrian](CircleModeGNaturalPycrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ iv⁰
 | [1143](https://ianring.com/musictheory/scales/1143) | [Styrian](ModeStyrian.md) | D# | D#, E, F, G, Ab, Bbb, C#, D# | ![DSharpStyrian](ModeDSharpStyrian.png) |
 | [2619](https://ianring.com/musictheory/scales/2619) | [Ionyrian](ModeIonyrian.md) | E | E, F, G, Ab, Bbb, C#, D#, E | ![ENaturalIonyrian](ModeENaturalIonyrian.png) |
 | [3357](https://ianring.com/musictheory/scales/3357) | [Phrodian](ModePhrodian.md) | F | F, G, Ab, Bbb, C#, D#, E, F | ![FNaturalPhrodian](ModeFNaturalPhrodian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1863](https://ianring.com/musictheory/scales/1863) | [Pycrian](ModePycrian.md) | G | G, Ab, Bbb, C#, D#, E, F, G | ![GNaturalPycrian](CircleModeGNaturalPycrian.png) |
+| [2979](https://ianring.com/musictheory/scales/2979) | [Gyptian](ModeGyptian.md) | Ab | Ab, Bbb, C#, D#, E, F, G, Ab | ![AFlatGyptian](CircleModeAFlatGyptian.png) |
+| [477](https://ianring.com/musictheory/scales/477) | [Stacrian](ModeStacrian.md) | C# | C#, D#, E, F, G, Ab, Bbb, C# | ![CSharpStacrian](CircleModeCSharpStacrian.png) |
+| [1143](https://ianring.com/musictheory/scales/1143) | [Styrian](ModeStyrian.md) | D# | D#, E, F, G, Ab, Bbb, C#, D# | ![DSharpStyrian](CircleModeDSharpStyrian.png) |
+| [2619](https://ianring.com/musictheory/scales/2619) | [Ionyrian](ModeIonyrian.md) | E | E, F, G, Ab, Bbb, C#, D#, E | ![ENaturalIonyrian](CircleModeENaturalIonyrian.png) |
+| [3357](https://ianring.com/musictheory/scales/3357) | [Phrodian](ModePhrodian.md) | F | F, G, Ab, Bbb, C#, D#, E, F | ![FNaturalPhrodian](CircleModeFNaturalPhrodian.png) |
 
 ## Chords
 

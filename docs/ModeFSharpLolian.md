@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ F#
 
 ![FSharpLolian](ModeFSharpLolian.png)
 
+## Diagram
+
+![FSharpLolian](CircleModeFSharpLolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ F#
 | [3271](https://ianring.com/musictheory/scales/3271) | [Kolian](ModeKolian.md) | Ab | Ab, Bbb, Cbb, D, Eb, F#, G, Ab | ![AFlatKolian](ModeAFlatKolian.png) |
 | [499](https://ianring.com/musictheory/scales/499) | [Ionaptian](ModeIonaptian.md) | D | D, Eb, F#, G, Ab, Bbb, Cbb, D | ![DNaturalIonaptian](ModeDNaturalIonaptian.png) |
 | [2297](https://ianring.com/musictheory/scales/2297) | [Thylian](ModeThylian.md) | Eb | Eb, F#, G, Ab, Bbb, Cbb, D, Eb | ![EFlatThylian](ModeEFlatThylian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [799](https://ianring.com/musictheory/scales/799) | [Lolian](ModeLolian.md) | F# | F#, G, Ab, Bbb, Cbb, D, Eb, F# | ![FSharpLolian](CircleModeFSharpLolian.png) |
+| [2447](https://ianring.com/musictheory/scales/2447) | [Thagian](ModeThagian.md) | G | G, Ab, Bbb, Cbb, D, Eb, F#, G | ![GNaturalThagian](CircleModeGNaturalThagian.png) |
+| [3271](https://ianring.com/musictheory/scales/3271) | [Kolian](ModeKolian.md) | Ab | Ab, Bbb, Cbb, D, Eb, F#, G, Ab | ![AFlatKolian](CircleModeAFlatKolian.png) |
+| [499](https://ianring.com/musictheory/scales/499) | [Ionaptian](ModeIonaptian.md) | D | D, Eb, F#, G, Ab, Bbb, Cbb, D | ![DNaturalIonaptian](CircleModeDNaturalIonaptian.png) |
+| [2297](https://ianring.com/musictheory/scales/2297) | [Thylian](ModeThylian.md) | Eb | Eb, F#, G, Ab, Bbb, Cbb, D, Eb | ![EFlatThylian](CircleModeEFlatThylian.png) |
 
 ## Chords
 

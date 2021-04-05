@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ iii, V⁺
 
 ![BFlatAeolythian](ModeBFlatAeolythian.png)
 
+## Diagram
+
+![BFlatAeolythian](CircleModeBFlatAeolythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeAeolythian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fbb, Gbb, Abb, Bb | ![BFlatAeolythian](ModeBFlatAeolythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeAeolythian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fbb, Gbb, Abb, Bb | ![BFlatAeolythian](CircleModeBFlatAeolythian.png) |
 
 ## Chords
 

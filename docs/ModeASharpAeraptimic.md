@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ IV
 
 ![ASharpAeraptimic](ModeASharpAeraptimic.png)
 
+## Diagram
+
+![ASharpAeraptimic](CircleModeASharpAeraptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ IV
 | [1351](https://ianring.com/musictheory/scales/1351) | [Aeraptimic](ModeAeraptimic.md) | A# | A#, B, C, D##, E##, F###, A# | ![ASharpAeraptimic](ModeASharpAeraptimic.png) |
 | [2723](https://ianring.com/musictheory/scales/2723) | [Epylimic](ModeEpylimic.md) | B | B, C, D##, E##, F###, G###, B | ![BNaturalEpylimic](ModeBNaturalEpylimic.png) |
 | [3409](https://ianring.com/musictheory/scales/3409) | [Katanimic](ModeKatanimic.md) | C | C, D##, E##, F###, G###, A##, C | ![CNaturalKatanimic](ModeCNaturalKatanimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1351](https://ianring.com/musictheory/scales/1351) | [Aeraptimic](ModeAeraptimic.md) | A# | A#, B, C, D##, E##, F###, A# | ![ASharpAeraptimic](CircleModeASharpAeraptimic.png) |
+| [2723](https://ianring.com/musictheory/scales/2723) | [Epylimic](ModeEpylimic.md) | B | B, C, D##, E##, F###, G###, B | ![BNaturalEpylimic](CircleModeBNaturalEpylimic.png) |
+| [3409](https://ianring.com/musictheory/scales/3409) | [Katanimic](ModeKatanimic.md) | C | C, D##, E##, F###, G###, A##, C | ![CNaturalKatanimic](CircleModeCNaturalKatanimic.png) |
 
 ## Chords
 

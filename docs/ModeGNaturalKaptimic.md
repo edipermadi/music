@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ III, iv⁰
 
 ![GNaturalKaptimic](ModeGNaturalKaptimic.png)
 
+## Diagram
+
+![GNaturalKaptimic](CircleModeGNaturalKaptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1699](https://ianring.com/musictheory/scales/1699) | [Kaptimic](ModeKaptimic.md) | G | G, Ab, B#, C##, D##, E#, G | ![GNaturalKaptimic](ModeGNaturalKaptimic.png) |
 | [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeRycrimic.md) | Ab | Ab, B#, C##, D##, E#, F##, Ab | ![AFlatRycrimic](ModeAFlatRycrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1699](https://ianring.com/musictheory/scales/1699) | [Kaptimic](ModeKaptimic.md) | G | G, Ab, B#, C##, D##, E#, G | ![GNaturalKaptimic](CircleModeGNaturalKaptimic.png) |
+| [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeRycrimic.md) | Ab | Ab, B#, C##, D##, E#, F##, Ab | ![AFlatRycrimic](CircleModeAFlatRycrimic.png) |
 
 ## Chords
 

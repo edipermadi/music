@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ II⁺, IV⁺, VI⁺
 
 ![EFlatPhrothimic](ModeEFlatPhrothimic.png)
 
+## Diagram
+
+![EFlatPhrothimic](CircleModeEFlatPhrothimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ II⁺, IV⁺, VI⁺
 | [615](https://ianring.com/musictheory/scales/615) | [Phrothimic](ModePhrothimic.md) | Eb | Eb, Fb, Gbb, Ab, Bbb, C, Eb | ![EFlatPhrothimic](ModeEFlatPhrothimic.png) |
 | [915](https://ianring.com/musictheory/scales/915) | [Loptimic](ModeLoptimic.md) | Ab | Ab, Bbb, C, D#, E, F, Ab | ![AFlatLoptimic](ModeAFlatLoptimic.png) |
 | [825](https://ianring.com/musictheory/scales/825) | [Thyptimic](ModeThyptimic.md) | C | C, D#, E, F, G#, A, C | ![CNaturalThyptimic](ModeCNaturalThyptimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [615](https://ianring.com/musictheory/scales/615) | [Phrothimic](ModePhrothimic.md) | Eb | Eb, Fb, Gbb, Ab, Bbb, C, Eb | ![EFlatPhrothimic](CircleModeEFlatPhrothimic.png) |
+| [915](https://ianring.com/musictheory/scales/915) | [Loptimic](ModeLoptimic.md) | Ab | Ab, Bbb, C, D#, E, F, Ab | ![AFlatLoptimic](CircleModeAFlatLoptimic.png) |
+| [825](https://ianring.com/musictheory/scales/825) | [Thyptimic](ModeThyptimic.md) | C | C, D#, E, F, G#, A, C | ![CNaturalThyptimic](CircleModeCNaturalThyptimic.png) |
 
 ## Chords
 

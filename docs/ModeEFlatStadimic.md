@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ Eb
 
 ![EFlatStadimic](ModeEFlatStadimic.png)
 
+## Diagram
+
+![EFlatStadimic](CircleModeEFlatStadimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ Eb
 | [455](https://ianring.com/musictheory/scales/455) | [Stadimic](ModeStadimic.md) | Eb | Eb, Fb, Gbb, A, Bb, Cb, Eb | ![EFlatStadimic](ModeEFlatStadimic.png) |
 | [455](https://ianring.com/musictheory/scales/455) | [Stadimic](ModeStadimic.md) | A | A, Bb, Cb, D#, E, F, A | ![ANaturalStadimic](ModeANaturalStadimic.png) |
 | [2275](https://ianring.com/musictheory/scales/2275) | [Thodimic](ModeThodimic.md) | Bb | Bb, Cb, D#, E, F, G##, Bb | ![BFlatThodimic](ModeBFlatThodimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [455](https://ianring.com/musictheory/scales/455) | [Stadimic](ModeStadimic.md) | Eb | Eb, Fb, Gbb, A, Bb, Cb, Eb | ![EFlatStadimic](CircleModeEFlatStadimic.png) |
+| [455](https://ianring.com/musictheory/scales/455) | [Stadimic](ModeStadimic.md) | A | A, Bb, Cb, D#, E, F, A | ![ANaturalStadimic](CircleModeANaturalStadimic.png) |
+| [2275](https://ianring.com/musictheory/scales/2275) | [Thodimic](ModeThodimic.md) | Bb | Bb, Cb, D#, E, F, G##, Bb | ![BFlatThodimic](CircleModeBFlatThodimic.png) |
 
 ## Chords
 

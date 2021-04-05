@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, III⁺, iv, V⁺
 
 ![BNaturalAerylimic](ModeBNaturalAerylimic.png)
 
+## Diagram
+
+![BNaturalAerylimic](CircleModeBNaturalAerylimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,14 @@ I⁺, III⁺, iv, V⁺
 | [2473](https://ianring.com/musictheory/scales/2473) | [Mothimic](ModeMothimic.md) | C | C, D#, E#, F##, G#, A##, C | ![CNaturalMothimic](ModeCNaturalMothimic.png) |
 | [821](https://ianring.com/musictheory/scales/821) | [Aeranimic](ModeAeranimic.md) | D# | D#, E#, F##, G#, A##, B#, D# | ![DSharpAeranimic](ModeDSharpAeranimic.png) |
 | [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModePorimic.md) | G# | G#, A##, B#, C###, D###, E###, G# | ![GSharpPorimic](ModeGSharpPorimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [851](https://ianring.com/musictheory/scales/851) | [Aerylimic](ModeAerylimic.md) | B | B, C, D#, E#, F##, G#, B | ![BNaturalAerylimic](CircleModeBNaturalAerylimic.png) |
+| [2473](https://ianring.com/musictheory/scales/2473) | [Mothimic](ModeMothimic.md) | C | C, D#, E#, F##, G#, A##, C | ![CNaturalMothimic](CircleModeCNaturalMothimic.png) |
+| [821](https://ianring.com/musictheory/scales/821) | [Aeranimic](ModeAeranimic.md) | D# | D#, E#, F##, G#, A##, B#, D# | ![DSharpAeranimic](CircleModeDSharpAeranimic.png) |
+| [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModePorimic.md) | G# | G#, A##, B#, C###, D###, E###, G# | ![GSharpPorimic](CircleModeGSharpPorimic.png) |
 
 ## Chords
 

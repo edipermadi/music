@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ i⁰, II⁺, IV⁺, VI⁺
 
 ![GFlatParimic](ModeGFlatParimic.png)
 
+## Diagram
+
+![GFlatParimic](CircleModeGFlatParimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [619](https://ianring.com/musictheory/scales/619) | [Parimic](ModeParimic.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Eb, Gb | ![GFlatParimic](ModeGFlatParimic.png) |
 | [857](https://ianring.com/musictheory/scales/857) | [Aeolydimic](ModeAeolydimic.md) | Eb | Eb, F#, G, A, B, C, Eb | ![EFlatAeolydimic](ModeEFlatAeolydimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [619](https://ianring.com/musictheory/scales/619) | [Parimic](ModeParimic.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Eb, Gb | ![GFlatParimic](CircleModeGFlatParimic.png) |
+| [857](https://ianring.com/musictheory/scales/857) | [Aeolydimic](ModeAeolydimic.md) | Eb | Eb, F#, G, A, B, C, Eb | ![EFlatAeolydimic](CircleModeEFlatAeolydimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ iii⁰
 
 ![GFlatEpyrian](ModeGFlatEpyrian.png)
 
+## Diagram
+
+![GFlatEpyrian](CircleModeGFlatEpyrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [431](https://ianring.com/musictheory/scales/431) | [Epyrian](ModeEpyrian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbbb, Ebbb, Fbbb, Gb | ![GFlatEpyrian](ModeGFlatEpyrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [431](https://ianring.com/musictheory/scales/431) | [Epyrian](ModeEpyrian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbbb, Ebbb, Fbbb, Gb | ![GFlatEpyrian](CircleModeGFlatEpyrian.png) |
 
 ## Chords
 

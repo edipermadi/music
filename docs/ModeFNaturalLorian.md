@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, ii⁰, iii, iv, V⁺, VI, VII
 
 ![FNaturalLorian](ModeFNaturalLorian.png)
 
+## Diagram
+
+![FNaturalLorian](CircleModeFNaturalLorian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰, ii⁰, iii, iv, V⁺, VI, VII
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | Bb | Bb, Cb, Db, Eb, F, G, Ab, Bb | ![BFlatMixolythian](ModeBFlatMixolythian.png) |
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | Db | Db, Eb, F, G, Ab, Bb, Cb, Db | ![DFlatLythian](ModeDFlatLythian.png) |
 | [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | Eb | Eb, F, G, Ab, Bb, Cb, Db, Eb | ![EFlatStydian](ModeEFlatStydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | F | F, G, Ab, Bb, Cb, Db, Eb, F | ![FNaturalLorian](CircleModeFNaturalLorian.png) |
+| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | G | G, Ab, Bb, Cb, Db, Eb, F, G | ![GNaturalIonadian](CircleModeGNaturalIonadian.png) |
+| [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | Ab | Ab, Bb, Cb, Db, Eb, F, G, Ab | ![AFlatBocrian](CircleModeAFlatBocrian.png) |
+| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | Bb | Bb, Cb, Db, Eb, F, G, Ab, Bb | ![BFlatMixolythian](CircleModeBFlatMixolythian.png) |
+| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | Db | Db, Eb, F, G, Ab, Bb, Cb, Db | ![DFlatLythian](CircleModeDFlatLythian.png) |
+| [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | Eb | Eb, F, G, Ab, Bb, Cb, Db, Eb | ![EFlatStydian](CircleModeEFlatStydian.png) |
 
 ## Chords
 

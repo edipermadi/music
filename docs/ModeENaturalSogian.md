@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ III⁺, V, vii
 
 ![ENaturalSogian](ModeENaturalSogian.png)
 
+## Diagram
+
+![ENaturalSogian](CircleModeENaturalSogian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ III⁺, V, vii
 | [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | A | A, Bb, Cb, D, E, F, Gb, A | ![ANaturalKatarian](ModeANaturalKatarian.png) |
 | [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | Bb | Bb, Cb, D, E, F, Gb, A, Bb | ![BFlatStylian](ModeBFlatStylian.png) |
 | [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeMythian.md) | D | D, E, F, Gb, A, Bb, Cb, D | ![DNaturalMythian](ModeDNaturalMythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeSogian.md) | E | E, F, Gb, A, Bb, Cb, D, E | ![ENaturalSogian](CircleModeENaturalSogian.png) |
+| [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeGogian.md) | F | F, Gb, A, Bb, Cb, D, E, F | ![FNaturalGogian](CircleModeFNaturalGogian.png) |
+| [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeRothian.md) | Gb | Gb, A, Bb, Cb, D, E, F, Gb | ![GFlatRothian](CircleModeGFlatRothian.png) |
+| [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | A | A, Bb, Cb, D, E, F, Gb, A | ![ANaturalKatarian](CircleModeANaturalKatarian.png) |
+| [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | Bb | Bb, Cb, D, E, F, Gb, A, Bb | ![BFlatStylian](CircleModeBFlatStylian.png) |
+| [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeMythian.md) | D | D, E, F, Gb, A, Bb, Cb, D | ![DNaturalMythian](CircleModeDNaturalMythian.png) |
 
 ## Chords
 

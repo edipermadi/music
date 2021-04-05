@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, III
 
 ![GNaturalIonathian](ModeGNaturalIonathian.png)
 
+## Diagram
+
+![GNaturalIonathian](CircleModeGNaturalIonathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I⁺, III
 | [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | C# | C#, D#, E#, F#, G, Ab, B, C# | ![CSharpKatythian](ModeCSharpKatythian.png) |
 | [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | D# | D#, E#, F#, G, Ab, B, C#, D# | ![DSharpMadian](ModeDSharpMadian.png) |
 | [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | F# | F#, G, Ab, B, C#, D#, E#, F# | ![FSharpPylian](ModeFSharpPylian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | G | G, Ab, B, C#, D#, E#, F#, G | ![GNaturalIonathian](CircleModeGNaturalIonathian.png) |
+| [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | Ab | Ab, B, C#, D#, E#, F#, G, Ab | ![AFlatPhraptian](CircleModeAFlatPhraptian.png) |
+| [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | B | B, C#, D#, E#, F#, G, Ab, B | ![BNaturalBacrian](CircleModeBNaturalBacrian.png) |
+| [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | C# | C#, D#, E#, F#, G, Ab, B, C# | ![CSharpKatythian](CircleModeCSharpKatythian.png) |
+| [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | D# | D#, E#, F#, G, Ab, B, C#, D# | ![DSharpMadian](CircleModeDSharpMadian.png) |
+| [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | F# | F#, G, Ab, B, C#, D#, E#, F# | ![FSharpPylian](CircleModeFSharpPylian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I, II
 
 ![DNaturalLonimic](ModeDNaturalLonimic.png)
 
+## Diagram
+
+![DNaturalLonimic](CircleModeDNaturalLonimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I, II
 | [1355](https://ianring.com/musictheory/scales/1355) | [Aeolorimic](ModeAeolorimic.md) | G# | G#, A, B, C##, D##, E##, G# | ![GSharpAeolorimic](ModeGSharpAeolorimic.png) |
 | [2725](https://ianring.com/musictheory/scales/2725) | [Gonimic](ModeGonimic.md) | A | A, B, C##, D##, E##, F###, A | ![ANaturalGonimic](ModeANaturalGonimic.png) |
 | [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeDarmic.md) | B | B, C##, D##, E##, F###, G##, B | ![BNaturalDarmic](ModeBNaturalDarmic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeLonimic.md) | D | D, E, F#, G#, A, B, D | ![DNaturalLonimic](CircleModeDNaturalLonimic.png) |
+| [1205](https://ianring.com/musictheory/scales/1205) | [Ionycrimic](ModeIonycrimic.md) | E | E, F#, G#, A, B, C##, E | ![ENaturalIonycrimic](CircleModeENaturalIonycrimic.png) |
+| [1325](https://ianring.com/musictheory/scales/1325) | [Phradimic](ModePhradimic.md) | F# | F#, G#, A, B, C##, D##, F# | ![FSharpPhradimic](CircleModeFSharpPhradimic.png) |
+| [1355](https://ianring.com/musictheory/scales/1355) | [Aeolorimic](ModeAeolorimic.md) | G# | G#, A, B, C##, D##, E##, G# | ![GSharpAeolorimic](CircleModeGSharpAeolorimic.png) |
+| [2725](https://ianring.com/musictheory/scales/2725) | [Gonimic](ModeGonimic.md) | A | A, B, C##, D##, E##, F###, A | ![ANaturalGonimic](CircleModeANaturalGonimic.png) |
+| [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeDarmic.md) | B | B, C##, D##, E##, F###, G##, B | ![BNaturalDarmic](CircleModeBNaturalDarmic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -54,6 +54,10 @@ i
 
 ![DFlatDogygic](ModeDFlatDogygic.png)
 
+## Diagram
+
+![DFlatDogygic](CircleModeDFlatDogygic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -67,6 +71,19 @@ i
 | [3311](https://ianring.com/musictheory/scales/3311) | [Mixodygic](ModeMixodygic.md) | Bb | Bb, B, C, Db, Eb, E, F, Ab, A, Bb | ![BFlatMixodygic](ModeBFlatMixodygic.png) |
 | [3703](https://ianring.com/musictheory/scales/3703) | [Katalygic](ModeKatalygic.md) | B | B, C, C#, D#, E, F, G#, A, A#, B | ![BNaturalKatalygic](ModeBNaturalKatalygic.png) |
 | [3899](https://ianring.com/musictheory/scales/3899) | [Katorygic](ModeKatorygic.md) | C | C, C#, D#, E, F, G#, A, A#, B, C | ![CNaturalKatorygic](ModeCNaturalKatorygic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3997](https://ianring.com/musictheory/scales/3997) | [Dogygic](ModeDogygic.md) | Db | Db, Eb, E, F, Ab, A, Bb, B, C, Db | ![DFlatDogygic](CircleModeDFlatDogygic.png) |
+| [2023](https://ianring.com/musictheory/scales/2023) | [Zodygic](ModeZodygic.md) | Eb | Eb, E, F, Ab, A, Bb, B, C, Db, Eb | ![EFlatZodygic](CircleModeEFlatZodygic.png) |
+| [3059](https://ianring.com/musictheory/scales/3059) | [Madygic](ModeMadygic.md) | E | E, F, G#, A, A#, B, C, C#, D#, E | ![ENaturalMadygic](CircleModeENaturalMadygic.png) |
+| [3577](https://ianring.com/musictheory/scales/3577) | [Loptygic](ModeLoptygic.md) | F | F, G#, A, A#, B, C, C#, D#, E, F | ![FNaturalLoptygic](CircleModeFNaturalLoptygic.png) |
+| [959](https://ianring.com/musictheory/scales/959) | [Katylygic](ModeKatylygic.md) | Ab | Ab, A, Bb, B, C, Db, Eb, E, F, Ab | ![AFlatKatylygic](CircleModeAFlatKatylygic.png) |
+| [2527](https://ianring.com/musictheory/scales/2527) | [Phradygic](ModePhradygic.md) | A | A, A#, B, C, C#, D#, E, F, G#, A | ![ANaturalPhradygic](CircleModeANaturalPhradygic.png) |
+| [3311](https://ianring.com/musictheory/scales/3311) | [Mixodygic](ModeMixodygic.md) | Bb | Bb, B, C, Db, Eb, E, F, Ab, A, Bb | ![BFlatMixodygic](CircleModeBFlatMixodygic.png) |
+| [3703](https://ianring.com/musictheory/scales/3703) | [Katalygic](ModeKatalygic.md) | B | B, C, C#, D#, E, F, G#, A, A#, B | ![BNaturalKatalygic](CircleModeBNaturalKatalygic.png) |
+| [3899](https://ianring.com/musictheory/scales/3899) | [Katorygic](ModeKatorygic.md) | C | C, C#, D#, E, F, G#, A, A#, B, C | ![CNaturalKatorygic](CircleModeCNaturalKatorygic.png) |
 
 ## Chords
 

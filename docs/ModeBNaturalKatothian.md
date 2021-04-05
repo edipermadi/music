@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ ii, IV, v⁰, vi⁰, vii⁰
 
 ![BNaturalKatothian](ModeBNaturalKatothian.png)
 
+## Diagram
+
+![BNaturalKatothian](CircleModeBNaturalKatothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ ii, IV, v⁰, vi⁰, vii⁰
 | [1753](https://ianring.com/musictheory/scales/1753) | [Mycrian](ModeMycrian.md) | E | E, F##, G#, A#, B, C#, D, E | ![ENaturalMycrian](ModeENaturalMycrian.png) |
 | [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | G# | G#, A#, B, C#, D, E, F##, G# | ![GSharpPhrydian](ModeGSharpPhrydian.png) |
 | [1627](https://ianring.com/musictheory/scales/1627) | [Zyptian](ModeZyptian.md) | A# | A#, B, C#, D, E, F##, G#, A# | ![ASharpZyptian](ModeASharpZyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2861](https://ianring.com/musictheory/scales/2861) | [Katothian](ModeKatothian.md) | B | B, C#, D, E, F##, G#, A#, B | ![BNaturalKatothian](CircleModeBNaturalKatothian.png) |
+| [1739](https://ianring.com/musictheory/scales/1739) | [Phrylian](ModePhrylian.md) | C# | C#, D, E, F##, G#, A#, B, C# | ![CSharpPhrylian](CircleModeCSharpPhrylian.png) |
+| [2917](https://ianring.com/musictheory/scales/2917) | [Kocrian](ModeKocrian.md) | D | D, E, F##, G#, A#, B, C#, D | ![DNaturalKocrian](CircleModeDNaturalKocrian.png) |
+| [1753](https://ianring.com/musictheory/scales/1753) | [Mycrian](ModeMycrian.md) | E | E, F##, G#, A#, B, C#, D, E | ![ENaturalMycrian](CircleModeENaturalMycrian.png) |
+| [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | G# | G#, A#, B, C#, D, E, F##, G# | ![GSharpPhrydian](CircleModeGSharpPhrydian.png) |
+| [1627](https://ianring.com/musictheory/scales/1627) | [Zyptian](ModeZyptian.md) | A# | A#, B, C#, D, E, F##, G#, A# | ![ASharpZyptian](CircleModeASharpZyptian.png) |
 
 ## Chords
 

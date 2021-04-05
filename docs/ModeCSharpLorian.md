@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, ii⁰, iii, iv, V⁺, VI, VII
 
 ![CSharpLorian](ModeCSharpLorian.png)
 
+## Diagram
+
+![CSharpLorian](CircleModeCSharpLorian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i⁰, ii⁰, iii, iv, V⁺, VI, VII
 | [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | G | G, A, B, C#, D#, E, F#, G | ![GNaturalLarian](ModeGNaturalLarian.png) |
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | A | A, B, C#, D#, E, F#, G, A | ![ANaturalLythian](ModeANaturalLythian.png) |
 | [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | B | B, C#, D#, E, F#, G, A, B | ![BNaturalStydian](ModeBNaturalStydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | C# | C#, D#, E, F#, G, A, B, C# | ![CSharpLorian](CircleModeCSharpLorian.png) |
+| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | D# | D#, E, F#, G, A, B, C#, D# | ![DSharpIonadian](CircleModeDSharpIonadian.png) |
+| [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | E | E, F#, G, A, B, C#, D#, E | ![ENaturalBocrian](CircleModeENaturalBocrian.png) |
+| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | F# | F#, G, A, B, C#, D#, E, F# | ![FSharpMixolythian](CircleModeFSharpMixolythian.png) |
+| [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | G | G, A, B, C#, D#, E, F#, G | ![GNaturalLarian](CircleModeGNaturalLarian.png) |
+| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | A | A, B, C#, D#, E, F#, G, A | ![ANaturalLythian](CircleModeANaturalLythian.png) |
+| [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | B | B, C#, D#, E, F#, G, A, B | ![BNaturalStydian](CircleModeBNaturalStydian.png) |
 
 ## Chords
 

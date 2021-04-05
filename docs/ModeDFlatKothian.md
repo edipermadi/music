@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii⁰
 
 ![DFlatKothian](ModeDFlatKothian.png)
 
+## Diagram
+
+![DFlatKothian](CircleModeDFlatKothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [443](https://ianring.com/musictheory/scales/443) | [Kothian](ModeKothian.md) | Db | Db, Ebb, Fb, Gbb, Abbb, Bbbb, Cbbb, Db | ![DFlatKothian](ModeDFlatKothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [443](https://ianring.com/musictheory/scales/443) | [Kothian](ModeKothian.md) | Db | Db, Ebb, Fb, Gbb, Abbb, Bbbb, Cbbb, Db | ![DFlatKothian](CircleModeDFlatKothian.png) |
 
 ## Chords
 

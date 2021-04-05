@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ C#
 
 ![CSharpMorian](ModeCSharpMorian.png)
 
+## Diagram
+
+![CSharpMorian](CircleModeCSharpMorian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3881](https://ianring.com/musictheory/scales/3881) | [Morian](ModeMorian.md) | C# | C#, D##, E##, Cbbb, Cbb, Dbbb, Dbb, C# | ![CSharpMorian](ModeCSharpMorian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3881](https://ianring.com/musictheory/scales/3881) | [Morian](ModeMorian.md) | C# | C#, D##, E##, Cbbb, Cbb, Dbbb, Dbb, C# | ![CSharpMorian](CircleModeCSharpMorian.png) |
 
 ## Chords
 

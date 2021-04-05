@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, ii⁰, iii, V, vii⁰
 
 ![EFlatEpylian](ModeEFlatEpylian.png)
 
+## Diagram
+
+![EFlatEpylian](CircleModeEFlatEpylian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ i⁰, ii⁰, iii, V, vii⁰
 | [1243](https://ianring.com/musictheory/scales/1243) | [Epylian](ModeEpylian.md) | Eb | Eb, Fb, Gb, Abb, Bbb, Cbb, Db, Eb | ![EFlatEpylian](ModeEFlatEpylian.png) |
 | [1691](https://ianring.com/musictheory/scales/1691) | [Kathian](ModeKathian.md) | Gb | Gb, Abb, Bbb, Cbb, Db, Eb, Fb, Gb | ![GFlatKathian](ModeGFlatKathian.png) |
 | [877](https://ianring.com/musictheory/scales/877) | [Aeraptian](ModeAeraptian.md) | Db | Db, Eb, Fb, Gb, Abb, Bbb, Cbb, Db | ![DFlatAeraptian](ModeDFlatAeraptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1243](https://ianring.com/musictheory/scales/1243) | [Epylian](ModeEpylian.md) | Eb | Eb, Fb, Gb, Abb, Bbb, Cbb, Db, Eb | ![EFlatEpylian](CircleModeEFlatEpylian.png) |
+| [1691](https://ianring.com/musictheory/scales/1691) | [Kathian](ModeKathian.md) | Gb | Gb, Abb, Bbb, Cbb, Db, Eb, Fb, Gb | ![GFlatKathian](CircleModeGFlatKathian.png) |
+| [877](https://ianring.com/musictheory/scales/877) | [Aeraptian](ModeAeraptian.md) | Db | Db, Eb, Fb, Gb, Abb, Bbb, Cbb, Db | ![DFlatAeraptian](CircleModeDFlatAeraptian.png) |
 
 ## Chords
 

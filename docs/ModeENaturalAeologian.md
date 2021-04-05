@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, iii⁰
 
 ![ENaturalAeologian](ModeENaturalAeologian.png)
 
+## Diagram
+
+![ENaturalAeologian](CircleModeENaturalAeologian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰, iii⁰
 | [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | A | A, Bb, Cb, Db, E, F#, G, A | ![ANaturalPhralian](ModeANaturalPhralian.png) |
 | [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | Bb | Bb, Cb, Db, E, F#, G, A, Bb | ![BFlatPhrogian](ModeBFlatPhrogian.png) |
 | [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | Db | Db, E, F#, G, A, Bb, Cb, Db | ![DFlatIonopian](ModeDFlatIonopian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | E | E, F#, G, A, Bb, Cb, Db, E | ![ENaturalAeologian](CircleModeENaturalAeologian.png) |
+| [1211](https://ianring.com/musictheory/scales/1211) | [Zadian](ModeZadian.md) | F# | F#, G, A, Bb, Cb, Db, E, F# | ![FSharpZadian](CircleModeFSharpZadian.png) |
+| [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | G | G, A, Bb, Cb, Db, E, F#, G | ![GNaturalSygian](CircleModeGNaturalSygian.png) |
+| [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | A | A, Bb, Cb, Db, E, F#, G, A | ![ANaturalPhralian](CircleModeANaturalPhralian.png) |
+| [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | Bb | Bb, Cb, Db, E, F#, G, A, Bb | ![BFlatPhrogian](CircleModeBFlatPhrogian.png) |
+| [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | Db | Db, E, F#, G, A, Bb, Cb, Db | ![DFlatIonopian](CircleModeDFlatIonopian.png) |
 
 ## Chords
 

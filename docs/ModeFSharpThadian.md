@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ F#
 
 ![FSharpThadian](ModeFSharpThadian.png)
 
+## Diagram
+
+![FSharpThadian](CircleModeFSharpThadian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3985](https://ianring.com/musictheory/scales/3985) | [Thadian](ModeThadian.md) | F# | F#, G###, Db, Ebb, Fbb, Gbbb, D###, F# | ![FSharpThadian](ModeFSharpThadian.png) |
 | [575](https://ianring.com/musictheory/scales/575) | [Ionydian](ModeIonydian.md) | Db | Db, Ebb, Fbb, Gbbb, D###, E##, Cbb, Db | ![DFlatIonydian](ModeDFlatIonydian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3985](https://ianring.com/musictheory/scales/3985) | [Thadian](ModeThadian.md) | F# | F#, G###, Db, Ebb, Fbb, Gbbb, D###, F# | ![FSharpThadian](CircleModeFSharpThadian.png) |
+| [575](https://ianring.com/musictheory/scales/575) | [Ionydian](ModeIonydian.md) | Db | Db, Ebb, Fbb, Gbbb, D###, E##, Cbb, Db | ![DFlatIonydian](CircleModeDFlatIonydian.png) |
 
 ## Chords
 

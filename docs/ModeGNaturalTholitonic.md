@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -50,6 +50,10 @@ III⁺
 
 ![GNaturalTholitonic](ModeGNaturalTholitonic.png)
 
+## Diagram
+
+![GNaturalTholitonic](CircleModeGNaturalTholitonic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,15 @@ III⁺
 | [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | C# | C#, D#, F, G, A, C# | ![CSharpBothitonic](ModeCSharpBothitonic.png) |
 | [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | D# | D#, F, G, A, C#, D# | ![DSharpKataditonic](ModeDSharpKataditonic.png) |
 | [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | F | F, G, A, C#, D#, F | ![FNaturalKoditonic](ModeFNaturalKoditonic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | G | G, A, C#, D#, F, G | ![GNaturalTholitonic](CircleModeGNaturalTholitonic.png) |
+| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | A | A, C#, D#, F, G, A | ![ANaturalBolitonic](CircleModeANaturalBolitonic.png) |
+| [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | C# | C#, D#, F, G, A, C# | ![CSharpBothitonic](CircleModeCSharpBothitonic.png) |
+| [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | D# | D#, F, G, A, C#, D# | ![DSharpKataditonic](CircleModeDSharpKataditonic.png) |
+| [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | F | F, G, A, C#, D#, F | ![FNaturalKoditonic](CircleModeFNaturalKoditonic.png) |
 
 ## Chords
 

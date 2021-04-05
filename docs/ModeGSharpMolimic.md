@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ iv, V
 
 ![GSharpMolimic](ModeGSharpMolimic.png)
 
+## Diagram
+
+![GSharpMolimic](CircleModeGSharpMolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ iv, V
 | [843](https://ianring.com/musictheory/scales/843) | [Molimic](ModeMolimic.md) | G# | G#, A, B, C##, D##, E#, G# | ![GSharpMolimic](ModeGSharpMolimic.png) |
 | [2469](https://ianring.com/musictheory/scales/2469) | [Staptimic](ModeStaptimic.md) | A | A, B, C##, D##, E#, F###, A | ![ANaturalStaptimic](ModeANaturalStaptimic.png) |
 | [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | B | B, C##, D##, E#, F###, G##, B | ![BNaturalBocrimic](ModeBNaturalBocrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [843](https://ianring.com/musictheory/scales/843) | [Molimic](ModeMolimic.md) | G# | G#, A, B, C##, D##, E#, G# | ![GSharpMolimic](CircleModeGSharpMolimic.png) |
+| [2469](https://ianring.com/musictheory/scales/2469) | [Staptimic](ModeStaptimic.md) | A | A, B, C##, D##, E#, F###, A | ![ANaturalStaptimic](CircleModeANaturalStaptimic.png) |
+| [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | B | B, C##, D##, E#, F###, G##, B | ![BNaturalBocrimic](CircleModeBNaturalBocrimic.png) |
 
 ## Chords
 

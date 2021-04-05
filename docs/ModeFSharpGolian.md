@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ I⁺, ii, III, v, VII
 
 ![FSharpGolian](ModeFSharpGolian.png)
 
+## Diagram
+
+![FSharpGolian](CircleModeFSharpGolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3417](https://ianring.com/musictheory/scales/3417) | [Golian](ModeGolian.md) | F# | F#, G##, A#, B#, C##, D##, E#, F# | ![FSharpGolian](ModeFSharpGolian.png) |
 | [2517](https://ianring.com/musictheory/scales/2517) | [Ryphian](ModeRyphian.md) | A# | A#, B#, C##, D##, E#, F#, G##, A# | ![ASharpRyphian](ModeASharpRyphian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3417](https://ianring.com/musictheory/scales/3417) | [Golian](ModeGolian.md) | F# | F#, G##, A#, B#, C##, D##, E#, F# | ![FSharpGolian](CircleModeFSharpGolian.png) |
+| [2517](https://ianring.com/musictheory/scales/2517) | [Ryphian](ModeRyphian.md) | A# | A#, B#, C##, D##, E#, F#, G##, A# | ![ASharpRyphian](CircleModeASharpRyphian.png) |
 
 ## Chords
 

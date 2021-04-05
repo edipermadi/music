@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ II
 
 ![ENaturalKatanimic](ModeENaturalKatanimic.png)
 
+## Diagram
+
+![ENaturalKatanimic](CircleModeENaturalKatanimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3409](https://ianring.com/musictheory/scales/3409) | [Katanimic](ModeKatanimic.md) | E | E, F###, G###, A###, B###, C###, E | ![ENaturalKatanimic](ModeENaturalKatanimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3409](https://ianring.com/musictheory/scales/3409) | [Katanimic](ModeKatanimic.md) | E | E, F###, G###, A###, B###, C###, E | ![ENaturalKatanimic](CircleModeENaturalKatanimic.png) |
 
 ## Chords
 

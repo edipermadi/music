@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ V, vi
 
 ![EFlatEporimic](ModeEFlatEporimic.png)
 
+## Diagram
+
+![EFlatEporimic](CircleModeEFlatEporimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,15 @@ V, vi
 | [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | Ab | Ab, B, C#, D#, E, F#, Ab | ![AFlatEpathimic](ModeAFlatEpathimic.png) |
 | [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | B | B, C#, D#, E, F#, G#, B | ![BNaturalMynimic](ModeBNaturalMynimic.png) |
 | [1197](https://ianring.com/musictheory/scales/1197) | [Rocrimic](ModeRocrimic.md) | C# | C#, D#, E, F#, G#, A##, C# | ![CSharpRocrimic](ModeCSharpRocrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | Eb | Eb, Fb, Gb, Ab, B, C#, Eb | ![EFlatEporimic](CircleModeEFlatEporimic.png) |
+| [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | Gb | Gb, Ab, B, C#, D#, E, Gb | ![GFlatLothimic](CircleModeGFlatLothimic.png) |
+| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | Ab | Ab, B, C#, D#, E, F#, Ab | ![AFlatEpathimic](CircleModeAFlatEpathimic.png) |
+| [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | B | B, C#, D#, E, F#, G#, B | ![BNaturalMynimic](CircleModeBNaturalMynimic.png) |
+| [1197](https://ianring.com/musictheory/scales/1197) | [Rocrimic](ModeRocrimic.md) | C# | C#, D#, E, F#, G#, A##, C# | ![CSharpRocrimic](CircleModeCSharpRocrimic.png) |
 
 ## Chords
 

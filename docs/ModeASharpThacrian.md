@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ iii⁰
 
 ![ASharpThacrian](ModeASharpThacrian.png)
 
+## Diagram
+
+![ASharpThacrian](CircleModeASharpThacrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeThacrian.md) | A# | A#, B###, C###, D##, E##, F###, G##, A# | ![ASharpThacrian](ModeASharpThacrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeThacrian.md) | A# | A#, B###, C###, D##, E##, F###, G##, A# | ![ASharpThacrian](CircleModeASharpThacrian.png) |
 
 ## Chords
 

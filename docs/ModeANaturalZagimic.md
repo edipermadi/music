@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ II
 
 ![ANaturalZagimic](ModeANaturalZagimic.png)
 
+## Diagram
+
+![ANaturalZagimic](CircleModeANaturalZagimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1481](https://ianring.com/musictheory/scales/1481) | [Zagimic](ModeZagimic.md) | A | A, B#, C###, D##, E#, F##, A | ![ANaturalZagimic](ModeANaturalZagimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1481](https://ianring.com/musictheory/scales/1481) | [Zagimic](ModeZagimic.md) | A | A, B#, C###, D##, E#, F##, A | ![ANaturalZagimic](CircleModeANaturalZagimic.png) |
 
 ## Chords
 

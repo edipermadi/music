@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II, iv, v, VI⁺, VII⁺
 
 ![ASharpRalian](ModeASharpRalian.png)
 
+## Diagram
+
+![ASharpRalian](CircleModeASharpRalian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ II, iv, v, VI⁺, VII⁺
 | [3277](https://ianring.com/musictheory/scales/3277) | [Zycrian](ModeZycrian.md) | E | E, F#, G, A#, B, C##, D#, E | ![ENaturalZycrian](ModeENaturalZycrian.png) |
 | [1843](https://ianring.com/musictheory/scales/1843) | [Ionygian](ModeIonygian.md) | F# | F#, G, A#, B, C##, D#, E, F# | ![FSharpIonygian](ModeFSharpIonygian.png) |
 | [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeTholian.md) | G | G, A#, B, C##, D#, E, F#, G | ![GNaturalTholian](ModeGNaturalTholian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | A# | A#, B, C##, D#, E, F#, G, A# | ![ASharpRalian](CircleModeASharpRalian.png) |
+| [2489](https://ianring.com/musictheory/scales/2489) | [Syrian](ModeSyrian.md) | B | B, C##, D#, E, F#, G, A#, B | ![BNaturalSyrian](CircleModeBNaturalSyrian.png) |
+| [2459](https://ianring.com/musictheory/scales/2459) | [Ionocrian](ModeIonocrian.md) | D# | D#, E, F#, G, A#, B, C##, D# | ![DSharpIonocrian](CircleModeDSharpIonocrian.png) |
+| [3277](https://ianring.com/musictheory/scales/3277) | [Zycrian](ModeZycrian.md) | E | E, F#, G, A#, B, C##, D#, E | ![ENaturalZycrian](CircleModeENaturalZycrian.png) |
+| [1843](https://ianring.com/musictheory/scales/1843) | [Ionygian](ModeIonygian.md) | F# | F#, G, A#, B, C##, D#, E, F# | ![FSharpIonygian](CircleModeFSharpIonygian.png) |
+| [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeTholian.md) | G | G, A#, B, C##, D#, E, F#, G | ![GNaturalTholian](CircleModeGNaturalTholian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ D
 
 ![DNaturalKythian](ModeDNaturalKythian.png)
 
+## Diagram
+
+![DNaturalKythian](CircleModeDNaturalKythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3977](https://ianring.com/musictheory/scales/3977) | [Kythian](ModeKythian.md) | D | D, E#, Cbbb, Cbb, Dbbb, Dbb, Ebbb, D | ![DNaturalKythian](ModeDNaturalKythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3977](https://ianring.com/musictheory/scales/3977) | [Kythian](ModeKythian.md) | D | D, E#, Cbbb, Cbb, Dbbb, Dbb, Ebbb, D | ![DNaturalKythian](CircleModeDNaturalKythian.png) |
 
 ## Chords
 

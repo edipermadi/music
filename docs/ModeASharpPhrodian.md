@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ v⁰
 
 ![ASharpPhrodian](ModeASharpPhrodian.png)
 
+## Diagram
+
+![ASharpPhrodian](CircleModeASharpPhrodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ v⁰
 | [3357](https://ianring.com/musictheory/scales/3357) | [Phrodian](ModePhrodian.md) | A# | A#, B#, C#, D, E##, F###, G##, A# | ![ASharpPhrodian](ModeASharpPhrodian.png) |
 | [2979](https://ianring.com/musictheory/scales/2979) | [Gyptian](ModeGyptian.md) | C# | C#, D, E##, F###, G##, A#, B#, C# | ![CSharpGyptian](ModeCSharpGyptian.png) |
 | [3537](https://ianring.com/musictheory/scales/3537) | [Katogian](ModeKatogian.md) | D | D, E##, F###, G##, A#, B#, C#, D | ![DNaturalKatogian](ModeDNaturalKatogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3357](https://ianring.com/musictheory/scales/3357) | [Phrodian](ModePhrodian.md) | A# | A#, B#, C#, D, E##, F###, G##, A# | ![ASharpPhrodian](CircleModeASharpPhrodian.png) |
+| [2979](https://ianring.com/musictheory/scales/2979) | [Gyptian](ModeGyptian.md) | C# | C#, D, E##, F###, G##, A#, B#, C# | ![CSharpGyptian](CircleModeCSharpGyptian.png) |
+| [3537](https://ianring.com/musictheory/scales/3537) | [Katogian](ModeKatogian.md) | D | D, E##, F###, G##, A#, B#, C#, D | ![DNaturalKatogian](CircleModeDNaturalKatogian.png) |
 
 ## Chords
 

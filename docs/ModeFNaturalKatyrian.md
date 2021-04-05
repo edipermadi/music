@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II, iv⁰, vi⁰, VII⁺
 
 ![FNaturalKatyrian](ModeFNaturalKatyrian.png)
 
+## Diagram
+
+![FNaturalKatyrian](CircleModeFNaturalKatyrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ II, iv⁰, vi⁰, VII⁺
 | [1239](https://ianring.com/musictheory/scales/1239) | [Epaptian](ModeEpaptian.md) | C# | C#, D, Eb, F, G, Ab, B, C# | ![CSharpEpaptian](ModeCSharpEpaptian.png) |
 | [2667](https://ianring.com/musictheory/scales/2667) | [Byrian](ModeByrian.md) | D | D, Eb, F, G, Ab, B, C#, D | ![DNaturalByrian](ModeDNaturalByrian.png) |
 | [3381](https://ianring.com/musictheory/scales/3381) | [Katanian](ModeKatanian.md) | Eb | Eb, F, G, Ab, B, C#, D, Eb | ![EFlatKatanian](ModeEFlatKatanian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1869](https://ianring.com/musictheory/scales/1869) | [Katyrian](ModeKatyrian.md) | F | F, G, Ab, B, C#, D, Eb, F | ![FNaturalKatyrian](CircleModeFNaturalKatyrian.png) |
+| [1491](https://ianring.com/musictheory/scales/1491) | [Rynian](ModeRynian.md) | G | G, Ab, B, C#, D, Eb, F, G | ![GNaturalRynian](CircleModeGNaturalRynian.png) |
+| [2793](https://ianring.com/musictheory/scales/2793) | [Eporian](ModeEporian.md) | Ab | Ab, B, C#, D, Eb, F, G, Ab | ![AFlatEporian](CircleModeAFlatEporian.png) |
+| [861](https://ianring.com/musictheory/scales/861) | [Rylian](ModeRylian.md) | B | B, C#, D, Eb, F, G, Ab, B | ![BNaturalRylian](CircleModeBNaturalRylian.png) |
+| [1239](https://ianring.com/musictheory/scales/1239) | [Epaptian](ModeEpaptian.md) | C# | C#, D, Eb, F, G, Ab, B, C# | ![CSharpEpaptian](CircleModeCSharpEpaptian.png) |
+| [2667](https://ianring.com/musictheory/scales/2667) | [Byrian](ModeByrian.md) | D | D, Eb, F, G, Ab, B, C#, D | ![DNaturalByrian](CircleModeDNaturalByrian.png) |
+| [3381](https://ianring.com/musictheory/scales/3381) | [Katanian](ModeKatanian.md) | Eb | Eb, F, G, Ab, B, C#, D, Eb | ![EFlatKatanian](CircleModeEFlatKatanian.png) |
 
 ## Chords
 

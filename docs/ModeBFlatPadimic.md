@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ II⁺, iii, IV⁺, VI⁺
 
 ![BFlatPadimic](ModeBFlatPadimic.png)
 
+## Diagram
+
+![BFlatPadimic](CircleModeBFlatPadimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ II⁺, iii, IV⁺, VI⁺
 | [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeThynimic.md) | E | E, F#, G#, A#, B#, C###, E | ![ENaturalThynimic](ModeENaturalThynimic.png) |
 | [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | F# | F#, G#, A#, B#, C###, D##, F# | ![FSharpAeolathimic](ModeFSharpAeolathimic.png) |
 | [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeBythimic.md) | G# | G#, A#, B#, C###, D##, E##, G# | ![GSharpBythimic](ModeGSharpBythimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1381](https://ianring.com/musictheory/scales/1381) | [Padimic](ModePadimic.md) | Bb | Bb, C, D#, E, F#, G#, Bb | ![BFlatPadimic](CircleModeBFlatPadimic.png) |
+| [1369](https://ianring.com/musictheory/scales/1369) | [Boptimic](ModeBoptimic.md) | C | C, D#, E, F#, G#, A#, C | ![CNaturalBoptimic](CircleModeCNaturalBoptimic.png) |
+| [683](https://ianring.com/musictheory/scales/683) | [Stogimic](ModeStogimic.md) | D# | D#, E, F#, G#, A#, B#, D# | ![DSharpStogimic](CircleModeDSharpStogimic.png) |
+| [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeThynimic.md) | E | E, F#, G#, A#, B#, C###, E | ![ENaturalThynimic](CircleModeENaturalThynimic.png) |
+| [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | F# | F#, G#, A#, B#, C###, D##, F# | ![FSharpAeolathimic](CircleModeFSharpAeolathimic.png) |
+| [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeBythimic.md) | G# | G#, A#, B#, C###, D##, E##, G# | ![GSharpBythimic](CircleModeGSharpBythimic.png) |
 
 ## Chords
 

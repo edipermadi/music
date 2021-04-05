@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ ii⁰
 
 ![CSharpGacrimic](ModeCSharpGacrimic.png)
 
+## Diagram
+
+![CSharpGacrimic](CircleModeCSharpGacrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1489](https://ianring.com/musictheory/scales/1489) | [Gacrimic](ModeGacrimic.md) | C# | C#, D###, E###, F###, G##, A##, C# | ![CSharpGacrimic](ModeCSharpGacrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1489](https://ianring.com/musictheory/scales/1489) | [Gacrimic](ModeGacrimic.md) | C# | C#, D###, E###, F###, G##, A##, C# | ![CSharpGacrimic](CircleModeCSharpGacrimic.png) |
 
 ## Chords
 

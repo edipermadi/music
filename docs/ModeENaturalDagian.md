@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iv⁰, v⁰
 
 ![ENaturalDagian](ModeENaturalDagian.png)
 
+## Diagram
+
+![ENaturalDagian](CircleModeENaturalDagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ iv⁰, v⁰
 | [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | B | B, C#, D, E, F, Gb, A#, B | ![BNaturalAerogian](ModeBNaturalAerogian.png) |
 | [1595](https://ianring.com/musictheory/scales/1595) | [Dacrian](ModeDacrian.md) | C# | C#, D, E, F, Gb, A#, B, C# | ![CSharpDacrian](ModeCSharpDacrian.png) |
 | [2845](https://ianring.com/musictheory/scales/2845) | [Baptian](ModeBaptian.md) | D | D, E, F, Gb, A#, B, C#, D | ![DNaturalBaptian](ModeDNaturalBaptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1735](https://ianring.com/musictheory/scales/1735) | [Dagian](ModeDagian.md) | E | E, F, Gb, A#, B, C#, D, E | ![ENaturalDagian](CircleModeENaturalDagian.png) |
+| [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | F | F, Gb, A#, B, C#, D, E, F | ![FNaturalAeolydian](CircleModeFNaturalAeolydian.png) |
+| [3505](https://ianring.com/musictheory/scales/3505) | [Stygian](ModeStygian.md) | Gb | Gb, A#, B, C#, D, E, F, Gb | ![GFlatStygian](CircleModeGFlatStygian.png) |
+| [475](https://ianring.com/musictheory/scales/475) | [Aeolygian](ModeAeolygian.md) | A# | A#, B, C#, D, E, F, Gb, A# | ![ASharpAeolygian](CircleModeASharpAeolygian.png) |
+| [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | B | B, C#, D, E, F, Gb, A#, B | ![BNaturalAerogian](CircleModeBNaturalAerogian.png) |
+| [1595](https://ianring.com/musictheory/scales/1595) | [Dacrian](ModeDacrian.md) | C# | C#, D, E, F, Gb, A#, B, C# | ![CSharpDacrian](CircleModeCSharpDacrian.png) |
+| [2845](https://ianring.com/musictheory/scales/2845) | [Baptian](ModeBaptian.md) | D | D, E, F, Gb, A#, B, C#, D | ![DNaturalBaptian](CircleModeDNaturalBaptian.png) |
 
 ## Chords
 

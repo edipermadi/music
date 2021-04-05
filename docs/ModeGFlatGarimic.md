@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ ii⁰, III
 
 ![GFlatGarimic](ModeGFlatGarimic.png)
 
+## Diagram
+
+![GFlatGarimic](CircleModeGFlatGarimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ ii⁰, III
 | [1581](https://ianring.com/musictheory/scales/1581) | [Gyrimic](ModeGyrimic.md) | C# | C#, D#, E, F#, G###, A##, C# | ![CSharpGyrimic](ModeCSharpGyrimic.png) |
 | [1419](https://ianring.com/musictheory/scales/1419) | [Zalimic](ModeZalimic.md) | D# | D#, E, F#, G###, A##, B##, D# | ![DSharpZalimic](ModeDSharpZalimic.png) |
 | [2757](https://ianring.com/musictheory/scales/2757) | [Stolimic](ModeStolimic.md) | E | E, F#, G###, A##, B##, C###, E | ![ENaturalStolimic](ModeENaturalStolimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1713](https://ianring.com/musictheory/scales/1713) | [Garimic](ModeGarimic.md) | Gb | Gb, A#, B, C#, D#, E, Gb | ![GFlatGarimic](CircleModeGFlatGarimic.png) |
+| [363](https://ianring.com/musictheory/scales/363) | [Soptimic](ModeSoptimic.md) | A# | A#, B, C#, D#, E, F#, A# | ![ASharpSoptimic](CircleModeASharpSoptimic.png) |
+| [2229](https://ianring.com/musictheory/scales/2229) | [Ionyptimic](ModeIonyptimic.md) | B | B, C#, D#, E, F#, G###, B | ![BNaturalIonyptimic](CircleModeBNaturalIonyptimic.png) |
+| [1581](https://ianring.com/musictheory/scales/1581) | [Gyrimic](ModeGyrimic.md) | C# | C#, D#, E, F#, G###, A##, C# | ![CSharpGyrimic](CircleModeCSharpGyrimic.png) |
+| [1419](https://ianring.com/musictheory/scales/1419) | [Zalimic](ModeZalimic.md) | D# | D#, E, F#, G###, A##, B##, D# | ![DSharpZalimic](CircleModeDSharpZalimic.png) |
+| [2757](https://ianring.com/musictheory/scales/2757) | [Stolimic](ModeStolimic.md) | E | E, F#, G###, A##, B##, C###, E | ![ENaturalStolimic](CircleModeENaturalStolimic.png) |
 
 ## Chords
 

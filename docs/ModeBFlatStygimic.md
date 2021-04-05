@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I, ii⁰
 
 ![BFlatStygimic](ModeBFlatStygimic.png)
 
+## Diagram
+
+![BFlatStygimic](CircleModeBFlatStygimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I, ii⁰
 | [1611](https://ianring.com/musictheory/scales/1611) | [Dacrimic](ModeDacrimic.md) | E | E, F, G, A#, B##, C##, E | ![ENaturalDacrimic](ModeENaturalDacrimic.png) |
 | [2853](https://ianring.com/musictheory/scales/2853) | [Baptimic](ModeBaptimic.md) | F | F, G, A#, B##, C##, D##, F | ![FNaturalBaptimic](ModeFNaturalBaptimic.png) |
 | [1737](https://ianring.com/musictheory/scales/1737) | [Thalimic](ModeThalimic.md) | G | G, A#, B##, C##, D##, E#, G | ![GNaturalThalimic](ModeGNaturalThalimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [729](https://ianring.com/musictheory/scales/729) | [Stygimic](ModeStygimic.md) | Bb | Bb, C#, D, E, F, G, Bb | ![BFlatStygimic](CircleModeBFlatStygimic.png) |
+| [603](https://ianring.com/musictheory/scales/603) | [Aeolygimic](ModeAeolygimic.md) | C# | C#, D, E, F, G, A#, C# | ![CSharpAeolygimic](CircleModeCSharpAeolygimic.png) |
+| [2349](https://ianring.com/musictheory/scales/2349) | [Aerogimic](ModeAerogimic.md) | D | D, E, F, G, A#, B##, D | ![DNaturalAerogimic](CircleModeDNaturalAerogimic.png) |
+| [1611](https://ianring.com/musictheory/scales/1611) | [Dacrimic](ModeDacrimic.md) | E | E, F, G, A#, B##, C##, E | ![ENaturalDacrimic](CircleModeENaturalDacrimic.png) |
+| [2853](https://ianring.com/musictheory/scales/2853) | [Baptimic](ModeBaptimic.md) | F | F, G, A#, B##, C##, D##, F | ![FNaturalBaptimic](CircleModeFNaturalBaptimic.png) |
+| [1737](https://ianring.com/musictheory/scales/1737) | [Thalimic](ModeThalimic.md) | G | G, A#, B##, C##, D##, E#, G | ![GNaturalThalimic](CircleModeGNaturalThalimic.png) |
 
 ## Chords
 

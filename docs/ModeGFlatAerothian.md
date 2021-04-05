@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii⁰, V⁺, VII
 
 ![GFlatAerothian](ModeGFlatAerothian.png)
 
+## Diagram
+
+![GFlatAerothian](CircleModeGFlatAerothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeAerothian.md) | Gb | Gb, Abb, Bbb, Cbb, Dbbb, Ebbb, Fbb, Gb | ![GFlatAerothian](ModeGFlatAerothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeAerothian.md) | Gb | Gb, Abb, Bbb, Cbb, Dbbb, Ebbb, Fbb, Gb | ![GFlatAerothian](CircleModeGFlatAerothian.png) |
 
 ## Chords
 

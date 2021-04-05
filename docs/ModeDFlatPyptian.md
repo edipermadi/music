@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii, III⁺, IV⁺, V, vii⁰
 
 ![DFlatPyptian](ModeDFlatPyptian.png)
 
+## Diagram
+
+![DFlatPyptian](CircleModeDFlatPyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | Db | Db, Ebb, Fbb, Gbb, Abb, Bbb, Cb, Db | ![DFlatPyptian](ModeDFlatPyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | Db | Db, Ebb, Fbb, Gbb, Abb, Bbb, Cb, Db | ![DFlatPyptian](CircleModeDFlatPyptian.png) |
 
 ## Chords
 

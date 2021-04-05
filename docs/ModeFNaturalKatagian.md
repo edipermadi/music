@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, ii, iii, IV, V⁺, vi⁰, VII
 
 ![FNaturalKatagian](ModeFNaturalKatagian.png)
 
+## Diagram
+
+![FNaturalKatagian](CircleModeFNaturalKatagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰, ii, iii, IV, V⁺, vi⁰, VII
 | [1715](https://ianring.com/musictheory/scales/1715) | [Aeronian](ModeAeronian.md) | Bb | Bb, Cb, D, Eb, F, G, Ab, Bb | ![BFlatAeronian](ModeBFlatAeronian.png) |
 | [875](https://ianring.com/musictheory/scales/875) | [Stothian](ModeStothian.md) | D | D, Eb, F, G, Ab, Bb, Cb, D | ![DNaturalStothian](ModeDNaturalStothian.png) |
 | [2485](https://ianring.com/musictheory/scales/2485) | [Aerorian](ModeAerorian.md) | Eb | Eb, F, G, Ab, Bb, Cb, D, Eb | ![EFlatAerorian](ModeEFlatAerorian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1645](https://ianring.com/musictheory/scales/1645) | [Katagian](ModeKatagian.md) | F | F, G, Ab, Bb, Cb, D, Eb, F | ![FNaturalKatagian](CircleModeFNaturalKatagian.png) |
+| [1435](https://ianring.com/musictheory/scales/1435) | [Phronian](ModePhronian.md) | G | G, Ab, Bb, Cb, D, Eb, F, G | ![GNaturalPhronian](CircleModeGNaturalPhronian.png) |
+| [2765](https://ianring.com/musictheory/scales/2765) | [Banian](ModeBanian.md) | Ab | Ab, Bb, Cb, D, Eb, F, G, Ab | ![AFlatBanian](CircleModeAFlatBanian.png) |
+| [1715](https://ianring.com/musictheory/scales/1715) | [Aeronian](ModeAeronian.md) | Bb | Bb, Cb, D, Eb, F, G, Ab, Bb | ![BFlatAeronian](CircleModeBFlatAeronian.png) |
+| [875](https://ianring.com/musictheory/scales/875) | [Stothian](ModeStothian.md) | D | D, Eb, F, G, Ab, Bb, Cb, D | ![DNaturalStothian](CircleModeDNaturalStothian.png) |
+| [2485](https://ianring.com/musictheory/scales/2485) | [Aerorian](ModeAerorian.md) | Eb | Eb, F, G, Ab, Bb, Cb, D, Eb | ![EFlatAerorian](CircleModeEFlatAerorian.png) |
 
 ## Chords
 

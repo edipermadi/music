@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ II, iii⁰, v, VII⁺
 
 ![ANaturalPhrolian](ModeANaturalPhrolian.png)
 
+## Diagram
+
+![ANaturalPhrolian](CircleModeANaturalPhrolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModePhrolian.md) | A | A, B#, C##, D##, E#, F##, G#, A | ![ANaturalPhrolian](ModeANaturalPhrolian.png) |
 | [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeKagian.md) | G# | G#, A, B#, C##, D##, E#, F##, G# | ![GSharpKagian](ModeGSharpKagian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModePhrolian.md) | A | A, B#, C##, D##, E#, F##, G#, A | ![ANaturalPhrolian](CircleModeANaturalPhrolian.png) |
+| [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeKagian.md) | G# | G#, A, B#, C##, D##, E#, F##, G# | ![GSharpKagian](CircleModeGSharpKagian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ IV⁺, VI
 
 ![AFlatSythian](ModeAFlatSythian.png)
 
+## Diagram
+
+![AFlatSythian](CircleModeAFlatSythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ IV⁺, VI
 | [2365](https://ianring.com/musictheory/scales/2365) | [Sythian](ModeSythian.md) | Ab | Ab, Bb, Cb, Dbb, Ebbb, Fb, G, Ab | ![AFlatSythian](ModeAFlatSythian.png) |
 | [1615](https://ianring.com/musictheory/scales/1615) | [Sydian](ModeSydian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fb, G, Ab, Bb | ![BFlatSydian](ModeBFlatSydian.png) |
 | [635](https://ianring.com/musictheory/scales/635) | [Epolian](ModeEpolian.md) | G | G, Ab, Bb, Cb, Dbb, Ebbb, Fb, G | ![GNaturalEpolian](ModeGNaturalEpolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2365](https://ianring.com/musictheory/scales/2365) | [Sythian](ModeSythian.md) | Ab | Ab, Bb, Cb, Dbb, Ebbb, Fb, G, Ab | ![AFlatSythian](CircleModeAFlatSythian.png) |
+| [1615](https://ianring.com/musictheory/scales/1615) | [Sydian](ModeSydian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fb, G, Ab, Bb | ![BFlatSydian](CircleModeBFlatSydian.png) |
+| [635](https://ianring.com/musictheory/scales/635) | [Epolian](ModeEpolian.md) | G | G, Ab, Bb, Cb, Dbb, Ebbb, Fb, G | ![GNaturalEpolian](CircleModeGNaturalEpolian.png) |
 
 ## Chords
 

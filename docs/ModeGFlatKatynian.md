@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ V, vii
 
 ![GFlatKatynian](ModeGFlatKatynian.png)
 
+## Diagram
+
+![GFlatKatynian](CircleModeGFlatKatynian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1267](https://ianring.com/musictheory/scales/1267) | [Katynian](ModeKatynian.md) | Gb | Gb, Abb, Bb, Cb, Dbb, Ebbb, Fb, Gb | ![GFlatKatynian](ModeGFlatKatynian.png) |
 | [847](https://ianring.com/musictheory/scales/847) | [Ganian](ModeGanian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fb, Gb, Abb, Bb | ![BFlatGanian](ModeBFlatGanian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1267](https://ianring.com/musictheory/scales/1267) | [Katynian](ModeKatynian.md) | Gb | Gb, Abb, Bb, Cb, Dbb, Ebbb, Fb, Gb | ![GFlatKatynian](CircleModeGFlatKatynian.png) |
+| [847](https://ianring.com/musictheory/scales/847) | [Ganian](ModeGanian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fb, Gb, Abb, Bb | ![BFlatGanian](CircleModeBFlatGanian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ iv
 
 ![CSharpPhraptimic](ModeCSharpPhraptimic.png)
 
+## Diagram
+
+![CSharpPhraptimic](CircleModeCSharpPhraptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3353](https://ianring.com/musictheory/scales/3353) | [Phraptimic](ModePhraptimic.md) | C# | C#, D##, E#, Cbbb, Dbbb, Dbb, C# | ![CSharpPhraptimic](ModeCSharpPhraptimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3353](https://ianring.com/musictheory/scales/3353) | [Phraptimic](ModePhraptimic.md) | C# | C#, D##, E#, Cbbb, Dbbb, Dbb, C# | ![CSharpPhraptimic](CircleModeCSharpPhraptimic.png) |
 
 ## Chords
 

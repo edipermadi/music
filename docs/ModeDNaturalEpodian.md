@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ D
 
 ![DNaturalEpodian](ModeDNaturalEpodian.png)
 
+## Diagram
+
+![DNaturalEpodian](CircleModeDNaturalEpodian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [319](https://ianring.com/musictheory/scales/319) | [Epodian](ModeEpodian.md) | D | D, Eb, Fb, Gbb, Abbb, E###, Cbb, D | ![DNaturalEpodian](ModeDNaturalEpodian.png) |
 | [2207](https://ianring.com/musictheory/scales/2207) | [Mygian](ModeMygian.md) | Eb | Eb, Fb, Gbb, Abbb, E###, Cbb, D, Eb | ![EFlatMygian](ModeEFlatMygian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [319](https://ianring.com/musictheory/scales/319) | [Epodian](ModeEpodian.md) | D | D, Eb, Fb, Gbb, Abbb, E###, Cbb, D | ![DNaturalEpodian](CircleModeDNaturalEpodian.png) |
+| [2207](https://ianring.com/musictheory/scales/2207) | [Mygian](ModeMygian.md) | Eb | Eb, Fb, Gbb, Abbb, E###, Cbb, D, Eb | ![EFlatMygian](CircleModeEFlatMygian.png) |
 
 ## Chords
 

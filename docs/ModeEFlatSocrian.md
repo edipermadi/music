@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, II⁺, III, IV, vi
 
 ![EFlatSocrian](ModeEFlatSocrian.png)
 
+## Diagram
+
+![EFlatSocrian](CircleModeEFlatSocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I⁺, II⁺, III, IV, vi
 | [827](https://ianring.com/musictheory/scales/827) | [Mixolocrian](ModeMixolocrian.md) | B | B, C, D, Eb, Fb, G, Ab, B | ![BNaturalMixolocrian](ModeBNaturalMixolocrian.png) |
 | [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | C | C, D, Eb, Fb, G, Ab, B, C | ![CNaturalSagian](ModeCNaturalSagian.png) |
 | [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | D | D, Eb, Fb, G, Ab, B, C, D | ![DNaturalAeolothian](ModeDNaturalAeolothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | Eb | Eb, Fb, G, Ab, B, C, D, Eb | ![EFlatSocrian](CircleModeEFlatSocrian.png) |
+| [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | G | G, Ab, B, C, D, Eb, Fb, G | ![GNaturalModian](CircleModeGNaturalModian.png) |
+| [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | Ab | Ab, B, C, D, Eb, Fb, G, Ab | ![AFlatBarian](CircleModeAFlatBarian.png) |
+| [827](https://ianring.com/musictheory/scales/827) | [Mixolocrian](ModeMixolocrian.md) | B | B, C, D, Eb, Fb, G, Ab, B | ![BNaturalMixolocrian](CircleModeBNaturalMixolocrian.png) |
+| [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | C | C, D, Eb, Fb, G, Ab, B, C | ![CNaturalSagian](CircleModeCNaturalSagian.png) |
+| [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | D | D, Eb, Fb, G, Ab, B, C, D | ![DNaturalAeolothian](CircleModeDNaturalAeolothian.png) |
 
 ## Chords
 

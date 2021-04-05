@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ ii, v
 
 ![BNaturalLythimic](ModeBNaturalLythimic.png)
 
+## Diagram
+
+![BNaturalLythimic](CircleModeBNaturalLythimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1625](https://ianring.com/musictheory/scales/1625) | [Lythimic](ModeLythimic.md) | B | B, C##, D#, E#, F###, G##, B | ![BNaturalLythimic](ModeBNaturalLythimic.png) |
 | [2405](https://ianring.com/musictheory/scales/2405) | [Katalimic](ModeKatalimic.md) | D# | D#, E#, F###, G##, A##, B###, D# | ![DSharpKatalimic](ModeDSharpKatalimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1625](https://ianring.com/musictheory/scales/1625) | [Lythimic](ModeLythimic.md) | B | B, C##, D#, E#, F###, G##, B | ![BNaturalLythimic](CircleModeBNaturalLythimic.png) |
+| [2405](https://ianring.com/musictheory/scales/2405) | [Katalimic](ModeKatalimic.md) | D# | D#, E#, F###, G##, A##, B###, D# | ![DSharpKatalimic](CircleModeDSharpKatalimic.png) |
 
 ## Chords
 

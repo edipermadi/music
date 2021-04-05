@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ F#
 
 ![FSharpParian](ModeFSharpParian.png)
 
+## Diagram
+
+![FSharpParian](CircleModeFSharpParian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3889](https://ianring.com/musictheory/scales/3889) | [Parian](ModeParian.md) | F# | F#, G###, A##, B###, C###, D##, E#, F# | ![FSharpParian](ModeFSharpParian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3889](https://ianring.com/musictheory/scales/3889) | [Parian](ModeParian.md) | F# | F#, G###, A##, B###, C###, D##, E#, F# | ![FSharpParian](CircleModeFSharpParian.png) |
 
 ## Chords
 

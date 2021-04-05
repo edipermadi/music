@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii⁰, III, v, VII
 
 ![DFlatPhradian](ModeDFlatPhradian.png)
 
+## Diagram
+
+![DFlatPhradian](CircleModeDFlatPhradian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [727](https://ianring.com/musictheory/scales/727) | [Phradian](ModePhradian.md) | Db | Db, Ebb, Fbb, Gbb, Abb, Bbbb, Cbb, Db | ![DFlatPhradian](ModeDFlatPhradian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [727](https://ianring.com/musictheory/scales/727) | [Phradian](ModePhradian.md) | Db | Db, Ebb, Fbb, Gbb, Abb, Bbbb, Cbb, Db | ![DFlatPhradian](CircleModeDFlatPhradian.png) |
 
 ## Chords
 

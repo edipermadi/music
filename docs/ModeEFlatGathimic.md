@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ II
 
 ![EFlatGathimic](ModeEFlatGathimic.png)
 
+## Diagram
+
+![EFlatGathimic](CircleModeEFlatGathimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ II
 | [2379](https://ianring.com/musictheory/scales/2379) | [Stathimic](ModeStathimic.md) | A | A, Bb, C, D#, E#, F###, A | ![ANaturalStathimic](ModeANaturalStathimic.png) |
 | [3237](https://ianring.com/musictheory/scales/3237) | [Thatimic](ModeThatimic.md) | Bb | Bb, C, D#, E#, F###, G##, Bb | ![BFlatThatimic](ModeBFlatThatimic.png) |
 | [1833](https://ianring.com/musictheory/scales/1833) | [Ionacrimic](ModeIonacrimic.md) | C | C, D#, E#, F###, G##, A#, C | ![CNaturalIonacrimic](ModeCNaturalIonacrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [741](https://ianring.com/musictheory/scales/741) | [Gathimic](ModeGathimic.md) | Eb | Eb, F, G#, A, Bb, C, Eb | ![EFlatGathimic](CircleModeEFlatGathimic.png) |
+| [1209](https://ianring.com/musictheory/scales/1209) | [Ionynimic](ModeIonynimic.md) | F | F, G#, A, Bb, C, D#, F | ![FNaturalIonynimic](CircleModeFNaturalIonynimic.png) |
+| [663](https://ianring.com/musictheory/scales/663) | [Phrynimic](ModePhrynimic.md) | G# | G#, A, Bb, C, D#, E#, G# | ![GSharpPhrynimic](CircleModeGSharpPhrynimic.png) |
+| [2379](https://ianring.com/musictheory/scales/2379) | [Stathimic](ModeStathimic.md) | A | A, Bb, C, D#, E#, F###, A | ![ANaturalStathimic](CircleModeANaturalStathimic.png) |
+| [3237](https://ianring.com/musictheory/scales/3237) | [Thatimic](ModeThatimic.md) | Bb | Bb, C, D#, E#, F###, G##, Bb | ![BFlatThatimic](CircleModeBFlatThatimic.png) |
+| [1833](https://ianring.com/musictheory/scales/1833) | [Ionacrimic](ModeIonacrimic.md) | C | C, D#, E#, F###, G##, A#, C | ![CNaturalIonacrimic](CircleModeCNaturalIonacrimic.png) |
 
 ## Chords
 

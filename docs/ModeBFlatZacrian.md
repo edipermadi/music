@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ iii⁰
 
 ![BFlatZacrian](ModeBFlatZacrian.png)
 
+## Diagram
+
+![BFlatZacrian](CircleModeBFlatZacrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ iii⁰
 | [1597](https://ianring.com/musictheory/scales/1597) | [Aeolodian](ModeAeolodian.md) | F# | F#, G#, A, Bb, Cb, D#, E, F# | ![FSharpAeolodian](ModeFSharpAeolodian.png) |
 | [1423](https://ianring.com/musictheory/scales/1423) | [Doptian](ModeDoptian.md) | G# | G#, A, Bb, Cb, D#, E, F#, G# | ![GSharpDoptian](ModeGSharpDoptian.png) |
 | [2759](https://ianring.com/musictheory/scales/2759) | [Aeraphian](ModeAeraphian.md) | A | A, Bb, Cb, D#, E, F#, G#, A | ![ANaturalAeraphian](ModeANaturalAeraphian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3427](https://ianring.com/musictheory/scales/3427) | [Zacrian](ModeZacrian.md) | Bb | Bb, Cb, D#, E, F#, G#, A, Bb | ![BFlatZacrian](CircleModeBFlatZacrian.png) |
+| [491](https://ianring.com/musictheory/scales/491) | [Aeolyrian](ModeAeolyrian.md) | D# | D#, E, F#, G#, A, Bb, Cb, D# | ![DSharpAeolyrian](CircleModeDSharpAeolyrian.png) |
+| [2293](https://ianring.com/musictheory/scales/2293) | [Gorian](ModeGorian.md) | E | E, F#, G#, A, Bb, Cb, D#, E | ![ENaturalGorian](CircleModeENaturalGorian.png) |
+| [1597](https://ianring.com/musictheory/scales/1597) | [Aeolodian](ModeAeolodian.md) | F# | F#, G#, A, Bb, Cb, D#, E, F# | ![FSharpAeolodian](CircleModeFSharpAeolodian.png) |
+| [1423](https://ianring.com/musictheory/scales/1423) | [Doptian](ModeDoptian.md) | G# | G#, A, Bb, Cb, D#, E, F#, G# | ![GSharpDoptian](CircleModeGSharpDoptian.png) |
+| [2759](https://ianring.com/musictheory/scales/2759) | [Aeraphian](ModeAeraphian.md) | A | A, Bb, Cb, D#, E, F#, G#, A | ![ANaturalAeraphian](CircleModeANaturalAeraphian.png) |
 
 ## Chords
 

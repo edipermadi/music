@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ A#
 
 ![ASharpKytrimic](ModeASharpKytrimic.png)
 
+## Diagram
+
+![ASharpKytrimic](CircleModeASharpKytrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [753](https://ianring.com/musictheory/scales/753) | [Kytrimic](ModeKytrimic.md) | A# | A#, B###, C###, D##, E#, F##, A# | ![ASharpKytrimic](ModeASharpKytrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [753](https://ianring.com/musictheory/scales/753) | [Kytrimic](ModeKytrimic.md) | A# | A#, B###, C###, D##, E#, F##, A# | ![ASharpKytrimic](CircleModeASharpKytrimic.png) |
 
 ## Chords
 

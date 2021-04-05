@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ ii, iii
 
 ![GNaturalLaptimic](ModeGNaturalLaptimic.png)
 
+## Diagram
+
+![GNaturalLaptimic](CircleModeGNaturalLaptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2481](https://ianring.com/musictheory/scales/2481) | [Laptimic](ModeLaptimic.md) | G | G, A##, B#, C##, D#, E##, G | ![GNaturalLaptimic](ModeGNaturalLaptimic.png) |
 | [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeSothimic.md) | D# | D#, E##, F##, Cb, Dbb, Ebb, D# | ![DSharpSothimic](ModeDSharpSothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2481](https://ianring.com/musictheory/scales/2481) | [Laptimic](ModeLaptimic.md) | G | G, A##, B#, C##, D#, E##, G | ![GNaturalLaptimic](CircleModeGNaturalLaptimic.png) |
+| [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeSothimic.md) | D# | D#, E##, F##, Cb, Dbb, Ebb, D# | ![DSharpSothimic](CircleModeDSharpSothimic.png) |
 
 ## Chords
 

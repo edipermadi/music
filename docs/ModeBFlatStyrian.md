@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ vii⁰
 
 ![BFlatStyrian](ModeBFlatStyrian.png)
 
+## Diagram
+
+![BFlatStyrian](CircleModeBFlatStyrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1143](https://ianring.com/musictheory/scales/1143) | [Styrian](ModeStyrian.md) | Bb | Bb, Cb, Dbb, Ebb, Fbb, Gbbb, Ab, Bb | ![BFlatStyrian](ModeBFlatStyrian.png) |
 | [477](https://ianring.com/musictheory/scales/477) | [Stacrian](ModeStacrian.md) | Ab | Ab, Bb, Cb, Dbb, Ebb, Fbb, Gbbb, Ab | ![AFlatStacrian](ModeAFlatStacrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1143](https://ianring.com/musictheory/scales/1143) | [Styrian](ModeStyrian.md) | Bb | Bb, Cb, Dbb, Ebb, Fbb, Gbbb, Ab, Bb | ![BFlatStyrian](CircleModeBFlatStyrian.png) |
+| [477](https://ianring.com/musictheory/scales/477) | [Stacrian](ModeStacrian.md) | Ab | Ab, Bb, Cb, Dbb, Ebb, Fbb, Gbbb, Ab | ![AFlatStacrian](CircleModeAFlatStacrian.png) |
 
 ## Chords
 

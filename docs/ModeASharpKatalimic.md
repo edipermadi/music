@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ iii, vi
 
 ![ASharpKatalimic](ModeASharpKatalimic.png)
 
+## Diagram
+
+![ASharpKatalimic](CircleModeASharpKatalimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2405](https://ianring.com/musictheory/scales/2405) | [Katalimic](ModeKatalimic.md) | A# | A#, B#, C###, D##, E##, Cbbb, A# | ![ASharpKatalimic](ModeASharpKatalimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2405](https://ianring.com/musictheory/scales/2405) | [Katalimic](ModeKatalimic.md) | A# | A#, B#, C###, D##, E##, Cbbb, A# | ![ASharpKatalimic](CircleModeASharpKatalimic.png) |
 
 ## Chords
 

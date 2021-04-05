@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ Eb
 
 ![EFlatZythian](ModeEFlatZythian.png)
 
+## Diagram
+
+![EFlatZythian](CircleModeEFlatZythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [463](https://ianring.com/musictheory/scales/463) | [Zythian](ModeZythian.md) | Eb | Eb, Fb, Gbb, Abbb, Bbb, Cbb, Dbbb, Eb | ![EFlatZythian](ModeEFlatZythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [463](https://ianring.com/musictheory/scales/463) | [Zythian](ModeZythian.md) | Eb | Eb, Fb, Gbb, Abbb, Bbb, Cbb, Dbbb, Eb | ![EFlatZythian](CircleModeEFlatZythian.png) |
 
 ## Chords
 

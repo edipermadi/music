@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, vi
 
 ![GSharpAeranian](ModeGSharpAeranian.png)
 
+## Diagram
+
+![GSharpAeranian](CircleModeGSharpAeranian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ I⁺, vi
 | [1941](https://ianring.com/musictheory/scales/1941) | [Aeranian](ModeAeranian.md) | G# | G#, A#, B#, C###, D##, E#, F#, G# | ![GSharpAeranian](ModeGSharpAeranian.png) |
 | [1509](https://ianring.com/musictheory/scales/1509) | [Ragian](ModeRagian.md) | A# | A#, B#, C###, D##, E#, F#, G#, A# | ![ASharpRagian](ModeASharpRagian.png) |
 | [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeMothian.md) | F# | F#, G#, A#, B#, C###, D##, E#, F# | ![FSharpMothian](ModeFSharpMothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1941](https://ianring.com/musictheory/scales/1941) | [Aeranian](ModeAeranian.md) | G# | G#, A#, B#, C###, D##, E#, F#, G# | ![GSharpAeranian](CircleModeGSharpAeranian.png) |
+| [1509](https://ianring.com/musictheory/scales/1509) | [Ragian](ModeRagian.md) | A# | A#, B#, C###, D##, E#, F#, G#, A# | ![ASharpRagian](CircleModeASharpRagian.png) |
+| [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeMothian.md) | F# | F#, G#, A#, B#, C###, D##, E#, F# | ![FSharpMothian](CircleModeFSharpMothian.png) |
 
 ## Chords
 

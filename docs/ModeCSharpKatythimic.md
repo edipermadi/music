@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ ii
 
 ![CSharpKatythimic](ModeCSharpKatythimic.png)
 
+## Diagram
+
+![CSharpKatythimic](CircleModeCSharpKatythimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3281](https://ianring.com/musictheory/scales/3281) | [Katythimic](ModeKatythimic.md) | C# | C#, D###, E###, F###, Cb, Dbb, C# | ![CSharpKatythimic](ModeCSharpKatythimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3281](https://ianring.com/musictheory/scales/3281) | [Katythimic](ModeKatythimic.md) | C# | C#, D###, E###, F###, Cb, Dbb, C# | ![CSharpKatythimic](CircleModeCSharpKatythimic.png) |
 
 ## Chords
 

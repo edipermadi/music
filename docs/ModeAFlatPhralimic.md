@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ II
 
 ![AFlatPhralimic](ModeAFlatPhralimic.png)
 
+## Diagram
+
+![AFlatPhralimic](CircleModeAFlatPhralimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3377](https://ianring.com/musictheory/scales/3377) | [Phralimic](ModePhralimic.md) | Ab | Ab, B#, C#, D##, E##, F##, Ab | ![AFlatPhralimic](ModeAFlatPhralimic.png) |
 | [2281](https://ianring.com/musictheory/scales/2281) | [Rathimic](ModeRathimic.md) | C# | C#, D##, E##, F##, G#, A###, C# | ![CSharpRathimic](ModeCSharpRathimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3377](https://ianring.com/musictheory/scales/3377) | [Phralimic](ModePhralimic.md) | Ab | Ab, B#, C#, D##, E##, F##, Ab | ![AFlatPhralimic](CircleModeAFlatPhralimic.png) |
+| [2281](https://ianring.com/musictheory/scales/2281) | [Rathimic](ModeRathimic.md) | C# | C#, D##, E##, F##, G#, A###, C# | ![CSharpRathimic](CircleModeCSharpRathimic.png) |
 
 ## Chords
 

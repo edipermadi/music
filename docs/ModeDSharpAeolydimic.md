@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ I⁺, ii⁰, III⁺, V⁺
 
 ![DSharpAeolydimic](ModeDSharpAeolydimic.png)
 
+## Diagram
+
+![DSharpAeolydimic](CircleModeDSharpAeolydimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [857](https://ianring.com/musictheory/scales/857) | [Aeolydimic](ModeAeolydimic.md) | D# | D#, E##, F##, G##, A##, B#, D# | ![DSharpAeolydimic](ModeDSharpAeolydimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [857](https://ianring.com/musictheory/scales/857) | [Aeolydimic](ModeAeolydimic.md) | D# | D#, E##, F##, G##, A##, B#, D# | ![DSharpAeolydimic](CircleModeDSharpAeolydimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ ii, IV⁺
 
 ![GFlatMolian](ModeGFlatMolian.png)
 
+## Diagram
+
+![GFlatMolian](CircleModeGFlatMolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | Gb | Gb, Abb, Bbbb, Cbb, Dbb, Ebb, F, Gb | ![GFlatMolian](ModeGFlatMolian.png) |
 | [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeAeolythian.md) | F | F, Gb, Abb, Bbbb, Cbb, Dbb, Ebb, F | ![FNaturalAeolythian](ModeFNaturalAeolythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | Gb | Gb, Abb, Bbbb, Cbb, Dbb, Ebb, F, Gb | ![GFlatMolian](CircleModeGFlatMolian.png) |
+| [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeAeolythian.md) | F | F, Gb, Abb, Bbbb, Cbb, Dbb, Ebb, F | ![FNaturalAeolythian](CircleModeFNaturalAeolythian.png) |
 
 ## Chords
 

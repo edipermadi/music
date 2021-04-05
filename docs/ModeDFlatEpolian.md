@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ V⁺, VII
 
 ![DFlatEpolian](ModeDFlatEpolian.png)
 
+## Diagram
+
+![DFlatEpolian](CircleModeDFlatEpolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [635](https://ianring.com/musictheory/scales/635) | [Epolian](ModeEpolian.md) | Db | Db, Ebb, Fb, Gbb, Abbb, E###, Cbb, Db | ![DFlatEpolian](ModeDFlatEpolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [635](https://ianring.com/musictheory/scales/635) | [Epolian](ModeEpolian.md) | Db | Db, Ebb, Fb, Gbb, Abbb, E###, Cbb, Db | ![DFlatEpolian](CircleModeDFlatEpolian.png) |
 
 ## Chords
 

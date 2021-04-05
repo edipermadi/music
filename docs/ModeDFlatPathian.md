@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ i⁰, ii, iii⁰, IV⁺, v, VI, VII
 
 ![DFlatPathian](ModeDFlatPathian.png)
 
+## Diagram
+
+![DFlatPathian](CircleModeDFlatPathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [859](https://ianring.com/musictheory/scales/859) | [Pathian](ModePathian.md) | Db | Db, Ebb, Fb, Gbb, Abb, Bbb, Cbb, Db | ![DFlatPathian](ModeDFlatPathian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [859](https://ianring.com/musictheory/scales/859) | [Pathian](ModePathian.md) | Db | Db, Ebb, Fb, Gbb, Abb, Bbb, Cbb, Db | ![DFlatPathian](CircleModeDFlatPathian.png) |
 
 ## Chords
 

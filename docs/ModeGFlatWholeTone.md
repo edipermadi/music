@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, II⁺, III⁺, IV⁺, V⁺, VI⁺
 
 ![GFlatWholeTone](ModeGFlatWholeTone.png)
 
+## Diagram
+
+![GFlatWholeTone](CircleModeGFlatWholeTone.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I⁺, II⁺, III⁺, IV⁺, V⁺, VI⁺
 | [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | C | C, D, E, F#, G#, A#, C | ![CNaturalWholeTone](ModeCNaturalWholeTone.png) |
 | [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | D | D, E, F#, G#, A#, B#, D | ![DNaturalWholeTone](ModeDNaturalWholeTone.png) |
 | [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | E | E, F#, G#, A#, B#, C##, E | ![ENaturalWholeTone](ModeENaturalWholeTone.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | Gb | Gb, Ab, Bb, C, D, E, Gb | ![GFlatWholeTone](CircleModeGFlatWholeTone.png) |
+| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | Ab | Ab, Bb, C, D, E, F#, Ab | ![AFlatWholeTone](CircleModeAFlatWholeTone.png) |
+| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | Bb | Bb, C, D, E, F#, G#, Bb | ![BFlatWholeTone](CircleModeBFlatWholeTone.png) |
+| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | C | C, D, E, F#, G#, A#, C | ![CNaturalWholeTone](CircleModeCNaturalWholeTone.png) |
+| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | D | D, E, F#, G#, A#, B#, D | ![DNaturalWholeTone](CircleModeDNaturalWholeTone.png) |
+| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | E | E, F#, G#, A#, B#, C##, E | ![ENaturalWholeTone](CircleModeENaturalWholeTone.png) |
 
 ## Chords
 

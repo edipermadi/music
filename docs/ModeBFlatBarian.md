@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii, V⁺, VI⁺, VII
 
 ![BFlatBarian](ModeBFlatBarian.png)
 
+## Diagram
+
+![BFlatBarian](CircleModeBFlatBarian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ I, iii, V⁺, VI⁺, VII
 | [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | F | F, Gb, A, Bb, C#, D, E, F | ![FNaturalSocrian](ModeFNaturalSocrian.png) |
 | [3481](https://ianring.com/musictheory/scales/3481) | [Katathian](ModeKatathian.md) | Gb | Gb, A, Bb, C#, D, E, F, Gb | ![GFlatKatathian](ModeGFlatKatathian.png) |
 | [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | A | A, Bb, C#, D, E, F, Gb, A | ![ANaturalModian](ModeANaturalModian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | Bb | Bb, C#, D, E, F, Gb, A, Bb | ![BFlatBarian](CircleModeBFlatBarian.png) |
+| [827](https://ianring.com/musictheory/scales/827) | [Mixolocrian](ModeMixolocrian.md) | C# | C#, D, E, F, Gb, A, Bb, C# | ![CSharpMixolocrian](CircleModeCSharpMixolocrian.png) |
+| [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | D | D, E, F, Gb, A, Bb, C#, D | ![DNaturalSagian](CircleModeDNaturalSagian.png) |
+| [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | E | E, F, Gb, A, Bb, C#, D, E | ![ENaturalAeolothian](CircleModeENaturalAeolothian.png) |
+| [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | F | F, Gb, A, Bb, C#, D, E, F | ![FNaturalSocrian](CircleModeFNaturalSocrian.png) |
+| [3481](https://ianring.com/musictheory/scales/3481) | [Katathian](ModeKatathian.md) | Gb | Gb, A, Bb, C#, D, E, F, Gb | ![GFlatKatathian](CircleModeGFlatKatathian.png) |
+| [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | A | A, Bb, C#, D, E, F, Gb, A | ![ANaturalModian](CircleModeANaturalModian.png) |
 
 ## Chords
 

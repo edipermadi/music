@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -49,6 +49,10 @@ D
 
 ![DNaturalDaric](ModeDNaturalDaric.png)
 
+## Diagram
+
+![DNaturalDaric](CircleModeDNaturalDaric.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -57,6 +61,14 @@ D
 | [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | F# | F#, A, C, D, F# | ![FSharpLonic](ModeFSharpLonic.png) |
 | [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | A | A, C, D, F#, A | ![ANaturalPhradic](ModeANaturalPhradic.png) |
 | [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | C | C, D, F#, A, C | ![CNaturalBolic](ModeCNaturalBolic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | D | D, F#, A, C, D | ![DNaturalDaric](CircleModeDNaturalDaric.png) |
+| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | F# | F#, A, C, D, F# | ![FSharpLonic](CircleModeFSharpLonic.png) |
+| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | A | A, C, D, F#, A | ![ANaturalPhradic](CircleModeANaturalPhradic.png) |
+| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | C | C, D, F#, A, C | ![CNaturalBolic](CircleModeCNaturalBolic.png) |
 
 ## Chords
 

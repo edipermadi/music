@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii, VII
 
 ![CSharpKatocrian](ModeCSharpKatocrian.png)
 
+## Diagram
+
+![CSharpKatocrian](CircleModeCSharpKatocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3689](https://ianring.com/musictheory/scales/3689) | [Katocrian](ModeKatocrian.md) | C# | C#, D##, E##, F##, G###, A##, B#, C# | ![CSharpKatocrian](ModeCSharpKatocrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3689](https://ianring.com/musictheory/scales/3689) | [Katocrian](ModeKatocrian.md) | C# | C#, D##, E##, F##, G###, A##, B#, C# | ![CSharpKatocrian](CircleModeCSharpKatocrian.png) |
 
 ## Chords
 

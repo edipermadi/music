@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, VI
 
 ![AFlatLadian](ModeAFlatLadian.png)
 
+## Diagram
+
+![AFlatLadian](CircleModeAFlatLadian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ i, VI
 | [971](https://ianring.com/musictheory/scales/971) | [Ladian](ModeLadian.md) | Ab | Ab, Bbb, Cb, D, Eb, Fb, Gbb, Ab | ![AFlatLadian](ModeAFlatLadian.png) |
 | [719](https://ianring.com/musictheory/scales/719) | [Kanian](ModeKanian.md) | D | D, Eb, Fb, Gbb, Ab, Bbb, Cb, D | ![DNaturalKanian](ModeDNaturalKanian.png) |
 | [2407](https://ianring.com/musictheory/scales/2407) | [Zylian](ModeZylian.md) | Eb | Eb, Fb, Gbb, Ab, Bbb, Cb, D, Eb | ![EFlatZylian](ModeEFlatZylian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [971](https://ianring.com/musictheory/scales/971) | [Ladian](ModeLadian.md) | Ab | Ab, Bbb, Cb, D, Eb, Fb, Gbb, Ab | ![AFlatLadian](CircleModeAFlatLadian.png) |
+| [719](https://ianring.com/musictheory/scales/719) | [Kanian](ModeKanian.md) | D | D, Eb, Fb, Gbb, Ab, Bbb, Cb, D | ![DNaturalKanian](CircleModeDNaturalKanian.png) |
+| [2407](https://ianring.com/musictheory/scales/2407) | [Zylian](ModeZylian.md) | Eb | Eb, Fb, Gbb, Ab, Bbb, Cb, D, Eb | ![EFlatZylian](CircleModeEFlatZylian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ ii⁰, iv, V⁺, VI⁺, VII
 
 ![BFlatGothian](ModeBFlatGothian.png)
 
+## Diagram
+
+![BFlatGothian](CircleModeBFlatGothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ ii⁰, iv, V⁺, VI⁺, VII
 | [2731](https://ianring.com/musictheory/scales/2731) | [Thydian](ModeThydian.md) | Eb | Eb, Fb, Gb, Ab, Bb, C, D, Eb | ![EFlatThydian](ModeEFlatThydian.png) |
 | [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeAeroptian.md) | Gb | Gb, Ab, Bb, C, D, Eb, Fb, Gb | ![GFlatAeroptian](ModeGFlatAeroptian.png) |
 | [1493](https://ianring.com/musictheory/scales/1493) | [Phryrian](ModePhryrian.md) | Ab | Ab, Bb, C, D, Eb, Fb, Gb, Ab | ![AFlatPhryrian](ModeAFlatPhryrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | Bb | Bb, C, D, Eb, Fb, Gb, Ab, Bb | ![BFlatGothian](CircleModeBFlatGothian.png) |
+| [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | C | C, D, Eb, Fb, Gb, Ab, Bb, C | ![CNaturalStorian](CircleModeCNaturalStorian.png) |
+| [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | D | D, Eb, Fb, Gb, Ab, Bb, C, D | ![DNaturalPyptian](CircleModeDNaturalPyptian.png) |
+| [2731](https://ianring.com/musictheory/scales/2731) | [Thydian](ModeThydian.md) | Eb | Eb, Fb, Gb, Ab, Bb, C, D, Eb | ![EFlatThydian](CircleModeEFlatThydian.png) |
+| [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeAeroptian.md) | Gb | Gb, Ab, Bb, C, D, Eb, Fb, Gb | ![GFlatAeroptian](CircleModeGFlatAeroptian.png) |
+| [1493](https://ianring.com/musictheory/scales/1493) | [Phryrian](ModePhryrian.md) | Ab | Ab, Bb, C, D, Eb, Fb, Gb, Ab | ![AFlatPhryrian](CircleModeAFlatPhryrian.png) |
 
 ## Chords
 

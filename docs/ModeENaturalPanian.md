@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, vi⁰
 
 ![ENaturalPanian](ModeENaturalPanian.png)
 
+## Diagram
+
+![ENaturalPanian](CircleModeENaturalPanian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i⁰, vi⁰
 | [1769](https://ianring.com/musictheory/scales/1769) | [Rythian](ModeRythian.md) | Bb | Bb, C#, D#, E, F, G, Ab, Bb | ![BFlatRythian](ModeBFlatRythian.png) |
 | [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeDonian.md) | C# | C#, D#, E, F, G, Ab, Bb, C# | ![CSharpDonian](ModeCSharpDonian.png) |
 | [1207](https://ianring.com/musictheory/scales/1207) | [Aeoloptian](ModeAeoloptian.md) | D# | D#, E, F, G, Ab, Bb, C#, D# | ![DSharpAeoloptian](ModeDSharpAeoloptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | E | E, F, G, Ab, Bb, C#, D#, E | ![ENaturalPanian](CircleModeENaturalPanian.png) |
+| [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | F | F, G, Ab, Bb, C#, D#, E, F | ![FNaturalLodian](CircleModeFNaturalLodian.png) |
+| [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | G | G, Ab, Bb, C#, D#, E, F, G | ![GNaturalSolian](CircleModeGNaturalSolian.png) |
+| [2981](https://ianring.com/musictheory/scales/2981) | [Ionolian](ModeIonolian.md) | Ab | Ab, Bb, C#, D#, E, F, G, Ab | ![AFlatIonolian](CircleModeAFlatIonolian.png) |
+| [1769](https://ianring.com/musictheory/scales/1769) | [Rythian](ModeRythian.md) | Bb | Bb, C#, D#, E, F, G, Ab, Bb | ![BFlatRythian](CircleModeBFlatRythian.png) |
+| [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeDonian.md) | C# | C#, D#, E, F, G, Ab, Bb, C# | ![CSharpDonian](CircleModeCSharpDonian.png) |
+| [1207](https://ianring.com/musictheory/scales/1207) | [Aeoloptian](ModeAeoloptian.md) | D# | D#, E, F, G, Ab, Bb, C#, D# | ![DSharpAeoloptian](CircleModeDSharpAeoloptian.png) |
 
 ## Chords
 

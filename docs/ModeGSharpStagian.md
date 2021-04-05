@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, IV⁺, VI
 
 ![GSharpStagian](ModeGSharpStagian.png)
 
+## Diagram
+
+![GSharpStagian](CircleModeGSharpStagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰, IV⁺, VI
 | [3477](https://ianring.com/musictheory/scales/3477) | [Kyptian](ModeKyptian.md) | C | C, D, E, F##, G#, A#, B, C | ![CNaturalKyptian](ModeCNaturalKyptian.png) |
 | [1893](https://ianring.com/musictheory/scales/1893) | [Ionylian](ModeIonylian.md) | D | D, E, F##, G#, A#, B, C, D | ![DNaturalIonylian](ModeDNaturalIonylian.png) |
 | [1497](https://ianring.com/musictheory/scales/1497) | [Ionanian](ModeIonanian.md) | E | E, F##, G#, A#, B, C, D, E | ![ENaturalIonanian](ModeENaturalIonanian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | G# | G#, A#, B, C, D, E, F##, G# | ![GSharpStagian](CircleModeGSharpStagian.png) |
+| [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | A# | A#, B, C, D, E, F##, G#, A# | ![ASharpLothian](CircleModeASharpLothian.png) |
+| [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | B | B, C, D, E, F##, G#, A#, B | ![BNaturalPhrycrian](CircleModeBNaturalPhrycrian.png) |
+| [3477](https://ianring.com/musictheory/scales/3477) | [Kyptian](ModeKyptian.md) | C | C, D, E, F##, G#, A#, B, C | ![CNaturalKyptian](CircleModeCNaturalKyptian.png) |
+| [1893](https://ianring.com/musictheory/scales/1893) | [Ionylian](ModeIonylian.md) | D | D, E, F##, G#, A#, B, C, D | ![DNaturalIonylian](CircleModeDNaturalIonylian.png) |
+| [1497](https://ianring.com/musictheory/scales/1497) | [Ionanian](ModeIonanian.md) | E | E, F##, G#, A#, B, C, D, E | ![ENaturalIonanian](CircleModeENaturalIonanian.png) |
 
 ## Chords
 

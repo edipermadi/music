@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, IV⁺, VI
 
 ![FNaturalStagian](ModeFNaturalStagian.png)
 
+## Diagram
+
+![FNaturalStagian](CircleModeFNaturalStagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ i⁰, IV⁺, VI
 | [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | Ab | Ab, Bbb, Cb, Db, E, F, G, Ab | ![AFlatPhrycrian](ModeAFlatPhrycrian.png) |
 | [1497](https://ianring.com/musictheory/scales/1497) | [Ionanian](ModeIonanian.md) | Db | Db, E, F, G, Ab, Bbb, Cb, Db | ![DFlatIonanian](ModeDFlatIonanian.png) |
 | [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeAerothian.md) | E | E, F, G, Ab, Bbb, Cb, Db, E | ![ENaturalAerothian](ModeENaturalAerothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | F | F, G, Ab, Bbb, Cb, Db, E, F | ![FNaturalStagian](CircleModeFNaturalStagian.png) |
+| [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | G | G, Ab, Bbb, Cb, Db, E, F, G | ![GNaturalLothian](CircleModeGNaturalLothian.png) |
+| [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | Ab | Ab, Bbb, Cb, Db, E, F, G, Ab | ![AFlatPhrycrian](CircleModeAFlatPhrycrian.png) |
+| [1497](https://ianring.com/musictheory/scales/1497) | [Ionanian](ModeIonanian.md) | Db | Db, E, F, G, Ab, Bbb, Cb, Db | ![DFlatIonanian](CircleModeDFlatIonanian.png) |
+| [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeAerothian.md) | E | E, F, G, Ab, Bbb, Cb, Db, E | ![ENaturalAerothian](CircleModeENaturalAerothian.png) |
 
 ## Chords
 

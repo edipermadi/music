@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ III
 
 ![GFlatKatoptimic](ModeGFlatKatoptimic.png)
 
+## Diagram
+
+![GFlatKatoptimic](CircleModeGFlatKatoptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ III
 | [2851](https://ianring.com/musictheory/scales/2851) | [Katoptimic](ModeKatoptimic.md) | Gb | Gb, Abb, B, C##, D#, E#, Gb | ![GFlatKatoptimic](ModeGFlatKatoptimic.png) |
 | [473](https://ianring.com/musictheory/scales/473) | [Aeralimic](ModeAeralimic.md) | B | B, C##, D#, E#, F#, G, B | ![BNaturalAeralimic](ModeBNaturalAeralimic.png) |
 | [2333](https://ianring.com/musictheory/scales/2333) | [Stynimic](ModeStynimic.md) | D# | D#, E#, F#, G, A##, B###, D# | ![DSharpStynimic](ModeDSharpStynimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2851](https://ianring.com/musictheory/scales/2851) | [Katoptimic](ModeKatoptimic.md) | Gb | Gb, Abb, B, C##, D#, E#, Gb | ![GFlatKatoptimic](CircleModeGFlatKatoptimic.png) |
+| [473](https://ianring.com/musictheory/scales/473) | [Aeralimic](ModeAeralimic.md) | B | B, C##, D#, E#, F#, G, B | ![BNaturalAeralimic](CircleModeBNaturalAeralimic.png) |
+| [2333](https://ianring.com/musictheory/scales/2333) | [Stynimic](ModeStynimic.md) | D# | D#, E#, F#, G, A##, B###, D# | ![DSharpStynimic](CircleModeDSharpStynimic.png) |
 
 ## Chords
 

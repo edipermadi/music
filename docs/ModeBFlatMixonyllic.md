@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -53,6 +53,10 @@ Bb
 
 ![BFlatMixonyllic](ModeBFlatMixonyllic.png)
 
+## Diagram
+
+![BFlatMixonyllic](CircleModeBFlatMixonyllic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -65,6 +69,18 @@ Bb
 | [3057](https://ianring.com/musictheory/scales/3057) | [Phroryllic](ModePhroryllic.md) | E | E, G#, A, A#, B, C, C#, D#, E | ![ENaturalPhroryllic](ModeENaturalPhroryllic.png) |
 | [447](https://ianring.com/musictheory/scales/447) | [Thyphyllic](ModeThyphyllic.md) | Ab | Ab, A, Bb, B, C, Db, Eb, E, Ab | ![AFlatThyphyllic](ModeAFlatThyphyllic.png) |
 | [2271](https://ianring.com/musictheory/scales/2271) | [Poptyllic](ModePoptyllic.md) | A | A, A#, B, C, C#, D#, E, G#, A | ![ANaturalPoptyllic](ModeANaturalPoptyllic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3183](https://ianring.com/musictheory/scales/3183) | [Mixonyllic](ModeMixonyllic.md) | Bb | Bb, B, C, Db, Eb, E, Ab, A, Bb | ![BFlatMixonyllic](CircleModeBFlatMixonyllic.png) |
+| [3639](https://ianring.com/musictheory/scales/3639) | [Paptyllic](ModePaptyllic.md) | B | B, C, C#, D#, E, G#, A, A#, B | ![BNaturalPaptyllic](CircleModeBNaturalPaptyllic.png) |
+| [3867](https://ianring.com/musictheory/scales/3867) | [Storyllic](ModeStoryllic.md) | C | C, C#, D#, E, G#, A, A#, B, C | ![CNaturalStoryllic](CircleModeCNaturalStoryllic.png) |
+| [3981](https://ianring.com/musictheory/scales/3981) | [Phrycryllic](ModePhrycryllic.md) | Db | Db, Eb, E, Ab, A, Bb, B, C, Db | ![DFlatPhrycryllic](CircleModeDFlatPhrycryllic.png) |
+| [2019](https://ianring.com/musictheory/scales/2019) | [Palyllic](ModePalyllic.md) | Eb | Eb, E, Ab, A, Bb, B, C, Db, Eb | ![EFlatPalyllic](CircleModeEFlatPalyllic.png) |
+| [3057](https://ianring.com/musictheory/scales/3057) | [Phroryllic](ModePhroryllic.md) | E | E, G#, A, A#, B, C, C#, D#, E | ![ENaturalPhroryllic](CircleModeENaturalPhroryllic.png) |
+| [447](https://ianring.com/musictheory/scales/447) | [Thyphyllic](ModeThyphyllic.md) | Ab | Ab, A, Bb, B, C, Db, Eb, E, Ab | ![AFlatThyphyllic](CircleModeAFlatThyphyllic.png) |
+| [2271](https://ianring.com/musictheory/scales/2271) | [Poptyllic](ModePoptyllic.md) | A | A, A#, B, C, C#, D#, E, G#, A | ![ANaturalPoptyllic](CircleModeANaturalPoptyllic.png) |
 
 ## Chords
 

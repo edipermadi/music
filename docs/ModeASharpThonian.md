@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii, iii⁰, v, VII
 
 ![ASharpThonian](ModeASharpThonian.png)
 
+## Diagram
+
+![ASharpThonian](CircleModeASharpThonian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3433](https://ianring.com/musictheory/scales/3433) | [Thonian](ModeThonian.md) | A# | A#, B##, C###, D##, E##, F###, G##, A# | ![ASharpThonian](ModeASharpThonian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3433](https://ianring.com/musictheory/scales/3433) | [Thonian](ModeThonian.md) | A# | A#, B##, C###, D##, E##, F###, G##, A# | ![ASharpThonian](CircleModeASharpThonian.png) |
 
 ## Chords
 

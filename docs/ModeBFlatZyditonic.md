@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -50,6 +50,10 @@ III⁺
 
 ![BFlatZyditonic](ModeBFlatZyditonic.png)
 
+## Diagram
+
+![BFlatZyditonic](CircleModeBFlatZyditonic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,15 @@ III⁺
 | [405](https://ianring.com/musictheory/scales/405) | [Danitonic](ModeDanitonic.md) | Eb | Eb, F, G, Bb, B, Eb | ![EFlatDanitonic](ModeEFlatDanitonic.png) |
 | [1125](https://ianring.com/musictheory/scales/1125) | [Ionaritonic](ModeIonaritonic.md) | F | F, G, A#, B, D#, F | ![FNaturalIonaritonic](ModeFNaturalIonaritonic.png) |
 | [1305](https://ianring.com/musictheory/scales/1305) | [Dynitonic](ModeDynitonic.md) | G | G, A#, B, D#, F, G | ![GNaturalDynitonic](ModeGNaturalDynitonic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [675](https://ianring.com/musictheory/scales/675) | [Zyditonic](ModeZyditonic.md) | Bb | Bb, B, Eb, F, G, Bb | ![BFlatZyditonic](CircleModeBFlatZyditonic.png) |
+| [2385](https://ianring.com/musictheory/scales/2385) | [Aeolanitonic](ModeAeolanitonic.md) | B | B, D#, F, G, A#, B | ![BNaturalAeolanitonic](CircleModeBNaturalAeolanitonic.png) |
+| [405](https://ianring.com/musictheory/scales/405) | [Danitonic](ModeDanitonic.md) | Eb | Eb, F, G, Bb, B, Eb | ![EFlatDanitonic](CircleModeEFlatDanitonic.png) |
+| [1125](https://ianring.com/musictheory/scales/1125) | [Ionaritonic](ModeIonaritonic.md) | F | F, G, A#, B, D#, F | ![FNaturalIonaritonic](CircleModeFNaturalIonaritonic.png) |
+| [1305](https://ianring.com/musictheory/scales/1305) | [Dynitonic](ModeDynitonic.md) | G | G, A#, B, D#, F, G | ![GNaturalDynitonic](CircleModeGNaturalDynitonic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ D#
 
 ![DSharpSathimic](ModeDSharpSathimic.png)
 
+## Diagram
+
+![DSharpSathimic](CircleModeDSharpSathimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3653](https://ianring.com/musictheory/scales/3653) | [Sathimic](ModeSathimic.md) | D# | D#, E#, Cbbb, Dbb, Ebbb, Fbbb, D# | ![DSharpSathimic](ModeDSharpSathimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3653](https://ianring.com/musictheory/scales/3653) | [Sathimic](ModeSathimic.md) | D# | D#, E#, Cbbb, Dbb, Ebbb, Fbbb, D# | ![DSharpSathimic](CircleModeDSharpSathimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ II
 
 ![DSharpGathimic](ModeDSharpGathimic.png)
 
+## Diagram
+
+![DSharpGathimic](CircleModeDSharpGathimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [741](https://ianring.com/musictheory/scales/741) | [Gathimic](ModeGathimic.md) | D# | D#, E#, F###, G##, A#, B#, D# | ![DSharpGathimic](ModeDSharpGathimic.png) |
 | [3237](https://ianring.com/musictheory/scales/3237) | [Thatimic](ModeThatimic.md) | A# | A#, B#, C###, D###, F###, G##, A# | ![ASharpThatimic](ModeASharpThatimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [741](https://ianring.com/musictheory/scales/741) | [Gathimic](ModeGathimic.md) | D# | D#, E#, F###, G##, A#, B#, D# | ![DSharpGathimic](CircleModeDSharpGathimic.png) |
+| [3237](https://ianring.com/musictheory/scales/3237) | [Thatimic](ModeThatimic.md) | A# | A#, B#, C###, D###, F###, G##, A# | ![ASharpThatimic](CircleModeASharpThatimic.png) |
 
 ## Chords
 

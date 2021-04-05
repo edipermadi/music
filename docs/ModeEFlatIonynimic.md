@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I
 
 ![EFlatIonynimic](ModeEFlatIonynimic.png)
 
+## Diagram
+
+![EFlatIonynimic](CircleModeEFlatIonynimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I
 | [3237](https://ianring.com/musictheory/scales/3237) | [Thatimic](ModeThatimic.md) | Ab | Ab, Bb, C#, D#, E##, F##, Ab | ![AFlatThatimic](ModeAFlatThatimic.png) |
 | [1833](https://ianring.com/musictheory/scales/1833) | [Ionacrimic](ModeIonacrimic.md) | Bb | Bb, C#, D#, E##, F##, G#, Bb | ![BFlatIonacrimic](ModeBFlatIonacrimic.png) |
 | [741](https://ianring.com/musictheory/scales/741) | [Gathimic](ModeGathimic.md) | C# | C#, D#, E##, F##, G#, A#, C# | ![CSharpGathimic](ModeCSharpGathimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1209](https://ianring.com/musictheory/scales/1209) | [Ionynimic](ModeIonynimic.md) | Eb | Eb, F#, G, Ab, Bb, C#, Eb | ![EFlatIonynimic](CircleModeEFlatIonynimic.png) |
+| [663](https://ianring.com/musictheory/scales/663) | [Phrynimic](ModePhrynimic.md) | F# | F#, G, Ab, Bb, C#, D#, F# | ![FSharpPhrynimic](CircleModeFSharpPhrynimic.png) |
+| [2379](https://ianring.com/musictheory/scales/2379) | [Stathimic](ModeStathimic.md) | G | G, Ab, Bb, C#, D#, E##, G | ![GNaturalStathimic](CircleModeGNaturalStathimic.png) |
+| [3237](https://ianring.com/musictheory/scales/3237) | [Thatimic](ModeThatimic.md) | Ab | Ab, Bb, C#, D#, E##, F##, Ab | ![AFlatThatimic](CircleModeAFlatThatimic.png) |
+| [1833](https://ianring.com/musictheory/scales/1833) | [Ionacrimic](ModeIonacrimic.md) | Bb | Bb, C#, D#, E##, F##, G#, Bb | ![BFlatIonacrimic](CircleModeBFlatIonacrimic.png) |
+| [741](https://ianring.com/musictheory/scales/741) | [Gathimic](ModeGathimic.md) | C# | C#, D#, E##, F##, G#, A#, C# | ![CSharpGathimic](CircleModeCSharpGathimic.png) |
 
 ## Chords
 

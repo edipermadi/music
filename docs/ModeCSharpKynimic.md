@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ VI
 
 ![CSharpKynimic](ModeCSharpKynimic.png)
 
+## Diagram
+
+![CSharpKynimic](CircleModeCSharpKynimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ VI
 | [2851](https://ianring.com/musictheory/scales/2851) | [Katoptimic](ModeKatoptimic.md) | F | F, Gb, A#, B##, C##, D##, F | ![FNaturalKatoptimic](ModeFNaturalKatoptimic.png) |
 | [3473](https://ianring.com/musictheory/scales/3473) | [Lathimic](ModeLathimic.md) | Gb | Gb, A#, B##, C##, D##, E#, Gb | ![GFlatLathimic](ModeGFlatLathimic.png) |
 | [473](https://ianring.com/musictheory/scales/473) | [Aeralimic](ModeAeralimic.md) | A# | A#, B##, C##, D##, E#, F#, A# | ![ASharpAeralimic](ModeASharpAeralimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [571](https://ianring.com/musictheory/scales/571) | [Kynimic](ModeKynimic.md) | C# | C#, D, E, F, Gb, A#, C# | ![CSharpKynimic](CircleModeCSharpKynimic.png) |
+| [2333](https://ianring.com/musictheory/scales/2333) | [Stynimic](ModeStynimic.md) | D | D, E, F, Gb, A#, B##, D | ![DNaturalStynimic](CircleModeDNaturalStynimic.png) |
+| [1607](https://ianring.com/musictheory/scales/1607) | [Epytimic](ModeEpytimic.md) | E | E, F, Gb, A#, B##, C##, E | ![ENaturalEpytimic](CircleModeENaturalEpytimic.png) |
+| [2851](https://ianring.com/musictheory/scales/2851) | [Katoptimic](ModeKatoptimic.md) | F | F, Gb, A#, B##, C##, D##, F | ![FNaturalKatoptimic](CircleModeFNaturalKatoptimic.png) |
+| [3473](https://ianring.com/musictheory/scales/3473) | [Lathimic](ModeLathimic.md) | Gb | Gb, A#, B##, C##, D##, E#, Gb | ![GFlatLathimic](CircleModeGFlatLathimic.png) |
+| [473](https://ianring.com/musictheory/scales/473) | [Aeralimic](ModeAeralimic.md) | A# | A#, B##, C##, D##, E#, F#, A# | ![ASharpAeralimic](CircleModeASharpAeralimic.png) |
 
 ## Chords
 

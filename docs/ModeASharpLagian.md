@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, ii, IV, vi, VII
 
 ![ASharpLagian](ModeASharpLagian.png)
 
+## Diagram
+
+![ASharpLagian](CircleModeASharpLagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ I⁺, ii, IV, vi, VII
 | [1845](https://ianring.com/musictheory/scales/1845) | [Lagian](ModeLagian.md) | A# | A#, B#, C##, D#, E##, F##, G#, A# | ![ASharpLagian](ModeASharpLagian.png) |
 | [2745](https://ianring.com/musictheory/scales/2745) | [Dolian](ModeDolian.md) | D# | D#, E##, F##, G#, A#, B#, C##, D# | ![DSharpDolian](ModeDSharpDolian.png) |
 | [3285](https://ianring.com/musictheory/scales/3285) | [Zagian](ModeZagian.md) | G# | G#, A#, B#, C##, D#, E##, F##, G# | ![GSharpZagian](ModeGSharpZagian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1845](https://ianring.com/musictheory/scales/1845) | [Lagian](ModeLagian.md) | A# | A#, B#, C##, D#, E##, F##, G#, A# | ![ASharpLagian](CircleModeASharpLagian.png) |
+| [2745](https://ianring.com/musictheory/scales/2745) | [Dolian](ModeDolian.md) | D# | D#, E##, F##, G#, A#, B#, C##, D# | ![DSharpDolian](CircleModeDSharpDolian.png) |
+| [3285](https://ianring.com/musictheory/scales/3285) | [Zagian](ModeZagian.md) | G# | G#, A#, B#, C##, D#, E##, F##, G# | ![GSharpZagian](CircleModeGSharpZagian.png) |
 
 ## Chords
 

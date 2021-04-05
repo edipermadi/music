@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i⁰
 
 ![DNaturalBorimic](ModeDNaturalBorimic.png)
 
+## Diagram
+
+![DNaturalBorimic](CircleModeDNaturalBorimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i⁰
 | [3349](https://ianring.com/musictheory/scales/3349) | [Aeolocrimic](ModeAeolocrimic.md) | Gb | Gb, Ab, Bb, C##, D##, E#, Gb | ![GFlatAeolocrimic](ModeGFlatAeolocrimic.png) |
 | [1861](https://ianring.com/musictheory/scales/1861) | [Phrygimic](ModePhrygimic.md) | Ab | Ab, Bb, C##, D##, E#, F#, Ab | ![AFlatPhrygimic](ModeAFlatPhrygimic.png) |
 | [1489](https://ianring.com/musictheory/scales/1489) | [Gacrimic](ModeGacrimic.md) | Bb | Bb, C##, D##, E#, F#, G#, Bb | ![BFlatGacrimic](ModeBFlatGacrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [349](https://ianring.com/musictheory/scales/349) | [Borimic](ModeBorimic.md) | D | D, E, F, Gb, Ab, Bb, D | ![DNaturalBorimic](CircleModeDNaturalBorimic.png) |
+| [1111](https://ianring.com/musictheory/scales/1111) | [Sycrimic](ModeSycrimic.md) | E | E, F, Gb, Ab, Bb, C##, E | ![ENaturalSycrimic](CircleModeENaturalSycrimic.png) |
+| [2603](https://ianring.com/musictheory/scales/2603) | [Gadimic](ModeGadimic.md) | F | F, Gb, Ab, Bb, C##, D##, F | ![FNaturalGadimic](CircleModeFNaturalGadimic.png) |
+| [3349](https://ianring.com/musictheory/scales/3349) | [Aeolocrimic](ModeAeolocrimic.md) | Gb | Gb, Ab, Bb, C##, D##, E#, Gb | ![GFlatAeolocrimic](CircleModeGFlatAeolocrimic.png) |
+| [1861](https://ianring.com/musictheory/scales/1861) | [Phrygimic](ModePhrygimic.md) | Ab | Ab, Bb, C##, D##, E#, F#, Ab | ![AFlatPhrygimic](CircleModeAFlatPhrygimic.png) |
+| [1489](https://ianring.com/musictheory/scales/1489) | [Gacrimic](ModeGacrimic.md) | Bb | Bb, C##, D##, E#, F#, G#, Bb | ![BFlatGacrimic](CircleModeBFlatGacrimic.png) |
 
 ## Chords
 

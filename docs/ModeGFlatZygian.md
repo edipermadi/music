@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ iii, V⁺, VII
 
 ![GFlatZygian](ModeGFlatZygian.png)
 
+## Diagram
+
+![GFlatZygian](CircleModeGFlatZygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | Gb | Gb, Abb, Bbbb, Cbb, Dbbb, Dbb, Eb, Gb | ![GFlatZygian](ModeGFlatZygian.png) |
 | [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | Eb | Eb, F#, G, Ab, Bb, Cb, Dbb, Eb | ![EFlatStoptian](ModeEFlatStoptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | Gb | Gb, Abb, Bbbb, Cbb, Dbbb, Dbb, Eb, Gb | ![GFlatZygian](CircleModeGFlatZygian.png) |
+| [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | Eb | Eb, F#, G, Ab, Bb, Cb, Dbb, Eb | ![EFlatStoptian](CircleModeEFlatStoptian.png) |
 
 ## Chords
 

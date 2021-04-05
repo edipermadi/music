@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, ii, III⁺, IV⁺, VI
 
 ![GSharpIonocrian](ModeGSharpIonocrian.png)
 
+## Diagram
+
+![GSharpIonocrian](CircleModeGSharpIonocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, ii, III⁺, IV⁺, VI
 | [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeTholian.md) | C | C, D#, E, F##, G#, A, B, C | ![CNaturalTholian](ModeCNaturalTholian.png) |
 | [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | D# | D#, E, F##, G#, A, B, C, D# | ![DSharpRalian](ModeDSharpRalian.png) |
 | [2489](https://ianring.com/musictheory/scales/2489) | [Syrian](ModeSyrian.md) | E | E, F##, G#, A, B, C, D#, E | ![ENaturalSyrian](ModeENaturalSyrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2459](https://ianring.com/musictheory/scales/2459) | [Ionocrian](ModeIonocrian.md) | G# | G#, A, B, C, D#, E, F##, G# | ![GSharpIonocrian](CircleModeGSharpIonocrian.png) |
+| [3277](https://ianring.com/musictheory/scales/3277) | [Zycrian](ModeZycrian.md) | A | A, B, C, D#, E, F##, G#, A | ![ANaturalZycrian](CircleModeANaturalZycrian.png) |
+| [1843](https://ianring.com/musictheory/scales/1843) | [Ionygian](ModeIonygian.md) | B | B, C, D#, E, F##, G#, A, B | ![BNaturalIonygian](CircleModeBNaturalIonygian.png) |
+| [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeTholian.md) | C | C, D#, E, F##, G#, A, B, C | ![CNaturalTholian](CircleModeCNaturalTholian.png) |
+| [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | D# | D#, E, F##, G#, A, B, C, D# | ![DSharpRalian](CircleModeDSharpRalian.png) |
+| [2489](https://ianring.com/musictheory/scales/2489) | [Syrian](ModeSyrian.md) | E | E, F##, G#, A, B, C, D#, E | ![ENaturalSyrian](CircleModeENaturalSyrian.png) |
 
 ## Chords
 

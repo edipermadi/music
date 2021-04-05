@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ VI
 
 ![FNaturalThyrimic](ModeFNaturalThyrimic.png)
 
+## Diagram
+
+![FNaturalThyrimic](CircleModeFNaturalThyrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ VI
 | [599](https://ianring.com/musictheory/scales/599) | [Thyrimic](ModeThyrimic.md) | F | F, Gb, Abb, Bbb, Cb, D, F | ![FNaturalThyrimic](ModeFNaturalThyrimic.png) |
 | [2347](https://ianring.com/musictheory/scales/2347) | [Thothimic](ModeThothimic.md) | Gb | Gb, Abb, Bbb, Cb, D, E#, Gb | ![GFlatThothimic](ModeGFlatThothimic.png) |
 | [697](https://ianring.com/musictheory/scales/697) | [Lagimic](ModeLagimic.md) | D | D, E#, F#, G, A, B, D | ![DNaturalLagimic](ModeDNaturalLagimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [599](https://ianring.com/musictheory/scales/599) | [Thyrimic](ModeThyrimic.md) | F | F, Gb, Abb, Bbb, Cb, D, F | ![FNaturalThyrimic](CircleModeFNaturalThyrimic.png) |
+| [2347](https://ianring.com/musictheory/scales/2347) | [Thothimic](ModeThothimic.md) | Gb | Gb, Abb, Bbb, Cb, D, E#, Gb | ![GFlatThothimic](CircleModeGFlatThothimic.png) |
+| [697](https://ianring.com/musictheory/scales/697) | [Lagimic](ModeLagimic.md) | D | D, E#, F#, G, A, B, D | ![DNaturalLagimic](CircleModeDNaturalLagimic.png) |
 
 ## Chords
 

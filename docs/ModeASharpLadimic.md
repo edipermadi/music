@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ A#
 
 ![ASharpLadimic](ModeASharpLadimic.png)
 
+## Diagram
+
+![ASharpLadimic](CircleModeASharpLadimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeLadimic.md) | A# | A#, B, C##, D##, F###, G##, A# | ![ASharpLadimic](ModeASharpLadimic.png) |
 | [3625](https://ianring.com/musictheory/scales/3625) | [Podimic](ModePodimic.md) | B | B, C##, D##, F###, G##, A#, B | ![BNaturalPodimic](ModeBNaturalPodimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeLadimic.md) | A# | A#, B, C##, D##, F###, G##, A# | ![ASharpLadimic](CircleModeASharpLadimic.png) |
+| [3625](https://ianring.com/musictheory/scales/3625) | [Podimic](ModePodimic.md) | B | B, C##, D##, F###, G##, A#, B | ![BNaturalPodimic](CircleModeBNaturalPodimic.png) |
 
 ## Chords
 

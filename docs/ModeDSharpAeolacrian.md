@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ D#
 
 ![DSharpAeolacrian](ModeDSharpAeolacrian.png)
 
+## Diagram
+
+![DSharpAeolacrian](CircleModeDSharpAeolacrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3313](https://ianring.com/musictheory/scales/3313) | [Aeolacrian](ModeAeolacrian.md) | D# | D#, E###, F###, G##, A#, B##, C##, D# | ![DSharpAeolacrian](ModeDSharpAeolacrian.png) |
 | [3641](https://ianring.com/musictheory/scales/3641) | [Thocrian](ModeThocrian.md) | A# | A#, B##, C##, D#, E###, F###, G##, A# | ![ASharpThocrian](ModeASharpThocrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3313](https://ianring.com/musictheory/scales/3313) | [Aeolacrian](ModeAeolacrian.md) | D# | D#, E###, F###, G##, A#, B##, C##, D# | ![DSharpAeolacrian](CircleModeDSharpAeolacrian.png) |
+| [3641](https://ianring.com/musictheory/scales/3641) | [Thocrian](ModeThocrian.md) | A# | A#, B##, C##, D#, E###, F###, G##, A# | ![ASharpThocrian](CircleModeASharpThocrian.png) |
 
 ## Chords
 

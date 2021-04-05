@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ iii, V⁺, VII
 
 ![CNaturalZygian](ModeCNaturalZygian.png)
 
+## Diagram
+
+![CNaturalZygian](CircleModeCNaturalZygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | C | C, Db, Ebb, Fb, Gbb, Abbb, Bbb, C | ![CNaturalZygian](ModeCNaturalZygian.png) |
 | [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | Db | Db, Ebb, Fb, Gbb, Abbb, Bbb, C, Db | ![DFlatKataptian](ModeDFlatKataptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | C | C, Db, Ebb, Fb, Gbb, Abbb, Bbb, C | ![CNaturalZygian](CircleModeCNaturalZygian.png) |
+| [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | Db | Db, Ebb, Fb, Gbb, Abbb, Bbb, C, Db | ![DFlatKataptian](CircleModeDFlatKataptian.png) |
 
 ## Chords
 

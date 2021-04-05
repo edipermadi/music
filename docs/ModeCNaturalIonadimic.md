@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I, iv
 
 ![CNaturalIonadimic](ModeCNaturalIonadimic.png)
 
+## Diagram
+
+![CNaturalIonadimic](CircleModeCNaturalIonadimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I, iv
 | [1227](https://ianring.com/musictheory/scales/1227) | [Thacrimic](ModeThacrimic.md) | F# | F#, G, A, B#, C#, D##, F# | ![FSharpThacrimic](ModeFSharpThacrimic.png) |
 | [2661](https://ianring.com/musictheory/scales/2661) | [Stydimic](ModeStydimic.md) | G | G, A, B#, C#, D##, E##, G | ![GNaturalStydimic](ModeGNaturalStydimic.png) |
 | [1689](https://ianring.com/musictheory/scales/1689) | [Lorimic](ModeLorimic.md) | A | A, B#, C#, D##, E##, F##, A | ![ANaturalLorimic](ModeANaturalLorimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [723](https://ianring.com/musictheory/scales/723) | [Ionadimic](ModeIonadimic.md) | C | C, Db, E, F#, G, A, C | ![CNaturalIonadimic](CircleModeCNaturalIonadimic.png) |
+| [2409](https://ianring.com/musictheory/scales/2409) | [Zacrimic](ModeZacrimic.md) | Db | Db, E, F#, G, A, B#, Db | ![DFlatZacrimic](CircleModeDFlatZacrimic.png) |
+| [813](https://ianring.com/musictheory/scales/813) | [Larimic](ModeLarimic.md) | E | E, F#, G, A, B#, C#, E | ![ENaturalLarimic](CircleModeENaturalLarimic.png) |
+| [1227](https://ianring.com/musictheory/scales/1227) | [Thacrimic](ModeThacrimic.md) | F# | F#, G, A, B#, C#, D##, F# | ![FSharpThacrimic](CircleModeFSharpThacrimic.png) |
+| [2661](https://ianring.com/musictheory/scales/2661) | [Stydimic](ModeStydimic.md) | G | G, A, B#, C#, D##, E##, G | ![GNaturalStydimic](CircleModeGNaturalStydimic.png) |
+| [1689](https://ianring.com/musictheory/scales/1689) | [Lorimic](ModeLorimic.md) | A | A, B#, C#, D##, E##, F##, A | ![ANaturalLorimic](CircleModeANaturalLorimic.png) |
 
 ## Chords
 

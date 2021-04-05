@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, II, iii, iv, VI⁺
 
 ![DNaturalAerynian](ModeDNaturalAerynian.png)
 
+## Diagram
+
+![DNaturalAerynian](CircleModeDNaturalAerynian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ I, II, iii, iv, VI⁺
 | [1651](https://ianring.com/musictheory/scales/1651) | [Mogian](ModeMogian.md) | A | A, Bb, C#, D, Eb, F#, G, A | ![ANaturalMogian](ModeANaturalMogian.png) |
 | [2873](https://ianring.com/musictheory/scales/2873) | [Docrian](ModeDocrian.md) | Bb | Bb, C#, D, Eb, F#, G, A, Bb | ![BFlatDocrian](ModeBFlatDocrian.png) |
 | [871](https://ianring.com/musictheory/scales/871) | [Epadian](ModeEpadian.md) | C# | C#, D, Eb, F#, G, A, Bb, C# | ![CSharpEpadian](ModeCSharpEpadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2483](https://ianring.com/musictheory/scales/2483) | [Aerynian](ModeAerynian.md) | D | D, Eb, F#, G, A, Bb, C#, D | ![DNaturalAerynian](CircleModeDNaturalAerynian.png) |
+| [3289](https://ianring.com/musictheory/scales/3289) | [Loptian](ModeLoptian.md) | Eb | Eb, F#, G, A, Bb, C#, D, Eb | ![EFlatLoptian](CircleModeEFlatLoptian.png) |
+| [923](https://ianring.com/musictheory/scales/923) | [Ionodian](ModeIonodian.md) | F# | F#, G, A, Bb, C#, D, Eb, F# | ![FSharpIonodian](CircleModeFSharpIonodian.png) |
+| [2509](https://ianring.com/musictheory/scales/2509) | [Bogian](ModeBogian.md) | G | G, A, Bb, C#, D, Eb, F#, G | ![GNaturalBogian](CircleModeGNaturalBogian.png) |
+| [1651](https://ianring.com/musictheory/scales/1651) | [Mogian](ModeMogian.md) | A | A, Bb, C#, D, Eb, F#, G, A | ![ANaturalMogian](CircleModeANaturalMogian.png) |
+| [2873](https://ianring.com/musictheory/scales/2873) | [Docrian](ModeDocrian.md) | Bb | Bb, C#, D, Eb, F#, G, A, Bb | ![BFlatDocrian](CircleModeBFlatDocrian.png) |
+| [871](https://ianring.com/musictheory/scales/871) | [Epadian](ModeEpadian.md) | C# | C#, D, Eb, F#, G, A, Bb, C# | ![CSharpEpadian](CircleModeCSharpEpadian.png) |
 
 ## Chords
 

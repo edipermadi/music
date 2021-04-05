@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii
 
 ![CSharpLyrian](ModeCSharpLyrian.png)
 
+## Diagram
+
+![CSharpLyrian](CircleModeCSharpLyrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ I, iii
 | [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeLyrian.md) | C# | C#, D, E#, F##, G#, A##, B#, C# | ![CSharpLyrian](ModeCSharpLyrian.png) |
 | [3689](https://ianring.com/musictheory/scales/3689) | [Katocrian](ModeKatocrian.md) | D | D, E#, F##, G#, A##, B#, C#, D | ![DNaturalKatocrian](ModeDNaturalKatocrian.png) |
 | [2681](https://ianring.com/musictheory/scales/2681) | [Aerycrian](ModeAerycrian.md) | G# | G#, A##, B#, C#, D, E#, F##, G# | ![GSharpAerycrian](ModeGSharpAerycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeLyrian.md) | C# | C#, D, E#, F##, G#, A##, B#, C# | ![CSharpLyrian](CircleModeCSharpLyrian.png) |
+| [3689](https://ianring.com/musictheory/scales/3689) | [Katocrian](ModeKatocrian.md) | D | D, E#, F##, G#, A##, B#, C#, D | ![DNaturalKatocrian](CircleModeDNaturalKatocrian.png) |
+| [2681](https://ianring.com/musictheory/scales/2681) | [Aerycrian](ModeAerycrian.md) | G# | G#, A##, B#, C#, D, E#, F##, G# | ![GSharpAerycrian](CircleModeGSharpAerycrian.png) |
 
 ## Chords
 

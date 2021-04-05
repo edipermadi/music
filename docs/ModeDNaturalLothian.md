@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ III⁺, V, vii⁰
 
 ![DNaturalLothian](ModeDNaturalLothian.png)
 
+## Diagram
+
+![DNaturalLothian](CircleModeDNaturalLothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ III⁺, V, vii⁰
 | [1497](https://ianring.com/musictheory/scales/1497) | [Ionanian](ModeIonanian.md) | Ab | Ab, B, C, D, Eb, Fb, Gb, Ab | ![AFlatIonanian](ModeAFlatIonanian.png) |
 | [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeAerothian.md) | B | B, C, D, Eb, Fb, Gb, Ab, B | ![BNaturalAerothian](ModeBNaturalAerothian.png) |
 | [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | C | C, D, Eb, Fb, Gb, Ab, B, C | ![CNaturalStagian](ModeCNaturalStagian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | D | D, Eb, Fb, Gb, Ab, B, C, D | ![DNaturalLothian](CircleModeDNaturalLothian.png) |
+| [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | Eb | Eb, Fb, Gb, Ab, B, C, D, Eb | ![EFlatPhrycrian](CircleModeEFlatPhrycrian.png) |
+| [1893](https://ianring.com/musictheory/scales/1893) | [Ionylian](ModeIonylian.md) | Gb | Gb, Ab, B, C, D, Eb, Fb, Gb | ![GFlatIonylian](CircleModeGFlatIonylian.png) |
+| [1497](https://ianring.com/musictheory/scales/1497) | [Ionanian](ModeIonanian.md) | Ab | Ab, B, C, D, Eb, Fb, Gb, Ab | ![AFlatIonanian](CircleModeAFlatIonanian.png) |
+| [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeAerothian.md) | B | B, C, D, Eb, Fb, Gb, Ab, B | ![BNaturalAerothian](CircleModeBNaturalAerothian.png) |
+| [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | C | C, D, Eb, Fb, Gb, Ab, B, C | ![CNaturalStagian](CircleModeCNaturalStagian.png) |
 
 ## Chords
 

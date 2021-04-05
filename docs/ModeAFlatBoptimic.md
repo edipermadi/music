@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I⁺, ii, III⁺, V⁺
 
 ![AFlatBoptimic](ModeAFlatBoptimic.png)
 
+## Diagram
+
+![AFlatBoptimic](CircleModeAFlatBoptimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I⁺, ii, III⁺, V⁺
 | [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | D | D, E, F#, G#, A##, B#, D | ![DNaturalAeolathimic](ModeDNaturalAeolathimic.png) |
 | [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeBythimic.md) | E | E, F#, G#, A##, B#, C##, E | ![ENaturalBythimic](ModeENaturalBythimic.png) |
 | [1381](https://ianring.com/musictheory/scales/1381) | [Padimic](ModePadimic.md) | F# | F#, G#, A##, B#, C##, D##, F# | ![FSharpPadimic](ModeFSharpPadimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1369](https://ianring.com/musictheory/scales/1369) | [Boptimic](ModeBoptimic.md) | Ab | Ab, B, C, D, E, F#, Ab | ![AFlatBoptimic](CircleModeAFlatBoptimic.png) |
+| [683](https://ianring.com/musictheory/scales/683) | [Stogimic](ModeStogimic.md) | B | B, C, D, E, F#, G#, B | ![BNaturalStogimic](CircleModeBNaturalStogimic.png) |
+| [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeThynimic.md) | C | C, D, E, F#, G#, A##, C | ![CNaturalThynimic](CircleModeCNaturalThynimic.png) |
+| [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | D | D, E, F#, G#, A##, B#, D | ![DNaturalAeolathimic](CircleModeDNaturalAeolathimic.png) |
+| [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeBythimic.md) | E | E, F#, G#, A##, B#, C##, E | ![ENaturalBythimic](CircleModeENaturalBythimic.png) |
+| [1381](https://ianring.com/musictheory/scales/1381) | [Padimic](ModePadimic.md) | F# | F#, G#, A##, B#, C##, D##, F# | ![FSharpPadimic](CircleModeFSharpPadimic.png) |
 
 ## Chords
 

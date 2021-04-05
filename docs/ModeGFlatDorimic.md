@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ i
 
 ![GFlatDorimic](ModeGFlatDorimic.png)
 
+## Diagram
+
+![GFlatDorimic](CircleModeGFlatDorimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2203](https://ianring.com/musictheory/scales/2203) | [Dorimic](ModeDorimic.md) | Gb | Gb, Abb, Bbb, Cbb, Db, E#, Gb | ![GFlatDorimic](ModeGFlatDorimic.png) |
 | [881](https://ianring.com/musictheory/scales/881) | [Aerothimic](ModeAerothimic.md) | Db | Db, E#, F#, G, A, Bb, Db | ![DFlatAerothimic](ModeDFlatAerothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2203](https://ianring.com/musictheory/scales/2203) | [Dorimic](ModeDorimic.md) | Gb | Gb, Abb, Bbb, Cbb, Db, E#, Gb | ![GFlatDorimic](CircleModeGFlatDorimic.png) |
+| [881](https://ianring.com/musictheory/scales/881) | [Aerothimic](ModeAerothimic.md) | Db | Db, E#, F#, G, A, Bb, Db | ![DFlatAerothimic](CircleModeDFlatAerothimic.png) |
 
 ## Chords
 

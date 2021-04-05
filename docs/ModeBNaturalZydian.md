@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ B
 
 ![BNaturalZydian](ModeBNaturalZydian.png)
 
+## Diagram
+
+![BNaturalZydian](CircleModeBNaturalZydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ B
 | [3299](https://ianring.com/musictheory/scales/3299) | [Syptian](ModeSyptian.md) | F | F, Gb, A#, B, C, D#, E, F | ![FNaturalSyptian](ModeFNaturalSyptian.png) |
 | [3697](https://ianring.com/musictheory/scales/3697) | [Ionarian](ModeIonarian.md) | Gb | Gb, A#, B, C, D#, E, F, Gb | ![GFlatIonarian](ModeGFlatIonarian.png) |
 | [487](https://ianring.com/musictheory/scales/487) | [Dynian](ModeDynian.md) | A# | A#, B, C, D#, E, F, Gb, A# | ![ASharpDynian](ModeASharpDynian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2291](https://ianring.com/musictheory/scales/2291) | [Zydian](ModeZydian.md) | B | B, C, D#, E, F, Gb, A#, B | ![BNaturalZydian](CircleModeBNaturalZydian.png) |
+| [3193](https://ianring.com/musictheory/scales/3193) | [Zathian](ModeZathian.md) | C | C, D#, E, F, Gb, A#, B, C | ![CNaturalZathian](CircleModeCNaturalZathian.png) |
+| [911](https://ianring.com/musictheory/scales/911) | [Radian](ModeRadian.md) | D# | D#, E, F, Gb, A#, B, C, D# | ![DSharpRadian](CircleModeDSharpRadian.png) |
+| [2503](https://ianring.com/musictheory/scales/2503) | [Stonian](ModeStonian.md) | E | E, F, Gb, A#, B, C, D#, E | ![ENaturalStonian](CircleModeENaturalStonian.png) |
+| [3299](https://ianring.com/musictheory/scales/3299) | [Syptian](ModeSyptian.md) | F | F, Gb, A#, B, C, D#, E, F | ![FNaturalSyptian](CircleModeFNaturalSyptian.png) |
+| [3697](https://ianring.com/musictheory/scales/3697) | [Ionarian](ModeIonarian.md) | Gb | Gb, A#, B, C, D#, E, F, Gb | ![GFlatIonarian](CircleModeGFlatIonarian.png) |
+| [487](https://ianring.com/musictheory/scales/487) | [Dynian](ModeDynian.md) | A# | A#, B, C, D#, E, F, Gb, A# | ![ASharpDynian](CircleModeASharpDynian.png) |
 
 ## Chords
 

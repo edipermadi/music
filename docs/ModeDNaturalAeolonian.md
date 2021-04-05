@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ vii⁰
 
 ![DNaturalAeolonian](ModeDNaturalAeolonian.png)
 
+## Diagram
+
+![DNaturalAeolonian](CircleModeDNaturalAeolonian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ vii⁰
 | [2787](https://ianring.com/musictheory/scales/2787) | [Zyrian](ModeZyrian.md) | G | G, Ab, B#, C#, D, E, F#, G | ![GNaturalZyrian](ModeGNaturalZyrian.png) |
 | [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeThacrian.md) | Ab | Ab, B#, C#, D, E, F#, G, Ab | ![AFlatThacrian](ModeAFlatThacrian.png) |
 | [2283](https://ianring.com/musictheory/scales/2283) | [Aeolyptian](ModeAeolyptian.md) | C# | C#, D, E, F#, G, Ab, B#, C# | ![CSharpAeolyptian](ModeCSharpAeolyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3189](https://ianring.com/musictheory/scales/3189) | [Aeolonian](ModeAeolonian.md) | D | D, E, F#, G, Ab, B#, C#, D | ![DNaturalAeolonian](CircleModeDNaturalAeolonian.png) |
+| [1821](https://ianring.com/musictheory/scales/1821) | [Aeradian](ModeAeradian.md) | E | E, F#, G, Ab, B#, C#, D, E | ![ENaturalAeradian](CircleModeENaturalAeradian.png) |
+| [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeAeolagian.md) | F# | F#, G, Ab, B#, C#, D, E, F# | ![FSharpAeolagian](CircleModeFSharpAeolagian.png) |
+| [2787](https://ianring.com/musictheory/scales/2787) | [Zyrian](ModeZyrian.md) | G | G, Ab, B#, C#, D, E, F#, G | ![GNaturalZyrian](CircleModeGNaturalZyrian.png) |
+| [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeThacrian.md) | Ab | Ab, B#, C#, D, E, F#, G, Ab | ![AFlatThacrian](CircleModeAFlatThacrian.png) |
+| [2283](https://ianring.com/musictheory/scales/2283) | [Aeolyptian](ModeAeolyptian.md) | C# | C#, D, E, F#, G, Ab, B#, C# | ![CSharpAeolyptian](CircleModeCSharpAeolyptian.png) |
 
 ## Chords
 

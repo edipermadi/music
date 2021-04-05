@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ i⁰, vi⁰
 
 ![GFlatLocrimic](ModeGFlatLocrimic.png)
 
+## Diagram
+
+![GFlatLocrimic](CircleModeGFlatLocrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1115](https://ianring.com/musictheory/scales/1115) | [Locrimic](ModeLocrimic.md) | Gb | Gb, Abb, Bbb, Cbb, Dbb, E, Gb | ![GFlatLocrimic](ModeGFlatLocrimic.png) |
 | [365](https://ianring.com/musictheory/scales/365) | [Marimic](ModeMarimic.md) | E | E, F#, G, A, Bb, C, E | ![ENaturalMarimic](ModeENaturalMarimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1115](https://ianring.com/musictheory/scales/1115) | [Locrimic](ModeLocrimic.md) | Gb | Gb, Abb, Bbb, Cbb, Dbb, E, Gb | ![GFlatLocrimic](CircleModeGFlatLocrimic.png) |
+| [365](https://ianring.com/musictheory/scales/365) | [Marimic](ModeMarimic.md) | E | E, F#, G, A, Bb, C, E | ![ENaturalMarimic](CircleModeENaturalMarimic.png) |
 
 ## Chords
 

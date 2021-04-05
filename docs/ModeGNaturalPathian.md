@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, ii, iii⁰, IV⁺, v, VI, VII
 
 ![GNaturalPathian](ModeGNaturalPathian.png)
 
+## Diagram
+
+![GNaturalPathian](CircleModeGNaturalPathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ i⁰, ii, iii⁰, IV⁺, v, VI, VII
 | [1643](https://ianring.com/musictheory/scales/1643) | [Thyptian](ModeThyptian.md) | Bb | Bb, Cb, Db, Eb, Fb, G, Ab, Bb | ![BFlatThyptian](ModeBFlatThyptian.png) |
 | [1741](https://ianring.com/musictheory/scales/1741) | [Katycrian](ModeKatycrian.md) | Db | Db, Eb, Fb, G, Ab, Bb, Cb, Db | ![DFlatKatycrian](ModeDFlatKatycrian.png) |
 | [1459](https://ianring.com/musictheory/scales/1459) | [Ionalian](ModeIonalian.md) | Eb | Eb, Fb, G, Ab, Bb, Cb, Db, Eb | ![EFlatIonalian](ModeEFlatIonalian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [859](https://ianring.com/musictheory/scales/859) | [Pathian](ModePathian.md) | G | G, Ab, Bb, Cb, Db, Eb, Fb, G | ![GNaturalPathian](CircleModeGNaturalPathian.png) |
+| [2477](https://ianring.com/musictheory/scales/2477) | [Mydian](ModeMydian.md) | Ab | Ab, Bb, Cb, Db, Eb, Fb, G, Ab | ![AFlatMydian](CircleModeAFlatMydian.png) |
+| [1643](https://ianring.com/musictheory/scales/1643) | [Thyptian](ModeThyptian.md) | Bb | Bb, Cb, Db, Eb, Fb, G, Ab, Bb | ![BFlatThyptian](CircleModeBFlatThyptian.png) |
+| [1741](https://ianring.com/musictheory/scales/1741) | [Katycrian](ModeKatycrian.md) | Db | Db, Eb, Fb, G, Ab, Bb, Cb, Db | ![DFlatKatycrian](CircleModeDFlatKatycrian.png) |
+| [1459](https://ianring.com/musictheory/scales/1459) | [Ionalian](ModeIonalian.md) | Eb | Eb, Fb, G, Ab, Bb, Cb, Db, Eb | ![EFlatIonalian](CircleModeEFlatIonalian.png) |
 
 ## Chords
 

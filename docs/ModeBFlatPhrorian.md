@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, ii⁰, iv, VI
 
 ![BFlatPhrorian](ModeBFlatPhrorian.png)
 
+## Diagram
+
+![BFlatPhrorian](CircleModeBFlatPhrorian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, ii⁰, iv, VI
 | [1693](https://ianring.com/musictheory/scales/1693) | [Dogian](ModeDogian.md) | Eb | Eb, F, Gb, Abb, Bb, C, Db, Eb | ![EFlatDogian](ModeEFlatDogian.png) |
 | [1447](https://ianring.com/musictheory/scales/1447) | [Mixopyrian](ModeMixopyrian.md) | F | F, Gb, Abb, Bb, C, Db, Eb, F | ![FNaturalMixopyrian](ModeFNaturalMixopyrian.png) |
 | [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeGarian.md) | Gb | Gb, Abb, Bb, C, Db, Eb, F, Gb | ![GFlatGarian](ModeGFlatGarian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [941](https://ianring.com/musictheory/scales/941) | [Phrorian](ModePhrorian.md) | Bb | Bb, C, Db, Eb, F, Gb, Abb, Bb | ![BFlatPhrorian](CircleModeBFlatPhrorian.png) |
+| [1259](https://ianring.com/musictheory/scales/1259) | [Stadian](ModeStadian.md) | C | C, Db, Eb, F, Gb, Abb, Bb, C | ![CNaturalStadian](CircleModeCNaturalStadian.png) |
+| [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeThodian.md) | Db | Db, Eb, F, Gb, Abb, Bb, C, Db | ![DFlatThodian](CircleModeDFlatThodian.png) |
+| [1693](https://ianring.com/musictheory/scales/1693) | [Dogian](ModeDogian.md) | Eb | Eb, F, Gb, Abb, Bb, C, Db, Eb | ![EFlatDogian](CircleModeEFlatDogian.png) |
+| [1447](https://ianring.com/musictheory/scales/1447) | [Mixopyrian](ModeMixopyrian.md) | F | F, Gb, Abb, Bb, C, Db, Eb, F | ![FNaturalMixopyrian](CircleModeFNaturalMixopyrian.png) |
+| [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeGarian.md) | Gb | Gb, Abb, Bb, C, Db, Eb, F, Gb | ![GFlatGarian](CircleModeGFlatGarian.png) |
 
 ## Chords
 

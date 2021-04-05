@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ G
 
 ![GNaturalRonian](ModeGNaturalRonian.png)
 
+## Diagram
+
+![GNaturalRonian](CircleModeGNaturalRonian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ G
 | [3239](https://ianring.com/musictheory/scales/3239) | [Epythian](ModeEpythian.md) | C | C, Db, Ebb, F, G, A#, B, C | ![CNaturalEpythian](ModeCNaturalEpythian.png) |
 | [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeKaptian.md) | Db | Db, Ebb, F, G, A#, B, C, Db | ![DFlatKaptian](ModeDFlatKaptian.png) |
 | [997](https://ianring.com/musictheory/scales/997) | [Rycrian](ModeRycrian.md) | F | F, G, A#, B, C, Db, Ebb, F | ![FNaturalRycrian](ModeFNaturalRycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1273](https://ianring.com/musictheory/scales/1273) | [Ronian](ModeRonian.md) | G | G, A#, B, C, Db, Ebb, F, G | ![GNaturalRonian](CircleModeGNaturalRonian.png) |
+| [671](https://ianring.com/musictheory/scales/671) | [Stycrian](ModeStycrian.md) | A# | A#, B, C, Db, Ebb, F, G, A# | ![ASharpStycrian](CircleModeASharpStycrian.png) |
+| [2383](https://ianring.com/musictheory/scales/2383) | [Katorian](ModeKatorian.md) | B | B, C, Db, Ebb, F, G, A#, B | ![BNaturalKatorian](CircleModeBNaturalKatorian.png) |
+| [3239](https://ianring.com/musictheory/scales/3239) | [Epythian](ModeEpythian.md) | C | C, Db, Ebb, F, G, A#, B, C | ![CNaturalEpythian](CircleModeCNaturalEpythian.png) |
+| [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeKaptian.md) | Db | Db, Ebb, F, G, A#, B, C, Db | ![DFlatKaptian](CircleModeDFlatKaptian.png) |
+| [997](https://ianring.com/musictheory/scales/997) | [Rycrian](ModeRycrian.md) | F | F, G, A#, B, C, Db, Ebb, F | ![FNaturalRycrian](CircleModeFNaturalRycrian.png) |
 
 ## Chords
 

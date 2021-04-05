@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ Gb
 
 ![GFlatKorimic](ModeGFlatKorimic.png)
 
+## Diagram
+
+![GFlatKorimic](CircleModeGFlatKorimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [317](https://ianring.com/musictheory/scales/317) | [Korimic](ModeKorimic.md) | Gb | Gb, Ab, Bbb, Cbb, Dbbb, Ebb, Gb | ![GFlatKorimic](ModeGFlatKorimic.png) |
 | [1103](https://ianring.com/musictheory/scales/1103) | [Lynimic](ModeLynimic.md) | Ab | Ab, Bbb, Cbb, Dbbb, Ebb, F#, Ab | ![AFlatLynimic](ModeAFlatLynimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [317](https://ianring.com/musictheory/scales/317) | [Korimic](ModeKorimic.md) | Gb | Gb, Ab, Bbb, Cbb, Dbbb, Ebb, Gb | ![GFlatKorimic](CircleModeGFlatKorimic.png) |
+| [1103](https://ianring.com/musictheory/scales/1103) | [Lynimic](ModeLynimic.md) | Ab | Ab, Bbb, Cbb, Dbbb, Ebb, F#, Ab | ![AFlatLynimic](CircleModeAFlatLynimic.png) |
 
 ## Chords
 

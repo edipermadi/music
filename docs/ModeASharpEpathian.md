@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii, V⁺, VII
 
 ![ASharpEpathian](ModeASharpEpathian.png)
 
+## Diagram
+
+![ASharpEpathian](CircleModeASharpEpathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeEpathian.md) | A# | A#, B##, C###, D##, E#, F###, G##, A# | ![ASharpEpathian](ModeASharpEpathian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeEpathian.md) | A# | A#, B##, C###, D##, E#, F###, G##, A# | ![ASharpEpathian](CircleModeASharpEpathian.png) |
 
 ## Chords
 

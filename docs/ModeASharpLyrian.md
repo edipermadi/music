@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ I, iii
 
 ![ASharpLyrian](ModeASharpLyrian.png)
 
+## Diagram
+
+![ASharpLyrian](CircleModeASharpLyrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeLyrian.md) | A# | A#, B, C##, D##, E#, F###, G##, A# | ![ASharpLyrian](ModeASharpLyrian.png) |
 | [3689](https://ianring.com/musictheory/scales/3689) | [Katocrian](ModeKatocrian.md) | B | B, C##, D##, E#, F###, G##, A#, B | ![BNaturalKatocrian](ModeBNaturalKatocrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeLyrian.md) | A# | A#, B, C##, D##, E#, F###, G##, A# | ![ASharpLyrian](CircleModeASharpLyrian.png) |
+| [3689](https://ianring.com/musictheory/scales/3689) | [Katocrian](ModeKatocrian.md) | B | B, C##, D##, E#, F###, G##, A#, B | ![BNaturalKatocrian](CircleModeBNaturalKatocrian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ ii⁰, iii⁰
 
 ![GNaturalManimic](ModeGNaturalManimic.png)
 
+## Diagram
+
+![GNaturalManimic](CircleModeGNaturalManimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1745](https://ianring.com/musictheory/scales/1745) | [Manimic](ModeManimic.md) | G | G, A##, B##, C##, D##, E#, G | ![GNaturalManimic](ModeGNaturalManimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1745](https://ianring.com/musictheory/scales/1745) | [Manimic](ModeManimic.md) | G | G, A##, B##, C##, D##, E#, G | ![GNaturalManimic](CircleModeGNaturalManimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I⁺, IV, vi
 
 ![AFlatEpogian](ModeAFlatEpogian.png)
 
+## Diagram
+
+![AFlatEpogian](CircleModeAFlatEpogian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ I⁺, IV, vi
 | [919](https://ianring.com/musictheory/scales/919) | [Gathian](ModeGathian.md) | E | E, F, Gb, Ab, B, C, Db, E | ![ENaturalGathian](ModeENaturalGathian.png) |
 | [2507](https://ianring.com/musictheory/scales/2507) | [Ionyphian](ModeIonyphian.md) | F | F, Gb, Ab, B, C, Db, E, F | ![FNaturalIonyphian](ModeFNaturalIonyphian.png) |
 | [3301](https://ianring.com/musictheory/scales/3301) | [Phrynian](ModePhrynian.md) | Gb | Gb, Ab, B, C, Db, E, F, Gb | ![GFlatPhrynian](ModeGFlatPhrynian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1849](https://ianring.com/musictheory/scales/1849) | [Epogian](ModeEpogian.md) | Ab | Ab, B, C, Db, E, F, Gb, Ab | ![AFlatEpogian](CircleModeAFlatEpogian.png) |
+| [743](https://ianring.com/musictheory/scales/743) | [Lanian](ModeLanian.md) | B | B, C, Db, E, F, Gb, Ab, B | ![BNaturalLanian](CircleModeBNaturalLanian.png) |
+| [2419](https://ianring.com/musictheory/scales/2419) | [Paptian](ModePaptian.md) | C | C, Db, E, F, Gb, Ab, B, C | ![CNaturalPaptian](CircleModeCNaturalPaptian.png) |
+| [3257](https://ianring.com/musictheory/scales/3257) | [Ionacrian](ModeIonacrian.md) | Db | Db, E, F, Gb, Ab, B, C, Db | ![DFlatIonacrian](CircleModeDFlatIonacrian.png) |
+| [919](https://ianring.com/musictheory/scales/919) | [Gathian](ModeGathian.md) | E | E, F, Gb, Ab, B, C, Db, E | ![ENaturalGathian](CircleModeENaturalGathian.png) |
+| [2507](https://ianring.com/musictheory/scales/2507) | [Ionyphian](ModeIonyphian.md) | F | F, Gb, Ab, B, C, Db, E, F | ![FNaturalIonyphian](CircleModeFNaturalIonyphian.png) |
+| [3301](https://ianring.com/musictheory/scales/3301) | [Phrynian](ModePhrynian.md) | Gb | Gb, Ab, B, C, Db, E, F, Gb | ![GFlatPhrynian](CircleModeGFlatPhrynian.png) |
 
 ## Chords
 

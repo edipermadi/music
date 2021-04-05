@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ iii, V⁺, VII
 
 ![EFlatZygian](ModeEFlatZygian.png)
 
+## Diagram
+
+![EFlatZygian](CircleModeEFlatZygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | Eb | Eb, Fb, Gbb, Abb, Bbbb, Cbbb, Dbb, Eb | ![EFlatZygian](ModeEFlatZygian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | Eb | Eb, Fb, Gbb, Abb, Bbbb, Cbbb, Dbb, Eb | ![EFlatZygian](CircleModeEFlatZygian.png) |
 
 ## Chords
 

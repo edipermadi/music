@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,11 +51,20 @@ ii
 
 ![EFlatIonorimic](ModeEFlatIonorimic.png)
 
+## Diagram
+
+![EFlatIonorimic](CircleModeEFlatIonorimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [343](https://ianring.com/musictheory/scales/343) | [Ionorimic](ModeIonorimic.md) | Eb | Eb, Fb, Gbb, Abb, Bbb, Cb, Eb | ![EFlatIonorimic](ModeEFlatIonorimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [343](https://ianring.com/musictheory/scales/343) | [Ionorimic](ModeIonorimic.md) | Eb | Eb, Fb, Gbb, Abb, Bbb, Cb, Eb | ![EFlatIonorimic](CircleModeEFlatIonorimic.png) |
 
 ## Chords
 

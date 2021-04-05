@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii
 
 ![ENaturalLyrian](ModeENaturalLyrian.png)
 
+## Diagram
+
+![ENaturalLyrian](CircleModeENaturalLyrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I, iii
 | [1267](https://ianring.com/musictheory/scales/1267) | [Katynian](ModeKatynian.md) | A# | A#, B, C##, D#, E, F, G#, A# | ![ASharpKatynian](ModeASharpKatynian.png) |
 | [2681](https://ianring.com/musictheory/scales/2681) | [Aerycrian](ModeAerycrian.md) | B | B, C##, D#, E, F, G#, A#, B | ![BNaturalAerycrian](ModeBNaturalAerycrian.png) |
 | [2471](https://ianring.com/musictheory/scales/2471) | [Eparian](ModeEparian.md) | D# | D#, E, F, G#, A#, B, C##, D# | ![DSharpEparian](ModeDSharpEparian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeLyrian.md) | E | E, F, G#, A#, B, C##, D#, E | ![ENaturalLyrian](CircleModeENaturalLyrian.png) |
+| [3689](https://ianring.com/musictheory/scales/3689) | [Katocrian](ModeKatocrian.md) | F | F, G#, A#, B, C##, D#, E, F | ![FNaturalKatocrian](CircleModeFNaturalKatocrian.png) |
+| [973](https://ianring.com/musictheory/scales/973) | [Phryptian](ModePhryptian.md) | G# | G#, A#, B, C##, D#, E, F, G# | ![GSharpPhryptian](CircleModeGSharpPhryptian.png) |
+| [1267](https://ianring.com/musictheory/scales/1267) | [Katynian](ModeKatynian.md) | A# | A#, B, C##, D#, E, F, G#, A# | ![ASharpKatynian](CircleModeASharpKatynian.png) |
+| [2681](https://ianring.com/musictheory/scales/2681) | [Aerycrian](ModeAerycrian.md) | B | B, C##, D#, E, F, G#, A#, B | ![BNaturalAerycrian](CircleModeBNaturalAerycrian.png) |
+| [2471](https://ianring.com/musictheory/scales/2471) | [Eparian](ModeEparian.md) | D# | D#, E, F, G#, A#, B, C##, D# | ![DSharpEparian](CircleModeDSharpEparian.png) |
 
 ## Chords
 

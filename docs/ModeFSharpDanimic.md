@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ iv, v⁰
 
 ![FSharpDanimic](ModeFSharpDanimic.png)
 
+## Diagram
+
+![FSharpDanimic](CircleModeFSharpDanimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ iv, v⁰
 | [1677](https://ianring.com/musictheory/scales/1677) | [Danimic](ModeDanimic.md) | F# | F#, G#, A, B##, C###, D##, F# | ![FSharpDanimic](ModeFSharpDanimic.png) |
 | [1443](https://ianring.com/musictheory/scales/1443) | [Ionarimic](ModeIonarimic.md) | G# | G#, A, B##, C###, D##, E##, G# | ![GSharpIonarimic](ModeGSharpIonarimic.png) |
 | [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeDyrimic.md) | A | A, B##, C###, D##, E##, F###, A | ![ANaturalDyrimic](ModeANaturalDyrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1677](https://ianring.com/musictheory/scales/1677) | [Danimic](ModeDanimic.md) | F# | F#, G#, A, B##, C###, D##, F# | ![FSharpDanimic](CircleModeFSharpDanimic.png) |
+| [1443](https://ianring.com/musictheory/scales/1443) | [Ionarimic](ModeIonarimic.md) | G# | G#, A, B##, C###, D##, E##, G# | ![GSharpIonarimic](CircleModeGSharpIonarimic.png) |
+| [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeDyrimic.md) | A | A, B##, C###, D##, E##, F###, A | ![ANaturalDyrimic](CircleModeANaturalDyrimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ Gb
 
 ![GFlatGynian](ModeGFlatGynian.png)
 
+## Diagram
+
+![GFlatGynian](CircleModeGFlatGynian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2351](https://ianring.com/musictheory/scales/2351) | [Gynian](ModeGynian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbbb, Ebb, F, Gb | ![GFlatGynian](ModeGFlatGynian.png) |
 | [607](https://ianring.com/musictheory/scales/607) | [Kadian](ModeKadian.md) | F | F, Gb, Abb, Bbbb, Cbbb, Dbbb, Ebb, F | ![FNaturalKadian](ModeFNaturalKadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2351](https://ianring.com/musictheory/scales/2351) | [Gynian](ModeGynian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbbb, Ebb, F, Gb | ![GFlatGynian](CircleModeGFlatGynian.png) |
+| [607](https://ianring.com/musictheory/scales/607) | [Kadian](ModeKadian.md) | F | F, Gb, Abb, Bbbb, Cbbb, Dbbb, Ebb, F | ![FNaturalKadian](CircleModeFNaturalKadian.png) |
 
 ## Chords
 

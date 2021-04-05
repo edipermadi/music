@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II⁺, III⁺, IV, V, vii
 
 ![GSharpAeolothian](ModeGSharpAeolothian.png)
 
+## Diagram
+
+![GSharpAeolothian](CircleModeGSharpAeolothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ II⁺, III⁺, IV, V, vii
 | [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | C# | C#, D, E#, F#, G#, A, Bb, C# | ![CSharpModian](ModeCSharpModian.png) |
 | [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | D | D, E#, F#, G#, A, Bb, C#, D | ![DNaturalBarian](ModeDNaturalBarian.png) |
 | [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | F# | F#, G#, A, Bb, C#, D, E#, F# | ![FSharpSagian](ModeFSharpSagian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeAeolothian.md) | G# | G#, A, Bb, C#, D, E#, F#, G# | ![GSharpAeolothian](CircleModeGSharpAeolothian.png) |
+| [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeSocrian.md) | A | A, Bb, C#, D, E#, F#, G#, A | ![ANaturalSocrian](CircleModeANaturalSocrian.png) |
+| [3481](https://ianring.com/musictheory/scales/3481) | [Katathian](ModeKatathian.md) | Bb | Bb, C#, D, E#, F#, G#, A, Bb | ![BFlatKatathian](CircleModeBFlatKatathian.png) |
+| [947](https://ianring.com/musictheory/scales/947) | [Modian](ModeModian.md) | C# | C#, D, E#, F#, G#, A, Bb, C# | ![CSharpModian](CircleModeCSharpModian.png) |
+| [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeBarian.md) | D | D, E#, F#, G#, A, Bb, C#, D | ![DNaturalBarian](CircleModeDNaturalBarian.png) |
+| [2461](https://ianring.com/musictheory/scales/2461) | [Sagian](ModeSagian.md) | F# | F#, G#, A, Bb, C#, D, E#, F# | ![FSharpSagian](CircleModeFSharpSagian.png) |
 
 ## Chords
 

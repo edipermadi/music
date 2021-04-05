@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ II, iii
 
 ![DNaturalEpathimic](ModeDNaturalEpathimic.png)
 
+## Diagram
+
+![DNaturalEpathimic](CircleModeDNaturalEpathimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | D | D, E#, F##, G##, A#, B#, D | ![DNaturalEpathimic](ModeDNaturalEpathimic.png) |
 | [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | A# | A#, B#, C##, D###, E###, Cbbb, A# | ![ASharpThaptimic](ModeASharpThaptimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | D | D, E#, F##, G##, A#, B#, D | ![DNaturalEpathimic](CircleModeDNaturalEpathimic.png) |
+| [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | A# | A#, B#, C##, D###, E###, Cbbb, A# | ![ASharpThaptimic](CircleModeASharpThaptimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ VI
 
 ![DFlatKodimic](ModeDFlatKodimic.png)
 
+## Diagram
+
+![DFlatKodimic](CircleModeDFlatKodimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,14 @@ VI
 | [907](https://ianring.com/musictheory/scales/907) | [Tholimic](ModeTholimic.md) | E | E, F, G, A##, B#, C#, E | ![ENaturalTholimic](ModeENaturalTholimic.png) |
 | [2501](https://ianring.com/musictheory/scales/2501) | [Ralimic](ModeRalimic.md) | F | F, G, A##, B#, C#, D##, F | ![FNaturalRalimic](ModeFNaturalRalimic.png) |
 | [1649](https://ianring.com/musictheory/scales/1649) | [Bolimic](ModeBolimic.md) | G | G, A##, B#, C#, D##, E#, G | ![GNaturalBolimic](ModeGNaturalBolimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3161](https://ianring.com/musictheory/scales/3161) | [Kodimic](ModeKodimic.md) | Db | Db, E, F, G, A##, B#, Db | ![DFlatKodimic](CircleModeDFlatKodimic.png) |
+| [907](https://ianring.com/musictheory/scales/907) | [Tholimic](ModeTholimic.md) | E | E, F, G, A##, B#, C#, E | ![ENaturalTholimic](CircleModeENaturalTholimic.png) |
+| [2501](https://ianring.com/musictheory/scales/2501) | [Ralimic](ModeRalimic.md) | F | F, G, A##, B#, C#, D##, F | ![FNaturalRalimic](CircleModeFNaturalRalimic.png) |
+| [1649](https://ianring.com/musictheory/scales/1649) | [Bolimic](ModeBolimic.md) | G | G, A##, B#, C#, D##, E#, G | ![GNaturalBolimic](CircleModeGNaturalBolimic.png) |
 
 ## Chords
 

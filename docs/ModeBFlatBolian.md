@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ iii, V⁺
 
 ![BFlatBolian](ModeBFlatBolian.png)
 
+## Diagram
+
+![BFlatBolian](CircleModeBFlatBolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [815](https://ianring.com/musictheory/scales/815) | [Bolian](ModeBolian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fbb, Gb, Abb, Bb | ![BFlatBolian](ModeBFlatBolian.png) |
 | [755](https://ianring.com/musictheory/scales/755) | [Phrythian](ModePhrythian.md) | Gb | Gb, Abb, Bb, Cb, Dbb, Ebbb, Fbb, Gb | ![GFlatPhrythian](ModeGFlatPhrythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [815](https://ianring.com/musictheory/scales/815) | [Bolian](ModeBolian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fbb, Gb, Abb, Bb | ![BFlatBolian](CircleModeBFlatBolian.png) |
+| [755](https://ianring.com/musictheory/scales/755) | [Phrythian](ModePhrythian.md) | Gb | Gb, Abb, Bb, Cb, Dbb, Ebbb, Fbb, Gb | ![GFlatPhrythian](CircleModeGFlatPhrythian.png) |
 
 ## Chords
 

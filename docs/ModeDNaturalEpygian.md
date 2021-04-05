@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺, V, vi⁰
 
 ![DNaturalEpygian](ModeDNaturalEpygian.png)
 
+## Diagram
+
+![DNaturalEpygian](CircleModeDNaturalEpygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i, III⁺, V, vi⁰
 | [949](https://ianring.com/musictheory/scales/949) | [Ionagian](ModeIonagian.md) | A | A, B, C#, D, E, F, Gb, A | ![ANaturalIonagian](ModeANaturalIonagian.png) |
 | [1261](https://ianring.com/musictheory/scales/1261) | [Aeodian](ModeAeodian.md) | B | B, C#, D, E, F, Gb, A, B | ![BNaturalAeodian](ModeBNaturalAeodian.png) |
 | [1339](https://ianring.com/musictheory/scales/1339) | [Kycrian](ModeKycrian.md) | C# | C#, D, E, F, Gb, A, B, C# | ![CSharpKycrian](ModeCSharpKycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2717](https://ianring.com/musictheory/scales/2717) | [Epygian](ModeEpygian.md) | D | D, E, F, Gb, A, B, C#, D | ![DNaturalEpygian](CircleModeDNaturalEpygian.png) |
+| [1703](https://ianring.com/musictheory/scales/1703) | [Zaptian](ModeZaptian.md) | E | E, F, Gb, A, B, C#, D, E | ![ENaturalZaptian](CircleModeENaturalZaptian.png) |
+| [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeKagian.md) | F | F, Gb, A, B, C#, D, E, F | ![FNaturalKagian](CircleModeFNaturalKagian.png) |
+| [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModePhrolian.md) | Gb | Gb, A, B, C#, D, E, F, Gb | ![GFlatPhrolian](CircleModeGFlatPhrolian.png) |
+| [949](https://ianring.com/musictheory/scales/949) | [Ionagian](ModeIonagian.md) | A | A, B, C#, D, E, F, Gb, A | ![ANaturalIonagian](CircleModeANaturalIonagian.png) |
+| [1261](https://ianring.com/musictheory/scales/1261) | [Aeodian](ModeAeodian.md) | B | B, C#, D, E, F, Gb, A, B | ![BNaturalAeodian](CircleModeBNaturalAeodian.png) |
+| [1339](https://ianring.com/musictheory/scales/1339) | [Kycrian](ModeKycrian.md) | C# | C#, D, E, F, Gb, A, B, C# | ![CSharpKycrian](CircleModeCSharpKycrian.png) |
 
 ## Chords
 

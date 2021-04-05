@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺
 
 ![ENaturalAeolocrian](ModeENaturalAeolocrian.png)
 
+## Diagram
+
+![ENaturalAeolocrian](CircleModeENaturalAeolocrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, III⁺
 | [3017](https://ianring.com/musictheory/scales/3017) | [Gacrian](ModeGacrian.md) | Ab | Ab, B, C##, D#, E, F, G, Ab | ![AFlatGacrian](ModeAFlatGacrian.png) |
 | [889](https://ianring.com/musictheory/scales/889) | [Borian](ModeBorian.md) | B | B, C##, D#, E, F, G, Ab, B | ![BNaturalBorian](ModeBNaturalBorian.png) |
 | [2359](https://ianring.com/musictheory/scales/2359) | [Gadian](ModeGadian.md) | D# | D#, E, F, G, Ab, B, C##, D# | ![DSharpGadian](ModeDSharpGadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3227](https://ianring.com/musictheory/scales/3227) | [Aeolocrian](ModeAeolocrian.md) | E | E, F, G, Ab, B, C##, D#, E | ![ENaturalAeolocrian](CircleModeENaturalAeolocrian.png) |
+| [3661](https://ianring.com/musictheory/scales/3661) | [Mixodorian](ModeMixodorian.md) | F | F, G, Ab, B, C##, D#, E, F | ![FNaturalMixodorian](CircleModeFNaturalMixodorian.png) |
+| [1939](https://ianring.com/musictheory/scales/1939) | [Dathian](ModeDathian.md) | G | G, Ab, B, C##, D#, E, F, G | ![GNaturalDathian](CircleModeGNaturalDathian.png) |
+| [3017](https://ianring.com/musictheory/scales/3017) | [Gacrian](ModeGacrian.md) | Ab | Ab, B, C##, D#, E, F, G, Ab | ![AFlatGacrian](CircleModeAFlatGacrian.png) |
+| [889](https://ianring.com/musictheory/scales/889) | [Borian](ModeBorian.md) | B | B, C##, D#, E, F, G, Ab, B | ![BNaturalBorian](CircleModeBNaturalBorian.png) |
+| [2359](https://ianring.com/musictheory/scales/2359) | [Gadian](ModeGadian.md) | D# | D#, E, F, G, Ab, B, C##, D# | ![DSharpGadian](CircleModeDSharpGadian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ I, II⁺, IV⁺, VI⁺
 
 ![EFlatSalimic](ModeEFlatSalimic.png)
 
+## Diagram
+
+![EFlatSalimic](CircleModeEFlatSalimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ I, II⁺, IV⁺, VI⁺
 | [1363](https://ianring.com/musictheory/scales/1363) | [Gygimic](ModeGygimic.md) | A | A, Bb, C#, D#, E#, F##, A | ![ANaturalGygimic](ModeANaturalGygimic.png) |
 | [2729](https://ianring.com/musictheory/scales/2729) | [Aeragimic](ModeAeragimic.md) | Bb | Bb, C#, D#, E#, F##, G##, Bb | ![BFlatAeragimic](ModeBFlatAeragimic.png) |
 | [853](https://ianring.com/musictheory/scales/853) | [Epothimic](ModeEpothimic.md) | C# | C#, D#, E#, F##, G##, A#, C# | ![CSharpEpothimic](ModeCSharpEpothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1237](https://ianring.com/musictheory/scales/1237) | [Salimic](ModeSalimic.md) | Eb | Eb, F, G, A, Bb, C#, Eb | ![EFlatSalimic](CircleModeEFlatSalimic.png) |
+| [1333](https://ianring.com/musictheory/scales/1333) | [Lyptimic](ModeLyptimic.md) | F | F, G, A, Bb, C#, D#, F | ![FNaturalLyptimic](CircleModeFNaturalLyptimic.png) |
+| [1357](https://ianring.com/musictheory/scales/1357) | [Katonimic](ModeKatonimic.md) | G | G, A, Bb, C#, D#, E#, G | ![GNaturalKatonimic](CircleModeGNaturalKatonimic.png) |
+| [1363](https://ianring.com/musictheory/scales/1363) | [Gygimic](ModeGygimic.md) | A | A, Bb, C#, D#, E#, F##, A | ![ANaturalGygimic](CircleModeANaturalGygimic.png) |
+| [2729](https://ianring.com/musictheory/scales/2729) | [Aeragimic](ModeAeragimic.md) | Bb | Bb, C#, D#, E#, F##, G##, Bb | ![BFlatAeragimic](CircleModeBFlatAeragimic.png) |
+| [853](https://ianring.com/musictheory/scales/853) | [Epothimic](ModeEpothimic.md) | C# | C#, D#, E#, F##, G##, A#, C# | ![CSharpEpothimic](CircleModeCSharpEpothimic.png) |
 
 ## Chords
 

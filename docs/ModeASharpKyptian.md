@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ I⁺, III, v⁰
 
 ![ASharpKyptian](ModeASharpKyptian.png)
 
+## Diagram
+
+![ASharpKyptian](CircleModeASharpKyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3477](https://ianring.com/musictheory/scales/3477) | [Kyptian](ModeKyptian.md) | A# | A#, B#, C##, D###, E##, F###, G##, A# | ![ASharpKyptian](ModeASharpKyptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3477](https://ianring.com/musictheory/scales/3477) | [Kyptian](ModeKyptian.md) | A# | A#, B#, C##, D###, E##, F###, G##, A# | ![ASharpKyptian](CircleModeASharpKyptian.png) |
 
 ## Chords
 

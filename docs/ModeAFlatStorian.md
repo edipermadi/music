@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, iii, IV⁺, V⁺, VI
 
 ![AFlatStorian](ModeAFlatStorian.png)
 
+## Diagram
+
+![AFlatStorian](CircleModeAFlatStorian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ i⁰, iii, IV⁺, V⁺, VI
 | [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | Ab | Ab, Bb, Cb, Dbb, Ebb, Fb, Gb, Ab | ![AFlatStorian](ModeAFlatStorian.png) |
 | [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | Bb | Bb, Cb, Dbb, Ebb, Fb, Gb, Ab, Bb | ![BFlatPyptian](ModeBFlatPyptian.png) |
 | [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | Gb | Gb, Ab, Bb, Cb, Dbb, Ebb, Fb, Gb | ![GFlatGothian](ModeGFlatGothian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | Ab | Ab, Bb, Cb, Dbb, Ebb, Fb, Gb, Ab | ![AFlatStorian](CircleModeAFlatStorian.png) |
+| [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | Bb | Bb, Cb, Dbb, Ebb, Fb, Gb, Ab, Bb | ![BFlatPyptian](CircleModeBFlatPyptian.png) |
+| [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | Gb | Gb, Ab, Bb, Cb, Dbb, Ebb, Fb, Gb | ![GFlatGothian](CircleModeGFlatGothian.png) |
 
 ## Chords
 

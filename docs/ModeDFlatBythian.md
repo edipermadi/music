@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii⁰, iii⁰
 
 ![DFlatBythian](ModeDFlatBythian.png)
 
+## Diagram
+
+![DFlatBythian](CircleModeDFlatBythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [439](https://ianring.com/musictheory/scales/439) | [Bythian](ModeBythian.md) | Db | Db, Ebb, Fbb, Gbb, Abbb, Bbbb, Cbbb, Db | ![DFlatBythian](ModeDFlatBythian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [439](https://ianring.com/musictheory/scales/439) | [Bythian](ModeBythian.md) | Db | Db, Ebb, Fbb, Gbb, Abbb, Bbbb, Cbbb, Db | ![DFlatBythian](CircleModeDFlatBythian.png) |
 
 ## Chords
 

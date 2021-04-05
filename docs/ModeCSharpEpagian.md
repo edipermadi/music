@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ II, VII⁺
 
 ![CSharpEpagian](ModeCSharpEpagian.png)
 
+## Diagram
+
+![CSharpEpagian](CircleModeCSharpEpagian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3785](https://ianring.com/musictheory/scales/3785) | [Epagian](ModeEpagian.md) | C# | C#, D##, E###, F###, G###, A##, B#, C# | ![CSharpEpagian](ModeCSharpEpagian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3785](https://ianring.com/musictheory/scales/3785) | [Epagian](ModeEpagian.md) | C# | C#, D##, E###, F###, G###, A##, B#, C# | ![CSharpEpagian](CircleModeCSharpEpagian.png) |
 
 ## Chords
 

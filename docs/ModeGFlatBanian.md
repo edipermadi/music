@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, II, III⁺, iv⁰, V, vi⁰, vii
 
 ![GFlatBanian](ModeGFlatBanian.png)
 
+## Diagram
+
+![GFlatBanian](CircleModeGFlatBanian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, II, III⁺, iv⁰, V, vi⁰, vii
 | [2485](https://ianring.com/musictheory/scales/2485) | [Aerorian](ModeAerorian.md) | Db | Db, Eb, F, Gb, Ab, Bbb, C, Db | ![DFlatAerorian](ModeDFlatAerorian.png) |
 | [1645](https://ianring.com/musictheory/scales/1645) | [Katagian](ModeKatagian.md) | Eb | Eb, F, Gb, Ab, Bbb, C, Db, Eb | ![EFlatKatagian](ModeEFlatKatagian.png) |
 | [1435](https://ianring.com/musictheory/scales/1435) | [Phronian](ModePhronian.md) | F | F, Gb, Ab, Bbb, C, Db, Eb, F | ![FNaturalPhronian](ModeFNaturalPhronian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2765](https://ianring.com/musictheory/scales/2765) | [Banian](ModeBanian.md) | Gb | Gb, Ab, Bbb, C, Db, Eb, F, Gb | ![GFlatBanian](CircleModeGFlatBanian.png) |
+| [1715](https://ianring.com/musictheory/scales/1715) | [Aeronian](ModeAeronian.md) | Ab | Ab, Bbb, C, Db, Eb, F, Gb, Ab | ![AFlatAeronian](CircleModeAFlatAeronian.png) |
+| [875](https://ianring.com/musictheory/scales/875) | [Stothian](ModeStothian.md) | C | C, Db, Eb, F, Gb, Ab, Bbb, C | ![CNaturalStothian](CircleModeCNaturalStothian.png) |
+| [2485](https://ianring.com/musictheory/scales/2485) | [Aerorian](ModeAerorian.md) | Db | Db, Eb, F, Gb, Ab, Bbb, C, Db | ![DFlatAerorian](CircleModeDFlatAerorian.png) |
+| [1645](https://ianring.com/musictheory/scales/1645) | [Katagian](ModeKatagian.md) | Eb | Eb, F, Gb, Ab, Bbb, C, Db, Eb | ![EFlatKatagian](CircleModeEFlatKatagian.png) |
+| [1435](https://ianring.com/musictheory/scales/1435) | [Phronian](ModePhronian.md) | F | F, Gb, Ab, Bbb, C, Db, Eb, F | ![FNaturalPhronian](CircleModeFNaturalPhronian.png) |
 
 ## Chords
 

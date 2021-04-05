@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ II, iv, v, VI⁺, VII⁺
 
 ![GFlatRalian](ModeGFlatRalian.png)
 
+## Diagram
+
+![GFlatRalian](CircleModeGFlatRalian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | Gb | Gb, Abb, Bb, Cb, Dbb, Ebb, Fbb, Gb | ![GFlatRalian](ModeGFlatRalian.png) |
 | [823](https://ianring.com/musictheory/scales/823) | [Stodian](ModeStodian.md) | Bb | Bb, Cb, Dbb, Ebb, Fbb, Gb, Abb, Bb | ![BFlatStodian](ModeBFlatStodian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeRalian.md) | Gb | Gb, Abb, Bb, Cb, Dbb, Ebb, Fbb, Gb | ![GFlatRalian](CircleModeGFlatRalian.png) |
+| [823](https://ianring.com/musictheory/scales/823) | [Stodian](ModeStodian.md) | Bb | Bb, Cb, Dbb, Ebb, Fbb, Gb, Abb, Bb | ![BFlatStodian](CircleModeBFlatStodian.png) |
 
 ## Chords
 

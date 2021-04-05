@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i, II
 
 ![DNaturalZothimic](ModeDNaturalZothimic.png)
 
+## Diagram
+
+![DNaturalZothimic](CircleModeDNaturalZothimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i, II
 | [1421](https://ianring.com/musictheory/scales/1421) | [Aeolaphimic](ModeAeolaphimic.md) | G | G, A, Bb, C##, D#, E#, G | ![GNaturalAeolaphimic](ModeGNaturalAeolaphimic.png) |
 | [1379](https://ianring.com/musictheory/scales/1379) | [Kycrimic](ModeKycrimic.md) | A | A, Bb, C##, D#, E#, F##, A | ![ANaturalKycrimic](ModeANaturalKycrimic.png) |
 | [2737](https://ianring.com/musictheory/scales/2737) | [Bylimic](ModeBylimic.md) | Bb | Bb, C##, D#, E#, F##, G##, Bb | ![BFlatBylimic](ModeBFlatBylimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [427](https://ianring.com/musictheory/scales/427) | [Zothimic](ModeZothimic.md) | D | D, Eb, F, G, A, Bb, D | ![DNaturalZothimic](CircleModeDNaturalZothimic.png) |
+| [2261](https://ianring.com/musictheory/scales/2261) | [Phrolimic](ModePhrolimic.md) | Eb | Eb, F, G, A, Bb, C##, Eb | ![EFlatPhrolimic](CircleModeEFlatPhrolimic.png) |
+| [1589](https://ianring.com/musictheory/scales/1589) | [Ionagimic](ModeIonagimic.md) | F | F, G, A, Bb, C##, D#, F | ![FNaturalIonagimic](CircleModeFNaturalIonagimic.png) |
+| [1421](https://ianring.com/musictheory/scales/1421) | [Aeolaphimic](ModeAeolaphimic.md) | G | G, A, Bb, C##, D#, E#, G | ![GNaturalAeolaphimic](CircleModeGNaturalAeolaphimic.png) |
+| [1379](https://ianring.com/musictheory/scales/1379) | [Kycrimic](ModeKycrimic.md) | A | A, Bb, C##, D#, E#, F##, A | ![ANaturalKycrimic](CircleModeANaturalKycrimic.png) |
+| [2737](https://ianring.com/musictheory/scales/2737) | [Bylimic](ModeBylimic.md) | Bb | Bb, C##, D#, E#, F##, G##, Bb | ![BFlatBylimic](CircleModeBFlatBylimic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, II⁺, III, IV, v⁰, vi⁰, vii
 
 ![GSharpMixolythian](ModeGSharpMixolythian.png)
 
+## Diagram
+
+![GSharpMixolythian](CircleModeGSharpMixolythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, II⁺, III, IV, v⁰, vi⁰, vii
 | [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | C# | C#, D#, E#, F#, G#, A, B, C# | ![CSharpStydian](ModeCSharpStydian.png) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | D# | D#, E#, F#, G#, A, B, C#, D# | ![DSharpLorian](ModeDSharpLorian.png) |
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | F# | F#, G#, A, B, C#, D#, E#, F# | ![FSharpBocrian](ModeFSharpBocrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | G# | G#, A, B, C#, D#, E#, F#, G# | ![GSharpMixolythian](CircleModeGSharpMixolythian.png) |
+| [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | A | A, B, C#, D#, E#, F#, G#, A | ![ANaturalLarian](CircleModeANaturalLarian.png) |
+| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | B | B, C#, D#, E#, F#, G#, A, B | ![BNaturalLythian](CircleModeBNaturalLythian.png) |
+| [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | C# | C#, D#, E#, F#, G#, A, B, C# | ![CSharpStydian](CircleModeCSharpStydian.png) |
+| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | D# | D#, E#, F#, G#, A, B, C#, D# | ![DSharpLorian](CircleModeDSharpLorian.png) |
+| [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | F# | F#, G#, A, B, C#, D#, E#, F# | ![FSharpBocrian](CircleModeFSharpBocrian.png) |
 
 ## Chords
 

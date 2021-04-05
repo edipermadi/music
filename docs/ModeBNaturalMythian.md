@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, IV⁺, VI
 
 ![BNaturalMythian](ModeBNaturalMythian.png)
 
+## Diagram
+
+![BNaturalMythian](CircleModeBNaturalMythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i, IV⁺, VI
 | [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | F# | F#, G, Ab, B, C#, D, Eb, F# | ![FSharpKatarian](ModeFSharpKatarian.png) |
 | [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | G | G, Ab, B, C#, D, Eb, F#, G | ![GNaturalStylian](ModeGNaturalStylian.png) |
 | [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeEpathian.md) | Ab | Ab, B, C#, D, Eb, F#, G, Ab | ![AFlatEpathian](ModeAFlatEpathian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeMythian.md) | B | B, C#, D, Eb, F#, G, Ab, B | ![BNaturalMythian](CircleModeBNaturalMythian.png) |
+| [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeSogian.md) | C# | C#, D, Eb, F#, G, Ab, B, C# | ![CSharpSogian](CircleModeCSharpSogian.png) |
+| [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeGogian.md) | D | D, Eb, F#, G, Ab, B, C#, D | ![DNaturalGogian](CircleModeDNaturalGogian.png) |
+| [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeRothian.md) | Eb | Eb, F#, G, Ab, B, C#, D, Eb | ![EFlatRothian](CircleModeEFlatRothian.png) |
+| [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | F# | F#, G, Ab, B, C#, D, Eb, F# | ![FSharpKatarian](CircleModeFSharpKatarian.png) |
+| [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | G | G, Ab, B, C#, D, Eb, F#, G | ![GNaturalStylian](CircleModeGNaturalStylian.png) |
+| [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeEpathian.md) | Ab | Ab, B, C#, D, Eb, F#, G, Ab | ![AFlatEpathian](CircleModeAFlatEpathian.png) |
 
 ## Chords
 

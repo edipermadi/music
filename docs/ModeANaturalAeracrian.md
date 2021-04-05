@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, III⁺, V, vii⁰
 
 ![ANaturalAeracrian](ModeANaturalAeracrian.png)
 
+## Diagram
+
+![ANaturalAeracrian](CircleModeANaturalAeracrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i, III⁺, V, vii⁰
 | [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | D | D, E, F##, G#, A, B, C, D | ![DNaturalLonian](ModeDNaturalLonian.png) |
 | [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | E | E, F##, G#, A, B, C, D, E | ![ENaturalAerathian](ModeENaturalAerathian.png) |
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | G# | G#, A, B, C, D, E, F##, G# | ![GSharpZoptian](ModeGSharpZoptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3245](https://ianring.com/musictheory/scales/3245) | [Aeracrian](ModeAeracrian.md) | A | A, B, C, D, E, F##, G#, A | ![ANaturalAeracrian](CircleModeANaturalAeracrian.png) |
+| [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | B | B, C, D, E, F##, G#, A, B | ![BNaturalByptian](CircleModeBNaturalByptian.png) |
+| [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | C | C, D, E, F##, G#, A, B, C | ![CNaturalDarian](CircleModeCNaturalDarian.png) |
+| [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | D | D, E, F##, G#, A, B, C, D | ![DNaturalLonian](CircleModeDNaturalLonian.png) |
+| [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | E | E, F##, G#, A, B, C, D, E | ![ENaturalAerathian](CircleModeENaturalAerathian.png) |
+| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | G# | G#, A, B, C, D, E, F##, G# | ![GSharpZoptian](CircleModeGSharpZoptian.png) |
 
 ## Chords
 

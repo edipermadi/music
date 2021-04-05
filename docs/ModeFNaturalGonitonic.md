@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -50,6 +50,10 @@ F
 
 ![FNaturalGonitonic](ModeFNaturalGonitonic.png)
 
+## Diagram
+
+![FNaturalGonitonic](CircleModeFNaturalGonitonic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,15 @@ F
 | [2245](https://ianring.com/musictheory/scales/2245) | [Dygitonic](ModeDygitonic.md) | A# | A#, C, E, F, A, A# | ![ASharpDygitonic](ModeASharpDygitonic.png) |
 | [1585](https://ianring.com/musictheory/scales/1585) | [Phraditonic](ModePhraditonic.md) | C | C, E, F, A, A#, C | ![CNaturalPhraditonic](ModeCNaturalPhraditonic.png) |
 | [355](https://ianring.com/musictheory/scales/355) | [Aeoloritonic](ModeAeoloritonic.md) | E | E, F, A, A#, C, E | ![ENaturalAeoloritonic](ModeENaturalAeoloritonic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2225](https://ianring.com/musictheory/scales/2225) | [Gonitonic](ModeGonitonic.md) | F | F, A, A#, C, E, F | ![FNaturalGonitonic](CircleModeFNaturalGonitonic.png) |
+| [395](https://ianring.com/musictheory/scales/395) | [Dalitonic](ModeDalitonic.md) | A | A, A#, C, E, F, A | ![ANaturalDalitonic](CircleModeANaturalDalitonic.png) |
+| [2245](https://ianring.com/musictheory/scales/2245) | [Dygitonic](ModeDygitonic.md) | A# | A#, C, E, F, A, A# | ![ASharpDygitonic](CircleModeASharpDygitonic.png) |
+| [1585](https://ianring.com/musictheory/scales/1585) | [Phraditonic](ModePhraditonic.md) | C | C, E, F, A, A#, C | ![CNaturalPhraditonic](CircleModeCNaturalPhraditonic.png) |
+| [355](https://ianring.com/musictheory/scales/355) | [Aeoloritonic](ModeAeoloritonic.md) | E | E, F, A, A#, C, E | ![ENaturalAeoloritonic](CircleModeENaturalAeoloritonic.png) |
 
 ## Chords
 

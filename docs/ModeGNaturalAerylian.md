@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, II, III⁺, iv, VI
 
 ![GNaturalAerylian](ModeGNaturalAerylian.png)
 
+## Diagram
+
+![GNaturalAerylian](CircleModeGNaturalAerylian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ i, II, III⁺, iv, VI
 | [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeMixonorian.md) | D | D, Eb, F#, G, Ab, Bb, C, D | ![DNaturalMixonorian](ModeDNaturalMixonorian.png) |
 | [2745](https://ianring.com/musictheory/scales/2745) | [Dolian](ModeDolian.md) | Eb | Eb, F#, G, Ab, Bb, C, D, Eb | ![EFlatDolian](ModeEFlatDolian.png) |
 | [855](https://ianring.com/musictheory/scales/855) | [Porian](ModePorian.md) | F# | F#, G, Ab, Bb, C, D, Eb, F# | ![FSharpPorian](ModeFSharpPorian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2475](https://ianring.com/musictheory/scales/2475) | [Aerylian](ModeAerylian.md) | G | G, Ab, Bb, C, D, Eb, F#, G | ![GNaturalAerylian](CircleModeGNaturalAerylian.png) |
+| [3285](https://ianring.com/musictheory/scales/3285) | [Zagian](ModeZagian.md) | Ab | Ab, Bb, C, D, Eb, F#, G, Ab | ![AFlatZagian](CircleModeAFlatZagian.png) |
+| [1845](https://ianring.com/musictheory/scales/1845) | [Lagian](ModeLagian.md) | Bb | Bb, C, D, Eb, F#, G, Ab, Bb | ![BFlatLagian](CircleModeBFlatLagian.png) |
+| [1485](https://ianring.com/musictheory/scales/1485) | [Tyrian](ModeTyrian.md) | C | C, D, Eb, F#, G, Ab, Bb, C | ![CNaturalTyrian](CircleModeCNaturalTyrian.png) |
+| [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeMixonorian.md) | D | D, Eb, F#, G, Ab, Bb, C, D | ![DNaturalMixonorian](CircleModeDNaturalMixonorian.png) |
+| [2745](https://ianring.com/musictheory/scales/2745) | [Dolian](ModeDolian.md) | Eb | Eb, F#, G, Ab, Bb, C, D, Eb | ![EFlatDolian](CircleModeEFlatDolian.png) |
+| [855](https://ianring.com/musictheory/scales/855) | [Porian](ModePorian.md) | F# | F#, G, Ab, Bb, C, D, Eb, F# | ![FSharpPorian](CircleModeFSharpPorian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i⁰, ii⁰, iv, VI, vii⁰
 
 ![FSharpPhrydian](ModeFSharpPhrydian.png)
 
+## Diagram
+
+![FSharpPhrydian](CircleModeFSharpPhrydian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ i⁰, ii⁰, iv, VI, vii⁰
 | [1739](https://ianring.com/musictheory/scales/1739) | [Phrylian](ModePhrylian.md) | B | B, C, D, E#, F#, G#, A, B | ![BNaturalPhrylian](ModeBNaturalPhrylian.png) |
 | [2917](https://ianring.com/musictheory/scales/2917) | [Kocrian](ModeKocrian.md) | C | C, D, E#, F#, G#, A, B, C | ![CNaturalKocrian](ModeCNaturalKocrian.png) |
 | [1753](https://ianring.com/musictheory/scales/1753) | [Mycrian](ModeMycrian.md) | D | D, E#, F#, G#, A, B, C, D | ![DNaturalMycrian](ModeDNaturalMycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | F# | F#, G#, A, B, C, D, E#, F# | ![FSharpPhrydian](CircleModeFSharpPhrydian.png) |
+| [1627](https://ianring.com/musictheory/scales/1627) | [Zyptian](ModeZyptian.md) | G# | G#, A, B, C, D, E#, F#, G# | ![GSharpZyptian](CircleModeGSharpZyptian.png) |
+| [2861](https://ianring.com/musictheory/scales/2861) | [Katothian](ModeKatothian.md) | A | A, B, C, D, E#, F#, G#, A | ![ANaturalKatothian](CircleModeANaturalKatothian.png) |
+| [1739](https://ianring.com/musictheory/scales/1739) | [Phrylian](ModePhrylian.md) | B | B, C, D, E#, F#, G#, A, B | ![BNaturalPhrylian](CircleModeBNaturalPhrylian.png) |
+| [2917](https://ianring.com/musictheory/scales/2917) | [Kocrian](ModeKocrian.md) | C | C, D, E#, F#, G#, A, B, C | ![CNaturalKocrian](CircleModeCNaturalKocrian.png) |
+| [1753](https://ianring.com/musictheory/scales/1753) | [Mycrian](ModeMycrian.md) | D | D, E#, F#, G#, A, B, C, D | ![DNaturalMycrian](CircleModeDNaturalMycrian.png) |
 
 ## Chords
 

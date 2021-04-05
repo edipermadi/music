@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II⁺, IV, vii
 
 ![CSharpPothian](ModeCSharpPothian.png)
 
+## Diagram
+
+![CSharpPothian](CircleModeCSharpPothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ II⁺, IV, vii
 | [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | F# | F#, G##, A#, B, C#, D, Eb, F# | ![FSharpStoptian](ModeFSharpStoptian.png) |
 | [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | A# | A#, B, C#, D, Eb, F#, G##, A# | ![ASharpKataptian](ModeASharpKataptian.png) |
 | [3229](https://ianring.com/musictheory/scales/3229) | [Aeolaptian](ModeAeolaptian.md) | B | B, C#, D, Eb, F#, G##, A#, B | ![BNaturalAeolaptian](ModeBNaturalAeolaptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1831](https://ianring.com/musictheory/scales/1831) | [Pothian](ModePothian.md) | C# | C#, D, Eb, F#, G##, A#, B, C# | ![CSharpPothian](CircleModeCSharpPothian.png) |
+| [2963](https://ianring.com/musictheory/scales/2963) | [Bygian](ModeBygian.md) | D | D, Eb, F#, G##, A#, B, C#, D | ![DNaturalBygian](CircleModeDNaturalBygian.png) |
+| [3529](https://ianring.com/musictheory/scales/3529) | [Stalian](ModeStalian.md) | Eb | Eb, F#, G##, A#, B, C#, D, Eb | ![EFlatStalian](CircleModeEFlatStalian.png) |
+| [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | F# | F#, G##, A#, B, C#, D, Eb, F# | ![FSharpStoptian](CircleModeFSharpStoptian.png) |
+| [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | A# | A#, B, C#, D, Eb, F#, G##, A# | ![ASharpKataptian](CircleModeASharpKataptian.png) |
+| [3229](https://ianring.com/musictheory/scales/3229) | [Aeolaptian](ModeAeolaptian.md) | B | B, C#, D, Eb, F#, G##, A#, B | ![BNaturalAeolaptian](CircleModeBNaturalAeolaptian.png) |
 
 ## Chords
 

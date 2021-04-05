@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -53,6 +53,10 @@ ii⁰, iv⁰, vi⁰, viii⁰
 
 ![BNaturalKaptyllic](ModeBNaturalKaptyllic.png)
 
+## Diagram
+
+![BNaturalKaptyllic](CircleModeBNaturalKaptyllic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,16 @@ ii⁰, iv⁰, vi⁰, viii⁰
 | [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | F | F, F#, G, A, B, C, C#, D#, F | ![FNaturalKaptyllic](ModeFNaturalKaptyllic.png) |
 | [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | G | G, A, B, C, C#, D#, F, F#, G | ![GNaturalEpotyllic](ModeGNaturalEpotyllic.png) |
 | [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | A | A, B, C, C#, D#, F, F#, G, A | ![ANaturalEpidyllic](ModeANaturalEpidyllic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | B | B, C, C#, D#, F, F#, G, A, B | ![BNaturalKaptyllic](CircleModeBNaturalKaptyllic.png) |
+| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | C# | C#, D#, F, F#, G, A, B, C, C# | ![CSharpEpotyllic](CircleModeCSharpEpotyllic.png) |
+| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | D# | D#, F, F#, G, A, B, C, C#, D# | ![DSharpEpidyllic](CircleModeDSharpEpidyllic.png) |
+| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | F | F, F#, G, A, B, C, C#, D#, F | ![FNaturalKaptyllic](CircleModeFNaturalKaptyllic.png) |
+| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | G | G, A, B, C, C#, D#, F, F#, G | ![GNaturalEpotyllic](CircleModeGNaturalEpotyllic.png) |
+| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | A | A, B, C, C#, D#, F, F#, G, A | ![ANaturalEpidyllic](CircleModeANaturalEpidyllic.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii⁰, IV, vi
 
 ![BNaturalIonycrian](ModeBNaturalIonycrian.png)
 
+## Diagram
+
+![BNaturalIonycrian](CircleModeBNaturalIonycrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I, iii⁰, IV, vi
 | [1837](https://ianring.com/musictheory/scales/1837) | [Dalian](ModeDalian.md) | F# | F#, G#, A, B, C##, D#, E, F# | ![FSharpDalian](ModeFSharpDalian.png) |
 | [1483](https://ianring.com/musictheory/scales/1483) | [Dygian](ModeDygian.md) | G# | G#, A, B, C##, D#, E, F#, G# | ![GSharpDygian](ModeGSharpDygian.png) |
 | [2789](https://ianring.com/musictheory/scales/2789) | [Zolian](ModeZolian.md) | A | A, B, C##, D#, E, F#, G#, A | ![ANaturalZolian](ModeANaturalZolian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1721](https://ianring.com/musictheory/scales/1721) | [Ionycrian](ModeIonycrian.md) | B | B, C##, D#, E, F#, G#, A, B | ![BNaturalIonycrian](CircleModeBNaturalIonycrian.png) |
+| [2411](https://ianring.com/musictheory/scales/2411) | [Aeolorian](ModeAeolorian.md) | D# | D#, E, F#, G#, A, B, C##, D# | ![DSharpAeolorian](CircleModeDSharpAeolorian.png) |
+| [3253](https://ianring.com/musictheory/scales/3253) | [Gonian](ModeGonian.md) | E | E, F#, G#, A, B, C##, D#, E | ![ENaturalGonian](CircleModeENaturalGonian.png) |
+| [1837](https://ianring.com/musictheory/scales/1837) | [Dalian](ModeDalian.md) | F# | F#, G#, A, B, C##, D#, E, F# | ![FSharpDalian](CircleModeFSharpDalian.png) |
+| [1483](https://ianring.com/musictheory/scales/1483) | [Dygian](ModeDygian.md) | G# | G#, A, B, C##, D#, E, F#, G# | ![GSharpDygian](CircleModeGSharpDygian.png) |
+| [2789](https://ianring.com/musictheory/scales/2789) | [Zolian](ModeZolian.md) | A | A, B, C##, D#, E, F#, G#, A | ![ANaturalZolian](CircleModeANaturalZolian.png) |
 
 ## Chords
 

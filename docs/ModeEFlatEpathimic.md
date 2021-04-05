@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ II, iii
 
 ![EFlatEpathimic](ModeEFlatEpathimic.png)
 
+## Diagram
+
+![EFlatEpathimic](CircleModeEFlatEpathimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ II, iii
 | [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | A# | A#, B, C#, D#, E##, F###, A# | ![ASharpEporimic](ModeASharpEporimic.png) |
 | [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | B | B, C#, D#, E##, F###, G###, B | ![BNaturalThaptimic](ModeBNaturalThaptimic.png) |
 | [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | C# | C#, D#, E##, F###, G###, A##, C# | ![CSharpLothimic](ModeCSharpLothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | Eb | Eb, F#, G#, A#, B, C#, Eb | ![EFlatEpathimic](CircleModeEFlatEpathimic.png) |
+| [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | F# | F#, G#, A#, B, C#, D#, F# | ![FSharpMynimic](CircleModeFSharpMynimic.png) |
+| [1197](https://ianring.com/musictheory/scales/1197) | [Rocrimic](ModeRocrimic.md) | G# | G#, A#, B, C#, D#, E##, G# | ![GSharpRocrimic](CircleModeGSharpRocrimic.png) |
+| [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | A# | A#, B, C#, D#, E##, F###, A# | ![ASharpEporimic](CircleModeASharpEporimic.png) |
+| [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | B | B, C#, D#, E##, F###, G###, B | ![BNaturalThaptimic](CircleModeBNaturalThaptimic.png) |
+| [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | C# | C#, D#, E##, F###, G###, A##, C# | ![CSharpLothimic](CircleModeCSharpLothimic.png) |
 
 ## Chords
 

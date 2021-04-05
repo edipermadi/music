@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ ii
 
 ![CSharpStagimic](ModeCSharpStagimic.png)
 
+## Diagram
+
+![CSharpStagimic](CircleModeCSharpStagimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ ii
 | [1811](https://ianring.com/musictheory/scales/1811) | [Kyptimic](ModeKyptimic.md) | F | F, Gb, A, B##, C##, D#, F | ![FNaturalKyptimic](ModeFNaturalKyptimic.png) |
 | [2953](https://ianring.com/musictheory/scales/2953) | [Ionylimic](ModeIonylimic.md) | Gb | Gb, A, B##, C##, D#, E#, Gb | ![GFlatIonylimic](ModeGFlatIonylimic.png) |
 | [881](https://ianring.com/musictheory/scales/881) | [Aerothimic](ModeAerothimic.md) | A | A, B##, C##, D#, E#, F#, A | ![ANaturalAerothimic](ModeANaturalAerothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [311](https://ianring.com/musictheory/scales/311) | [Stagimic](ModeStagimic.md) | C# | C#, D, Eb, F, Gb, A, C# | ![CSharpStagimic](CircleModeCSharpStagimic.png) |
+| [2203](https://ianring.com/musictheory/scales/2203) | [Dorimic](ModeDorimic.md) | D | D, Eb, F, Gb, A, B##, D | ![DNaturalDorimic](CircleModeDNaturalDorimic.png) |
+| [3149](https://ianring.com/musictheory/scales/3149) | [Phrycrimic](ModePhrycrimic.md) | Eb | Eb, F, Gb, A, B##, C##, Eb | ![EFlatPhrycrimic](CircleModeEFlatPhrycrimic.png) |
+| [1811](https://ianring.com/musictheory/scales/1811) | [Kyptimic](ModeKyptimic.md) | F | F, Gb, A, B##, C##, D#, F | ![FNaturalKyptimic](CircleModeFNaturalKyptimic.png) |
+| [2953](https://ianring.com/musictheory/scales/2953) | [Ionylimic](ModeIonylimic.md) | Gb | Gb, A, B##, C##, D#, E#, Gb | ![GFlatIonylimic](CircleModeGFlatIonylimic.png) |
+| [881](https://ianring.com/musictheory/scales/881) | [Aerothimic](ModeAerothimic.md) | A | A, B##, C##, D#, E#, F#, A | ![ANaturalAerothimic](CircleModeANaturalAerothimic.png) |
 
 ## Chords
 

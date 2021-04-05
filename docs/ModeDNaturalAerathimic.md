@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i, ii
 
 ![DNaturalAerathimic](ModeDNaturalAerathimic.png)
 
+## Diagram
+
+![DNaturalAerathimic](CircleModeDNaturalAerathimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i, ii
 | [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | G | G, A, B, C##, D##, E#, G | ![GNaturalZeracrimic](ModeGNaturalZeracrimic.png) |
 | [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | A | A, B, C##, D##, E#, F##, A | ![ANaturalByptimic](ModeANaturalByptimic.png) |
 | [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | B | B, C##, D##, E#, F##, G##, B | ![BNaturalPhracrimic](ModeBNaturalPhracrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeAerathimic.md) | D | D, E, F, G, A, B, D | ![DNaturalAerathimic](CircleModeDNaturalAerathimic.png) |
+| [1195](https://ianring.com/musictheory/scales/1195) | [Sarimic](ModeSarimic.md) | E | E, F, G, A, B, C##, E | ![ENaturalSarimic](CircleModeENaturalSarimic.png) |
+| [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | F | F, G, A, B, C##, D##, F | ![FNaturalZoptimic](CircleModeFNaturalZoptimic.png) |
+| [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | G | G, A, B, C##, D##, E#, G | ![GNaturalZeracrimic](CircleModeGNaturalZeracrimic.png) |
+| [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | A | A, B, C##, D##, E#, F##, A | ![ANaturalByptimic](CircleModeANaturalByptimic.png) |
+| [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | B | B, C##, D##, E#, F##, G##, B | ![BNaturalPhracrimic](CircleModeBNaturalPhracrimic.png) |
 
 ## Chords
 

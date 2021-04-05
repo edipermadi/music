@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -49,6 +49,10 @@ Gb
 
 ![GFlatBolic](ModeGFlatBolic.png)
 
+## Diagram
+
+![GFlatBolic](CircleModeGFlatBolic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -57,6 +61,14 @@ Gb
 | [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | Ab | Ab, C, Eb, Gb, Ab | ![AFlatDaric](ModeAFlatDaric.png) |
 | [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | C | C, D#, F#, G#, C | ![CNaturalLonic](ModeCNaturalLonic.png) |
 | [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | Eb | Eb, Gb, Ab, C, Eb | ![EFlatPhradic](ModeEFlatPhradic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | Gb | Gb, Ab, C, Eb, Gb | ![GFlatBolic](CircleModeGFlatBolic.png) |
+| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | Ab | Ab, C, Eb, Gb, Ab | ![AFlatDaric](CircleModeAFlatDaric.png) |
+| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | C | C, D#, F#, G#, C | ![CNaturalLonic](CircleModeCNaturalLonic.png) |
+| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | Eb | Eb, Gb, Ab, C, Eb | ![EFlatPhradic](CircleModeEFlatPhradic.png) |
 
 ## Chords
 

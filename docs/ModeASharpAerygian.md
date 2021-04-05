@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ III⁺, V
 
 ![ASharpAerygian](ModeASharpAerygian.png)
 
+## Diagram
+
+![ASharpAerygian](CircleModeASharpAerygian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,6 +67,17 @@ III⁺, V
 | [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | E | E, F#, G#, A#, B, C, Db, E | ![ENaturalBacrian](ModeENaturalBacrian.png) |
 | [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | F# | F#, G#, A#, B, C, Db, E, F# | ![FSharpKatythian](ModeFSharpKatythian.png) |
 | [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | G# | G#, A#, B, C, Db, E, F#, G# | ![GSharpMadian](ModeGSharpMadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeAerygian.md) | A# | A#, B, C, Db, E, F#, G#, A# | ![ASharpAerygian](CircleModeASharpAerygian.png) |
+| [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | B | B, C, Db, E, F#, G#, A#, B | ![BNaturalPylian](CircleModeBNaturalPylian.png) |
+| [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | C | C, Db, E, F#, G#, A#, B, C | ![CNaturalIonathian](CircleModeCNaturalIonathian.png) |
+| [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | Db | Db, E, F#, G#, A#, B, C, Db | ![DFlatPhraptian](CircleModeDFlatPhraptian.png) |
+| [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | E | E, F#, G#, A#, B, C, Db, E | ![ENaturalBacrian](CircleModeENaturalBacrian.png) |
+| [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | F# | F#, G#, A#, B, C, Db, E, F# | ![FSharpKatythian](CircleModeFSharpKatythian.png) |
+| [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | G# | G#, A#, B, C, Db, E, F#, G# | ![GSharpMadian](CircleModeGSharpMadian.png) |
 
 ## Chords
 

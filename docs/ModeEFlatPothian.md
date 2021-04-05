@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II⁺, IV, vii
 
 ![EFlatPothian](ModeEFlatPothian.png)
 
+## Diagram
+
+![EFlatPothian](CircleModeEFlatPothian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,15 @@ II⁺, IV, vii
 | [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | B | B, C, Db, Eb, Fb, Gbb, Ab, B | ![BNaturalZygian](ModeBNaturalZygian.png) |
 | [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | C | C, Db, Eb, Fb, Gbb, Ab, B, C | ![CNaturalKataptian](ModeCNaturalKataptian.png) |
 | [3229](https://ianring.com/musictheory/scales/3229) | [Aeolaptian](ModeAeolaptian.md) | Db | Db, Eb, Fb, Gbb, Ab, B, C, Db | ![DFlatAeolaptian](ModeDFlatAeolaptian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1831](https://ianring.com/musictheory/scales/1831) | [Pothian](ModePothian.md) | Eb | Eb, Fb, Gbb, Ab, B, C, Db, Eb | ![EFlatPothian](CircleModeEFlatPothian.png) |
+| [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | Ab | Ab, B, C, Db, Eb, Fb, Gbb, Ab | ![AFlatStoptian](CircleModeAFlatStoptian.png) |
+| [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | B | B, C, Db, Eb, Fb, Gbb, Ab, B | ![BNaturalZygian](CircleModeBNaturalZygian.png) |
+| [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | C | C, Db, Eb, Fb, Gbb, Ab, B, C | ![CNaturalKataptian](CircleModeCNaturalKataptian.png) |
+| [3229](https://ianring.com/musictheory/scales/3229) | [Aeolaptian](ModeAeolaptian.md) | Db | Db, Eb, Fb, Gbb, Ab, B, C, Db | ![DFlatAeolaptian](CircleModeDFlatAeolaptian.png) |
 
 ## Chords
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ III, IV
 
 ![BNaturalGonimic](ModeBNaturalGonimic.png)
 
+## Diagram
+
+![BNaturalGonimic](CircleModeBNaturalGonimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2725](https://ianring.com/musictheory/scales/2725) | [Gonimic](ModeGonimic.md) | B | B, C#, D##, E##, F###, G###, B | ![BNaturalGonimic](ModeBNaturalGonimic.png) |
 | [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeDarmic.md) | C# | C#, D##, E##, F###, G###, A##, C# | ![CSharpDarmic](ModeCSharpDarmic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2725](https://ianring.com/musictheory/scales/2725) | [Gonimic](ModeGonimic.md) | B | B, C#, D##, E##, F###, G###, B | ![BNaturalGonimic](CircleModeBNaturalGonimic.png) |
+| [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeDarmic.md) | C# | C#, D##, E##, F###, G###, A##, C# | ![CSharpDarmic](CircleModeCSharpDarmic.png) |
 
 ## Chords
 

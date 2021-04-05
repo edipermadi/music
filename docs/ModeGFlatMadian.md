@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ IV⁺, VI
 
 ![GFlatMadian](ModeGFlatMadian.png)
 
+## Diagram
+
+![GFlatMadian](CircleModeGFlatMadian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | Gb | Gb, Ab, Bbb, Cbb, Dbbb, Ebb, Fb, Gb | ![GFlatMadian](ModeGFlatMadian.png) |
 | [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeAerygian.md) | Ab | Ab, Bbb, Cbb, Dbbb, Ebb, Fb, Gb, Ab | ![AFlatAerygian](ModeAFlatAerygian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | Gb | Gb, Ab, Bbb, Cbb, Dbbb, Ebb, Fb, Gb | ![GFlatMadian](CircleModeGFlatMadian.png) |
+| [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeAerygian.md) | Ab | Ab, Bbb, Cbb, Dbbb, Ebb, Fb, Gb, Ab | ![AFlatAerygian](CircleModeAFlatAerygian.png) |
 
 ## Chords
 

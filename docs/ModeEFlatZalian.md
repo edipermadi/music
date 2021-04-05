@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ Eb
 
 ![EFlatZalian](ModeEFlatZalian.png)
 
+## Diagram
+
+![EFlatZalian](CircleModeEFlatZalian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | Eb | Eb, Fb, Gbb, Abbb, Bbbb, Cb, Db, Eb | ![EFlatZalian](ModeEFlatZalian.png) |
 | [1213](https://ianring.com/musictheory/scales/1213) | [Gyrian](ModeGyrian.md) | Db | Db, Eb, Fb, Gbb, Abbb, Bbbb, Cb, Db | ![DFlatGyrian](ModeDFlatGyrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | Eb | Eb, Fb, Gbb, Abbb, Bbbb, Cb, Db, Eb | ![EFlatZalian](CircleModeEFlatZalian.png) |
+| [1213](https://ianring.com/musictheory/scales/1213) | [Gyrian](ModeGyrian.md) | Db | Db, Eb, Fb, Gbb, Abbb, Bbbb, Cb, Db | ![DFlatGyrian](CircleModeDFlatGyrian.png) |
 
 ## Chords
 

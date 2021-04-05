@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i, ii
 
 ![CSharpLygimic](ModeCSharpLygimic.png)
 
+## Diagram
+
+![CSharpLygimic](CircleModeCSharpLygimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i, ii
 | [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeSothimic.md) | F | F, G#, A, B##, C##, D##, F | ![FNaturalSothimic](ModeFNaturalSothimic.png) |
 | [867](https://ianring.com/musictheory/scales/867) | [Phrocrimic](ModePhrocrimic.md) | G# | G#, A, B##, C##, D##, E#, G# | ![GSharpPhrocrimic](ModeGSharpPhrocrimic.png) |
 | [2481](https://ianring.com/musictheory/scales/2481) | [Laptimic](ModeLaptimic.md) | A | A, B##, C##, D##, E#, F###, A | ![ANaturalLaptimic](ModeANaturalLaptimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [411](https://ianring.com/musictheory/scales/411) | [Lygimic](ModeLygimic.md) | C# | C#, D, E, F, G#, A, C# | ![CSharpLygimic](CircleModeCSharpLygimic.png) |
+| [2253](https://ianring.com/musictheory/scales/2253) | [Logimic](ModeLogimic.md) | D | D, E, F, G#, A, B##, D | ![DNaturalLogimic](CircleModeDNaturalLogimic.png) |
+| [1587](https://ianring.com/musictheory/scales/1587) | [Lalimic](ModeLalimic.md) | E | E, F, G#, A, B##, C##, E | ![ENaturalLalimic](CircleModeENaturalLalimic.png) |
+| [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeSothimic.md) | F | F, G#, A, B##, C##, D##, F | ![FNaturalSothimic](CircleModeFNaturalSothimic.png) |
+| [867](https://ianring.com/musictheory/scales/867) | [Phrocrimic](ModePhrocrimic.md) | G# | G#, A, B##, C##, D##, E#, G# | ![GSharpPhrocrimic](CircleModeGSharpPhrocrimic.png) |
+| [2481](https://ianring.com/musictheory/scales/2481) | [Laptimic](ModeLaptimic.md) | A | A, B##, C##, D##, E#, F###, A | ![ANaturalLaptimic](CircleModeANaturalLaptimic.png) |
 
 ## Chords
 

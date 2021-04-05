@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ G#
 
 ![GSharpDycrian](ModeGSharpDycrian.png)
 
+## Diagram
+
+![GSharpDycrian](CircleModeGSharpDycrian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3683](https://ianring.com/musictheory/scales/3683) | [Dycrian](ModeDycrian.md) | G# | G#, A, B##, C##, D###, E##, F##, G# | ![GSharpDycrian](ModeGSharpDycrian.png) |
 | [3889](https://ianring.com/musictheory/scales/3889) | [Parian](ModeParian.md) | A | A, B##, C##, D###, E##, F##, G#, A | ![ANaturalParian](ModeANaturalParian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3683](https://ianring.com/musictheory/scales/3683) | [Dycrian](ModeDycrian.md) | G# | G#, A, B##, C##, D###, E##, F##, G# | ![GSharpDycrian](CircleModeGSharpDycrian.png) |
+| [3889](https://ianring.com/musictheory/scales/3889) | [Parian](ModeParian.md) | A | A, B##, C##, D###, E##, F##, G#, A | ![ANaturalParian](CircleModeANaturalParian.png) |
 
 ## Chords
 

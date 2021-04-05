@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,12 +51,22 @@ VI
 
 ![DSharpKodimic](ModeDSharpKodimic.png)
 
+## Diagram
+
+![DSharpKodimic](CircleModeDSharpKodimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [3161](https://ianring.com/musictheory/scales/3161) | [Kodimic](ModeKodimic.md) | D# | D#, E##, F##, G##, Db, Ebb, D# | ![DSharpKodimic](ModeDSharpKodimic.png) |
 | [359](https://ianring.com/musictheory/scales/359) | [Bothimic](ModeBothimic.md) | Db | Db, Ebb, Fbb, Gb, Abb, Bbb, Db | ![DFlatBothimic](ModeDFlatBothimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [3161](https://ianring.com/musictheory/scales/3161) | [Kodimic](ModeKodimic.md) | D# | D#, E##, F##, G##, Db, Ebb, D# | ![DSharpKodimic](CircleModeDSharpKodimic.png) |
+| [359](https://ianring.com/musictheory/scales/359) | [Bothimic](ModeBothimic.md) | Db | Db, Ebb, Fbb, Gb, Abb, Bbb, Db | ![DFlatBothimic](CircleModeDFlatBothimic.png) |
 
 ## Chords
 

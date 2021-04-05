@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ G
 
 ![GNaturalAerolian](ModeGNaturalAerolian.png)
 
+## Diagram
+
+![GNaturalAerolian](CircleModeGNaturalAerolian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -60,6 +64,14 @@ G
 | [3351](https://ianring.com/musictheory/scales/3351) | [Karian](ModeKarian.md) | Ab | Ab, Bbb, Cbb, Dbb, E, F#, G, Ab | ![AFlatKarian](ModeAFlatKarian.png) |
 | [381](https://ianring.com/musictheory/scales/381) | [Kogian](ModeKogian.md) | E | E, F#, G, Ab, Bbb, Cbb, Dbb, E | ![ENaturalKogian](ModeENaturalKogian.png) |
 | [1119](https://ianring.com/musictheory/scales/1119) | [Rarian](ModeRarian.md) | F# | F#, G, Ab, Bbb, Cbb, Dbb, E, F# | ![FSharpRarian](ModeFSharpRarian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2607](https://ianring.com/musictheory/scales/2607) | [Aerolian](ModeAerolian.md) | G | G, Ab, Bbb, Cbb, Dbb, E, F#, G | ![GNaturalAerolian](CircleModeGNaturalAerolian.png) |
+| [3351](https://ianring.com/musictheory/scales/3351) | [Karian](ModeKarian.md) | Ab | Ab, Bbb, Cbb, Dbb, E, F#, G, Ab | ![AFlatKarian](CircleModeAFlatKarian.png) |
+| [381](https://ianring.com/musictheory/scales/381) | [Kogian](ModeKogian.md) | E | E, F#, G, Ab, Bbb, Cbb, Dbb, E | ![ENaturalKogian](CircleModeENaturalKogian.png) |
+| [1119](https://ianring.com/musictheory/scales/1119) | [Rarian](ModeRarian.md) | F# | F#, G, Ab, Bbb, Cbb, Dbb, E, F# | ![FSharpRarian](CircleModeFSharpRarian.png) |
 
 ## Chords
 

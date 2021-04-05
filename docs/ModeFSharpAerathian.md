@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ I, iii⁰, iv, VI⁺
 
 ![FSharpAerathian](ModeFSharpAerathian.png)
 
+## Diagram
+
+![FSharpAerathian](CircleModeFSharpAerathian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ I, iii⁰, iv, VI⁺
 | [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | C# | C#, D, E, F#, G##, A#, B, C# | ![CSharpByptian](ModeCSharpByptian.png) |
 | [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | D | D, E, F#, G##, A#, B, C#, D | ![DNaturalDarian](ModeDNaturalDarian.png) |
 | [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | E | E, F#, G##, A#, B, C#, D, E | ![ENaturalLonian](ModeENaturalLonian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | F# | F#, G##, A#, B, C#, D, E, F# | ![FSharpAerathian](CircleModeFSharpAerathian.png) |
+| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | A# | A#, B, C#, D, E, F#, G##, A# | ![ASharpZoptian](CircleModeASharpZoptian.png) |
+| [3245](https://ianring.com/musictheory/scales/3245) | [Aeracrian](ModeAeracrian.md) | B | B, C#, D, E, F#, G##, A#, B | ![BNaturalAeracrian](CircleModeBNaturalAeracrian.png) |
+| [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | C# | C#, D, E, F#, G##, A#, B, C# | ![CSharpByptian](CircleModeCSharpByptian.png) |
+| [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | D | D, E, F#, G##, A#, B, C#, D | ![DNaturalDarian](CircleModeDNaturalDarian.png) |
+| [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | E | E, F#, G##, A#, B, C#, D, E | ![ENaturalLonian](CircleModeENaturalLonian.png) |
 
 ## Chords
 

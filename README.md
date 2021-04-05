@@ -44,4 +44,4 @@ Music theory exploration with golang
 
 ## Documentation
 
-- [Music Cross Reference](docs/index.md)
+- [Music Cross Reference](docs/README.md)

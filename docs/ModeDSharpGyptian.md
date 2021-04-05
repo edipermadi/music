@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,12 +52,22 @@ iii⁰
 
 ![DSharpGyptian](ModeDSharpGyptian.png)
 
+## Diagram
+
+![DSharpGyptian](CircleModeDSharpGyptian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2979](https://ianring.com/musictheory/scales/2979) | [Gyptian](ModeGyptian.md) | D# | D#, E, F###, G###, A##, B#, C##, D# | ![DSharpGyptian](ModeDSharpGyptian.png) |
 | [3537](https://ianring.com/musictheory/scales/3537) | [Katogian](ModeKatogian.md) | E | E, F###, G###, A##, B#, C##, D#, E | ![ENaturalKatogian](ModeENaturalKatogian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [2979](https://ianring.com/musictheory/scales/2979) | [Gyptian](ModeGyptian.md) | D# | D#, E, F###, G###, A##, B#, C##, D# | ![DSharpGyptian](CircleModeDSharpGyptian.png) |
+| [3537](https://ianring.com/musictheory/scales/3537) | [Katogian](ModeKatogian.md) | E | E, F###, G###, A##, B#, C##, D#, E | ![ENaturalKatogian](CircleModeENaturalKatogian.png) |
 
 ## Chords
 

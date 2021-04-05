@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i⁰, vi
 
 ![DFlatThocrimic](ModeDFlatThocrimic.png)
 
+## Diagram
+
+![DFlatThocrimic](CircleModeDFlatThocrimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -58,6 +62,13 @@ i⁰, vi
 | [1131](https://ianring.com/musictheory/scales/1131) | [Thocrimic](ModeThocrimic.md) | Db | Db, Ebb, Fb, Gb, Abb, B, Db | ![DFlatThocrimic](ModeDFlatThocrimic.png) |
 | [1443](https://ianring.com/musictheory/scales/1443) | [Ionarimic](ModeIonarimic.md) | Gb | Gb, Abb, B, C#, D, E, Gb | ![GFlatIonarimic](ModeGFlatIonarimic.png) |
 | [429](https://ianring.com/musictheory/scales/429) | [Koptimic](ModeKoptimic.md) | B | B, C#, D, E, F#, G, B | ![BNaturalKoptimic](ModeBNaturalKoptimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1131](https://ianring.com/musictheory/scales/1131) | [Thocrimic](ModeThocrimic.md) | Db | Db, Ebb, Fb, Gb, Abb, B, Db | ![DFlatThocrimic](CircleModeDFlatThocrimic.png) |
+| [1443](https://ianring.com/musictheory/scales/1443) | [Ionarimic](ModeIonarimic.md) | Gb | Gb, Abb, B, C#, D, E, Gb | ![GFlatIonarimic](CircleModeGFlatIonarimic.png) |
+| [429](https://ianring.com/musictheory/scales/429) | [Koptimic](ModeKoptimic.md) | B | B, C#, D, E, F#, G, B | ![BNaturalKoptimic](CircleModeBNaturalKoptimic.png) |
 
 ## Chords
 

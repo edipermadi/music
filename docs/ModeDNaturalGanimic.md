@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ i
 
 ![DNaturalGanimic](ModeDNaturalGanimic.png)
 
+## Diagram
+
+![DNaturalGanimic](CircleModeDNaturalGanimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ i
 | [3353](https://ianring.com/musictheory/scales/3353) | [Phraptimic](ModePhraptimic.md) | Gb | Gb, A, Bb, C##, D##, E#, Gb | ![GFlatPhraptimic](ModeGFlatPhraptimic.png) |
 | [931](https://ianring.com/musictheory/scales/931) | [Bacrimic](ModeBacrimic.md) | A | A, Bb, C##, D##, E#, F#, A | ![ANaturalBacrimic](ModeANaturalBacrimic.png) |
 | [2513](https://ianring.com/musictheory/scales/2513) | [Aerycrimic](ModeAerycrimic.md) | Bb | Bb, C##, D##, E#, F#, G##, Bb | ![BFlatAerycrimic](ModeBFlatAerycrimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [413](https://ianring.com/musictheory/scales/413) | [Ganimic](ModeGanimic.md) | D | D, E, F, Gb, A, Bb, D | ![DNaturalGanimic](CircleModeDNaturalGanimic.png) |
+| [1127](https://ianring.com/musictheory/scales/1127) | [Eparimic](ModeEparimic.md) | E | E, F, Gb, A, Bb, C##, E | ![ENaturalEparimic](CircleModeENaturalEparimic.png) |
+| [2611](https://ianring.com/musictheory/scales/2611) | [Lyrimic](ModeLyrimic.md) | F | F, Gb, A, Bb, C##, D##, F | ![FNaturalLyrimic](CircleModeFNaturalLyrimic.png) |
+| [3353](https://ianring.com/musictheory/scales/3353) | [Phraptimic](ModePhraptimic.md) | Gb | Gb, A, Bb, C##, D##, E#, Gb | ![GFlatPhraptimic](CircleModeGFlatPhraptimic.png) |
+| [931](https://ianring.com/musictheory/scales/931) | [Bacrimic](ModeBacrimic.md) | A | A, Bb, C##, D##, E#, F#, A | ![ANaturalBacrimic](CircleModeANaturalBacrimic.png) |
+| [2513](https://ianring.com/musictheory/scales/2513) | [Aerycrimic](ModeAerycrimic.md) | Bb | Bb, C##, D##, E#, F#, G##, Bb | ![BFlatAerycrimic](CircleModeBFlatAerycrimic.png) |
 
 ## Chords
 

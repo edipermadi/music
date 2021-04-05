@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -51,6 +51,10 @@ ii⁰
 
 ![FNaturalKolimic](ModeFNaturalKolimic.png)
 
+## Diagram
+
+![FNaturalKolimic](CircleModeFNaturalKolimic.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,6 +65,16 @@ ii⁰
 | [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | B | B, C, D, E#, F###, G###, B | ![BNaturalGocrimic](ModeBNaturalGocrimic.png) |
 | [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | C | C, D, E#, F###, G###, A##, C | ![CNaturalKatolimic](ModeCNaturalKatolimic.png) |
 | [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | D | D, E#, F###, G###, A##, B#, D | ![DNaturalThagimic](ModeDNaturalThagimic.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | F | F, G#, A#, B, C, D, F | ![FNaturalKolimic](CircleModeFNaturalKolimic.png) |
+| [605](https://ianring.com/musictheory/scales/605) | [Dycrimic](ModeDycrimic.md) | G# | G#, A#, B, C, D, E#, G# | ![GSharpDycrimic](CircleModeGSharpDycrimic.png) |
+| [1175](https://ianring.com/musictheory/scales/1175) | [Epycrimic](ModeEpycrimic.md) | A# | A#, B, C, D, E#, F###, A# | ![ASharpEpycrimic](CircleModeASharpEpycrimic.png) |
+| [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | B | B, C, D, E#, F###, G###, B | ![BNaturalGocrimic](CircleModeBNaturalGocrimic.png) |
+| [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | C | C, D, E#, F###, G###, A##, C | ![CNaturalKatolimic](CircleModeCNaturalKatolimic.png) |
+| [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | D | D, E#, F###, G###, A##, B#, D | ![DNaturalThagimic](CircleModeDNaturalThagimic.png) |
 
 ## Chords
 

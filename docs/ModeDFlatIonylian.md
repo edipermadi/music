@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ II, iv⁰, VII⁺
 
 ![DFlatIonylian](ModeDFlatIonylian.png)
 
+## Diagram
+
+![DFlatIonylian](CircleModeDFlatIonylian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,6 +66,16 @@ II, iv⁰, VII⁺
 | [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | G | G, A, Bb, Cb, Db, Eb, F#, G | ![GNaturalStagian](ModeGNaturalStagian.png) |
 | [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | A | A, Bb, Cb, Db, Eb, F#, G, A | ![ANaturalLothian](ModeANaturalLothian.png) |
 | [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | Bb | Bb, Cb, Db, Eb, F#, G, A, Bb | ![BFlatPhrycrian](ModeBFlatPhrycrian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1893](https://ianring.com/musictheory/scales/1893) | [Ionylian](ModeIonylian.md) | Db | Db, Eb, F#, G, A, Bb, Cb, Db | ![DFlatIonylian](CircleModeDFlatIonylian.png) |
+| [1497](https://ianring.com/musictheory/scales/1497) | [Ionanian](ModeIonanian.md) | Eb | Eb, F#, G, A, Bb, Cb, Db, Eb | ![EFlatIonanian](CircleModeEFlatIonanian.png) |
+| [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeAerothian.md) | F# | F#, G, A, Bb, Cb, Db, Eb, F# | ![FSharpAerothian](CircleModeFSharpAerothian.png) |
+| [2397](https://ianring.com/musictheory/scales/2397) | [Stagian](ModeStagian.md) | G | G, A, Bb, Cb, Db, Eb, F#, G | ![GNaturalStagian](CircleModeGNaturalStagian.png) |
+| [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeLothian.md) | A | A, Bb, Cb, Db, Eb, F#, G, A | ![ANaturalLothian](CircleModeANaturalLothian.png) |
+| [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModePhrycrian.md) | Bb | Bb, Cb, Db, Eb, F#, G, A, Bb | ![BFlatPhrycrian](CircleModeBFlatPhrycrian.png) |
 
 ## Chords
 

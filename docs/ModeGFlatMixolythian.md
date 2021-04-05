@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,6 +52,10 @@ i, II⁺, III, IV, v⁰, vi⁰, vii
 
 ![GFlatMixolythian](ModeGFlatMixolythian.png)
 
+## Diagram
+
+![GFlatMixolythian](CircleModeGFlatMixolythian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -59,6 +63,13 @@ i, II⁺, III, IV, v⁰, vi⁰, vii
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | Gb | Gb, Abb, Bbb, Cb, Db, Eb, Fb, Gb | ![GFlatMixolythian](ModeGFlatMixolythian.png) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | Db | Db, Eb, Fb, Gb, Abb, Bbb, Cb, Db | ![DFlatLorian](ModeDFlatLorian.png) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | Eb | Eb, Fb, Gb, Abb, Bbb, Cb, Db, Eb | ![EFlatIonadian](ModeEFlatIonadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | Gb | Gb, Abb, Bbb, Cb, Db, Eb, Fb, Gb | ![GFlatMixolythian](CircleModeGFlatMixolythian.png) |
+| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | Db | Db, Eb, Fb, Gb, Abb, Bbb, Cb, Db | ![DFlatLorian](CircleModeDFlatLorian.png) |
+| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | Eb | Eb, Fb, Gb, Abb, Bbb, Cb, Db, Eb | ![EFlatIonadian](CircleModeEFlatIonadian.png) |
 
 ## Chords
 

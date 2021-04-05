@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Documentation](index.md)
+- [Documentation](README.md)
 - [Scales Index](Scales.md)
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
@@ -52,11 +52,20 @@ ii⁰, vii⁰
 
 ![DFlatZadian](ModeDFlatZadian.png)
 
+## Diagram
+
+![DFlatZadian](CircleModeDFlatZadian.png)
+
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1211](https://ianring.com/musictheory/scales/1211) | [Zadian](ModeZadian.md) | Db | Db, Ebb, Fb, Gbb, Abbb, Bbbb, Cb, Db | ![DFlatZadian](ModeDFlatZadian.png) |
+## Relative Brightness
+
+| Number | Mode | Tonic | Notes | Illustration |
+|--------|------|-------|-------|--------------|
+| [1211](https://ianring.com/musictheory/scales/1211) | [Zadian](ModeZadian.md) | Db | Db, Ebb, Fb, Gbb, Abbb, Bbbb, Cb, Db | ![DFlatZadian](CircleModeDFlatZadian.png) |
 
 ## Chords
 
