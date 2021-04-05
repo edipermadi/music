@@ -62,3 +62,7 @@ clean:
 
 $(TEST_OUT_DIR):
 	mkdir -p $@
+
+.PHONY: chordgen
+chordgen:
+	$(GO) run ./cmd/chordgen > chordgen-data.go

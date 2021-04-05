@@ -14,6 +14,6 @@ subgraph 1 {
 E [color=orange];
 Db [color=orange];
 Ab [color=orange];
-Eb [color=orange];
+Eb [color=blue];
 A [color=orange];
 }

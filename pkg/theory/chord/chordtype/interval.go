@@ -12,6 +12,7 @@ var typeIntervals = map[Type][]interval.Interval{
 
 	// Triad
 	Diminished:                            {interval.PerfectUnison, interval.MinorThird, interval.DiminishedFifth},
+	DiminishedFlatThird:                   {interval.PerfectUnison, interval.DiminishedThird, interval.DiminishedFifth},
 	MinorDoubleFlatFifth:                  {interval.PerfectUnison, interval.MinorThird, interval.PerfectFourth},
 	Minor:                                 {interval.PerfectUnison, interval.MinorThird, interval.PerfectFifth},
 	MinorAddNinth:                         {interval.PerfectUnison, interval.MinorThird, interval.PerfectFifth, interval.MajorNinth},

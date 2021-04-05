@@ -13,7 +13,7 @@ subgraph 1 {
 
 B [color=orange];
 Gb [color=orange];
-Db [color=orange];
+Db [color=blue];
 Bb [color=orange];
 F [color=orange];
 A [color=orange];

@@ -29,7 +29,7 @@ Eb
 
 ## Chord Pattern
 
-
+Vb5, vi⁰b3
 
 ## Perfection
 
