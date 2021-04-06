@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpMajorThirteenth](ChromaticCircleChordGSharpMajorThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

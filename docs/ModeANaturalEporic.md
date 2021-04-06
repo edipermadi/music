@@ -51,8 +51,9 @@ A
 
 ## Diagram
 
-![ANaturalEporic](CircleModeANaturalEporic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![ANaturalEporic](CircleOfFifthModeANaturalEporic.png) | ![ANaturalEporic](ChromaticCircleModeANaturalEporic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,12 +64,12 @@ A
 | [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | G | G, A, C, E, G | ![GNaturalRothic](ModeGNaturalRothic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | A | A, C, E, G, A | ![ANaturalEporic](CircleModeANaturalEporic.png) |
-| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | C | C, E, G, A, C | ![CNaturalEpathic](CircleModeCNaturalEpathic.png) |
-| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | E | E, G, A, C, E | ![ENaturalMynic](CircleModeENaturalMynic.png) |
-| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | G | G, A, C, E, G | ![GNaturalRothic](CircleModeGNaturalRothic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | A | A, C, E, G, A | ![ANaturalEporic](CircleOfFifthModeANaturalEporic.png) | ![ANaturalEporic](ChromaticCircleModeANaturalEporic.png) |
+| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | C | C, E, G, A, C | ![CNaturalEpathic](CircleOfFifthModeCNaturalEpathic.png) | ![CNaturalEpathic](ChromaticCircleModeCNaturalEpathic.png) |
+| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | E | E, G, A, C, E | ![ENaturalMynic](CircleOfFifthModeENaturalMynic.png) | ![ENaturalMynic](ChromaticCircleModeENaturalMynic.png) |
+| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | G | G, A, C, E, G | ![GNaturalRothic](CircleOfFifthModeGNaturalRothic.png) | ![GNaturalRothic](ChromaticCircleModeGNaturalRothic.png) |
 
 ## Chords
 

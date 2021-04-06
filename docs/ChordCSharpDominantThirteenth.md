@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpDominantThirteenth](ChromaticCircleChordCSharpDominantThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

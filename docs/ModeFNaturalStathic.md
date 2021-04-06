@@ -51,8 +51,9 @@ F
 
 ## Diagram
 
-![FNaturalStathic](CircleModeFNaturalStathic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![FNaturalStathic](CircleOfFifthModeFNaturalStathic.png) | ![FNaturalStathic](ChromaticCircleModeFNaturalStathic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,14 +62,16 @@ F
 | [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | A | A, B, D#, F, A | ![ANaturalDadic](ModeANaturalDadic.png) |
 | [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | B | B, D#, F, A, B | ![BNaturalStathic](ModeBNaturalStathic.png) |
 | [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | D# | D#, F, A, B, D# | ![DSharpDadic](ModeDSharpDadic.png) |
+| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | Eb | Eb, F, A, B, Eb | ![EFlatDadic](ModeEFlatDadic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | F | F, A, B, D#, F | ![FNaturalStathic](CircleModeFNaturalStathic.png) |
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | A | A, B, D#, F, A | ![ANaturalDadic](CircleModeANaturalDadic.png) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | B | B, D#, F, A, B | ![BNaturalStathic](CircleModeBNaturalStathic.png) |
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | D# | D#, F, A, B, D# | ![DSharpDadic](CircleModeDSharpDadic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | F | F, A, B, D#, F | ![FNaturalStathic](CircleOfFifthModeFNaturalStathic.png) | ![FNaturalStathic](ChromaticCircleModeFNaturalStathic.png) |
+| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | A | A, B, D#, F, A | ![ANaturalDadic](CircleOfFifthModeANaturalDadic.png) | ![ANaturalDadic](ChromaticCircleModeANaturalDadic.png) |
+| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | B | B, D#, F, A, B | ![BNaturalStathic](CircleOfFifthModeBNaturalStathic.png) | ![BNaturalStathic](ChromaticCircleModeBNaturalStathic.png) |
+| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | D# | D#, F, A, B, D# | ![DSharpDadic](CircleOfFifthModeDSharpDadic.png) | ![DSharpDadic](ChromaticCircleModeDSharpDadic.png) |
+| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | Eb | Eb, F, A, B, Eb | ![EFlatDadic](CircleOfFifthModeEFlatDadic.png) | ![EFlatDadic](ChromaticCircleModeEFlatDadic.png) |
 
 ## Chords
 
@@ -101,6 +104,10 @@ F
 |--------|------|------|-------|--------------|-------|
 | 552 | D# | [D#](ChordDSharpDiminishedFlatThird.md) | D#, F, A | ![D#](ChordDSharpDiminishedFlatThirdRootPosition.png) | [midi](ChordDSharpDiminishedFlatThirdRootPosition.mid) |
 | 552 | D# | [D#sus2b5](ChordDSharpSuspendedSecondFlatFifth.md) | D#, E#, A | ![D#sus2b5](ChordDSharpSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordDSharpSuspendedSecondFlatFifthRootPosition.mid) |
+| 552 | D# | [Eb](ChordEFlatDiminishedFlatThird.md) | Eb, Gbb, Bbb | ![Eb](ChordEFlatDiminishedFlatThirdRootPosition.png) | [midi](ChordEFlatDiminishedFlatThirdRootPosition.mid) |
+| 552 | D# | [Ebsus2b5](ChordEFlatSuspendedSecondFlatFifth.md) | Eb, F, Bbb | ![Ebsus2b5](ChordEFlatSuspendedSecondFlatFifthRootPosition.png) | [midi](ChordEFlatSuspendedSecondFlatFifthRootPosition.mid) |
 | 2088 | D# | [D#sus2#5](ChordDSharpSuspendedSecondSharpFifth.md) | D#, E#, A## | ![D#sus2#5](ChordDSharpSuspendedSecondSharpFifthRootPosition.png) | [midi](ChordDSharpSuspendedSecondSharpFifthRootPosition.mid) |
+| 2088 | D# | [Ebsus2#5](ChordEFlatSuspendedSecondSharpFifth.md) | Eb, F, B | ![Ebsus2#5](ChordEFlatSuspendedSecondSharpFifthRootPosition.png) | [midi](ChordEFlatSuspendedSecondSharpFifthRootPosition.mid) |
 | 2600 | D# | [D#sus2b5add(#5)](ChordDSharpSuspendedSecondFlatFifthAddSharpFifth.md) | D#, E#, A, A## | ![D#sus2b5add(#5)](ChordDSharpSuspendedSecondFlatFifthAddSharpFifthRootPosition.png) | [midi](ChordDSharpSuspendedSecondFlatFifthAddSharpFifthRootPosition.mid) |
+| 2600 | D# | [Ebsus2b5add(#5)](ChordEFlatSuspendedSecondFlatFifthAddSharpFifth.md) | Eb, F, Bbb, B | ![Ebsus2b5add(#5)](ChordEFlatSuspendedSecondFlatFifthAddSharpFifthRootPosition.png) | [midi](ChordEFlatSuspendedSecondFlatFifthAddSharpFifthRootPosition.mid) |
 

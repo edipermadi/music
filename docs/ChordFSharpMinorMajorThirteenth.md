@@ -11,6 +11,10 @@
 
 F#
 
+## Diagram
+
+![FSharpMinorMajorThirteenth](ChromaticCircleChordFSharpMinorMajorThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

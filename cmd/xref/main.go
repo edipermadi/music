@@ -38,7 +38,7 @@ func init() {
 
 		for _, givenRoot := range computedNotes {
 			for _, givenChord := range chord.AllChords() {
-				if givenChord.Root() == givenRoot &&
+				if givenChord.Root().Equal(givenRoot) &&
 					(givenMode.Number()|givenChord.Number() == givenMode.Number()) {
 					mapChordNumberToModes[givenChord.Number()] = append(mapChordNumberToModes[givenChord.Number()], givenMode)
 				}
@@ -325,8 +325,11 @@ func generatePitchClassPages(logger *zap.Logger, wikiDir string) {
 		if err := generatePitchClassMIDI(logger, wikiDir, givenMode); err != nil {
 			logger.Panic("failed to generate pitch class page", zap.String("scale", givenMode.String()), zap.Error(err))
 		}
-		if err := generatePitchClassCircleDiagram(logger, wikiDir, givenMode); err != nil {
-			logger.Panic("failed to generate pitch class diagram", zap.String("scale", givenMode.String()), zap.Error(err))
+		if err := generateModeCircleOfFifthDiagram(logger, wikiDir, givenMode); err != nil {
+			logger.Panic("failed to generate circle-of-fifth diagram", zap.String("scale", givenMode.String()), zap.Error(err))
+		}
+		if err := generateModeChromaticCircleDiagram(logger, wikiDir, givenMode); err != nil {
+			logger.Panic("failed to generate chromatic-circle diagram", zap.String("scale", givenMode.String()), zap.Error(err))
 		}
 	}
 }
@@ -350,11 +353,11 @@ func generatePitchClassMIDI(logger *zap.Logger, wikiDir string, givenMode mode.M
 	return compareAndWrite(fileName, buff.Bytes())
 }
 
-func generatePitchClassCircleDiagram(logger *zap.Logger, wikiDir string, givenMode mode.Mode) error {
-	diagramName := fmt.Sprintf("CircleMode%s", givenMode)
+func generateModeCircleOfFifthDiagram(logger *zap.Logger, wikiDir string, givenMode mode.Mode) error {
+	diagramName := fmt.Sprintf("CircleOfFifthMode%s", givenMode)
 	fileName := fmt.Sprintf("%s/%s.dot", wikiDir, diagramName)
 
-	logger.Info("generating circle-of-fifth for pitch-class", zap.String("mode", givenMode.String()))
+	logger.Info("generating circle-of-fifth for mode", zap.String("mode", givenMode.String()))
 
 	diagramTemplate := `
 graph {
@@ -386,6 +389,53 @@ subgraph 1 {
 			parts = append(parts, fmt.Sprintf("%s [fillcolor = gray];", givenNote.Name()))
 		} else {
 			parts = append(parts, fmt.Sprintf("%s [fillcolor = white];", givenNote.Name()))
+		}
+	}
+
+	var buff bytes.Buffer
+	if _, err := fmt.Fprintf(&buff, diagramTemplate, strings.Join(parts, "\n")); err != nil {
+		return err
+	}
+
+	return compareAndWrite(fileName, buff.Bytes())
+}
+
+func generateModeChromaticCircleDiagram(logger *zap.Logger, wikiDir string, givenMode mode.Mode) error {
+	diagramName := fmt.Sprintf("ChromaticCircleMode%s", givenMode)
+	fileName := fmt.Sprintf("%s/%s.dot", wikiDir, diagramName)
+
+	logger.Info("generating chromatic-circle for mode", zap.String("mode", givenMode.String()))
+
+	diagramTemplate := `
+graph {
+
+layout = circo;
+mindist = .1
+
+node [shape = circle, fontname = Helvetica, margin = 0, style = filled]
+edge [style=invis]
+
+subgraph 1 {
+	"E" -- "F" -- "F#" -- "G" -- "G#" -- "A" -- "A#" -- "B" -- "C" -- "C#" -- "D" -- "D#" -- "E"
+}
+
+%s
+}
+`
+
+	notes := []note.Note{
+		note.CNatural, note.CSharp, note.DNatural, note.DSharp, note.ENatural, note.FNatural,
+		note.FSharp, note.GNatural, note.GSharp, note.ANatural, note.ASharp, note.BNatural,
+	}
+
+	var parts []string
+	for _, givenNote := range notes {
+		if givenMode.Tonic().Equal(givenNote) {
+			parts = append(parts, fmt.Sprintf("\"%s\" [fillcolor = cadetblue1];", givenNote.Name()))
+		} else if givenMode.Notes().Contains(givenNote) {
+			parts = append(parts, fmt.Sprintf("\"%s\" [fillcolor = gray];", givenNote.Name()))
+		} else {
+			parts = append(parts, fmt.Sprintf("\"%s\" [fillcolor = white];", givenNote.Name()))
 		}
 	}
 
@@ -446,7 +496,10 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 
 	_, _ = fmt.Fprintf(&buff, "## Illustration\n\n![%s](Mode%s.png)\n\n", givenMode, givenMode)
 
-	_, _ = fmt.Fprintf(&buff, "## Diagram\n\n![%s](CircleMode%s.png)\n\n", givenMode, givenMode)
+	_, _ = fmt.Fprintf(&buff, "## Diagram\n\n")
+	_, _ = fmt.Fprintf(&buff, "| Circle of Fifth | Chromatic Circle |\n")
+	_, _ = fmt.Fprintf(&buff, "|-----------------|------------------|\n")
+	_, _ = fmt.Fprintf(&buff, "| ![%s](CircleOfFifthMode%s.png) | ![%s](ChromaticCircleMode%s.png) |\n", givenMode, givenMode, givenMode, givenMode)
 
 	_, _ = fmt.Fprintf(&buff, "## Relative Modes\n\n")
 	_, _ = fmt.Fprintf(&buff, "| Number | Mode | Tonic | Notes | Illustration |\n")
@@ -454,7 +507,7 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 	for idx, expectedTonic := range givenMode.Notes() {
 		if idx < givenMode.Cardinality() {
 			for _, relativeMode := range mapModeNumberToModes[givenMode.Number()] {
-				if relativeMode.Tonic() == expectedTonic {
+				if relativeMode.Tonic().Equal(expectedTonic) {
 					canonicalNumber := relativeMode.CanonicalNumber()
 					computedNoteNames := relativeMode.Notes().Names()
 					modeURL := fmt.Sprintf("https://ianring.com/musictheory/scales/%d", canonicalNumber)
@@ -465,16 +518,16 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 	}
 
 	_, _ = fmt.Fprintf(&buff, "## Relative Brightness\n\n")
-	_, _ = fmt.Fprintf(&buff, "| Number | Mode | Tonic | Notes | Illustration |\n")
-	_, _ = fmt.Fprintf(&buff, "|--------|------|-------|-------|--------------|\n")
+	_, _ = fmt.Fprintf(&buff, "| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |\n")
+	_, _ = fmt.Fprintf(&buff, "|--------|------|-------|-------|-----------------|------------------|\n")
 	for idx, expectedTonic := range givenMode.Notes() {
 		if idx < givenMode.Cardinality() {
 			for _, relativeMode := range mapModeNumberToModes[givenMode.Number()] {
-				if relativeMode.Tonic() == expectedTonic {
+				if relativeMode.Tonic().Equal(expectedTonic) {
 					canonicalNumber := relativeMode.CanonicalNumber()
 					computedNoteNames := relativeMode.Notes().Names()
 					modeURL := fmt.Sprintf("https://ianring.com/musictheory/scales/%d", canonicalNumber)
-					_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %s | %s | ![%s](CircleMode%s.png) |\n", canonicalNumber, modeURL, relativeMode.Type(), relativeMode.Type(), relativeMode.Tonic().Name(), strings.Join(computedNoteNames, ", "), relativeMode, relativeMode)
+					_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %s | %s | ![%s](CircleOfFifthMode%s.png) | ![%s](ChromaticCircleMode%s.png) |\n", canonicalNumber, modeURL, relativeMode.Type(), relativeMode.Type(), relativeMode.Tonic().Name(), strings.Join(computedNoteNames, ", "), relativeMode, relativeMode, relativeMode, relativeMode)
 				}
 			}
 		}
@@ -492,7 +545,7 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 		// list possible chords
 		possibleChords := make(chord.Chords, 0)
 		for _, givenChord := range chord.AllChords() {
-			if givenChord.Root() == givenNote &&
+			if givenChord.Root().Equal(givenNote) &&
 				(givenMode.Number()|givenChord.Number() == givenMode.Number()) {
 				possibleChords = append(possibleChords, givenChord)
 			}
@@ -586,9 +639,12 @@ func generateChordImages(logger *zap.Logger, wikiDir string) {
 
 func generateChordPages(logger *zap.Logger, wikiDir string) {
 	for _, givenChord := range chord.AllChords() {
-		chordPageFilename := fmt.Sprintf("%s/Chord%s.md", wikiDir, givenChord.String())
-		if err := generateChordPage(logger, chordPageFilename, givenChord); err != nil {
+		if err := generateChordPage(logger, wikiDir, givenChord); err != nil {
 			logger.Panic("failed to create chord documentation", zap.Error(err))
+		}
+
+		if err := generateChordChromaticCircle(logger, wikiDir, givenChord); err != nil {
+			logger.Panic("failed to create chord chromatic circle diagram", zap.Error(err))
 		}
 	}
 }
@@ -624,7 +680,8 @@ func drawChordImage(logger *zap.Logger, wikiDir string, givenChord chord.Chord) 
 	return compareAndWrite(filename, buffer.Bytes())
 }
 
-func generateChordPage(logger *zap.Logger, filename string, givenChord chord.Chord) error {
+func generateChordPage(logger *zap.Logger, wikiDir string, givenChord chord.Chord) error {
+	filename := fmt.Sprintf("%s/Chord%s.md", wikiDir, givenChord.String())
 	logger.Info("processing chord page", zap.String("filename", filename))
 
 	computedRoot := givenChord.Root()
@@ -638,6 +695,7 @@ func generateChordPage(logger *zap.Logger, filename string, givenChord chord.Cho
 	_, _ = fmt.Fprintf(&buff, "- [Modes Index](Modes.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
 	_, _ = fmt.Fprintf(&buff, "## Root\n\n%s\n\n", computedRoot.Name())
+	_, _ = fmt.Fprintf(&buff, "## Diagram\n\n![%s](ChromaticCircleChord%s.png)\n\n", givenChord, givenChord)
 	_, _ = fmt.Fprintf(&buff, "## Notes\n\n")
 	_, _ = fmt.Fprintf(&buff, "| Position | Notes | Illustration |\n")
 	_, _ = fmt.Fprintf(&buff, "|----------|------|--------------|\n")
@@ -666,6 +724,53 @@ func generateChordPage(logger *zap.Logger, filename string, givenChord chord.Cho
 	}
 
 	return compareAndWrite(filename, buff.Bytes())
+}
+
+func generateChordChromaticCircle(logger *zap.Logger, wikiDir string, givenChord chord.Chord) error {
+	diagramName := fmt.Sprintf("ChromaticCircleChord%s", givenChord)
+	fileName := fmt.Sprintf("%s/%s.dot", wikiDir, diagramName)
+
+	logger.Info("generating chromatic-circle for mode", zap.String("mode", givenChord.String()))
+
+	diagramTemplate := `
+graph {
+
+layout = circo;
+mindist = .1
+
+node [shape = circle, fontname = Helvetica, margin = 0, style = filled]
+edge [style=invis]
+
+subgraph 1 {
+	"E" -- "F" -- "F#" -- "G" -- "G#" -- "A" -- "A#" -- "B" -- "C" -- "C#" -- "D" -- "D#" -- "E"
+}
+
+%s
+}
+`
+
+	notes := []note.Note{
+		note.CNatural, note.CSharp, note.DNatural, note.DSharp, note.ENatural, note.FNatural,
+		note.FSharp, note.GNatural, note.GSharp, note.ANatural, note.ASharp, note.BNatural,
+	}
+
+	var parts []string
+	for _, givenNote := range notes {
+		if givenChord.Root().Equal(givenNote) {
+			parts = append(parts, fmt.Sprintf("\"%s\" [fillcolor = cadetblue1];", givenNote.Name()))
+		} else if givenChord.Notes().Contains(givenNote) {
+			parts = append(parts, fmt.Sprintf("\"%s\" [fillcolor = gray];", givenNote.Name()))
+		} else {
+			parts = append(parts, fmt.Sprintf("\"%s\" [fillcolor = white];", givenNote.Name()))
+		}
+	}
+
+	var buff bytes.Buffer
+	if _, err := fmt.Fprintf(&buff, diagramTemplate, strings.Join(parts, "\n")); err != nil {
+		return err
+	}
+
+	return compareAndWrite(fileName, buff.Bytes())
 }
 
 func compareAndWrite(filename string, newPayload []byte) error {
@@ -812,7 +917,7 @@ func chordRomanNumeralPattern(givenMode mode.Mode) []string {
 		allowedChordNotes := note.Notes{notes[i], notes[(i+2)%max], notes[(i+4)%max]}
 		allowedChordNotesChecksum := allowedChordNotes.Checksum()
 		for _, givenChord := range chord.AllChords() {
-			if (givenChord.Root() == givenNote) &&
+			if givenChord.Root().Equal(givenNote) &&
 				((givenMode.Number() | givenChord.Number()) == givenMode.Number()) &&
 				givenChord.Number() == allowedChordNotesChecksum {
 				switch givenChord.Type() {

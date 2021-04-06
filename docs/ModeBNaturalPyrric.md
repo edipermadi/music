@@ -51,8 +51,9 @@ B
 
 ## Diagram
 
-![BNaturalPyrric](CircleModeBNaturalPyrric.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![BNaturalPyrric](CircleOfFifthModeBNaturalPyrric.png) | ![BNaturalPyrric](ChromaticCircleModeBNaturalPyrric.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -61,14 +62,16 @@ B
 | [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | C | C, E, G#, B, C | ![CNaturalZyphic](ModeCNaturalZyphic.png) |
 | [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | E | E, G#, B, C, E | ![ENaturalEpogic](ModeENaturalEpogic.png) |
 | [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | G# | G#, B, C, E, G# | ![GSharpLanic](ModeGSharpLanic.png) |
+| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | Ab | Ab, B, C, E, Ab | ![AFlatLanic](ModeAFlatLanic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | B | B, C, E, G#, B | ![BNaturalPyrric](CircleModeBNaturalPyrric.png) |
-| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | C | C, E, G#, B, C | ![CNaturalZyphic](CircleModeCNaturalZyphic.png) |
-| [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | E | E, G#, B, C, E | ![ENaturalEpogic](CircleModeENaturalEpogic.png) |
-| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | G# | G#, B, C, E, G# | ![GSharpLanic](CircleModeGSharpLanic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | B | B, C, E, G#, B | ![BNaturalPyrric](CircleOfFifthModeBNaturalPyrric.png) | ![BNaturalPyrric](ChromaticCircleModeBNaturalPyrric.png) |
+| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | C | C, E, G#, B, C | ![CNaturalZyphic](CircleOfFifthModeCNaturalZyphic.png) | ![CNaturalZyphic](ChromaticCircleModeCNaturalZyphic.png) |
+| [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | E | E, G#, B, C, E | ![ENaturalEpogic](CircleOfFifthModeENaturalEpogic.png) | ![ENaturalEpogic](ChromaticCircleModeENaturalEpogic.png) |
+| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | G# | G#, B, C, E, G# | ![GSharpLanic](CircleOfFifthModeGSharpLanic.png) | ![GSharpLanic](ChromaticCircleModeGSharpLanic.png) |
+| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | Ab | Ab, B, C, E, Ab | ![AFlatLanic](CircleOfFifthModeAFlatLanic.png) | ![AFlatLanic](ChromaticCircleModeAFlatLanic.png) |
 
 ## Chords
 
@@ -100,6 +103,9 @@ B
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 2320 | G# | [G#m#5](ChordGSharpMinorSharpFifth.md) | G#, B, E | ![G#m#5](ChordGSharpMinorSharpFifthRootPosition.png) | [midi](ChordGSharpMinorSharpFifthRootPosition.mid) |
+| 2320 | G# | [Abm#5](ChordAFlatMinorSharpFifth.md) | Ab, Cb, Fb | ![Abm#5](ChordAFlatMinorSharpFifthRootPosition.png) | [midi](ChordAFlatMinorSharpFifthRootPosition.mid) |
 | 273 | G# | [G#+](ChordGSharpAugmented.md) | G#, B#, D## | ![G#+](ChordGSharpAugmentedRootPosition.png) | [midi](ChordGSharpAugmentedRootPosition.mid) |
 | 273 | G# | [G#+7](ChordGSharpAugmentedAugmentedSeventh.md) | G#, B#, D##, F### | ![G#+7](ChordGSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordGSharpAugmentedAugmentedSeventhRootPosition.mid) |
+| 273 | G# | [Ab+](ChordAFlatAugmented.md) | Ab, C, E | ![Ab+](ChordAFlatAugmentedRootPosition.png) | [midi](ChordAFlatAugmentedRootPosition.mid) |
+| 273 | G# | [Ab+7](ChordAFlatAugmentedAugmentedSeventh.md) | Ab, C, E, G# | ![Ab+7](ChordAFlatAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordAFlatAugmentedAugmentedSeventhRootPosition.mid) |
 

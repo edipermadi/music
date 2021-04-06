@@ -51,24 +51,27 @@ Db
 
 ## Diagram
 
-![DFlatAeolic](CircleModeDFlatAeolic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![DFlatAeolic](CircleOfFifthModeDFlatAeolic.png) | ![DFlatAeolic](ChromaticCircleModeDFlatAeolic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
+| [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | C# | C#, F, A, B, C# | ![CSharpAeolic](ModeCSharpAeolic.png) |
 | [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | Db | Db, F, A, B, Db | ![DFlatAeolic](ModeDFlatAeolic.png) |
 | [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | F | F, A, B, C#, F | ![FNaturalKoptic](ModeFNaturalKoptic.png) |
 | [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | A | A, B, C#, F, A | ![ANaturalMixolyric](ModeANaturalMixolyric.png) |
 | [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | B | B, C#, F, A, B | ![BNaturalLydic](ModeBNaturalLydic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | Db | Db, F, A, B, Db | ![DFlatAeolic](CircleModeDFlatAeolic.png) |
-| [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | F | F, A, B, C#, F | ![FNaturalKoptic](CircleModeFNaturalKoptic.png) |
-| [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | A | A, B, C#, F, A | ![ANaturalMixolyric](CircleModeANaturalMixolyric.png) |
-| [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | B | B, C#, F, A, B | ![BNaturalLydic](CircleModeBNaturalLydic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | C# | C#, F, A, B, C# | ![CSharpAeolic](CircleOfFifthModeCSharpAeolic.png) | ![CSharpAeolic](ChromaticCircleModeCSharpAeolic.png) |
+| [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | Db | Db, F, A, B, Db | ![DFlatAeolic](CircleOfFifthModeDFlatAeolic.png) | ![DFlatAeolic](ChromaticCircleModeDFlatAeolic.png) |
+| [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | F | F, A, B, C#, F | ![FNaturalKoptic](CircleOfFifthModeFNaturalKoptic.png) | ![FNaturalKoptic](ChromaticCircleModeFNaturalKoptic.png) |
+| [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | A | A, B, C#, F, A | ![ANaturalMixolyric](CircleOfFifthModeANaturalMixolyric.png) | ![ANaturalMixolyric](ChromaticCircleModeANaturalMixolyric.png) |
+| [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | B | B, C#, F, A, B | ![BNaturalLydic](CircleOfFifthModeBNaturalLydic.png) | ![BNaturalLydic](ChromaticCircleModeBNaturalLydic.png) |
 
 ## Chords
 
@@ -76,6 +79,8 @@ Db
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 546 | Db | [C#+](ChordCSharpAugmented.md) | C#, E#, G## | ![C#+](ChordCSharpAugmentedRootPosition.png) | [midi](ChordCSharpAugmentedRootPosition.mid) |
+| 546 | Db | [C#+7](ChordCSharpAugmentedAugmentedSeventh.md) | C#, E#, G##, B## | ![C#+7](ChordCSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordCSharpAugmentedAugmentedSeventhRootPosition.mid) |
 | 546 | Db | [Db+](ChordDFlatAugmented.md) | Db, F, A | ![Db+](ChordDFlatAugmentedRootPosition.png) | [midi](ChordDFlatAugmentedRootPosition.mid) |
 | 546 | Db | [Db+7](ChordDFlatAugmentedAugmentedSeventh.md) | Db, F, A, C# | ![Db+7](ChordDFlatAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordDFlatAugmentedAugmentedSeventhRootPosition.mid) |
 

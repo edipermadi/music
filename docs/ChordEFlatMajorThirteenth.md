@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatMajorThirteenth](ChromaticCircleChordEFlatMajorThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

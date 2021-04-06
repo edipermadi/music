@@ -51,24 +51,27 @@ C#
 
 ## Diagram
 
-![CSharpKoptic](CircleModeCSharpKoptic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![CSharpKoptic](CircleOfFifthModeCSharpKoptic.png) | ![CSharpKoptic](ChromaticCircleModeCSharpKoptic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | C# | C#, F, G, A, C# | ![CSharpKoptic](ModeCSharpKoptic.png) |
+| [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | Db | Db, F, G, A, Db | ![DFlatKoptic](ModeDFlatKoptic.png) |
 | [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | F | F, G, A, C#, F | ![FNaturalMixolyric](ModeFNaturalMixolyric.png) |
 | [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | G | G, A, C#, F, G | ![GNaturalLydic](ModeGNaturalLydic.png) |
 | [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | A | A, C#, F, G, A | ![ANaturalAeolic](ModeANaturalAeolic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | C# | C#, F, G, A, C# | ![CSharpKoptic](CircleModeCSharpKoptic.png) |
-| [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | F | F, G, A, C#, F | ![FNaturalMixolyric](CircleModeFNaturalMixolyric.png) |
-| [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | G | G, A, C#, F, G | ![GNaturalLydic](CircleModeGNaturalLydic.png) |
-| [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | A | A, C#, F, G, A | ![ANaturalAeolic](CircleModeANaturalAeolic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | C# | C#, F, G, A, C# | ![CSharpKoptic](CircleOfFifthModeCSharpKoptic.png) | ![CSharpKoptic](ChromaticCircleModeCSharpKoptic.png) |
+| [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | Db | Db, F, G, A, Db | ![DFlatKoptic](CircleOfFifthModeDFlatKoptic.png) | ![DFlatKoptic](ChromaticCircleModeDFlatKoptic.png) |
+| [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | F | F, G, A, C#, F | ![FNaturalMixolyric](CircleOfFifthModeFNaturalMixolyric.png) | ![FNaturalMixolyric](ChromaticCircleModeFNaturalMixolyric.png) |
+| [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | G | G, A, C#, F, G | ![GNaturalLydic](CircleOfFifthModeGNaturalLydic.png) | ![GNaturalLydic](ChromaticCircleModeGNaturalLydic.png) |
+| [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | A | A, C#, F, G, A | ![ANaturalAeolic](CircleOfFifthModeANaturalAeolic.png) | ![ANaturalAeolic](ChromaticCircleModeANaturalAeolic.png) |
 
 ## Chords
 
@@ -77,8 +80,11 @@ C#
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 162 | C# | [C#Mb5](ChordCSharpMajorFlatFifth.md) | C#, E#, G | ![C#Mb5](ChordCSharpMajorFlatFifthRootPosition.png) | [midi](ChordCSharpMajorFlatFifthRootPosition.mid) |
+| 162 | C# | [DbMb5](ChordDFlatMajorFlatFifth.md) | Db, F, Abb | ![DbMb5](ChordDFlatMajorFlatFifthRootPosition.png) | [midi](ChordDFlatMajorFlatFifthRootPosition.mid) |
 | 546 | C# | [C#+](ChordCSharpAugmented.md) | C#, E#, G## | ![C#+](ChordCSharpAugmentedRootPosition.png) | [midi](ChordCSharpAugmentedRootPosition.mid) |
 | 546 | C# | [C#+7](ChordCSharpAugmentedAugmentedSeventh.md) | C#, E#, G##, B## | ![C#+7](ChordCSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordCSharpAugmentedAugmentedSeventhRootPosition.mid) |
+| 546 | C# | [Db+](ChordDFlatAugmented.md) | Db, F, A | ![Db+](ChordDFlatAugmentedRootPosition.png) | [midi](ChordDFlatAugmentedRootPosition.mid) |
+| 546 | C# | [Db+7](ChordDFlatAugmentedAugmentedSeventh.md) | Db, F, A, C# | ![Db+7](ChordDFlatAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordDFlatAugmentedAugmentedSeventhRootPosition.mid) |
 
 ### F
 

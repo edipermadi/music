@@ -51,8 +51,9 @@ A
 
 ## Diagram
 
-![ANaturalMynic](CircleModeANaturalMynic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![ANaturalMynic](CircleOfFifthModeANaturalMynic.png) | ![ANaturalMynic](ChromaticCircleModeANaturalMynic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -63,12 +64,12 @@ A
 | [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | F | F, A, C, D, F | ![FNaturalEpathic](ModeFNaturalEpathic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | A | A, C, D, F, A | ![ANaturalMynic](CircleModeANaturalMynic.png) |
-| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | C | C, D, F, A, C | ![CNaturalRothic](CircleModeCNaturalRothic.png) |
-| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | D | D, F, A, C, D | ![DNaturalEporic](CircleModeDNaturalEporic.png) |
-| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | F | F, A, C, D, F | ![FNaturalEpathic](CircleModeFNaturalEpathic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | A | A, C, D, F, A | ![ANaturalMynic](CircleOfFifthModeANaturalMynic.png) | ![ANaturalMynic](ChromaticCircleModeANaturalMynic.png) |
+| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | C | C, D, F, A, C | ![CNaturalRothic](CircleOfFifthModeCNaturalRothic.png) | ![CNaturalRothic](ChromaticCircleModeCNaturalRothic.png) |
+| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | D | D, F, A, C, D | ![DNaturalEporic](CircleOfFifthModeDNaturalEporic.png) | ![DNaturalEporic](ChromaticCircleModeDNaturalEporic.png) |
+| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | F | F, A, C, D, F | ![FNaturalEpathic](CircleOfFifthModeFNaturalEpathic.png) | ![FNaturalEpathic](ChromaticCircleModeFNaturalEpathic.png) |
 
 ## Chords
 
