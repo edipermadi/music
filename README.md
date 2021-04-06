@@ -36,6 +36,7 @@ Music theory exploration with golang
   - Mode audio visual illustration in various tonic notes
   - Chord audio visual illustration in various root notes
   - Circle of fifth based luminosity (dot and png)
+  - Chromatic circle illustration for scales and chords
 - Utilities:
   - Generate music cross-reference markdown and images
   - Modulate MIDI from one mode to another
