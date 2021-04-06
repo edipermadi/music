@@ -29,7 +29,7 @@ D
 
 ## Chord Pattern
 
-I, IIb5, iii⁰, iii⁰, iv⁰b3, iv⁰b3, v, VI⁺, VI⁺, VII⁺
+I, IIb5, iii⁰, iv⁰b3, v, VI⁺, VII⁺
 
 ## Perfection
 

@@ -29,7 +29,7 @@ G#
 
 ## Chord Pattern
 
-i⁰, i⁰, ii⁰, iii, V, vii⁰, vii⁰
+i⁰, ii⁰, iii, V, vii⁰
 
 ## Perfection
 

@@ -29,7 +29,7 @@ G
 
 ## Chord Pattern
 
-Vb5, Vb5, vi
+Vb5, vi
 
 ## Perfection
 

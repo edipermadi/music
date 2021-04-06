@@ -29,7 +29,7 @@ Db
 
 ## Chord Pattern
 
-II⁺, IV⁺, IV⁺, V, VI⁺, VI⁺
+II⁺, IV⁺, V, VI⁺
 
 ## Perfection
 

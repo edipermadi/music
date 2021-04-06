@@ -29,7 +29,7 @@ Gb
 
 ## Chord Pattern
 
-v⁰, v⁰, VIb5
+v⁰, VIb5
 
 ## Perfection
 

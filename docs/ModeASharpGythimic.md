@@ -29,7 +29,7 @@ A#
 
 ## Chord Pattern
 
-i, i, II
+i, II
 
 ## Perfection
 

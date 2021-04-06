@@ -29,7 +29,7 @@ Ab
 
 ## Chord Pattern
 
-Ib5, Ib5
+Ib5
 
 ## Perfection
 

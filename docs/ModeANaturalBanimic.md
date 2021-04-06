@@ -29,7 +29,7 @@ A
 
 ## Chord Pattern
 
-IVb5, v, v
+IVb5, v
 
 ## Perfection
 

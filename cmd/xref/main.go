@@ -917,6 +917,7 @@ func chordRomanNumeralPattern(givenMode mode.Mode) []string {
 		allowedChordNotes := note.Notes{notes[i], notes[(i+2)%max], notes[(i+4)%max]}
 		allowedChordNotesChecksum := allowedChordNotes.Checksum()
 		for _, givenChord := range chord.AllChords() {
+			found := true
 			if givenChord.Root().Equal(givenNote) &&
 				((givenMode.Number() | givenChord.Number()) == givenMode.Number()) &&
 				givenChord.Number() == allowedChordNotesChecksum {
@@ -933,9 +934,14 @@ func chordRomanNumeralPattern(givenMode mode.Mode) []string {
 					numeralChords = append(numeralChords, majorFlatFifthRomanNumeralChords[i])
 				case chordtype.Augmented:
 					numeralChords = append(numeralChords, augmentedRomanNumeralChords[i])
+				default:
+					found = false
+				}
+
+				if found {
+					break
 				}
 			}
-
 		}
 	}
 

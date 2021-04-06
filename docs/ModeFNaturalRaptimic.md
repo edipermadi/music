@@ -29,7 +29,7 @@ F
 
 ## Chord Pattern
 
-i⁰, VIb5, VIb5
+i⁰, VIb5
 
 ## Perfection
 

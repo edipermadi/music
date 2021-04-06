@@ -29,7 +29,7 @@ A#
 
 ## Chord Pattern
 
-Ib5, Ib5, iv⁰, iv⁰, v⁰, vi, vi, vii, VIIIb5
+Ib5, iv⁰, v⁰, vi, vii, VIIIb5
 
 ## Perfection
 

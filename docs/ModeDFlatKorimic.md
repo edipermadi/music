@@ -29,7 +29,7 @@ Db
 
 ## Chord Pattern
 
-ii⁰b3, ii⁰b3
+ii⁰b3
 
 ## Perfection
 

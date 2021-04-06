@@ -29,7 +29,7 @@ G#
 
 ## Chord Pattern
 
-Vb5, vi, vi
+Vb5, vi
 
 ## Perfection
 
