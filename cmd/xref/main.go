@@ -527,7 +527,7 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 					canonicalNumber := relativeMode.CanonicalNumber()
 					computedNoteNames := relativeMode.Notes().Names()
 					modeURL := fmt.Sprintf("https://ianring.com/musictheory/scales/%d", canonicalNumber)
-					_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %s | %s | ![%s](CircleOfFifthMode%s.png) | ![%s](ChromaticCircleMode%s.png) \n", canonicalNumber, modeURL, relativeMode.Type(), relativeMode.Type(), relativeMode.Tonic().Name(), strings.Join(computedNoteNames, ", "), relativeMode, relativeMode, relativeMode, relativeMode)
+					_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %s | %s | ![%s](CircleOfFifthMode%s.png) | ![%s](ChromaticCircleMode%s.png) |\n", canonicalNumber, modeURL, relativeMode.Type(), relativeMode.Type(), relativeMode.Tonic().Name(), strings.Join(computedNoteNames, ", "), relativeMode, relativeMode, relativeMode, relativeMode)
 				}
 			}
 		}
@@ -695,6 +695,7 @@ func generateChordPage(logger *zap.Logger, wikiDir string, givenChord chord.Chor
 	_, _ = fmt.Fprintf(&buff, "- [Modes Index](Modes.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
 	_, _ = fmt.Fprintf(&buff, "## Root\n\n%s\n\n", computedRoot.Name())
+	_, _ = fmt.Fprintf(&buff, "## Diagram\n\n![%s](ChromaticCircleChord%s)\n\n", givenChord, givenChord)
 	_, _ = fmt.Fprintf(&buff, "## Notes\n\n")
 	_, _ = fmt.Fprintf(&buff, "| Position | Notes | Illustration |\n")
 	_, _ = fmt.Fprintf(&buff, "|----------|------|--------------|\n")
