@@ -362,7 +362,7 @@ graph {
 layout = circo;
 mindist = .1
 
-node [shape = circle, fontname = Helvetica, margin = 0]
+node [shape = circle, fontname = Helvetica, margin = 0, style = filled]
 edge [style=invis]
 
 subgraph 1 {
@@ -381,9 +381,11 @@ subgraph 1 {
 	var parts []string
 	for _, givenNote := range notes {
 		if givenMode.Tonic().Equal(givenNote) {
-			parts = append(parts, fmt.Sprintf("%s [color=blue];", givenNote.Name()))
+			parts = append(parts, fmt.Sprintf("%s [fillcolor = cadetblue1];", givenNote.Name()))
 		} else if givenMode.Notes().Contains(givenNote) {
-			parts = append(parts, fmt.Sprintf("%s [color=orange];", givenNote.Name()))
+			parts = append(parts, fmt.Sprintf("%s [fillcolor = gray];", givenNote.Name()))
+		} else {
+			parts = append(parts, fmt.Sprintf("%s [fillcolor = white];", givenNote.Name()))
 		}
 	}
 

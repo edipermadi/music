@@ -4,18 +4,23 @@ graph {
 layout = circo;
 mindist = .1
 
-node [shape = circle, fontname = Helvetica, margin = 0]
+node [shape = circle, fontname = Helvetica, margin = 0, style = filled]
 edge [style=invis]
 
 subgraph 1 {
 	E -- B -- Gb -- Db -- Ab -- Eb -- Bb -- F -- C -- G -- D -- A -- E
 }
 
-E [color=orange];
-B [color=blue];
-Gb [color=orange];
-Db [color=orange];
-Ab [color=orange];
-C [color=orange];
-D [color=orange];
+E [fillcolor = gray];
+B [fillcolor = cadetblue1];
+Gb [fillcolor = gray];
+Db [fillcolor = gray];
+Ab [fillcolor = gray];
+Eb [fillcolor = white];
+Bb [fillcolor = white];
+F [fillcolor = white];
+C [fillcolor = gray];
+G [fillcolor = white];
+D [fillcolor = gray];
+A [fillcolor = white];
 }
