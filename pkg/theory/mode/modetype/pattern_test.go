@@ -6,9 +6,9 @@ import (
 	"github.com/edipermadi/music/pkg/theory/mode/modetype"
 )
 
-func TestMode_IntervalPattern(t *testing.T) {
+func TestMode_Transposition(t *testing.T) {
 	for _, givenType := range modetype.AllTypes() {
-		pattern := givenType.IntervalPattern()
-		t.Logf("mode %s has interval pattern %#v", givenType, pattern)
+		pattern := givenType.Transposition()
+		t.Logf("mode %s has transposition %#v", givenType, pattern)
 	}
 }

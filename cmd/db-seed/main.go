@@ -162,7 +162,7 @@ func generateScaleSeed(writer io.Writer) {
 	// generate seed
 	for i, s := range scale.AllScales() {
 		var transpositionBuff bytes.Buffer
-		if err := json.NewEncoder(&transpositionBuff).Encode(s.IntervalPattern()); err != nil {
+		if err := json.NewEncoder(&transpositionBuff).Encode(s.Transposition()); err != nil {
 			panic(err)
 		}
 
@@ -196,7 +196,7 @@ func generateModeSeed(writer io.Writer) {
 	// generate seed
 	for _, m := range mode.AllModes() {
 		var transpositionBuff bytes.Buffer
-		if err := json.NewEncoder(&transpositionBuff).Encode(m.Type().IntervalPattern()); err != nil {
+		if err := json.NewEncoder(&transpositionBuff).Encode(m.Transposition()); err != nil {
 			panic(err)
 		}
 

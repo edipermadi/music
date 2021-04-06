@@ -23,7 +23,7 @@ Db
 
 [CNaturalMajor]
 
-## Interval Pattern
+## Transposition
 
 4, 3, 3, 2
 

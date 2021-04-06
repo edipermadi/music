@@ -5,7 +5,7 @@ func (s Scale) Perfection() (int, int, []bool) {
 	activePitches := []bool{true, false, false, false, false, false, false, false, false, false, false, false}
 
 	var currentIndex int
-	for _, givenInterval := range s.IntervalPattern() {
+	for _, givenInterval := range s.Transposition() {
 		currentIndex += givenInterval
 		activePitches[currentIndex%len(activePitches)] = true
 	}

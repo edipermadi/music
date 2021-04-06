@@ -9,8 +9,8 @@
 
 ## Index
 
-| Scale | Cardinality | Interval Pattern | Perfection | Imperfection |
-|-------|-------------|------------------|------------|--------------|
+| Scale | Cardinality | Transposition | Perfection | Imperfection |
+|-------|-------------|---------------|------------|--------------|
 | [Minoric](ScaleMinoric.md) | 3 | 4, 4, 4 | 0 | 3 | 
 | [Thaptic](ScaleThaptic.md) | 4 | 4, 3, 4, 1 | 2 | 2 | 
 | [Epathic](ScaleEpathic.md) | 4 | 4, 3, 2, 3 | 2 | 2 | 

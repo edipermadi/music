@@ -1957,5 +1957,1950 @@ const (
 
 // AllTypes returns list of mode types
 func AllTypes() Types {
-	return allTypes
+	return Types{
+		// 3.1 Notes
+		Minoric,
+
+		// 4.1 Thaptic scale
+		Thaptic,
+		Lothic,
+		Phratic,
+		Aerathic,
+
+		// 4.2 Epathic scale
+		Epathic,
+		Mynic,
+		Rothic,
+		Eporic,
+
+		// 4.3 Zyphic scale
+		Zyphic,
+		Epogic,
+		Lanic,
+		Pyrric,
+
+		// 4.4 Aeoloric scale
+		Aeoloric,
+		Gonic,
+		Dalic,
+		Dygic,
+
+		// 4.5 Daric scale
+		Daric,
+		Lonic,
+		Phradic,
+		Bolic,
+
+		// 4.6 Saric scale
+		Saric,
+		Zoptic,
+		Aeraphic,
+		Byptic,
+
+		// 4.7 Aeolic scale
+		Aeolic,
+		Koptic,
+		Mixolyric,
+		Lydic,
+
+		// 4.8 Saric scale
+		Stathic,
+		Dadic,
+
+		// 4.9 Phrynic scale
+		Phrynic,
+
+		// 5.1 Epathitonic scale
+		Epathitonic,
+		Mynitonic,
+		Rocritonic,
+		Pentatonic,
+		Thaptitonic,
+
+		// 5.2 Magitonic scale
+		Magitonic,
+		Daditonic,
+		Aeolyphritonic,
+		Gycritonic,
+		Pyritonic,
+
+		// 5.3 Gathitonic scale
+		Gathitonic,
+		Ionitonic,
+		Phrynitonic,
+		Stathitonic,
+		Thalitonic,
+
+		// 5.4 Zolitonic scale
+		Zolitonic,
+		Epogitonic,
+		Lanitonic,
+		Paptitonic,
+		Ionacritonic,
+
+		// 5.5 Phraditonic scale
+		Phraditonic,
+		Aeoloritonic,
+		Gonitonic,
+		Dalitonic,
+		Dygitonic,
+
+		// 5.6 Aeracritonic scale
+		Aeracritonic,
+		Byptitonic,
+		Daritonic,
+		Lonitonic,
+		Ionycritonic,
+
+		// 5.7 Lothitonic scale
+		Lothitonic,
+		Phratonic,
+		Aerathitonic,
+		Saritonic,
+		Zoptitonic,
+
+		// 5.8 Dolitonic scale
+		Dolitonic,
+		Poritonic,
+		Aerylitonic,
+		Zagitonic,
+		Lagitonic,
+
+		// 5.9 Molitonic scale
+		Molitonic,
+		Staptitonic,
+		Mothitonic,
+		Aeritonic,
+		Ragitonic,
+
+		// 5.10 Ionaditonic scale
+		Ionaditonic,
+		Bocritonic,
+		Gythitonic,
+		Pagitonic,
+		Aeolythitonic,
+
+		// 5.11 Zacritonic scale
+		Zacritonic,
+		Laritonic,
+		Thacritonic,
+		Styditonic,
+		Loritonic,
+
+		// 5.12 Aeolyritonic scale
+		Aeolyritonic,
+		Goritonic,
+		Aeoloditonic,
+		Doptitonic,
+		Aeraphitonic,
+
+		// 5.13 Zathitonic scale
+		Zathitonic,
+		Raditonic,
+		Stonitonic,
+		Syptitonic,
+		Ionythitonic,
+
+		// 5.14 Aeolanitonic scale
+		Aeolanitonic,
+		Danitonic,
+		Ionaritonic,
+		Dynitonic,
+		Zyditonic,
+
+		// 5.15 Aeolacritonic scale
+		Aeolacritonic,
+		Zythitonic,
+		Dyritonic,
+		Koptitonic,
+		Thocritonic,
+
+		// 5.16 Lycritonic scale
+		Lycritonic,
+		Daptitonic,
+		Kygitonic,
+		Mocritonic,
+		Zynitonic,
+
+		// 5.17 Epygitonic scale
+		Epygitonic,
+		Zaptitonic,
+		Kagitonic,
+		Zogitonic,
+		Epyritonic,
+
+		// 5.18 Zothitonic scale
+		Zothitonic,
+		Phrolitonic,
+		Ionagitonic,
+		Aeolapritonic,
+		Kyritonic,
+
+		// 5.19 Ionyptitonic scale
+		Ionyptitonic,
+		Gyritonic,
+		Zalitonic,
+		Stolitonic,
+		Bylitonic,
+
+		// 5.20 Thoditonic scale
+		Thoditonic,
+		Dogitonic,
+		Phralitonic,
+		Garitonic,
+		Soptitonic,
+
+		// 5.21 Kataritonic scale
+		Kataritonic,
+		Sylitonic,
+		Thonitonic,
+		Phropitonic,
+		Staditonic,
+
+		// 5.22 Lyditonic scale
+		Lyditonic,
+		Mythitonic,
+		Sogitonic,
+		Gothitonic,
+		Rothitonic,
+
+		// 5.23 Zylitonic scale
+		Zylitonic,
+		Zoditonic,
+		Zaritonic,
+		Phrythitonic,
+		Rolitonic,
+
+		// 5.24 Ranitonic scale
+		Ranitonic,
+		Laditonic,
+		Poditonic,
+		Ionothitonic,
+		Kanitonic,
+
+		// 5.25 Ryphitonic scale
+		Ryphitonic,
+		Gylitonic,
+		Aeolycritonic,
+		Pynitonic,
+		Zanitonic,
+
+		// 5.26 Phronitonic scale
+		Phronitonic,
+		Banitonic,
+		Aeronitonic,
+		Golitonic,
+		Dyptitonic,
+
+		// 5.27 Aerynitonic scale
+		Aerynitonic,
+		Palitonic,
+		Stothitonic,
+		Aerophitonic,
+		Katagitonic,
+
+		// 5.28 Ionoditonic scale
+		Ionoditonic,
+		Bogitonic,
+		Mogitonic,
+		Docritonic,
+		Epaditonic,
+
+		// 5.29 Mixitonic scale
+		Mixitonic,
+		Phrothitonic,
+		Katycritonic,
+		Ionalitonic,
+		Loptitonic,
+
+		// 5.30 Thyritonic scale
+		Thyritonic,
+		Thoptitonic,
+		Bycritonic,
+		Pathitonic,
+		Myditonic,
+
+		// 5.31 Bolitonic scale
+		Bolitonic,
+		Bothitonic,
+		Kataditonic,
+		Koditonic,
+		Tholitonic,
+
+		// 6.1 Epathimic scale
+		Epathimic,
+		Mynimic,
+		Rocrimic,
+		Eporimic,
+		Thaptimic,
+		Lothimic,
+
+		// 6.2 Dyrimic scale
+		Dyrimic,
+		Koptimic,
+		Thocrimic,
+		Aeolanimic,
+		Danimic,
+		Ionarimic,
+
+		// 6.3 Daptimic scale
+		Daptimic,
+		Kygimic,
+		Mocrimic,
+		Zynimic,
+		Aeolimic,
+		Zythimic,
+
+		// 6.4 Epygimic scale
+		Epygimic,
+		Zaptimic,
+		Kagimic,
+		Zogimic,
+		Epyrimic,
+		Lycrimic,
+
+		// 6.5 Bylimic scale
+		Bylimic,
+		Zothimic,
+		Phrolimic,
+		Ionagimic,
+		Aeolaphimic,
+		Kycrimic,
+
+		// 6.6 Garimic scale
+		Garimic,
+		Soptimic,
+		Ionyptimic,
+		Gyrimic,
+		Zalimic,
+		Stolimic,
+
+		// 6.7 Thonimic scale
+		Thonimic,
+		Stadimic,
+		Thodimic,
+
+		// 6.8 Mythimic scale
+		Mythimic,
+		Sogimic,
+		Gogimic,
+		Rothimic,
+		Katarimic,
+		Sylimic,
+
+		// 6.9 Mixolimic scale
+		Mixolimic,
+		Dadimic,
+		Aeolyphimic,
+		Gycrimic,
+		Pyrimic,
+		Lydimic,
+
+		// 6.10 Ionacrimic scale
+		Ionacrimic,
+		Gathimic,
+		Ionynimic,
+		Phrynimic,
+		Stathimic,
+		Thatimic,
+
+		// 6.11 Dalimic scale
+		Dalimic,
+		Dygimic,
+		Zolimic,
+		Epogimic,
+		Lanimic,
+		Paptimic,
+
+		// 6.12 Darmic scale
+		Darmic,
+		Lonimic,
+		Ionycrimic,
+		Phradimic,
+		Aeolorimic,
+		Gonimic,
+
+		// 6.13 Phracrimic scale
+		Phracrimic,
+		Aerathimic,
+		Sarimic,
+		Zoptimic,
+		Zeracrimic,
+		Byptimic,
+
+		// 6.14 Starimic scale
+		Starimic,
+		Phrathimic,
+		Saptimic,
+		Aerodimic,
+		Macrimic,
+		Rogimic,
+
+		// 6.15 Bygimic scale
+		Bygimic,
+		Thycrimic,
+		Aeoladimic,
+		Dylimic,
+		Eponimic,
+		Katygimic,
+
+		// 6.16 Stalimic scale
+		Stalimic,
+		Stoptimic,
+		Zygimic,
+		Kataptimic,
+		Aeolaptimic,
+		Pothimic,
+
+		// 6.17 Rycrimic scale
+		Rycrimic,
+		Ronimic,
+		Stycrimic,
+		Katorimic,
+		Epythimic,
+		Kaptimic,
+
+		// 6.18 Katythimic scale
+		Katythimic,
+		Madimic,
+		Aerygimic,
+		Pylimic,
+		Ionathimic,
+		Morimic,
+
+		// 6.19 Aerycrimic scale
+		Aerycrimic,
+		Ganimic,
+		Eparimic,
+		Lyrimic,
+		Phraptimic,
+		Bacrimic,
+
+		// 6.20 Phralimic scale
+		Phralimic,
+		Phrogimic,
+		Rathimic,
+		Katocrimic,
+		Phryptimic,
+		Katynimic,
+
+		// 6.21 Solimic scale
+		Solimic,
+		Ionolimic,
+		Ionophimic,
+		Aeologimic,
+		Zadimic,
+		Sygimic,
+
+		// 6.22 Thogimic scale
+		Thogimic,
+		Rythimic,
+		Donimic,
+		Aeoloptimic,
+		Panimic,
+		Lodimic,
+
+		// 6.23 Laptimic scale
+		Laptimic,
+		Lygimic,
+		Logimic,
+		Lalimic,
+		Sothimic,
+		Phrocrimic,
+
+		// 6.24 Modimic scale
+		Modimic,
+		Barimic,
+		Poptimic,
+		Sagimic,
+		Aelothimic,
+		Socrimic,
+
+		// 6.25 Syrimic scale
+		Syrimic,
+		Stodimic,
+		Ionocrimic,
+		Zycrimic,
+		Ionygimic,
+		Katathimic,
+
+		// 6.26 Bolimic scale
+		Bolimic,
+		Bothimic,
+		Katadimic,
+		Kodimic,
+		Tholimic,
+		Ralimic,
+
+		// 6.27 Kanimic scale
+		Kanimic,
+		Zylimic,
+		Zodimic,
+		Zarimic,
+		Phrythimic,
+		Rorimic,
+
+		// 6.28 Pynimic scale
+		Pynimic,
+		Zanimic,
+		Ranimic,
+		Ladimic,
+		Podimic,
+		Ionothimic,
+
+		// 6.29 Kytrimic scale
+		Kytrimic,
+		Golimic,
+		Dyptimic,
+		Ryrimic,
+		Gylimic,
+		Aeolycrimic,
+
+		// 6.30 Palimic scale
+		Palimic,
+		Stothimic,
+		Aeronimic,
+		Katagimic,
+		Phronimic,
+		Banimic,
+
+		// 6.31 Ionodimic scale
+		Ionodimic,
+		Bogimic,
+		Mogimic,
+		Docrimic,
+		Epadimic,
+		Aerynimic,
+
+		// 6.32 Mydimic scale
+		Mydimic,
+		Thyptimic,
+		Phrothimic,
+		Katycrimic,
+		Ionalimic,
+		Loptimic,
+
+		// 6.33 Zagimic scale
+		Zagimic,
+		Lagimic,
+		Thyrimic,
+		Thothimic,
+		Bycrimic,
+		Pathimic,
+
+		// 6.34 Mothimic scale
+		Mothimic,
+		Aeranimic,
+		Ragimic,
+		Dolimic,
+		Porimic,
+		Aerylimic,
+
+		// 6.35 Bocrimic scale
+		Bocrimic,
+		Gythimic,
+		Pagimic,
+		Aeolythimic,
+		Molimic,
+		Staptimic,
+
+		// 6.36 Zacrimic scale
+		Zacrimic,
+		Larimic,
+		Thacrimic,
+		Stydimic,
+		Lorimic,
+		Ionadimic,
+
+		// 6.37 Ionythimic scale
+		Ionythimic,
+		Aerythimic,
+
+		// 6.38 Dynimic scale
+		Dynimic,
+		Zydimic,
+		Zathimic,
+		Radimic,
+		Stonimic,
+		Syptimic,
+
+		// 6.39 Ponimic scale
+		Ponimic,
+		Kadimic,
+		Gynimic,
+		Thydimic,
+		Polimic,
+		Thanimic,
+
+		// 6.40 Lathimic scale
+		Lathimic,
+		Aeralimic,
+		Kynimic,
+		Stynimic,
+		Epytimic,
+		Katoptimic,
+
+		// 6.41 Galimic scale
+		Galimic,
+		Kathimic,
+		Lylimic,
+		Epalimic,
+		Epacrimic,
+		Sathimic,
+
+		// 6.42 Katanimic scale
+		Katanimic,
+		Katyrimic,
+		Rynimic,
+		Pogimic,
+		Aeraptimic,
+		Epylimic,
+
+		// 6.43 Manimic scale
+		Manimic,
+		Marimic,
+		Locrimic,
+		Rylimic,
+		Epatimic,
+		Byrimic,
+
+		// 6.44 Kocrimic scale
+		Kocrimic,
+		Korimic,
+		Lynimic,
+		Malimic,
+		Synimic,
+		Phragimic,
+
+		// 6.45 Mycrimic scale
+		Mycrimic,
+		Ionorimic,
+		Phrydimic,
+		Zyptimic,
+		Katothimic,
+		Phrylimic,
+
+		// 6.46 Aerothimic scale
+		Aerothimic,
+		Stagimic,
+		Dorimic,
+		Phrycrimic,
+		Kyptimic,
+		Ionylimic,
+
+		// 6.47 Epynimic scale
+		Epynimic,
+		Ionogimic,
+		Kydimic,
+		Gaptimic,
+		Tharimic,
+		Ionaphimic,
+
+		// 6.48 Thoptimic scale
+		Thoptimic,
+		Bagimic,
+		Kyrimic,
+		Sonimic,
+		Aeolonimic,
+		Rygimic,
+
+		// 6.49 Thagimic scale
+		Thagimic,
+		Kolimic,
+		Dycrimic,
+		Epycrimic,
+		Gocrimic,
+		Katolimic,
+
+		// 6.50 Dagimic scale
+		Dagimic,
+		Aeolydimic,
+		Parimic,
+		Ionaptimic,
+		Thylimic,
+		Lolimic,
+
+		// 6.51 Thalimic scale
+		Thalimic,
+		Stygimic,
+		Aeolygimic,
+		Aerogimic,
+		Dacrimic,
+		Baptimic,
+
+		// 6.52 Stythimic scale
+		Stythimic,
+		Kothimic,
+		Pygimic,
+		Rodimic,
+		Sorimic,
+		Monimic,
+
+		// 6.53 Aeragimic scale
+		Aeragimic,
+		Epothimic,
+		Salimic,
+		Lyptimic,
+		Katonimic,
+		Gygimic,
+
+		// 6.54 Aeradimic scale
+		Aeradimic,
+		Zyrimic,
+		Stylimic,
+
+		// 6.55 Lythimic scale
+		Lythimic,
+		Dodimic,
+		Katalimic,
+
+		// 6.56 Boptimic scale
+		Boptimic,
+		Stogimic,
+		Thynimic,
+		Aeolathimic,
+		Bythimic,
+		Padimic,
+
+		// 6.57 Dathimic scale
+		Dathimic,
+		Epagimic,
+		Raptimic,
+		Epolimic,
+		Sythimic,
+		Sydimic,
+
+		// 6.58 Gacrimic
+		Gacrimic,
+		Borimic,
+		Sycrimic,
+		Gadimic,
+		Aeolocrimic,
+		Phrygimic,
+
+		// 6.59 WholeTone
+		WholeTone,
+
+		// 7.1 Lydian scale
+		Lydian,
+		Mixolydian,
+		Aeolian,
+		Locrian,
+		Ionian,
+		Dorian,
+		Phrygian,
+
+		// 7.2 Ionythian scale
+		Ionythian,
+		Aeolyrian,
+		Gorian,
+		Aeolodian,
+		Doptian,
+		Aeraphian,
+		Zacrian,
+
+		// 7.3 Ionarian scale
+		Ionarian,
+		Dynian,
+		Zydian,
+		Zathian,
+		Radian,
+		Stonian,
+		Syptian,
+
+		// 7.4 Aeolacrian scale
+		Aeolacrian,
+		Zythian,
+		Dyrian,
+		Koptian,
+		Thocrian,
+		Aeolanian,
+		Danian,
+
+		// 7.5 Zogian scale
+		Zogian,
+		Epyrian,
+		Lycrian,
+		Daptian,
+		Kygian,
+		Mocrian,
+		Zynian,
+
+		// 7.6 Phrolian scale
+		Phrolian,
+		Ionagian,
+		Aeodian,
+		Kycrian,
+		Epygian,
+		Zaptian,
+		Kagian,
+
+		// 7.7 Soptian scale
+		Soptian,
+		Ionyptian,
+		Gyrian,
+		Zalian,
+		Stolian,
+		Bylian,
+		Zothian,
+
+		// 7.8 Thonian scale
+		Thonian,
+		Phrorian,
+		Stadian,
+		Thodian,
+		Dogian,
+		Mixopyrian,
+		Garian,
+
+		// 7.9 Epathian scale
+		Epathian,
+		Mythian,
+		Sogian,
+		Gogian,
+		Rothian,
+		Katarian,
+		Stylian,
+
+		// 7.10 Stathian scale
+		Stathian,
+		Mixonyphian,
+		Magian,
+		Dadian,
+		Aeolylian,
+		Gycrian,
+		Pyrian,
+
+		// 7.11 Epogian scale
+		Epogian,
+		Lanian,
+		Paptian,
+		Ionacrian,
+		Gathian,
+		Ionyphian,
+		Phrynian,
+
+		// 7.12 Ionycrian scale
+		Ionycrian,
+		Phradian,
+		Aeolorian,
+		Gonian,
+		Dalian,
+		Dygian,
+		Zolian,
+
+		// 7.13 Aerathian scale
+		Aerathian,
+		Sarian,
+		Zoptian,
+		Aeracrian,
+		Byptian,
+		Darian,
+		Lonian,
+
+		// 7.14 Aeopian scale
+		Aeopian,
+		Rygian,
+		Epynian,
+		Ionogian,
+		Kydian,
+		Gaptian,
+		Tharian,
+
+		// 7.15 Epycrian scale
+		Epycrian,
+		Gocrian,
+		Katolian,
+		Thoptian,
+		Bagian,
+		Kyrian,
+		Sonian,
+
+		// 7.16 Parian scale
+		Parian,
+		Ionaptian,
+		Thylian,
+		Lolian,
+		Thagian,
+		Kolian,
+		Dycrian,
+
+		// 7.17 Stygian scale
+		Stygian,
+		Aeolygian,
+		Aerogian,
+		Dacrian,
+		Baptian,
+		Dagian,
+		Aeolydian,
+
+		// 7.18 Stythian scale
+		Stythian,
+		Kothian,
+		Pygian,
+		Rodian,
+		Sorian,
+		Monian,
+		Thalian,
+
+		// 7.19 Zorian scale
+		Zorian,
+		Aeragian,
+		Epothian,
+		Salian,
+		Lyptian,
+		Katonian,
+		Gyphian,
+
+		// 7.20 Thacrian scale
+		Thacrian,
+		Dodian,
+		Aeolyptian,
+		Aeolonian,
+		Aeradian,
+		Aeolagian,
+		Zyrian,
+
+		// 7.21 Aeolathian scale
+		Aeolathian,
+		Bythian,
+		Padian,
+		Rolian,
+		Pydian,
+		Thygian,
+		Katalian,
+
+		// 7.22 Saptian scale
+		Saptian,
+		Aerodian,
+		Macrian,
+		Rogian,
+		Boptian,
+		Stogian,
+		Thynian,
+
+		// 7.23 Thycrian scale
+		Thycrian,
+		Aeoladian,
+		Dylian,
+		Eponian,
+		Katygian,
+		Starian,
+		Phrathian,
+
+		// 7.24 Stalian scale
+		Stalian,
+		Stoptian,
+		Zygian,
+		Kataptian,
+		Aeolaptian,
+		Pothian,
+		Bygian,
+
+		// 7.25 Morian scale
+		Morian,
+		Rycrian,
+		Ronian,
+		Stycrian,
+		Katorian,
+		Epythian,
+		Kaptian,
+
+		// 7.26 Phraptian scale
+		Phraptian,
+		Bacrian,
+		Katythian,
+		Madian,
+		Aerygian,
+		Pylian,
+		Ionathian,
+
+		// 7.27 Katocrian scale
+		Katocrian,
+		Phryptian,
+		Katynian,
+		Aerycrian,
+		Ganian,
+		Eparian,
+		Lyrian,
+
+		// 7.28 Ionopian scale
+		Ionopian,
+		Aeologian,
+		Zadian,
+		Sygian,
+		Phralian,
+		Phrogian,
+		Rathian,
+
+		// 7.29 Rythian scale
+		Rythian,
+		Donian,
+		Aeoloptian,
+		Panian,
+		Lodian,
+		Solian,
+		Ionolian,
+
+		// 7.30 Laptian scale
+		Laptian,
+		Lygian,
+		Logian,
+		Lalian,
+		Sothian,
+		Phrocrian,
+		Thogian,
+
+		// 7.31 Katathian scale
+		Katathian,
+		Modian,
+		Barian,
+		Mixolocrian,
+		Sagian,
+		Aeolothian,
+		Socrian,
+
+		// 7.32 Tholian scale
+		Tholian,
+		Ralian,
+		Syrian,
+		Stodian,
+		Ionocrian,
+		Zycrian,
+		Ionygian,
+
+		// 7.33 Zarian scale
+		Zarian,
+		Phrythian,
+		Rorian,
+		Bolian,
+		Bothian,
+		Katadian,
+		Kodian,
+
+		// 7.34 Ranian scale
+		Ranian,
+		Ladian,
+		Podian,
+		Ionothian,
+		Kanian,
+		Zylian,
+		Zodian,
+
+		// 7.35 Golian scale
+		Golian,
+		Dyptian,
+		Ryphian,
+		Gylian,
+		Aeolycrian,
+		Pynian,
+		Zanian,
+
+		// 7.36 Palian scale
+		Palian,
+		Stothian,
+		Aerorian,
+		Katagian,
+		Phronian,
+		Banian,
+		Aeronian,
+
+		// 7.37 Loptian scale
+		Loptian,
+		Ionodian,
+		Bogian,
+		Mogian,
+		Docrian,
+		Epadian,
+		Aerynian,
+
+		// 7.38 Bycrian scale
+		Bycrian,
+		Pathian,
+		Mydian,
+		Thyptian,
+		Phrothian,
+		Katycrian,
+		Ionalian,
+
+		// 7.39 Dolian scale
+		Dolian,
+		Porian,
+		Aerylian,
+		Zagian,
+		Lagian,
+		Tyrian,
+		Mixonorian,
+
+		// 7.40 Pagian scale
+		Pagian,
+		Aeolythian,
+		Molian,
+		Staptian,
+		Mothian,
+		Aeranian,
+		Ragian,
+
+		// 7.41 Larian scale
+		Larian,
+		Lythian,
+		Stydian,
+		Lorian,
+		Ionadian,
+		Bocrian,
+		Mixolythian,
+
+		// 7.42 Thadian scale
+		Thadian,
+		Sanian,
+		Ionydian,
+		Epydian,
+		Katydian,
+		Mathian,
+		Aeryptian,
+
+		// 7.43 Pythian scale
+		Pythian,
+		Katylian,
+		Bydian,
+		Bynian,
+		Galian,
+		Zonian,
+		Myrian,
+
+		// 7.44 Katogian scale
+		Katogian,
+		Stacrian,
+		Styrian,
+		Ionyrian,
+		Phrodian,
+		Pycrian,
+		Gyptian,
+
+		// 7.45 Katacrian scale
+		Katacrian,
+		Sodian,
+		Bathian,
+		Mylian,
+		Godian,
+		Thorian,
+		Zocrian,
+
+		// 7.46 Stanian scale
+		Stanian,
+		Epanian,
+		Konian,
+		Stocrian,
+		Kalian,
+		Phroptian,
+		Dydian,
+
+		// 7.47 Katyptian scale
+		Katyptian,
+		Epodian,
+		Mygian,
+		Pacrian,
+		Aerocrian,
+		Aeolarian,
+		Kythian,
+
+		// 7.48 Bonian scale
+		Bonian,
+		Badian,
+		Katodian,
+		Sadian,
+		Dothian,
+		Moptian,
+		Aeryrian,
+
+		// 7.49 Epagian scale
+		Epagian,
+		Raptian,
+		Epolian,
+		Sythian,
+		Sydian,
+		Epocrian,
+		Kylian,
+
+		// 7.50 Gacrian scale
+		Gacrian,
+		Borian,
+		Sycrian,
+		Gadian,
+		Aeolocrian,
+		Mixodorian,
+		Dathian,
+
+		// 7.51 Katoptian scale
+		Katoptian,
+		Ponian,
+		Kadian,
+		Gynian,
+		Thyphian,
+		Polian,
+		Thanian,
+
+		// 7.52 Epacrian scale
+		Epacrian,
+		Sathian,
+		Lathian,
+		Aeralian,
+		Kynian,
+		Stynian,
+		Epyphian,
+
+		// 7.53 Pogian scale
+		Pogian,
+		Aeraptian,
+		Epylian,
+		Gamian,
+		Kathian,
+		Lylian,
+		Epalian,
+
+		// 7.54 Eporian scale
+		Eporian,
+		Rylian,
+		Epaptian,
+		Byrian,
+		Katanian,
+		Katyrian,
+		Rynian,
+
+		// 7.55 Korian scale
+		Korian,
+		Lynian,
+		Malian,
+		Synian,
+		Phragian,
+		Manian,
+		Marian,
+
+		// 7.56 Mycrian scale
+		Mycrian,
+		Ionorian,
+		Phrydian,
+		Zyptian,
+		Katothian,
+		Phrylian,
+		Kocrian,
+
+		// 7.57 Ionanian scale
+		Ionanian,
+		Aerothian,
+		Stagian,
+		Lothian,
+		Phrycrian,
+		Kyptian,
+		Ionylian,
+
+		// 7.58 Gydian scale
+		Gydian,
+		Kogian,
+		Rarian,
+		Aerolian,
+		Karian,
+		Myptian,
+		Rydian,
+
+		// 7.59 Aeolynian scale
+		Aeolynian,
+		Aeroptian,
+		Phryrian,
+		Gothian,
+		Storian,
+		Pyptian,
+		Thydian,
+
+		// 8.1 Aerycryllic scale
+		Aerycryllic,
+		Gadyllic,
+		Solyllic,
+		Zylyllic,
+		Mixodyllic,
+		Soryllic,
+		Godyllic,
+		Epiphyllic,
+
+		// 8.2 Pynyllic scale
+		Pynyllic,
+		Bocryllic,
+		Kogyllic,
+		Raryllic,
+		Zycryllic,
+		Mycryllic,
+		Laptyllic,
+		Pylyllic,
+
+		// 8.3 Pothyllic scale
+		Pothyllic,
+		Phronyllic,
+		Stynyllic,
+		Rathyllic,
+		Aeryptyllic,
+		Zydyllic,
+		Katolyllic,
+		Rythyllic,
+
+		// 8.4 Locryllic scale
+		Locryllic,
+		Bylyllic,
+		Sogyllic,
+		Ionycryllic,
+		Koptyllic,
+		Epyryllic,
+		Soptyllic,
+		Aeolylyllic,
+
+		// 8.5 Aeracryllic scale
+		Aeracryllic,
+		Epygyllic,
+		Thonyllic,
+		Lanyllic,
+		Phrynyllic,
+		Lycryllic,
+		Ionyptyllic,
+		Epathyllic,
+
+		// 8.6 Dydyllic scale
+		Dydyllic,
+		Thogyllic,
+		Rygyllic,
+		Bycryllic,
+		Zacryllic,
+		Panyllic,
+		Dyryllic,
+		Zathyllic,
+
+		// 8.7 Dagyllic scale
+		Dagyllic,
+		Katalyllic,
+		Katoryllic,
+		Dodyllic,
+		Zogyllic,
+		Madyllic,
+		Dycryllic,
+		Aeologyllic,
+
+		// 8.8 Sydyllic scale
+		Sydyllic,
+		Katogyllic,
+		Zygyllic,
+		Aeralyllic,
+
+		// 8.9 Bacryllic scale
+		Bacryllic,
+		Aerygyllic,
+		Dathyllic,
+		Boptyllic,
+		Bagyllic,
+		Mathyllic,
+		Styptyllic,
+		Zolyllic,
+
+		// 8.10 Rocryllic scale
+		Rocryllic,
+		Zyryllic,
+		Sagyllic,
+		Epinyllic,
+		Katagyllic,
+		Ragyllic,
+		Gothyllic,
+		Lythyllic,
+
+		// 8.11 Ionocryllic scale
+		Ionocryllic,
+		Gocryllic,
+		Epiryllic,
+		Aeradyllic,
+		Staptyllic,
+		Danyllic,
+		Goptyllic,
+		Epocryllic,
+
+		// 8.12 Ionoptyllic scale
+		Ionoptyllic,
+		Aeoloryllic,
+		Thydyllic,
+		Gycryllic,
+		Lyryllic,
+		Mogyllic,
+		Katodyllic,
+		Moptyllic,
+
+		// 8.13 Dolyllic scale
+		Dolyllic,
+		Moryllic,
+		Bydyllic,
+		Pocryllic,
+		Phracryllic,
+		Gyryllic,
+		Phrygyllic,
+		Dogyllic,
+
+		// 8.14 Thagyllic scale
+		Thagyllic,
+		Thoptyllic,
+		Phraptyllic,
+		Gylyllic,
+		Phralyllic,
+		Dygyllic,
+		Ronyllic,
+		Epogyllic,
+
+		// 8.15 Aeoladyllic scale
+		Aeoladyllic,
+		Kocryllic,
+		Lodyllic,
+		Bynyllic,
+		Kydyllic,
+		Bygyllic,
+		Phryptyllic,
+		Ionayllic,
+
+		// 8.16 Phroryllic scale
+		Phroryllic,
+		Thyphyllic,
+		Poptyllic,
+		Mixonyllic,
+		Paptyllic,
+		Storyllic,
+		Phrycryllic,
+		Palyllic,
+
+		// 8.17 Phranyllic scale
+		Phranyllic,
+		Stydyllic,
+		Zadyllic,
+		Zalyllic,
+		Zocryllic,
+		Katocryllic,
+		Aerathyllic,
+		Stoptyllic,
+
+		// 8.18 Lydyllic scale
+		Lydyllic,
+		Radyllic,
+		Stagyllic,
+		Ionoryllic,
+		Phrodyllic,
+		Aeragyllic,
+		Banyllic,
+		Epothyllic,
+
+		// 8.19 Zoryllic scale
+		Zoryllic,
+		Phrolyllic,
+		Kolyllic,
+		Thodyllic,
+		Socryllic,
+		Aeolyllic,
+		Zythyllic,
+		Aeoryllic,
+
+		// 8.20 Mixolydyllic
+		Mixolydyllic,
+		Mixonyphyllic,
+		Aeolanyllic,
+		Thocryllic,
+		Kygyllic,
+		Ionagyllic,
+		Gogyllic,
+		Phradyllic,
+
+		// 8.21 Ioniptyllic scale
+		Ioniptyllic,
+		Kycryllic,
+		Aeolaptyllic,
+		Rodyllic,
+		Ionathyllic,
+		Pythyllic,
+		Zonyllic,
+		Ryryllic,
+
+		// 8.22 Aeolothyllic scale
+		Aeolothyllic,
+		Ionyryllic,
+		Rydyllic,
+		Gonyllic,
+		Rolyllic,
+		Katydyllic,
+		Zyptyllic,
+		Modyllic,
+
+		// 8.23 Maptyllic scale
+		Maptyllic,
+		Aeraptyllic,
+		Katadyllic,
+		Magyllic,
+		Phrylyllic,
+		Epigyllic,
+		Molyllic,
+		Ponyllic,
+
+		// 8.24 Thyptyllic scale
+		Thyptyllic,
+		Ionogyllic,
+		Aeolaryllic,
+		Katygyllic,
+		Ganyllic,
+		Kyptyllic,
+		Salyllic,
+		Sanyllic,
+
+		// 8.25 Doptyllic scale
+		Doptyllic,
+		Ionilyllic,
+		Manyllic,
+		Polyllic,
+		Stanyllic,
+		Mixotharyllic,
+		Eporyllic,
+		Aerynyllic,
+
+		// 8.26 Lonyllic scale
+		Lonyllic,
+		Sathyllic,
+		Layllic,
+		Saryllic,
+		Thacryllic,
+		Aeolynyllic,
+		Thadyllic,
+		Lynyllic,
+
+		// 8.27 Aeolathyllic scale
+		Aeolathyllic,
+		Aeolocryllic,
+		Phroptyllic,
+		Kodyllic,
+		Epaptyllic,
+		Ionoyllic,
+		Gyptyllic,
+		Aerythyllic,
+
+		// 8.28 Zagyllic scale
+		Zagyllic,
+		Epacryllic,
+		Thorcryllic,
+		Loptyllic,
+		Katylyllic,
+		Malyllic,
+		Mydyllic,
+		Thycryllic,
+
+		// 8.29 Gythyllic scale
+		Gythyllic,
+		Pyryllic,
+		Rycryllic,
+		Phrathyllic,
+		Badyllic,
+		Phrocryllic,
+		Staryllic,
+		Zothyllic,
+
+		// 8.30 Tharyllic scale
+		Tharyllic,
+		Sylyllic,
+		Lothyllic,
+		Daryllic,
+		Monyllic,
+		Styryllic,
+		Aeolacryllic,
+		Raptyllic,
+
+		// 8.31 Kataryllic scale
+		Kataryllic,
+		Aerocryllic,
+		Zanyllic,
+		Aeolonyllic,
+		Aeonyllic,
+		Kyryllic,
+		Sythyllic,
+		Katycryllic,
+
+		// 8.32 Stogyllic scale
+		Stogyllic,
+		Ionidyllic,
+		Stonyllic,
+		Stalyllic,
+		Poryllic,
+		Mocryllic,
+		Aeolyryllic,
+		Baryllic,
+
+		// 8.33 Dalyllic scale
+		Dalyllic,
+		Ionyphyllic,
+		Zaptyllic,
+		Garyllic,
+		Gathyllic,
+		Mixopyryllic,
+		Ionacryllic,
+		Stylyllic,
+
+		// 8.34 Stycryllic scale
+		Stycryllic,
+		Ionothyllic,
+		Mythyllic,
+		Aerylyllic,
+		Bonyllic,
+		Tholyllic,
+		Katyryllic,
+		Sadyllic,
+
+		// 8.35 Stolyllic scale
+		Stolyllic,
+		Logyllic,
+		Dacryllic,
+		Thynyllic,
+		Gydyllic,
+		Eparyllic,
+		Dynyllic,
+		Ionyllic,
+
+		// 8.36 Zaryllic scale
+		Zaryllic,
+		Dythyllic,
+		Ionaryllic,
+		Laryllic,
+		Kataptyllic,
+		Sonyllic,
+		Pathyllic,
+		Loryllic,
+
+		// 8.37 Aeronyllic scale
+		Aeronyllic,
+		Pycryllic,
+		Mygyllic,
+		Lylyllic,
+		Daptyllic,
+		Ioninyllic,
+		Epaphyllic,
+		Lolyllic,
+
+		// 8.38 Stacryllic scale
+		Stacryllic,
+		Doryllic,
+		Kadyllic,
+		Rynyllic,
+		Aerogyllic,
+		Rothyllic,
+		Kagyllic,
+		Stathyllic,
+
+		// 8.39 Thyryllic scale
+		Thyryllic,
+		Gygyllic,
+		Sodyllic,
+		Goryllic,
+		Bothyllic,
+		Gynyllic,
+		Ionaptyllic,
+		Phryryllic,
+
+		// 8.40 Racryllic scale
+		Racryllic,
+		Epicryllic,
+		Stygyllic,
+		Syryllic,
+		Stythyllic,
+		Aerothyllic,
+		Mixoryllic,
+		Thanyllic,
+
+		// 8.41 Roryllic
+		Epotyllic,
+		Epidyllic,
+		Kaptyllic,
+
+		// 8.42 MajorDiminished scale
+		MajorDiminished,
+		MinorDiminished,
+
+		// 9.1 Aerycrygic scale
+		Aerycrygic,
+		Gadygic,
+		Solygic,
+		Zylygic,
+		Garygic,
+		Sorygic,
+		Godygic,
+		Epithygic,
+		Ionoptygic,
+
+		// 9.2 Kalygic scale
+		Kalygic,
+		Ionodygic,
+		Bythygic,
+		Epygic,
+		Marygic,
+		Gaptygic,
+		Aeroptygic,
+		Mylygic,
+		Galygic,
+
+		// 9.3 Mixolydygic scale
+		Mixolydygic,
+		Ionycrygic,
+		Zoptygic,
+		Phrygygic,
+		Locrygic,
+		Gonygic,
+		Aeracrygic,
+		Aerathygic,
+		Dorygic,
+
+		// 9.4 Dycrygic scale
+		Dycrygic,
+		Aeolygic,
+		Dydygic,
+		Tholygic,
+		Rynygic,
+		Bycrygic,
+		Zacrygic,
+		Panygic,
+		Dyrygic,
+
+		// 9.5 Loptygic scale
+		Loptygic,
+		Katylygic,
+		Phradygic,
+		Mixodygic,
+		Katalygic,
+		Katorygic,
+		Dogygic,
+		Zodygic,
+		Madygic,
+
+		// 9.6 Bagygic scale
+		Bagygic,
+		Mathygic,
+		Styptygic,
+		Zolygic,
+		Sydygic,
+		Katygic,
+		Zyphygic,
+		Aeralygic,
+		Ryptygic,
+
+		// 9.7 Apinygic scale
+		Apinygic,
+		Katagygic,
+		Radygic,
+		Gothygic,
+		Lythygic,
+		Bacrygic,
+		Aerygic,
+		Dathygic,
+		Boptygic,
+
+		// 9.8 Epyrygic scale
+		Epyrygic,
+		Aeradygic,
+		Staptygic,
+		Danygic,
+		Goptygic,
+		Epocrygic,
+		Rocrygic,
+		Zyrygic,
+		Sadygic,
+
+		// 9.9 Aeolorygic scale
+		Aeolorygic,
+		Thydygic,
+		Gycrygic,
+		Lyrygic,
+		Modygic,
+		Katodygic,
+		Moptygic,
+		Ionocrygic,
+		Gocrygic,
+
+		// 9.10 Manygic scale
+		Manygic,
+		Polygic,
+		Stanygic,
+		Thaptygic,
+		Eporygic,
+		Aerynygic,
+		Thyptygic,
+		Ionogygic,
+		Aeolarygic,
+
+		// 9.11 Sathygic scale
+		Sathygic,
+		Ladygic,
+		Sarygic,
+		Thacrygic,
+		Aeolynygic,
+		Thadygic,
+		Lynygic,
+		Doptygic,
+		Ionilygic,
+
+		// 9.12 Phrygic scale
+		Phrygic,
+		Aeranygic,
+		Dothygic,
+		Lydygic,
+		Stadygic,
+		Byptygic,
+		Stodygic,
+		Zynygic,
+		Lonygic,
+
+		// 9.13 Zothygic scale
+		Zothygic,
+		Aeolathygic,
+		Aeolocrygic,
+		Phroptygic,
+		Kodygic,
+		Eparygic,
+		Ionygic,
+		Gyptygic,
+		Aerythygic,
+
+		// 9.14 Aeolacrygic scale
+		Aeolacrygic,
+		Raptygic,
+		Gythygic,
+		Pyrygic,
+		Rycrygic,
+		Phrathygic,
+		Badygic,
+		Phrocrygic,
+		Starygic,
+
+		// 9.15 Kyrygic scale
+		Kyrygic,
+		Sythygic,
+		Katycrygic,
+		Tharygic,
+		Sylygic,
+		Lothygic,
+		Darygic,
+		Monygic,
+		Styrygic,
+
+		// 9.16 Porygic scale
+		Porygic,
+		Mocrygic,
+		Aeolyrygic,
+		Barygic,
+		Katarygic,
+		Aerocrygic,
+		Zanygic,
+		Aeolonygic,
+		Aeolanygic,
+
+		// 9.17 Kaptygic scale
+		Kaptygic,
+		Sacrygic,
+		Padygic,
+		Epilygic,
+		Kynygic,
+		Stophygic,
+		Ionidygic,
+		Stonygic,
+		Stalygic,
+
+		// 9.18 Koptygic scale
+		Koptygic,
+		Raphygic,
+		Zycrygic,
+		Mycrygic,
+		Laptygic,
+		Pylygic,
+		Rodygic,
+		Epolygic,
+		Epidygic,
+
+		// 9.19 Phronygic scale
+		Phronygic,
+		Stynygic,
+		Zydygic,
+
+		// 10.1 Aerycryllian scale
+		Aerycryllian,
+		Gadyllian,
+		Solyllian,
+		Zyphyllian,
+		Garyllian,
+		Soryllian,
+		Godyllian,
+		Epityllian,
+		Ionyllian,
+		Aeoryllian,
+
+		// 10.2 Katoryllian scale
+		Katoryllian,
+		Dodyllian,
+		Zogyllian,
+		Madyllian,
+		Dycryllian,
+		Aeogyllian,
+		Dydyllian,
+		Thogyllian,
+		Rygyllian,
+		Bathyllian,
+
+		// 10.3 Sydyllian scale
+		Sydyllian,
+		Katogyllian,
+		Mixodyllian,
+		Aeradyllian,
+		Ryptyllian,
+		Loptyllian,
+		Kataphyllian,
+		Phradyllian,
+		Dagyllian,
+		Katyllian,
+
+		// 10.4 Gothyllian scale
+		Gothyllian,
+		Lythyllian,
+		Bacryllian,
+		Aerygyllian,
+		Dathyllian,
+		Boptyllian,
+		Bagyllian,
+		Mathyllian,
+		Styptyllian,
+		Zolyllian,
+
+		// 10.5 Staptyllian scale
+		Staptyllian,
+		Danyllian,
+		Goptyllian,
+		Epocryllian,
+		Rocryllian,
+		Zyryllian,
+		Sagyllian,
+		Epinyllian,
+		Katagyllian,
+		Ragyllian,
+
+		// 10.6 Thydyllian
+		Thydyllian,
+		Epiryllian,
+		Lyryllian,
+		Mogyllian,
+		Katodyllian,
+
+		// 11.1 Aerycratic scale
+		Aerycratic,
+		Monatic,
+		Solatic,
+		Zylatic,
+		Mixolatic,
+		Soratic,
+		Godatic,
+		Eptatic,
+		Ionatic,
+		Aeolatic,
+		Thydatic,
+
+		// 12.1 Chromatic scale
+		Chromatic,
+	}
 }

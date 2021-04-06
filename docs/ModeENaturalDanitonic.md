@@ -23,7 +23,7 @@ E
 
 [CNaturalMajor]
 
-## Interval Pattern
+## Transposition
 
 2, 2, 3, 1, 4
 

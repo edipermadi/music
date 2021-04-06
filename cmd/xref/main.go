@@ -117,17 +117,17 @@ func generateScalesTable(logger *zap.Logger, wikiDir string) {
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
 
 	_, _ = fmt.Fprintf(&buff, "## Index\n\n")
-	_, _ = fmt.Fprintf(&buff, "| Scale | Cardinality | Interval Pattern | Perfection | Imperfection |\n")
-	_, _ = fmt.Fprintf(&buff, "|-------|-------------|------------------|------------|--------------|\n")
+	_, _ = fmt.Fprintf(&buff, "| Scale | Cardinality | Transposition | Perfection | Imperfection |\n")
+	_, _ = fmt.Fprintf(&buff, "|-------|-------------|---------------|------------|--------------|\n")
 
 	for _, givenScale := range scale.AllScales() {
-		var computedIntervalPattern []string
-		for _, givenInterval := range givenScale.IntervalPattern() {
-			computedIntervalPattern = append(computedIntervalPattern, strconv.Itoa(givenInterval))
+		var computedTransposition []string
+		for _, givenInterval := range givenScale.Transposition() {
+			computedTransposition = append(computedTransposition, strconv.Itoa(givenInterval))
 		}
 
 		perfection, imperfection, _ := givenScale.Perfection()
-		_, _ = fmt.Fprintf(&buff, "| [%s](Scale%s.md) | %d | %s | %d | %d | \n", givenScale.String(), givenScale.String(), givenScale.Cardinality(), strings.Join(computedIntervalPattern, ", "), perfection, imperfection)
+		_, _ = fmt.Fprintf(&buff, "| [%s](Scale%s.md) | %d | %s | %d | %d | \n", givenScale.String(), givenScale.String(), givenScale.Cardinality(), strings.Join(computedTransposition, ", "), perfection, imperfection)
 	}
 
 	if err := compareAndWrite(filename, buff.Bytes()); err != nil {
@@ -148,8 +148,8 @@ func generateModesTable(logger *zap.Logger, wikiDir string) {
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
 
 	_, _ = fmt.Fprintf(&buff, "## Index\n\n")
-	_, _ = fmt.Fprintf(&buff, "| Number | Scale | Mode | Interval Pattern | Notes | Illustration | Audio |\n")
-	_, _ = fmt.Fprintf(&buff, "|--------|-------|------|------------------|-------|--------------|-------|\n")
+	_, _ = fmt.Fprintf(&buff, "| Number | Scale | Mode | Transposition | Notes | Illustration | Audio |\n")
+	_, _ = fmt.Fprintf(&buff, "|--------|-------|------|---------------|-------|--------------|-------|\n")
 
 	allModes := mode.AllModes()
 	sort.SliceStable(allModes, func(i int, j int) bool {
@@ -157,7 +157,7 @@ func generateModesTable(logger *zap.Logger, wikiDir string) {
 	})
 
 	for _, givenMode := range allModes {
-		if givenMode.Tonic() != note.CNatural {
+		if !givenMode.Tonic().Equal(note.CNatural) {
 			continue
 		}
 
@@ -173,7 +173,7 @@ func generateModesTable(logger *zap.Logger, wikiDir string) {
 		}
 
 		var computedIntervals []string
-		for _, interval := range givenMode.Type().IntervalPattern() {
+		for _, interval := range givenMode.Transposition() {
 			computedIntervals = append(computedIntervals, strconv.Itoa(interval))
 		}
 
@@ -277,10 +277,10 @@ func generateModePage(logger *zap.Logger, filename string, givenType modetype.Ty
 	_, _ = fmt.Fprintf(&buff, "## Number\n\n[%d](https://ianring.com/musictheory/scales/%d)\n\n", modeNumber, modeNumber)
 
 	var intervals []string
-	for _, interval := range givenType.IntervalPattern() {
+	for _, interval := range givenType.Transposition() {
 		intervals = append(intervals, strconv.Itoa(interval))
 	}
-	_, _ = fmt.Fprintf(&buff, "## Interval Pattern\n\n%s\n\n", strings.Join(intervals, ", "))
+	_, _ = fmt.Fprintf(&buff, "## Transposition\n\n%s\n\n", strings.Join(intervals, ", "))
 
 	romanNumeralChords := chordRomanNumeralPattern(computedMode)
 	_, _ = fmt.Fprintf(&buff, "## Chord Pattern\n\n%s\n\n", strings.Join(romanNumeralChords, ", "))
@@ -420,11 +420,11 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 
 	_, _ = fmt.Fprintf(&buff, "## Signature\n\n%s\n\n", signature.FromNotes(computedNotes))
 
-	var computedIntervalPatterns []string
-	for _, interval := range givenMode.Type().IntervalPattern() {
-		computedIntervalPatterns = append(computedIntervalPatterns, strconv.Itoa(interval))
+	var computedTransposition []string
+	for _, interval := range givenMode.Transposition() {
+		computedTransposition = append(computedTransposition, strconv.Itoa(interval))
 	}
-	_, _ = fmt.Fprintf(&buff, "## Interval Pattern\n\n%s\n\n", strings.Join(computedIntervalPatterns, ", "))
+	_, _ = fmt.Fprintf(&buff, "## Transposition\n\n%s\n\n", strings.Join(computedTransposition, ", "))
 
 	numeralNumeralChords := chordRomanNumeralPattern(givenMode)
 	_, _ = fmt.Fprintf(&buff, "## Chord Pattern\n\n%s\n\n", strings.Join(numeralNumeralChords, ", "))
