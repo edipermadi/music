@@ -4,7 +4,7 @@ graph {
 layout = circo;
 mindist = .1
 
-node [shape = circle, fontname = Helvetica, margin = 0]
+node [shape = circle, fontname = Helvetica, margin = 0, style = filled]
 edge [style=invis]
 
 subgraph 1 {
@@ -12,8 +12,15 @@ subgraph 1 {
 }
 
 E [fillcolor = gray];
+B [fillcolor = white];
 Gb [fillcolor = gray];
+Db [fillcolor = white];
+Ab [fillcolor = white];
 Eb [fillcolor = gray];
 Bb [fillcolor = cadetblue1];
+F [fillcolor = white];
+C [fillcolor = white];
+G [fillcolor = white];
 D [fillcolor = gray];
+A [fillcolor = white];
 }
