@@ -1,5 +1,7 @@
 package accidental
 
+import "fmt"
+
 // Accidental represents note accidental type
 type Accidental int
 
@@ -14,8 +16,6 @@ const (
 	DoubleSharp Accidental = iota
 	TripleSharp Accidental = iota
 )
-
-var accidentalStringifiedMap = map[Accidental]string{}
 
 // String returns stringified accidental
 func (a Accidental) String() string {
@@ -84,6 +84,28 @@ func (a Accidental) Double() bool {
 // Triple returns true when there is triple accidental
 func (a Accidental) Triple() bool {
 	return (a == TripleFlat) || (a == TripleSharp)
+}
+
+// Displacement returns semitone displacement
+func (a Accidental) Displacement() int {
+	switch a {
+	case TripleFlat:
+		return -3
+	case DoubleFlat:
+		return -2
+	case Flat:
+		return -1
+	case Natural:
+		return 0
+	case Sharp:
+		return 1
+	case DoubleSharp:
+		return 2
+	case TripleSharp:
+		return 3
+	default:
+		panic(fmt.Errorf("no such displacement for %v", a.Name()))
+	}
 }
 
 // AllAccidentals return all accidentals

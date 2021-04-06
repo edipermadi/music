@@ -2,7 +2,8 @@ package data
 
 // Pitch is a database model
 type Pitch struct {
-	ID        int     `json:"id" db:"id"`
+	ID        int64   `json:"id" db:"id"`
+	Number    int     `json:"number" db:"number"`
 	Octave    int     `json:"octave" db:"octave"`
 	Frequency float32 `json:"frequency" db:"frequency"`
 	Label     string  `json:"label" db:"label"`
@@ -11,7 +12,7 @@ type Pitch struct {
 
 // Accidental is a database model
 type Accidental struct {
-	ID           int    `json:"id" db:"id"`
+	ID           int64  `json:"id" db:"id"`
 	Displacement int    `json:"displacement" db:"displacement"`
 	Label        string `json:"label" db:"label"`
 	Name         string `json:"name" db:"name"`
@@ -19,10 +20,10 @@ type Accidental struct {
 
 // Note is a database model
 type Note struct {
-	ID           int    `json:"id" db:"id"`
-	AccidentalID int    `json:"accidental_id" db:"accidental_id"`
-	Label        string `json:"label" db:"label"`
-	Name         string `json:"name" db:"name"`
+	ID         int64      `json:"id" db:"id"`
+	Accidental Accidental `json:"accidental_id" db:"-"`
+	Label      string     `json:"label" db:"label"`
+	Name       string     `json:"name" db:"name"`
 }
 
 // Chord is a database model
@@ -52,8 +53,8 @@ type Mode struct {
 // Scale is a model
 type Scale struct {
 	ID            int    `json:"id" db:"id"`
+	Cardinality   int    `json:"cardinality" db:"cardinality"`
 	Transposition []int  `json:"transposition" db:""`
-	Cardinality   int    `json:"cardinality" db:"cadinality"`
 	Label         string `json:"label" db:"-"`
 	Name          string `json:"name" db:"-"`
 }

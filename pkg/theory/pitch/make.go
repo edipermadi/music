@@ -46,6 +46,20 @@ var pitchBuilder = map[note.Note]map[int]Pitch{
 
 // Make returns pitch based on given note and octave
 func Make(givenNote note.Note, givenOctave int) Pitch {
+	switch {
+	case givenOctave < -1,
+		givenOctave > 10:
+		panic("invalid octave number")
+	case givenOctave == -1 && givenNote == note.CFlat,
+		givenOctave == -1 && givenNote == note.CDoubleFlat,
+		givenOctave == -1 && givenNote == note.CTripleFlat,
+		givenOctave == -1 && givenNote == note.DTripleFlat,
+		givenOctave == 10 && givenNote == note.BSharp,
+		givenOctave == 10 && givenNote == note.BDoubleSharp,
+		givenOctave == 10 && givenNote == note.BTripleSharp:
+		panic("invalid note")
+	}
+
 	// normalize triple accidental
 	if givenNote.Accidental().Triple() {
 		givenNote = givenNote.Normalize()
