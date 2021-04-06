@@ -23,7 +23,7 @@ B
 
 [FSharpMajor GFlatMajor]
 
-## Interval Pattern
+## Transposition
 
 2, 2, 2, 1, 2, 2, 1
 

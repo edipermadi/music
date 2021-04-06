@@ -15,7 +15,7 @@
 
 [3469](https://ianring.com/musictheory/scales/3469)
 
-## Interval Pattern
+## Transposition
 
 2, 1, 4, 1, 2, 1, 1
 

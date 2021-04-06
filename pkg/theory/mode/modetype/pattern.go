@@ -1,14 +1,11 @@
 package modetype
 
 import (
-	"fmt"
+	"github.com/edipermadi/music/pkg/theory/util"
 )
 
-// IntervalPattern return interval pattern in semitones
-func (t Type) IntervalPattern() []int {
-	if v, found := mapTypeToIntervalPattern[t]; found {
-		return v
-	}
-
-	panic(fmt.Errorf("no such interval pattern for mode type %s", t))
+// Transposition return transposition in semitones
+func (t Type) Transposition() []int {
+	computedScale, shiftAmount := t.Scale()
+	return util.RotateLeftSliceInt(computedScale.Transposition(), shiftAmount-1)
 }

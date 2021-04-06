@@ -15,7 +15,7 @@
 
 [1753](https://ianring.com/musictheory/scales/1753)
 
-## Interval Pattern
+## Transposition
 
 3, 1, 2, 1, 2, 1, 2
 

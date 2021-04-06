@@ -30,8 +30,8 @@ func computeModeNotes(givenTonic note.Note, givenType modetype.Type) note.Notes 
 	}
 
 	previousNote := givenTonic
-	computedIntervalPattern := givenType.IntervalPattern()
-	for _, intervalSemitone := range computedIntervalPattern[:len(computedIntervalPattern)-1] {
+	computedTransposition := givenType.Transposition()
+	for _, intervalSemitone := range computedTransposition[:len(computedTransposition)-1] {
 		currentIndex = (currentIndex + intervalSemitone) % len(templateNotes)
 		currentNote := templateNotes[currentIndex]
 		nextAlphabet := previousNote.Alphabet().Next()

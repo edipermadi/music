@@ -11,7 +11,7 @@ Music theory exploration with golang
 - Scale Features:
   - Support 228 scales, from 3 to 12 notes scales
   - Scale cardinality
-  - Scale interval patterns
+  - Scale transposition
   - Modes in given scale
   - Perfection profile
 - Mode Features:
@@ -35,6 +35,7 @@ Music theory exploration with golang
   - MIDI based auditorial illustration
   - Mode audio visual illustration in various tonic notes
   - Chord audio visual illustration in various root notes
+  - Circle of fifth based luminosity (dot and png)
 - Utilities:
   - Generate music cross-reference markdown and images
   - Modulate MIDI from one mode to another

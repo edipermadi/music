@@ -2,7 +2,7 @@ package scale
 
 import "fmt"
 
-var scalePatterns = map[Scale][]int{
+var mapScaleTranspositions = map[Scale][]int{
 	// 3 Notes
 	Minoric: {4, 4, 4},
 
@@ -252,11 +252,11 @@ var scalePatterns = map[Scale][]int{
 	Chromatic: {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},
 }
 
-// IntervalPattern returns scale interval pattern in semitones
-func (s Scale) IntervalPattern() []int {
-	if v, found := scalePatterns[s]; found {
+// Transposition returns scale transposition in semitones
+func (s Scale) Transposition() []int {
+	if v, found := mapScaleTranspositions[s]; found {
 		return v
 	}
 
-	panic(fmt.Errorf("no such interval pattern for scale %s", s.String()))
+	panic(fmt.Errorf("no such transposition for scale %s", s.String()))
 }

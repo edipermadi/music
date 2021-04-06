@@ -9,8 +9,8 @@
 
 ## Index
 
-| Number | Scale | Mode | Interval Pattern | Notes | Illustration | Audio |
-|--------|-------|------|------------------|-------|--------------|-------|
+| Number | Scale | Mode | Transposition | Notes | Illustration | Audio |
+|--------|-------|------|---------------|-------|--------------|-------|
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ScaleMinoric.md) | [Minoric](ModeMinoric.md) | 4, 4, 4 | **C**, **E**, **G#**, **C** | ![CNaturalMinoric](ModeCNaturalMinoric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMinoric.mid?raw=true) |
 | [275](https://ianring.com/musictheory/scales/275) | [Aeoloric](ScaleAeoloric.md) | [Dalic](ModeDalic.md) | 1, 3, 4, 4 | **C**, C#, **E**, **G#**, **C** | ![CNaturalDalic](ModeCNaturalDalic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDalic.mid?raw=true) |
 | [277](https://ianring.com/musictheory/scales/277) | [Aeolic](ScaleAeolic.md) | [Mixolyric](ModeMixolyric.md) | 2, 2, 4, 4 | **C**, **D**, **E**, **G#**, **C** | ![CNaturalMixolyric](ModeCNaturalMixolyric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMixolyric.mid?raw=true) |

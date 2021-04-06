@@ -23,7 +23,7 @@ C#
 
 [CNaturalMajor]
 
-## Interval Pattern
+## Transposition
 
 3, 2, 4, 1, 2
 
