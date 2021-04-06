@@ -496,7 +496,10 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 
 	_, _ = fmt.Fprintf(&buff, "## Illustration\n\n![%s](Mode%s.png)\n\n", givenMode, givenMode)
 
-	_, _ = fmt.Fprintf(&buff, "## Diagram\n\n![%s](CircleOfFifthMode%s.png)\n\n", givenMode, givenMode)
+	_, _ = fmt.Fprintf(&buff, "## Diagram\n\n")
+	_, _ = fmt.Fprintf(&buff, "| Circle of Fifth | Chromatic Circle |\n")
+	_, _ = fmt.Fprintf(&buff, "|-----------------|------------------|\n")
+	_, _ = fmt.Fprintf(&buff, "| ![%s](CircleOfFifthMode%s.png) | ![%s](ChromaticCircleMode%s.png) |\n", givenMode, givenMode, givenMode, givenMode)
 
 	_, _ = fmt.Fprintf(&buff, "## Relative Modes\n\n")
 	_, _ = fmt.Fprintf(&buff, "| Number | Mode | Tonic | Notes | Illustration |\n")
