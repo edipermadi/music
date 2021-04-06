@@ -53,8 +53,9 @@ ii
 
 ## Diagram
 
-![ENaturalZylimic](CircleOfFifthModeENaturalZylimic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![ENaturalZylimic](CircleOfFifthModeENaturalZylimic.png) | ![ENaturalZylimic](ChromaticCircleModeENaturalZylimic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -69,16 +70,16 @@ ii
 | [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | C | C, D##, E#, F#, G#, A##, C | ![CNaturalKanimic](ModeCNaturalKanimic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [407](https://ianring.com/musictheory/scales/407) | [Zylimic](ModeZylimic.md) | E | E, F, Gb, Ab, B, C, E | ![ENaturalZylimic](CircleOfFifthModeENaturalZylimic.png) |
-| [2251](https://ianring.com/musictheory/scales/2251) | [Zodimic](ModeZodimic.md) | F | F, Gb, Ab, B, C, D##, F | ![FNaturalZodimic](CircleOfFifthModeFNaturalZodimic.png) |
-| [3173](https://ianring.com/musictheory/scales/3173) | [Zarimic](ModeZarimic.md) | F# | F#, G#, A##, B#, D##, E#, F# | ![FSharpZarimic](CircleOfFifthModeFSharpZarimic.png) |
-| [3173](https://ianring.com/musictheory/scales/3173) | [Zarimic](ModeZarimic.md) | Gb | Gb, Ab, B, C, D##, E#, Gb | ![GFlatZarimic](CircleOfFifthModeGFlatZarimic.png) |
-| [1817](https://ianring.com/musictheory/scales/1817) | [Phrythimic](ModePhrythimic.md) | G# | G#, A##, B#, D##, E#, F#, G# | ![GSharpPhrythimic](CircleOfFifthModeGSharpPhrythimic.png) |
-| [1817](https://ianring.com/musictheory/scales/1817) | [Phrythimic](ModePhrythimic.md) | Ab | Ab, B, C, D##, E#, F#, Ab | ![AFlatPhrythimic](CircleOfFifthModeAFlatPhrythimic.png) |
-| [739](https://ianring.com/musictheory/scales/739) | [Rorimic](ModeRorimic.md) | B | B, C, D##, E#, F#, G#, B | ![BNaturalRorimic](CircleOfFifthModeBNaturalRorimic.png) |
-| [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | C | C, D##, E#, F#, G#, A##, C | ![CNaturalKanimic](CircleOfFifthModeCNaturalKanimic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [407](https://ianring.com/musictheory/scales/407) | [Zylimic](ModeZylimic.md) | E | E, F, Gb, Ab, B, C, E | ![ENaturalZylimic](CircleOfFifthModeENaturalZylimic.png) | ![ENaturalZylimic](ChromaticCircleModeENaturalZylimic.png) 
+| [2251](https://ianring.com/musictheory/scales/2251) | [Zodimic](ModeZodimic.md) | F | F, Gb, Ab, B, C, D##, F | ![FNaturalZodimic](CircleOfFifthModeFNaturalZodimic.png) | ![FNaturalZodimic](ChromaticCircleModeFNaturalZodimic.png) 
+| [3173](https://ianring.com/musictheory/scales/3173) | [Zarimic](ModeZarimic.md) | F# | F#, G#, A##, B#, D##, E#, F# | ![FSharpZarimic](CircleOfFifthModeFSharpZarimic.png) | ![FSharpZarimic](ChromaticCircleModeFSharpZarimic.png) 
+| [3173](https://ianring.com/musictheory/scales/3173) | [Zarimic](ModeZarimic.md) | Gb | Gb, Ab, B, C, D##, E#, Gb | ![GFlatZarimic](CircleOfFifthModeGFlatZarimic.png) | ![GFlatZarimic](ChromaticCircleModeGFlatZarimic.png) 
+| [1817](https://ianring.com/musictheory/scales/1817) | [Phrythimic](ModePhrythimic.md) | G# | G#, A##, B#, D##, E#, F#, G# | ![GSharpPhrythimic](CircleOfFifthModeGSharpPhrythimic.png) | ![GSharpPhrythimic](ChromaticCircleModeGSharpPhrythimic.png) 
+| [1817](https://ianring.com/musictheory/scales/1817) | [Phrythimic](ModePhrythimic.md) | Ab | Ab, B, C, D##, E#, F#, Ab | ![AFlatPhrythimic](CircleOfFifthModeAFlatPhrythimic.png) | ![AFlatPhrythimic](ChromaticCircleModeAFlatPhrythimic.png) 
+| [739](https://ianring.com/musictheory/scales/739) | [Rorimic](ModeRorimic.md) | B | B, C, D##, E#, F#, G#, B | ![BNaturalRorimic](CircleOfFifthModeBNaturalRorimic.png) | ![BNaturalRorimic](ChromaticCircleModeBNaturalRorimic.png) 
+| [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | C | C, D##, E#, F#, G#, A##, C | ![CNaturalKanimic](CircleOfFifthModeCNaturalKanimic.png) | ![CNaturalKanimic](ChromaticCircleModeCNaturalKanimic.png) 
 
 ## Chords
 

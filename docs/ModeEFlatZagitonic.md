@@ -52,8 +52,9 @@ Eb
 
 ## Diagram
 
-![EFlatZagitonic](CircleOfFifthModeEFlatZagitonic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![EFlatZagitonic](CircleOfFifthModeEFlatZagitonic.png) | ![EFlatZagitonic](ChromaticCircleModeEFlatZagitonic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -68,16 +69,16 @@ Eb
 | [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | D | D, D#, F, F#, A#, D | ![DNaturalAerylitonic](ModeDNaturalAerylitonic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | D# | D#, F, F#, A#, D, D# | ![DSharpZagitonic](CircleOfFifthModeDSharpZagitonic.png) |
-| [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | Eb | Eb, F, Gb, Bb, D, Eb | ![EFlatZagitonic](CircleOfFifthModeEFlatZagitonic.png) |
-| [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | F | F, F#, A#, D, D#, F | ![FNaturalLagitonic](CircleOfFifthModeFNaturalLagitonic.png) |
-| [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | F# | F#, A#, D, D#, F, F# | ![FSharpDolitonic](CircleOfFifthModeFSharpDolitonic.png) |
-| [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | Gb | Gb, Bb, D, Eb, F, Gb | ![GFlatDolitonic](CircleOfFifthModeGFlatDolitonic.png) |
-| [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | A# | A#, D, D#, F, F#, A# | ![ASharpPoritonic](CircleOfFifthModeASharpPoritonic.png) |
-| [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | Bb | Bb, D, Eb, F, Gb, Bb | ![BFlatPoritonic](CircleOfFifthModeBFlatPoritonic.png) |
-| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | D | D, D#, F, F#, A#, D | ![DNaturalAerylitonic](CircleOfFifthModeDNaturalAerylitonic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | D# | D#, F, F#, A#, D, D# | ![DSharpZagitonic](CircleOfFifthModeDSharpZagitonic.png) | ![DSharpZagitonic](ChromaticCircleModeDSharpZagitonic.png) 
+| [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | Eb | Eb, F, Gb, Bb, D, Eb | ![EFlatZagitonic](CircleOfFifthModeEFlatZagitonic.png) | ![EFlatZagitonic](ChromaticCircleModeEFlatZagitonic.png) 
+| [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | F | F, F#, A#, D, D#, F | ![FNaturalLagitonic](CircleOfFifthModeFNaturalLagitonic.png) | ![FNaturalLagitonic](ChromaticCircleModeFNaturalLagitonic.png) 
+| [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | F# | F#, A#, D, D#, F, F# | ![FSharpDolitonic](CircleOfFifthModeFSharpDolitonic.png) | ![FSharpDolitonic](ChromaticCircleModeFSharpDolitonic.png) 
+| [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | Gb | Gb, Bb, D, Eb, F, Gb | ![GFlatDolitonic](CircleOfFifthModeGFlatDolitonic.png) | ![GFlatDolitonic](ChromaticCircleModeGFlatDolitonic.png) 
+| [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | A# | A#, D, D#, F, F#, A# | ![ASharpPoritonic](CircleOfFifthModeASharpPoritonic.png) | ![ASharpPoritonic](ChromaticCircleModeASharpPoritonic.png) 
+| [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | Bb | Bb, D, Eb, F, Gb, Bb | ![BFlatPoritonic](CircleOfFifthModeBFlatPoritonic.png) | ![BFlatPoritonic](ChromaticCircleModeBFlatPoritonic.png) 
+| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | D | D, D#, F, F#, A#, D | ![DNaturalAerylitonic](CircleOfFifthModeDNaturalAerylitonic.png) | ![DNaturalAerylitonic](ChromaticCircleModeDNaturalAerylitonic.png) 
 
 ## Chords
 

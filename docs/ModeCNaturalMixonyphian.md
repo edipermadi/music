@@ -54,8 +54,9 @@ iii⁰b3, iii⁰b3
 
 ## Diagram
 
-![CNaturalMixonyphian](CircleOfFifthModeCNaturalMixonyphian.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![CNaturalMixonyphian](CircleOfFifthModeCNaturalMixonyphian.png) | ![CNaturalMixonyphian](ChromaticCircleModeCNaturalMixonyphian.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -70,16 +71,16 @@ iii⁰b3, iii⁰b3
 | [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | A | A, B#, C##, D#, E, F, G, A | ![ANaturalStathian](ModeANaturalStathian.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | C | C, D, Eb, Fb, Gbb, Abb, Bbb, C | ![CNaturalMixonyphian](CircleOfFifthModeCNaturalMixonyphian.png) |
-| [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | D | D, Eb, Fb, Gbb, Abb, Bbb, C, D | ![DNaturalMagian](CircleOfFifthModeDNaturalMagian.png) |
-| [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | D# | D#, E, F, G, A, B#, C##, D# | ![DSharpDadian](CircleOfFifthModeDSharpDadian.png) |
-| [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | Eb | Eb, Fb, Gbb, Abb, Bbb, C, D, Eb | ![EFlatDadian](CircleOfFifthModeEFlatDadian.png) |
-| [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | E | E, F, G, A, B#, C##, D#, E | ![ENaturalAeolylian](CircleOfFifthModeENaturalAeolylian.png) |
-| [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | F | F, G, A, B#, C##, D#, E, F | ![FNaturalGycrian](CircleOfFifthModeFNaturalGycrian.png) |
-| [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | G | G, A, B#, C##, D#, E, F, G | ![GNaturalPyrian](CircleOfFifthModeGNaturalPyrian.png) |
-| [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | A | A, B#, C##, D#, E, F, G, A | ![ANaturalStathian](CircleOfFifthModeANaturalStathian.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | C | C, D, Eb, Fb, Gbb, Abb, Bbb, C | ![CNaturalMixonyphian](CircleOfFifthModeCNaturalMixonyphian.png) | ![CNaturalMixonyphian](ChromaticCircleModeCNaturalMixonyphian.png) 
+| [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | D | D, Eb, Fb, Gbb, Abb, Bbb, C, D | ![DNaturalMagian](CircleOfFifthModeDNaturalMagian.png) | ![DNaturalMagian](ChromaticCircleModeDNaturalMagian.png) 
+| [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | D# | D#, E, F, G, A, B#, C##, D# | ![DSharpDadian](CircleOfFifthModeDSharpDadian.png) | ![DSharpDadian](ChromaticCircleModeDSharpDadian.png) 
+| [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | Eb | Eb, Fb, Gbb, Abb, Bbb, C, D, Eb | ![EFlatDadian](CircleOfFifthModeEFlatDadian.png) | ![EFlatDadian](ChromaticCircleModeEFlatDadian.png) 
+| [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | E | E, F, G, A, B#, C##, D#, E | ![ENaturalAeolylian](CircleOfFifthModeENaturalAeolylian.png) | ![ENaturalAeolylian](ChromaticCircleModeENaturalAeolylian.png) 
+| [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | F | F, G, A, B#, C##, D#, E, F | ![FNaturalGycrian](CircleOfFifthModeFNaturalGycrian.png) | ![FNaturalGycrian](ChromaticCircleModeFNaturalGycrian.png) 
+| [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | G | G, A, B#, C##, D#, E, F, G | ![GNaturalPyrian](CircleOfFifthModeGNaturalPyrian.png) | ![GNaturalPyrian](ChromaticCircleModeGNaturalPyrian.png) 
+| [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | A | A, B#, C##, D#, E, F, G, A | ![ANaturalStathian](CircleOfFifthModeANaturalStathian.png) | ![ANaturalStathian](ChromaticCircleModeANaturalStathian.png) 
 
 ## Chords
 

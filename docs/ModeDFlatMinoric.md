@@ -50,8 +50,9 @@ I⁺, I⁺, II⁺, III⁺
 
 ## Diagram
 
-![DFlatMinoric](CircleOfFifthModeDFlatMinoric.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![DFlatMinoric](CircleOfFifthModeDFlatMinoric.png) | ![DFlatMinoric](ChromaticCircleModeDFlatMinoric.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -62,12 +63,12 @@ I⁺, I⁺, II⁺, III⁺
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | A | A, C#, F, A | ![ANaturalMinoric](ModeANaturalMinoric.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | C# | C#, F, A, C# | ![CSharpMinoric](CircleOfFifthModeCSharpMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Db | Db, F, A, Db | ![DFlatMinoric](CircleOfFifthModeDFlatMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | F | F, A, C#, F | ![FNaturalMinoric](CircleOfFifthModeFNaturalMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | A | A, C#, F, A | ![ANaturalMinoric](CircleOfFifthModeANaturalMinoric.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | C# | C#, F, A, C# | ![CSharpMinoric](CircleOfFifthModeCSharpMinoric.png) | ![CSharpMinoric](ChromaticCircleModeCSharpMinoric.png) 
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Db | Db, F, A, Db | ![DFlatMinoric](CircleOfFifthModeDFlatMinoric.png) | ![DFlatMinoric](ChromaticCircleModeDFlatMinoric.png) 
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | F | F, A, C#, F | ![FNaturalMinoric](CircleOfFifthModeFNaturalMinoric.png) | ![FNaturalMinoric](ChromaticCircleModeFNaturalMinoric.png) 
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | A | A, C#, F, A | ![ANaturalMinoric](CircleOfFifthModeANaturalMinoric.png) | ![ANaturalMinoric](ChromaticCircleModeANaturalMinoric.png) 
 
 ## Chords
 

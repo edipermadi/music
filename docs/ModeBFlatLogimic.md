@@ -53,8 +53,9 @@ i, i, vi
 
 ## Diagram
 
-![BFlatLogimic](CircleOfFifthModeBFlatLogimic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![BFlatLogimic](CircleOfFifthModeBFlatLogimic.png) | ![BFlatLogimic](ChromaticCircleModeBFlatLogimic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -69,16 +70,16 @@ i, i, vi
 | [411](https://ianring.com/musictheory/scales/411) | [Lygimic](ModeLygimic.md) | A | A, Bb, C, Db, E, F, A | ![ANaturalLygimic](ModeANaturalLygimic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [2253](https://ianring.com/musictheory/scales/2253) | [Logimic](ModeLogimic.md) | A# | A#, B#, C#, D##, E#, Cbbb, A# | ![ASharpLogimic](CircleOfFifthModeASharpLogimic.png) |
-| [2253](https://ianring.com/musictheory/scales/2253) | [Logimic](ModeLogimic.md) | Bb | Bb, C, Db, E, F, G##, Bb | ![BFlatLogimic](CircleOfFifthModeBFlatLogimic.png) |
-| [1587](https://ianring.com/musictheory/scales/1587) | [Lalimic](ModeLalimic.md) | C | C, Db, E, F, G##, A#, C | ![CNaturalLalimic](CircleOfFifthModeCNaturalLalimic.png) |
-| [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeSothimic.md) | C# | C#, D##, E#, Cbbb, Cbb, Dbb, C# | ![CSharpSothimic](CircleOfFifthModeCSharpSothimic.png) |
-| [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeSothimic.md) | Db | Db, E, F, G##, A#, B#, Db | ![DFlatSothimic](CircleOfFifthModeDFlatSothimic.png) |
-| [867](https://ianring.com/musictheory/scales/867) | [Phrocrimic](ModePhrocrimic.md) | E | E, F, G##, A#, B#, C#, E | ![ENaturalPhrocrimic](CircleOfFifthModeENaturalPhrocrimic.png) |
-| [2481](https://ianring.com/musictheory/scales/2481) | [Laptimic](ModeLaptimic.md) | F | F, G##, A#, B#, C#, D##, F | ![FNaturalLaptimic](CircleOfFifthModeFNaturalLaptimic.png) |
-| [411](https://ianring.com/musictheory/scales/411) | [Lygimic](ModeLygimic.md) | A | A, Bb, C, Db, E, F, A | ![ANaturalLygimic](CircleOfFifthModeANaturalLygimic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [2253](https://ianring.com/musictheory/scales/2253) | [Logimic](ModeLogimic.md) | A# | A#, B#, C#, D##, E#, Cbbb, A# | ![ASharpLogimic](CircleOfFifthModeASharpLogimic.png) | ![ASharpLogimic](ChromaticCircleModeASharpLogimic.png) 
+| [2253](https://ianring.com/musictheory/scales/2253) | [Logimic](ModeLogimic.md) | Bb | Bb, C, Db, E, F, G##, Bb | ![BFlatLogimic](CircleOfFifthModeBFlatLogimic.png) | ![BFlatLogimic](ChromaticCircleModeBFlatLogimic.png) 
+| [1587](https://ianring.com/musictheory/scales/1587) | [Lalimic](ModeLalimic.md) | C | C, Db, E, F, G##, A#, C | ![CNaturalLalimic](CircleOfFifthModeCNaturalLalimic.png) | ![CNaturalLalimic](ChromaticCircleModeCNaturalLalimic.png) 
+| [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeSothimic.md) | C# | C#, D##, E#, Cbbb, Cbb, Dbb, C# | ![CSharpSothimic](CircleOfFifthModeCSharpSothimic.png) | ![CSharpSothimic](ChromaticCircleModeCSharpSothimic.png) 
+| [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeSothimic.md) | Db | Db, E, F, G##, A#, B#, Db | ![DFlatSothimic](CircleOfFifthModeDFlatSothimic.png) | ![DFlatSothimic](ChromaticCircleModeDFlatSothimic.png) 
+| [867](https://ianring.com/musictheory/scales/867) | [Phrocrimic](ModePhrocrimic.md) | E | E, F, G##, A#, B#, C#, E | ![ENaturalPhrocrimic](CircleOfFifthModeENaturalPhrocrimic.png) | ![ENaturalPhrocrimic](ChromaticCircleModeENaturalPhrocrimic.png) 
+| [2481](https://ianring.com/musictheory/scales/2481) | [Laptimic](ModeLaptimic.md) | F | F, G##, A#, B#, C#, D##, F | ![FNaturalLaptimic](CircleOfFifthModeFNaturalLaptimic.png) | ![FNaturalLaptimic](ChromaticCircleModeFNaturalLaptimic.png) 
+| [411](https://ianring.com/musictheory/scales/411) | [Lygimic](ModeLygimic.md) | A | A, Bb, C, Db, E, F, A | ![ANaturalLygimic](CircleOfFifthModeANaturalLygimic.png) | ![ANaturalLygimic](ChromaticCircleModeANaturalLygimic.png) 
 
 ## Chords
 

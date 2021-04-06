@@ -1,0 +1,26 @@
+
+graph {
+
+layout = circo;
+mindist = .1
+
+node [shape = circle, fontname = Helvetica, margin = 0, style = filled]
+edge [style=invis]
+
+subgraph 1 {
+	E -- F -- F# -- G -- G# -- A -- A# -- B -- C -- C# -- D -- D# -- E
+}
+
+C [fillcolor = cadetblue1];
+C# [fillcolor = white];
+D [fillcolor = white];
+D# [fillcolor = white];
+E [fillcolor = gray];
+F [fillcolor = white];
+F# [fillcolor = white];
+G [fillcolor = white];
+G# [fillcolor = gray];
+A [fillcolor = white];
+A# [fillcolor = white];
+B [fillcolor = gray];
+}

@@ -54,8 +54,9 @@ vii⁰, vii⁰
 
 ## Diagram
 
-![DNaturalBoptian](CircleOfFifthModeDNaturalBoptian.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![DNaturalBoptian](CircleOfFifthModeDNaturalBoptian.png) | ![DNaturalBoptian](ChromaticCircleModeDNaturalBoptian.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -70,16 +71,16 @@ vii⁰, vii⁰
 | [3163](https://ianring.com/musictheory/scales/3163) | [Rogian](ModeRogian.md) | Db | Db, Ebb, Fb, Gbb, Abb, B, C, Db | ![DFlatRogian](ModeDFlatRogian.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [3629](https://ianring.com/musictheory/scales/3629) | [Boptian](ModeBoptian.md) | D | D, E, F, G, A##, B#, C#, D | ![DNaturalBoptian](CircleOfFifthModeDNaturalBoptian.png) |
-| [1931](https://ianring.com/musictheory/scales/1931) | [Stogian](ModeStogian.md) | E | E, F, G, A##, B#, C#, D, E | ![ENaturalStogian](CircleOfFifthModeENaturalStogian.png) |
-| [3013](https://ianring.com/musictheory/scales/3013) | [Thynian](ModeThynian.md) | F | F, G, A##, B#, C#, D, E, F | ![FNaturalThynian](CircleOfFifthModeFNaturalThynian.png) |
-| [1777](https://ianring.com/musictheory/scales/1777) | [Saptian](ModeSaptian.md) | G | G, A##, B#, C#, D, E, F, G | ![GNaturalSaptian](CircleOfFifthModeGNaturalSaptian.png) |
-| [367](https://ianring.com/musictheory/scales/367) | [Aerodian](ModeAerodian.md) | B | B, C, Db, Ebb, Fb, Gbb, Abb, B | ![BNaturalAerodian](CircleOfFifthModeBNaturalAerodian.png) |
-| [2231](https://ianring.com/musictheory/scales/2231) | [Macrian](ModeMacrian.md) | C | C, Db, Ebb, Fb, Gbb, Abb, B, C | ![CNaturalMacrian](CircleOfFifthModeCNaturalMacrian.png) |
-| [3163](https://ianring.com/musictheory/scales/3163) | [Rogian](ModeRogian.md) | C# | C#, D, E, F, G, A##, B#, C# | ![CSharpRogian](CircleOfFifthModeCSharpRogian.png) |
-| [3163](https://ianring.com/musictheory/scales/3163) | [Rogian](ModeRogian.md) | Db | Db, Ebb, Fb, Gbb, Abb, B, C, Db | ![DFlatRogian](CircleOfFifthModeDFlatRogian.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [3629](https://ianring.com/musictheory/scales/3629) | [Boptian](ModeBoptian.md) | D | D, E, F, G, A##, B#, C#, D | ![DNaturalBoptian](CircleOfFifthModeDNaturalBoptian.png) | ![DNaturalBoptian](ChromaticCircleModeDNaturalBoptian.png) 
+| [1931](https://ianring.com/musictheory/scales/1931) | [Stogian](ModeStogian.md) | E | E, F, G, A##, B#, C#, D, E | ![ENaturalStogian](CircleOfFifthModeENaturalStogian.png) | ![ENaturalStogian](ChromaticCircleModeENaturalStogian.png) 
+| [3013](https://ianring.com/musictheory/scales/3013) | [Thynian](ModeThynian.md) | F | F, G, A##, B#, C#, D, E, F | ![FNaturalThynian](CircleOfFifthModeFNaturalThynian.png) | ![FNaturalThynian](ChromaticCircleModeFNaturalThynian.png) 
+| [1777](https://ianring.com/musictheory/scales/1777) | [Saptian](ModeSaptian.md) | G | G, A##, B#, C#, D, E, F, G | ![GNaturalSaptian](CircleOfFifthModeGNaturalSaptian.png) | ![GNaturalSaptian](ChromaticCircleModeGNaturalSaptian.png) 
+| [367](https://ianring.com/musictheory/scales/367) | [Aerodian](ModeAerodian.md) | B | B, C, Db, Ebb, Fb, Gbb, Abb, B | ![BNaturalAerodian](CircleOfFifthModeBNaturalAerodian.png) | ![BNaturalAerodian](ChromaticCircleModeBNaturalAerodian.png) 
+| [2231](https://ianring.com/musictheory/scales/2231) | [Macrian](ModeMacrian.md) | C | C, Db, Ebb, Fb, Gbb, Abb, B, C | ![CNaturalMacrian](CircleOfFifthModeCNaturalMacrian.png) | ![CNaturalMacrian](ChromaticCircleModeCNaturalMacrian.png) 
+| [3163](https://ianring.com/musictheory/scales/3163) | [Rogian](ModeRogian.md) | C# | C#, D, E, F, G, A##, B#, C# | ![CSharpRogian](CircleOfFifthModeCSharpRogian.png) | ![CSharpRogian](ChromaticCircleModeCSharpRogian.png) 
+| [3163](https://ianring.com/musictheory/scales/3163) | [Rogian](ModeRogian.md) | Db | Db, Ebb, Fb, Gbb, Abb, B, C, Db | ![DFlatRogian](CircleOfFifthModeDFlatRogian.png) | ![DFlatRogian](ChromaticCircleModeDFlatRogian.png) 
 
 ## Chords
 

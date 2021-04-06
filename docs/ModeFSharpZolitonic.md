@@ -52,8 +52,9 @@ F#
 
 ## Diagram
 
-![FSharpZolitonic](CircleOfFifthModeFSharpZolitonic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![FSharpZolitonic](CircleOfFifthModeFSharpZolitonic.png) | ![FSharpZolitonic](ChromaticCircleModeFSharpZolitonic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -68,16 +69,16 @@ F#
 | [419](https://ianring.com/musictheory/scales/419) | [Ionacritonic](ModeIonacritonic.md) | F | F, F#, A#, C, C#, F | ![FNaturalIonacritonic](ModeFNaturalIonacritonic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [2257](https://ianring.com/musictheory/scales/2257) | [Zolitonic](ModeZolitonic.md) | F# | F#, A#, C, C#, F, F# | ![FSharpZolitonic](CircleOfFifthModeFSharpZolitonic.png) |
-| [2257](https://ianring.com/musictheory/scales/2257) | [Zolitonic](ModeZolitonic.md) | Gb | Gb, Bb, C, Db, F, Gb | ![GFlatZolitonic](CircleOfFifthModeGFlatZolitonic.png) |
-| [397](https://ianring.com/musictheory/scales/397) | [Epogitonic](ModeEpogitonic.md) | A# | A#, C, C#, F, F#, A# | ![ASharpEpogitonic](CircleOfFifthModeASharpEpogitonic.png) |
-| [397](https://ianring.com/musictheory/scales/397) | [Epogitonic](ModeEpogitonic.md) | Bb | Bb, C, Db, F, Gb, Bb | ![BFlatEpogitonic](CircleOfFifthModeBFlatEpogitonic.png) |
-| [1123](https://ianring.com/musictheory/scales/1123) | [Lanitonic](ModeLanitonic.md) | C | C, C#, F, F#, A#, C | ![CNaturalLanitonic](CircleOfFifthModeCNaturalLanitonic.png) |
-| [2609](https://ianring.com/musictheory/scales/2609) | [Paptitonic](ModePaptitonic.md) | C# | C#, F, F#, A#, C, C# | ![CSharpPaptitonic](CircleOfFifthModeCSharpPaptitonic.png) |
-| [2609](https://ianring.com/musictheory/scales/2609) | [Paptitonic](ModePaptitonic.md) | Db | Db, F, Gb, Bb, C, Db | ![DFlatPaptitonic](CircleOfFifthModeDFlatPaptitonic.png) |
-| [419](https://ianring.com/musictheory/scales/419) | [Ionacritonic](ModeIonacritonic.md) | F | F, F#, A#, C, C#, F | ![FNaturalIonacritonic](CircleOfFifthModeFNaturalIonacritonic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [2257](https://ianring.com/musictheory/scales/2257) | [Zolitonic](ModeZolitonic.md) | F# | F#, A#, C, C#, F, F# | ![FSharpZolitonic](CircleOfFifthModeFSharpZolitonic.png) | ![FSharpZolitonic](ChromaticCircleModeFSharpZolitonic.png) 
+| [2257](https://ianring.com/musictheory/scales/2257) | [Zolitonic](ModeZolitonic.md) | Gb | Gb, Bb, C, Db, F, Gb | ![GFlatZolitonic](CircleOfFifthModeGFlatZolitonic.png) | ![GFlatZolitonic](ChromaticCircleModeGFlatZolitonic.png) 
+| [397](https://ianring.com/musictheory/scales/397) | [Epogitonic](ModeEpogitonic.md) | A# | A#, C, C#, F, F#, A# | ![ASharpEpogitonic](CircleOfFifthModeASharpEpogitonic.png) | ![ASharpEpogitonic](ChromaticCircleModeASharpEpogitonic.png) 
+| [397](https://ianring.com/musictheory/scales/397) | [Epogitonic](ModeEpogitonic.md) | Bb | Bb, C, Db, F, Gb, Bb | ![BFlatEpogitonic](CircleOfFifthModeBFlatEpogitonic.png) | ![BFlatEpogitonic](ChromaticCircleModeBFlatEpogitonic.png) 
+| [1123](https://ianring.com/musictheory/scales/1123) | [Lanitonic](ModeLanitonic.md) | C | C, C#, F, F#, A#, C | ![CNaturalLanitonic](CircleOfFifthModeCNaturalLanitonic.png) | ![CNaturalLanitonic](ChromaticCircleModeCNaturalLanitonic.png) 
+| [2609](https://ianring.com/musictheory/scales/2609) | [Paptitonic](ModePaptitonic.md) | C# | C#, F, F#, A#, C, C# | ![CSharpPaptitonic](CircleOfFifthModeCSharpPaptitonic.png) | ![CSharpPaptitonic](ChromaticCircleModeCSharpPaptitonic.png) 
+| [2609](https://ianring.com/musictheory/scales/2609) | [Paptitonic](ModePaptitonic.md) | Db | Db, F, Gb, Bb, C, Db | ![DFlatPaptitonic](CircleOfFifthModeDFlatPaptitonic.png) | ![DFlatPaptitonic](ChromaticCircleModeDFlatPaptitonic.png) 
+| [419](https://ianring.com/musictheory/scales/419) | [Ionacritonic](ModeIonacritonic.md) | F | F, F#, A#, C, C#, F | ![FNaturalIonacritonic](CircleOfFifthModeFNaturalIonacritonic.png) | ![FNaturalIonacritonic](ChromaticCircleModeFNaturalIonacritonic.png) 
 
 ## Chords
 

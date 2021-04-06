@@ -53,8 +53,9 @@ I⁺, III⁺, IVb5, V⁺, V⁺
 
 ## Diagram
 
-![CNaturalAerynimic](CircleOfFifthModeCNaturalAerynimic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![CNaturalAerynimic](CircleOfFifthModeCNaturalAerynimic.png) | ![CNaturalAerynimic](ChromaticCircleModeCNaturalAerynimic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -69,16 +70,16 @@ I⁺, III⁺, IVb5, V⁺, V⁺
 | [807](https://ianring.com/musictheory/scales/807) | [Epadimic](ModeEpadimic.md) | B | B, C, Db, E, F##, G#, B | ![BNaturalEpadimic](ModeBNaturalEpadimic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [2451](https://ianring.com/musictheory/scales/2451) | [Aerynimic](ModeAerynimic.md) | C | C, Db, E, F##, G#, A##, C | ![CNaturalAerynimic](CircleOfFifthModeCNaturalAerynimic.png) |
-| [3273](https://ianring.com/musictheory/scales/3273) | [Ionodimic](ModeIonodimic.md) | C# | C#, D##, E###, F###, Cb, Dbb, C# | ![CSharpIonodimic](CircleOfFifthModeCSharpIonodimic.png) |
-| [3273](https://ianring.com/musictheory/scales/3273) | [Ionodimic](ModeIonodimic.md) | Db | Db, E, F##, G#, A##, B#, Db | ![DFlatIonodimic](CircleOfFifthModeDFlatIonodimic.png) |
-| [921](https://ianring.com/musictheory/scales/921) | [Bogimic](ModeBogimic.md) | E | E, F##, G#, A##, B#, C#, E | ![ENaturalBogimic](CircleOfFifthModeENaturalBogimic.png) |
-| [627](https://ianring.com/musictheory/scales/627) | [Mogimic](ModeMogimic.md) | G | G, Ab, B, C, Db, E, G | ![GNaturalMogimic](CircleOfFifthModeGNaturalMogimic.png) |
-| [2361](https://ianring.com/musictheory/scales/2361) | [Docrimic](ModeDocrimic.md) | G# | G#, A##, B#, C#, D##, E###, G# | ![GSharpDocrimic](CircleOfFifthModeGSharpDocrimic.png) |
-| [2361](https://ianring.com/musictheory/scales/2361) | [Docrimic](ModeDocrimic.md) | Ab | Ab, B, C, Db, E, F##, Ab | ![AFlatDocrimic](CircleOfFifthModeAFlatDocrimic.png) |
-| [807](https://ianring.com/musictheory/scales/807) | [Epadimic](ModeEpadimic.md) | B | B, C, Db, E, F##, G#, B | ![BNaturalEpadimic](CircleOfFifthModeBNaturalEpadimic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [2451](https://ianring.com/musictheory/scales/2451) | [Aerynimic](ModeAerynimic.md) | C | C, Db, E, F##, G#, A##, C | ![CNaturalAerynimic](CircleOfFifthModeCNaturalAerynimic.png) | ![CNaturalAerynimic](ChromaticCircleModeCNaturalAerynimic.png) 
+| [3273](https://ianring.com/musictheory/scales/3273) | [Ionodimic](ModeIonodimic.md) | C# | C#, D##, E###, F###, Cb, Dbb, C# | ![CSharpIonodimic](CircleOfFifthModeCSharpIonodimic.png) | ![CSharpIonodimic](ChromaticCircleModeCSharpIonodimic.png) 
+| [3273](https://ianring.com/musictheory/scales/3273) | [Ionodimic](ModeIonodimic.md) | Db | Db, E, F##, G#, A##, B#, Db | ![DFlatIonodimic](CircleOfFifthModeDFlatIonodimic.png) | ![DFlatIonodimic](ChromaticCircleModeDFlatIonodimic.png) 
+| [921](https://ianring.com/musictheory/scales/921) | [Bogimic](ModeBogimic.md) | E | E, F##, G#, A##, B#, C#, E | ![ENaturalBogimic](CircleOfFifthModeENaturalBogimic.png) | ![ENaturalBogimic](ChromaticCircleModeENaturalBogimic.png) 
+| [627](https://ianring.com/musictheory/scales/627) | [Mogimic](ModeMogimic.md) | G | G, Ab, B, C, Db, E, G | ![GNaturalMogimic](CircleOfFifthModeGNaturalMogimic.png) | ![GNaturalMogimic](ChromaticCircleModeGNaturalMogimic.png) 
+| [2361](https://ianring.com/musictheory/scales/2361) | [Docrimic](ModeDocrimic.md) | G# | G#, A##, B#, C#, D##, E###, G# | ![GSharpDocrimic](CircleOfFifthModeGSharpDocrimic.png) | ![GSharpDocrimic](ChromaticCircleModeGSharpDocrimic.png) 
+| [2361](https://ianring.com/musictheory/scales/2361) | [Docrimic](ModeDocrimic.md) | Ab | Ab, B, C, Db, E, F##, Ab | ![AFlatDocrimic](CircleOfFifthModeAFlatDocrimic.png) | ![AFlatDocrimic](ChromaticCircleModeAFlatDocrimic.png) 
+| [807](https://ianring.com/musictheory/scales/807) | [Epadimic](ModeEpadimic.md) | B | B, C, Db, E, F##, G#, B | ![BNaturalEpadimic](CircleOfFifthModeBNaturalEpadimic.png) | ![BNaturalEpadimic](ChromaticCircleModeBNaturalEpadimic.png) 
 
 ## Chords
 

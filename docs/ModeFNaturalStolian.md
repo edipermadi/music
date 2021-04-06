@@ -54,8 +54,9 @@ Vb5
 
 ## Diagram
 
-![FNaturalStolian](CircleOfFifthModeFNaturalStolian.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![FNaturalStolian](CircleOfFifthModeFNaturalStolian.png) | ![FNaturalStolian](ChromaticCircleModeFNaturalStolian.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -70,16 +71,16 @@ Vb5
 | [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | E | E, F, Gb, Abb, Bbb, C, D, E | ![ENaturalZalian](ModeENaturalZalian.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | F | F, Gb, Abb, Bbb, C, D, E, F | ![FNaturalStolian](CircleOfFifthModeFNaturalStolian.png) |
-| [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | F# | F#, G, A, B#, C##, D##, E#, F# | ![FSharpBylian](CircleOfFifthModeFSharpBylian.png) |
-| [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | Gb | Gb, Abb, Bbb, C, D, E, F, Gb | ![GFlatBylian](CircleOfFifthModeGFlatBylian.png) |
-| [3749](https://ianring.com/musictheory/scales/3749) | [Zothian](ModeZothian.md) | G | G, A, B#, C##, D##, E#, F#, G | ![GNaturalZothian](CircleOfFifthModeGNaturalZothian.png) |
-| [1961](https://ianring.com/musictheory/scales/1961) | [Soptian](ModeSoptian.md) | A | A, B#, C##, D##, E#, F#, G, A | ![ANaturalSoptian](CircleOfFifthModeANaturalSoptian.png) |
-| [757](https://ianring.com/musictheory/scales/757) | [Ionyptian](ModeIonyptian.md) | C | C, D, E, F, Gb, Abb, Bbb, C | ![CNaturalIonyptian](CircleOfFifthModeCNaturalIonyptian.png) |
-| [1213](https://ianring.com/musictheory/scales/1213) | [Gyrian](ModeGyrian.md) | D | D, E, F, Gb, Abb, Bbb, C, D | ![DNaturalGyrian](CircleOfFifthModeDNaturalGyrian.png) |
-| [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | E | E, F, Gb, Abb, Bbb, C, D, E | ![ENaturalZalian](CircleOfFifthModeENaturalZalian.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | F | F, Gb, Abb, Bbb, C, D, E, F | ![FNaturalStolian](CircleOfFifthModeFNaturalStolian.png) | ![FNaturalStolian](ChromaticCircleModeFNaturalStolian.png) 
+| [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | F# | F#, G, A, B#, C##, D##, E#, F# | ![FSharpBylian](CircleOfFifthModeFSharpBylian.png) | ![FSharpBylian](ChromaticCircleModeFSharpBylian.png) 
+| [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | Gb | Gb, Abb, Bbb, C, D, E, F, Gb | ![GFlatBylian](CircleOfFifthModeGFlatBylian.png) | ![GFlatBylian](ChromaticCircleModeGFlatBylian.png) 
+| [3749](https://ianring.com/musictheory/scales/3749) | [Zothian](ModeZothian.md) | G | G, A, B#, C##, D##, E#, F#, G | ![GNaturalZothian](CircleOfFifthModeGNaturalZothian.png) | ![GNaturalZothian](ChromaticCircleModeGNaturalZothian.png) 
+| [1961](https://ianring.com/musictheory/scales/1961) | [Soptian](ModeSoptian.md) | A | A, B#, C##, D##, E#, F#, G, A | ![ANaturalSoptian](CircleOfFifthModeANaturalSoptian.png) | ![ANaturalSoptian](ChromaticCircleModeANaturalSoptian.png) 
+| [757](https://ianring.com/musictheory/scales/757) | [Ionyptian](ModeIonyptian.md) | C | C, D, E, F, Gb, Abb, Bbb, C | ![CNaturalIonyptian](CircleOfFifthModeCNaturalIonyptian.png) | ![CNaturalIonyptian](ChromaticCircleModeCNaturalIonyptian.png) 
+| [1213](https://ianring.com/musictheory/scales/1213) | [Gyrian](ModeGyrian.md) | D | D, E, F, Gb, Abb, Bbb, C, D | ![DNaturalGyrian](CircleOfFifthModeDNaturalGyrian.png) | ![DNaturalGyrian](ChromaticCircleModeDNaturalGyrian.png) 
+| [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | E | E, F, Gb, Abb, Bbb, C, D, E | ![ENaturalZalian](CircleOfFifthModeENaturalZalian.png) | ![ENaturalZalian](ChromaticCircleModeENaturalZalian.png) 
 
 ## Chords
 

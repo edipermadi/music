@@ -52,8 +52,9 @@ Ab
 
 ## Diagram
 
-![AFlatLyditonic](CircleOfFifthModeAFlatLyditonic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![AFlatLyditonic](CircleOfFifthModeAFlatLyditonic.png) | ![AFlatLyditonic](ChromaticCircleModeAFlatLyditonic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -68,16 +69,16 @@ Ab
 | [805](https://ianring.com/musictheory/scales/805) | [Rothitonic](ModeRothitonic.md) | Gb | Gb, Ab, B, D, Eb, Gb | ![GFlatRothitonic](ModeGFlatRothitonic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [1225](https://ianring.com/musictheory/scales/1225) | [Lyditonic](ModeLyditonic.md) | G# | G#, B, D, D#, F#, G# | ![GSharpLyditonic](CircleOfFifthModeGSharpLyditonic.png) |
-| [1225](https://ianring.com/musictheory/scales/1225) | [Lyditonic](ModeLyditonic.md) | Ab | Ab, B, D, Eb, Gb, Ab | ![AFlatLyditonic](CircleOfFifthModeAFlatLyditonic.png) |
-| [665](https://ianring.com/musictheory/scales/665) | [Mythitonic](ModeMythitonic.md) | B | B, D, D#, F#, G#, B | ![BNaturalMythitonic](CircleOfFifthModeBNaturalMythitonic.png) |
-| [595](https://ianring.com/musictheory/scales/595) | [Sogitonic](ModeSogitonic.md) | D | D, D#, F#, G#, B, D | ![DNaturalSogitonic](CircleOfFifthModeDNaturalSogitonic.png) |
-| [2345](https://ianring.com/musictheory/scales/2345) | [Gothitonic](ModeGothitonic.md) | D# | D#, F#, G#, B, D, D# | ![DSharpGothitonic](CircleOfFifthModeDSharpGothitonic.png) |
-| [2345](https://ianring.com/musictheory/scales/2345) | [Gothitonic](ModeGothitonic.md) | Eb | Eb, Gb, Ab, B, D, Eb | ![EFlatGothitonic](CircleOfFifthModeEFlatGothitonic.png) |
-| [805](https://ianring.com/musictheory/scales/805) | [Rothitonic](ModeRothitonic.md) | F# | F#, G#, B, D, D#, F# | ![FSharpRothitonic](CircleOfFifthModeFSharpRothitonic.png) |
-| [805](https://ianring.com/musictheory/scales/805) | [Rothitonic](ModeRothitonic.md) | Gb | Gb, Ab, B, D, Eb, Gb | ![GFlatRothitonic](CircleOfFifthModeGFlatRothitonic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [1225](https://ianring.com/musictheory/scales/1225) | [Lyditonic](ModeLyditonic.md) | G# | G#, B, D, D#, F#, G# | ![GSharpLyditonic](CircleOfFifthModeGSharpLyditonic.png) | ![GSharpLyditonic](ChromaticCircleModeGSharpLyditonic.png) 
+| [1225](https://ianring.com/musictheory/scales/1225) | [Lyditonic](ModeLyditonic.md) | Ab | Ab, B, D, Eb, Gb, Ab | ![AFlatLyditonic](CircleOfFifthModeAFlatLyditonic.png) | ![AFlatLyditonic](ChromaticCircleModeAFlatLyditonic.png) 
+| [665](https://ianring.com/musictheory/scales/665) | [Mythitonic](ModeMythitonic.md) | B | B, D, D#, F#, G#, B | ![BNaturalMythitonic](CircleOfFifthModeBNaturalMythitonic.png) | ![BNaturalMythitonic](ChromaticCircleModeBNaturalMythitonic.png) 
+| [595](https://ianring.com/musictheory/scales/595) | [Sogitonic](ModeSogitonic.md) | D | D, D#, F#, G#, B, D | ![DNaturalSogitonic](CircleOfFifthModeDNaturalSogitonic.png) | ![DNaturalSogitonic](ChromaticCircleModeDNaturalSogitonic.png) 
+| [2345](https://ianring.com/musictheory/scales/2345) | [Gothitonic](ModeGothitonic.md) | D# | D#, F#, G#, B, D, D# | ![DSharpGothitonic](CircleOfFifthModeDSharpGothitonic.png) | ![DSharpGothitonic](ChromaticCircleModeDSharpGothitonic.png) 
+| [2345](https://ianring.com/musictheory/scales/2345) | [Gothitonic](ModeGothitonic.md) | Eb | Eb, Gb, Ab, B, D, Eb | ![EFlatGothitonic](CircleOfFifthModeEFlatGothitonic.png) | ![EFlatGothitonic](ChromaticCircleModeEFlatGothitonic.png) 
+| [805](https://ianring.com/musictheory/scales/805) | [Rothitonic](ModeRothitonic.md) | F# | F#, G#, B, D, D#, F# | ![FSharpRothitonic](CircleOfFifthModeFSharpRothitonic.png) | ![FSharpRothitonic](ChromaticCircleModeFSharpRothitonic.png) 
+| [805](https://ianring.com/musictheory/scales/805) | [Rothitonic](ModeRothitonic.md) | Gb | Gb, Ab, B, D, Eb, Gb | ![GFlatRothitonic](CircleOfFifthModeGFlatRothitonic.png) | ![GFlatRothitonic](ChromaticCircleModeGFlatRothitonic.png) 
 
 ## Chords
 

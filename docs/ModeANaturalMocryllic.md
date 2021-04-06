@@ -55,8 +55,9 @@ i⁰, ii⁰b3, iii⁰, IV, IV, v⁰, v⁰, vi⁰, vii⁰, vii⁰
 
 ## Diagram
 
-![ANaturalMocryllic](CircleOfFifthModeANaturalMocryllic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![ANaturalMocryllic](CircleOfFifthModeANaturalMocryllic.png) | ![ANaturalMocryllic](ChromaticCircleModeANaturalMocryllic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -75,20 +76,20 @@ i⁰, ii⁰b3, iii⁰, IV, IV, v⁰, v⁰, vi⁰, vii⁰, vii⁰
 | [1723](https://ianring.com/musictheory/scales/1723) | [Poryllic](ModePoryllic.md) | Ab | Ab, A, B, C, Db, Eb, F, Gb, Ab | ![AFlatPoryllic](ModeAFlatPoryllic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [2909](https://ianring.com/musictheory/scales/2909) | [Mocryllic](ModeMocryllic.md) | A | A, B, C, C#, D#, F, F#, G#, A | ![ANaturalMocryllic](CircleOfFifthModeANaturalMocryllic.png) |
-| [1751](https://ianring.com/musictheory/scales/1751) | [Aeolyryllic](ModeAeolyryllic.md) | B | B, C, C#, D#, F, F#, G#, A, B | ![BNaturalAeolyryllic](CircleOfFifthModeBNaturalAeolyryllic.png) |
-| [2923](https://ianring.com/musictheory/scales/2923) | [Baryllic](ModeBaryllic.md) | C | C, C#, D#, F, F#, G#, A, B, C | ![CNaturalBaryllic](CircleOfFifthModeCNaturalBaryllic.png) |
-| [3509](https://ianring.com/musictheory/scales/3509) | [Stogyllic](ModeStogyllic.md) | C# | C#, D#, F, F#, G#, A, B, C, C# | ![CSharpStogyllic](CircleOfFifthModeCSharpStogyllic.png) |
-| [3509](https://ianring.com/musictheory/scales/3509) | [Stogyllic](ModeStogyllic.md) | Db | Db, Eb, F, Gb, Ab, A, B, C, Db | ![DFlatStogyllic](CircleOfFifthModeDFlatStogyllic.png) |
-| [1901](https://ianring.com/musictheory/scales/1901) | [Ionidyllic](ModeIonidyllic.md) | D# | D#, F, F#, G#, A, B, C, C#, D# | ![DSharpIonidyllic](CircleOfFifthModeDSharpIonidyllic.png) |
-| [1901](https://ianring.com/musictheory/scales/1901) | [Ionidyllic](ModeIonidyllic.md) | Eb | Eb, F, Gb, Ab, A, B, C, Db, Eb | ![EFlatIonidyllic](CircleOfFifthModeEFlatIonidyllic.png) |
-| [1499](https://ianring.com/musictheory/scales/1499) | [Stonyllic](ModeStonyllic.md) | F | F, F#, G#, A, B, C, C#, D#, F | ![FNaturalStonyllic](CircleOfFifthModeFNaturalStonyllic.png) |
-| [2797](https://ianring.com/musictheory/scales/2797) | [Stalyllic](ModeStalyllic.md) | F# | F#, G#, A, B, C, C#, D#, F, F# | ![FSharpStalyllic](CircleOfFifthModeFSharpStalyllic.png) |
-| [2797](https://ianring.com/musictheory/scales/2797) | [Stalyllic](ModeStalyllic.md) | Gb | Gb, Ab, A, B, C, Db, Eb, F, Gb | ![GFlatStalyllic](CircleOfFifthModeGFlatStalyllic.png) |
-| [1723](https://ianring.com/musictheory/scales/1723) | [Poryllic](ModePoryllic.md) | G# | G#, A, B, C, C#, D#, F, F#, G# | ![GSharpPoryllic](CircleOfFifthModeGSharpPoryllic.png) |
-| [1723](https://ianring.com/musictheory/scales/1723) | [Poryllic](ModePoryllic.md) | Ab | Ab, A, B, C, Db, Eb, F, Gb, Ab | ![AFlatPoryllic](CircleOfFifthModeAFlatPoryllic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [2909](https://ianring.com/musictheory/scales/2909) | [Mocryllic](ModeMocryllic.md) | A | A, B, C, C#, D#, F, F#, G#, A | ![ANaturalMocryllic](CircleOfFifthModeANaturalMocryllic.png) | ![ANaturalMocryllic](ChromaticCircleModeANaturalMocryllic.png) 
+| [1751](https://ianring.com/musictheory/scales/1751) | [Aeolyryllic](ModeAeolyryllic.md) | B | B, C, C#, D#, F, F#, G#, A, B | ![BNaturalAeolyryllic](CircleOfFifthModeBNaturalAeolyryllic.png) | ![BNaturalAeolyryllic](ChromaticCircleModeBNaturalAeolyryllic.png) 
+| [2923](https://ianring.com/musictheory/scales/2923) | [Baryllic](ModeBaryllic.md) | C | C, C#, D#, F, F#, G#, A, B, C | ![CNaturalBaryllic](CircleOfFifthModeCNaturalBaryllic.png) | ![CNaturalBaryllic](ChromaticCircleModeCNaturalBaryllic.png) 
+| [3509](https://ianring.com/musictheory/scales/3509) | [Stogyllic](ModeStogyllic.md) | C# | C#, D#, F, F#, G#, A, B, C, C# | ![CSharpStogyllic](CircleOfFifthModeCSharpStogyllic.png) | ![CSharpStogyllic](ChromaticCircleModeCSharpStogyllic.png) 
+| [3509](https://ianring.com/musictheory/scales/3509) | [Stogyllic](ModeStogyllic.md) | Db | Db, Eb, F, Gb, Ab, A, B, C, Db | ![DFlatStogyllic](CircleOfFifthModeDFlatStogyllic.png) | ![DFlatStogyllic](ChromaticCircleModeDFlatStogyllic.png) 
+| [1901](https://ianring.com/musictheory/scales/1901) | [Ionidyllic](ModeIonidyllic.md) | D# | D#, F, F#, G#, A, B, C, C#, D# | ![DSharpIonidyllic](CircleOfFifthModeDSharpIonidyllic.png) | ![DSharpIonidyllic](ChromaticCircleModeDSharpIonidyllic.png) 
+| [1901](https://ianring.com/musictheory/scales/1901) | [Ionidyllic](ModeIonidyllic.md) | Eb | Eb, F, Gb, Ab, A, B, C, Db, Eb | ![EFlatIonidyllic](CircleOfFifthModeEFlatIonidyllic.png) | ![EFlatIonidyllic](ChromaticCircleModeEFlatIonidyllic.png) 
+| [1499](https://ianring.com/musictheory/scales/1499) | [Stonyllic](ModeStonyllic.md) | F | F, F#, G#, A, B, C, C#, D#, F | ![FNaturalStonyllic](CircleOfFifthModeFNaturalStonyllic.png) | ![FNaturalStonyllic](ChromaticCircleModeFNaturalStonyllic.png) 
+| [2797](https://ianring.com/musictheory/scales/2797) | [Stalyllic](ModeStalyllic.md) | F# | F#, G#, A, B, C, C#, D#, F, F# | ![FSharpStalyllic](CircleOfFifthModeFSharpStalyllic.png) | ![FSharpStalyllic](ChromaticCircleModeFSharpStalyllic.png) 
+| [2797](https://ianring.com/musictheory/scales/2797) | [Stalyllic](ModeStalyllic.md) | Gb | Gb, Ab, A, B, C, Db, Eb, F, Gb | ![GFlatStalyllic](CircleOfFifthModeGFlatStalyllic.png) | ![GFlatStalyllic](ChromaticCircleModeGFlatStalyllic.png) 
+| [1723](https://ianring.com/musictheory/scales/1723) | [Poryllic](ModePoryllic.md) | G# | G#, A, B, C, C#, D#, F, F#, G# | ![GSharpPoryllic](CircleOfFifthModeGSharpPoryllic.png) | ![GSharpPoryllic](ChromaticCircleModeGSharpPoryllic.png) 
+| [1723](https://ianring.com/musictheory/scales/1723) | [Poryllic](ModePoryllic.md) | Ab | Ab, A, B, C, Db, Eb, F, Gb, Ab | ![AFlatPoryllic](CircleOfFifthModeAFlatPoryllic.png) | ![AFlatPoryllic](ChromaticCircleModeAFlatPoryllic.png) 
 
 ## Chords
 

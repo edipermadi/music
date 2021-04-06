@@ -52,8 +52,9 @@ II⁺
 
 ## Diagram
 
-![GSharpAeolyritonic](CircleOfFifthModeGSharpAeolyritonic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![GSharpAeolyritonic](CircleOfFifthModeGSharpAeolyritonic.png) | ![GSharpAeolyritonic](ChromaticCircleModeGSharpAeolyritonic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -67,15 +68,15 @@ II⁺
 | [3209](https://ianring.com/musictheory/scales/3209) | [Aeraphitonic](ModeAeraphitonic.md) | F | F, G#, C, D#, E, F | ![FNaturalAeraphitonic](ModeFNaturalAeraphitonic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [913](https://ianring.com/musictheory/scales/913) | [Aeolyritonic](ModeAeolyritonic.md) | G# | G#, C, D#, E, F, G# | ![GSharpAeolyritonic](CircleOfFifthModeGSharpAeolyritonic.png) |
-| [913](https://ianring.com/musictheory/scales/913) | [Aeolyritonic](ModeAeolyritonic.md) | Ab | Ab, C, Eb, E, F, Ab | ![AFlatAeolyritonic](CircleOfFifthModeAFlatAeolyritonic.png) |
-| [313](https://ianring.com/musictheory/scales/313) | [Goritonic](ModeGoritonic.md) | C | C, D#, E, F, G#, C | ![CNaturalGoritonic](CircleOfFifthModeCNaturalGoritonic.png) |
-| [551](https://ianring.com/musictheory/scales/551) | [Aeoloditonic](ModeAeoloditonic.md) | D# | D#, E, F, G#, C, D# | ![DSharpAeoloditonic](CircleOfFifthModeDSharpAeoloditonic.png) |
-| [551](https://ianring.com/musictheory/scales/551) | [Aeoloditonic](ModeAeoloditonic.md) | Eb | Eb, E, F, Ab, C, Eb | ![EFlatAeoloditonic](CircleOfFifthModeEFlatAeoloditonic.png) |
-| [2323](https://ianring.com/musictheory/scales/2323) | [Doptitonic](ModeDoptitonic.md) | E | E, F, G#, C, D#, E | ![ENaturalDoptitonic](CircleOfFifthModeENaturalDoptitonic.png) |
-| [3209](https://ianring.com/musictheory/scales/3209) | [Aeraphitonic](ModeAeraphitonic.md) | F | F, G#, C, D#, E, F | ![FNaturalAeraphitonic](CircleOfFifthModeFNaturalAeraphitonic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [913](https://ianring.com/musictheory/scales/913) | [Aeolyritonic](ModeAeolyritonic.md) | G# | G#, C, D#, E, F, G# | ![GSharpAeolyritonic](CircleOfFifthModeGSharpAeolyritonic.png) | ![GSharpAeolyritonic](ChromaticCircleModeGSharpAeolyritonic.png) 
+| [913](https://ianring.com/musictheory/scales/913) | [Aeolyritonic](ModeAeolyritonic.md) | Ab | Ab, C, Eb, E, F, Ab | ![AFlatAeolyritonic](CircleOfFifthModeAFlatAeolyritonic.png) | ![AFlatAeolyritonic](ChromaticCircleModeAFlatAeolyritonic.png) 
+| [313](https://ianring.com/musictheory/scales/313) | [Goritonic](ModeGoritonic.md) | C | C, D#, E, F, G#, C | ![CNaturalGoritonic](CircleOfFifthModeCNaturalGoritonic.png) | ![CNaturalGoritonic](ChromaticCircleModeCNaturalGoritonic.png) 
+| [551](https://ianring.com/musictheory/scales/551) | [Aeoloditonic](ModeAeoloditonic.md) | D# | D#, E, F, G#, C, D# | ![DSharpAeoloditonic](CircleOfFifthModeDSharpAeoloditonic.png) | ![DSharpAeoloditonic](ChromaticCircleModeDSharpAeoloditonic.png) 
+| [551](https://ianring.com/musictheory/scales/551) | [Aeoloditonic](ModeAeoloditonic.md) | Eb | Eb, E, F, Ab, C, Eb | ![EFlatAeoloditonic](CircleOfFifthModeEFlatAeoloditonic.png) | ![EFlatAeoloditonic](ChromaticCircleModeEFlatAeoloditonic.png) 
+| [2323](https://ianring.com/musictheory/scales/2323) | [Doptitonic](ModeDoptitonic.md) | E | E, F, G#, C, D#, E | ![ENaturalDoptitonic](CircleOfFifthModeENaturalDoptitonic.png) | ![ENaturalDoptitonic](ChromaticCircleModeENaturalDoptitonic.png) 
+| [3209](https://ianring.com/musictheory/scales/3209) | [Aeraphitonic](ModeAeraphitonic.md) | F | F, G#, C, D#, E, F | ![FNaturalAeraphitonic](CircleOfFifthModeFNaturalAeraphitonic.png) | ![FNaturalAeraphitonic](ChromaticCircleModeFNaturalAeraphitonic.png) 
 
 ## Chords
 

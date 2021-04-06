@@ -52,8 +52,9 @@ Gb
 
 ## Diagram
 
-![GFlatIonothitonic](CircleOfFifthModeGFlatIonothitonic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![GFlatIonothitonic](CircleOfFifthModeGFlatIonothitonic.png) | ![GFlatIonothitonic](ChromaticCircleModeGFlatIonothitonic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -67,15 +68,15 @@ Gb
 | [279](https://ianring.com/musictheory/scales/279) | [Poditonic](ModePoditonic.md) | F | F, F#, G, A, C#, F | ![FNaturalPoditonic](ModeFNaturalPoditonic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [2187](https://ianring.com/musictheory/scales/2187) | [Ionothitonic](ModeIonothitonic.md) | F# | F#, G, A, C#, F, F# | ![FSharpIonothitonic](CircleOfFifthModeFSharpIonothitonic.png) |
-| [2187](https://ianring.com/musictheory/scales/2187) | [Ionothitonic](ModeIonothitonic.md) | Gb | Gb, G, A, Db, F, Gb | ![GFlatIonothitonic](CircleOfFifthModeGFlatIonothitonic.png) |
-| [3141](https://ianring.com/musictheory/scales/3141) | [Kanitonic](ModeKanitonic.md) | G | G, A, C#, F, F#, G | ![GNaturalKanitonic](CircleOfFifthModeGNaturalKanitonic.png) |
-| [1809](https://ianring.com/musictheory/scales/1809) | [Ranitonic](ModeRanitonic.md) | A | A, C#, F, F#, G, A | ![ANaturalRanitonic](CircleOfFifthModeANaturalRanitonic.png) |
-| [369](https://ianring.com/musictheory/scales/369) | [Laditonic](ModeLaditonic.md) | C# | C#, F, F#, G, A, C# | ![CSharpLaditonic](CircleOfFifthModeCSharpLaditonic.png) |
-| [369](https://ianring.com/musictheory/scales/369) | [Laditonic](ModeLaditonic.md) | Db | Db, F, Gb, G, A, Db | ![DFlatLaditonic](CircleOfFifthModeDFlatLaditonic.png) |
-| [279](https://ianring.com/musictheory/scales/279) | [Poditonic](ModePoditonic.md) | F | F, F#, G, A, C#, F | ![FNaturalPoditonic](CircleOfFifthModeFNaturalPoditonic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [2187](https://ianring.com/musictheory/scales/2187) | [Ionothitonic](ModeIonothitonic.md) | F# | F#, G, A, C#, F, F# | ![FSharpIonothitonic](CircleOfFifthModeFSharpIonothitonic.png) | ![FSharpIonothitonic](ChromaticCircleModeFSharpIonothitonic.png) 
+| [2187](https://ianring.com/musictheory/scales/2187) | [Ionothitonic](ModeIonothitonic.md) | Gb | Gb, G, A, Db, F, Gb | ![GFlatIonothitonic](CircleOfFifthModeGFlatIonothitonic.png) | ![GFlatIonothitonic](ChromaticCircleModeGFlatIonothitonic.png) 
+| [3141](https://ianring.com/musictheory/scales/3141) | [Kanitonic](ModeKanitonic.md) | G | G, A, C#, F, F#, G | ![GNaturalKanitonic](CircleOfFifthModeGNaturalKanitonic.png) | ![GNaturalKanitonic](ChromaticCircleModeGNaturalKanitonic.png) 
+| [1809](https://ianring.com/musictheory/scales/1809) | [Ranitonic](ModeRanitonic.md) | A | A, C#, F, F#, G, A | ![ANaturalRanitonic](CircleOfFifthModeANaturalRanitonic.png) | ![ANaturalRanitonic](ChromaticCircleModeANaturalRanitonic.png) 
+| [369](https://ianring.com/musictheory/scales/369) | [Laditonic](ModeLaditonic.md) | C# | C#, F, F#, G, A, C# | ![CSharpLaditonic](CircleOfFifthModeCSharpLaditonic.png) | ![CSharpLaditonic](ChromaticCircleModeCSharpLaditonic.png) 
+| [369](https://ianring.com/musictheory/scales/369) | [Laditonic](ModeLaditonic.md) | Db | Db, F, Gb, G, A, Db | ![DFlatLaditonic](CircleOfFifthModeDFlatLaditonic.png) | ![DFlatLaditonic](ChromaticCircleModeDFlatLaditonic.png) 
+| [279](https://ianring.com/musictheory/scales/279) | [Poditonic](ModePoditonic.md) | F | F, F#, G, A, C#, F | ![FNaturalPoditonic](CircleOfFifthModeFNaturalPoditonic.png) | ![FNaturalPoditonic](ChromaticCircleModeFNaturalPoditonic.png) 
 
 ## Chords
 

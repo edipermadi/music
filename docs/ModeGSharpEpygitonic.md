@@ -52,8 +52,9 @@ II⁺
 
 ## Diagram
 
-![GSharpEpygitonic](CircleOfFifthModeGSharpEpygitonic.png)
-
+| Circle of Fifth | Chromatic Circle |
+|-----------------|------------------|
+| ![GSharpEpygitonic](CircleOfFifthModeGSharpEpygitonic.png) | ![GSharpEpygitonic](ChromaticCircleModeGSharpEpygitonic.png) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -68,16 +69,16 @@ II⁺
 | [1221](https://ianring.com/musictheory/scales/1221) | [Epyritonic](ModeEpyritonic.md) | Gb | Gb, Ab, C, Db, E, Gb | ![GFlatEpyritonic](ModeGFlatEpyritonic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [1329](https://ianring.com/musictheory/scales/1329) | [Epygitonic](ModeEpygitonic.md) | G# | G#, C, C#, E, F#, G# | ![GSharpEpygitonic](CircleOfFifthModeGSharpEpygitonic.png) |
-| [1329](https://ianring.com/musictheory/scales/1329) | [Epygitonic](ModeEpygitonic.md) | Ab | Ab, C, Db, E, Gb, Ab | ![AFlatEpygitonic](CircleOfFifthModeAFlatEpygitonic.png) |
-| [339](https://ianring.com/musictheory/scales/339) | [Zaptitonic](ModeZaptitonic.md) | C | C, C#, E, F#, G#, C | ![CNaturalZaptitonic](CircleOfFifthModeCNaturalZaptitonic.png) |
-| [2217](https://ianring.com/musictheory/scales/2217) | [Kagitonic](ModeKagitonic.md) | C# | C#, E, F#, G#, C, C# | ![CSharpKagitonic](CircleOfFifthModeCSharpKagitonic.png) |
-| [2217](https://ianring.com/musictheory/scales/2217) | [Kagitonic](ModeKagitonic.md) | Db | Db, E, Gb, Ab, C, Db | ![DFlatKagitonic](CircleOfFifthModeDFlatKagitonic.png) |
-| [789](https://ianring.com/musictheory/scales/789) | [Zogitonic](ModeZogitonic.md) | E | E, F#, G#, C, C#, E | ![ENaturalZogitonic](CircleOfFifthModeENaturalZogitonic.png) |
-| [1221](https://ianring.com/musictheory/scales/1221) | [Epyritonic](ModeEpyritonic.md) | F# | F#, G#, C, C#, E, F# | ![FSharpEpyritonic](CircleOfFifthModeFSharpEpyritonic.png) |
-| [1221](https://ianring.com/musictheory/scales/1221) | [Epyritonic](ModeEpyritonic.md) | Gb | Gb, Ab, C, Db, E, Gb | ![GFlatEpyritonic](CircleOfFifthModeGFlatEpyritonic.png) |
+| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|-------|-------|-----------------|------------------|
+| [1329](https://ianring.com/musictheory/scales/1329) | [Epygitonic](ModeEpygitonic.md) | G# | G#, C, C#, E, F#, G# | ![GSharpEpygitonic](CircleOfFifthModeGSharpEpygitonic.png) | ![GSharpEpygitonic](ChromaticCircleModeGSharpEpygitonic.png) 
+| [1329](https://ianring.com/musictheory/scales/1329) | [Epygitonic](ModeEpygitonic.md) | Ab | Ab, C, Db, E, Gb, Ab | ![AFlatEpygitonic](CircleOfFifthModeAFlatEpygitonic.png) | ![AFlatEpygitonic](ChromaticCircleModeAFlatEpygitonic.png) 
+| [339](https://ianring.com/musictheory/scales/339) | [Zaptitonic](ModeZaptitonic.md) | C | C, C#, E, F#, G#, C | ![CNaturalZaptitonic](CircleOfFifthModeCNaturalZaptitonic.png) | ![CNaturalZaptitonic](ChromaticCircleModeCNaturalZaptitonic.png) 
+| [2217](https://ianring.com/musictheory/scales/2217) | [Kagitonic](ModeKagitonic.md) | C# | C#, E, F#, G#, C, C# | ![CSharpKagitonic](CircleOfFifthModeCSharpKagitonic.png) | ![CSharpKagitonic](ChromaticCircleModeCSharpKagitonic.png) 
+| [2217](https://ianring.com/musictheory/scales/2217) | [Kagitonic](ModeKagitonic.md) | Db | Db, E, Gb, Ab, C, Db | ![DFlatKagitonic](CircleOfFifthModeDFlatKagitonic.png) | ![DFlatKagitonic](ChromaticCircleModeDFlatKagitonic.png) 
+| [789](https://ianring.com/musictheory/scales/789) | [Zogitonic](ModeZogitonic.md) | E | E, F#, G#, C, C#, E | ![ENaturalZogitonic](CircleOfFifthModeENaturalZogitonic.png) | ![ENaturalZogitonic](ChromaticCircleModeENaturalZogitonic.png) 
+| [1221](https://ianring.com/musictheory/scales/1221) | [Epyritonic](ModeEpyritonic.md) | F# | F#, G#, C, C#, E, F# | ![FSharpEpyritonic](CircleOfFifthModeFSharpEpyritonic.png) | ![FSharpEpyritonic](ChromaticCircleModeFSharpEpyritonic.png) 
+| [1221](https://ianring.com/musictheory/scales/1221) | [Epyritonic](ModeEpyritonic.md) | Gb | Gb, Ab, C, Db, E, Gb | ![GFlatEpyritonic](CircleOfFifthModeGFlatEpyritonic.png) | ![GFlatEpyritonic](ChromaticCircleModeGFlatEpyritonic.png) 
 
 ## Chords
 
