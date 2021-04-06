@@ -88,7 +88,7 @@ func (m Mode) Perfection() (int, int, []bool) {
 }
 
 // Transposition returns mode transposition
-func (m Mode)Transposition()[]int{
+func (m Mode) Transposition() []int {
 	return m.modeType.Transposition()
 }
 
@@ -97,7 +97,6 @@ func (m Mode) Scale() scale.Scale {
 	computedScale, _ := m.modeType.Scale()
 	return computedScale
 }
-
 
 // AllModes returns all modes
 func AllModes() Modes {

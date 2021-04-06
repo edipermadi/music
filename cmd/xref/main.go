@@ -416,7 +416,7 @@ node [shape = circle, fontname = Helvetica, margin = 0, style = filled]
 edge [style=invis]
 
 subgraph 1 {
-	E -- F -- F# -- G -- G# -- A -- A# -- B -- C -- C# -- D -- D# -- E
+	"E" -- "F" -- "F#" -- "G" -- "G#" -- "A" -- "A#" -- "B" -- "C" -- "C#" -- "D" -- "D#" -- "E"
 }
 
 %s
@@ -431,11 +431,11 @@ subgraph 1 {
 	var parts []string
 	for _, givenNote := range notes {
 		if givenMode.Tonic().Equal(givenNote) {
-			parts = append(parts, fmt.Sprintf("%s [fillcolor = cadetblue1];", givenNote.Name()))
+			parts = append(parts, fmt.Sprintf("\"%s\" [fillcolor = cadetblue1];", givenNote.Name()))
 		} else if givenMode.Notes().Contains(givenNote) {
-			parts = append(parts, fmt.Sprintf("%s [fillcolor = gray];", givenNote.Name()))
+			parts = append(parts, fmt.Sprintf("\"%s\" [fillcolor = gray];", givenNote.Name()))
 		} else {
-			parts = append(parts, fmt.Sprintf("%s [fillcolor = white];", givenNote.Name()))
+			parts = append(parts, fmt.Sprintf("\"%s\" [fillcolor = white];", givenNote.Name()))
 		}
 	}
 
@@ -726,7 +726,7 @@ func generateChordPage(logger *zap.Logger, wikiDir string, givenChord chord.Chor
 	return compareAndWrite(filename, buff.Bytes())
 }
 
-func generateChordChromaticCircle(logger *zap.Logger, wikiDir string, givenChord chord.Chord)error{
+func generateChordChromaticCircle(logger *zap.Logger, wikiDir string, givenChord chord.Chord) error {
 	diagramName := fmt.Sprintf("ChromaticCircleChord%s", givenChord)
 	fileName := fmt.Sprintf("%s/%s.dot", wikiDir, diagramName)
 
@@ -742,7 +742,7 @@ node [shape = circle, fontname = Helvetica, margin = 0, style = filled]
 edge [style=invis]
 
 subgraph 1 {
-	E -- F -- F# -- G -- G# -- A -- A# -- B -- C -- C# -- D -- D# -- E
+	"E" -- "F" -- "F#" -- "G" -- "G#" -- "A" -- "A#" -- "B" -- "C" -- "C#" -- "D" -- "D#" -- "E"
 }
 
 %s
@@ -757,11 +757,11 @@ subgraph 1 {
 	var parts []string
 	for _, givenNote := range notes {
 		if givenChord.Root().Equal(givenNote) {
-			parts = append(parts, fmt.Sprintf("%s [fillcolor = cadetblue1];", givenNote.Name()))
+			parts = append(parts, fmt.Sprintf("\"%s\" [fillcolor = cadetblue1];", givenNote.Name()))
 		} else if givenChord.Notes().Contains(givenNote) {
-			parts = append(parts, fmt.Sprintf("%s [fillcolor = gray];", givenNote.Name()))
+			parts = append(parts, fmt.Sprintf("\"%s\" [fillcolor = gray];", givenNote.Name()))
 		} else {
-			parts = append(parts, fmt.Sprintf("%s [fillcolor = white];", givenNote.Name()))
+			parts = append(parts, fmt.Sprintf("\"%s\" [fillcolor = white];", givenNote.Name()))
 		}
 	}
 
