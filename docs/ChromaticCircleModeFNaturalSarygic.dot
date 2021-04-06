@@ -8,19 +8,19 @@ node [shape = circle, fontname = Helvetica, margin = 0, style = filled]
 edge [style=invis]
 
 subgraph 1 {
-	E -- F -- F# -- G -- G# -- A -- A# -- B -- C -- C# -- D -- D# -- E
+	"E" -- "F" -- "F#" -- "G" -- "G#" -- "A" -- "A#" -- "B" -- "C" -- "C#" -- "D" -- "D#" -- "E"
 }
 
-C [fillcolor = gray];
-C# [fillcolor = white];
-D [fillcolor = white];
-D# [fillcolor = gray];
-E [fillcolor = white];
-F [fillcolor = cadetblue1];
-F# [fillcolor = gray];
-G [fillcolor = gray];
-G# [fillcolor = gray];
-A [fillcolor = gray];
-A# [fillcolor = gray];
-B [fillcolor = gray];
+"C" [fillcolor = gray];
+"C#" [fillcolor = white];
+"D" [fillcolor = white];
+"D#" [fillcolor = gray];
+"E" [fillcolor = white];
+"F" [fillcolor = cadetblue1];
+"F#" [fillcolor = gray];
+"G" [fillcolor = gray];
+"G#" [fillcolor = gray];
+"A" [fillcolor = gray];
+"A#" [fillcolor = gray];
+"B" [fillcolor = gray];
 }
