@@ -51,7 +51,7 @@ B
 
 ## Diagram
 
-![BNaturalMynic](CircleModeBNaturalMynic.png)
+![BNaturalMynic](CircleOfFifthModeBNaturalMynic.png)
 
 ## Relative Modes
 
@@ -65,10 +65,10 @@ B
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | B | B, D, E, G, B | ![BNaturalMynic](CircleModeBNaturalMynic.png) |
-| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | D | D, E, G, B, D | ![DNaturalRothic](CircleModeDNaturalRothic.png) |
-| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | E | E, G, B, D, E | ![ENaturalEporic](CircleModeENaturalEporic.png) |
-| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | G | G, B, D, E, G | ![GNaturalEpathic](CircleModeGNaturalEpathic.png) |
+| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | B | B, D, E, G, B | ![BNaturalMynic](CircleOfFifthModeBNaturalMynic.png) |
+| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | D | D, E, G, B, D | ![DNaturalRothic](CircleOfFifthModeDNaturalRothic.png) |
+| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | E | E, G, B, D, E | ![ENaturalEporic](CircleOfFifthModeENaturalEporic.png) |
+| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | G | G, B, D, E, G | ![GNaturalEpathic](CircleOfFifthModeGNaturalEpathic.png) |
 
 ## Chords
 

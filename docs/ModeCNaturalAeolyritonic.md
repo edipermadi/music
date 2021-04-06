@@ -52,7 +52,7 @@ II⁺
 
 ## Diagram
 
-![CNaturalAeolyritonic](CircleModeCNaturalAeolyritonic.png)
+![CNaturalAeolyritonic](CircleOfFifthModeCNaturalAeolyritonic.png)
 
 ## Relative Modes
 
@@ -62,16 +62,18 @@ II⁺
 | [313](https://ianring.com/musictheory/scales/313) | [Goritonic](ModeGoritonic.md) | E | E, G, G#, A, C, E | ![ENaturalGoritonic](ModeENaturalGoritonic.png) |
 | [551](https://ianring.com/musictheory/scales/551) | [Aeoloditonic](ModeAeoloditonic.md) | G | G, G#, A, C, E, G | ![GNaturalAeoloditonic](ModeGNaturalAeoloditonic.png) |
 | [2323](https://ianring.com/musictheory/scales/2323) | [Doptitonic](ModeDoptitonic.md) | G# | G#, A, C, E, G, G# | ![GSharpDoptitonic](ModeGSharpDoptitonic.png) |
+| [2323](https://ianring.com/musictheory/scales/2323) | [Doptitonic](ModeDoptitonic.md) | Ab | Ab, A, C, E, G, Ab | ![AFlatDoptitonic](ModeAFlatDoptitonic.png) |
 | [3209](https://ianring.com/musictheory/scales/3209) | [Aeraphitonic](ModeAeraphitonic.md) | A | A, C, E, G, G#, A | ![ANaturalAeraphitonic](ModeANaturalAeraphitonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [913](https://ianring.com/musictheory/scales/913) | [Aeolyritonic](ModeAeolyritonic.md) | C | C, E, G, G#, A, C | ![CNaturalAeolyritonic](CircleModeCNaturalAeolyritonic.png) |
-| [313](https://ianring.com/musictheory/scales/313) | [Goritonic](ModeGoritonic.md) | E | E, G, G#, A, C, E | ![ENaturalGoritonic](CircleModeENaturalGoritonic.png) |
-| [551](https://ianring.com/musictheory/scales/551) | [Aeoloditonic](ModeAeoloditonic.md) | G | G, G#, A, C, E, G | ![GNaturalAeoloditonic](CircleModeGNaturalAeoloditonic.png) |
-| [2323](https://ianring.com/musictheory/scales/2323) | [Doptitonic](ModeDoptitonic.md) | G# | G#, A, C, E, G, G# | ![GSharpDoptitonic](CircleModeGSharpDoptitonic.png) |
-| [3209](https://ianring.com/musictheory/scales/3209) | [Aeraphitonic](ModeAeraphitonic.md) | A | A, C, E, G, G#, A | ![ANaturalAeraphitonic](CircleModeANaturalAeraphitonic.png) |
+| [913](https://ianring.com/musictheory/scales/913) | [Aeolyritonic](ModeAeolyritonic.md) | C | C, E, G, G#, A, C | ![CNaturalAeolyritonic](CircleOfFifthModeCNaturalAeolyritonic.png) |
+| [313](https://ianring.com/musictheory/scales/313) | [Goritonic](ModeGoritonic.md) | E | E, G, G#, A, C, E | ![ENaturalGoritonic](CircleOfFifthModeENaturalGoritonic.png) |
+| [551](https://ianring.com/musictheory/scales/551) | [Aeoloditonic](ModeAeoloditonic.md) | G | G, G#, A, C, E, G | ![GNaturalAeoloditonic](CircleOfFifthModeGNaturalAeoloditonic.png) |
+| [2323](https://ianring.com/musictheory/scales/2323) | [Doptitonic](ModeDoptitonic.md) | G# | G#, A, C, E, G, G# | ![GSharpDoptitonic](CircleOfFifthModeGSharpDoptitonic.png) |
+| [2323](https://ianring.com/musictheory/scales/2323) | [Doptitonic](ModeDoptitonic.md) | Ab | Ab, A, C, E, G, Ab | ![AFlatDoptitonic](CircleOfFifthModeAFlatDoptitonic.png) |
+| [3209](https://ianring.com/musictheory/scales/3209) | [Aeraphitonic](ModeAeraphitonic.md) | A | A, C, E, G, G#, A | ![ANaturalAeraphitonic](CircleOfFifthModeANaturalAeraphitonic.png) |
 
 ## Chords
 
@@ -110,7 +112,10 @@ II⁺
 |--------|------|------|-------|--------------|-------|
 | 273 | G# | [G#+](ChordGSharpAugmented.md) | G#, B#, D## | ![G#+](ChordGSharpAugmentedRootPosition.png) | [midi](ChordGSharpAugmentedRootPosition.mid) |
 | 273 | G# | [G#+7](ChordGSharpAugmentedAugmentedSeventh.md) | G#, B#, D##, F### | ![G#+7](ChordGSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordGSharpAugmentedAugmentedSeventhRootPosition.mid) |
+| 273 | G# | [Ab+](ChordAFlatAugmented.md) | Ab, C, E | ![Ab+](ChordAFlatAugmentedRootPosition.png) | [midi](ChordAFlatAugmentedRootPosition.mid) |
+| 273 | G# | [Ab+7](ChordAFlatAugmentedAugmentedSeventh.md) | Ab, C, E, G# | ![Ab+7](ChordAFlatAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordAFlatAugmentedAugmentedSeventhRootPosition.mid) |
 | 401 | G# | [G#+(M7)](ChordGSharpAugmentedMajorSeventh.md) | G#, B#, D##, F## | ![G#+(M7)](ChordGSharpAugmentedMajorSeventhRootPosition.png) | [midi](ChordGSharpAugmentedMajorSeventhRootPosition.mid) |
+| 401 | G# | [Ab+(M7)](ChordAFlatAugmentedMajorSeventh.md) | Ab, C, E, G | ![Ab+(M7)](ChordAFlatAugmentedMajorSeventhRootPosition.png) | [midi](ChordAFlatAugmentedMajorSeventhRootPosition.mid) |
 
 ### A
 

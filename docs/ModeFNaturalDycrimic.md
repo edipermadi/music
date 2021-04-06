@@ -53,7 +53,7 @@ i⁰
 
 ## Diagram
 
-![FNaturalDycrimic](CircleModeFNaturalDycrimic.png)
+![FNaturalDycrimic](CircleOfFifthModeFNaturalDycrimic.png)
 
 ## Relative Modes
 
@@ -61,16 +61,22 @@ i⁰
 |--------|------|-------|-------|--------------|
 | [605](https://ianring.com/musictheory/scales/605) | [Dycrimic](ModeDycrimic.md) | F | F, G, Ab, Bbb, Cb, D, F | ![FNaturalDycrimic](ModeFNaturalDycrimic.png) |
 | [1175](https://ianring.com/musictheory/scales/1175) | [Epycrimic](ModeEpycrimic.md) | G | G, Ab, Bbb, Cb, D, E#, G | ![GNaturalEpycrimic](ModeGNaturalEpycrimic.png) |
+| [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | G# | G#, A, B, C##, D###, E###, G# | ![GSharpGocrimic](ModeGSharpGocrimic.png) |
 | [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | Ab | Ab, Bbb, Cb, D, E#, F##, Ab | ![AFlatGocrimic](ModeAFlatGocrimic.png) |
+| [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | A | A, B, C##, D###, E###, F###, A | ![ANaturalKatolimic](ModeANaturalKatolimic.png) |
+| [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | B | B, C##, D###, E###, F###, G##, B | ![BNaturalThagimic](ModeBNaturalThagimic.png) |
 | [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | D | D, E#, F##, G#, A, B, D | ![DNaturalKolimic](ModeDNaturalKolimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [605](https://ianring.com/musictheory/scales/605) | [Dycrimic](ModeDycrimic.md) | F | F, G, Ab, Bbb, Cb, D, F | ![FNaturalDycrimic](CircleModeFNaturalDycrimic.png) |
-| [1175](https://ianring.com/musictheory/scales/1175) | [Epycrimic](ModeEpycrimic.md) | G | G, Ab, Bbb, Cb, D, E#, G | ![GNaturalEpycrimic](CircleModeGNaturalEpycrimic.png) |
-| [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | Ab | Ab, Bbb, Cb, D, E#, F##, Ab | ![AFlatGocrimic](CircleModeAFlatGocrimic.png) |
-| [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | D | D, E#, F##, G#, A, B, D | ![DNaturalKolimic](CircleModeDNaturalKolimic.png) |
+| [605](https://ianring.com/musictheory/scales/605) | [Dycrimic](ModeDycrimic.md) | F | F, G, Ab, Bbb, Cb, D, F | ![FNaturalDycrimic](CircleOfFifthModeFNaturalDycrimic.png) |
+| [1175](https://ianring.com/musictheory/scales/1175) | [Epycrimic](ModeEpycrimic.md) | G | G, Ab, Bbb, Cb, D, E#, G | ![GNaturalEpycrimic](CircleOfFifthModeGNaturalEpycrimic.png) |
+| [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | G# | G#, A, B, C##, D###, E###, G# | ![GSharpGocrimic](CircleOfFifthModeGSharpGocrimic.png) |
+| [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | Ab | Ab, Bbb, Cb, D, E#, F##, Ab | ![AFlatGocrimic](CircleOfFifthModeAFlatGocrimic.png) |
+| [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | A | A, B, C##, D###, E###, F###, A | ![ANaturalKatolimic](CircleOfFifthModeANaturalKatolimic.png) |
+| [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | B | B, C##, D###, E###, F###, G##, B | ![BNaturalThagimic](CircleOfFifthModeBNaturalThagimic.png) |
+| [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | D | D, E#, F##, G#, A, B, D | ![DNaturalKolimic](CircleOfFifthModeDNaturalKolimic.png) |
 
 ## Chords
 
@@ -106,20 +112,35 @@ i⁰
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 772 | Ab | [G#loc](ChordGSharpLocrian.md) | G#, A, D | ![G#loc](ChordGSharpLocrianRootPosition.png) | [midi](ChordGSharpLocrianRootPosition.mid) |
 | 772 | Ab | [Abloc](ChordAFlatLocrian.md) | Ab, Bbb, Ebb | ![Abloc](ChordAFlatLocrianRootPosition.png) | [midi](ChordAFlatLocrianRootPosition.mid) |
+| 2308 | Ab | [G#o](ChordGSharpDiminished.md) | G#, B, D | ![G#o](ChordGSharpDiminishedRootPosition.png) | [midi](ChordGSharpDiminishedRootPosition.mid) |
 | 2308 | Ab | [Abo](ChordAFlatDiminished.md) | Ab, Cb, Ebb | ![Abo](ChordAFlatDiminishedRootPosition.png) | [midi](ChordAFlatDiminishedRootPosition.mid) |
+| 2340 | Ab | [G#o7](ChordGSharpFullDiminishedSeventh.md) | G#, B, D, F | ![G#o7](ChordGSharpFullDiminishedSeventhRootPosition.png) | [midi](ChordGSharpFullDiminishedSeventhRootPosition.mid) |
 | 2340 | Ab | [Abo7](ChordAFlatFullDiminishedSeventh.md) | Ab, Cb, Ebb, Gbb | ![Abo7](ChordAFlatFullDiminishedSeventhRootPosition.png) | [midi](ChordAFlatFullDiminishedSeventhRootPosition.mid) |
+| 2436 | Ab | [G#oM7](ChordGSharpDiminishedMajorSeventh.md) | G#, B, D, F## | ![G#oM7](ChordGSharpDiminishedMajorSeventhRootPosition.png) | [midi](ChordGSharpDiminishedMajorSeventhRootPosition.mid) |
 | 2436 | Ab | [AboM7](ChordAFlatDiminishedMajorSeventh.md) | Ab, Cb, Ebb, G | ![AboM7](ChordAFlatDiminishedMajorSeventhRootPosition.png) | [midi](ChordAFlatDiminishedMajorSeventhRootPosition.mid) |
 
 ### Bbb
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 2564 | Bbb | [Asus2bb5](ChordANaturalSuspendedSecondDoubleFlatFifth.md) | A, B, D | ![Asus2bb5](ChordANaturalSuspendedSecondDoubleFlatFifthRootPosition.png) | [midi](ChordANaturalSuspendedSecondDoubleFlatFifthRootPosition.mid) |
+| 2592 | Bbb | [Asus2#5](ChordANaturalSuspendedSecondSharpFifth.md) | A, B, E# | ![Asus2#5](ChordANaturalSuspendedSecondSharpFifthRootPosition.png) | [midi](ChordANaturalSuspendedSecondSharpFifthRootPosition.mid) |
+| 548 | Bbb | [Asus4#5](ChordANaturalSuspendedFourthSharpFifth.md) | A, D, E# | ![Asus4#5](ChordANaturalSuspendedFourthSharpFifthRootPosition.png) | [midi](ChordANaturalSuspendedFourthSharpFifthRootPosition.mid) |
+| 644 | Bbb | [AQ](ChordANaturalQuartal.md) | A, D, G | ![AQ](ChordANaturalQuartalRootPosition.png) | [midi](ChordANaturalQuartalRootPosition.mid) |
+| 772 | Bbb | [AQ+](ChordANaturalQuartalAugmented.md) | A, D, G# | ![AQ+](ChordANaturalQuartalAugmentedRootPosition.png) | [midi](ChordANaturalQuartalAugmentedRootPosition.mid) |
+| 804 | Bbb | [AM7(sus4)#5](ChordANaturalMajorSeventhSuspendedFourthSharpFifth.md) | A, D, E#, G# | ![AM7(sus4)#5](ChordANaturalMajorSeventhSuspendedFourthSharpFifthRootPosition.png) | [midi](ChordANaturalMajorSeventhSuspendedFourthSharpFifthRootPosition.mid) |
 
 ### Cb
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 2084 | Cb | [Bo](ChordBNaturalDiminished.md) | B, D, F | ![Bo](ChordBNaturalDiminishedRootPosition.png) | [midi](ChordBNaturalDiminishedRootPosition.mid) |
+| 2180 | Cb | [Bm#5](ChordBNaturalMinorSharpFifth.md) | B, D, G | ![Bm#5](ChordBNaturalMinorSharpFifthRootPosition.png) | [midi](ChordBNaturalMinorSharpFifthRootPosition.mid) |
+| 2340 | Cb | [Bo7](ChordBNaturalFullDiminishedSeventh.md) | B, D, F, Ab | ![Bo7](ChordBNaturalFullDiminishedSeventhRootPosition.png) | [midi](ChordBNaturalFullDiminishedSeventhRootPosition.mid) |
+| 2596 | Cb | [Bø7](ChordBNaturalHalfDiminishedSeventh.md) | B, D, F, A | ![Bø7](ChordBNaturalHalfDiminishedSeventhRootPosition.png) | [midi](ChordBNaturalHalfDiminishedSeventhRootPosition.mid) |
+| 2692 | Cb | [Bm7#5](ChordBNaturalMinorSeventhSharpFifth.md) | B, D, F##, A | ![Bm7#5](ChordBNaturalMinorSeventhSharpFifthRootPosition.png) | [midi](ChordBNaturalMinorSeventhSharpFifthRootPosition.mid) |
 
 ### D
 

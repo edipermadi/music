@@ -52,7 +52,7 @@ B
 
 ## Diagram
 
-![BNaturalDogitonic](CircleModeBNaturalDogitonic.png)
+![BNaturalDogitonic](CircleOfFifthModeBNaturalDogitonic.png)
 
 ## Relative Modes
 
@@ -63,15 +63,17 @@ B
 | [1177](https://ianring.com/musictheory/scales/1177) | [Garitonic](ModeGaritonic.md) | E | E, G, G#, B, D, E | ![ENaturalGaritonic](ModeENaturalGaritonic.png) |
 | [659](https://ianring.com/musictheory/scales/659) | [Soptitonic](ModeSoptitonic.md) | G | G, G#, B, D, E, G | ![GNaturalSoptitonic](ModeGNaturalSoptitonic.png) |
 | [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | G# | G#, B, D, E, G, G# | ![GSharpThoditonic](ModeGSharpThoditonic.png) |
+| [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | Ab | Ab, B, D, E, G, Ab | ![AFlatThoditonic](ModeAFlatThoditonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [809](https://ianring.com/musictheory/scales/809) | [Dogitonic](ModeDogitonic.md) | B | B, D, E, G, G#, B | ![BNaturalDogitonic](CircleModeBNaturalDogitonic.png) |
-| [613](https://ianring.com/musictheory/scales/613) | [Phralitonic](ModePhralitonic.md) | D | D, E, G, G#, B, D | ![DNaturalPhralitonic](CircleModeDNaturalPhralitonic.png) |
-| [1177](https://ianring.com/musictheory/scales/1177) | [Garitonic](ModeGaritonic.md) | E | E, G, G#, B, D, E | ![ENaturalGaritonic](CircleModeENaturalGaritonic.png) |
-| [659](https://ianring.com/musictheory/scales/659) | [Soptitonic](ModeSoptitonic.md) | G | G, G#, B, D, E, G | ![GNaturalSoptitonic](CircleModeGNaturalSoptitonic.png) |
-| [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | G# | G#, B, D, E, G, G# | ![GSharpThoditonic](CircleModeGSharpThoditonic.png) |
+| [809](https://ianring.com/musictheory/scales/809) | [Dogitonic](ModeDogitonic.md) | B | B, D, E, G, G#, B | ![BNaturalDogitonic](CircleOfFifthModeBNaturalDogitonic.png) |
+| [613](https://ianring.com/musictheory/scales/613) | [Phralitonic](ModePhralitonic.md) | D | D, E, G, G#, B, D | ![DNaturalPhralitonic](CircleOfFifthModeDNaturalPhralitonic.png) |
+| [1177](https://ianring.com/musictheory/scales/1177) | [Garitonic](ModeGaritonic.md) | E | E, G, G#, B, D, E | ![ENaturalGaritonic](CircleOfFifthModeENaturalGaritonic.png) |
+| [659](https://ianring.com/musictheory/scales/659) | [Soptitonic](ModeSoptitonic.md) | G | G, G#, B, D, E, G | ![GNaturalSoptitonic](CircleOfFifthModeGNaturalSoptitonic.png) |
+| [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | G# | G#, B, D, E, G, G# | ![GSharpThoditonic](CircleOfFifthModeGSharpThoditonic.png) |
+| [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | Ab | Ab, B, D, E, G, Ab | ![AFlatThoditonic](CircleOfFifthModeAFlatThoditonic.png) |
 
 ## Chords
 
@@ -125,6 +127,9 @@ B
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 2308 | G# | [G#o](ChordGSharpDiminished.md) | G#, B, D | ![G#o](ChordGSharpDiminishedRootPosition.png) | [midi](ChordGSharpDiminishedRootPosition.mid) |
+| 2308 | G# | [Abo](ChordAFlatDiminished.md) | Ab, Cb, Ebb | ![Abo](ChordAFlatDiminishedRootPosition.png) | [midi](ChordAFlatDiminishedRootPosition.mid) |
 | 2320 | G# | [G#m#5](ChordGSharpMinorSharpFifth.md) | G#, B, E | ![G#m#5](ChordGSharpMinorSharpFifthRootPosition.png) | [midi](ChordGSharpMinorSharpFifthRootPosition.mid) |
+| 2320 | G# | [Abm#5](ChordAFlatMinorSharpFifth.md) | Ab, Cb, Fb | ![Abm#5](ChordAFlatMinorSharpFifthRootPosition.png) | [midi](ChordAFlatMinorSharpFifthRootPosition.mid) |
 | 2436 | G# | [G#oM7](ChordGSharpDiminishedMajorSeventh.md) | G#, B, D, F## | ![G#oM7](ChordGSharpDiminishedMajorSeventhRootPosition.png) | [midi](ChordGSharpDiminishedMajorSeventhRootPosition.mid) |
+| 2436 | G# | [AboM7](ChordAFlatDiminishedMajorSeventh.md) | Ab, Cb, Ebb, G | ![AboM7](ChordAFlatDiminishedMajorSeventhRootPosition.png) | [midi](ChordAFlatDiminishedMajorSeventhRootPosition.mid) |
 

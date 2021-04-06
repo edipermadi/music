@@ -53,7 +53,7 @@ i, ii⁰
 
 ## Diagram
 
-![ANaturalKoptimic](CircleModeANaturalKoptimic.png)
+![ANaturalKoptimic](CircleOfFifthModeANaturalKoptimic.png)
 
 ## Relative Modes
 
@@ -69,12 +69,12 @@ i, ii⁰
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [429](https://ianring.com/musictheory/scales/429) | [Koptimic](ModeKoptimic.md) | A | A, B, C, D, E, F, A | ![ANaturalKoptimic](CircleModeANaturalKoptimic.png) |
-| [1131](https://ianring.com/musictheory/scales/1131) | [Thocrimic](ModeThocrimic.md) | B | B, C, D, E, F, G##, B | ![BNaturalThocrimic](CircleModeBNaturalThocrimic.png) |
-| [2613](https://ianring.com/musictheory/scales/2613) | [Aeolanimic](ModeAeolanimic.md) | C | C, D, E, F, G##, A##, C | ![CNaturalAeolanimic](CircleModeCNaturalAeolanimic.png) |
-| [1677](https://ianring.com/musictheory/scales/1677) | [Danimic](ModeDanimic.md) | D | D, E, F, G##, A##, B#, D | ![DNaturalDanimic](CircleModeDNaturalDanimic.png) |
-| [1443](https://ianring.com/musictheory/scales/1443) | [Ionarimic](ModeIonarimic.md) | E | E, F, G##, A##, B#, C##, E | ![ENaturalIonarimic](CircleModeENaturalIonarimic.png) |
-| [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeDyrimic.md) | F | F, G##, A##, B#, C##, D##, F | ![FNaturalDyrimic](CircleModeFNaturalDyrimic.png) |
+| [429](https://ianring.com/musictheory/scales/429) | [Koptimic](ModeKoptimic.md) | A | A, B, C, D, E, F, A | ![ANaturalKoptimic](CircleOfFifthModeANaturalKoptimic.png) |
+| [1131](https://ianring.com/musictheory/scales/1131) | [Thocrimic](ModeThocrimic.md) | B | B, C, D, E, F, G##, B | ![BNaturalThocrimic](CircleOfFifthModeBNaturalThocrimic.png) |
+| [2613](https://ianring.com/musictheory/scales/2613) | [Aeolanimic](ModeAeolanimic.md) | C | C, D, E, F, G##, A##, C | ![CNaturalAeolanimic](CircleOfFifthModeCNaturalAeolanimic.png) |
+| [1677](https://ianring.com/musictheory/scales/1677) | [Danimic](ModeDanimic.md) | D | D, E, F, G##, A##, B#, D | ![DNaturalDanimic](CircleOfFifthModeDNaturalDanimic.png) |
+| [1443](https://ianring.com/musictheory/scales/1443) | [Ionarimic](ModeIonarimic.md) | E | E, F, G##, A##, B#, C##, E | ![ENaturalIonarimic](CircleOfFifthModeENaturalIonarimic.png) |
+| [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeDyrimic.md) | F | F, G##, A##, B#, C##, D##, F | ![FNaturalDyrimic](CircleOfFifthModeFNaturalDyrimic.png) |
 
 ## Chords
 

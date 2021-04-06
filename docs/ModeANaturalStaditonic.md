@@ -52,7 +52,7 @@ A
 
 ## Diagram
 
-![ANaturalStaditonic](CircleModeANaturalStaditonic.png)
+![ANaturalStaditonic](CircleOfFifthModeANaturalStaditonic.png)
 
 ## Relative Modes
 
@@ -67,11 +67,11 @@ A
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | A | A, B, D, F, G, A | ![ANaturalStaditonic](CircleModeANaturalStaditonic.png) |
-| [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | B | B, D, F, G, A, B | ![BNaturalKataritonic](CircleModeBNaturalKataritonic.png) |
-| [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | D | D, F, G, A, B, D | ![DNaturalSylitonic](CircleModeDNaturalSylitonic.png) |
-| [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | F | F, G, A, B, D, F | ![FNaturalThonitonic](CircleModeFNaturalThonitonic.png) |
-| [1173](https://ianring.com/musictheory/scales/1173) | [Phropitonic](ModePhropitonic.md) | G | G, A, B, D, F, G | ![GNaturalPhropitonic](CircleModeGNaturalPhropitonic.png) |
+| [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | A | A, B, D, F, G, A | ![ANaturalStaditonic](CircleOfFifthModeANaturalStaditonic.png) |
+| [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | B | B, D, F, G, A, B | ![BNaturalKataritonic](CircleOfFifthModeBNaturalKataritonic.png) |
+| [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | D | D, F, G, A, B, D | ![DNaturalSylitonic](CircleOfFifthModeDNaturalSylitonic.png) |
+| [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | F | F, G, A, B, D, F | ![FNaturalThonitonic](CircleOfFifthModeFNaturalThonitonic.png) |
+| [1173](https://ianring.com/musictheory/scales/1173) | [Phropitonic](ModePhropitonic.md) | G | G, A, B, D, F, G | ![GNaturalPhropitonic](CircleOfFifthModeGNaturalPhropitonic.png) |
 
 ## Chords
 

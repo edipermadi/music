@@ -34,25 +34,35 @@ G
 | [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeGFlatByptitonic.md) | Gb | Gb, G, A, C, D, Gb | ![ModeGFlatByptitonic](ModeGFlatByptitonic.png) |
 | [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeBNaturalByptitonic.md) | B | B, C, D, F, G, B | ![ModeBNaturalByptitonic](ModeBNaturalByptitonic.png) |
 | [335](https://ianring.com/musictheory/scales/335) | [Zanimic](ModeFSharpZanimic.md) | F# | F#, G, Ab, Bbb, C, D, F# | ![ModeFSharpZanimic](ModeFSharpZanimic.png) |
+| [335](https://ianring.com/musictheory/scales/335) | [Zanimic](ModeGFlatZanimic.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbb, Ebb, Gb | ![ModeGFlatZanimic](ModeGFlatZanimic.png) |
 | [335](https://ianring.com/musictheory/scales/335) | [Zanimic](ModeBNaturalZanimic.md) | B | B, C, Db, Ebb, F, G, B | ![ModeBNaturalZanimic](ModeBNaturalZanimic.png) |
 | [339](https://ianring.com/musictheory/scales/339) | [Zaptitonic](ModeFSharpZaptitonic.md) | F# | F#, G, A#, C, D, F# | ![ModeFSharpZaptitonic](ModeFSharpZaptitonic.png) |
 | [339](https://ianring.com/musictheory/scales/339) | [Zaptitonic](ModeGFlatZaptitonic.md) | Gb | Gb, G, Bb, C, D, Gb | ![ModeGFlatZaptitonic](ModeGFlatZaptitonic.png) |
 | [343](https://ianring.com/musictheory/scales/343) | [Ionorimic](ModeFSharpIonorimic.md) | F# | F#, G, Ab, Bb, C, D, F# | ![ModeFSharpIonorimic](ModeFSharpIonorimic.png) |
+| [343](https://ianring.com/musictheory/scales/343) | [Ionorimic](ModeGFlatIonorimic.md) | Gb | Gb, Abb, Bbbb, Cbb, Dbb, Ebb, Gb | ![ModeGFlatIonorimic](ModeGFlatIonorimic.png) |
 | [347](https://ianring.com/musictheory/scales/347) | [Barimic](ModeFSharpBarimic.md) | F# | F#, G, A, Bb, C, D, F# | ![ModeFSharpBarimic](ModeFSharpBarimic.png) |
+| [347](https://ianring.com/musictheory/scales/347) | [Barimic](ModeGFlatBarimic.md) | Gb | Gb, Abb, Bbb, Cbb, Dbb, Ebb, Gb | ![ModeGFlatBarimic](ModeGFlatBarimic.png) |
 | [347](https://ianring.com/musictheory/scales/347) | [Barimic](ModeBNaturalBarimic.md) | B | B, C, D, Eb, F, G, B | ![ModeBNaturalBarimic](ModeBNaturalBarimic.png) |
 | [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeFSharpEpanian.md) | F# | F#, G, Ab, Bbb, Cbb, Dbb, Ebb, F# | ![ModeFSharpEpanian](ModeFSharpEpanian.png) |
+| [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeGFlatEpanian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Cbb, Dbb, Ebb, Gb | ![ModeGFlatEpanian](ModeGFlatEpanian.png) |
 | [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeBNaturalEpanian.md) | B | B, C, Db, Ebb, Fbb, Gbb, Abb, B | ![ModeBNaturalEpanian](ModeBNaturalEpanian.png) |
 | [355](https://ianring.com/musictheory/scales/355) | [Aeoloritonic](ModeFSharpAeoloritonic.md) | F# | F#, G, B, C, D, F# | ![ModeFSharpAeoloritonic](ModeFSharpAeoloritonic.png) |
 | [355](https://ianring.com/musictheory/scales/355) | [Aeoloritonic](ModeGFlatAeoloritonic.md) | Gb | Gb, G, B, C, D, Gb | ![ModeGFlatAeoloritonic](ModeGFlatAeoloritonic.png) |
 | [359](https://ianring.com/musictheory/scales/359) | [Bothimic](ModeFSharpBothimic.md) | F# | F#, G, Ab, B, C, D, F# | ![ModeFSharpBothimic](ModeFSharpBothimic.png) |
+| [359](https://ianring.com/musictheory/scales/359) | [Bothimic](ModeGFlatBothimic.md) | Gb | Gb, Abb, Bbbb, Cb, Dbb, Ebb, Gb | ![ModeGFlatBothimic](ModeGFlatBothimic.png) |
 | [363](https://ianring.com/musictheory/scales/363) | [Soptimic](ModeBNaturalSoptimic.md) | B | B, C, D, E, F, G, B | ![ModeBNaturalSoptimic](ModeBNaturalSoptimic.png) |
 | [363](https://ianring.com/musictheory/scales/363) | [Soptimic](ModeFSharpSoptimic.md) | F# | F#, G, A, B, C, D, F# | ![ModeFSharpSoptimic](ModeFSharpSoptimic.png) |
+| [363](https://ianring.com/musictheory/scales/363) | [Soptimic](ModeGFlatSoptimic.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Ebb, Gb | ![ModeGFlatSoptimic](ModeGFlatSoptimic.png) |
 | [367](https://ianring.com/musictheory/scales/367) | [Aerodian](ModeBNaturalAerodian.md) | B | B, C, Db, Ebb, Fb, Gbb, Abb, B | ![ModeBNaturalAerodian](ModeBNaturalAerodian.png) |
 | [367](https://ianring.com/musictheory/scales/367) | [Aerodian](ModeFSharpAerodian.md) | F# | F#, G, Ab, Bbb, Cb, Dbb, Ebb, F# | ![ModeFSharpAerodian](ModeFSharpAerodian.png) |
+| [367](https://ianring.com/musictheory/scales/367) | [Aerodian](ModeGFlatAerodian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbbb, Dbb, Ebb, Gb | ![ModeGFlatAerodian](ModeGFlatAerodian.png) |
 | [371](https://ianring.com/musictheory/scales/371) | [Rythimic](ModeFSharpRythimic.md) | F# | F#, G, A#, B, C, D, F# | ![ModeFSharpRythimic](ModeFSharpRythimic.png) |
+| [371](https://ianring.com/musictheory/scales/371) | [Rythimic](ModeGFlatRythimic.md) | Gb | Gb, Abb, Bb, Cb, Dbb, Ebb, Gb | ![ModeGFlatRythimic](ModeGFlatRythimic.png) |
 | [375](https://ianring.com/musictheory/scales/375) | [Sodian](ModeFSharpSodian.md) | F# | F#, G, Ab, Bb, Cb, Dbb, Ebb, F# | ![ModeFSharpSodian](ModeFSharpSodian.png) |
+| [375](https://ianring.com/musictheory/scales/375) | [Sodian](ModeGFlatSodian.md) | Gb | Gb, Abb, Bbbb, Cbb, Dbbb, Dbb, Ebb, Gb | ![ModeGFlatSodian](ModeGFlatSodian.png) |
 | [379](https://ianring.com/musictheory/scales/379) | [Aeragian](ModeBNaturalAeragian.md) | B | B, C, D, Eb, Fb, Gbb, Abb, B | ![ModeBNaturalAeragian](ModeBNaturalAeragian.png) |
 | [379](https://ianring.com/musictheory/scales/379) | [Aeragian](ModeFSharpAeragian.md) | F# | F#, G, A, Bb, Cb, Dbb, Ebb, F# | ![ModeFSharpAeragian](ModeFSharpAeragian.png) |
+| [379](https://ianring.com/musictheory/scales/379) | [Aeragian](ModeGFlatAeragian.md) | Gb | Gb, Abb, Bbb, Cbb, Dbbb, Dbb, Ebb, Gb | ![ModeGFlatAeragian](ModeGFlatAeragian.png) |
 | [383](https://ianring.com/musictheory/scales/383) | [Logyllic](ModeBNaturalLogyllic.md) | B | B, C, C#, D, D#, E, F, G, B | ![ModeBNaturalLogyllic](ModeBNaturalLogyllic.png) |
 | [383](https://ianring.com/musictheory/scales/383) | [Logyllic](ModeFSharpLogyllic.md) | F# | F#, G, G#, A, A#, B, C, D, F# | ![ModeFSharpLogyllic](ModeFSharpLogyllic.png) |
 | [383](https://ianring.com/musictheory/scales/383) | [Logyllic](ModeGFlatLogyllic.md) | Gb | Gb, G, Ab, A, Bb, B, C, D, Gb | ![ModeGFlatLogyllic](ModeGFlatLogyllic.png) |
@@ -103,13 +113,16 @@ G
 | [461](https://ianring.com/musictheory/scales/461) | [Madimic](ModeCNaturalMadimic.md) | C | C, D, Eb, F#, G, Ab, C | ![ModeCNaturalMadimic](ModeCNaturalMadimic.png) |
 | [463](https://ianring.com/musictheory/scales/463) | [Zythian](ModeCNaturalZythian.md) | C | C, Db, Ebb, Fbb, Gb, Abb, Bbbb, C | ![ModeCNaturalZythian](ModeCNaturalZythian.png) |
 | [463](https://ianring.com/musictheory/scales/463) | [Zythian](ModeFSharpZythian.md) | F# | F#, G, Ab, Bbb, C, Db, Ebb, F# | ![ModeFSharpZythian](ModeFSharpZythian.png) |
+| [463](https://ianring.com/musictheory/scales/463) | [Zythian](ModeGFlatZythian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbb, Ebbb, Fbbb, Gb | ![ModeGFlatZythian](ModeGFlatZythian.png) |
 | [463](https://ianring.com/musictheory/scales/463) | [Zythian](ModeBNaturalZythian.md) | B | B, C, Db, Ebb, F, Gb, Abb, B | ![ModeBNaturalZythian](ModeBNaturalZythian.png) |
 | [467](https://ianring.com/musictheory/scales/467) | [Phrogimic](ModeFSharpPhrogimic.md) | F# | F#, G, A#, B#, C#, D, F# | ![ModeFSharpPhrogimic](ModeFSharpPhrogimic.png) |
 | [467](https://ianring.com/musictheory/scales/467) | [Phrogimic](ModeGFlatPhrogimic.md) | Gb | Gb, Abb, Bb, C, Db, Ebb, Gb | ![ModeGFlatPhrogimic](ModeGFlatPhrogimic.png) |
 | [469](https://ianring.com/musictheory/scales/469) | [Katyrimic](ModeCNaturalKatyrimic.md) | C | C, D, E, F#, G, Ab, C | ![ModeCNaturalKatyrimic](ModeCNaturalKatyrimic.png) |
 | [471](https://ianring.com/musictheory/scales/471) | [Dodian](ModeCNaturalDodian.md) | C | C, Db, Ebb, Fb, Gb, Abb, Bbbb, C | ![ModeCNaturalDodian](ModeCNaturalDodian.png) |
 | [471](https://ianring.com/musictheory/scales/471) | [Dodian](ModeFSharpDodian.md) | F# | F#, G, Ab, Bb, C, Db, Ebb, F# | ![ModeFSharpDodian](ModeFSharpDodian.png) |
+| [471](https://ianring.com/musictheory/scales/471) | [Dodian](ModeGFlatDodian.md) | Gb | Gb, Abb, Bbbb, Cbb, Dbb, Ebbb, Fbbb, Gb | ![ModeGFlatDodian](ModeGFlatDodian.png) |
 | [475](https://ianring.com/musictheory/scales/475) | [Aeolygian](ModeFSharpAeolygian.md) | F# | F#, G, A, Bb, C, Db, Ebb, F# | ![ModeFSharpAeolygian](ModeFSharpAeolygian.png) |
+| [475](https://ianring.com/musictheory/scales/475) | [Aeolygian](ModeGFlatAeolygian.md) | Gb | Gb, Abb, Bbb, Cbb, Dbb, Ebbb, Fbbb, Gb | ![ModeGFlatAeolygian](ModeGFlatAeolygian.png) |
 | [475](https://ianring.com/musictheory/scales/475) | [Aeolygian](ModeBNaturalAeolygian.md) | B | B, C, D, Eb, F, Gb, Abb, B | ![ModeBNaturalAeolygian](ModeBNaturalAeolygian.png) |
 | [477](https://ianring.com/musictheory/scales/477) | [Stacrian](ModeCNaturalStacrian.md) | C | C, D, Eb, Fb, Gb, Abb, Bbbb, C | ![ModeCNaturalStacrian](ModeCNaturalStacrian.png) |
 | [479](https://ianring.com/musictheory/scales/479) | [Kocryllic](ModeCNaturalKocryllic.md) | C | C, C#, D, D#, E, F#, G, G#, C | ![ModeCNaturalKocryllic](ModeCNaturalKocryllic.png) |
@@ -124,10 +137,12 @@ G
 | [487](https://ianring.com/musictheory/scales/487) | [Dynian](ModeCNaturalDynian.md) | C | C, Db, Ebb, F, Gb, Abb, Bbbb, C | ![ModeCNaturalDynian](ModeCNaturalDynian.png) |
 | [487](https://ianring.com/musictheory/scales/487) | [Dynian](ModeGNaturalDynian.md) | G | G, Ab, Bbb, C, Db, Ebb, Fbb, G | ![ModeGNaturalDynian](ModeGNaturalDynian.png) |
 | [487](https://ianring.com/musictheory/scales/487) | [Dynian](ModeFSharpDynian.md) | F# | F#, G, Ab, B, C, Db, Ebb, F# | ![ModeFSharpDynian](ModeFSharpDynian.png) |
+| [487](https://ianring.com/musictheory/scales/487) | [Dynian](ModeGFlatDynian.md) | Gb | Gb, Abb, Bbbb, Cb, Dbb, Ebbb, Fbbb, Gb | ![ModeGFlatDynian](ModeGFlatDynian.png) |
 | [489](https://ianring.com/musictheory/scales/489) | [Phrathimic](ModeGNaturalPhrathimic.md) | G | G, A#, B#, C#, D, Eb, G | ![ModeGNaturalPhrathimic](ModeGNaturalPhrathimic.png) |
 | [491](https://ianring.com/musictheory/scales/491) | [Aeolyrian](ModeGNaturalAeolyrian.md) | G | G, Ab, Bb, C, Db, Ebb, Fbb, G | ![ModeGNaturalAeolyrian](ModeGNaturalAeolyrian.png) |
 | [491](https://ianring.com/musictheory/scales/491) | [Aeolyrian](ModeBNaturalAeolyrian.md) | B | B, C, D, E, F, Gb, Abb, B | ![ModeBNaturalAeolyrian](ModeBNaturalAeolyrian.png) |
 | [491](https://ianring.com/musictheory/scales/491) | [Aeolyrian](ModeFSharpAeolyrian.md) | F# | F#, G, A, B, C, Db, Ebb, F# | ![ModeFSharpAeolyrian](ModeFSharpAeolyrian.png) |
+| [491](https://ianring.com/musictheory/scales/491) | [Aeolyrian](ModeGFlatAeolyrian.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Ebbb, Fbbb, Gb | ![ModeGFlatAeolyrian](ModeGFlatAeolyrian.png) |
 | [493](https://ianring.com/musictheory/scales/493) | [Rygian](ModeCNaturalRygian.md) | C | C, D, Eb, F, Gb, Abb, Bbbb, C | ![ModeCNaturalRygian](ModeCNaturalRygian.png) |
 | [493](https://ianring.com/musictheory/scales/493) | [Rygian](ModeGNaturalRygian.md) | G | G, A, Bb, C, Db, Ebb, Fbb, G | ![ModeGNaturalRygian](ModeGNaturalRygian.png) |
 | [495](https://ianring.com/musictheory/scales/495) | [Bocryllic](ModeCNaturalBocryllic.md) | C | C, C#, D, D#, F, F#, G, G#, C | ![ModeCNaturalBocryllic](ModeCNaturalBocryllic.png) |
@@ -138,6 +153,7 @@ G
 | [497](https://ianring.com/musictheory/scales/497) | [Kadimic](ModeGNaturalKadimic.md) | G | G, A##, B#, C#, D, Eb, G | ![ModeGNaturalKadimic](ModeGNaturalKadimic.png) |
 | [499](https://ianring.com/musictheory/scales/499) | [Ionaptian](ModeGNaturalIonaptian.md) | G | G, Ab, B, C, Db, Ebb, Fbb, G | ![ModeGNaturalIonaptian](ModeGNaturalIonaptian.png) |
 | [499](https://ianring.com/musictheory/scales/499) | [Ionaptian](ModeFSharpIonaptian.md) | F# | F#, G, A#, B, C, Db, Ebb, F# | ![ModeFSharpIonaptian](ModeFSharpIonaptian.png) |
+| [499](https://ianring.com/musictheory/scales/499) | [Ionaptian](ModeGFlatIonaptian.md) | Gb | Gb, Abb, Bb, Cb, Dbb, Ebbb, Fbbb, Gb | ![ModeGFlatIonaptian](ModeGFlatIonaptian.png) |
 | [501](https://ianring.com/musictheory/scales/501) | [Katylian](ModeCNaturalKatylian.md) | C | C, D, E, F, Gb, Abb, Bbbb, C | ![ModeCNaturalKatylian](ModeCNaturalKatylian.png) |
 | [501](https://ianring.com/musictheory/scales/501) | [Katylian](ModeGNaturalKatylian.md) | G | G, A, B, C, Db, Ebb, Fbb, G | ![ModeGNaturalKatylian](ModeGNaturalKatylian.png) |
 | [503](https://ianring.com/musictheory/scales/503) | [Thoptyllic](ModeCNaturalThoptyllic.md) | C | C, C#, D, E, F, F#, G, G#, C | ![ModeCNaturalThoptyllic](ModeCNaturalThoptyllic.png) |
@@ -163,6 +179,7 @@ G
 | [573](https://ianring.com/musictheory/scales/573) | [Saptimic](ModeASharpSaptimic.md) | A# | A#, B#, C#, D, Eb, F##, A# | ![ModeASharpSaptimic](ModeASharpSaptimic.png) |
 | [573](https://ianring.com/musictheory/scales/573) | [Saptimic](ModeBFlatSaptimic.md) | Bb | Bb, C, Db, Ebb, Fbb, G, Bb | ![ModeBFlatSaptimic](ModeBFlatSaptimic.png) |
 | [575](https://ianring.com/musictheory/scales/575) | [Ionydian](ModeASharpIonydian.md) | A# | A#, B, C, Db, Ebb, Fbb, G, A# | ![ModeASharpIonydian](ModeASharpIonydian.png) |
+| [575](https://ianring.com/musictheory/scales/575) | [Ionydian](ModeBFlatIonydian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fbbb, C###, E###, Bb | ![ModeBFlatIonydian](ModeBFlatIonydian.png) |
 | [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeASharpThonitonic.md) | A# | A#, C, D, E, G, A# | ![ModeASharpThonitonic](ModeASharpThonitonic.png) |
 | [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeBFlatThonitonic.md) | Bb | Bb, C, D, E, G, Bb | ![ModeBFlatThonitonic](ModeBFlatThonitonic.png) |
 | [599](https://ianring.com/musictheory/scales/599) | [Thyrimic](ModeASharpThyrimic.md) | A# | A#, B, C, D, E, F##, A# | ![ModeASharpThyrimic](ModeASharpThyrimic.png) |
@@ -170,8 +187,11 @@ G
 | [605](https://ianring.com/musictheory/scales/605) | [Dycrimic](ModeASharpDycrimic.md) | A# | A#, B#, C#, D, E, F##, A# | ![ModeASharpDycrimic](ModeASharpDycrimic.png) |
 | [605](https://ianring.com/musictheory/scales/605) | [Dycrimic](ModeBFlatDycrimic.md) | Bb | Bb, C, Db, Ebb, Fb, G, Bb | ![ModeBFlatDycrimic](ModeBFlatDycrimic.png) |
 | [607](https://ianring.com/musictheory/scales/607) | [Kadian](ModeASharpKadian.md) | A# | A#, B, C, Db, Ebb, Fb, G, A# | ![ModeASharpKadian](ModeASharpKadian.png) |
+| [607](https://ianring.com/musictheory/scales/607) | [Kadian](ModeBFlatKadian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fbbb, Gbbb, Abb, Bb | ![ModeBFlatKadian](ModeBFlatKadian.png) |
+| [629](https://ianring.com/musictheory/scales/629) | [Aeronimic](ModeASharpAeronimic.md) | A# | A#, B#, C##, D#, E, F##, A# | ![ModeASharpAeronimic](ModeASharpAeronimic.png) |
 | [629](https://ianring.com/musictheory/scales/629) | [Aeronimic](ModeBFlatAeronimic.md) | Bb | Bb, C, D, Eb, Fb, G, Bb | ![ModeBFlatAeronimic](ModeBFlatAeronimic.png) |
 | [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeASharpZygian.md) | A# | A#, B, C, D, Eb, Fb, G, A# | ![ModeASharpZygian](ModeASharpZygian.png) |
+| [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeBFlatZygian.md) | Bb | Bb, Cb, Dbb, Ebb, Fbb, Gbbb, Abb, Bb | ![ModeBFlatZygian](ModeBFlatZygian.png) |
 | [637](https://ianring.com/musictheory/scales/637) | [Katodian](ModeASharpKatodian.md) | A# | A#, B#, C#, D, Eb, Fb, G, A# | ![ModeASharpKatodian](ModeASharpKatodian.png) |
 | [637](https://ianring.com/musictheory/scales/637) | [Katodian](ModeBFlatKatodian.md) | Bb | Bb, C, Db, Ebb, Fbb, Gbbb, Abb, Bb | ![ModeBFlatKatodian](ModeBFlatKatodian.png) |
 | [639](https://ianring.com/musictheory/scales/639) | [Ionaryllic](ModeASharpIonaryllic.md) | A# | A#, B, C, C#, D, D#, E, G, A# | ![ModeASharpIonaryllic](ModeASharpIonaryllic.png) |
@@ -193,7 +213,9 @@ G
 | [669](https://ianring.com/musictheory/scales/669) | [Gycrimic](ModeASharpGycrimic.md) | A# | A#, B#, C#, D, E#, F##, A# | ![ModeASharpGycrimic](ModeASharpGycrimic.png) |
 | [669](https://ianring.com/musictheory/scales/669) | [Gycrimic](ModeBFlatGycrimic.md) | Bb | Bb, C, Db, Ebb, F, G, Bb | ![ModeBFlatGycrimic](ModeBFlatGycrimic.png) |
 | [671](https://ianring.com/musictheory/scales/671) | [Stycrian](ModeCNaturalStycrian.md) | C | C, Db, Ebb, Fbb, Gbbb, Abb, Bbb, C | ![ModeCNaturalStycrian](ModeCNaturalStycrian.png) |
+| [671](https://ianring.com/musictheory/scales/671) | [Stycrian](ModeFNaturalStycrian.md) | F | F, Gb, Abb, Bbbb, Cbbb, Dbb, Ebb, F | ![ModeFNaturalStycrian](ModeFNaturalStycrian.png) |
 | [671](https://ianring.com/musictheory/scales/671) | [Stycrian](ModeASharpStycrian.md) | A# | A#, B, C, Db, Ebb, F, G, A# | ![ModeASharpStycrian](ModeASharpStycrian.png) |
+| [671](https://ianring.com/musictheory/scales/671) | [Stycrian](ModeBFlatStycrian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fbbb, Gbb, Abb, Bb | ![ModeBFlatStycrian](ModeBFlatStycrian.png) |
 | [675](https://ianring.com/musictheory/scales/675) | [Zyditonic](ModeGNaturalZyditonic.md) | G | G, G#, C, D, E, G | ![ModeGNaturalZyditonic](ModeGNaturalZyditonic.png) |
 | [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeGNaturalMynitonic.md) | G | G, A, C, D, E, G | ![ModeGNaturalMynitonic](ModeGNaturalMynitonic.png) |
 | [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeCNaturalMynitonic.md) | C | C, D, F, G, A, C | ![ModeCNaturalMynitonic](ModeCNaturalMynitonic.png) |
@@ -207,16 +229,20 @@ G
 | [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeFNaturalAerathimic.md) | F | F, G, Ab, Bb, C, D, F | ![ModeFNaturalAerathimic](ModeFNaturalAerathimic.png) |
 | [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeGNaturalAerathimic.md) | G | G, A, Bb, C, D, E, G | ![ModeGNaturalAerathimic](ModeGNaturalAerathimic.png) |
 | [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeCNaturalAeolythian.md) | C | C, Db, Ebb, Fbb, Gbb, Abb, Bbb, C | ![ModeCNaturalAeolythian](ModeCNaturalAeolythian.png) |
+| [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeFNaturalAeolythian.md) | F | F, Gb, Abb, Bbbb, Cbb, Dbb, Ebb, F | ![ModeFNaturalAeolythian](ModeFNaturalAeolythian.png) |
 | [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeGNaturalAeolythian.md) | G | G, Ab, Bbb, Cbb, Dbb, Ebb, Fb, G | ![ModeGNaturalAeolythian](ModeGNaturalAeolythian.png) |
 | [689](https://ianring.com/musictheory/scales/689) | [Lothitonic](ModeGNaturalLothitonic.md) | G | G, B, C, D, E, G | ![ModeGNaturalLothitonic](ModeGNaturalLothitonic.png) |
 | [691](https://ianring.com/musictheory/scales/691) | [Zydimic](ModeGNaturalZydimic.md) | G | G, Ab, B, C, D, E, G | ![ModeGNaturalZydimic](ModeGNaturalZydimic.png) |
 | [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeCNaturalMynimic.md) | C | C, D, E, F, G, A, C | ![ModeCNaturalMynimic](ModeCNaturalMynimic.png) |
+| [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeASharpMynimic.md) | A# | A#, B#, C##, D#, E#, F##, A# | ![ModeASharpMynimic](ModeASharpMynimic.png) |
 | [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeBFlatMynimic.md) | Bb | Bb, C, D, Eb, F, G, Bb | ![ModeBFlatMynimic](ModeBFlatMynimic.png) |
 | [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeFNaturalMynimic.md) | F | F, G, A, Bb, C, D, F | ![ModeFNaturalMynimic](ModeFNaturalMynimic.png) |
 | [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeGNaturalMynimic.md) | G | G, A, B, C, D, E, G | ![ModeGNaturalMynimic](ModeGNaturalMynimic.png) |
 | [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeCNaturalSarian.md) | C | C, Db, Ebb, Fb, Gbb, Abb, Bbb, C | ![ModeCNaturalSarian](ModeCNaturalSarian.png) |
+| [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeFNaturalSarian.md) | F | F, Gb, Abb, Bbb, Cbb, Dbb, Ebb, F | ![ModeFNaturalSarian](ModeFNaturalSarian.png) |
 | [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeGNaturalSarian.md) | G | G, Ab, Bbb, Cb, Dbb, Ebb, Fb, G | ![ModeGNaturalSarian](ModeGNaturalSarian.png) |
 | [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeASharpSarian.md) | A# | A#, B, C, D, Eb, F, G, A# | ![ModeASharpSarian](ModeASharpSarian.png) |
+| [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeBFlatSarian.md) | Bb | Bb, Cb, Dbb, Ebb, Fbb, Gbb, Abb, Bb | ![ModeBFlatSarian](ModeBFlatSarian.png) |
 | [697](https://ianring.com/musictheory/scales/697) | [Lagimic](ModeGNaturalLagimic.md) | G | G, A#, B, C, D, E, G | ![ModeGNaturalLagimic](ModeGNaturalLagimic.png) |
 | [699](https://ianring.com/musictheory/scales/699) | [Aerothian](ModeGNaturalAerothian.md) | G | G, Ab, Bb, Cb, Dbb, Ebb, Fb, G | ![ModeGNaturalAerothian](ModeGNaturalAerothian.png) |
 | [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeCNaturalMixonyphian.md) | C | C, D, Eb, Fb, Gbb, Abb, Bbb, C | ![ModeCNaturalMixonyphian](ModeCNaturalMixonyphian.png) |
@@ -236,11 +262,15 @@ G
 | [717](https://ianring.com/musictheory/scales/717) | [Gythimic](ModeCNaturalGythimic.md) | C | C, D, Eb, F#, G, A, C | ![ModeCNaturalGythimic](ModeCNaturalGythimic.png) |
 | [717](https://ianring.com/musictheory/scales/717) | [Gythimic](ModeFNaturalGythimic.md) | F | F, G, Ab, B, C, D, F | ![ModeFNaturalGythimic](ModeFNaturalGythimic.png) |
 | [719](https://ianring.com/musictheory/scales/719) | [Kanian](ModeCNaturalKanian.md) | C | C, Db, Ebb, Fbb, Gb, Abb, Bbb, C | ![ModeCNaturalKanian](ModeCNaturalKanian.png) |
+| [719](https://ianring.com/musictheory/scales/719) | [Kanian](ModeFNaturalKanian.md) | F | F, Gb, Abb, Bbbb, Cb, Dbb, Ebb, F | ![ModeFNaturalKanian](ModeFNaturalKanian.png) |
 | [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeCNaturalLonimic.md) | C | C, D, E, F#, G, A, C | ![ModeCNaturalLonimic](ModeCNaturalLonimic.png) |
+| [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeASharpLonimic.md) | A# | A#, B#, C##, D##, E#, F##, A# | ![ModeASharpLonimic](ModeASharpLonimic.png) |
 | [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeBFlatLonimic.md) | Bb | Bb, C, D, E, F, G, Bb | ![ModeBFlatLonimic](ModeBFlatLonimic.png) |
 | [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeFNaturalLonimic.md) | F | F, G, A, B, C, D, F | ![ModeFNaturalLonimic](ModeFNaturalLonimic.png) |
 | [727](https://ianring.com/musictheory/scales/727) | [Phradian](ModeCNaturalPhradian.md) | C | C, Db, Ebb, Fb, Gb, Abb, Bbb, C | ![ModeCNaturalPhradian](ModeCNaturalPhradian.png) |
+| [727](https://ianring.com/musictheory/scales/727) | [Phradian](ModeFNaturalPhradian.md) | F | F, Gb, Abb, Bbb, Cb, Dbb, Ebb, F | ![ModeFNaturalPhradian](ModeFNaturalPhradian.png) |
 | [727](https://ianring.com/musictheory/scales/727) | [Phradian](ModeASharpPhradian.md) | A# | A#, B, C, D, E, F, G, A# | ![ModeASharpPhradian](ModeASharpPhradian.png) |
+| [727](https://ianring.com/musictheory/scales/727) | [Phradian](ModeBFlatPhradian.md) | Bb | Bb, Cb, Dbb, Ebb, Fb, Gbb, Abb, Bb | ![ModeBFlatPhradian](ModeBFlatPhradian.png) |
 | [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeCNaturalDonian.md) | C | C, D, Eb, Fb, Gb, Abb, Bbb, C | ![ModeCNaturalDonian](ModeCNaturalDonian.png) |
 | [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeASharpDonian.md) | A# | A#, B#, C#, D, E, F, G, A# | ![ModeASharpDonian](ModeASharpDonian.png) |
 | [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeBFlatDonian.md) | Bb | Bb, C, Db, Ebb, Fb, Gbb, Abb, Bb | ![ModeBFlatDonian](ModeBFlatDonian.png) |
@@ -255,6 +285,7 @@ G
 | [741](https://ianring.com/musictheory/scales/741) | [Gathimic](ModeFNaturalGathimic.md) | F | F, G, A#, B, C, D, F | ![ModeFNaturalGathimic](ModeFNaturalGathimic.png) |
 | [743](https://ianring.com/musictheory/scales/743) | [Lanian](ModeCNaturalLanian.md) | C | C, Db, Ebb, F, Gb, Abb, Bbb, C | ![ModeCNaturalLanian](ModeCNaturalLanian.png) |
 | [743](https://ianring.com/musictheory/scales/743) | [Lanian](ModeGNaturalLanian.md) | G | G, Ab, Bbb, C, Db, Ebb, Fb, G | ![ModeGNaturalLanian](ModeGNaturalLanian.png) |
+| [743](https://ianring.com/musictheory/scales/743) | [Lanian](ModeFNaturalLanian.md) | F | F, Gb, Abb, Bb, Cb, Dbb, Ebb, F | ![ModeFNaturalLanian](ModeFNaturalLanian.png) |
 | [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeGNaturalKolimic.md) | G | G, A#, B#, C#, D, E, G | ![ModeGNaturalKolimic](ModeGNaturalKolimic.png) |
 | [747](https://ianring.com/musictheory/scales/747) | [Lynian](ModeGNaturalLynian.md) | G | G, Ab, Bb, C, Db, Ebb, Fb, G | ![ModeGNaturalLynian](ModeGNaturalLynian.png) |
 | [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeCNaturalAeologian.md) | C | C, D, Eb, F, Gb, Abb, Bbb, C | ![ModeCNaturalAeologian](ModeCNaturalAeologian.png) |
@@ -296,10 +327,13 @@ G
 | [797](https://ianring.com/musictheory/scales/797) | [Katocrimic](ModeBFlatKatocrimic.md) | Bb | Bb, C, Db, Ebb, F#, G, Bb | ![ModeBFlatKatocrimic](ModeBFlatKatocrimic.png) |
 | [799](https://ianring.com/musictheory/scales/799) | [Lolian](ModeBNaturalLolian.md) | B | B, C, Db, Ebb, Fbb, G, Ab, B | ![ModeBNaturalLolian](ModeBNaturalLolian.png) |
 | [799](https://ianring.com/musictheory/scales/799) | [Lolian](ModeASharpLolian.md) | A# | A#, B, C, Db, Ebb, F#, G, A# | ![ModeASharpLolian](ModeASharpLolian.png) |
+| [799](https://ianring.com/musictheory/scales/799) | [Lolian](ModeBFlatLolian.md) | Bb | Bb, Cb, Dbb, Ebbb, Fbbb, Gb, Abb, Bb | ![ModeBFlatLolian](ModeBFlatLolian.png) |
 | [811](https://ianring.com/musictheory/scales/811) | [Radimic](ModeBNaturalRadimic.md) | B | B, C, D, E, F##, G#, B | ![ModeBNaturalRadimic](ModeBNaturalRadimic.png) |
 | [815](https://ianring.com/musictheory/scales/815) | [Bolian](ModeBNaturalBolian.md) | B | B, C, Db, Ebb, Fb, G, Ab, B | ![ModeBNaturalBolian](ModeBNaturalBolian.png) |
+| [821](https://ianring.com/musictheory/scales/821) | [Aeranimic](ModeASharpAeranimic.md) | A# | A#, B#, C##, D#, E##, F##, A# | ![ModeASharpAeranimic](ModeASharpAeranimic.png) |
 | [821](https://ianring.com/musictheory/scales/821) | [Aeranimic](ModeBFlatAeranimic.md) | Bb | Bb, C, D, Eb, F#, G, Bb | ![ModeBFlatAeranimic](ModeBFlatAeranimic.png) |
 | [823](https://ianring.com/musictheory/scales/823) | [Stodian](ModeASharpStodian.md) | A# | A#, B, C, D, Eb, F#, G, A# | ![ModeASharpStodian](ModeASharpStodian.png) |
+| [823](https://ianring.com/musictheory/scales/823) | [Stodian](ModeBFlatStodian.md) | Bb | Bb, Cb, Dbb, Ebb, Fbb, Gb, Abb, Bb | ![ModeBFlatStodian](ModeBFlatStodian.png) |
 | [827](https://ianring.com/musictheory/scales/827) | [Mixolocrian](ModeBNaturalMixolocrian.md) | B | B, C, D, Eb, Fb, G, Ab, B | ![ModeBNaturalMixolocrian](ModeBNaturalMixolocrian.png) |
 | [829](https://ianring.com/musictheory/scales/829) | [Lygian](ModeASharpLygian.md) | A# | A#, B#, C#, D, Eb, F#, G, A# | ![ModeASharpLygian](ModeASharpLygian.png) |
 | [829](https://ianring.com/musictheory/scales/829) | [Lygian](ModeBFlatLygian.md) | Bb | Bb, C, Db, Ebb, Fbb, Gb, Abb, Bb | ![ModeBFlatLygian](ModeBFlatLygian.png) |
@@ -312,13 +346,18 @@ G
 | [843](https://ianring.com/musictheory/scales/843) | [Molimic](ModeGFlatMolimic.md) | Gb | Gb, Abb, Bbb, C, D, Eb, Gb | ![ModeGFlatMolimic](ModeGFlatMolimic.png) |
 | [843](https://ianring.com/musictheory/scales/843) | [Molimic](ModeBNaturalMolimic.md) | B | B, C, D, E#, F##, G#, B | ![ModeBNaturalMolimic](ModeBNaturalMolimic.png) |
 | [847](https://ianring.com/musictheory/scales/847) | [Ganian](ModeFSharpGanian.md) | F# | F#, G, Ab, Bbb, C, D, Eb, F# | ![ModeFSharpGanian](ModeFSharpGanian.png) |
+| [847](https://ianring.com/musictheory/scales/847) | [Ganian](ModeGFlatGanian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbb, Ebb, Fbb, Gb | ![ModeGFlatGanian](ModeGFlatGanian.png) |
 | [847](https://ianring.com/musictheory/scales/847) | [Ganian](ModeBNaturalGanian.md) | B | B, C, Db, Ebb, F, G, Ab, B | ![ModeBNaturalGanian](ModeBNaturalGanian.png) |
 | [851](https://ianring.com/musictheory/scales/851) | [Aerylimic](ModeFSharpAerylimic.md) | F# | F#, G, A#, B#, C##, D#, F# | ![ModeFSharpAerylimic](ModeFSharpAerylimic.png) |
 | [851](https://ianring.com/musictheory/scales/851) | [Aerylimic](ModeGFlatAerylimic.md) | Gb | Gb, Abb, Bb, C, D, Eb, Gb | ![ModeGFlatAerylimic](ModeGFlatAerylimic.png) |
+| [853](https://ianring.com/musictheory/scales/853) | [Epothimic](ModeASharpEpothimic.md) | A# | A#, B#, C##, D##, E##, F##, A# | ![ModeASharpEpothimic](ModeASharpEpothimic.png) |
 | [853](https://ianring.com/musictheory/scales/853) | [Epothimic](ModeBFlatEpothimic.md) | Bb | Bb, C, D, E, F#, G, Bb | ![ModeBFlatEpothimic](ModeBFlatEpothimic.png) |
 | [855](https://ianring.com/musictheory/scales/855) | [Porian](ModeFSharpPorian.md) | F# | F#, G, Ab, Bb, C, D, Eb, F# | ![ModeFSharpPorian](ModeFSharpPorian.png) |
+| [855](https://ianring.com/musictheory/scales/855) | [Porian](ModeGFlatPorian.md) | Gb | Gb, Abb, Bbbb, Cbb, Dbb, Ebb, Fbb, Gb | ![ModeGFlatPorian](ModeGFlatPorian.png) |
 | [855](https://ianring.com/musictheory/scales/855) | [Porian](ModeASharpPorian.md) | A# | A#, B, C, D, E, F#, G, A# | ![ModeASharpPorian](ModeASharpPorian.png) |
+| [855](https://ianring.com/musictheory/scales/855) | [Porian](ModeBFlatPorian.md) | Bb | Bb, Cb, Dbb, Ebb, Fb, Gb, Abb, Bb | ![ModeBFlatPorian](ModeBFlatPorian.png) |
 | [859](https://ianring.com/musictheory/scales/859) | [Pathian](ModeFSharpPathian.md) | F# | F#, G, A, Bb, C, D, Eb, F# | ![ModeFSharpPathian](ModeFSharpPathian.png) |
+| [859](https://ianring.com/musictheory/scales/859) | [Pathian](ModeGFlatPathian.md) | Gb | Gb, Abb, Bbb, Cbb, Dbb, Ebb, Fbb, Gb | ![ModeGFlatPathian](ModeGFlatPathian.png) |
 | [859](https://ianring.com/musictheory/scales/859) | [Pathian](ModeBNaturalPathian.md) | B | B, C, D, Eb, F, G, Ab, B | ![ModeBNaturalPathian](ModeBNaturalPathian.png) |
 | [861](https://ianring.com/musictheory/scales/861) | [Rylian](ModeASharpRylian.md) | A# | A#, B#, C#, D, E, F#, G, A# | ![ModeASharpRylian](ModeASharpRylian.png) |
 | [861](https://ianring.com/musictheory/scales/861) | [Rylian](ModeBFlatRylian.md) | Bb | Bb, C, Db, Ebb, Fb, Gb, Abb, Bb | ![ModeBFlatRylian](ModeBFlatRylian.png) |
@@ -330,12 +369,15 @@ G
 | [867](https://ianring.com/musictheory/scales/867) | [Phrocrimic](ModeFSharpPhrocrimic.md) | F# | F#, G, A##, B#, C##, D#, F# | ![ModeFSharpPhrocrimic](ModeFSharpPhrocrimic.png) |
 | [867](https://ianring.com/musictheory/scales/867) | [Phrocrimic](ModeGFlatPhrocrimic.md) | Gb | Gb, Abb, B, C, D, Eb, Gb | ![ModeGFlatPhrocrimic](ModeGFlatPhrocrimic.png) |
 | [871](https://ianring.com/musictheory/scales/871) | [Epadian](ModeFSharpEpadian.md) | F# | F#, G, Ab, B, C, D, Eb, F# | ![ModeFSharpEpadian](ModeFSharpEpadian.png) |
+| [871](https://ianring.com/musictheory/scales/871) | [Epadian](ModeGFlatEpadian.md) | Gb | Gb, Abb, Bbbb, Cb, Dbb, Ebb, Fbb, Gb | ![ModeGFlatEpadian](ModeGFlatEpadian.png) |
 | [875](https://ianring.com/musictheory/scales/875) | [Stothian](ModeBNaturalStothian.md) | B | B, C, D, E, F, G, Ab, B | ![ModeBNaturalStothian](ModeBNaturalStothian.png) |
 | [875](https://ianring.com/musictheory/scales/875) | [Stothian](ModeFSharpStothian.md) | F# | F#, G, A, B, C, D, Eb, F# | ![ModeFSharpStothian](ModeFSharpStothian.png) |
+| [875](https://ianring.com/musictheory/scales/875) | [Stothian](ModeGFlatStothian.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Ebb, Fbb, Gb | ![ModeGFlatStothian](ModeGFlatStothian.png) |
 | [879](https://ianring.com/musictheory/scales/879) | [Aeolocryllic](ModeBNaturalAeolocryllic.md) | B | B, C, C#, D, E, F, G, G#, B | ![ModeBNaturalAeolocryllic](ModeBNaturalAeolocryllic.png) |
 | [879](https://ianring.com/musictheory/scales/879) | [Aeolocryllic](ModeFSharpAeolocryllic.md) | F# | F#, G, G#, A, B, C, D, D#, F# | ![ModeFSharpAeolocryllic](ModeFSharpAeolocryllic.png) |
 | [879](https://ianring.com/musictheory/scales/879) | [Aeolocryllic](ModeGFlatAeolocryllic.md) | Gb | Gb, G, Ab, A, B, C, D, Eb, Gb | ![ModeGFlatAeolocryllic](ModeGFlatAeolocryllic.png) |
 | [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeFSharpRalian.md) | F# | F#, G, A#, B, C, D, Eb, F# | ![ModeFSharpRalian](ModeFSharpRalian.png) |
+| [883](https://ianring.com/musictheory/scales/883) | [Ralian](ModeGFlatRalian.md) | Gb | Gb, Abb, Bb, Cb, Dbb, Ebb, Fbb, Gb | ![ModeGFlatRalian](ModeGFlatRalian.png) |
 | [885](https://ianring.com/musictheory/scales/885) | [Sathian](ModeASharpSathian.md) | A# | A#, B#, C##, D#, E, F#, G, A# | ![ModeASharpSathian](ModeASharpSathian.png) |
 | [885](https://ianring.com/musictheory/scales/885) | [Sathian](ModeBFlatSathian.md) | Bb | Bb, C, D, Eb, Fb, Gb, Abb, Bb | ![ModeBFlatSathian](ModeBFlatSathian.png) |
 | [887](https://ianring.com/musictheory/scales/887) | [Sathyllic](ModeASharpSathyllic.md) | A# | A#, B, C, D, D#, E, F#, G, A# | ![ModeASharpSathyllic](ModeASharpSathyllic.png) |
@@ -360,10 +402,12 @@ G
 | [911](https://ianring.com/musictheory/scales/911) | [Radian](ModeBNaturalRadian.md) | B | B, C, Db, Ebb, F#, G, Ab, B | ![ModeBNaturalRadian](ModeBNaturalRadian.png) |
 | [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeFNaturalDygimic.md) | F | F, G, A, B#, C#, D, F | ![ModeFNaturalDygimic](ModeFNaturalDygimic.png) |
 | [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeCNaturalDygimic.md) | C | C, D, E, F##, G#, A, C | ![ModeCNaturalDygimic](ModeCNaturalDygimic.png) |
+| [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeASharpDygimic.md) | A# | A#, B#, C##, D###, E##, F##, A# | ![ModeASharpDygimic](ModeASharpDygimic.png) |
 | [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeBFlatDygimic.md) | Bb | Bb, C, D, E#, F#, G, Bb | ![ModeBFlatDygimic](ModeBFlatDygimic.png) |
 | [919](https://ianring.com/musictheory/scales/919) | [Gathian](ModeFNaturalGathian.md) | F | F, Gb, Abb, Bbb, C, Db, Ebb, F | ![ModeFNaturalGathian](ModeFNaturalGathian.png) |
 | [919](https://ianring.com/musictheory/scales/919) | [Gathian](ModeCNaturalGathian.md) | C | C, Db, Ebb, Fb, G, Ab, Bbb, C | ![ModeCNaturalGathian](ModeCNaturalGathian.png) |
 | [919](https://ianring.com/musictheory/scales/919) | [Gathian](ModeASharpGathian.md) | A# | A#, B, C, D, E#, F#, G, A# | ![ModeASharpGathian](ModeASharpGathian.png) |
+| [919](https://ianring.com/musictheory/scales/919) | [Gathian](ModeBFlatGathian.md) | Bb | Bb, Cb, Dbb, Ebb, F, Gb, Abb, Bb | ![ModeBFlatGathian](ModeBFlatGathian.png) |
 | [923](https://ianring.com/musictheory/scales/923) | [Ionodian](ModeBNaturalIonodian.md) | B | B, C, D, Eb, F#, G, Ab, B | ![ModeBNaturalIonodian](ModeBNaturalIonodian.png) |
 | [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeCNaturalMythian.md) | C | C, D, Eb, Fb, G, Ab, Bbb, C | ![ModeCNaturalMythian](ModeCNaturalMythian.png) |
 | [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeFNaturalMythian.md) | F | F, G, Ab, Bbb, C, Db, Ebb, F | ![ModeFNaturalMythian](ModeFNaturalMythian.png) |
@@ -609,6 +653,7 @@ G
 | [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeDNaturalSogian.md) | D | D, Eb, Fb, G, Ab, Bbb, C, D | ![ModeDNaturalSogian](ModeDNaturalSogian.png) |
 | [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeGNaturalSogian.md) | G | G, Ab, Bbb, C, Db, Ebb, F, G | ![ModeGNaturalSogian](ModeGNaturalSogian.png) |
 | [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeCNaturalSogian.md) | C | C, Db, Ebb, F, Gb, Abb, Bb, C | ![ModeCNaturalSogian](ModeCNaturalSogian.png) |
+| [1257](https://ianring.com/musictheory/scales/1257) | [Aeolyphimic](ModeANaturalAeolyphimic.md) | A | A, B#, C##, D#, E, F##, A | ![ModeANaturalAeolyphimic](ModeANaturalAeolyphimic.png) |
 | [1257](https://ianring.com/musictheory/scales/1257) | [Aeolyphimic](ModeDNaturalAeolyphimic.md) | D | D, E#, F##, G#, A, B#, D | ![ModeDNaturalAeolyphimic](ModeDNaturalAeolyphimic.png) |
 | [1257](https://ianring.com/musictheory/scales/1257) | [Aeolyphimic](ModeGNaturalAeolyphimic.md) | G | G, A#, B#, C#, D, E#, G | ![ModeGNaturalAeolyphimic](ModeGNaturalAeolyphimic.png) |
 | [1259](https://ianring.com/musictheory/scales/1259) | [Stadian](ModeDNaturalStadian.md) | D | D, Eb, F, G, Ab, Bbb, C, D | ![ModeDNaturalStadian](ModeDNaturalStadian.png) |
@@ -674,6 +719,7 @@ G
 | [1333](https://ianring.com/musictheory/scales/1333) | [Lyptimic](ModeDNaturalLyptimic.md) | D | D, E, F#, G, A#, B#, D | ![ModeDNaturalLyptimic](ModeDNaturalLyptimic.png) |
 | [1335](https://ianring.com/musictheory/scales/1335) | [Aeralian](ModeDNaturalAeralian.md) | D | D, Eb, Fb, Gb, Abb, Bb, C, D | ![ModeDNaturalAeralian](ModeDNaturalAeralian.png) |
 | [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeANaturalEpogimic.md) | A | A, B#, C#, D, E#, F##, A | ![ModeANaturalEpogimic](ModeANaturalEpogimic.png) |
+| [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeENaturalEpogimic.md) | E | E, F##, G#, A, B#, C##, E | ![ModeENaturalEpogimic](ModeENaturalEpogimic.png) |
 | [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeDNaturalEpogimic.md) | D | D, E#, F#, G, A#, B#, D | ![ModeDNaturalEpogimic](ModeDNaturalEpogimic.png) |
 | [1339](https://ianring.com/musictheory/scales/1339) | [Kycrian](ModeENaturalKycrian.md) | E | E, F, G, Ab, Bbb, C, D, E | ![ModeENaturalKycrian](ModeENaturalKycrian.png) |
 | [1339](https://ianring.com/musictheory/scales/1339) | [Kycrian](ModeDNaturalKycrian.md) | D | D, Eb, F, Gb, Abb, Bb, C, D | ![ModeDNaturalKycrian](ModeDNaturalKycrian.png) |
@@ -695,13 +741,17 @@ G
 | [1355](https://ianring.com/musictheory/scales/1355) | [Aeolorimic](ModeBNaturalAeolorimic.md) | B | B, C, D, E#, F##, G##, B | ![ModeBNaturalAeolorimic](ModeBNaturalAeolorimic.png) |
 | [1357](https://ianring.com/musictheory/scales/1357) | [Katonimic](ModeENaturalKatonimic.md) | E | E, F#, G, A#, B#, C##, E | ![ModeENaturalKatonimic](ModeENaturalKatonimic.png) |
 | [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeFSharpAerygian.md) | F# | F#, G, Ab, Bbb, C, D, E, F# | ![ModeFSharpAerygian](ModeFSharpAerygian.png) |
+| [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeGFlatAerygian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbb, Ebb, Fb, Gb | ![ModeGFlatAerygian](ModeGFlatAerygian.png) |
 | [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeENaturalAerygian.md) | E | E, F, Gb, Abb, Bb, C, D, E | ![ModeENaturalAerygian](ModeENaturalAerygian.png) |
 | [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeBNaturalAerygian.md) | B | B, C, Db, Ebb, F, G, A, B | ![ModeBNaturalAerygian](ModeBNaturalAerygian.png) |
 | [1363](https://ianring.com/musictheory/scales/1363) | [Gygimic](ModeFSharpGygimic.md) | F# | F#, G, A#, B#, C##, D##, F# | ![ModeFSharpGygimic](ModeFSharpGygimic.png) |
 | [1363](https://ianring.com/musictheory/scales/1363) | [Gygimic](ModeGFlatGygimic.md) | Gb | Gb, Abb, Bb, C, D, E, Gb | ![ModeGFlatGygimic](ModeGFlatGygimic.png) |
 | [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModeFSharpPyptian.md) | F# | F#, G, Ab, Bb, C, D, E, F# | ![ModeFSharpPyptian](ModeFSharpPyptian.png) |
+| [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModeGFlatPyptian.md) | Gb | Gb, Abb, Bbbb, Cbb, Dbb, Ebb, Fb, Gb | ![ModeGFlatPyptian](ModeGFlatPyptian.png) |
+| [1369](https://ianring.com/musictheory/scales/1369) | [Boptimic](ModeENaturalBoptimic.md) | E | E, F##, G#, A#, B#, C##, E | ![ModeENaturalBoptimic](ModeENaturalBoptimic.png) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeENaturalIonadian.md) | E | E, F, G, Ab, Bb, C, D, E | ![ModeENaturalIonadian](ModeENaturalIonadian.png) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeFSharpIonadian.md) | F# | F#, G, A, Bb, C, D, E, F# | ![ModeFSharpIonadian](ModeFSharpIonadian.png) |
+| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeGFlatIonadian.md) | Gb | Gb, Abb, Bbb, Cbb, Dbb, Ebb, Fb, Gb | ![ModeGFlatIonadian](ModeGFlatIonadian.png) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeBNaturalIonadian.md) | B | B, C, D, Eb, F, G, A, B | ![ModeBNaturalIonadian](ModeBNaturalIonadian.png) |
 | [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeENaturalStorian.md) | E | E, F#, G, Ab, Bb, C, D, E | ![ModeENaturalStorian](ModeENaturalStorian.png) |
 | [1375](https://ianring.com/musictheory/scales/1375) | [Bothyllic](ModeENaturalBothyllic.md) | E | E, F, F#, G, G#, A#, C, D, E | ![ModeENaturalBothyllic](ModeENaturalBothyllic.png) |
@@ -714,12 +764,16 @@ G
 | [1381](https://ianring.com/musictheory/scales/1381) | [Padimic](ModeDNaturalPadimic.md) | D | D, E, F##, G#, A#, B#, D | ![ModeDNaturalPadimic](ModeDNaturalPadimic.png) |
 | [1383](https://ianring.com/musictheory/scales/1383) | [Pynian](ModeDNaturalPynian.md) | D | D, Eb, Fb, G, Ab, Bb, C, D | ![ModeDNaturalPynian](ModeDNaturalPynian.png) |
 | [1383](https://ianring.com/musictheory/scales/1383) | [Pynian](ModeFSharpPynian.md) | F# | F#, G, Ab, B, C, D, E, F# | ![ModeFSharpPynian](ModeFSharpPynian.png) |
+| [1383](https://ianring.com/musictheory/scales/1383) | [Pynian](ModeGFlatPynian.md) | Gb | Gb, Abb, Bbbb, Cb, Dbb, Ebb, Fb, Gb | ![ModeGFlatPynian](ModeGFlatPynian.png) |
+| [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModeANaturalPhracrimic.md) | A | A, B#, C##, D#, E#, F##, A | ![ModeANaturalPhracrimic](ModeANaturalPhracrimic.png) |
 | [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModeDNaturalPhracrimic.md) | D | D, E#, F##, G#, A#, B#, D | ![ModeDNaturalPhracrimic](ModeDNaturalPhracrimic.png) |
+| [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModeENaturalPhracrimic.md) | E | E, F##, G##, A#, B#, C##, E | ![ModeENaturalPhracrimic](ModeENaturalPhracrimic.png) |
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeDNaturalLocrian.md) | D | D, Eb, F, G, Ab, Bb, C, D | ![ModeDNaturalLocrian](ModeDNaturalLocrian.png) |
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeANaturalLocrian.md) | A | A, Bb, C, D, Eb, F, G, A | ![ModeANaturalLocrian](ModeANaturalLocrian.png) |
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeENaturalLocrian.md) | E | E, F, G, A, Bb, C, D, E | ![ModeENaturalLocrian](ModeENaturalLocrian.png) |
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeBNaturalLocrian.md) | B | B, C, D, E, F, G, A, B | ![ModeBNaturalLocrian](ModeBNaturalLocrian.png) |
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeFSharpLocrian.md) | F# | F#, G, A, B, C, D, E, F# | ![ModeFSharpLocrian](ModeFSharpLocrian.png) |
+| [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeGFlatLocrian.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Ebb, Fb, Gb | ![ModeGFlatLocrian](ModeGFlatLocrian.png) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeDNaturalLorian.md) | D | D, E, F, G, Ab, Bb, C, D | ![ModeDNaturalLorian](ModeDNaturalLorian.png) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeENaturalLorian.md) | E | E, F#, G, A, Bb, C, D, E | ![ModeENaturalLorian](ModeENaturalLorian.png) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeANaturalLorian.md) | A | A, B, C, D, Eb, F, G, A | ![ModeANaturalLorian](ModeANaturalLorian.png) |
@@ -732,6 +786,7 @@ G
 | [1393](https://ianring.com/musictheory/scales/1393) | [Mycrimic](ModeDNaturalMycrimic.md) | D | D, E##, F##, G#, A#, B#, D | ![ModeDNaturalMycrimic](ModeDNaturalMycrimic.png) |
 | [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeDNaturalMixonorian.md) | D | D, Eb, F#, G, Ab, Bb, C, D | ![ModeDNaturalMixonorian](ModeDNaturalMixonorian.png) |
 | [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeFSharpMixonorian.md) | F# | F#, G, A#, B, C, D, E, F# | ![ModeFSharpMixonorian](ModeFSharpMixonorian.png) |
+| [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeGFlatMixonorian.md) | Gb | Gb, Abb, Bb, Cb, Dbb, Ebb, Fb, Gb | ![ModeGFlatMixonorian](ModeGFlatMixonorian.png) |
 | [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeDNaturalGothian.md) | D | D, E, F#, G, Ab, Bb, C, D | ![ModeDNaturalGothian](ModeDNaturalGothian.png) |
 | [1399](https://ianring.com/musictheory/scales/1399) | [Syryllic](ModeDNaturalSyryllic.md) | D | D, D#, E, F#, G, G#, A#, C, D | ![ModeDNaturalSyryllic](ModeDNaturalSyryllic.png) |
 | [1399](https://ianring.com/musictheory/scales/1399) | [Syryllic](ModeFSharpSyryllic.md) | F# | F#, G, G#, A#, B, C, D, E, F# | ![ModeFSharpSyryllic](ModeFSharpSyryllic.png) |
@@ -764,6 +819,7 @@ G
 | [1423](https://ianring.com/musictheory/scales/1423) | [Doptian](ModeBNaturalDoptian.md) | B | B, C, Db, Ebb, F#, G, A, B | ![ModeBNaturalDoptian](ModeBNaturalDoptian.png) |
 | [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeCNaturalBythimic.md) | C | C, D, E, F##, G#, A#, C | ![ModeCNaturalBythimic](ModeCNaturalBythimic.png) |
 | [1431](https://ianring.com/musictheory/scales/1431) | [Phragian](ModeCNaturalPhragian.md) | C | C, Db, Ebb, Fb, G, Ab, Bb, C | ![ModeCNaturalPhragian](ModeCNaturalPhragian.png) |
+| [1433](https://ianring.com/musictheory/scales/1433) | [Dynimic](ModeENaturalDynimic.md) | E | E, F##, G#, A##, B#, C##, E | ![ModeENaturalDynimic](ModeENaturalDynimic.png) |
 | [1435](https://ianring.com/musictheory/scales/1435) | [Phronian](ModeENaturalPhronian.md) | E | E, F, G, Ab, B, C, D, E | ![ModeENaturalPhronian](ModeENaturalPhronian.png) |
 | [1435](https://ianring.com/musictheory/scales/1435) | [Phronian](ModeBNaturalPhronian.md) | B | B, C, D, Eb, F#, G, A, B | ![ModeBNaturalPhronian](ModeBNaturalPhronian.png) |
 | [1437](https://ianring.com/musictheory/scales/1437) | [Aeolycrian](ModeCNaturalAeolycrian.md) | C | C, D, Eb, Fb, G, Ab, Bb, C | ![ModeCNaturalAeolycrian](ModeCNaturalAeolycrian.png) |
@@ -779,8 +835,10 @@ G
 | [1447](https://ianring.com/musictheory/scales/1447) | [Mixopyrian](ModeGNaturalMixopyrian.md) | G | G, Ab, Bbb, C, D, Eb, F, G | ![ModeGNaturalMixopyrian](ModeGNaturalMixopyrian.png) |
 | [1447](https://ianring.com/musictheory/scales/1447) | [Mixopyrian](ModeCNaturalMixopyrian.md) | C | C, Db, Ebb, F, G, Ab, Bb, C | ![ModeCNaturalMixopyrian](ModeCNaturalMixopyrian.png) |
 | [1447](https://ianring.com/musictheory/scales/1447) | [Mixopyrian](ModeDNaturalMixopyrian.md) | D | D, Eb, Fb, G, A, Bb, C, D | ![ModeDNaturalMixopyrian](ModeDNaturalMixopyrian.png) |
+| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeANaturalEpathimic.md) | A | A, B#, C##, D##, E#, F##, A | ![ModeANaturalEpathimic](ModeANaturalEpathimic.png) |
 | [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeGNaturalEpathimic.md) | G | G, A#, B#, C##, D#, E#, G | ![ModeGNaturalEpathimic](ModeGNaturalEpathimic.png) |
 | [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeDNaturalEpathimic.md) | D | D, E#, F##, G##, A#, B#, D | ![ModeDNaturalEpathimic](ModeDNaturalEpathimic.png) |
+| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeENaturalEpathimic.md) | E | E, F##, G##, A##, B#, C##, E | ![ModeENaturalEpathimic](ModeENaturalEpathimic.png) |
 | [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModeGNaturalPhrygian.md) | G | G, Ab, Bb, C, D, Eb, F, G | ![ModeGNaturalPhrygian](ModeGNaturalPhrygian.png) |
 | [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModeDNaturalPhrygian.md) | D | D, Eb, F, G, A, Bb, C, D | ![ModeDNaturalPhrygian](ModeDNaturalPhrygian.png) |
 | [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModeANaturalPhrygian.md) | A | A, Bb, C, D, E, F, G, A | ![ModeANaturalPhrygian](ModeANaturalPhrygian.png) |
@@ -831,6 +889,7 @@ G
 | [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeFSharpAeolagian.md) | F# | F#, G, Ab, B#, C#, D, E, F# | ![ModeFSharpAeolagian](ModeFSharpAeolagian.png) |
 | [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeGFlatAeolagian.md) | Gb | Gb, Abb, Bbbb, C, Db, Ebb, Fb, Gb | ![ModeGFlatAeolagian](ModeGFlatAeolagian.png) |
 | [1479](https://ianring.com/musictheory/scales/1479) | [Aeolagian](ModeCNaturalAeolagian.md) | C | C, Db, Ebb, F#, G, Ab, Bb, C | ![ModeCNaturalAeolagian](ModeCNaturalAeolagian.png) |
+| [1481](https://ianring.com/musictheory/scales/1481) | [Zagimic](ModeENaturalZagimic.md) | E | E, F##, G###, A##, B#, C##, E | ![ModeENaturalZagimic](ModeENaturalZagimic.png) |
 | [1483](https://ianring.com/musictheory/scales/1483) | [Dygian](ModeFSharpDygian.md) | F# | F#, G, A, B#, C#, D, E, F# | ![ModeFSharpDygian](ModeFSharpDygian.png) |
 | [1483](https://ianring.com/musictheory/scales/1483) | [Dygian](ModeGFlatDygian.md) | Gb | Gb, Abb, Bbb, C, Db, Ebb, Fb, Gb | ![ModeGFlatDygian](ModeGFlatDygian.png) |
 | [1483](https://ianring.com/musictheory/scales/1483) | [Dygian](ModeBNaturalDygian.md) | B | B, C, D, E#, F#, G, A, B | ![ModeBNaturalDygian](ModeBNaturalDygian.png) |
@@ -947,6 +1006,7 @@ G
 | [1583](https://ianring.com/musictheory/scales/1583) | [Salian](ModeANaturalSalian.md) | A | A, Bb, Cb, Dbb, Ebb, F#, G, A | ![ModeANaturalSalian](ModeANaturalSalian.png) |
 | [1585](https://ianring.com/musictheory/scales/1585) | [Phraditonic](ModeDNaturalPhraditonic.md) | D | D, F#, G, B, C, D | ![ModeDNaturalPhraditonic](ModeDNaturalPhraditonic.png) |
 | [1587](https://ianring.com/musictheory/scales/1587) | [Lalimic](ModeDNaturalLalimic.md) | D | D, Eb, F#, G, A##, B#, D | ![ModeDNaturalLalimic](ModeDNaturalLalimic.png) |
+| [1589](https://ianring.com/musictheory/scales/1589) | [Ionagimic](ModeASharpIonagimic.md) | A# | A#, B#, C##, D#, E###, F###, A# | ![ModeASharpIonagimic](ModeASharpIonagimic.png) |
 | [1589](https://ianring.com/musictheory/scales/1589) | [Ionagimic](ModeBFlatIonagimic.md) | Bb | Bb, C, D, Eb, F##, G#, Bb | ![ModeBFlatIonagimic](ModeBFlatIonagimic.png) |
 | [1589](https://ianring.com/musictheory/scales/1589) | [Ionagimic](ModeDNaturalIonagimic.md) | D | D, E, F#, G, A##, B#, D | ![ModeDNaturalIonagimic](ModeDNaturalIonagimic.png) |
 | [1591](https://ianring.com/musictheory/scales/1591) | [Rodian](ModeDNaturalRodian.md) | D | D, Eb, Fb, Gb, Abb, B, C, D | ![ModeDNaturalRodian](ModeDNaturalRodian.png) |
@@ -964,6 +1024,7 @@ G
 | [1599](https://ianring.com/musictheory/scales/1599) | [Pocryllic](ModeASharpPocryllic.md) | A# | A#, B, C, C#, D, D#, G, G#, A# | ![ModeASharpPocryllic](ModeASharpPocryllic.png) |
 | [1599](https://ianring.com/musictheory/scales/1599) | [Pocryllic](ModeBFlatPocryllic.md) | Bb | Bb, B, C, Db, D, Eb, G, Ab, Bb | ![ModeBFlatPocryllic](ModeBFlatPocryllic.png) |
 | [1599](https://ianring.com/musictheory/scales/1599) | [Pocryllic](ModeANaturalPocryllic.md) | A | A, A#, B, C, C#, D, F#, G, A | ![ModeANaturalPocryllic](ModeANaturalPocryllic.png) |
+| [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeASharpAeolathimic.md) | A# | A#, B#, C##, D##, E###, F###, A# | ![ModeASharpAeolathimic](ModeASharpAeolathimic.png) |
 | [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeBFlatAeolathimic.md) | Bb | Bb, C, D, E, F##, G#, Bb | ![ModeBFlatAeolathimic](ModeBFlatAeolathimic.png) |
 | [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeASharpLothian.md) | A# | A#, B, C, D, E, F##, G#, A# | ![ModeASharpLothian](ModeASharpLothian.png) |
 | [1623](https://ianring.com/musictheory/scales/1623) | [Lothian](ModeBFlatLothian.md) | Bb | Bb, Cb, Dbb, Ebb, Fb, G, Ab, Bb | ![ModeBFlatLothian](ModeBFlatLothian.png) |
@@ -974,6 +1035,7 @@ G
 | [1635](https://ianring.com/musictheory/scales/1635) | [Sygimic](ModeDNaturalSygimic.md) | D | D, Eb, F##, G#, A##, B#, D | ![ModeDNaturalSygimic](ModeDNaturalSygimic.png) |
 | [1637](https://ianring.com/musictheory/scales/1637) | [Syptimic](ModeDNaturalSyptimic.md) | D | D, E, F##, G#, A##, B#, D | ![ModeDNaturalSyptimic](ModeDNaturalSyptimic.png) |
 | [1639](https://ianring.com/musictheory/scales/1639) | [Aeolothian](ModeDNaturalAeolothian.md) | D | D, Eb, Fb, G, Ab, B, C, D | ![ModeDNaturalAeolothian](ModeDNaturalAeolothian.png) |
+| [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeANaturalBocrimic.md) | A | A, B#, C##, D#, E##, F##, A | ![ModeANaturalBocrimic](ModeANaturalBocrimic.png) |
 | [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeDNaturalBocrimic.md) | D | D, E#, F##, G#, A##, B#, D | ![ModeDNaturalBocrimic](ModeDNaturalBocrimic.png) |
 | [1643](https://ianring.com/musictheory/scales/1643) | [Thyptian](ModeANaturalThyptian.md) | A | A, Bb, C, D, Eb, F#, G, A | ![ModeANaturalThyptian](ModeANaturalThyptian.png) |
 | [1643](https://ianring.com/musictheory/scales/1643) | [Thyptian](ModeDNaturalThyptian.md) | D | D, Eb, F, G, Ab, B, C, D | ![ModeDNaturalThyptian](ModeDNaturalThyptian.png) |
@@ -983,6 +1045,7 @@ G
 | [1647](https://ianring.com/musictheory/scales/1647) | [Polyllic](ModeANaturalPolyllic.md) | A | A, A#, B, C, D, D#, F#, G, A | ![ModeANaturalPolyllic](ModeANaturalPolyllic.png) |
 | [1649](https://ianring.com/musictheory/scales/1649) | [Bolimic](ModeDNaturalBolimic.md) | D | D, E##, F##, G#, A##, B#, D | ![ModeDNaturalBolimic](ModeDNaturalBolimic.png) |
 | [1651](https://ianring.com/musictheory/scales/1651) | [Mogian](ModeDNaturalMogian.md) | D | D, Eb, F#, G, Ab, B, C, D | ![ModeDNaturalMogian](ModeDNaturalMogian.png) |
+| [1653](https://ianring.com/musictheory/scales/1653) | [Gylian](ModeASharpGylian.md) | A# | A#, B#, C##, D#, E, F##, G#, A# | ![ModeASharpGylian](ModeASharpGylian.png) |
 | [1653](https://ianring.com/musictheory/scales/1653) | [Gylian](ModeBFlatGylian.md) | Bb | Bb, C, D, Eb, Fb, G, Ab, Bb | ![ModeBFlatGylian](ModeBFlatGylian.png) |
 | [1653](https://ianring.com/musictheory/scales/1653) | [Gylian](ModeDNaturalGylian.md) | D | D, E, F#, G, Ab, B, C, D | ![ModeDNaturalGylian](ModeDNaturalGylian.png) |
 | [1655](https://ianring.com/musictheory/scales/1655) | [Katygyllic](ModeDNaturalKatygyllic.md) | D | D, D#, E, F#, G, G#, B, C, D | ![ModeDNaturalKatygyllic](ModeDNaturalKatygyllic.png) |
@@ -1005,6 +1068,7 @@ G
 | [1679](https://ianring.com/musictheory/scales/1679) | [Kydian](ModeFNaturalKydian.md) | F | F, Gb, Abb, Bbbb, C, D, Eb, F | ![ModeFNaturalKydian](ModeFNaturalKydian.png) |
 | [1679](https://ianring.com/musictheory/scales/1679) | [Kydian](ModeCNaturalKydian.md) | C | C, Db, Ebb, Fbb, G, A, Bb, C | ![ModeCNaturalKydian](ModeCNaturalKydian.png) |
 | [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeFNaturalZeracrimic.md) | F | F, G, A, B#, C##, D#, F | ![ModeFNaturalZeracrimic](ModeFNaturalZeracrimic.png) |
+| [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeASharpZeracrimic.md) | A# | A#, B#, C##, D###, E###, F###, A# | ![ModeASharpZeracrimic](ModeASharpZeracrimic.png) |
 | [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeBFlatZeracrimic.md) | Bb | Bb, C, D, E#, F##, G#, Bb | ![ModeBFlatZeracrimic](ModeBFlatZeracrimic.png) |
 | [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeCNaturalZeracrimic.md) | C | C, D, E, F##, G##, A#, C | ![ModeCNaturalZeracrimic](ModeCNaturalZeracrimic.png) |
 | [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModeFNaturalPhralian.md) | F | F, Gb, Abb, Bbb, C, D, Eb, F | ![ModeFNaturalPhralian](ModeFNaturalPhralian.png) |
@@ -1029,6 +1093,7 @@ G
 | [1703](https://ianring.com/musictheory/scales/1703) | [Zaptian](ModeFNaturalZaptian.md) | F | F, Gb, Abb, Bb, C, D, Eb, F | ![ModeFNaturalZaptian](ModeFNaturalZaptian.png) |
 | [1703](https://ianring.com/musictheory/scales/1703) | [Zaptian](ModeCNaturalZaptian.md) | C | C, Db, Ebb, F, G, A, Bb, C | ![ModeCNaturalZaptian](ModeCNaturalZaptian.png) |
 | [1703](https://ianring.com/musictheory/scales/1703) | [Zaptian](ModeDNaturalZaptian.md) | D | D, Eb, Fb, G, A, B, C, D | ![ModeDNaturalZaptian](ModeDNaturalZaptian.png) |
+| [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeANaturalDarmic.md) | A | A, B#, C##, D##, E##, F##, A | ![ModeANaturalDarmic](ModeANaturalDarmic.png) |
 | [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeGNaturalDarmic.md) | G | G, A#, B#, C##, D##, E#, G | ![ModeGNaturalDarmic](ModeGNaturalDarmic.png) |
 | [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeDNaturalDarmic.md) | D | D, E#, F##, G##, A##, B#, D | ![ModeDNaturalDarmic](ModeDNaturalDarmic.png) |
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeGNaturalMixolythian.md) | G | G, Ab, Bb, C, D, E, F, G | ![ModeGNaturalMixolythian](ModeGNaturalMixolythian.png) |
@@ -1048,6 +1113,7 @@ G
 | [1713](https://ianring.com/musictheory/scales/1713) | [Garimic](ModeDNaturalGarimic.md) | D | D, E##, F##, G##, A##, B#, D | ![ModeDNaturalGarimic](ModeDNaturalGarimic.png) |
 | [1715](https://ianring.com/musictheory/scales/1715) | [Aeronian](ModeGNaturalAeronian.md) | G | G, Ab, B, C, D, E, F, G | ![ModeGNaturalAeronian](ModeGNaturalAeronian.png) |
 | [1715](https://ianring.com/musictheory/scales/1715) | [Aeronian](ModeDNaturalAeronian.md) | D | D, Eb, F#, G, A, B, C, D | ![ModeDNaturalAeronian](ModeDNaturalAeronian.png) |
+| [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeASharpMixolydian.md) | A# | A#, B#, C##, D#, E#, F##, G#, A# | ![ModeASharpMixolydian](ModeASharpMixolydian.png) |
 | [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeBFlatMixolydian.md) | Bb | Bb, C, D, Eb, F, G, Ab, Bb | ![ModeBFlatMixolydian](ModeBFlatMixolydian.png) |
 | [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeFNaturalMixolydian.md) | F | F, G, A, Bb, C, D, Eb, F | ![ModeFNaturalMixolydian](ModeFNaturalMixolydian.png) |
 | [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeCNaturalMixolydian.md) | C | C, D, E, F, G, A, Bb, C | ![ModeCNaturalMixolydian](ModeCNaturalMixolydian.png) |
@@ -1087,6 +1153,7 @@ G
 | [1741](https://ianring.com/musictheory/scales/1741) | [Katycrian](ModeFNaturalKatycrian.md) | F | F, G, Ab, B, C, D, Eb, F | ![ModeFNaturalKatycrian](ModeFNaturalKatycrian.png) |
 | [1743](https://ianring.com/musictheory/scales/1743) | [Epigyllic](ModeCNaturalEpigyllic.md) | C | C, C#, D, D#, F#, G, A, A#, C | ![ModeCNaturalEpigyllic](ModeCNaturalEpigyllic.png) |
 | [1743](https://ianring.com/musictheory/scales/1743) | [Epigyllic](ModeFNaturalEpigyllic.md) | F | F, F#, G, G#, B, C, D, D#, F | ![ModeFNaturalEpigyllic](ModeFNaturalEpigyllic.png) |
+| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeASharpLythian.md) | A# | A#, B#, C##, D##, E#, F##, G#, A# | ![ModeASharpLythian](ModeASharpLythian.png) |
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeBFlatLythian.md) | Bb | Bb, C, D, E, F, G, Ab, Bb | ![ModeBFlatLythian](ModeBFlatLythian.png) |
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeCNaturalLythian.md) | C | C, D, E, F#, G, A, Bb, C | ![ModeCNaturalLythian](ModeCNaturalLythian.png) |
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeFNaturalLythian.md) | F | F, G, A, B, C, D, Eb, F | ![ModeFNaturalLythian](ModeFNaturalLythian.png) |
@@ -1164,9 +1231,11 @@ G
 | [1791](https://ianring.com/musictheory/scales/1791) | [Aerygyllian](ModeANaturalAerygyllian.md) | A | A, A#, B, C, C#, D, D#, E, F#, G, A | ![ModeANaturalAerygyllian](ModeANaturalAerygyllian.png) |
 | [1791](https://ianring.com/musictheory/scales/1791) | [Aerygyllian](ModeGNaturalAerygyllian.md) | G | G, G#, A, A#, B, C, C#, D, E, F, G | ![ModeGNaturalAerygyllian](ModeGNaturalAerygyllian.png) |
 | [1791](https://ianring.com/musictheory/scales/1791) | [Aerygyllian](ModeFNaturalAerygyllian.md) | F | F, F#, G, G#, A, A#, B, C, D, D#, F | ![ModeFNaturalAerygyllian](ModeFNaturalAerygyllian.png) |
+| [1813](https://ianring.com/musictheory/scales/1813) | [Katothimic](ModeASharpKatothimic.md) | A# | A#, B#, C##, E##, F##, G#, A# | ![ModeASharpKatothimic](ModeASharpKatothimic.png) |
 | [1813](https://ianring.com/musictheory/scales/1813) | [Katothimic](ModeBFlatKatothimic.md) | Bb | Bb, C, D, E##, F##, G#, Bb | ![ModeBFlatKatothimic](ModeBFlatKatothimic.png) |
 | [1815](https://ianring.com/musictheory/scales/1815) | [Godian](ModeASharpGodian.md) | A# | A#, B, C, D, E##, F##, G#, A# | ![ModeASharpGodian](ModeASharpGodian.png) |
 | [1815](https://ianring.com/musictheory/scales/1815) | [Godian](ModeBFlatGodian.md) | Bb | Bb, Cb, Dbb, Ebb, F#, G, Ab, Bb | ![ModeBFlatGodian](ModeBFlatGodian.png) |
+| [1817](https://ianring.com/musictheory/scales/1817) | [Phrythimic](ModeENaturalPhrythimic.md) | E | E, F##, G#, A###, B##, C##, E | ![ModeENaturalPhrythimic](ModeENaturalPhrythimic.png) |
 | [1819](https://ianring.com/musictheory/scales/1819) | [Pydian](ModeENaturalPydian.md) | E | E, F, G, Ab, B#, C#, D, E | ![ModeENaturalPydian](ModeENaturalPydian.png) |
 | [1819](https://ianring.com/musictheory/scales/1819) | [Pydian](ModeBNaturalPydian.md) | B | B, C, D, Eb, F##, G#, A, B | ![ModeBNaturalPydian](ModeBNaturalPydian.png) |
 | [1821](https://ianring.com/musictheory/scales/1821) | [Aeradian](ModeENaturalAeradian.md) | E | E, F#, G, Ab, B#, C#, D, E | ![ModeENaturalAeradian](ModeENaturalAeradian.png) |
@@ -1179,6 +1248,8 @@ G
 | [1827](https://ianring.com/musictheory/scales/1827) | [Katygimic](ModeDNaturalKatygimic.md) | D | D, Eb, F##, G###, A##, B#, D | ![ModeDNaturalKatygimic](ModeDNaturalKatygimic.png) |
 | [1829](https://ianring.com/musictheory/scales/1829) | [Pathimic](ModeDNaturalPathimic.md) | D | D, E, F##, G###, A##, B#, D | ![ModeDNaturalPathimic](ModeDNaturalPathimic.png) |
 | [1831](https://ianring.com/musictheory/scales/1831) | [Pothian](ModeDNaturalPothian.md) | D | D, Eb, Fb, G, A#, B, C, D | ![ModeDNaturalPothian](ModeDNaturalPothian.png) |
+| [1833](https://ianring.com/musictheory/scales/1833) | [Ionacrimic](ModeENaturalIonacrimic.md) | E | E, F##, G##, A###, B##, C##, E | ![ModeENaturalIonacrimic](ModeENaturalIonacrimic.png) |
+| [1833](https://ianring.com/musictheory/scales/1833) | [Ionacrimic](ModeANaturalIonacrimic.md) | A | A, B#, C##, D###, E##, F##, A | ![ModeANaturalIonacrimic](ModeANaturalIonacrimic.png) |
 | [1833](https://ianring.com/musictheory/scales/1833) | [Ionacrimic](ModeDNaturalIonacrimic.md) | D | D, E#, F##, G###, A##, B#, D | ![ModeDNaturalIonacrimic](ModeDNaturalIonacrimic.png) |
 | [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeENaturalByptian.md) | E | E, F, G, A, B#, C#, D, E | ![ModeENaturalByptian](ModeENaturalByptian.png) |
 | [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeANaturalByptian.md) | A | A, Bb, C, D, E#, F#, G, A | ![ModeANaturalByptian](ModeANaturalByptian.png) |
@@ -1193,6 +1264,7 @@ G
 | [1839](https://ianring.com/musictheory/scales/1839) | [Zogyllic](ModeANaturalZogyllic.md) | A | A, A#, B, C, D, F, F#, G, A | ![ModeANaturalZogyllic](ModeANaturalZogyllic.png) |
 | [1841](https://ianring.com/musictheory/scales/1841) | [Thogimic](ModeDNaturalThogimic.md) | D | D, E##, F##, G###, A##, B#, D | ![ModeDNaturalThogimic](ModeDNaturalThogimic.png) |
 | [1843](https://ianring.com/musictheory/scales/1843) | [Ionygian](ModeDNaturalIonygian.md) | D | D, Eb, F#, G, A#, B, C, D | ![ModeDNaturalIonygian](ModeDNaturalIonygian.png) |
+| [1845](https://ianring.com/musictheory/scales/1845) | [Lagian](ModeASharpLagian.md) | A# | A#, B#, C##, D#, E##, F##, G#, A# | ![ModeASharpLagian](ModeASharpLagian.png) |
 | [1845](https://ianring.com/musictheory/scales/1845) | [Lagian](ModeBFlatLagian.md) | Bb | Bb, C, D, Eb, F#, G, Ab, Bb | ![ModeBFlatLagian](ModeBFlatLagian.png) |
 | [1845](https://ianring.com/musictheory/scales/1845) | [Lagian](ModeDNaturalLagian.md) | D | D, E, F#, G, A#, B, C, D | ![ModeDNaturalLagian](ModeDNaturalLagian.png) |
 | [1847](https://ianring.com/musictheory/scales/1847) | [Thacryllic](ModeDNaturalThacryllic.md) | D | D, D#, E, F#, G, A#, B, C, D | ![ModeDNaturalThacryllic](ModeDNaturalThacryllic.png) |
@@ -1218,6 +1290,7 @@ G
 | [1855](https://ianring.com/musictheory/scales/1855) | [Marygic](ModeANaturalMarygic.md) | A | A, A#, B, C, C#, D, F, F#, G, A | ![ModeANaturalMarygic](ModeANaturalMarygic.png) |
 | [1863](https://ianring.com/musictheory/scales/1863) | [Pycrian](ModeFSharpPycrian.md) | F# | F#, G, Ab, B#, C##, D#, E, F# | ![ModeFSharpPycrian](ModeFSharpPycrian.png) |
 | [1863](https://ianring.com/musictheory/scales/1863) | [Pycrian](ModeGFlatPycrian.md) | Gb | Gb, Abb, Bbbb, C, D, Eb, Fb, Gb | ![ModeGFlatPycrian](ModeGFlatPycrian.png) |
+| [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeENaturalThagimic.md) | E | E, F##, G###, A###, B##, C##, E | ![ModeENaturalThagimic](ModeENaturalThagimic.png) |
 | [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeFSharpSolian.md) | F# | F#, G, A, B#, C##, D#, E, F# | ![ModeFSharpSolian](ModeFSharpSolian.png) |
 | [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeGFlatSolian.md) | Gb | Gb, Abb, Bbb, C, D, Eb, Fb, Gb | ![ModeGFlatSolian](ModeGFlatSolian.png) |
 | [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeENaturalSolian.md) | E | E, F, G, A#, B#, C#, D, E | ![ModeENaturalSolian](ModeENaturalSolian.png) |
@@ -1229,6 +1302,7 @@ G
 | [1871](https://ianring.com/musictheory/scales/1871) | [Aeolyllic](ModeBNaturalAeolyllic.md) | B | B, C, C#, D, F, G, G#, A, B | ![ModeBNaturalAeolyllic](ModeBNaturalAeolyllic.png) |
 | [1875](https://ianring.com/musictheory/scales/1875) | [Epyphian](ModeFSharpEpyphian.md) | F# | F#, G, A#, B#, C##, D#, E, F# | ![ModeFSharpEpyphian](ModeFSharpEpyphian.png) |
 | [1875](https://ianring.com/musictheory/scales/1875) | [Epyphian](ModeGFlatEpyphian.md) | Gb | Gb, Abb, Bb, C, D, Eb, Fb, Gb | ![ModeGFlatEpyphian](ModeGFlatEpyphian.png) |
+| [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeASharpAeroptian.md) | A# | A#, B#, C##, D##, E##, F##, G#, A# | ![ModeASharpAeroptian](ModeASharpAeroptian.png) |
 | [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeBFlatAeroptian.md) | Bb | Bb, C, D, E, F#, G, Ab, Bb | ![ModeBFlatAeroptian](ModeBFlatAeroptian.png) |
 | [1879](https://ianring.com/musictheory/scales/1879) | [Mixoryllic](ModeFSharpMixoryllic.md) | F# | F#, G, G#, A#, C, D, D#, E, F# | ![ModeFSharpMixoryllic](ModeFSharpMixoryllic.png) |
 | [1879](https://ianring.com/musictheory/scales/1879) | [Mixoryllic](ModeGFlatMixoryllic.md) | Gb | Gb, G, Ab, Bb, C, D, Eb, E, Gb | ![ModeGFlatMixoryllic](ModeGFlatMixoryllic.png) |
@@ -1307,6 +1381,7 @@ G
 | [1919](https://ianring.com/musictheory/scales/1919) | [Rocryllian](ModeANaturalRocryllian.md) | A | A, A#, B, C, C#, D, D#, F, F#, G, A | ![ModeANaturalRocryllian](ModeANaturalRocryllian.png) |
 | [1919](https://ianring.com/musictheory/scales/1919) | [Rocryllian](ModeFSharpRocryllian.md) | F# | F#, G, G#, A, A#, B, C, D, D#, E, F# | ![ModeFSharpRocryllian](ModeFSharpRocryllian.png) |
 | [1919](https://ianring.com/musictheory/scales/1919) | [Rocryllian](ModeGFlatRocryllian.md) | Gb | Gb, G, Ab, A, Bb, B, C, D, Eb, E, Gb | ![ModeGFlatRocryllian](ModeGFlatRocryllian.png) |
+| [1929](https://ianring.com/musictheory/scales/1929) | [Aeolycrimic](ModeENaturalAeolycrimic.md) | E | E, F##, Cb, Dbb, Ebbb, Fbbb, E | ![ModeENaturalAeolycrimic](ModeENaturalAeolycrimic.png) |
 | [1931](https://ianring.com/musictheory/scales/1931) | [Stogian](ModeENaturalStogian.md) | E | E, F, G, A##, B#, C#, D, E | ![ModeENaturalStogian](ModeENaturalStogian.png) |
 | [1931](https://ianring.com/musictheory/scales/1931) | [Stogian](ModeBNaturalStogian.md) | B | B, C, D, E##, F##, G#, A, B | ![ModeBNaturalStogian](ModeBNaturalStogian.png) |
 | [1933](https://ianring.com/musictheory/scales/1933) | [Mocrian](ModeFNaturalMocrian.md) | F | F, G, Ab, B#, C#, D, Eb, F | ![ModeFNaturalMocrian](ModeFNaturalMocrian.png) |
@@ -1317,6 +1392,7 @@ G
 | [1935](https://ianring.com/musictheory/scales/1935) | [Mycryllic](ModeENaturalMycryllic.md) | E | E, F, F#, G, B, C, C#, D, E | ![ModeENaturalMycryllic](ModeENaturalMycryllic.png) |
 | [1935](https://ianring.com/musictheory/scales/1935) | [Mycryllic](ModeBNaturalMycryllic.md) | B | B, C, C#, D, F#, G, G#, A, B | ![ModeBNaturalMycryllic](ModeBNaturalMycryllic.png) |
 | [1941](https://ianring.com/musictheory/scales/1941) | [Aeranian](ModeFNaturalAeranian.md) | F | F, G, A, B#, C#, D, Eb, F | ![ModeFNaturalAeranian](ModeFNaturalAeranian.png) |
+| [1941](https://ianring.com/musictheory/scales/1941) | [Aeranian](ModeASharpAeranian.md) | A# | A#, B#, C##, D###, E##, F##, G#, A# | ![ModeASharpAeranian](ModeASharpAeranian.png) |
 | [1941](https://ianring.com/musictheory/scales/1941) | [Aeranian](ModeBFlatAeranian.md) | Bb | Bb, C, D, E#, F#, G, Ab, Bb | ![ModeBFlatAeranian](ModeBFlatAeranian.png) |
 | [1941](https://ianring.com/musictheory/scales/1941) | [Aeranian](ModeCNaturalAeranian.md) | C | C, D, E, F##, G#, A, Bb, C | ![ModeCNaturalAeranian](ModeCNaturalAeranian.png) |
 | [1943](https://ianring.com/musictheory/scales/1943) | [Malyllic](ModeFNaturalMalyllic.md) | F | F, F#, G, A, C, C#, D, D#, F | ![ModeFNaturalMalyllic](ModeFNaturalMalyllic.png) |
@@ -1594,7 +1670,9 @@ G
 | [2257](https://ianring.com/musictheory/scales/2257) | [Zolitonic](ModeAFlatZolitonic.md) | Ab | Ab, C, D, Eb, G, Ab | ![ModeAFlatZolitonic](ModeAFlatZolitonic.png) |
 | [2259](https://ianring.com/musictheory/scales/2259) | [Gogimic](ModeCSharpGogimic.md) | C# | C#, D, E#, F##, G#, A###, C# | ![ModeCSharpGogimic](ModeCSharpGogimic.png) |
 | [2259](https://ianring.com/musictheory/scales/2259) | [Gogimic](ModeDFlatGogimic.md) | Db | Db, Ebb, F, G, Ab, B#, Db | ![ModeDFlatGogimic](ModeDFlatGogimic.png) |
+| [2259](https://ianring.com/musictheory/scales/2259) | [Gogimic](ModeGSharpGogimic.md) | G# | G#, A, B#, C##, D#, E###, G# | ![ModeGSharpGogimic](ModeGSharpGogimic.png) |
 | [2259](https://ianring.com/musictheory/scales/2259) | [Gogimic](ModeAFlatGogimic.md) | Ab | Ab, Bbb, C, D, Eb, F##, Ab | ![ModeAFlatGogimic](ModeAFlatGogimic.png) |
+| [2261](https://ianring.com/musictheory/scales/2261) | [Phrolimic](ModeGSharpPhrolimic.md) | G# | G#, A#, B#, C##, D#, E###, G# | ![ModeGSharpPhrolimic](ModeGSharpPhrolimic.png) |
 | [2261](https://ianring.com/musictheory/scales/2261) | [Phrolimic](ModeAFlatPhrolimic.md) | Ab | Ab, Bb, C, D, Eb, F##, Ab | ![ModeAFlatPhrolimic](ModeAFlatPhrolimic.png) |
 | [2261](https://ianring.com/musictheory/scales/2261) | [Phrolimic](ModeCNaturalPhrolimic.md) | C | C, D, E, F#, G, A##, C | ![ModeCNaturalPhrolimic](ModeCNaturalPhrolimic.png) |
 | [2263](https://ianring.com/musictheory/scales/2263) | [Lycrian](ModeCSharpLycrian.md) | C# | C#, D, Eb, F, G, Ab, B#, C# | ![ModeCSharpLycrian](ModeCSharpLycrian.png) |
@@ -1602,6 +1680,7 @@ G
 | [2263](https://ianring.com/musictheory/scales/2263) | [Lycrian](ModeGSharpLycrian.md) | G# | G#, A, Bb, C, D, Eb, F##, G# | ![ModeGSharpLycrian](ModeGSharpLycrian.png) |
 | [2263](https://ianring.com/musictheory/scales/2263) | [Lycrian](ModeAFlatLycrian.md) | Ab | Ab, Bbb, Cbb, Dbb, Ebb, Fbb, G, Ab | ![ModeAFlatLycrian](ModeAFlatLycrian.png) |
 | [2263](https://ianring.com/musictheory/scales/2263) | [Lycrian](ModeCNaturalLycrian.md) | C | C, Db, Ebb, Fb, Gb, Abb, B, C | ![ModeCNaturalLycrian](ModeCNaturalLycrian.png) |
+| [2265](https://ianring.com/musictheory/scales/2265) | [Ionophimic](ModeGSharpIonophimic.md) | G# | G#, A##, B#, C##, D#, E###, G# | ![ModeGSharpIonophimic](ModeGSharpIonophimic.png) |
 | [2265](https://ianring.com/musictheory/scales/2265) | [Ionophimic](ModeAFlatIonophimic.md) | Ab | Ab, B, C, D, Eb, F##, Ab | ![ModeAFlatIonophimic](ModeAFlatIonophimic.png) |
 | [2267](https://ianring.com/musictheory/scales/2267) | [Padian](ModeCSharpPadian.md) | C# | C#, D, E, F, G, Ab, B#, C# | ![ModeCSharpPadian](ModeCSharpPadian.png) |
 | [2267](https://ianring.com/musictheory/scales/2267) | [Padian](ModeDFlatPadian.md) | Db | Db, Ebb, Fb, Gbb, Abb, Bbbb, C, Db | ![ModeDFlatPadian](ModeDFlatPadian.png) |
@@ -1634,6 +1713,7 @@ G
 | [2287](https://ianring.com/musictheory/scales/2287) | [Lodyllic](ModeDFlatLodyllic.md) | Db | Db, D, Eb, E, Gb, G, Ab, C, Db | ![ModeDFlatLodyllic](ModeDFlatLodyllic.png) |
 | [2287](https://ianring.com/musictheory/scales/2287) | [Lodyllic](ModeGNaturalLodyllic.md) | G | G, G#, A, A#, C, C#, D, F#, G | ![ModeGNaturalLodyllic](ModeGNaturalLodyllic.png) |
 | [2287](https://ianring.com/musictheory/scales/2287) | [Lodyllic](ModeCNaturalLodyllic.md) | C | C, C#, D, D#, F, F#, G, B, C | ![ModeCNaturalLodyllic](ModeCNaturalLodyllic.png) |
+| [2289](https://ianring.com/musictheory/scales/2289) | [Mocrimic](ModeGSharpMocrimic.md) | G# | G#, A###, B##, C##, D#, E###, G# | ![ModeGSharpMocrimic](ModeGSharpMocrimic.png) |
 | [2289](https://ianring.com/musictheory/scales/2289) | [Mocrimic](ModeAFlatMocrimic.md) | Ab | Ab, B#, C#, D, Eb, F##, Ab | ![ModeAFlatMocrimic](ModeAFlatMocrimic.png) |
 | [2289](https://ianring.com/musictheory/scales/2289) | [Mocrimic](ModeGNaturalMocrimic.md) | G | G, A##, B#, C#, D, E##, G | ![ModeGNaturalMocrimic](ModeGNaturalMocrimic.png) |
 | [2291](https://ianring.com/musictheory/scales/2291) | [Zydian](ModeCSharpZydian.md) | C# | C#, D, E#, F#, G, Ab, B#, C# | ![ModeCSharpZydian](ModeCSharpZydian.png) |
@@ -1687,24 +1767,30 @@ G
 | [2383](https://ianring.com/musictheory/scales/2383) | [Katorian](ModeCSharpKatorian.md) | C# | C#, D, Eb, Fb, G, A, B#, C# | ![ModeCSharpKatorian](ModeCSharpKatorian.png) |
 | [2383](https://ianring.com/musictheory/scales/2383) | [Katorian](ModeDFlatKatorian.md) | Db | Db, Ebb, Fbb, Gbbb, Abb, Bbb, C, Db | ![ModeDFlatKatorian](ModeDFlatKatorian.png) |
 | [2383](https://ianring.com/musictheory/scales/2383) | [Katorian](ModeFSharpKatorian.md) | F# | F#, G, Ab, Bbb, C, D, E#, F# | ![ModeFSharpKatorian](ModeFSharpKatorian.png) |
+| [2383](https://ianring.com/musictheory/scales/2383) | [Katorian](ModeGFlatKatorian.md) | Gb | Gb, Abb, Bbbb, Cbbb, Dbb, Ebb, F, Gb | ![ModeGFlatKatorian](ModeGFlatKatorian.png) |
 | [2383](https://ianring.com/musictheory/scales/2383) | [Katorian](ModeBNaturalKatorian.md) | B | B, C, Db, Ebb, F, G, A#, B | ![ModeBNaturalKatorian](ModeBNaturalKatorian.png) |
 | [2385](https://ianring.com/musictheory/scales/2385) | [Aeolanitonic](ModeGSharpAeolanitonic.md) | G# | G#, C, D, E, G, G# | ![ModeGSharpAeolanitonic](ModeGSharpAeolanitonic.png) |
 | [2385](https://ianring.com/musictheory/scales/2385) | [Aeolanitonic](ModeAFlatAeolanitonic.md) | Ab | Ab, C, D, E, G, Ab | ![ModeAFlatAeolanitonic](ModeAFlatAeolanitonic.png) |
 | [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModeCSharpPaptimic.md) | C# | C#, D, E#, F##, G##, A###, C# | ![ModeCSharpPaptimic](ModeCSharpPaptimic.png) |
 | [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModeDFlatPaptimic.md) | Db | Db, Ebb, F, G, A, B#, Db | ![ModeDFlatPaptimic](ModeDFlatPaptimic.png) |
+| [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModeGSharpPaptimic.md) | G# | G#, A, B#, C##, D##, E###, G# | ![ModeGSharpPaptimic](ModeGSharpPaptimic.png) |
 | [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModeAFlatPaptimic.md) | Ab | Ab, Bbb, C, D, E, F##, Ab | ![ModeAFlatPaptimic](ModeAFlatPaptimic.png) |
 | [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModeFSharpPaptimic.md) | F# | F#, G, A#, B#, C##, D###, F# | ![ModeFSharpPaptimic](ModeFSharpPaptimic.png) |
 | [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModeGFlatPaptimic.md) | Gb | Gb, Abb, Bb, C, D, E#, Gb | ![ModeGFlatPaptimic](ModeGFlatPaptimic.png) |
+| [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeGSharpThynimic.md) | G# | G#, A#, B#, C##, D##, E###, G# | ![ModeGSharpThynimic](ModeGSharpThynimic.png) |
 | [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeAFlatThynimic.md) | Ab | Ab, Bb, C, D, E, F##, Ab | ![ModeAFlatThynimic](ModeAFlatThynimic.png) |
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeCSharpMolian.md) | C# | C#, D, Eb, F, G, A, B#, C# | ![ModeCSharpMolian](ModeCSharpMolian.png) |
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeDFlatMolian.md) | Db | Db, Ebb, Fbb, Gbb, Abb, Bbb, C, Db | ![ModeDFlatMolian](ModeDFlatMolian.png) |
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeFSharpMolian.md) | F# | F#, G, Ab, Bb, C, D, E#, F# | ![ModeFSharpMolian](ModeFSharpMolian.png) |
+| [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeGFlatMolian.md) | Gb | Gb, Abb, Bbbb, Cbb, Dbb, Ebb, F, Gb | ![ModeGFlatMolian](ModeGFlatMolian.png) |
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeGSharpMolian.md) | G# | G#, A, Bb, C, D, E, F##, G# | ![ModeGSharpMolian](ModeGSharpMolian.png) |
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeAFlatMolian.md) | Ab | Ab, Bbb, Cbb, Dbb, Ebb, Fb, G, Ab | ![ModeAFlatMolian](ModeAFlatMolian.png) |
+| [2393](https://ianring.com/musictheory/scales/2393) | [Zathimic](ModeGSharpZathimic.md) | G# | G#, A##, B#, C##, D##, E###, G# | ![ModeGSharpZathimic](ModeGSharpZathimic.png) |
 | [2393](https://ianring.com/musictheory/scales/2393) | [Zathimic](ModeAFlatZathimic.md) | Ab | Ab, B, C, D, E, F##, Ab | ![ModeAFlatZathimic](ModeAFlatZathimic.png) |
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeCSharpZoptian.md) | C# | C#, D, E, F, G, A, B#, C# | ![ModeCSharpZoptian](ModeCSharpZoptian.png) |
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeDFlatZoptian.md) | Db | Db, Ebb, Fb, Gbb, Abb, Bbb, C, Db | ![ModeDFlatZoptian](ModeDFlatZoptian.png) |
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeFSharpZoptian.md) | F# | F#, G, A, Bb, C, D, E#, F# | ![ModeFSharpZoptian](ModeFSharpZoptian.png) |
+| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeGFlatZoptian.md) | Gb | Gb, Abb, Bbb, Cbb, Dbb, Ebb, F, Gb | ![ModeGFlatZoptian](ModeGFlatZoptian.png) |
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeGSharpZoptian.md) | G# | G#, A, B, C, D, E, F##, G# | ![ModeGSharpZoptian](ModeGSharpZoptian.png) |
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeAFlatZoptian.md) | Ab | Ab, Bbb, Cb, Dbb, Ebb, Fb, G, Ab | ![ModeAFlatZoptian](ModeAFlatZoptian.png) |
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeBNaturalZoptian.md) | B | B, C, D, Eb, F, G, A#, B | ![ModeBNaturalZoptian](ModeBNaturalZoptian.png) |
@@ -1724,21 +1810,25 @@ G
 | [2407](https://ianring.com/musictheory/scales/2407) | [Zylian](ModeCSharpZylian.md) | C# | C#, D, Eb, F#, G, A, B#, C# | ![ModeCSharpZylian](ModeCSharpZylian.png) |
 | [2407](https://ianring.com/musictheory/scales/2407) | [Zylian](ModeDFlatZylian.md) | Db | Db, Ebb, Fbb, Gb, Abb, Bbb, C, Db | ![ModeDFlatZylian](ModeDFlatZylian.png) |
 | [2407](https://ianring.com/musictheory/scales/2407) | [Zylian](ModeFSharpZylian.md) | F# | F#, G, Ab, B, C, D, E#, F# | ![ModeFSharpZylian](ModeFSharpZylian.png) |
+| [2407](https://ianring.com/musictheory/scales/2407) | [Zylian](ModeGFlatZylian.md) | Gb | Gb, Abb, Bbbb, Cb, Dbb, Ebb, F, Gb | ![ModeGFlatZylian](ModeGFlatZylian.png) |
 | [2411](https://ianring.com/musictheory/scales/2411) | [Aeolorian](ModeCSharpAeolorian.md) | C# | C#, D, E, F#, G, A, B#, C# | ![ModeCSharpAeolorian](ModeCSharpAeolorian.png) |
 | [2411](https://ianring.com/musictheory/scales/2411) | [Aeolorian](ModeDFlatAeolorian.md) | Db | Db, Ebb, Fb, Gb, Abb, Bbb, C, Db | ![ModeDFlatAeolorian](ModeDFlatAeolorian.png) |
 | [2411](https://ianring.com/musictheory/scales/2411) | [Aeolorian](ModeFSharpAeolorian.md) | F# | F#, G, A, B, C, D, E#, F# | ![ModeFSharpAeolorian](ModeFSharpAeolorian.png) |
+| [2411](https://ianring.com/musictheory/scales/2411) | [Aeolorian](ModeGFlatAeolorian.md) | Gb | Gb, Abb, Bbb, Cb, Dbb, Ebb, F, Gb | ![ModeGFlatAeolorian](ModeGFlatAeolorian.png) |
 | [2411](https://ianring.com/musictheory/scales/2411) | [Aeolorian](ModeBNaturalAeolorian.md) | B | B, C, D, E, F, G, A#, B | ![ModeBNaturalAeolorian](ModeBNaturalAeolorian.png) |
 | [2415](https://ianring.com/musictheory/scales/2415) | [Lothyllic](ModeCSharpLothyllic.md) | C# | C#, D, D#, E, F#, G, A, C, C# | ![ModeCSharpLothyllic](ModeCSharpLothyllic.png) |
 | [2415](https://ianring.com/musictheory/scales/2415) | [Lothyllic](ModeDFlatLothyllic.md) | Db | Db, D, Eb, E, Gb, G, A, C, Db | ![ModeDFlatLothyllic](ModeDFlatLothyllic.png) |
 | [2415](https://ianring.com/musictheory/scales/2415) | [Lothyllic](ModeFSharpLothyllic.md) | F# | F#, G, G#, A, B, C, D, F, F# | ![ModeFSharpLothyllic](ModeFSharpLothyllic.png) |
 | [2415](https://ianring.com/musictheory/scales/2415) | [Lothyllic](ModeGFlatLothyllic.md) | Gb | Gb, G, Ab, A, B, C, D, F, Gb | ![ModeGFlatLothyllic](ModeGFlatLothyllic.png) |
 | [2415](https://ianring.com/musictheory/scales/2415) | [Lothyllic](ModeBNaturalLothyllic.md) | B | B, C, C#, D, E, F, G, A#, B | ![ModeBNaturalLothyllic](ModeBNaturalLothyllic.png) |
+| [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeGSharpKanimic.md) | G# | G#, A###, B##, C##, D##, E###, G# | ![ModeGSharpKanimic](ModeGSharpKanimic.png) |
 | [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeAFlatKanimic.md) | Ab | Ab, B#, C#, D, E, F##, Ab | ![ModeAFlatKanimic](ModeAFlatKanimic.png) |
 | [2419](https://ianring.com/musictheory/scales/2419) | [Paptian](ModeCSharpPaptian.md) | C# | C#, D, E#, F#, G, A, B#, C# | ![ModeCSharpPaptian](ModeCSharpPaptian.png) |
 | [2419](https://ianring.com/musictheory/scales/2419) | [Paptian](ModeDFlatPaptian.md) | Db | Db, Ebb, F, Gb, Abb, Bbb, C, Db | ![ModeDFlatPaptian](ModeDFlatPaptian.png) |
 | [2419](https://ianring.com/musictheory/scales/2419) | [Paptian](ModeGSharpPaptian.md) | G# | G#, A, B#, C#, D, E, F##, G# | ![ModeGSharpPaptian](ModeGSharpPaptian.png) |
 | [2419](https://ianring.com/musictheory/scales/2419) | [Paptian](ModeAFlatPaptian.md) | Ab | Ab, Bbb, C, Db, Ebb, Fb, G, Ab | ![ModeAFlatPaptian](ModeAFlatPaptian.png) |
 | [2419](https://ianring.com/musictheory/scales/2419) | [Paptian](ModeFSharpPaptian.md) | F# | F#, G, A#, B, C, D, E#, F# | ![ModeFSharpPaptian](ModeFSharpPaptian.png) |
+| [2419](https://ianring.com/musictheory/scales/2419) | [Paptian](ModeGFlatPaptian.md) | Gb | Gb, Abb, Bb, Cb, Dbb, Ebb, F, Gb | ![ModeGFlatPaptian](ModeGFlatPaptian.png) |
 | [2421](https://ianring.com/musictheory/scales/2421) | [Malian](ModeGSharpMalian.md) | G# | G#, A#, B#, C#, D, E, F##, G# | ![ModeGSharpMalian](ModeGSharpMalian.png) |
 | [2421](https://ianring.com/musictheory/scales/2421) | [Malian](ModeAFlatMalian.md) | Ab | Ab, Bb, C, Db, Ebb, Fb, G, Ab | ![ModeAFlatMalian](ModeAFlatMalian.png) |
 | [2423](https://ianring.com/musictheory/scales/2423) | [Thorcryllic](ModeCSharpThorcryllic.md) | C# | C#, D, D#, F, F#, G, A, C, C# | ![ModeCSharpThorcryllic](ModeCSharpThorcryllic.png) |
@@ -1820,11 +1910,15 @@ G
 | [2511](https://ianring.com/musictheory/scales/2511) | [Epyryllic](ModeGFlatEpyryllic.md) | Gb | Gb, G, Ab, A, C, Db, D, F, Gb | ![ModeGFlatEpyryllic](ModeGFlatEpyryllic.png) |
 | [2511](https://ianring.com/musictheory/scales/2511) | [Epyryllic](ModeCNaturalEpyryllic.md) | C | C, C#, D, D#, F#, G, G#, B, C | ![ModeCNaturalEpyryllic](ModeCNaturalEpyryllic.png) |
 | [2511](https://ianring.com/musictheory/scales/2511) | [Epyryllic](ModeBNaturalEpyryllic.md) | B | B, C, C#, D, F, F#, G, A#, B | ![ModeBNaturalEpyryllic](ModeBNaturalEpyryllic.png) |
+| [2513](https://ianring.com/musictheory/scales/2513) | [Aerycrimic](ModeGSharpAerycrimic.md) | G# | G#, A###, B###, C###, D##, E###, G# | ![ModeGSharpAerycrimic](ModeGSharpAerycrimic.png) |
+| [2513](https://ianring.com/musictheory/scales/2513) | [Aerycrimic](ModeAFlatAerycrimic.md) | Ab | Ab, B#, C##, D#, E, F##, Ab | ![ModeAFlatAerycrimic](ModeAFlatAerycrimic.png) |
+| [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeGSharpStylian.md) | G# | G#, A, B#, C##, D#, E, F##, G# | ![ModeGSharpStylian](ModeGSharpStylian.png) |
 | [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeAFlatStylian.md) | Ab | Ab, Bbb, C, D, Eb, Fb, G, Ab | ![ModeAFlatStylian](ModeAFlatStylian.png) |
 | [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeCSharpStylian.md) | C# | C#, D, E#, F##, G#, A, B#, C# | ![ModeCSharpStylian](ModeCSharpStylian.png) |
 | [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeDFlatStylian.md) | Db | Db, Ebb, F, G, Ab, Bbb, C, Db | ![ModeDFlatStylian](ModeDFlatStylian.png) |
 | [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeFSharpStylian.md) | F# | F#, G, A#, B#, C#, D, E#, F# | ![ModeFSharpStylian](ModeFSharpStylian.png) |
 | [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeGFlatStylian.md) | Gb | Gb, Abb, Bb, C, Db, Ebb, F, Gb | ![ModeGFlatStylian](ModeGFlatStylian.png) |
+| [2517](https://ianring.com/musictheory/scales/2517) | [Ryphian](ModeGSharpRyphian.md) | G# | G#, A#, B#, C##, D#, E, F##, G# | ![ModeGSharpRyphian](ModeGSharpRyphian.png) |
 | [2517](https://ianring.com/musictheory/scales/2517) | [Ryphian](ModeAFlatRyphian.md) | Ab | Ab, Bb, C, D, Eb, Fb, G, Ab | ![ModeAFlatRyphian](ModeAFlatRyphian.png) |
 | [2517](https://ianring.com/musictheory/scales/2517) | [Ryphian](ModeCNaturalRyphian.md) | C | C, D, E, F#, G, Ab, B, C | ![ModeCNaturalRyphian](ModeCNaturalRyphian.png) |
 | [2519](https://ianring.com/musictheory/scales/2519) | [Dathyllic](ModeCSharpDathyllic.md) | C# | C#, D, D#, F, G, G#, A, C, C# | ![ModeCSharpDathyllic](ModeCSharpDathyllic.png) |
@@ -1834,6 +1928,7 @@ G
 | [2519](https://ianring.com/musictheory/scales/2519) | [Dathyllic](ModeGSharpDathyllic.md) | G# | G#, A, A#, C, D, D#, E, G, G# | ![ModeGSharpDathyllic](ModeGSharpDathyllic.png) |
 | [2519](https://ianring.com/musictheory/scales/2519) | [Dathyllic](ModeAFlatDathyllic.md) | Ab | Ab, A, Bb, C, D, Eb, E, G, Ab | ![ModeAFlatDathyllic](ModeAFlatDathyllic.png) |
 | [2519](https://ianring.com/musictheory/scales/2519) | [Dathyllic](ModeCNaturalDathyllic.md) | C | C, C#, D, E, F#, G, G#, B, C | ![ModeCNaturalDathyllic](ModeCNaturalDathyllic.png) |
+| [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeGSharpBarian.md) | G# | G#, A##, B#, C##, D#, E, F##, G# | ![ModeGSharpBarian](ModeGSharpBarian.png) |
 | [2521](https://ianring.com/musictheory/scales/2521) | [Barian](ModeAFlatBarian.md) | Ab | Ab, B, C, D, Eb, Fb, G, Ab | ![ModeAFlatBarian](ModeAFlatBarian.png) |
 | [2523](https://ianring.com/musictheory/scales/2523) | [Rygyllic](ModeCSharpRygyllic.md) | C# | C#, D, E, F, G, G#, A, C, C# | ![ModeCSharpRygyllic](ModeCSharpRygyllic.png) |
 | [2523](https://ianring.com/musictheory/scales/2523) | [Rygyllic](ModeDFlatRygyllic.md) | Db | Db, D, E, F, G, Ab, A, C, Db | ![ModeDFlatRygyllic](ModeDFlatRygyllic.png) |
@@ -1882,6 +1977,7 @@ G
 | [2543](https://ianring.com/musictheory/scales/2543) | [Dydygic](ModeFSharpDydygic.md) | F# | F#, G, G#, A, B, C, C#, D, F, F# | ![ModeFSharpDydygic](ModeFSharpDydygic.png) |
 | [2543](https://ianring.com/musictheory/scales/2543) | [Dydygic](ModeGFlatDydygic.md) | Gb | Gb, G, Ab, A, B, C, Db, D, F, Gb | ![ModeGFlatDydygic](ModeGFlatDydygic.png) |
 | [2543](https://ianring.com/musictheory/scales/2543) | [Dydygic](ModeBNaturalDydygic.md) | B | B, C, C#, D, E, F, F#, G, A#, B | ![ModeBNaturalDydygic](ModeBNaturalDydygic.png) |
+| [2545](https://ianring.com/musictheory/scales/2545) | [Thycrian](ModeGSharpThycrian.md) | G# | G#, A###, B##, C##, D#, E, F##, G# | ![ModeGSharpThycrian](ModeGSharpThycrian.png) |
 | [2545](https://ianring.com/musictheory/scales/2545) | [Thycrian](ModeAFlatThycrian.md) | Ab | Ab, B#, C#, D, Eb, Fb, G, Ab | ![ModeAFlatThycrian](ModeAFlatThycrian.png) |
 | [2545](https://ianring.com/musictheory/scales/2545) | [Thycrian](ModeGNaturalThycrian.md) | G | G, A##, B#, C#, D, Eb, F#, G | ![ModeGNaturalThycrian](ModeGNaturalThycrian.png) |
 | [2547](https://ianring.com/musictheory/scales/2547) | [Sogyllic](ModeGSharpSogyllic.md) | G# | G#, A, C, C#, D, D#, E, G, G# | ![ModeGSharpSogyllic](ModeGSharpSogyllic.png) |
@@ -1929,13 +2025,17 @@ G
 | [2559](https://ianring.com/musictheory/scales/2559) | [Zogyllian](ModeGFlatZogyllian.md) | Gb | Gb, G, Ab, A, Bb, B, C, Db, D, F, Gb | ![ModeGFlatZogyllian](ModeGFlatZogyllian.png) |
 | [2609](https://ianring.com/musictheory/scales/2609) | [Paptitonic](ModeDSharpPaptitonic.md) | D# | D#, G, G#, C, D, D# | ![ModeDSharpPaptitonic](ModeDSharpPaptitonic.png) |
 | [2609](https://ianring.com/musictheory/scales/2609) | [Paptitonic](ModeEFlatPaptitonic.md) | Eb | Eb, G, Ab, C, D, Eb | ![ModeEFlatPaptitonic](ModeEFlatPaptitonic.png) |
+| [2611](https://ianring.com/musictheory/scales/2611) | [Lyrimic](ModeDSharpLyrimic.md) | D# | D#, E, F##, G#, A###, B###, D# | ![ModeDSharpLyrimic](ModeDSharpLyrimic.png) |
 | [2611](https://ianring.com/musictheory/scales/2611) | [Lyrimic](ModeEFlatLyrimic.md) | Eb | Eb, Fb, G, Ab, B#, C##, Eb | ![ModeEFlatLyrimic](ModeEFlatLyrimic.png) |
+| [2613](https://ianring.com/musictheory/scales/2613) | [Aeolanimic](ModeDSharpAeolanimic.md) | D# | D#, E#, F##, G#, A###, B###, D# | ![ModeDSharpAeolanimic](ModeDSharpAeolanimic.png) |
 | [2613](https://ianring.com/musictheory/scales/2613) | [Aeolanimic](ModeEFlatAeolanimic.md) | Eb | Eb, F, G, Ab, B#, C##, Eb | ![ModeEFlatAeolanimic](ModeEFlatAeolanimic.png) |
+| [2613](https://ianring.com/musictheory/scales/2613) | [Aeolanimic](ModeASharpAeolanimic.md) | A# | A#, B#, C##, D#, E###, Cbbb, A# | ![ModeASharpAeolanimic](ModeASharpAeolanimic.png) |
 | [2613](https://ianring.com/musictheory/scales/2613) | [Aeolanimic](ModeBFlatAeolanimic.md) | Bb | Bb, C, D, Eb, F##, G##, Bb | ![ModeBFlatAeolanimic](ModeBFlatAeolanimic.png) |
 | [2615](https://ianring.com/musictheory/scales/2615) | [Thoptian](ModeDSharpThoptian.md) | D# | D#, E, F, G, Ab, B#, C##, D# | ![ModeDSharpThoptian](ModeDSharpThoptian.png) |
 | [2615](https://ianring.com/musictheory/scales/2615) | [Thoptian](ModeEFlatThoptian.md) | Eb | Eb, Fb, Gbb, Abb, Bbbb, C, D, Eb | ![ModeEFlatThoptian](ModeEFlatThoptian.png) |
 | [2615](https://ianring.com/musictheory/scales/2615) | [Thoptian](ModeASharpThoptian.md) | A# | A#, B, C, D, Eb, F##, G##, A# | ![ModeASharpThoptian](ModeASharpThoptian.png) |
 | [2615](https://ianring.com/musictheory/scales/2615) | [Thoptian](ModeBFlatThoptian.md) | Bb | Bb, Cb, Dbb, Ebb, Fbb, G, A, Bb | ![ModeBFlatThoptian](ModeBFlatThoptian.png) |
+| [2617](https://ianring.com/musictheory/scales/2617) | [Pylimic](ModeDSharpPylimic.md) | D# | D#, E##, F##, G#, A###, B###, D# | ![ModeDSharpPylimic](ModeDSharpPylimic.png) |
 | [2617](https://ianring.com/musictheory/scales/2617) | [Pylimic](ModeEFlatPylimic.md) | Eb | Eb, F#, G, Ab, B#, C##, Eb | ![ModeEFlatPylimic](ModeEFlatPylimic.png) |
 | [2619](https://ianring.com/musictheory/scales/2619) | [Ionyrian](ModeDSharpIonyrian.md) | D# | D#, E, F#, G, Ab, B#, C##, D# | ![ModeDSharpIonyrian](ModeDSharpIonyrian.png) |
 | [2619](https://ianring.com/musictheory/scales/2619) | [Ionyrian](ModeEFlatIonyrian.md) | Eb | Eb, Fb, Gb, Abb, Bbbb, C, D, Eb | ![ModeEFlatIonyrian](ModeEFlatIonyrian.png) |
@@ -1957,12 +2057,17 @@ G
 | [2641](https://ianring.com/musictheory/scales/2641) | [Gathitonic](ModeAFlatGathitonic.md) | Ab | Ab, C, D, F, G, Ab | ![ModeAFlatGathitonic](ModeAFlatGathitonic.png) |
 | [2641](https://ianring.com/musictheory/scales/2641) | [Gathitonic](ModeDSharpGathitonic.md) | D# | D#, G, A, C, D, D# | ![ModeDSharpGathitonic](ModeDSharpGathitonic.png) |
 | [2641](https://ianring.com/musictheory/scales/2641) | [Gathitonic](ModeEFlatGathitonic.md) | Eb | Eb, G, A, C, D, Eb | ![ModeEFlatGathitonic](ModeEFlatGathitonic.png) |
+| [2643](https://ianring.com/musictheory/scales/2643) | [Lydimic](ModeDSharpLydimic.md) | D# | D#, E, F##, G##, A###, B###, D# | ![ModeDSharpLydimic](ModeDSharpLydimic.png) |
 | [2643](https://ianring.com/musictheory/scales/2643) | [Lydimic](ModeEFlatLydimic.md) | Eb | Eb, Fb, G, A, B#, C##, Eb | ![ModeEFlatLydimic](ModeEFlatLydimic.png) |
+| [2643](https://ianring.com/musictheory/scales/2643) | [Lydimic](ModeGSharpLydimic.md) | G# | G#, A, B#, C##, D###, E###, G# | ![ModeGSharpLydimic](ModeGSharpLydimic.png) |
 | [2643](https://ianring.com/musictheory/scales/2643) | [Lydimic](ModeAFlatLydimic.md) | Ab | Ab, Bbb, C, D, E#, F##, Ab | ![ModeAFlatLydimic](ModeAFlatLydimic.png) |
 | [2643](https://ianring.com/musictheory/scales/2643) | [Lydimic](ModeCSharpLydimic.md) | C# | C#, D, E#, F##, G###, A###, C# | ![ModeCSharpLydimic](ModeCSharpLydimic.png) |
 | [2643](https://ianring.com/musictheory/scales/2643) | [Lydimic](ModeDFlatLydimic.md) | Db | Db, Ebb, F, G, A#, B#, Db | ![ModeDFlatLydimic](ModeDFlatLydimic.png) |
+| [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeDSharpZoptimic.md) | D# | D#, E#, F##, G##, A###, B###, D# | ![ModeDSharpZoptimic](ModeDSharpZoptimic.png) |
 | [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeEFlatZoptimic.md) | Eb | Eb, F, G, A, B#, C##, Eb | ![ModeEFlatZoptimic](ModeEFlatZoptimic.png) |
+| [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeGSharpZoptimic.md) | G# | G#, A#, B#, C##, D###, E###, G# | ![ModeGSharpZoptimic](ModeGSharpZoptimic.png) |
 | [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeAFlatZoptimic.md) | Ab | Ab, Bb, C, D, E#, F##, Ab | ![ModeAFlatZoptimic](ModeAFlatZoptimic.png) |
+| [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeASharpZoptimic.md) | A# | A#, B#, C##, D##, E###, Cbbb, A# | ![ModeASharpZoptimic](ModeASharpZoptimic.png) |
 | [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeBFlatZoptimic.md) | Bb | Bb, C, D, E, F##, G##, Bb | ![ModeBFlatZoptimic](ModeBFlatZoptimic.png) |
 | [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDSharpDadian.md) | D# | D#, E, F, G, A, B#, C##, D# | ![ModeDSharpDadian](ModeDSharpDadian.png) |
 | [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeEFlatDadian.md) | Eb | Eb, Fb, Gbb, Abb, Bbb, C, D, Eb | ![ModeEFlatDadian](ModeEFlatDadian.png) |
@@ -1972,7 +2077,9 @@ G
 | [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeAFlatDadian.md) | Ab | Ab, Bbb, Cbb, Dbb, Ebb, F, G, Ab | ![ModeAFlatDadian](ModeAFlatDadian.png) |
 | [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeASharpDadian.md) | A# | A#, B, C, D, E, F##, G##, A# | ![ModeASharpDadian](ModeASharpDadian.png) |
 | [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeBFlatDadian.md) | Bb | Bb, Cb, Dbb, Ebb, Fb, G, A, Bb | ![ModeBFlatDadian](ModeBFlatDadian.png) |
+| [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeDSharpAeolythimic.md) | D# | D#, E##, F##, G##, A###, B###, D# | ![ModeDSharpAeolythimic](ModeDSharpAeolythimic.png) |
 | [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeEFlatAeolythimic.md) | Eb | Eb, F#, G, A, B#, C##, Eb | ![ModeEFlatAeolythimic](ModeEFlatAeolythimic.png) |
+| [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeGSharpAeolythimic.md) | G# | G#, A##, B#, C##, D###, E###, G# | ![ModeGSharpAeolythimic](ModeGSharpAeolythimic.png) |
 | [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeAFlatAeolythimic.md) | Ab | Ab, B, C, D, E#, F##, Ab | ![ModeAFlatAeolythimic](ModeAFlatAeolythimic.png) |
 | [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModeDSharpPanian.md) | D# | D#, E, F#, G, A, B#, C##, D# | ![ModeDSharpPanian](ModeDSharpPanian.png) |
 | [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModeEFlatPanian.md) | Eb | Eb, Fb, Gb, Abb, Bbb, C, D, Eb | ![ModeEFlatPanian](ModeEFlatPanian.png) |
@@ -2002,15 +2109,21 @@ G
 | [2667](https://ianring.com/musictheory/scales/2667) | [Byrian](ModeDFlatByrian.md) | Db | Db, Ebb, Fb, Gb, Abb, Bb, C, Db | ![ModeDFlatByrian](ModeDFlatByrian.png) |
 | [2671](https://ianring.com/musictheory/scales/2671) | [Lylyllic](ModeCSharpLylyllic.md) | C# | C#, D, D#, E, F#, G, A#, C, C# | ![ModeCSharpLylyllic](ModeCSharpLylyllic.png) |
 | [2671](https://ianring.com/musictheory/scales/2671) | [Lylyllic](ModeDFlatLylyllic.md) | Db | Db, D, Eb, E, Gb, G, Bb, C, Db | ![ModeDFlatLylyllic](ModeDFlatLylyllic.png) |
+| [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeGSharpMythimic.md) | G# | G#, A###, B##, C##, D###, E###, G# | ![ModeGSharpMythimic](ModeGSharpMythimic.png) |
 | [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeAFlatMythimic.md) | Ab | Ab, B#, C#, D, E#, F##, Ab | ![ModeAFlatMythimic](ModeAFlatMythimic.png) |
+| [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeDSharpMythimic.md) | D# | D#, E###, F###, G##, A###, B###, D# | ![ModeDSharpMythimic](ModeDSharpMythimic.png) |
+| [2673](https://ianring.com/musictheory/scales/2673) | [Mythimic](ModeEFlatMythimic.md) | Eb | Eb, F##, G#, A, B#, C##, Eb | ![ModeEFlatMythimic](ModeEFlatMythimic.png) |
+| [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeDSharpGogian.md) | D# | D#, E, F##, G#, A, B#, C##, D# | ![ModeDSharpGogian](ModeDSharpGogian.png) |
 | [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeEFlatGogian.md) | Eb | Eb, Fb, G, Ab, Bbb, C, D, Eb | ![ModeEFlatGogian](ModeEFlatGogian.png) |
 | [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeGSharpGogian.md) | G# | G#, A, B#, C#, D, E#, F##, G# | ![ModeGSharpGogian](ModeGSharpGogian.png) |
 | [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeAFlatGogian.md) | Ab | Ab, Bbb, C, Db, Ebb, F, G, Ab | ![ModeAFlatGogian](ModeAFlatGogian.png) |
 | [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeCSharpGogian.md) | C# | C#, D, E#, F#, G, A#, B#, C# | ![ModeCSharpGogian](ModeCSharpGogian.png) |
 | [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeDFlatGogian.md) | Db | Db, Ebb, F, Gb, Abb, Bb, C, Db | ![ModeDFlatGogian](ModeDFlatGogian.png) |
+| [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeDSharpThodian.md) | D# | D#, E#, F##, G#, A, B#, C##, D# | ![ModeDSharpThodian](ModeDSharpThodian.png) |
 | [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeEFlatThodian.md) | Eb | Eb, F, G, Ab, Bbb, C, D, Eb | ![ModeEFlatThodian](ModeEFlatThodian.png) |
 | [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeGSharpThodian.md) | G# | G#, A#, B#, C#, D, E#, F##, G# | ![ModeGSharpThodian](ModeGSharpThodian.png) |
 | [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeAFlatThodian.md) | Ab | Ab, Bb, C, Db, Ebb, F, G, Ab | ![ModeAFlatThodian](ModeAFlatThodian.png) |
+| [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeASharpThodian.md) | A# | A#, B#, C##, D#, E, F##, G##, A# | ![ModeASharpThodian](ModeASharpThodian.png) |
 | [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeBFlatThodian.md) | Bb | Bb, C, D, Eb, Fb, G, A, Bb | ![ModeBFlatThodian](ModeBFlatThodian.png) |
 | [2679](https://ianring.com/musictheory/scales/2679) | [Rathyllic](ModeDSharpRathyllic.md) | D# | D#, E, F, G, G#, A, C, D, D# | ![ModeDSharpRathyllic](ModeDSharpRathyllic.png) |
 | [2679](https://ianring.com/musictheory/scales/2679) | [Rathyllic](ModeEFlatRathyllic.md) | Eb | Eb, E, F, G, Ab, A, C, D, Eb | ![ModeEFlatRathyllic](ModeEFlatRathyllic.png) |
@@ -2020,6 +2133,7 @@ G
 | [2679](https://ianring.com/musictheory/scales/2679) | [Rathyllic](ModeAFlatRathyllic.md) | Ab | Ab, A, Bb, C, Db, D, F, G, Ab | ![ModeAFlatRathyllic](ModeAFlatRathyllic.png) |
 | [2679](https://ianring.com/musictheory/scales/2679) | [Rathyllic](ModeASharpRathyllic.md) | A# | A#, B, C, D, D#, E, G, A, A# | ![ModeASharpRathyllic](ModeASharpRathyllic.png) |
 | [2679](https://ianring.com/musictheory/scales/2679) | [Rathyllic](ModeBFlatRathyllic.md) | Bb | Bb, B, C, D, Eb, E, G, A, Bb | ![ModeBFlatRathyllic](ModeBFlatRathyllic.png) |
+| [2681](https://ianring.com/musictheory/scales/2681) | [Aerycrian](ModeDSharpAerycrian.md) | D# | D#, E##, F##, G#, A, B#, C##, D# | ![ModeDSharpAerycrian](ModeDSharpAerycrian.png) |
 | [2681](https://ianring.com/musictheory/scales/2681) | [Aerycrian](ModeEFlatAerycrian.md) | Eb | Eb, F#, G, Ab, Bbb, C, D, Eb | ![ModeEFlatAerycrian](ModeEFlatAerycrian.png) |
 | [2681](https://ianring.com/musictheory/scales/2681) | [Aerycrian](ModeGSharpAerycrian.md) | G# | G#, A##, B#, C#, D, E#, F##, G# | ![ModeGSharpAerycrian](ModeGSharpAerycrian.png) |
 | [2681](https://ianring.com/musictheory/scales/2681) | [Aerycrian](ModeAFlatAerycrian.md) | Ab | Ab, B, C, Db, Ebb, F, G, Ab | ![ModeAFlatAerycrian](ModeAFlatAerycrian.png) |
@@ -2049,9 +2163,12 @@ G
 | [2703](https://ianring.com/musictheory/scales/2703) | [Galian](ModeCNaturalGalian.md) | C | C, Db, Ebb, Fbb, G, A, B, C | ![ModeCNaturalGalian](ModeCNaturalGalian.png) |
 | [2705](https://ianring.com/musictheory/scales/2705) | [Magitonic](ModeDSharpMagitonic.md) | D# | D#, G, A#, C, D, D# | ![ModeDSharpMagitonic](ModeDSharpMagitonic.png) |
 | [2705](https://ianring.com/musictheory/scales/2705) | [Magitonic](ModeEFlatMagitonic.md) | Eb | Eb, G, Bb, C, D, Eb | ![ModeEFlatMagitonic](ModeEFlatMagitonic.png) |
+| [2707](https://ianring.com/musictheory/scales/2707) | [Banimic](ModeDSharpBanimic.md) | D# | D#, E, F##, G###, A###, B###, D# | ![ModeDSharpBanimic](ModeDSharpBanimic.png) |
 | [2707](https://ianring.com/musictheory/scales/2707) | [Banimic](ModeEFlatBanimic.md) | Eb | Eb, Fb, G, A#, B#, C##, Eb | ![ModeEFlatBanimic](ModeEFlatBanimic.png) |
 | [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeFNaturalThaptimic.md) | F | F, G, A, B#, C##, D##, F | ![ModeFNaturalThaptimic](ModeFNaturalThaptimic.png) |
+| [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeDSharpThaptimic.md) | D# | D#, E#, F##, G###, A###, B###, D# | ![ModeDSharpThaptimic](ModeDSharpThaptimic.png) |
 | [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeEFlatThaptimic.md) | Eb | Eb, F, G, A#, B#, C##, Eb | ![ModeEFlatThaptimic](ModeEFlatThaptimic.png) |
+| [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeASharpThaptimic.md) | A# | A#, B#, C##, D###, E###, Cbbb, A# | ![ModeASharpThaptimic](ModeASharpThaptimic.png) |
 | [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeBFlatThaptimic.md) | Bb | Bb, C, D, E#, F##, G##, Bb | ![ModeBFlatThaptimic](ModeBFlatThaptimic.png) |
 | [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeCNaturalThaptimic.md) | C | C, D, E, F##, G##, A##, C | ![ModeCNaturalThaptimic](ModeCNaturalThaptimic.png) |
 | [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeFNaturalStolian.md) | F | F, Gb, Abb, Bbb, C, D, E, F | ![ModeFNaturalStolian](ModeFNaturalStolian.png) |
@@ -2060,6 +2177,7 @@ G
 | [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeCNaturalStolian.md) | C | C, Db, Ebb, Fb, G, A, B, C | ![ModeCNaturalStolian](ModeCNaturalStolian.png) |
 | [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeASharpStolian.md) | A# | A#, B, C, D, E#, F##, G##, A# | ![ModeASharpStolian](ModeASharpStolian.png) |
 | [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeBFlatStolian.md) | Bb | Bb, Cb, Dbb, Ebb, F, G, A, Bb | ![ModeBFlatStolian](ModeBFlatStolian.png) |
+| [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModeDSharpPorimic.md) | D# | D#, E##, F##, G###, A###, B###, D# | ![ModeDSharpPorimic](ModeDSharpPorimic.png) |
 | [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModeEFlatPorimic.md) | Eb | Eb, F#, G, A#, B#, C##, Eb | ![ModeEFlatPorimic](ModeEFlatPorimic.png) |
 | [2715](https://ianring.com/musictheory/scales/2715) | [Kynian](ModeDSharpKynian.md) | D# | D#, E, F#, G, A#, B#, C##, D# | ![ModeDSharpKynian](ModeDSharpKynian.png) |
 | [2715](https://ianring.com/musictheory/scales/2715) | [Kynian](ModeEFlatKynian.md) | Eb | Eb, Fb, Gb, Abb, Bb, C, D, Eb | ![ModeEFlatKynian](ModeEFlatKynian.png) |
@@ -2090,10 +2208,15 @@ G
 | [2735](https://ianring.com/musictheory/scales/2735) | [Gynyllic](ModeFNaturalGynyllic.md) | F | F, F#, G, G#, A#, C, D, E, F | ![ModeFNaturalGynyllic](ModeFNaturalGynyllic.png) |
 | [2735](https://ianring.com/musictheory/scales/2735) | [Gynyllic](ModeGNaturalGynyllic.md) | G | G, G#, A, A#, C, D, E, F#, G | ![ModeGNaturalGynyllic](ModeGNaturalGynyllic.png) |
 | [2735](https://ianring.com/musictheory/scales/2735) | [Gynyllic](ModeCNaturalGynyllic.md) | C | C, C#, D, D#, F, G, A, B, C | ![ModeCNaturalGynyllic](ModeCNaturalGynyllic.png) |
+| [2737](https://ianring.com/musictheory/scales/2737) | [Bylimic](ModeDSharpBylimic.md) | D# | D#, E###, F###, G###, A###, B###, D# | ![ModeDSharpBylimic](ModeDSharpBylimic.png) |
+| [2737](https://ianring.com/musictheory/scales/2737) | [Bylimic](ModeEFlatBylimic.md) | Eb | Eb, F##, G#, A#, B#, C##, Eb | ![ModeEFlatBylimic](ModeEFlatBylimic.png) |
 | [2737](https://ianring.com/musictheory/scales/2737) | [Bylimic](ModeGNaturalBylimic.md) | G | G, A##, B#, C##, D##, E##, G | ![ModeGNaturalBylimic](ModeGNaturalBylimic.png) |
+| [2739](https://ianring.com/musictheory/scales/2739) | [Zanian](ModeDSharpZanian.md) | D# | D#, E, F##, G#, A#, B#, C##, D# | ![ModeDSharpZanian](ModeDSharpZanian.png) |
 | [2739](https://ianring.com/musictheory/scales/2739) | [Zanian](ModeEFlatZanian.md) | Eb | Eb, Fb, G, Ab, Bb, C, D, Eb | ![ModeEFlatZanian](ModeEFlatZanian.png) |
 | [2739](https://ianring.com/musictheory/scales/2739) | [Zanian](ModeGNaturalZanian.md) | G | G, Ab, B, C, D, E, F#, G | ![ModeGNaturalZanian](ModeGNaturalZanian.png) |
+| [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeDSharpIonian.md) | D# | D#, E#, F##, G#, A#, B#, C##, D# | ![ModeDSharpIonian](ModeDSharpIonian.png) |
 | [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeEFlatIonian.md) | Eb | Eb, F, G, Ab, Bb, C, D, Eb | ![ModeEFlatIonian](ModeEFlatIonian.png) |
+| [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeASharpIonian.md) | A# | A#, B#, C##, D#, E#, F##, G##, A# | ![ModeASharpIonian](ModeASharpIonian.png) |
 | [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeBFlatIonian.md) | Bb | Bb, C, D, Eb, F, G, A, Bb | ![ModeBFlatIonian](ModeBFlatIonian.png) |
 | [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeFNaturalIonian.md) | F | F, G, A, Bb, C, D, E, F | ![ModeFNaturalIonian](ModeFNaturalIonian.png) |
 | [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeCNaturalIonian.md) | C | C, D, E, F, G, A, B, C | ![ModeCNaturalIonian](ModeCNaturalIonian.png) |
@@ -2105,6 +2228,7 @@ G
 | [2743](https://ianring.com/musictheory/scales/2743) | [Staptyllic](ModeGNaturalStaptyllic.md) | G | G, G#, A, B, C, D, E, F#, G | ![ModeGNaturalStaptyllic](ModeGNaturalStaptyllic.png) |
 | [2743](https://ianring.com/musictheory/scales/2743) | [Staptyllic](ModeASharpStaptyllic.md) | A# | A#, B, C, D, D#, F, G, A, A# | ![ModeASharpStaptyllic](ModeASharpStaptyllic.png) |
 | [2743](https://ianring.com/musictheory/scales/2743) | [Staptyllic](ModeBFlatStaptyllic.md) | Bb | Bb, B, C, D, Eb, F, G, A, Bb | ![ModeBFlatStaptyllic](ModeBFlatStaptyllic.png) |
+| [2745](https://ianring.com/musictheory/scales/2745) | [Dolian](ModeDSharpDolian.md) | D# | D#, E##, F##, G#, A#, B#, C##, D# | ![ModeDSharpDolian](ModeDSharpDolian.png) |
 | [2745](https://ianring.com/musictheory/scales/2745) | [Dolian](ModeEFlatDolian.md) | Eb | Eb, F#, G, Ab, Bb, C, D, Eb | ![ModeEFlatDolian](ModeEFlatDolian.png) |
 | [2745](https://ianring.com/musictheory/scales/2745) | [Dolian](ModeGNaturalDolian.md) | G | G, A#, B, C, D, E, F#, G | ![ModeGNaturalDolian](ModeGNaturalDolian.png) |
 | [2747](https://ianring.com/musictheory/scales/2747) | [Stythyllic](ModeDSharpStythyllic.md) | D# | D#, E, F#, G, G#, A#, C, D, D# | ![ModeDSharpStythyllic](ModeDSharpStythyllic.png) |
@@ -2138,12 +2262,21 @@ G
 | [2767](https://ianring.com/musictheory/scales/2767) | [Katydyllic](ModeDFlatKatydyllic.md) | Db | Db, D, Eb, E, G, Ab, Bb, C, Db | ![ModeDFlatKatydyllic](ModeDFlatKatydyllic.png) |
 | [2767](https://ianring.com/musictheory/scales/2767) | [Katydyllic](ModeFNaturalKatydyllic.md) | F | F, F#, G, G#, B, C, D, E, F | ![ModeFNaturalKatydyllic](ModeFNaturalKatydyllic.png) |
 | [2767](https://ianring.com/musictheory/scales/2767) | [Katydyllic](ModeCNaturalKatydyllic.md) | C | C, C#, D, D#, F#, G, A, B, C | ![ModeCNaturalKatydyllic](ModeCNaturalKatydyllic.png) |
+| [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeGSharpDyrimic.md) | G# | G#, A###, B###, C###, D###, E###, G# | ![ModeGSharpDyrimic](ModeGSharpDyrimic.png) |
+| [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeAFlatDyrimic.md) | Ab | Ab, B#, C##, D#, E#, F##, Ab | ![ModeAFlatDyrimic](ModeAFlatDyrimic.png) |
+| [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeDSharpDyrimic.md) | D# | D#, E###, Cbbb, Cbb, Dbb, Ebb, D# | ![ModeDSharpDyrimic](ModeDSharpDyrimic.png) |
+| [2769](https://ianring.com/musictheory/scales/2769) | [Dyrimic](ModeEFlatDyrimic.md) | Eb | Eb, F##, G##, A#, B#, C##, Eb | ![ModeEFlatDyrimic](ModeEFlatDyrimic.png) |
+| [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeGSharpGarian.md) | G# | G#, A, B#, C##, D#, E#, F##, G# | ![ModeGSharpGarian](ModeGSharpGarian.png) |
 | [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeAFlatGarian.md) | Ab | Ab, Bbb, C, D, Eb, F, G, Ab | ![ModeAFlatGarian](ModeAFlatGarian.png) |
 | [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeCSharpGarian.md) | C# | C#, D, E#, F##, G#, A#, B#, C# | ![ModeCSharpGarian](ModeCSharpGarian.png) |
 | [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeDFlatGarian.md) | Db | Db, Ebb, F, G, Ab, Bb, C, Db | ![ModeDFlatGarian](ModeDFlatGarian.png) |
+| [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeDSharpGarian.md) | D# | D#, E, F##, G##, A#, B#, C##, D# | ![ModeDSharpGarian](ModeDSharpGarian.png) |
 | [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeEFlatGarian.md) | Eb | Eb, Fb, G, A, Bb, C, D, Eb | ![ModeEFlatGarian](ModeEFlatGarian.png) |
+| [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeGSharpLydian.md) | G# | G#, A#, B#, C##, D#, E#, F##, G# | ![ModeGSharpLydian](ModeGSharpLydian.png) |
 | [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeAFlatLydian.md) | Ab | Ab, Bb, C, D, Eb, F, G, Ab | ![ModeAFlatLydian](ModeAFlatLydian.png) |
+| [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeDSharpLydian.md) | D# | D#, E#, F##, G##, A#, B#, C##, D# | ![ModeDSharpLydian](ModeDSharpLydian.png) |
 | [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeEFlatLydian.md) | Eb | Eb, F, G, A, Bb, C, D, Eb | ![ModeEFlatLydian](ModeEFlatLydian.png) |
+| [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeASharpLydian.md) | A# | A#, B#, C##, D##, E#, F##, G##, A# | ![ModeASharpLydian](ModeASharpLydian.png) |
 | [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeBFlatLydian.md) | Bb | Bb, C, D, E, F, G, A, Bb | ![ModeBFlatLydian](ModeBFlatLydian.png) |
 | [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeFNaturalLydian.md) | F | F, G, A, B, C, D, E, F | ![ModeFNaturalLydian](ModeFNaturalLydian.png) |
 | [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeCNaturalLydian.md) | C | C, D, E, F#, G, A, B, C | ![ModeCNaturalLydian](ModeCNaturalLydian.png) |
@@ -2157,7 +2290,9 @@ G
 | [2775](https://ianring.com/musictheory/scales/2775) | [Godyllic](ModeFNaturalGodyllic.md) | F | F, F#, G, A, B, C, D, E, F | ![ModeFNaturalGodyllic](ModeFNaturalGodyllic.png) |
 | [2775](https://ianring.com/musictheory/scales/2775) | [Godyllic](ModeASharpGodyllic.md) | A# | A#, B, C, D, E, F, G, A, A# | ![ModeASharpGodyllic](ModeASharpGodyllic.png) |
 | [2775](https://ianring.com/musictheory/scales/2775) | [Godyllic](ModeBFlatGodyllic.md) | Bb | Bb, B, C, D, E, F, G, A, Bb | ![ModeBFlatGodyllic](ModeBFlatGodyllic.png) |
+| [2777](https://ianring.com/musictheory/scales/2777) | [Bycrian](ModeDSharpBycrian.md) | D# | D#, E##, F##, G##, A#, B#, C##, D# | ![ModeDSharpBycrian](ModeDSharpBycrian.png) |
 | [2777](https://ianring.com/musictheory/scales/2777) | [Bycrian](ModeEFlatBycrian.md) | Eb | Eb, F#, G, A, Bb, C, D, Eb | ![ModeEFlatBycrian](ModeEFlatBycrian.png) |
+| [2777](https://ianring.com/musictheory/scales/2777) | [Bycrian](ModeGSharpBycrian.md) | G# | G#, A##, B#, C##, D#, E#, F##, G# | ![ModeGSharpBycrian](ModeGSharpBycrian.png) |
 | [2777](https://ianring.com/musictheory/scales/2777) | [Bycrian](ModeAFlatBycrian.md) | Ab | Ab, B, C, D, Eb, F, G, Ab | ![ModeAFlatBycrian](ModeAFlatBycrian.png) |
 | [2779](https://ianring.com/musictheory/scales/2779) | [Garyllic](ModeCSharpGaryllic.md) | C# | C#, D, E, F, G, G#, A#, C, C# | ![ModeCSharpGaryllic](ModeCSharpGaryllic.png) |
 | [2779](https://ianring.com/musictheory/scales/2779) | [Garyllic](ModeDFlatGaryllic.md) | Db | Db, D, E, F, G, Ab, Bb, C, Db | ![ModeDFlatGaryllic](ModeDFlatGaryllic.png) |
@@ -2203,7 +2338,9 @@ G
 | [2799](https://ianring.com/musictheory/scales/2799) | [Epilygic](ModeGNaturalEpilygic.md) | G | G, G#, A, A#, C, C#, D, E, F#, G | ![ModeGNaturalEpilygic](ModeGNaturalEpilygic.png) |
 | [2799](https://ianring.com/musictheory/scales/2799) | [Epilygic](ModeCNaturalEpilygic.md) | C | C, C#, D, D#, F, F#, G, A, B, C | ![ModeCNaturalEpilygic](ModeCNaturalEpilygic.png) |
 | [2799](https://ianring.com/musictheory/scales/2799) | [Epilygic](ModeFNaturalEpilygic.md) | F | F, F#, G, G#, A#, B, C, D, E, F | ![ModeFNaturalEpilygic](ModeFNaturalEpilygic.png) |
+| [2801](https://ianring.com/musictheory/scales/2801) | [Zogian](ModeGSharpZogian.md) | G# | G#, A###, B##, C##, D#, E#, F##, G# | ![ModeGSharpZogian](ModeGSharpZogian.png) |
 | [2801](https://ianring.com/musictheory/scales/2801) | [Zogian](ModeAFlatZogian.md) | Ab | Ab, B#, C#, D, Eb, F, G, Ab | ![ModeAFlatZogian](ModeAFlatZogian.png) |
+| [2801](https://ianring.com/musictheory/scales/2801) | [Zogian](ModeDSharpZogian.md) | D# | D#, E###, F###, G##, A#, B#, C##, D# | ![ModeDSharpZogian](ModeDSharpZogian.png) |
 | [2801](https://ianring.com/musictheory/scales/2801) | [Zogian](ModeEFlatZogian.md) | Eb | Eb, F##, G#, A, Bb, C, D, Eb | ![ModeEFlatZogian](ModeEFlatZogian.png) |
 | [2801](https://ianring.com/musictheory/scales/2801) | [Zogian](ModeGNaturalZogian.md) | G | G, A##, B#, C#, D, E, F#, G | ![ModeGNaturalZogian](ModeGNaturalZogian.png) |
 | [2803](https://ianring.com/musictheory/scales/2803) | [Zolyllic](ModeGSharpZolyllic.md) | G# | G#, A, C, C#, D, D#, F, G, G# | ![ModeGSharpZolyllic](ModeGSharpZolyllic.png) |
@@ -2267,13 +2404,17 @@ G
 | [2815](https://ianring.com/musictheory/scales/2815) | [Aeradyllian](ModeFNaturalAeradyllian.md) | F | F, F#, G, G#, A, A#, B, C, D, E, F | ![ModeFNaturalAeradyllian](ModeFNaturalAeradyllian.png) |
 | [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDSharpDolitonic.md) | D# | D#, G, B, C, D, D# | ![ModeDSharpDolitonic](ModeDSharpDolitonic.png) |
 | [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeEFlatDolitonic.md) | Eb | Eb, G, B, C, D, Eb | ![ModeEFlatDolitonic](ModeEFlatDolitonic.png) |
+| [2835](https://ianring.com/musictheory/scales/2835) | [Ionygimic](ModeDSharpIonygimic.md) | D# | D#, E, F##, Cb, Dbb, Ebb, D# | ![ModeDSharpIonygimic](ModeDSharpIonygimic.png) |
 | [2835](https://ianring.com/musictheory/scales/2835) | [Ionygimic](ModeEFlatIonygimic.md) | Eb | Eb, Fb, G, A##, B#, C##, Eb | ![ModeEFlatIonygimic](ModeEFlatIonygimic.png) |
+| [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeASharpAelothimic.md) | A# | A#, B#, C##, E##, F##, G##, A# | ![ModeASharpAelothimic](ModeASharpAelothimic.png) |
 | [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeBFlatAelothimic.md) | Bb | Bb, C, D, E##, F##, G##, Bb | ![ModeBFlatAelothimic](ModeBFlatAelothimic.png) |
+| [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeDSharpAelothimic.md) | D# | D#, E#, F##, Cb, Dbb, Ebb, D# | ![ModeDSharpAelothimic](ModeDSharpAelothimic.png) |
 | [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeEFlatAelothimic.md) | Eb | Eb, F, G, A##, B#, C##, Eb | ![ModeEFlatAelothimic](ModeEFlatAelothimic.png) |
 | [2839](https://ianring.com/musictheory/scales/2839) | [Lyptian](ModeDSharpLyptian.md) | D# | D#, E, F, G, A##, B#, C##, D# | ![ModeDSharpLyptian](ModeDSharpLyptian.png) |
 | [2839](https://ianring.com/musictheory/scales/2839) | [Lyptian](ModeEFlatLyptian.md) | Eb | Eb, Fb, Gbb, Abb, B, C, D, Eb | ![ModeEFlatLyptian](ModeEFlatLyptian.png) |
 | [2839](https://ianring.com/musictheory/scales/2839) | [Lyptian](ModeASharpLyptian.md) | A# | A#, B, C, D, E##, F##, G##, A# | ![ModeASharpLyptian](ModeASharpLyptian.png) |
 | [2839](https://ianring.com/musictheory/scales/2839) | [Lyptian](ModeBFlatLyptian.md) | Bb | Bb, Cb, Dbb, Ebb, F#, G, A, Bb | ![ModeBFlatLyptian](ModeBFlatLyptian.png) |
+| [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeDSharpSothimic.md) | D# | D#, E##, F##, Cb, Dbb, Ebb, D# | ![ModeDSharpSothimic](ModeDSharpSothimic.png) |
 | [2841](https://ianring.com/musictheory/scales/2841) | [Sothimic](ModeEFlatSothimic.md) | Eb | Eb, F#, G, A##, B#, C##, Eb | ![ModeEFlatSothimic](ModeEFlatSothimic.png) |
 | [2843](https://ianring.com/musictheory/scales/2843) | [Sorian](ModeDSharpSorian.md) | D# | D#, E, F#, G, A##, B#, C##, D# | ![ModeDSharpSorian](ModeDSharpSorian.png) |
 | [2843](https://ianring.com/musictheory/scales/2843) | [Sorian](ModeEFlatSorian.md) | Eb | Eb, Fb, Gb, Abb, B, C, D, Eb | ![ModeEFlatSorian](ModeEFlatSorian.png) |
@@ -2289,13 +2430,19 @@ G
 | [2847](https://ianring.com/musictheory/scales/2847) | [Phracryllic](ModeBFlatPhracryllic.md) | Bb | Bb, B, C, Db, D, Gb, G, A, Bb | ![ModeBFlatPhracryllic](ModeBFlatPhracryllic.png) |
 | [2859](https://ianring.com/musictheory/scales/2859) | [Phrycrian](ModeBNaturalPhrycrian.md) | B | B, C, D, E, F##, G#, A#, B | ![ModeBNaturalPhrycrian](ModeBNaturalPhrycrian.png) |
 | [2863](https://ianring.com/musictheory/scales/2863) | [Aerogyllic](ModeBNaturalAerogyllic.md) | B | B, C, C#, D, E, G, G#, A#, B | ![ModeBNaturalAerogyllic](ModeBNaturalAerogyllic.png) |
+| [2865](https://ianring.com/musictheory/scales/2865) | [Solimic](ModeDSharpSolimic.md) | D# | D#, E###, F###, Cb, Dbb, Ebb, D# | ![ModeDSharpSolimic](ModeDSharpSolimic.png) |
+| [2865](https://ianring.com/musictheory/scales/2865) | [Solimic](ModeEFlatSolimic.md) | Eb | Eb, F##, G#, A##, B#, C##, Eb | ![ModeEFlatSolimic](ModeEFlatSolimic.png) |
+| [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeDSharpSocrian.md) | D# | D#, E, F##, G#, A##, B#, C##, D# | ![ModeDSharpSocrian](ModeDSharpSocrian.png) |
 | [2867](https://ianring.com/musictheory/scales/2867) | [Socrian](ModeEFlatSocrian.md) | Eb | Eb, Fb, G, Ab, B, C, D, Eb | ![ModeEFlatSocrian](ModeEFlatSocrian.png) |
+| [2869](https://ianring.com/musictheory/scales/2869) | [Phrothian](ModeASharpPhrothian.md) | A# | A#, B#, C##, D#, E##, F##, G##, A# | ![ModeASharpPhrothian](ModeASharpPhrothian.png) |
 | [2869](https://ianring.com/musictheory/scales/2869) | [Phrothian](ModeBFlatPhrothian.md) | Bb | Bb, C, D, Eb, F#, G, A, Bb | ![ModeBFlatPhrothian](ModeBFlatPhrothian.png) |
+| [2869](https://ianring.com/musictheory/scales/2869) | [Phrothian](ModeDSharpPhrothian.md) | D# | D#, E#, F##, G#, A##, B#, C##, D# | ![ModeDSharpPhrothian](ModeDSharpPhrothian.png) |
 | [2869](https://ianring.com/musictheory/scales/2869) | [Phrothian](ModeEFlatPhrothian.md) | Eb | Eb, F, G, Ab, B, C, D, Eb | ![ModeEFlatPhrothian](ModeEFlatPhrothian.png) |
 | [2871](https://ianring.com/musictheory/scales/2871) | [Stanyllic](ModeDSharpStanyllic.md) | D# | D#, E, F, G, G#, B, C, D, D# | ![ModeDSharpStanyllic](ModeDSharpStanyllic.png) |
 | [2871](https://ianring.com/musictheory/scales/2871) | [Stanyllic](ModeEFlatStanyllic.md) | Eb | Eb, E, F, G, Ab, B, C, D, Eb | ![ModeEFlatStanyllic](ModeEFlatStanyllic.png) |
 | [2871](https://ianring.com/musictheory/scales/2871) | [Stanyllic](ModeASharpStanyllic.md) | A# | A#, B, C, D, D#, F#, G, A, A# | ![ModeASharpStanyllic](ModeASharpStanyllic.png) |
 | [2871](https://ianring.com/musictheory/scales/2871) | [Stanyllic](ModeBFlatStanyllic.md) | Bb | Bb, B, C, D, Eb, Gb, G, A, Bb | ![ModeBFlatStanyllic](ModeBFlatStanyllic.png) |
+| [2873](https://ianring.com/musictheory/scales/2873) | [Docrian](ModeDSharpDocrian.md) | D# | D#, E##, F##, G#, A##, B#, C##, D# | ![ModeDSharpDocrian](ModeDSharpDocrian.png) |
 | [2873](https://ianring.com/musictheory/scales/2873) | [Docrian](ModeEFlatDocrian.md) | Eb | Eb, F#, G, Ab, B, C, D, Eb | ![ModeEFlatDocrian](ModeEFlatDocrian.png) |
 | [2875](https://ianring.com/musictheory/scales/2875) | [Ganyllic](ModeDSharpGanyllic.md) | D# | D#, E, F#, G, G#, B, C, D, D# | ![ModeDSharpGanyllic](ModeDSharpGanyllic.png) |
 | [2875](https://ianring.com/musictheory/scales/2875) | [Ganyllic](ModeEFlatGanyllic.md) | Eb | Eb, E, Gb, G, Ab, B, C, D, Eb | ![ModeEFlatGanyllic](ModeEFlatGanyllic.png) |
@@ -2323,14 +2470,23 @@ G
 | [2895](https://ianring.com/musictheory/scales/2895) | [Aeragyllic](ModeCSharpAeragyllic.md) | C# | C#, D, D#, E, G, A, A#, C, C# | ![ModeCSharpAeragyllic](ModeCSharpAeragyllic.png) |
 | [2895](https://ianring.com/musictheory/scales/2895) | [Aeragyllic](ModeDFlatAeragyllic.md) | Db | Db, D, Eb, E, G, A, Bb, C, Db | ![ModeDFlatAeragyllic](ModeDFlatAeragyllic.png) |
 | [2895](https://ianring.com/musictheory/scales/2895) | [Aeragyllic](ModeBNaturalAeragyllic.md) | B | B, C, C#, D, F, G, G#, A#, B | ![ModeBNaturalAeragyllic](ModeBNaturalAeragyllic.png) |
+| [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeGSharpRycrimic.md) | G# | G#, A###, B###, D##, E#, F##, G# | ![ModeGSharpRycrimic](ModeGSharpRycrimic.png) |
+| [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeAFlatRycrimic.md) | Ab | Ab, B#, C##, D##, E#, F##, Ab | ![ModeAFlatRycrimic](ModeAFlatRycrimic.png) |
+| [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeDSharpRycrimic.md) | D# | D#, E###, Cbbb, Dbbb, Dbb, Ebb, D# | ![ModeDSharpRycrimic](ModeDSharpRycrimic.png) |
+| [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeEFlatRycrimic.md) | Eb | Eb, F##, G##, A##, B#, C##, Eb | ![ModeEFlatRycrimic](ModeEFlatRycrimic.png) |
+| [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeGSharpKagian.md) | G# | G#, A, B#, C##, D##, E#, F##, G# | ![ModeGSharpKagian](ModeGSharpKagian.png) |
 | [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeAFlatKagian.md) | Ab | Ab, Bbb, C, D, E, F, G, Ab | ![ModeAFlatKagian](ModeAFlatKagian.png) |
 | [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeFSharpKagian.md) | F# | F#, G, A#, B#, C##, D#, E#, F# | ![ModeFSharpKagian](ModeFSharpKagian.png) |
 | [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeGFlatKagian.md) | Gb | Gb, Abb, Bb, C, D, Eb, F, Gb | ![ModeGFlatKagian](ModeGFlatKagian.png) |
 | [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeCSharpKagian.md) | C# | C#, D, E#, F##, G##, A#, B#, C# | ![ModeCSharpKagian](ModeCSharpKagian.png) |
 | [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeDFlatKagian.md) | Db | Db, Ebb, F, G, A, Bb, C, Db | ![ModeDFlatKagian](ModeDFlatKagian.png) |
+| [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeDSharpKagian.md) | D# | D#, E, F##, G##, A##, B#, C##, D# | ![ModeDSharpKagian](ModeDSharpKagian.png) |
 | [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeEFlatKagian.md) | Eb | Eb, Fb, G, A, B, C, D, Eb | ![ModeEFlatKagian](ModeEFlatKagian.png) |
+| [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeGSharpLarian.md) | G# | G#, A#, B#, C##, D##, E#, F##, G# | ![ModeGSharpLarian](ModeGSharpLarian.png) |
 | [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeAFlatLarian.md) | Ab | Ab, Bb, C, D, E, F, G, Ab | ![ModeAFlatLarian](ModeAFlatLarian.png) |
+| [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeASharpLarian.md) | A# | A#, B#, C##, D##, E##, F##, G##, A# | ![ModeASharpLarian](ModeASharpLarian.png) |
 | [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeBFlatLarian.md) | Bb | Bb, C, D, E, F#, G, A, Bb | ![ModeBFlatLarian](ModeBFlatLarian.png) |
+| [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeDSharpLarian.md) | D# | D#, E#, F##, G##, A##, B#, C##, D# | ![ModeDSharpLarian](ModeDSharpLarian.png) |
 | [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeEFlatLarian.md) | Eb | Eb, F, G, A, B, C, D, Eb | ![ModeEFlatLarian](ModeEFlatLarian.png) |
 | [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeFSharpGothyllic.md) | F# | F#, G, G#, A#, C, D, D#, F, F# | ![ModeFSharpGothyllic](ModeFSharpGothyllic.png) |
 | [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeGFlatGothyllic.md) | Gb | Gb, G, Ab, Bb, C, D, Eb, F, Gb | ![ModeGFlatGothyllic](ModeGFlatGothyllic.png) |
@@ -2342,7 +2498,9 @@ G
 | [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeEFlatGothyllic.md) | Eb | Eb, E, F, G, A, B, C, D, Eb | ![ModeEFlatGothyllic](ModeEFlatGothyllic.png) |
 | [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeASharpGothyllic.md) | A# | A#, B, C, D, E, F#, G, A, A# | ![ModeASharpGothyllic](ModeASharpGothyllic.png) |
 | [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeBFlatGothyllic.md) | Bb | Bb, B, C, D, E, Gb, G, A, Bb | ![ModeBFlatGothyllic](ModeBFlatGothyllic.png) |
+| [2905](https://ianring.com/musictheory/scales/2905) | [Palian](ModeGSharpPalian.md) | G# | G#, A##, B#, C##, D##, E#, F##, G# | ![ModeGSharpPalian](ModeGSharpPalian.png) |
 | [2905](https://ianring.com/musictheory/scales/2905) | [Palian](ModeAFlatPalian.md) | Ab | Ab, B, C, D, E, F, G, Ab | ![ModeAFlatPalian](ModeAFlatPalian.png) |
+| [2905](https://ianring.com/musictheory/scales/2905) | [Palian](ModeDSharpPalian.md) | D# | D#, E##, F##, G##, A##, B#, C##, D# | ![ModeDSharpPalian](ModeDSharpPalian.png) |
 | [2905](https://ianring.com/musictheory/scales/2905) | [Palian](ModeEFlatPalian.md) | Eb | Eb, F#, G, A, B, C, D, Eb | ![ModeEFlatPalian](ModeEFlatPalian.png) |
 | [2907](https://ianring.com/musictheory/scales/2907) | [Mogyllic](ModeCSharpMogyllic.md) | C# | C#, D, E, F, G, A, A#, C, C# | ![ModeCSharpMogyllic](ModeCSharpMogyllic.png) |
 | [2907](https://ianring.com/musictheory/scales/2907) | [Mogyllic](ModeDFlatMogyllic.md) | Db | Db, D, E, F, G, A, Bb, C, Db | ![ModeDFlatMogyllic](ModeDFlatMogyllic.png) |
@@ -2388,7 +2546,9 @@ G
 | [2927](https://ianring.com/musictheory/scales/2927) | [Rodygic](ModeFSharpRodygic.md) | F# | F#, G, G#, A, B, C, D, D#, F, F# | ![ModeFSharpRodygic](ModeFSharpRodygic.png) |
 | [2927](https://ianring.com/musictheory/scales/2927) | [Rodygic](ModeGFlatRodygic.md) | Gb | Gb, G, Ab, A, B, C, D, Eb, F, Gb | ![ModeGFlatRodygic](ModeGFlatRodygic.png) |
 | [2927](https://ianring.com/musictheory/scales/2927) | [Rodygic](ModeBNaturalRodygic.md) | B | B, C, C#, D, E, F, G, G#, A#, B | ![ModeBNaturalRodygic](ModeBNaturalRodygic.png) |
+| [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeGSharpAeolathian.md) | G# | G#, A###, B##, C##, D##, E#, F##, G# | ![ModeGSharpAeolathian](ModeGSharpAeolathian.png) |
 | [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeAFlatAeolathian.md) | Ab | Ab, B#, C#, D, E, F, G, Ab | ![ModeAFlatAeolathian](ModeAFlatAeolathian.png) |
+| [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeDSharpAeolathian.md) | D# | D#, E###, F###, G##, A##, B#, C##, D# | ![ModeDSharpAeolathian](ModeDSharpAeolathian.png) |
 | [2929](https://ianring.com/musictheory/scales/2929) | [Aeolathian](ModeEFlatAeolathian.md) | Eb | Eb, F##, G#, A, B, C, D, Eb | ![ModeEFlatAeolathian](ModeEFlatAeolathian.png) |
 | [2931](https://ianring.com/musictheory/scales/2931) | [Zathyllic](ModeGSharpZathyllic.md) | G# | G#, A, C, C#, D, E, F, G, G# | ![ModeGSharpZathyllic](ModeGSharpZathyllic.png) |
 | [2931](https://ianring.com/musictheory/scales/2931) | [Zathyllic](ModeAFlatZathyllic.md) | Ab | Ab, A, C, Db, D, E, F, G, Ab | ![ModeAFlatZathyllic](ModeAFlatZathyllic.png) |
@@ -2450,10 +2610,15 @@ G
 | [2959](https://ianring.com/musictheory/scales/2959) | [Dygyllic](ModeFNaturalDygyllic.md) | F | F, F#, G, G#, C, C#, D, E, F | ![ModeFNaturalDygyllic](ModeFNaturalDygyllic.png) |
 | [2959](https://ianring.com/musictheory/scales/2959) | [Dygyllic](ModeCNaturalDygyllic.md) | C | C, C#, D, D#, G, G#, A, B, C | ![ModeCNaturalDygyllic](ModeCNaturalDygyllic.png) |
 | [2959](https://ianring.com/musictheory/scales/2959) | [Dygyllic](ModeBNaturalDygyllic.md) | B | B, C, C#, D, F#, G, G#, A#, B | ![ModeBNaturalDygyllic](ModeBNaturalDygyllic.png) |
+| [2961](https://ianring.com/musictheory/scales/2961) | [Bygimic](ModeDSharpBygimic.md) | D# | D#, E###, Cbb, Dbbb, Dbb, Ebb, D# | ![ModeDSharpBygimic](ModeDSharpBygimic.png) |
+| [2961](https://ianring.com/musictheory/scales/2961) | [Bygimic](ModeEFlatBygimic.md) | Eb | Eb, F##, G###, A##, B#, C##, Eb | ![ModeEFlatBygimic](ModeEFlatBygimic.png) |
+| [2963](https://ianring.com/musictheory/scales/2963) | [Bygian](ModeDSharpBygian.md) | D# | D#, E, F##, G###, A##, B#, C##, D# | ![ModeDSharpBygian](ModeDSharpBygian.png) |
 | [2963](https://ianring.com/musictheory/scales/2963) | [Bygian](ModeEFlatBygian.md) | Eb | Eb, Fb, G, A#, B, C, D, Eb | ![ModeEFlatBygian](ModeEFlatBygian.png) |
 | [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeFNaturalDarian.md) | F | F, G, A, B#, C#, D, E, F | ![ModeFNaturalDarian](ModeFNaturalDarian.png) |
+| [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeASharpDarian.md) | A# | A#, B#, C##, D###, E##, F##, G##, A# | ![ModeASharpDarian](ModeASharpDarian.png) |
 | [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeBFlatDarian.md) | Bb | Bb, C, D, E#, F#, G, A, Bb | ![ModeBFlatDarian](ModeBFlatDarian.png) |
 | [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeCNaturalDarian.md) | C | C, D, E, F##, G#, A, B, C | ![ModeCNaturalDarian](ModeCNaturalDarian.png) |
+| [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDSharpDarian.md) | D# | D#, E#, F##, G###, A##, B#, C##, D# | ![ModeDSharpDarian](ModeDSharpDarian.png) |
 | [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeEFlatDarian.md) | Eb | Eb, F, G, A#, B, C, D, Eb | ![ModeEFlatDarian](ModeEFlatDarian.png) |
 | [2967](https://ianring.com/musictheory/scales/2967) | [Madyllic](ModeFNaturalMadyllic.md) | F | F, F#, G, A, C, C#, D, E, F | ![ModeFNaturalMadyllic](ModeFNaturalMadyllic.png) |
 | [2967](https://ianring.com/musictheory/scales/2967) | [Madyllic](ModeCNaturalMadyllic.md) | C | C, C#, D, E, G, G#, A, B, C | ![ModeCNaturalMadyllic](ModeCNaturalMadyllic.png) |
@@ -2461,6 +2626,7 @@ G
 | [2967](https://ianring.com/musictheory/scales/2967) | [Madyllic](ModeEFlatMadyllic.md) | Eb | Eb, E, F, G, Bb, B, C, D, Eb | ![ModeEFlatMadyllic](ModeEFlatMadyllic.png) |
 | [2967](https://ianring.com/musictheory/scales/2967) | [Madyllic](ModeASharpMadyllic.md) | A# | A#, B, C, D, F, F#, G, A, A# | ![ModeASharpMadyllic](ModeASharpMadyllic.png) |
 | [2967](https://ianring.com/musictheory/scales/2967) | [Madyllic](ModeBFlatMadyllic.md) | Bb | Bb, B, C, D, F, Gb, G, A, Bb | ![ModeBFlatMadyllic](ModeBFlatMadyllic.png) |
+| [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeDSharpTholian.md) | D# | D#, E##, F##, G###, A##, B#, C##, D# | ![ModeDSharpTholian](ModeDSharpTholian.png) |
 | [2969](https://ianring.com/musictheory/scales/2969) | [Tholian](ModeEFlatTholian.md) | Eb | Eb, F#, G, A#, B, C, D, Eb | ![ModeEFlatTholian](ModeEFlatTholian.png) |
 | [2971](https://ianring.com/musictheory/scales/2971) | [Aeolynyllic](ModeDSharpAeolynyllic.md) | D# | D#, E, F#, G, A#, B, C, D, D# | ![ModeDSharpAeolynyllic](ModeDSharpAeolynyllic.png) |
 | [2971](https://ianring.com/musictheory/scales/2971) | [Aeolynyllic](ModeEFlatAeolynyllic.md) | Eb | Eb, E, Gb, G, Bb, B, C, D, Eb | ![ModeEFlatAeolynyllic](ModeEFlatAeolynyllic.png) |
@@ -2496,6 +2662,7 @@ G
 | [2991](https://ianring.com/musictheory/scales/2991) | [Zanygic](ModeCNaturalZanygic.md) | C | C, C#, D, D#, F, G, G#, A, B, C | ![ModeCNaturalZanygic](ModeCNaturalZanygic.png) |
 | [2991](https://ianring.com/musictheory/scales/2991) | [Zanygic](ModeBNaturalZanygic.md) | B | B, C, C#, D, E, F#, G, G#, A#, B | ![ModeBNaturalZanygic](ModeBNaturalZanygic.png) |
 | [2993](https://ianring.com/musictheory/scales/2993) | [Stythian](ModeGNaturalStythian.md) | G | G, A##, B#, C##, D#, E, F#, G | ![ModeGNaturalStythian](ModeGNaturalStythian.png) |
+| [2993](https://ianring.com/musictheory/scales/2993) | [Stythian](ModeDSharpStythian.md) | D# | D#, E###, F###, G###, A##, B#, C##, D# | ![ModeDSharpStythian](ModeDSharpStythian.png) |
 | [2993](https://ianring.com/musictheory/scales/2993) | [Stythian](ModeEFlatStythian.md) | Eb | Eb, F##, G#, A#, B, C, D, Eb | ![ModeEFlatStythian](ModeEFlatStythian.png) |
 | [2995](https://ianring.com/musictheory/scales/2995) | [Sanyllic](ModeGNaturalSanyllic.md) | G | G, G#, B, C, D, D#, E, F#, G | ![ModeGNaturalSanyllic](ModeGNaturalSanyllic.png) |
 | [2995](https://ianring.com/musictheory/scales/2995) | [Sanyllic](ModeDSharpSanyllic.md) | D# | D#, E, G, G#, A#, B, C, D, D# | ![ModeDSharpSanyllic](ModeDSharpSanyllic.png) |
@@ -2558,7 +2725,9 @@ G
 | [3023](https://ianring.com/musictheory/scales/3023) | [Aeracrygic](ModeFNaturalAeracrygic.md) | F | F, F#, G, G#, B, C, C#, D, E, F | ![ModeFNaturalAeracrygic](ModeFNaturalAeracrygic.png) |
 | [3023](https://ianring.com/musictheory/scales/3023) | [Aeracrygic](ModeCNaturalAeracrygic.md) | C | C, C#, D, D#, F#, G, G#, A, B, C | ![ModeCNaturalAeracrygic](ModeCNaturalAeracrygic.png) |
 | [3023](https://ianring.com/musictheory/scales/3023) | [Aeracrygic](ModeBNaturalAeracrygic.md) | B | B, C, C#, D, F, F#, G, G#, A#, B | ![ModeBNaturalAeracrygic](ModeBNaturalAeracrygic.png) |
+| [3025](https://ianring.com/musictheory/scales/3025) | [Epycrian](ModeGSharpEpycrian.md) | G# | G#, A###, B###, C###, D##, E#, F##, G# | ![ModeGSharpEpycrian](ModeGSharpEpycrian.png) |
 | [3025](https://ianring.com/musictheory/scales/3025) | [Epycrian](ModeAFlatEpycrian.md) | Ab | Ab, B#, C##, D#, E, F, G, Ab | ![ModeAFlatEpycrian](ModeAFlatEpycrian.png) |
+| [3025](https://ianring.com/musictheory/scales/3025) | [Epycrian](ModeDSharpEpycrian.md) | D# | D#, E###, Cbbb, Cbb, Dbbb, Dbb, Ebb, D# | ![ModeDSharpEpycrian](ModeDSharpEpycrian.png) |
 | [3025](https://ianring.com/musictheory/scales/3025) | [Epycrian](ModeEFlatEpycrian.md) | Eb | Eb, F##, G##, A#, B, C, D, Eb | ![ModeEFlatEpycrian](ModeEFlatEpycrian.png) |
 | [3027](https://ianring.com/musictheory/scales/3027) | [Rythyllic](ModeGSharpRythyllic.md) | G# | G#, A, C, D, D#, E, F, G, G# | ![ModeGSharpRythyllic](ModeGSharpRythyllic.png) |
 | [3027](https://ianring.com/musictheory/scales/3027) | [Rythyllic](ModeAFlatRythyllic.md) | Ab | Ab, A, C, D, Eb, E, F, G, Ab | ![ModeAFlatRythyllic](ModeAFlatRythyllic.png) |
@@ -2737,14 +2906,17 @@ G
 | [3151](https://ianring.com/musictheory/scales/3151) | [Pacrian](ModeDFlatPacrian.md) | Db | Db, Ebb, Fbb, Gbbb, Abb, B, C, Db | ![ModeDFlatPacrian](ModeDFlatPacrian.png) |
 | [3153](https://ianring.com/musictheory/scales/3153) | [Zathitonic](ModeGSharpZathitonic.md) | G# | G#, C, D, F#, G, G# | ![ModeGSharpZathitonic](ModeGSharpZathitonic.png) |
 | [3153](https://ianring.com/musictheory/scales/3153) | [Zathitonic](ModeAFlatZathitonic.md) | Ab | Ab, C, D, Gb, G, Ab | ![ModeAFlatZathitonic](ModeAFlatZathitonic.png) |
+| [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeGSharpLadimic.md) | G# | G#, A, B#, C##, E##, F##, G# | ![ModeGSharpLadimic](ModeGSharpLadimic.png) |
 | [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeAFlatLadimic.md) | Ab | Ab, Bbb, C, D, E##, F##, Ab | ![ModeAFlatLadimic](ModeAFlatLadimic.png) |
 | [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeCSharpLadimic.md) | C# | C#, D, E#, F##, Cb, Dbb, C# | ![ModeCSharpLadimic](ModeCSharpLadimic.png) |
 | [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeDFlatLadimic.md) | Db | Db, Ebb, F, G, A##, B#, Db | ![ModeDFlatLadimic](ModeDFlatLadimic.png) |
+| [3157](https://ianring.com/musictheory/scales/3157) | [Zyptimic](ModeGSharpZyptimic.md) | G# | G#, A#, B#, C##, E##, F##, G# | ![ModeGSharpZyptimic](ModeGSharpZyptimic.png) |
 | [3157](https://ianring.com/musictheory/scales/3157) | [Zyptimic](ModeAFlatZyptimic.md) | Ab | Ab, Bb, C, D, E##, F##, Ab | ![ModeAFlatZyptimic](ModeAFlatZyptimic.png) |
 | [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeGSharpStocrian.md) | G# | G#, A, Bb, C, D, E##, F##, G# | ![ModeGSharpStocrian](ModeGSharpStocrian.png) |
 | [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeAFlatStocrian.md) | Ab | Ab, Bbb, Cbb, Dbb, Ebb, F#, G, Ab | ![ModeAFlatStocrian](ModeAFlatStocrian.png) |
 | [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeCSharpStocrian.md) | C# | C#, D, Eb, F, G, A##, B#, C# | ![ModeCSharpStocrian](ModeCSharpStocrian.png) |
 | [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeDFlatStocrian.md) | Db | Db, Ebb, Fbb, Gbb, Abb, B, C, Db | ![ModeDFlatStocrian](ModeDFlatStocrian.png) |
+| [3161](https://ianring.com/musictheory/scales/3161) | [Kodimic](ModeGSharpKodimic.md) | G# | G#, A##, B#, C##, E##, F##, G# | ![ModeGSharpKodimic](ModeGSharpKodimic.png) |
 | [3161](https://ianring.com/musictheory/scales/3161) | [Kodimic](ModeAFlatKodimic.md) | Ab | Ab, B, C, D, E##, F##, Ab | ![ModeAFlatKodimic](ModeAFlatKodimic.png) |
 | [3163](https://ianring.com/musictheory/scales/3163) | [Rogian](ModeCSharpRogian.md) | C# | C#, D, E, F, G, A##, B#, C# | ![ModeCSharpRogian](ModeCSharpRogian.png) |
 | [3163](https://ianring.com/musictheory/scales/3163) | [Rogian](ModeDFlatRogian.md) | Db | Db, Ebb, Fb, Gbb, Abb, B, C, Db | ![ModeDFlatRogian](ModeDFlatRogian.png) |
@@ -2764,6 +2936,7 @@ G
 | [3175](https://ianring.com/musictheory/scales/3175) | [Eponian](ModeCSharpEponian.md) | C# | C#, D, Eb, F#, G, A##, B#, C# | ![ModeCSharpEponian](ModeCSharpEponian.png) |
 | [3175](https://ianring.com/musictheory/scales/3175) | [Eponian](ModeDFlatEponian.md) | Db | Db, Ebb, Fbb, Gb, Abb, B, C, Db | ![ModeDFlatEponian](ModeDFlatEponian.png) |
 | [3177](https://ianring.com/musictheory/scales/3177) | [Rothimic](ModeDNaturalRothimic.md) | D | D, E#, F##, G#, A###, B##, D | ![ModeDNaturalRothimic](ModeDNaturalRothimic.png) |
+| [3177](https://ianring.com/musictheory/scales/3177) | [Rothimic](ModeANaturalRothimic.md) | A | A, B#, C##, D#, E###, F###, A | ![ModeANaturalRothimic](ModeANaturalRothimic.png) |
 | [3179](https://ianring.com/musictheory/scales/3179) | [Daptian](ModeDNaturalDaptian.md) | D | D, Eb, F, G, Ab, B#, C#, D | ![ModeDNaturalDaptian](ModeDNaturalDaptian.png) |
 | [3179](https://ianring.com/musictheory/scales/3179) | [Daptian](ModeANaturalDaptian.md) | A | A, Bb, C, D, Eb, F##, G#, A | ![ModeANaturalDaptian](ModeANaturalDaptian.png) |
 | [3179](https://ianring.com/musictheory/scales/3179) | [Daptian](ModeCSharpDaptian.md) | C# | C#, D, E, F#, G, A##, B#, C# | ![ModeCSharpDaptian](ModeCSharpDaptian.png) |
@@ -2775,6 +2948,7 @@ G
 | [3183](https://ianring.com/musictheory/scales/3183) | [Mixonyllic](ModeDFlatMixonyllic.md) | Db | Db, D, Eb, E, Gb, G, B, C, Db | ![ModeDFlatMixonyllic](ModeDFlatMixonyllic.png) |
 | [3183](https://ianring.com/musictheory/scales/3183) | [Mixonyllic](ModeANaturalMixonyllic.md) | A | A, A#, B, C, D, D#, G, G#, A | ![ModeANaturalMixonyllic](ModeANaturalMixonyllic.png) |
 | [3185](https://ianring.com/musictheory/scales/3185) | [Thonimic](ModeDNaturalThonimic.md) | D | D, E##, F##, G#, A###, B##, D | ![ModeDNaturalThonimic](ModeDNaturalThonimic.png) |
+| [3185](https://ianring.com/musictheory/scales/3185) | [Thonimic](ModeGSharpThonimic.md) | G# | G#, A###, B##, C##, E##, F##, G# | ![ModeGSharpThonimic](ModeGSharpThonimic.png) |
 | [3185](https://ianring.com/musictheory/scales/3185) | [Thonimic](ModeAFlatThonimic.md) | Ab | Ab, B#, C#, D, E##, F##, Ab | ![ModeAFlatThonimic](ModeAFlatThonimic.png) |
 | [3187](https://ianring.com/musictheory/scales/3187) | [Koptian](ModeDNaturalKoptian.md) | D | D, Eb, F#, G, Ab, B#, C#, D | ![ModeDNaturalKoptian](ModeDNaturalKoptian.png) |
 | [3187](https://ianring.com/musictheory/scales/3187) | [Koptian](ModeGSharpKoptian.md) | G# | G#, A, B#, C#, D, E##, F##, G# | ![ModeGSharpKoptian](ModeGSharpKoptian.png) |
@@ -2824,6 +2998,7 @@ G
 | [3239](https://ianring.com/musictheory/scales/3239) | [Epythian](ModeGNaturalEpythian.md) | G | G, Ab, Bbb, C, D, E#, F#, G | ![ModeGNaturalEpythian](ModeGNaturalEpythian.png) |
 | [3239](https://ianring.com/musictheory/scales/3239) | [Epythian](ModeCNaturalEpythian.md) | C | C, Db, Ebb, F, G, A#, B, C | ![ModeCNaturalEpythian](ModeCNaturalEpythian.png) |
 | [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDNaturalDalimic.md) | D | D, E#, F##, G##, A###, B##, D | ![ModeDNaturalDalimic](ModeDNaturalDalimic.png) |
+| [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeANaturalDalimic.md) | A | A, B#, C##, D##, E###, F###, A | ![ModeANaturalDalimic](ModeANaturalDalimic.png) |
 | [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeGNaturalDalimic.md) | G | G, A#, B#, C##, D###, E##, G | ![ModeGNaturalDalimic](ModeGNaturalDalimic.png) |
 | [3243](https://ianring.com/musictheory/scales/3243) | [Staptian](ModeDNaturalStaptian.md) | D | D, Eb, F, G, A, B#, C#, D | ![ModeDNaturalStaptian](ModeDNaturalStaptian.png) |
 | [3243](https://ianring.com/musictheory/scales/3243) | [Staptian](ModeGNaturalStaptian.md) | G | G, Ab, Bb, C, D, E#, F#, G | ![ModeGNaturalStaptian](ModeGNaturalStaptian.png) |
@@ -2870,9 +3045,13 @@ G
 | [3279](https://ianring.com/musictheory/scales/3279) | [Pythyllic](ModeCSharpPythyllic.md) | C# | C#, D, D#, E, G, G#, B, C, C# | ![ModeCSharpPythyllic](ModeCSharpPythyllic.png) |
 | [3279](https://ianring.com/musictheory/scales/3279) | [Pythyllic](ModeDFlatPythyllic.md) | Db | Db, D, Eb, E, G, Ab, B, C, Db | ![ModeDFlatPythyllic](ModeDFlatPythyllic.png) |
 | [3279](https://ianring.com/musictheory/scales/3279) | [Pythyllic](ModeCNaturalPythyllic.md) | C | C, C#, D, D#, F#, G, A#, B, C | ![ModeCNaturalPythyllic](ModeCNaturalPythyllic.png) |
+| [3281](https://ianring.com/musictheory/scales/3281) | [Katythimic](ModeGSharpKatythimic.md) | G# | G#, A###, B###, C###, E##, F##, G# | ![ModeGSharpKatythimic](ModeGSharpKatythimic.png) |
+| [3281](https://ianring.com/musictheory/scales/3281) | [Katythimic](ModeAFlatKatythimic.md) | Ab | Ab, B#, C##, D#, E##, F##, Ab | ![ModeAFlatKatythimic](ModeAFlatKatythimic.png) |
+| [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeGSharpLyrian.md) | G# | G#, A, B#, C##, D#, E##, F##, G# | ![ModeGSharpLyrian](ModeGSharpLyrian.png) |
 | [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeAFlatLyrian.md) | Ab | Ab, Bbb, C, D, Eb, F#, G, Ab | ![ModeAFlatLyrian](ModeAFlatLyrian.png) |
 | [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeCSharpLyrian.md) | C# | C#, D, E#, F##, G#, A##, B#, C# | ![ModeCSharpLyrian](ModeCSharpLyrian.png) |
 | [3283](https://ianring.com/musictheory/scales/3283) | [Lyrian](ModeDFlatLyrian.md) | Db | Db, Ebb, F, G, Ab, B, C, Db | ![ModeDFlatLyrian](ModeDFlatLyrian.png) |
+| [3285](https://ianring.com/musictheory/scales/3285) | [Zagian](ModeGSharpZagian.md) | G# | G#, A#, B#, C##, D#, E##, F##, G# | ![ModeGSharpZagian](ModeGSharpZagian.png) |
 | [3285](https://ianring.com/musictheory/scales/3285) | [Zagian](ModeAFlatZagian.md) | Ab | Ab, Bb, C, D, Eb, F#, G, Ab | ![ModeAFlatZagian](ModeAFlatZagian.png) |
 | [3285](https://ianring.com/musictheory/scales/3285) | [Zagian](ModeCNaturalZagian.md) | C | C, D, E, F#, G, A#, B, C | ![ModeCNaturalZagian](ModeCNaturalZagian.png) |
 | [3287](https://ianring.com/musictheory/scales/3287) | [Phrathyllic](ModeGSharpPhrathyllic.md) | G# | G#, A, A#, C, D, D#, F#, G, G# | ![ModeGSharpPhrathyllic](ModeGSharpPhrathyllic.png) |
@@ -2880,6 +3059,7 @@ G
 | [3287](https://ianring.com/musictheory/scales/3287) | [Phrathyllic](ModeCSharpPhrathyllic.md) | C# | C#, D, D#, F, G, G#, B, C, C# | ![ModeCSharpPhrathyllic](ModeCSharpPhrathyllic.png) |
 | [3287](https://ianring.com/musictheory/scales/3287) | [Phrathyllic](ModeDFlatPhrathyllic.md) | Db | Db, D, Eb, F, G, Ab, B, C, Db | ![ModeDFlatPhrathyllic](ModeDFlatPhrathyllic.png) |
 | [3287](https://ianring.com/musictheory/scales/3287) | [Phrathyllic](ModeCNaturalPhrathyllic.md) | C | C, C#, D, E, F#, G, A#, B, C | ![ModeCNaturalPhrathyllic](ModeCNaturalPhrathyllic.png) |
+| [3289](https://ianring.com/musictheory/scales/3289) | [Loptian](ModeGSharpLoptian.md) | G# | G#, A##, B#, C##, D#, E##, F##, G# | ![ModeGSharpLoptian](ModeGSharpLoptian.png) |
 | [3289](https://ianring.com/musictheory/scales/3289) | [Loptian](ModeAFlatLoptian.md) | Ab | Ab, B, C, D, Eb, F#, G, Ab | ![ModeAFlatLoptian](ModeAFlatLoptian.png) |
 | [3291](https://ianring.com/musictheory/scales/3291) | [Kodyllic](ModeCSharpKodyllic.md) | C# | C#, D, E, F, G, G#, B, C, C# | ![ModeCSharpKodyllic](ModeCSharpKodyllic.png) |
 | [3291](https://ianring.com/musictheory/scales/3291) | [Kodyllic](ModeDFlatKodyllic.md) | Db | Db, D, E, F, G, Ab, B, C, Db | ![ModeDFlatKodyllic](ModeDFlatKodyllic.png) |
@@ -2905,6 +3085,7 @@ G
 | [3303](https://ianring.com/musictheory/scales/3303) | [Soptyllic](ModeCSharpSoptyllic.md) | C# | C#, D, D#, F#, G, G#, B, C, C# | ![ModeCSharpSoptyllic](ModeCSharpSoptyllic.png) |
 | [3303](https://ianring.com/musictheory/scales/3303) | [Soptyllic](ModeDFlatSoptyllic.md) | Db | Db, D, Eb, Gb, G, Ab, B, C, Db | ![ModeDFlatSoptyllic](ModeDFlatSoptyllic.png) |
 | [3303](https://ianring.com/musictheory/scales/3303) | [Soptyllic](ModeCNaturalSoptyllic.md) | C | C, C#, D, F, F#, G, A#, B, C | ![ModeCNaturalSoptyllic](ModeCNaturalSoptyllic.png) |
+| [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeANaturalEpathian.md) | A | A, B#, C##, D#, E, F##, G#, A | ![ModeANaturalEpathian](ModeANaturalEpathian.png) |
 | [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeDNaturalEpathian.md) | D | D, E#, F##, G#, A, B#, C#, D | ![ModeDNaturalEpathian](ModeDNaturalEpathian.png) |
 | [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeGNaturalEpathian.md) | G | G, A#, B#, C#, D, E#, F#, G | ![ModeGNaturalEpathian](ModeGNaturalEpathian.png) |
 | [3307](https://ianring.com/musictheory/scales/3307) | [Boptyllic](ModeDNaturalBoptyllic.md) | D | D, D#, F, G, G#, A, C, C#, D | ![ModeDNaturalBoptyllic](ModeDNaturalBoptyllic.png) |
@@ -2922,6 +3103,7 @@ G
 | [3311](https://ianring.com/musictheory/scales/3311) | [Mixodygic](ModeDFlatMixodygic.md) | Db | Db, D, Eb, E, Gb, G, Ab, B, C, Db | ![ModeDFlatMixodygic](ModeDFlatMixodygic.png) |
 | [3311](https://ianring.com/musictheory/scales/3311) | [Mixodygic](ModeCNaturalMixodygic.md) | C | C, C#, D, D#, F, F#, G, A#, B, C | ![ModeCNaturalMixodygic](ModeCNaturalMixodygic.png) |
 | [3311](https://ianring.com/musictheory/scales/3311) | [Mixodygic](ModeANaturalMixodygic.md) | A | A, A#, B, C, D, D#, E, G, G#, A | ![ModeANaturalMixodygic](ModeANaturalMixodygic.png) |
+| [3313](https://ianring.com/musictheory/scales/3313) | [Aeolacrian](ModeGSharpAeolacrian.md) | G# | G#, A###, B##, C##, D#, E##, F##, G# | ![ModeGSharpAeolacrian](ModeGSharpAeolacrian.png) |
 | [3313](https://ianring.com/musictheory/scales/3313) | [Aeolacrian](ModeAFlatAeolacrian.md) | Ab | Ab, B#, C#, D, Eb, F#, G, Ab | ![ModeAFlatAeolacrian](ModeAFlatAeolacrian.png) |
 | [3313](https://ianring.com/musictheory/scales/3313) | [Aeolacrian](ModeDNaturalAeolacrian.md) | D | D, E##, F##, G#, A, B#, C#, D | ![ModeDNaturalAeolacrian](ModeDNaturalAeolacrian.png) |
 | [3313](https://ianring.com/musictheory/scales/3313) | [Aeolacrian](ModeGNaturalAeolacrian.md) | G | G, A##, B#, C#, D, E#, F#, G | ![ModeGNaturalAeolacrian](ModeGNaturalAeolacrian.png) |
@@ -2969,6 +3151,7 @@ G
 | [3327](https://ianring.com/musictheory/scales/3327) | [Madyllian](ModeGSharpMadyllian.md) | G# | G#, A, A#, B, C, C#, D, D#, F#, G, G# | ![ModeGSharpMadyllian](ModeGSharpMadyllian.png) |
 | [3327](https://ianring.com/musictheory/scales/3327) | [Madyllian](ModeAFlatMadyllian.md) | Ab | Ab, A, Bb, B, C, Db, D, Eb, Gb, G, Ab | ![ModeAFlatMadyllian](ModeAFlatMadyllian.png) |
 | [3327](https://ianring.com/musictheory/scales/3327) | [Madyllian](ModeGNaturalMadyllian.md) | G | G, G#, A, A#, B, C, C#, D, F, F#, G | ![ModeGNaturalMadyllian](ModeGNaturalMadyllian.png) |
+| [3353](https://ianring.com/musictheory/scales/3353) | [Phraptimic](ModeENaturalPhraptimic.md) | E | E, F##, G#, A###, B###, C###, E | ![ModeENaturalPhraptimic](ModeENaturalPhraptimic.png) |
 | [3355](https://ianring.com/musictheory/scales/3355) | [Bagian](ModeENaturalBagian.md) | E | E, F, G, Ab, B#, C##, D#, E | ![ModeENaturalBagian](ModeENaturalBagian.png) |
 | [3355](https://ianring.com/musictheory/scales/3355) | [Bagian](ModeBNaturalBagian.md) | B | B, C, D, Eb, F##, G##, A#, B | ![ModeBNaturalBagian](ModeBNaturalBagian.png) |
 | [3357](https://ianring.com/musictheory/scales/3357) | [Phrodian](ModeENaturalPhrodian.md) | E | E, F#, G, Ab, B#, C##, D#, E | ![ModeENaturalPhrodian](ModeENaturalPhrodian.png) |
@@ -2977,6 +3160,8 @@ G
 | [3363](https://ianring.com/musictheory/scales/3363) | [Rogimic](ModeDNaturalRogimic.md) | D | D, Eb, F##, G###, A###, B##, D | ![ModeDNaturalRogimic](ModeDNaturalRogimic.png) |
 | [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeDNaturalKatolimic.md) | D | D, E, F##, G###, A###, B##, D | ![ModeDNaturalKatolimic](ModeDNaturalKatolimic.png) |
 | [3367](https://ianring.com/musictheory/scales/3367) | [Moptian](ModeDNaturalMoptian.md) | D | D, Eb, Fb, G, A#, B#, C#, D | ![ModeDNaturalMoptian](ModeDNaturalMoptian.png) |
+| [3369](https://ianring.com/musictheory/scales/3369) | [Mixolimic](ModeENaturalMixolimic.md) | E | E, F##, G##, A###, B###, C###, E | ![ModeENaturalMixolimic](ModeENaturalMixolimic.png) |
+| [3369](https://ianring.com/musictheory/scales/3369) | [Mixolimic](ModeANaturalMixolimic.md) | A | A, B#, C##, D###, E###, F###, A | ![ModeANaturalMixolimic](ModeANaturalMixolimic.png) |
 | [3369](https://ianring.com/musictheory/scales/3369) | [Mixolimic](ModeDNaturalMixolimic.md) | D | D, E#, F##, G###, A###, B##, D | ![ModeDNaturalMixolimic](ModeDNaturalMixolimic.png) |
 | [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeENaturalAeolylian.md) | E | E, F, G, A, B#, C##, D#, E | ![ModeENaturalAeolylian](ModeENaturalAeolylian.png) |
 | [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeDNaturalAeolylian.md) | D | D, Eb, F, G, A#, B#, C#, D | ![ModeDNaturalAeolylian](ModeDNaturalAeolylian.png) |
@@ -2993,6 +3178,7 @@ G
 | [3379](https://ianring.com/musictheory/scales/3379) | [Sothian](ModeDNaturalSothian.md) | D | D, Eb, F#, G, A#, B#, C#, D | ![ModeDNaturalSothian](ModeDNaturalSothian.png) |
 | [3381](https://ianring.com/musictheory/scales/3381) | [Katanian](ModeDNaturalKatanian.md) | D | D, E, F#, G, A#, B#, C#, D | ![ModeDNaturalKatanian](ModeDNaturalKatanian.png) |
 | [3383](https://ianring.com/musictheory/scales/3383) | [Daptyllic](ModeDNaturalDaptyllic.md) | D | D, D#, E, F#, G, A#, C, C#, D | ![ModeDNaturalDaptyllic](ModeDNaturalDaptyllic.png) |
+| [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeENaturalRothian.md) | E | E, F##, G#, A, B#, C##, D#, E | ![ModeENaturalRothian](ModeENaturalRothian.png) |
 | [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeANaturalRothian.md) | A | A, B#, C#, D, E#, F##, G#, A | ![ModeANaturalRothian](ModeANaturalRothian.png) |
 | [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeDNaturalRothian.md) | D | D, E#, F#, G, A#, B#, C#, D | ![ModeDNaturalRothian](ModeDNaturalRothian.png) |
 | [3387](https://ianring.com/musictheory/scales/3387) | [Aeryptyllic](ModeENaturalAeryptyllic.md) | E | E, F, G, G#, A, C, D, D#, E | ![ModeENaturalAeryptyllic](ModeENaturalAeryptyllic.png) |
@@ -3010,6 +3196,7 @@ G
 | [3399](https://ianring.com/musictheory/scales/3399) | [Zonian](ModeGFlatZonian.md) | Gb | Gb, Abb, Bbbb, C, D, E, F, Gb | ![ModeGFlatZonian](ModeGFlatZonian.png) |
 | [3399](https://ianring.com/musictheory/scales/3399) | [Zonian](ModeCSharpZonian.md) | C# | C#, D, Eb, F##, G##, A##, B#, C# | ![ModeCSharpZonian](ModeCSharpZonian.png) |
 | [3399](https://ianring.com/musictheory/scales/3399) | [Zonian](ModeDFlatZonian.md) | Db | Db, Ebb, Fbb, G, A, B, C, Db | ![ModeDFlatZonian](ModeDFlatZonian.png) |
+| [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModeENaturalPalimic.md) | E | E, F##, G###, A###, B###, C###, E | ![ModeENaturalPalimic](ModeENaturalPalimic.png) |
 | [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeFSharpBylian.md) | F# | F#, G, A, B#, C##, D##, E#, F# | ![ModeFSharpBylian](ModeFSharpBylian.png) |
 | [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeGFlatBylian.md) | Gb | Gb, Abb, Bbb, C, D, E, F, Gb | ![ModeGFlatBylian](ModeGFlatBylian.png) |
 | [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeENaturalBylian.md) | E | E, F, G, A#, B#, C##, D#, E | ![ModeENaturalBylian](ModeENaturalBylian.png) |
@@ -3023,11 +3210,15 @@ G
 | [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeCSharpKatocryllic.md) | C# | C#, D, D#, E, G, A, B, C, C# | ![ModeCSharpKatocryllic](ModeCSharpKatocryllic.png) |
 | [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeDFlatKatocryllic.md) | Db | Db, D, Eb, E, G, A, B, C, Db | ![ModeDFlatKatocryllic](ModeDFlatKatocryllic.png) |
 | [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeBNaturalKatocryllic.md) | B | B, C, C#, D, F, G, A, A#, B | ![ModeBNaturalKatocryllic](ModeBNaturalKatocryllic.png) |
+| [3409](https://ianring.com/musictheory/scales/3409) | [Katanimic](ModeGSharpKatanimic.md) | G# | G#, A###, B###, D##, E##, F##, G# | ![ModeGSharpKatanimic](ModeGSharpKatanimic.png) |
+| [3409](https://ianring.com/musictheory/scales/3409) | [Katanimic](ModeAFlatKatanimic.md) | Ab | Ab, B#, C##, D##, E##, F##, Ab | ![ModeAFlatKatanimic](ModeAFlatKatanimic.png) |
+| [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeGSharpIonathian.md) | G# | G#, A, B#, C##, D##, E##, F##, G# | ![ModeGSharpIonathian](ModeGSharpIonathian.png) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeAFlatIonathian.md) | Ab | Ab, Bbb, C, D, E, F#, G, Ab | ![ModeAFlatIonathian](ModeAFlatIonathian.png) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeFSharpIonathian.md) | F# | F#, G, A#, B#, C##, D##, E#, F# | ![ModeFSharpIonathian](ModeFSharpIonathian.png) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeGFlatIonathian.md) | Gb | Gb, Abb, Bb, C, D, E, F, Gb | ![ModeGFlatIonathian](ModeGFlatIonathian.png) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeCSharpIonathian.md) | C# | C#, D, E#, F##, G##, A##, B#, C# | ![ModeCSharpIonathian](ModeCSharpIonathian.png) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeDFlatIonathian.md) | Db | Db, Ebb, F, G, A, B, C, Db | ![ModeDFlatIonathian](ModeDFlatIonathian.png) |
+| [3413](https://ianring.com/musictheory/scales/3413) | [Aeolynian](ModeGSharpAeolynian.md) | G# | G#, A#, B#, C##, D##, E##, F##, G# | ![ModeGSharpAeolynian](ModeGSharpAeolynian.png) |
 | [3413](https://ianring.com/musictheory/scales/3413) | [Aeolynian](ModeAFlatAeolynian.md) | Ab | Ab, Bb, C, D, E, F#, G, Ab | ![ModeAFlatAeolynian](ModeAFlatAeolynian.png) |
 | [3415](https://ianring.com/musictheory/scales/3415) | [Ionaptyllic](ModeFSharpIonaptyllic.md) | F# | F#, G, G#, A#, C, D, E, F, F# | ![ModeFSharpIonaptyllic](ModeFSharpIonaptyllic.png) |
 | [3415](https://ianring.com/musictheory/scales/3415) | [Ionaptyllic](ModeGFlatIonaptyllic.md) | Gb | Gb, G, Ab, Bb, C, D, E, F, Gb | ![ModeGFlatIonaptyllic](ModeGFlatIonaptyllic.png) |
@@ -3035,6 +3226,8 @@ G
 | [3415](https://ianring.com/musictheory/scales/3415) | [Ionaptyllic](ModeAFlatIonaptyllic.md) | Ab | Ab, A, Bb, C, D, E, Gb, G, Ab | ![ModeAFlatIonaptyllic](ModeAFlatIonaptyllic.png) |
 | [3415](https://ianring.com/musictheory/scales/3415) | [Ionaptyllic](ModeCSharpIonaptyllic.md) | C# | C#, D, D#, F, G, A, B, C, C# | ![ModeCSharpIonaptyllic](ModeCSharpIonaptyllic.png) |
 | [3415](https://ianring.com/musictheory/scales/3415) | [Ionaptyllic](ModeDFlatIonaptyllic.md) | Db | Db, D, Eb, F, G, A, B, C, Db | ![ModeDFlatIonaptyllic](ModeDFlatIonaptyllic.png) |
+| [3417](https://ianring.com/musictheory/scales/3417) | [Golian](ModeENaturalGolian.md) | E | E, F##, G#, A#, B#, C##, D#, E | ![ModeENaturalGolian](ModeENaturalGolian.png) |
+| [3417](https://ianring.com/musictheory/scales/3417) | [Golian](ModeGSharpGolian.md) | G# | G#, A##, B#, C##, D##, E##, F##, G# | ![ModeGSharpGolian](ModeGSharpGolian.png) |
 | [3417](https://ianring.com/musictheory/scales/3417) | [Golian](ModeAFlatGolian.md) | Ab | Ab, B, C, D, E, F#, G, Ab | ![ModeAFlatGolian](ModeAFlatGolian.png) |
 | [3419](https://ianring.com/musictheory/scales/3419) | [Danyllic](ModeENaturalDanyllic.md) | E | E, F, G, G#, A#, C, D, D#, E | ![ModeENaturalDanyllic](ModeENaturalDanyllic.png) |
 | [3419](https://ianring.com/musictheory/scales/3419) | [Danyllic](ModeFSharpDanyllic.md) | F# | F#, G, A, A#, C, D, E, F, F# | ![ModeFSharpDanyllic](ModeFSharpDanyllic.png) |
@@ -3066,7 +3259,9 @@ G
 | [3431](https://ianring.com/musictheory/scales/3431) | [Zyptyllic](ModeGFlatZyptyllic.md) | Gb | Gb, G, Ab, B, C, D, E, F, Gb | ![ModeGFlatZyptyllic](ModeGFlatZyptyllic.png) |
 | [3431](https://ianring.com/musictheory/scales/3431) | [Zyptyllic](ModeCSharpZyptyllic.md) | C# | C#, D, D#, F#, G, A, B, C, C# | ![ModeCSharpZyptyllic](ModeCSharpZyptyllic.png) |
 | [3431](https://ianring.com/musictheory/scales/3431) | [Zyptyllic](ModeDFlatZyptyllic.md) | Db | Db, D, Eb, Gb, G, A, B, C, Db | ![ModeDFlatZyptyllic](ModeDFlatZyptyllic.png) |
+| [3433](https://ianring.com/musictheory/scales/3433) | [Thonian](ModeANaturalThonian.md) | A | A, B#, C##, D#, E#, F##, G#, A | ![ModeANaturalThonian](ModeANaturalThonian.png) |
 | [3433](https://ianring.com/musictheory/scales/3433) | [Thonian](ModeDNaturalThonian.md) | D | D, E#, F##, G#, A#, B#, C#, D | ![ModeDNaturalThonian](ModeDNaturalThonian.png) |
+| [3433](https://ianring.com/musictheory/scales/3433) | [Thonian](ModeENaturalThonian.md) | E | E, F##, G##, A#, B#, C##, D#, E | ![ModeENaturalThonian](ModeENaturalThonian.png) |
 | [3435](https://ianring.com/musictheory/scales/3435) | [Epiphyllic](ModeDNaturalEpiphyllic.md) | D | D, D#, F, G, G#, A#, C, C#, D | ![ModeDNaturalEpiphyllic](ModeDNaturalEpiphyllic.png) |
 | [3435](https://ianring.com/musictheory/scales/3435) | [Epiphyllic](ModeENaturalEpiphyllic.md) | E | E, F, G, A, A#, C, D, D#, E | ![ModeENaturalEpiphyllic](ModeENaturalEpiphyllic.png) |
 | [3435](https://ianring.com/musictheory/scales/3435) | [Epiphyllic](ModeANaturalEpiphyllic.md) | A | A, A#, C, D, D#, F, G, G#, A | ![ModeANaturalEpiphyllic](ModeANaturalEpiphyllic.png) |
@@ -3086,6 +3281,7 @@ G
 | [3439](https://ianring.com/musictheory/scales/3439) | [Lythygic](ModeGFlatLythygic.md) | Gb | Gb, G, Ab, A, B, C, D, E, F, Gb | ![ModeGFlatLythygic](ModeGFlatLythygic.png) |
 | [3439](https://ianring.com/musictheory/scales/3439) | [Lythygic](ModeBNaturalLythygic.md) | B | B, C, C#, D, E, F, G, A, A#, B | ![ModeBNaturalLythygic](ModeBNaturalLythygic.png) |
 | [3439](https://ianring.com/musictheory/scales/3439) | [Lythygic](ModeANaturalLythygic.md) | A | A, A#, B, C, D, D#, F, G, G#, A | ![ModeANaturalLythygic](ModeANaturalLythygic.png) |
+| [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeGSharpThacrian.md) | G# | G#, A###, B##, C##, D##, E##, F##, G# | ![ModeGSharpThacrian](ModeGSharpThacrian.png) |
 | [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeAFlatThacrian.md) | Ab | Ab, B#, C#, D, E, F#, G, Ab | ![ModeAFlatThacrian](ModeAFlatThacrian.png) |
 | [3441](https://ianring.com/musictheory/scales/3441) | [Thacrian](ModeDNaturalThacrian.md) | D | D, E##, F##, G#, A#, B#, C#, D | ![ModeDNaturalThacrian](ModeDNaturalThacrian.png) |
 | [3443](https://ianring.com/musictheory/scales/3443) | [Epathyllic](ModeGSharpEpathyllic.md) | G# | G#, A, C, C#, D, E, F#, G, G# | ![ModeGSharpEpathyllic](ModeGSharpEpathyllic.png) |
@@ -3135,6 +3331,7 @@ G
 | [3455](https://ianring.com/musictheory/scales/3455) | [Ryptyllian](ModeAFlatRyptyllian.md) | Ab | Ab, A, Bb, B, C, Db, D, E, Gb, G, Ab | ![ModeAFlatRyptyllian](ModeAFlatRyptyllian.png) |
 | [3455](https://ianring.com/musictheory/scales/3455) | [Ryptyllian](ModeFSharpRyptyllian.md) | F# | F#, G, G#, A, A#, B, C, D, E, F, F# | ![ModeFSharpRyptyllian](ModeFSharpRyptyllian.png) |
 | [3455](https://ianring.com/musictheory/scales/3455) | [Ryptyllian](ModeGFlatRyptyllian.md) | Gb | Gb, G, Ab, A, Bb, B, C, D, E, F, Gb | ![ModeGFlatRyptyllian](ModeGFlatRyptyllian.png) |
+| [3465](https://ianring.com/musictheory/scales/3465) | [Katathimic](ModeENaturalKatathimic.md) | E | E, F##, Cb, Dbb, Ebb, Fbb, E | ![ModeENaturalKatathimic](ModeENaturalKatathimic.png) |
 | [3467](https://ianring.com/musictheory/scales/3467) | [Katonian](ModeENaturalKatonian.md) | E | E, F, G, A##, B#, C##, D#, E | ![ModeENaturalKatonian](ModeENaturalKatonian.png) |
 | [3467](https://ianring.com/musictheory/scales/3467) | [Katonian](ModeBNaturalKatonian.md) | B | B, C, D, E##, F##, G##, A#, B | ![ModeBNaturalKatonian](ModeBNaturalKatonian.png) |
 | [3469](https://ianring.com/musictheory/scales/3469) | [Monian](ModeENaturalMonian.md) | E | E, F#, G, A##, B#, C##, D#, E | ![ModeENaturalMonian](ModeENaturalMonian.png) |
@@ -3144,6 +3341,7 @@ G
 | [3471](https://ianring.com/musictheory/scales/3471) | [Gyryllic](ModeBNaturalGyryllic.md) | B | B, C, C#, D, F#, G, A, A#, B | ![ModeBNaturalGyryllic](ModeBNaturalGyryllic.png) |
 | [3477](https://ianring.com/musictheory/scales/3477) | [Kyptian](ModeCNaturalKyptian.md) | C | C, D, E, F##, G#, A#, B, C | ![ModeCNaturalKyptian](ModeCNaturalKyptian.png) |
 | [3479](https://ianring.com/musictheory/scales/3479) | [Rothyllic](ModeCNaturalRothyllic.md) | C | C, C#, D, E, G, G#, A#, B, C | ![ModeCNaturalRothyllic](ModeCNaturalRothyllic.png) |
+| [3481](https://ianring.com/musictheory/scales/3481) | [Katathian](ModeENaturalKatathian.md) | E | E, F##, G#, A##, B#, C##, D#, E | ![ModeENaturalKatathian](ModeENaturalKatathian.png) |
 | [3483](https://ianring.com/musictheory/scales/3483) | [Mixotharyllic](ModeENaturalMixotharyllic.md) | E | E, F, G, G#, B, C, D, D#, E | ![ModeENaturalMixotharyllic](ModeENaturalMixotharyllic.png) |
 | [3483](https://ianring.com/musictheory/scales/3483) | [Mixotharyllic](ModeBNaturalMixotharyllic.md) | B | B, C, D, D#, F#, G, A, A#, B | ![ModeBNaturalMixotharyllic](ModeBNaturalMixotharyllic.png) |
 | [3485](https://ianring.com/musictheory/scales/3485) | [Kyptyllic](ModeENaturalKyptyllic.md) | E | E, F#, G, G#, B, C, D, D#, E | ![ModeENaturalKyptyllic](ModeENaturalKyptyllic.png) |
@@ -3159,8 +3357,10 @@ G
 | [3495](https://ianring.com/musictheory/scales/3495) | [Banyllic](ModeGNaturalBanyllic.md) | G | G, G#, A, C, D, D#, F, F#, G | ![ModeGNaturalBanyllic](ModeGNaturalBanyllic.png) |
 | [3495](https://ianring.com/musictheory/scales/3495) | [Banyllic](ModeDNaturalBanyllic.md) | D | D, D#, E, G, A, A#, C, C#, D | ![ModeDNaturalBanyllic](ModeDNaturalBanyllic.png) |
 | [3495](https://ianring.com/musictheory/scales/3495) | [Banyllic](ModeCNaturalBanyllic.md) | C | C, C#, D, F, G, G#, A#, B, C | ![ModeCNaturalBanyllic](ModeCNaturalBanyllic.png) |
+| [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModeANaturalPhrolian.md) | A | A, B#, C##, D##, E#, F##, G#, A | ![ModeANaturalPhrolian](ModeANaturalPhrolian.png) |
 | [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModeGNaturalPhrolian.md) | G | G, A#, B#, C##, D#, E#, F#, G | ![ModeGNaturalPhrolian](ModeGNaturalPhrolian.png) |
 | [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModeDNaturalPhrolian.md) | D | D, E#, F##, G##, A#, B#, C#, D | ![ModeDNaturalPhrolian](ModeDNaturalPhrolian.png) |
+| [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModeENaturalPhrolian.md) | E | E, F##, G##, A##, B#, C##, D#, E | ![ModeENaturalPhrolian](ModeENaturalPhrolian.png) |
 | [3499](https://ianring.com/musictheory/scales/3499) | [Lythyllic](ModeGNaturalLythyllic.md) | G | G, G#, A#, C, D, D#, F, F#, G | ![ModeGNaturalLythyllic](ModeGNaturalLythyllic.png) |
 | [3499](https://ianring.com/musictheory/scales/3499) | [Lythyllic](ModeDNaturalLythyllic.md) | D | D, D#, F, G, A, A#, C, C#, D | ![ModeDNaturalLythyllic](ModeDNaturalLythyllic.png) |
 | [3499](https://ianring.com/musictheory/scales/3499) | [Lythyllic](ModeANaturalLythyllic.md) | A | A, A#, C, D, E, F, G, G#, A | ![ModeANaturalLythyllic](ModeANaturalLythyllic.png) |
@@ -3213,6 +3413,7 @@ G
 | [3527](https://ianring.com/musictheory/scales/3527) | [Ronyllic](ModeCSharpRonyllic.md) | C# | C#, D, D#, G, G#, A, B, C, C# | ![ModeCSharpRonyllic](ModeCSharpRonyllic.png) |
 | [3527](https://ianring.com/musictheory/scales/3527) | [Ronyllic](ModeDFlatRonyllic.md) | Db | Db, D, Eb, G, Ab, A, B, C, Db | ![ModeDFlatRonyllic](ModeDFlatRonyllic.png) |
 | [3527](https://ianring.com/musictheory/scales/3527) | [Ronyllic](ModeCNaturalRonyllic.md) | C | C, C#, D, F#, G, G#, A#, B, C | ![ModeCNaturalRonyllic](ModeCNaturalRonyllic.png) |
+| [3529](https://ianring.com/musictheory/scales/3529) | [Stalian](ModeENaturalStalian.md) | E | E, F##, G###, A##, B#, C##, D#, E | ![ModeENaturalStalian](ModeENaturalStalian.png) |
 | [3531](https://ianring.com/musictheory/scales/3531) | [Dycryllic](ModeFSharpDycryllic.md) | F# | F#, G, A, C, C#, D, E, F, F# | ![ModeFSharpDycryllic](ModeFSharpDycryllic.png) |
 | [3531](https://ianring.com/musictheory/scales/3531) | [Dycryllic](ModeGFlatDycryllic.md) | Gb | Gb, G, A, C, Db, D, E, F, Gb | ![ModeGFlatDycryllic](ModeGFlatDycryllic.png) |
 | [3531](https://ianring.com/musictheory/scales/3531) | [Dycryllic](ModeCSharpDycryllic.md) | C# | C#, D, E, G, G#, A, B, C, C# | ![ModeCSharpDycryllic](ModeCSharpDycryllic.png) |
@@ -3228,6 +3429,7 @@ G
 | [3535](https://ianring.com/musictheory/scales/3535) | [Aeroptygic](ModeENaturalAeroptygic.md) | E | E, F, F#, G, A#, B, C, D, D#, E | ![ModeENaturalAeroptygic](ModeENaturalAeroptygic.png) |
 | [3535](https://ianring.com/musictheory/scales/3535) | [Aeroptygic](ModeCNaturalAeroptygic.md) | C | C, C#, D, D#, F#, G, G#, A#, B, C | ![ModeCNaturalAeroptygic](ModeCNaturalAeroptygic.png) |
 | [3535](https://ianring.com/musictheory/scales/3535) | [Aeroptygic](ModeBNaturalAeroptygic.md) | B | B, C, C#, D, F, F#, G, A, A#, B | ![ModeBNaturalAeroptygic](ModeBNaturalAeroptygic.png) |
+| [3537](https://ianring.com/musictheory/scales/3537) | [Katogian](ModeGSharpKatogian.md) | G# | G#, A###, B###, C###, D##, E##, F##, G# | ![ModeGSharpKatogian](ModeGSharpKatogian.png) |
 | [3537](https://ianring.com/musictheory/scales/3537) | [Katogian](ModeAFlatKatogian.md) | Ab | Ab, B#, C##, D#, E, F#, G, Ab | ![ModeAFlatKatogian](ModeAFlatKatogian.png) |
 | [3539](https://ianring.com/musictheory/scales/3539) | [Aeoryllic](ModeGSharpAeoryllic.md) | G# | G#, A, C, D, D#, E, F#, G, G# | ![ModeGSharpAeoryllic](ModeGSharpAeoryllic.png) |
 | [3539](https://ianring.com/musictheory/scales/3539) | [Aeoryllic](ModeAFlatAeoryllic.md) | Ab | Ab, A, C, D, Eb, E, Gb, G, Ab | ![ModeAFlatAeoryllic](ModeAFlatAeoryllic.png) |
@@ -3378,6 +3580,7 @@ G
 | [3619](https://ianring.com/musictheory/scales/3619) | [Thanimic](ModeDNaturalThanimic.md) | D | D, Eb, F##, Cb, Dbb, Ebbb, D | ![ModeDNaturalThanimic](ModeDNaturalThanimic.png) |
 | [3621](https://ianring.com/musictheory/scales/3621) | [Gylimic](ModeDNaturalGylimic.md) | D | D, E, F##, Cb, Dbb, Ebbb, D | ![ModeDNaturalGylimic](ModeDNaturalGylimic.png) |
 | [3623](https://ianring.com/musictheory/scales/3623) | [Aerocrian](ModeDNaturalAerocrian.md) | D | D, Eb, Fb, G, A##, B#, C#, D | ![ModeDNaturalAerocrian](ModeDNaturalAerocrian.png) |
+| [3625](https://ianring.com/musictheory/scales/3625) | [Podimic](ModeANaturalPodimic.md) | A | A, B#, C##, E##, F##, G#, A | ![ModeANaturalPodimic](ModeANaturalPodimic.png) |
 | [3625](https://ianring.com/musictheory/scales/3625) | [Podimic](ModeDNaturalPodimic.md) | D | D, E#, F##, Cb, Dbb, Ebbb, D | ![ModeDNaturalPodimic](ModeDNaturalPodimic.png) |
 | [3627](https://ianring.com/musictheory/scales/3627) | [Kalian](ModeANaturalKalian.md) | A | A, Bb, C, D, E##, F##, G#, A | ![ModeANaturalKalian](ModeANaturalKalian.png) |
 | [3627](https://ianring.com/musictheory/scales/3627) | [Kalian](ModeDNaturalKalian.md) | D | D, Eb, F, G, A##, B#, C#, D | ![ModeDNaturalKalian](ModeDNaturalKalian.png) |
@@ -3385,10 +3588,15 @@ G
 | [3629](https://ianring.com/musictheory/scales/3629) | [Boptian](ModeANaturalBoptian.md) | A | A, B, C, D, E##, F##, G#, A | ![ModeANaturalBoptian](ModeANaturalBoptian.png) |
 | [3631](https://ianring.com/musictheory/scales/3631) | [Gydyllic](ModeDNaturalGydyllic.md) | D | D, D#, E, F, G, B, C, C#, D | ![ModeDNaturalGydyllic](ModeDNaturalGydyllic.png) |
 | [3631](https://ianring.com/musictheory/scales/3631) | [Gydyllic](ModeANaturalGydyllic.md) | A | A, A#, B, C, D, F#, G, G#, A | ![ModeANaturalGydyllic](ModeANaturalGydyllic.png) |
+| [3633](https://ianring.com/musictheory/scales/3633) | [Daptimic](ModeDSharpDaptimic.md) | D# | D#, E###, F###, Dbb, Ebbb, Fbbb, D# | ![ModeDSharpDaptimic](ModeDSharpDaptimic.png) |
+| [3633](https://ianring.com/musictheory/scales/3633) | [Daptimic](ModeEFlatDaptimic.md) | Eb | Eb, F##, G#, A###, B##, C##, Eb | ![ModeEFlatDaptimic](ModeEFlatDaptimic.png) |
 | [3633](https://ianring.com/musictheory/scales/3633) | [Daptimic](ModeDNaturalDaptimic.md) | D | D, E##, F##, Cb, Dbb, Ebbb, D | ![ModeDNaturalDaptimic](ModeDNaturalDaptimic.png) |
+| [3635](https://ianring.com/musictheory/scales/3635) | [Katygian](ModeDSharpKatygian.md) | D# | D#, E, F##, G#, A###, B##, C##, D# | ![ModeDSharpKatygian](ModeDSharpKatygian.png) |
 | [3635](https://ianring.com/musictheory/scales/3635) | [Katygian](ModeEFlatKatygian.md) | Eb | Eb, Fb, G, Ab, B#, C#, D, Eb | ![ModeEFlatKatygian](ModeEFlatKatygian.png) |
 | [3635](https://ianring.com/musictheory/scales/3635) | [Katygian](ModeDNaturalKatygian.md) | D | D, Eb, F#, G, A##, B#, C#, D | ![ModeDNaturalKatygian](ModeDNaturalKatygian.png) |
+| [3637](https://ianring.com/musictheory/scales/3637) | [Kygian](ModeDSharpKygian.md) | D# | D#, E#, F##, G#, A###, B##, C##, D# | ![ModeDSharpKygian](ModeDSharpKygian.png) |
 | [3637](https://ianring.com/musictheory/scales/3637) | [Kygian](ModeEFlatKygian.md) | Eb | Eb, F, G, Ab, B#, C#, D, Eb | ![ModeEFlatKygian](ModeEFlatKygian.png) |
+| [3637](https://ianring.com/musictheory/scales/3637) | [Kygian](ModeASharpKygian.md) | A# | A#, B#, C##, D#, E###, F###, G##, A# | ![ModeASharpKygian](ModeASharpKygian.png) |
 | [3637](https://ianring.com/musictheory/scales/3637) | [Kygian](ModeBFlatKygian.md) | Bb | Bb, C, D, Eb, F##, G#, A, Bb | ![ModeBFlatKygian](ModeBFlatKygian.png) |
 | [3637](https://ianring.com/musictheory/scales/3637) | [Kygian](ModeDNaturalKygian.md) | D | D, E, F#, G, A##, B#, C#, D | ![ModeDNaturalKygian](ModeDNaturalKygian.png) |
 | [3639](https://ianring.com/musictheory/scales/3639) | [Paptyllic](ModeDSharpPaptyllic.md) | D# | D#, E, F, G, G#, C, C#, D, D# | ![ModeDSharpPaptyllic](ModeDSharpPaptyllic.png) |
@@ -3396,6 +3604,7 @@ G
 | [3639](https://ianring.com/musictheory/scales/3639) | [Paptyllic](ModeDNaturalPaptyllic.md) | D | D, D#, E, F#, G, B, C, C#, D | ![ModeDNaturalPaptyllic](ModeDNaturalPaptyllic.png) |
 | [3639](https://ianring.com/musictheory/scales/3639) | [Paptyllic](ModeASharpPaptyllic.md) | A# | A#, B, C, D, D#, G, G#, A, A# | ![ModeASharpPaptyllic](ModeASharpPaptyllic.png) |
 | [3639](https://ianring.com/musictheory/scales/3639) | [Paptyllic](ModeBFlatPaptyllic.md) | Bb | Bb, B, C, D, Eb, G, Ab, A, Bb | ![ModeBFlatPaptyllic](ModeBFlatPaptyllic.png) |
+| [3641](https://ianring.com/musictheory/scales/3641) | [Thocrian](ModeDSharpThocrian.md) | D# | D#, E##, F##, G#, A###, B##, C##, D# | ![ModeDSharpThocrian](ModeDSharpThocrian.png) |
 | [3641](https://ianring.com/musictheory/scales/3641) | [Thocrian](ModeEFlatThocrian.md) | Eb | Eb, F#, G, Ab, B#, C#, D, Eb | ![ModeEFlatThocrian](ModeEFlatThocrian.png) |
 | [3641](https://ianring.com/musictheory/scales/3641) | [Thocrian](ModeANaturalThocrian.md) | A | A, B#, C#, D, E##, F##, G#, A | ![ModeANaturalThocrian](ModeANaturalThocrian.png) |
 | [3641](https://ianring.com/musictheory/scales/3641) | [Thocrian](ModeDNaturalThocrian.md) | D | D, E#, F#, G, A##, B#, C#, D | ![ModeDNaturalThocrian](ModeDNaturalThocrian.png) |
@@ -3421,12 +3630,21 @@ G
 | [3659](https://ianring.com/musictheory/scales/3659) | [Polian](ModeDFlatPolian.md) | Db | Db, Ebb, Fb, G, A#, B, C, Db | ![ModeDFlatPolian](ModeDFlatPolian.png) |
 | [3663](https://ianring.com/musictheory/scales/3663) | [Sonyllic](ModeCSharpSonyllic.md) | C# | C#, D, D#, E, G, A#, B, C, C# | ![ModeCSharpSonyllic](ModeCSharpSonyllic.png) |
 | [3663](https://ianring.com/musictheory/scales/3663) | [Sonyllic](ModeDFlatSonyllic.md) | Db | Db, D, Eb, E, G, Bb, B, C, Db | ![ModeDFlatSonyllic](ModeDFlatSonyllic.png) |
+| [3665](https://ianring.com/musictheory/scales/3665) | [Stalimic](ModeGSharpStalimic.md) | G# | G#, A###, B###, D###, E##, F##, G# | ![ModeGSharpStalimic](ModeGSharpStalimic.png) |
+| [3665](https://ianring.com/musictheory/scales/3665) | [Stalimic](ModeAFlatStalimic.md) | Ab | Ab, B#, C##, D###, E##, F##, Ab | ![ModeAFlatStalimic](ModeAFlatStalimic.png) |
+| [3665](https://ianring.com/musictheory/scales/3665) | [Stalimic](ModeDSharpStalimic.md) | D# | D#, E###, Cbbb, Dbb, Ebbb, Fbbb, D# | ![ModeDSharpStalimic](ModeDSharpStalimic.png) |
+| [3665](https://ianring.com/musictheory/scales/3665) | [Stalimic](ModeEFlatStalimic.md) | Eb | Eb, F##, G##, A###, B##, C##, Eb | ![ModeEFlatStalimic](ModeEFlatStalimic.png) |
+| [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeDSharpKaptian.md) | D# | D#, E, F##, G##, A###, B##, C##, D# | ![ModeDSharpKaptian](ModeDSharpKaptian.png) |
 | [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeEFlatKaptian.md) | Eb | Eb, Fb, G, A, B#, C#, D, Eb | ![ModeEFlatKaptian](ModeEFlatKaptian.png) |
+| [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeGSharpKaptian.md) | G# | G#, A, B#, C##, D###, E##, F##, G# | ![ModeGSharpKaptian](ModeGSharpKaptian.png) |
 | [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeAFlatKaptian.md) | Ab | Ab, Bbb, C, D, E#, F#, G, Ab | ![ModeAFlatKaptian](ModeAFlatKaptian.png) |
 | [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeCSharpKaptian.md) | C# | C#, D, E#, F##, G###, A##, B#, C# | ![ModeCSharpKaptian](ModeCSharpKaptian.png) |
 | [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeDFlatKaptian.md) | Db | Db, Ebb, F, G, A#, B, C, Db | ![ModeDFlatKaptian](ModeDFlatKaptian.png) |
+| [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeDSharpMothian.md) | D# | D#, E#, F##, G##, A###, B##, C##, D# | ![ModeDSharpMothian](ModeDSharpMothian.png) |
 | [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeEFlatMothian.md) | Eb | Eb, F, G, A, B#, C#, D, Eb | ![ModeEFlatMothian](ModeEFlatMothian.png) |
+| [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeGSharpMothian.md) | G# | G#, A#, B#, C##, D###, E##, F##, G# | ![ModeGSharpMothian](ModeGSharpMothian.png) |
 | [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeAFlatMothian.md) | Ab | Ab, Bb, C, D, E#, F#, G, Ab | ![ModeAFlatMothian](ModeAFlatMothian.png) |
+| [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeASharpMothian.md) | A# | A#, B#, C##, D##, E###, F###, G##, A# | ![ModeASharpMothian](ModeASharpMothian.png) |
 | [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeBFlatMothian.md) | Bb | Bb, C, D, E, F##, G#, A, Bb | ![ModeBFlatMothian](ModeBFlatMothian.png) |
 | [3671](https://ianring.com/musictheory/scales/3671) | [Aeonyllic](ModeDSharpAeonyllic.md) | D# | D#, E, F, G, A, C, C#, D, D# | ![ModeDSharpAeonyllic](ModeDSharpAeonyllic.png) |
 | [3671](https://ianring.com/musictheory/scales/3671) | [Aeonyllic](ModeEFlatAeonyllic.md) | Eb | Eb, E, F, G, A, C, Db, D, Eb | ![ModeEFlatAeonyllic](ModeEFlatAeonyllic.png) |
@@ -3436,7 +3654,9 @@ G
 | [3671](https://ianring.com/musictheory/scales/3671) | [Aeonyllic](ModeDFlatAeonyllic.md) | Db | Db, D, Eb, F, G, Bb, B, C, Db | ![ModeDFlatAeonyllic](ModeDFlatAeonyllic.png) |
 | [3671](https://ianring.com/musictheory/scales/3671) | [Aeonyllic](ModeASharpAeonyllic.md) | A# | A#, B, C, D, E, G, G#, A, A# | ![ModeASharpAeonyllic](ModeASharpAeonyllic.png) |
 | [3671](https://ianring.com/musictheory/scales/3671) | [Aeonyllic](ModeBFlatAeonyllic.md) | Bb | Bb, B, C, D, E, G, Ab, A, Bb | ![ModeBFlatAeonyllic](ModeBFlatAeonyllic.png) |
+| [3673](https://ianring.com/musictheory/scales/3673) | [Ranian](ModeDSharpRanian.md) | D# | D#, E##, F##, G##, A###, B##, C##, D# | ![ModeDSharpRanian](ModeDSharpRanian.png) |
 | [3673](https://ianring.com/musictheory/scales/3673) | [Ranian](ModeEFlatRanian.md) | Eb | Eb, F#, G, A, B#, C#, D, Eb | ![ModeEFlatRanian](ModeEFlatRanian.png) |
+| [3673](https://ianring.com/musictheory/scales/3673) | [Ranian](ModeGSharpRanian.md) | G# | G#, A##, B#, C##, D###, E##, F##, G# | ![ModeGSharpRanian](ModeGSharpRanian.png) |
 | [3673](https://ianring.com/musictheory/scales/3673) | [Ranian](ModeAFlatRanian.md) | Ab | Ab, B, C, D, E#, F#, G, Ab | ![ModeAFlatRanian](ModeAFlatRanian.png) |
 | [3675](https://ianring.com/musictheory/scales/3675) | [Monyllic](ModeDSharpMonyllic.md) | D# | D#, E, F#, G, A, C, C#, D, D# | ![ModeDSharpMonyllic](ModeDSharpMonyllic.png) |
 | [3675](https://ianring.com/musictheory/scales/3675) | [Monyllic](ModeEFlatMonyllic.md) | Eb | Eb, E, Gb, G, A, C, Db, D, Eb | ![ModeEFlatMonyllic](ModeEFlatMonyllic.png) |
@@ -3465,6 +3685,7 @@ G
 | [3687](https://ianring.com/musictheory/scales/3687) | [Zonyllic](ModeDNaturalZonyllic.md) | D | D, D#, E, G, G#, B, C, C#, D | ![ModeDNaturalZonyllic](ModeDNaturalZonyllic.png) |
 | [3687](https://ianring.com/musictheory/scales/3687) | [Zonyllic](ModeCSharpZonyllic.md) | C# | C#, D, D#, F#, G, A#, B, C, C# | ![ModeCSharpZonyllic](ModeCSharpZonyllic.png) |
 | [3687](https://ianring.com/musictheory/scales/3687) | [Zonyllic](ModeDFlatZonyllic.md) | Db | Db, D, Eb, Gb, G, Bb, B, C, Db | ![ModeDFlatZonyllic](ModeDFlatZonyllic.png) |
+| [3689](https://ianring.com/musictheory/scales/3689) | [Katocrian](ModeANaturalKatocrian.md) | A | A, B#, C##, D#, E##, F##, G#, A | ![ModeANaturalKatocrian](ModeANaturalKatocrian.png) |
 | [3689](https://ianring.com/musictheory/scales/3689) | [Katocrian](ModeDNaturalKatocrian.md) | D | D, E#, F##, G#, A##, B#, C#, D | ![ModeDNaturalKatocrian](ModeDNaturalKatocrian.png) |
 | [3691](https://ianring.com/musictheory/scales/3691) | [Badyllic](ModeANaturalBadyllic.md) | A | A, A#, C, D, D#, F#, G, G#, A | ![ModeANaturalBadyllic](ModeANaturalBadyllic.png) |
 | [3691](https://ianring.com/musictheory/scales/3691) | [Badyllic](ModeDNaturalBadyllic.md) | D | D, D#, F, G, G#, B, C, C#, D | ![ModeDNaturalBadyllic](ModeDNaturalBadyllic.png) |
@@ -3476,7 +3697,9 @@ G
 | [3695](https://ianring.com/musictheory/scales/3695) | [Kodygic](ModeCSharpKodygic.md) | C# | C#, D, D#, E, F#, G, A#, B, C, C# | ![ModeCSharpKodygic](ModeCSharpKodygic.png) |
 | [3695](https://ianring.com/musictheory/scales/3695) | [Kodygic](ModeDFlatKodygic.md) | Db | Db, D, Eb, E, Gb, G, Bb, B, C, Db | ![ModeDFlatKodygic](ModeDFlatKodygic.png) |
 | [3695](https://ianring.com/musictheory/scales/3695) | [Kodygic](ModeANaturalKodygic.md) | A | A, A#, B, C, D, D#, F#, G, G#, A | ![ModeANaturalKodygic](ModeANaturalKodygic.png) |
+| [3697](https://ianring.com/musictheory/scales/3697) | [Ionarian](ModeGSharpIonarian.md) | G# | G#, A###, B##, C##, D###, E##, F##, G# | ![ModeGSharpIonarian](ModeGSharpIonarian.png) |
 | [3697](https://ianring.com/musictheory/scales/3697) | [Ionarian](ModeAFlatIonarian.md) | Ab | Ab, B#, C#, D, E#, F#, G, Ab | ![ModeAFlatIonarian](ModeAFlatIonarian.png) |
+| [3697](https://ianring.com/musictheory/scales/3697) | [Ionarian](ModeDSharpIonarian.md) | D# | D#, E###, F###, G##, A###, B##, C##, D# | ![ModeDSharpIonarian](ModeDSharpIonarian.png) |
 | [3697](https://ianring.com/musictheory/scales/3697) | [Ionarian](ModeEFlatIonarian.md) | Eb | Eb, F##, G#, A, B#, C#, D, Eb | ![ModeEFlatIonarian](ModeEFlatIonarian.png) |
 | [3697](https://ianring.com/musictheory/scales/3697) | [Ionarian](ModeDNaturalIonarian.md) | D | D, E##, F##, G#, A##, B#, C#, D | ![ModeDNaturalIonarian](ModeDNaturalIonarian.png) |
 | [3699](https://ianring.com/musictheory/scales/3699) | [Aeolylyllic](ModeDSharpAeolylyllic.md) | D# | D#, E, G, G#, A, C, C#, D, D# | ![ModeDSharpAeolylyllic](ModeDSharpAeolylyllic.png) |
@@ -3538,9 +3761,14 @@ G
 | [3725](https://ianring.com/musictheory/scales/3725) | [Kyrian](ModeCNaturalKyrian.md) | C | C, D, Eb, F##, G##, A#, B, C | ![ModeCNaturalKyrian](ModeCNaturalKyrian.png) |
 | [3727](https://ianring.com/musictheory/scales/3727) | [Tholyllic](ModeFNaturalTholyllic.md) | F | F, F#, G, G#, C, D, D#, E, F | ![ModeFNaturalTholyllic](ModeFNaturalTholyllic.png) |
 | [3727](https://ianring.com/musictheory/scales/3727) | [Tholyllic](ModeCNaturalTholyllic.md) | C | C, C#, D, D#, G, A, A#, B, C | ![ModeCNaturalTholyllic](ModeCNaturalTholyllic.png) |
+| [3729](https://ianring.com/musictheory/scales/3729) | [Starimic](ModeDSharpStarimic.md) | D# | D#, E###, Cbb, Dbb, Ebbb, Fbbb, D# | ![ModeDSharpStarimic](ModeDSharpStarimic.png) |
+| [3729](https://ianring.com/musictheory/scales/3729) | [Starimic](ModeEFlatStarimic.md) | Eb | Eb, F##, G###, A###, B##, C##, Eb | ![ModeEFlatStarimic](ModeEFlatStarimic.png) |
+| [3731](https://ianring.com/musictheory/scales/3731) | [Aeryrian](ModeDSharpAeryrian.md) | D# | D#, E, F##, G###, A###, B##, C##, D# | ![ModeDSharpAeryrian](ModeDSharpAeryrian.png) |
 | [3731](https://ianring.com/musictheory/scales/3731) | [Aeryrian](ModeEFlatAeryrian.md) | Eb | Eb, Fb, G, A#, B#, C#, D, Eb | ![ModeEFlatAeryrian](ModeEFlatAeryrian.png) |
 | [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeFNaturalGycrian.md) | F | F, G, A, B#, C##, D#, E, F | ![ModeFNaturalGycrian](ModeFNaturalGycrian.png) |
+| [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeDSharpGycrian.md) | D# | D#, E#, F##, G###, A###, B##, C##, D# | ![ModeDSharpGycrian](ModeDSharpGycrian.png) |
 | [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeEFlatGycrian.md) | Eb | Eb, F, G, A#, B#, C#, D, Eb | ![ModeEFlatGycrian](ModeEFlatGycrian.png) |
+| [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeASharpGycrian.md) | A# | A#, B#, C##, D###, E###, F###, G##, A# | ![ModeASharpGycrian](ModeASharpGycrian.png) |
 | [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeBFlatGycrian.md) | Bb | Bb, C, D, E#, F##, G#, A, Bb | ![ModeBFlatGycrian](ModeBFlatGycrian.png) |
 | [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeCNaturalGycrian.md) | C | C, D, E, F##, G##, A#, B, C | ![ModeCNaturalGycrian](ModeCNaturalGycrian.png) |
 | [3735](https://ianring.com/musictheory/scales/3735) | [Ionagyllic](ModeFNaturalIonagyllic.md) | F | F, F#, G, A, C, D, D#, E, F | ![ModeFNaturalIonagyllic](ModeFNaturalIonagyllic.png) |
@@ -3549,6 +3777,7 @@ G
 | [3735](https://ianring.com/musictheory/scales/3735) | [Ionagyllic](ModeCNaturalIonagyllic.md) | C | C, C#, D, E, G, A, A#, B, C | ![ModeCNaturalIonagyllic](ModeCNaturalIonagyllic.png) |
 | [3735](https://ianring.com/musictheory/scales/3735) | [Ionagyllic](ModeASharpIonagyllic.md) | A# | A#, B, C, D, F, G, G#, A, A# | ![ModeASharpIonagyllic](ModeASharpIonagyllic.png) |
 | [3735](https://ianring.com/musictheory/scales/3735) | [Ionagyllic](ModeBFlatIonagyllic.md) | Bb | Bb, B, C, D, F, G, Ab, A, Bb | ![ModeBFlatIonagyllic](ModeBFlatIonagyllic.png) |
+| [3737](https://ianring.com/musictheory/scales/3737) | [Phrocrian](ModeDSharpPhrocrian.md) | D# | D#, E##, F##, G###, A###, B##, C##, D# | ![ModeDSharpPhrocrian](ModeDSharpPhrocrian.png) |
 | [3737](https://ianring.com/musictheory/scales/3737) | [Phrocrian](ModeEFlatPhrocrian.md) | Eb | Eb, F#, G, A#, B#, C#, D, Eb | ![ModeEFlatPhrocrian](ModeEFlatPhrocrian.png) |
 | [3739](https://ianring.com/musictheory/scales/3739) | [Ioninyllic](ModeDSharpIoninyllic.md) | D# | D#, E, F#, G, A#, C, C#, D, D# | ![ModeDSharpIoninyllic](ModeDSharpIoninyllic.png) |
 | [3739](https://ianring.com/musictheory/scales/3739) | [Ioninyllic](ModeEFlatIoninyllic.md) | Eb | Eb, E, Gb, G, Bb, C, Db, D, Eb | ![ModeEFlatIoninyllic](ModeEFlatIoninyllic.png) |
@@ -3574,6 +3803,7 @@ G
 | [3751](https://ianring.com/musictheory/scales/3751) | [Aerathyllic](ModeFNaturalAerathyllic.md) | F | F, F#, G, A#, C, D, D#, E, F | ![ModeFNaturalAerathyllic](ModeFNaturalAerathyllic.png) |
 | [3751](https://ianring.com/musictheory/scales/3751) | [Aerathyllic](ModeDNaturalAerathyllic.md) | D | D, D#, E, G, A, B, C, C#, D | ![ModeDNaturalAerathyllic](ModeDNaturalAerathyllic.png) |
 | [3751](https://ianring.com/musictheory/scales/3751) | [Aerathyllic](ModeCNaturalAerathyllic.md) | C | C, C#, D, F, G, A, A#, B, C | ![ModeCNaturalAerathyllic](ModeCNaturalAerathyllic.png) |
+| [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModeANaturalPhraptian.md) | A | A, B#, C##, D##, E##, F##, G#, A | ![ModeANaturalPhraptian](ModeANaturalPhraptian.png) |
 | [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModeGNaturalPhraptian.md) | G | G, A#, B#, C##, D##, E#, F#, G | ![ModeGNaturalPhraptian](ModeGNaturalPhraptian.png) |
 | [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModeDNaturalPhraptian.md) | D | D, E#, F##, G##, A##, B#, C#, D | ![ModeDNaturalPhraptian](ModeDNaturalPhraptian.png) |
 | [3755](https://ianring.com/musictheory/scales/3755) | [Phryryllic](ModeGNaturalPhryryllic.md) | G | G, G#, A#, C, D, E, F, F#, G | ![ModeGNaturalPhryryllic](ModeGNaturalPhryryllic.png) |
@@ -3589,6 +3819,7 @@ G
 | [3759](https://ianring.com/musictheory/scales/3759) | [Darygic](ModeDNaturalDarygic.md) | D | D, D#, E, F, G, A, B, C, C#, D | ![ModeDNaturalDarygic](ModeDNaturalDarygic.png) |
 | [3759](https://ianring.com/musictheory/scales/3759) | [Darygic](ModeCNaturalDarygic.md) | C | C, C#, D, D#, F, G, A, A#, B, C | ![ModeCNaturalDarygic](ModeCNaturalDarygic.png) |
 | [3759](https://ianring.com/musictheory/scales/3759) | [Darygic](ModeANaturalDarygic.md) | A | A, A#, B, C, D, E, F#, G, G#, A | ![ModeANaturalDarygic](ModeANaturalDarygic.png) |
+| [3761](https://ianring.com/musictheory/scales/3761) | [Ionythian](ModeDSharpIonythian.md) | D# | D#, E###, F###, G###, A###, B##, C##, D# | ![ModeDSharpIonythian](ModeDSharpIonythian.png) |
 | [3761](https://ianring.com/musictheory/scales/3761) | [Ionythian](ModeEFlatIonythian.md) | Eb | Eb, F##, G#, A#, B#, C#, D, Eb | ![ModeEFlatIonythian](ModeEFlatIonythian.png) |
 | [3761](https://ianring.com/musictheory/scales/3761) | [Ionythian](ModeGNaturalIonythian.md) | G | G, A##, B#, C##, D##, E#, F#, G | ![ModeGNaturalIonythian](ModeGNaturalIonythian.png) |
 | [3761](https://ianring.com/musictheory/scales/3761) | [Ionythian](ModeDNaturalIonythian.md) | D | D, E##, F##, G##, A##, B#, C#, D | ![ModeDNaturalIonythian](ModeDNaturalIonythian.png) |
@@ -3654,7 +3885,9 @@ G
 | [3791](https://ianring.com/musictheory/scales/3791) | [Stodygic](ModeCSharpStodygic.md) | C# | C#, D, D#, E, G, G#, A#, B, C, C# | ![ModeCSharpStodygic](ModeCSharpStodygic.png) |
 | [3791](https://ianring.com/musictheory/scales/3791) | [Stodygic](ModeDFlatStodygic.md) | Db | Db, D, Eb, E, G, Ab, Bb, B, C, Db | ![ModeDFlatStodygic](ModeDFlatStodygic.png) |
 | [3791](https://ianring.com/musictheory/scales/3791) | [Stodygic](ModeCNaturalStodygic.md) | C | C, C#, D, D#, F#, G, A, A#, B, C | ![ModeCNaturalStodygic](ModeCNaturalStodygic.png) |
+| [3793](https://ianring.com/musictheory/scales/3793) | [Aeopian](ModeGSharpAeopian.md) | G# | G#, A###, B###, C###, D###, E##, F##, G# | ![ModeGSharpAeopian](ModeGSharpAeopian.png) |
 | [3793](https://ianring.com/musictheory/scales/3793) | [Aeopian](ModeAFlatAeopian.md) | Ab | Ab, B#, C##, D#, E#, F#, G, Ab | ![ModeAFlatAeopian](ModeAFlatAeopian.png) |
+| [3793](https://ianring.com/musictheory/scales/3793) | [Aeopian](ModeDSharpAeopian.md) | D# | D#, E###, Cbbb, Cbb, Dbb, Ebbb, Fbbb, D# | ![ModeDSharpAeopian](ModeDSharpAeopian.png) |
 | [3793](https://ianring.com/musictheory/scales/3793) | [Aeopian](ModeEFlatAeopian.md) | Eb | Eb, F##, G##, A#, B#, C#, D, Eb | ![ModeEFlatAeopian](ModeEFlatAeopian.png) |
 | [3795](https://ianring.com/musictheory/scales/3795) | [Epothyllic](ModeGSharpEpothyllic.md) | G# | G#, A, C, D, D#, F, F#, G, G# | ![ModeGSharpEpothyllic](ModeGSharpEpothyllic.png) |
 | [3795](https://ianring.com/musictheory/scales/3795) | [Epothyllic](ModeAFlatEpothyllic.md) | Ab | Ab, A, C, D, Eb, F, Gb, G, Ab | ![ModeAFlatEpothyllic](ModeAFlatEpothyllic.png) |
@@ -3818,13 +4051,20 @@ G
 | [3839](https://ianring.com/musictheory/scales/3839) | [Mixolatic](ModeAFlatMixolatic.md) | Ab | Ab, A, Bb, B, C, Db, D, Eb, F, Gb, G, Ab | ![ModeAFlatMixolatic](ModeAFlatMixolatic.png) |
 | [3839](https://ianring.com/musictheory/scales/3839) | [Mixolatic](ModeGNaturalMixolatic.md) | G | G, G#, A, A#, B, C, C#, D, E, F, F#, G | ![ModeGNaturalMixolatic](ModeGNaturalMixolatic.png) |
 | [3839](https://ianring.com/musictheory/scales/3839) | [Mixolatic](ModeFNaturalMixolatic.md) | F | F, F#, G, G#, A, A#, B, C, D, D#, E, F | ![ModeFNaturalMixolatic](ModeFNaturalMixolatic.png) |
+| [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModeDSharpPonimic.md) | D# | D#, E###, Cb, Dbb, Ebbb, Fbbb, D# | ![ModeDSharpPonimic](ModeDSharpPonimic.png) |
+| [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModeEFlatPonimic.md) | Eb | Eb, F##, Cb, Dbb, Ebbb, Fbbb, Eb | ![ModeEFlatPonimic](ModeEFlatPonimic.png) |
+| [3859](https://ianring.com/musictheory/scales/3859) | [Aeolarian](ModeDSharpAeolarian.md) | D# | D#, E, F##, Cb, Dbb, Ebbb, Fbbb, D# | ![ModeDSharpAeolarian](ModeDSharpAeolarian.png) |
 | [3859](https://ianring.com/musictheory/scales/3859) | [Aeolarian](ModeEFlatAeolarian.md) | Eb | Eb, Fb, G, A##, B#, C#, D, Eb | ![ModeEFlatAeolarian](ModeEFlatAeolarian.png) |
+| [3861](https://ianring.com/musictheory/scales/3861) | [Phroptian](ModeASharpPhroptian.md) | A# | A#, B#, C##, E##, F##, G#, A, A# | ![ModeASharpPhroptian](ModeASharpPhroptian.png) |
 | [3861](https://ianring.com/musictheory/scales/3861) | [Phroptian](ModeBFlatPhroptian.md) | Bb | Bb, C, D, E##, F##, G#, A, Bb | ![ModeBFlatPhroptian](ModeBFlatPhroptian.png) |
+| [3861](https://ianring.com/musictheory/scales/3861) | [Phroptian](ModeDSharpPhroptian.md) | D# | D#, E#, F##, Cb, Dbb, Ebbb, Fbbb, D# | ![ModeDSharpPhroptian](ModeDSharpPhroptian.png) |
 | [3861](https://ianring.com/musictheory/scales/3861) | [Phroptian](ModeEFlatPhroptian.md) | Eb | Eb, F, G, A##, B#, C#, D, Eb | ![ModeEFlatPhroptian](ModeEFlatPhroptian.png) |
 | [3863](https://ianring.com/musictheory/scales/3863) | [Eparyllic](ModeDSharpEparyllic.md) | D# | D#, E, F, G, B, C, C#, D, D# | ![ModeDSharpEparyllic](ModeDSharpEparyllic.png) |
 | [3863](https://ianring.com/musictheory/scales/3863) | [Eparyllic](ModeEFlatEparyllic.md) | Eb | Eb, E, F, G, B, C, Db, D, Eb | ![ModeEFlatEparyllic](ModeEFlatEparyllic.png) |
 | [3863](https://ianring.com/musictheory/scales/3863) | [Eparyllic](ModeASharpEparyllic.md) | A# | A#, B, C, D, F#, G, G#, A, A# | ![ModeASharpEparyllic](ModeASharpEparyllic.png) |
 | [3863](https://ianring.com/musictheory/scales/3863) | [Eparyllic](ModeBFlatEparyllic.md) | Bb | Bb, B, C, D, Gb, G, Ab, A, Bb | ![ModeBFlatEparyllic](ModeBFlatEparyllic.png) |
+| [3865](https://ianring.com/musictheory/scales/3865) | [Starian](ModeENaturalStarian.md) | E | E, F##, G#, A###, B##, C##, D#, E | ![ModeENaturalStarian](ModeENaturalStarian.png) |
+| [3865](https://ianring.com/musictheory/scales/3865) | [Starian](ModeDSharpStarian.md) | D# | D#, E##, F##, Cb, Dbb, Ebbb, Fbbb, D# | ![ModeDSharpStarian](ModeDSharpStarian.png) |
 | [3865](https://ianring.com/musictheory/scales/3865) | [Starian](ModeEFlatStarian.md) | Eb | Eb, F#, G, A##, B#, C#, D, Eb | ![ModeEFlatStarian](ModeEFlatStarian.png) |
 | [3867](https://ianring.com/musictheory/scales/3867) | [Storyllic](ModeENaturalStoryllic.md) | E | E, F, G, G#, C, C#, D, D#, E | ![ModeENaturalStoryllic](ModeENaturalStoryllic.png) |
 | [3867](https://ianring.com/musictheory/scales/3867) | [Storyllic](ModeDSharpStoryllic.md) | D# | D#, E, F#, G, B, C, C#, D, D# | ![ModeDSharpStoryllic](ModeDSharpStoryllic.png) |
@@ -3844,6 +4084,8 @@ G
 | [3875](https://ianring.com/musictheory/scales/3875) | [Aeryptian](ModeDNaturalAeryptian.md) | D | D, Eb, F##, G###, A##, B#, C#, D | ![ModeDNaturalAeryptian](ModeDNaturalAeryptian.png) |
 | [3877](https://ianring.com/musictheory/scales/3877) | [Thanian](ModeDNaturalThanian.md) | D | D, E, F##, G###, A##, B#, C#, D | ![ModeDNaturalThanian](ModeDNaturalThanian.png) |
 | [3879](https://ianring.com/musictheory/scales/3879) | [Pathyllic](ModeDNaturalPathyllic.md) | D | D, D#, E, G, A#, B, C, C#, D | ![ModeDNaturalPathyllic](ModeDNaturalPathyllic.png) |
+| [3881](https://ianring.com/musictheory/scales/3881) | [Morian](ModeENaturalMorian.md) | E | E, F##, G##, A###, B##, C##, D#, E | ![ModeENaturalMorian](ModeENaturalMorian.png) |
+| [3881](https://ianring.com/musictheory/scales/3881) | [Morian](ModeANaturalMorian.md) | A | A, B#, C##, D###, E##, F##, G#, A | ![ModeANaturalMorian](ModeANaturalMorian.png) |
 | [3881](https://ianring.com/musictheory/scales/3881) | [Morian](ModeDNaturalMorian.md) | D | D, E#, F##, G###, A##, B#, C#, D | ![ModeDNaturalMorian](ModeDNaturalMorian.png) |
 | [3883](https://ianring.com/musictheory/scales/3883) | [Kyryllic](ModeENaturalKyryllic.md) | E | E, F, G, A, C, C#, D, D#, E | ![ModeENaturalKyryllic](ModeENaturalKyryllic.png) |
 | [3883](https://ianring.com/musictheory/scales/3883) | [Kyryllic](ModeANaturalKyryllic.md) | A | A, A#, C, D, F, F#, G, G#, A | ![ModeANaturalKyryllic](ModeANaturalKyryllic.png) |
@@ -3856,6 +4098,7 @@ G
 | [3887](https://ianring.com/musictheory/scales/3887) | [Phrathygic](ModeDNaturalPhrathygic.md) | D | D, D#, E, F, G, A#, B, C, C#, D | ![ModeDNaturalPhrathygic](ModeDNaturalPhrathygic.png) |
 | [3887](https://ianring.com/musictheory/scales/3887) | [Phrathygic](ModeBNaturalPhrathygic.md) | B | B, C, C#, D, E, G, G#, A, A#, B | ![ModeBNaturalPhrathygic](ModeBNaturalPhrathygic.png) |
 | [3887](https://ianring.com/musictheory/scales/3887) | [Phrathygic](ModeANaturalPhrathygic.md) | A | A, A#, B, C, D, F, F#, G, G#, A | ![ModeANaturalPhrathygic](ModeANaturalPhrathygic.png) |
+| [3889](https://ianring.com/musictheory/scales/3889) | [Parian](ModeDSharpParian.md) | D# | D#, E###, F###, Cb, Dbb, Ebbb, Fbbb, D# | ![ModeDSharpParian](ModeDSharpParian.png) |
 | [3889](https://ianring.com/musictheory/scales/3889) | [Parian](ModeEFlatParian.md) | Eb | Eb, F##, G#, A##, B#, C#, D, Eb | ![ModeEFlatParian](ModeEFlatParian.png) |
 | [3889](https://ianring.com/musictheory/scales/3889) | [Parian](ModeDNaturalParian.md) | D | D, E##, F##, G###, A##, B#, C#, D | ![ModeDNaturalParian](ModeDNaturalParian.png) |
 | [3891](https://ianring.com/musictheory/scales/3891) | [Ryryllic](ModeDSharpRyryllic.md) | D# | D#, E, G, G#, B, C, C#, D, D# | ![ModeDSharpRyryllic](ModeDSharpRyryllic.png) |
@@ -3901,6 +4144,7 @@ G
 | [3911](https://ianring.com/musictheory/scales/3911) | [Katyryllic](ModeGFlatKatyryllic.md) | Gb | Gb, G, Ab, C, D, Eb, E, F, Gb | ![ModeGFlatKatyryllic](ModeGFlatKatyryllic.png) |
 | [3911](https://ianring.com/musictheory/scales/3911) | [Katyryllic](ModeCSharpKatyryllic.md) | C# | C#, D, D#, G, A, A#, B, C, C# | ![ModeCSharpKatyryllic](ModeCSharpKatyryllic.png) |
 | [3911](https://ianring.com/musictheory/scales/3911) | [Katyryllic](ModeDFlatKatyryllic.md) | Db | Db, D, Eb, G, A, Bb, B, C, Db | ![ModeDFlatKatyryllic](ModeDFlatKatyryllic.png) |
+| [3913](https://ianring.com/musictheory/scales/3913) | [Bonian](ModeENaturalBonian.md) | E | E, F##, G###, A###, B##, C##, D#, E | ![ModeENaturalBonian](ModeENaturalBonian.png) |
 | [3915](https://ianring.com/musictheory/scales/3915) | [Gogyllic](ModeFSharpGogyllic.md) | F# | F#, G, A, C, D, D#, E, F, F# | ![ModeFSharpGogyllic](ModeFSharpGogyllic.png) |
 | [3915](https://ianring.com/musictheory/scales/3915) | [Gogyllic](ModeGFlatGogyllic.md) | Gb | Gb, G, A, C, D, Eb, E, F, Gb | ![ModeGFlatGogyllic](ModeGFlatGogyllic.png) |
 | [3915](https://ianring.com/musictheory/scales/3915) | [Gogyllic](ModeENaturalGogyllic.md) | E | E, F, G, A#, C, C#, D, D#, E | ![ModeENaturalGogyllic](ModeENaturalGogyllic.png) |
@@ -3916,6 +4160,7 @@ G
 | [3919](https://ianring.com/musictheory/scales/3919) | [Lynygic](ModeBNaturalLynygic.md) | B | B, C, C#, D, F, G, G#, A, A#, B | ![ModeBNaturalLynygic](ModeBNaturalLynygic.png) |
 | [3921](https://ianring.com/musictheory/scales/3921) | [Pythian](ModeGSharpPythian.md) | G# | G#, A###, B###, D##, E#, F#, G, G# | ![ModeGSharpPythian](ModeGSharpPythian.png) |
 | [3921](https://ianring.com/musictheory/scales/3921) | [Pythian](ModeAFlatPythian.md) | Ab | Ab, B#, C##, D##, E#, F#, G, Ab | ![ModeAFlatPythian](ModeAFlatPythian.png) |
+| [3921](https://ianring.com/musictheory/scales/3921) | [Pythian](ModeDSharpPythian.md) | D# | D#, E###, Cbbb, Dbbb, Dbb, Ebbb, Fbbb, D# | ![ModeDSharpPythian](ModeDSharpPythian.png) |
 | [3921](https://ianring.com/musictheory/scales/3921) | [Pythian](ModeEFlatPythian.md) | Eb | Eb, F##, G##, A##, B#, C#, D, Eb | ![ModeEFlatPythian](ModeEFlatPythian.png) |
 | [3923](https://ianring.com/musictheory/scales/3923) | [Stoptyllic](ModeGSharpStoptyllic.md) | G# | G#, A, C, D, E, F, F#, G, G# | ![ModeGSharpStoptyllic](ModeGSharpStoptyllic.png) |
 | [3923](https://ianring.com/musictheory/scales/3923) | [Stoptyllic](ModeAFlatStoptyllic.md) | Ab | Ab, A, C, D, E, F, Gb, G, Ab | ![ModeAFlatStoptyllic](ModeAFlatStoptyllic.png) |
@@ -4082,6 +4327,7 @@ G
 | [3967](https://ianring.com/musictheory/scales/3967) | [Soratic](ModeAFlatSoratic.md) | Ab | Ab, A, Bb, B, C, Db, D, E, F, Gb, G, Ab | ![ModeAFlatSoratic](ModeAFlatSoratic.png) |
 | [3967](https://ianring.com/musictheory/scales/3967) | [Soratic](ModeFSharpSoratic.md) | F# | F#, G, G#, A, A#, B, C, D, D#, E, F, F# | ![ModeFSharpSoratic](ModeFSharpSoratic.png) |
 | [3967](https://ianring.com/musictheory/scales/3967) | [Soratic](ModeGFlatSoratic.md) | Gb | Gb, G, Ab, A, Bb, B, C, D, Eb, E, F, Gb | ![ModeGFlatSoratic](ModeGFlatSoratic.png) |
+| [3977](https://ianring.com/musictheory/scales/3977) | [Kythian](ModeENaturalKythian.md) | E | E, F##, Cb, Dbb, Ebbb, Fbbb, C###, E | ![ModeENaturalKythian](ModeENaturalKythian.png) |
 | [3979](https://ianring.com/musictheory/scales/3979) | [Dynyllic](ModeENaturalDynyllic.md) | E | E, F, G, B, C, C#, D, D#, E | ![ModeENaturalDynyllic](ModeENaturalDynyllic.png) |
 | [3979](https://ianring.com/musictheory/scales/3979) | [Dynyllic](ModeBNaturalDynyllic.md) | B | B, C, D, F#, G, G#, A, A#, B | ![ModeBNaturalDynyllic](ModeBNaturalDynyllic.png) |
 | [3981](https://ianring.com/musictheory/scales/3981) | [Phrycryllic](ModeFNaturalPhrycryllic.md) | F | F, G, G#, C, C#, D, D#, E, F | ![ModeFNaturalPhrycryllic](ModeFNaturalPhrycryllic.png) |
@@ -4091,6 +4337,7 @@ G
 | [3983](https://ianring.com/musictheory/scales/3983) | [Thyptygic](ModeENaturalThyptygic.md) | E | E, F, F#, G, B, C, C#, D, D#, E | ![ModeENaturalThyptygic](ModeENaturalThyptygic.png) |
 | [3983](https://ianring.com/musictheory/scales/3983) | [Thyptygic](ModeCNaturalThyptygic.md) | C | C, C#, D, D#, G, G#, A, A#, B, C | ![ModeCNaturalThyptygic](ModeCNaturalThyptygic.png) |
 | [3983](https://ianring.com/musictheory/scales/3983) | [Thyptygic](ModeBNaturalThyptygic.md) | B | B, C, C#, D, F#, G, G#, A, A#, B | ![ModeBNaturalThyptygic](ModeBNaturalThyptygic.png) |
+| [3985](https://ianring.com/musictheory/scales/3985) | [Thadian](ModeDSharpThadian.md) | D# | D#, E###, Cbb, Dbbb, Dbb, Ebbb, Fbbb, D# | ![ModeDSharpThadian](ModeDSharpThadian.png) |
 | [3985](https://ianring.com/musictheory/scales/3985) | [Thadian](ModeEFlatThadian.md) | Eb | Eb, F##, G###, A##, B#, C#, D, Eb | ![ModeEFlatThadian](ModeEFlatThadian.png) |
 | [3987](https://ianring.com/musictheory/scales/3987) | [Loryllic](ModeDSharpLoryllic.md) | D# | D#, E, G, A#, B, C, C#, D, D# | ![ModeDSharpLoryllic](ModeDSharpLoryllic.png) |
 | [3987](https://ianring.com/musictheory/scales/3987) | [Loryllic](ModeEFlatLoryllic.md) | Eb | Eb, E, G, Bb, B, C, Db, D, Eb | ![ModeEFlatLoryllic](ModeEFlatLoryllic.png) |

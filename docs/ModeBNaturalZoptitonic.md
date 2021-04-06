@@ -52,7 +52,7 @@ B
 
 ## Diagram
 
-![BNaturalZoptitonic](CircleModeBNaturalZoptitonic.png)
+![BNaturalZoptitonic](CircleOfFifthModeBNaturalZoptitonic.png)
 
 ## Relative Modes
 
@@ -61,17 +61,19 @@ B
 | [1417](https://ianring.com/musictheory/scales/1417) | [Zoptitonic](ModeZoptitonic.md) | B | B, D, F#, G, A, B | ![BNaturalZoptitonic](ModeBNaturalZoptitonic.png) |
 | [689](https://ianring.com/musictheory/scales/689) | [Lothitonic](ModeLothitonic.md) | D | D, F#, G, A, B, D | ![DNaturalLothitonic](ModeDNaturalLothitonic.png) |
 | [299](https://ianring.com/musictheory/scales/299) | [Phratonic](ModePhratonic.md) | F# | F#, G, A, B, D, F# | ![FSharpPhratonic](ModeFSharpPhratonic.png) |
+| [299](https://ianring.com/musictheory/scales/299) | [Phratonic](ModePhratonic.md) | Gb | Gb, G, A, B, D, Gb | ![GFlatPhratonic](ModeGFlatPhratonic.png) |
 | [2197](https://ianring.com/musictheory/scales/2197) | [Aerathitonic](ModeAerathitonic.md) | G | G, A, B, D, F#, G | ![GNaturalAerathitonic](ModeGNaturalAerathitonic.png) |
 | [1573](https://ianring.com/musictheory/scales/1573) | [Saritonic](ModeSaritonic.md) | A | A, B, D, F#, G, A | ![ANaturalSaritonic](ModeANaturalSaritonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [1417](https://ianring.com/musictheory/scales/1417) | [Zoptitonic](ModeZoptitonic.md) | B | B, D, F#, G, A, B | ![BNaturalZoptitonic](CircleModeBNaturalZoptitonic.png) |
-| [689](https://ianring.com/musictheory/scales/689) | [Lothitonic](ModeLothitonic.md) | D | D, F#, G, A, B, D | ![DNaturalLothitonic](CircleModeDNaturalLothitonic.png) |
-| [299](https://ianring.com/musictheory/scales/299) | [Phratonic](ModePhratonic.md) | F# | F#, G, A, B, D, F# | ![FSharpPhratonic](CircleModeFSharpPhratonic.png) |
-| [2197](https://ianring.com/musictheory/scales/2197) | [Aerathitonic](ModeAerathitonic.md) | G | G, A, B, D, F#, G | ![GNaturalAerathitonic](CircleModeGNaturalAerathitonic.png) |
-| [1573](https://ianring.com/musictheory/scales/1573) | [Saritonic](ModeSaritonic.md) | A | A, B, D, F#, G, A | ![ANaturalSaritonic](CircleModeANaturalSaritonic.png) |
+| [1417](https://ianring.com/musictheory/scales/1417) | [Zoptitonic](ModeZoptitonic.md) | B | B, D, F#, G, A, B | ![BNaturalZoptitonic](CircleOfFifthModeBNaturalZoptitonic.png) |
+| [689](https://ianring.com/musictheory/scales/689) | [Lothitonic](ModeLothitonic.md) | D | D, F#, G, A, B, D | ![DNaturalLothitonic](CircleOfFifthModeDNaturalLothitonic.png) |
+| [299](https://ianring.com/musictheory/scales/299) | [Phratonic](ModePhratonic.md) | F# | F#, G, A, B, D, F# | ![FSharpPhratonic](CircleOfFifthModeFSharpPhratonic.png) |
+| [299](https://ianring.com/musictheory/scales/299) | [Phratonic](ModePhratonic.md) | Gb | Gb, G, A, B, D, Gb | ![GFlatPhratonic](CircleOfFifthModeGFlatPhratonic.png) |
+| [2197](https://ianring.com/musictheory/scales/2197) | [Aerathitonic](ModeAerathitonic.md) | G | G, A, B, D, F#, G | ![GNaturalAerathitonic](CircleOfFifthModeGNaturalAerathitonic.png) |
+| [1573](https://ianring.com/musictheory/scales/1573) | [Saritonic](ModeSaritonic.md) | A | A, B, D, F#, G, A | ![ANaturalSaritonic](CircleOfFifthModeANaturalSaritonic.png) |
 
 ## Chords
 
@@ -105,8 +107,11 @@ B
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 2624 | F# | [F#mbb5](ChordFSharpMinorDoubleFlatFifth.md) | F#, A, B | ![F#mbb5](ChordFSharpMinorDoubleFlatFifthRootPosition.png) | [midi](ChordFSharpMinorDoubleFlatFifthRootPosition.mid) |
+| 2624 | F# | [Gbmbb5](ChordGFlatMinorDoubleFlatFifth.md) | Gb, Bbb, Cb | ![Gbmbb5](ChordGFlatMinorDoubleFlatFifthRootPosition.png) | [midi](ChordGFlatMinorDoubleFlatFifthRootPosition.mid) |
 | 580 | F# | [F#m#5](ChordFSharpMinorSharpFifth.md) | F#, A, D | ![F#m#5](ChordFSharpMinorSharpFifthRootPosition.png) | [midi](ChordFSharpMinorSharpFifthRootPosition.mid) |
+| 580 | F# | [Gbm#5](ChordGFlatMinorSharpFifth.md) | Gb, Bbb, Ebb | ![Gbm#5](ChordGFlatMinorSharpFifthRootPosition.png) | [midi](ChordGFlatMinorSharpFifthRootPosition.mid) |
 | 2116 | F# | [F#sus4#5](ChordFSharpSuspendedFourthSharpFifth.md) | F#, B, C## | ![F#sus4#5](ChordFSharpSuspendedFourthSharpFifthRootPosition.png) | [midi](ChordFSharpSuspendedFourthSharpFifthRootPosition.mid) |
+| 2116 | F# | [Gbsus4#5](ChordGFlatSuspendedFourthSharpFifth.md) | Gb, Cb, D | ![Gbsus4#5](ChordGFlatSuspendedFourthSharpFifthRootPosition.png) | [midi](ChordGFlatSuspendedFourthSharpFifthRootPosition.mid) |
 
 ### G
 

@@ -52,7 +52,7 @@ D
 
 ## Diagram
 
-![DNaturalZagitonic](CircleModeDNaturalZagitonic.png)
+![DNaturalZagitonic](CircleOfFifthModeDNaturalZagitonic.png)
 
 ## Relative Modes
 
@@ -63,15 +63,17 @@ D
 | [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | F | F, A, C#, D, E, F | ![FNaturalDolitonic](ModeFNaturalDolitonic.png) |
 | [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | A | A, C#, D, E, F, A | ![ANaturalPoritonic](ModeANaturalPoritonic.png) |
 | [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | C# | C#, D, E, F, A, C# | ![CSharpAerylitonic](ModeCSharpAerylitonic.png) |
+| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | Db | Db, D, E, F, A, Db | ![DFlatAerylitonic](ModeDFlatAerylitonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | D | D, E, F, A, C#, D | ![DNaturalZagitonic](CircleModeDNaturalZagitonic.png) |
-| [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | E | E, F, A, C#, D, E | ![ENaturalLagitonic](CircleModeENaturalLagitonic.png) |
-| [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | F | F, A, C#, D, E, F | ![FNaturalDolitonic](CircleModeFNaturalDolitonic.png) |
-| [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | A | A, C#, D, E, F, A | ![ANaturalPoritonic](CircleModeANaturalPoritonic.png) |
-| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | C# | C#, D, E, F, A, C# | ![CSharpAerylitonic](CircleModeCSharpAerylitonic.png) |
+| [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | D | D, E, F, A, C#, D | ![DNaturalZagitonic](CircleOfFifthModeDNaturalZagitonic.png) |
+| [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | E | E, F, A, C#, D, E | ![ENaturalLagitonic](CircleOfFifthModeENaturalLagitonic.png) |
+| [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | F | F, A, C#, D, E, F | ![FNaturalDolitonic](CircleOfFifthModeFNaturalDolitonic.png) |
+| [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | A | A, C#, D, E, F, A | ![ANaturalPoritonic](CircleOfFifthModeANaturalPoritonic.png) |
+| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | C# | C#, D, E, F, A, C# | ![CSharpAerylitonic](CircleOfFifthModeCSharpAerylitonic.png) |
+| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | Db | Db, D, E, F, A, Db | ![DFlatAerylitonic](CircleOfFifthModeDFlatAerylitonic.png) |
 
 ## Chords
 
@@ -124,6 +126,9 @@ D
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 530 | C# | [C#m#5](ChordCSharpMinorSharpFifth.md) | C#, E, A | ![C#m#5](ChordCSharpMinorSharpFifthRootPosition.png) | [midi](ChordCSharpMinorSharpFifthRootPosition.mid) |
+| 530 | C# | [Dbm#5](ChordDFlatMinorSharpFifth.md) | Db, Fb, Bbb | ![Dbm#5](ChordDFlatMinorSharpFifthRootPosition.png) | [midi](ChordDFlatMinorSharpFifthRootPosition.mid) |
 | 546 | C# | [C#+](ChordCSharpAugmented.md) | C#, E#, G## | ![C#+](ChordCSharpAugmentedRootPosition.png) | [midi](ChordCSharpAugmentedRootPosition.mid) |
 | 546 | C# | [C#+7](ChordCSharpAugmentedAugmentedSeventh.md) | C#, E#, G##, B## | ![C#+7](ChordCSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordCSharpAugmentedAugmentedSeventhRootPosition.mid) |
+| 546 | C# | [Db+](ChordDFlatAugmented.md) | Db, F, A | ![Db+](ChordDFlatAugmentedRootPosition.png) | [midi](ChordDFlatAugmentedRootPosition.mid) |
+| 546 | C# | [Db+7](ChordDFlatAugmentedAugmentedSeventh.md) | Db, F, A, C# | ![Db+7](ChordDFlatAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordDFlatAugmentedAugmentedSeventhRootPosition.mid) |
 

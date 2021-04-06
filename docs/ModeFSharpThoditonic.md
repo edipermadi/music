@@ -52,13 +52,14 @@ F#
 
 ## Diagram
 
-![FSharpThoditonic](CircleModeFSharpThoditonic.png)
+![FSharpThoditonic](CircleOfFifthModeFSharpThoditonic.png)
 
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | F# | F#, A, C, D, F, F# | ![FSharpThoditonic](ModeFSharpThoditonic.png) |
+| [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | Gb | Gb, A, C, D, F, Gb | ![GFlatThoditonic](ModeGFlatThoditonic.png) |
 | [809](https://ianring.com/musictheory/scales/809) | [Dogitonic](ModeDogitonic.md) | A | A, C, D, F, F#, A | ![ANaturalDogitonic](ModeANaturalDogitonic.png) |
 | [613](https://ianring.com/musictheory/scales/613) | [Phralitonic](ModePhralitonic.md) | C | C, D, F, F#, A, C | ![CNaturalPhralitonic](ModeCNaturalPhralitonic.png) |
 | [1177](https://ianring.com/musictheory/scales/1177) | [Garitonic](ModeGaritonic.md) | D | D, F, F#, A, C, D | ![DNaturalGaritonic](ModeDNaturalGaritonic.png) |
@@ -67,11 +68,12 @@ F#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | F# | F#, A, C, D, F, F# | ![FSharpThoditonic](CircleModeFSharpThoditonic.png) |
-| [809](https://ianring.com/musictheory/scales/809) | [Dogitonic](ModeDogitonic.md) | A | A, C, D, F, F#, A | ![ANaturalDogitonic](CircleModeANaturalDogitonic.png) |
-| [613](https://ianring.com/musictheory/scales/613) | [Phralitonic](ModePhralitonic.md) | C | C, D, F, F#, A, C | ![CNaturalPhralitonic](CircleModeCNaturalPhralitonic.png) |
-| [1177](https://ianring.com/musictheory/scales/1177) | [Garitonic](ModeGaritonic.md) | D | D, F, F#, A, C, D | ![DNaturalGaritonic](CircleModeDNaturalGaritonic.png) |
-| [659](https://ianring.com/musictheory/scales/659) | [Soptitonic](ModeSoptitonic.md) | F | F, F#, A, C, D, F | ![FNaturalSoptitonic](CircleModeFNaturalSoptitonic.png) |
+| [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | F# | F#, A, C, D, F, F# | ![FSharpThoditonic](CircleOfFifthModeFSharpThoditonic.png) |
+| [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | Gb | Gb, A, C, D, F, Gb | ![GFlatThoditonic](CircleOfFifthModeGFlatThoditonic.png) |
+| [809](https://ianring.com/musictheory/scales/809) | [Dogitonic](ModeDogitonic.md) | A | A, C, D, F, F#, A | ![ANaturalDogitonic](CircleOfFifthModeANaturalDogitonic.png) |
+| [613](https://ianring.com/musictheory/scales/613) | [Phralitonic](ModePhralitonic.md) | C | C, D, F, F#, A, C | ![CNaturalPhralitonic](CircleOfFifthModeCNaturalPhralitonic.png) |
+| [1177](https://ianring.com/musictheory/scales/1177) | [Garitonic](ModeGaritonic.md) | D | D, F, F#, A, C, D | ![DNaturalGaritonic](CircleOfFifthModeDNaturalGaritonic.png) |
+| [659](https://ianring.com/musictheory/scales/659) | [Soptitonic](ModeSoptitonic.md) | F | F, F#, A, C, D, F | ![FNaturalSoptitonic](CircleOfFifthModeFNaturalSoptitonic.png) |
 
 ## Chords
 
@@ -80,8 +82,11 @@ F#
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 577 | F# | [F#o](ChordFSharpDiminished.md) | F#, A, C | ![F#o](ChordFSharpDiminishedRootPosition.png) | [midi](ChordFSharpDiminishedRootPosition.mid) |
+| 577 | F# | [Gbo](ChordGFlatDiminished.md) | Gb, Bbb, Dbb | ![Gbo](ChordGFlatDiminishedRootPosition.png) | [midi](ChordGFlatDiminishedRootPosition.mid) |
 | 580 | F# | [F#m#5](ChordFSharpMinorSharpFifth.md) | F#, A, D | ![F#m#5](ChordFSharpMinorSharpFifthRootPosition.png) | [midi](ChordFSharpMinorSharpFifthRootPosition.mid) |
+| 580 | F# | [Gbm#5](ChordGFlatMinorSharpFifth.md) | Gb, Bbb, Ebb | ![Gbm#5](ChordGFlatMinorSharpFifthRootPosition.png) | [midi](ChordGFlatMinorSharpFifthRootPosition.mid) |
 | 609 | F# | [F#oM7](ChordFSharpDiminishedMajorSeventh.md) | F#, A, C, E# | ![F#oM7](ChordFSharpDiminishedMajorSeventhRootPosition.png) | [midi](ChordFSharpDiminishedMajorSeventhRootPosition.mid) |
+| 609 | F# | [GboM7](ChordGFlatDiminishedMajorSeventh.md) | Gb, Bbb, Dbb, F | ![GboM7](ChordGFlatDiminishedMajorSeventhRootPosition.png) | [midi](ChordGFlatDiminishedMajorSeventhRootPosition.mid) |
 
 ### A
 

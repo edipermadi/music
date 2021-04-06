@@ -51,7 +51,7 @@ G
 
 ## Diagram
 
-![GNaturalDaric](CircleModeGNaturalDaric.png)
+![GNaturalDaric](CircleOfFifthModeGNaturalDaric.png)
 
 ## Relative Modes
 
@@ -65,10 +65,10 @@ G
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | G | G, B, D, F, G | ![GNaturalDaric](CircleModeGNaturalDaric.png) |
-| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | B | B, D, F, G, B | ![BNaturalLonic](CircleModeBNaturalLonic.png) |
-| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | D | D, F, G, B, D | ![DNaturalPhradic](CircleModeDNaturalPhradic.png) |
-| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | F | F, G, B, D, F | ![FNaturalBolic](CircleModeFNaturalBolic.png) |
+| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | G | G, B, D, F, G | ![GNaturalDaric](CircleOfFifthModeGNaturalDaric.png) |
+| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | B | B, D, F, G, B | ![BNaturalLonic](CircleOfFifthModeBNaturalLonic.png) |
+| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | D | D, F, G, B, D | ![DNaturalPhradic](CircleOfFifthModeDNaturalPhradic.png) |
+| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | F | F, G, B, D, F | ![FNaturalBolic](CircleOfFifthModeFNaturalBolic.png) |
 
 ## Chords
 

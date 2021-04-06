@@ -51,7 +51,7 @@ F
 
 ## Diagram
 
-![FNaturalZyphic](CircleModeFNaturalZyphic.png)
+![FNaturalZyphic](CircleOfFifthModeFNaturalZyphic.png)
 
 ## Relative Modes
 
@@ -60,15 +60,17 @@ F
 | [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | F | F, A, C#, E, F | ![FNaturalZyphic](ModeFNaturalZyphic.png) |
 | [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | A | A, C#, E, F, A | ![ANaturalEpogic](ModeANaturalEpogic.png) |
 | [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | C# | C#, E, F, A, C# | ![CSharpLanic](ModeCSharpLanic.png) |
+| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | Db | Db, E, F, A, Db | ![DFlatLanic](ModeDFlatLanic.png) |
 | [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | E | E, F, A, C#, E | ![ENaturalPyrric](ModeENaturalPyrric.png) |
 ## Relative Brightness
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | F | F, A, C#, E, F | ![FNaturalZyphic](CircleModeFNaturalZyphic.png) |
-| [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | A | A, C#, E, F, A | ![ANaturalEpogic](CircleModeANaturalEpogic.png) |
-| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | C# | C#, E, F, A, C# | ![CSharpLanic](CircleModeCSharpLanic.png) |
-| [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | E | E, F, A, C#, E | ![ENaturalPyrric](CircleModeENaturalPyrric.png) |
+| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | F | F, A, C#, E, F | ![FNaturalZyphic](CircleOfFifthModeFNaturalZyphic.png) |
+| [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | A | A, C#, E, F, A | ![ANaturalEpogic](CircleOfFifthModeANaturalEpogic.png) |
+| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | C# | C#, E, F, A, C# | ![CSharpLanic](CircleOfFifthModeCSharpLanic.png) |
+| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | Db | Db, E, F, A, Db | ![DFlatLanic](CircleOfFifthModeDFlatLanic.png) |
+| [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | E | E, F, A, C#, E | ![ENaturalPyrric](CircleOfFifthModeENaturalPyrric.png) |
 
 ## Chords
 
@@ -94,8 +96,11 @@ F
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 530 | C# | [C#m#5](ChordCSharpMinorSharpFifth.md) | C#, E, A | ![C#m#5](ChordCSharpMinorSharpFifthRootPosition.png) | [midi](ChordCSharpMinorSharpFifthRootPosition.mid) |
+| 530 | C# | [Dbm#5](ChordDFlatMinorSharpFifth.md) | Db, Fb, Bbb | ![Dbm#5](ChordDFlatMinorSharpFifthRootPosition.png) | [midi](ChordDFlatMinorSharpFifthRootPosition.mid) |
 | 546 | C# | [C#+](ChordCSharpAugmented.md) | C#, E#, G## | ![C#+](ChordCSharpAugmentedRootPosition.png) | [midi](ChordCSharpAugmentedRootPosition.mid) |
 | 546 | C# | [C#+7](ChordCSharpAugmentedAugmentedSeventh.md) | C#, E#, G##, B## | ![C#+7](ChordCSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordCSharpAugmentedAugmentedSeventhRootPosition.mid) |
+| 546 | C# | [Db+](ChordDFlatAugmented.md) | Db, F, A | ![Db+](ChordDFlatAugmentedRootPosition.png) | [midi](ChordDFlatAugmentedRootPosition.mid) |
+| 546 | C# | [Db+7](ChordDFlatAugmentedAugmentedSeventh.md) | Db, F, A, C# | ![Db+7](ChordDFlatAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordDFlatAugmentedAugmentedSeventhRootPosition.mid) |
 
 ### E
 

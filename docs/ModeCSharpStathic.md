@@ -51,13 +51,14 @@ C#
 
 ## Diagram
 
-![CSharpStathic](CircleModeCSharpStathic.png)
+![CSharpStathic](CircleOfFifthModeCSharpStathic.png)
 
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | C# | C#, F, G, B, C# | ![CSharpStathic](ModeCSharpStathic.png) |
+| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | Db | Db, F, G, B, Db | ![DFlatStathic](ModeDFlatStathic.png) |
 | [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | F | F, G, B, C#, F | ![FNaturalDadic](ModeFNaturalDadic.png) |
 | [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | G | G, B, C#, F, G | ![GNaturalStathic](ModeGNaturalStathic.png) |
 | [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | B | B, C#, F, G, B | ![BNaturalDadic](ModeBNaturalDadic.png) |
@@ -65,10 +66,11 @@ C#
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | C# | C#, F, G, B, C# | ![CSharpStathic](CircleModeCSharpStathic.png) |
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | F | F, G, B, C#, F | ![FNaturalDadic](CircleModeFNaturalDadic.png) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | G | G, B, C#, F, G | ![GNaturalStathic](CircleModeGNaturalStathic.png) |
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | B | B, C#, F, G, B | ![BNaturalDadic](CircleModeBNaturalDadic.png) |
+| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | C# | C#, F, G, B, C# | ![CSharpStathic](CircleOfFifthModeCSharpStathic.png) |
+| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | Db | Db, F, G, B, Db | ![DFlatStathic](CircleOfFifthModeDFlatStathic.png) |
+| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | F | F, G, B, C#, F | ![FNaturalDadic](CircleOfFifthModeFNaturalDadic.png) |
+| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | G | G, B, C#, F, G | ![GNaturalStathic](CircleOfFifthModeGNaturalStathic.png) |
+| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | B | B, C#, F, G, B | ![BNaturalDadic](CircleOfFifthModeBNaturalDadic.png) |
 
 ## Chords
 
@@ -77,7 +79,9 @@ C#
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 162 | C# | [C#Mb5](ChordCSharpMajorFlatFifth.md) | C#, E#, G | ![C#Mb5](ChordCSharpMajorFlatFifthRootPosition.png) | [midi](ChordCSharpMajorFlatFifthRootPosition.mid) |
+| 162 | C# | [DbMb5](ChordDFlatMajorFlatFifth.md) | Db, F, Abb | ![DbMb5](ChordDFlatMajorFlatFifthRootPosition.png) | [midi](ChordDFlatMajorFlatFifthRootPosition.mid) |
 | 2210 | C# | [C#7b5](ChordCSharpDominantSeventhFlatFifth.md) | C#, E#, G, B | ![C#7b5](ChordCSharpDominantSeventhFlatFifthRootPosition.png) | [midi](ChordCSharpDominantSeventhFlatFifthRootPosition.mid) |
+| 2210 | C# | [Db7b5](ChordDFlatDominantSeventhFlatFifth.md) | Db, F, Abb, Cb | ![Db7b5](ChordDFlatDominantSeventhFlatFifthRootPosition.png) | [midi](ChordDFlatDominantSeventhFlatFifthRootPosition.mid) |
 
 ### F
 

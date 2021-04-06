@@ -51,7 +51,7 @@ D
 
 ## Diagram
 
-![DNaturalPhratic](CircleModeDNaturalPhratic.png)
+![DNaturalPhratic](CircleOfFifthModeDNaturalPhratic.png)
 
 ## Relative Modes
 
@@ -59,16 +59,18 @@ D
 |--------|------|-------|-------|--------------|
 | [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | D | D, F#, G, B, D | ![DNaturalPhratic](ModeDNaturalPhratic.png) |
 | [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | F# | F#, G, B, D, F# | ![FSharpAerathic](ModeFSharpAerathic.png) |
+| [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | Gb | Gb, G, B, D, Gb | ![GFlatAerathic](ModeGFlatAerathic.png) |
 | [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | G | G, B, D, F#, G | ![GNaturalThaptic](ModeGNaturalThaptic.png) |
 | [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | B | B, D, F#, G, B | ![BNaturalLothic](ModeBNaturalLothic.png) |
 ## Relative Brightness
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | D | D, F#, G, B, D | ![DNaturalPhratic](CircleModeDNaturalPhratic.png) |
-| [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | F# | F#, G, B, D, F# | ![FSharpAerathic](CircleModeFSharpAerathic.png) |
-| [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | G | G, B, D, F#, G | ![GNaturalThaptic](CircleModeGNaturalThaptic.png) |
-| [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | B | B, D, F#, G, B | ![BNaturalLothic](CircleModeBNaturalLothic.png) |
+| [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | D | D, F#, G, B, D | ![DNaturalPhratic](CircleOfFifthModeDNaturalPhratic.png) |
+| [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | F# | F#, G, B, D, F# | ![FSharpAerathic](CircleOfFifthModeFSharpAerathic.png) |
+| [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | Gb | Gb, G, B, D, Gb | ![GFlatAerathic](CircleOfFifthModeGFlatAerathic.png) |
+| [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | G | G, B, D, F#, G | ![GNaturalThaptic](CircleOfFifthModeGNaturalThaptic.png) |
+| [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | B | B, D, F#, G, B | ![BNaturalLothic](CircleOfFifthModeBNaturalLothic.png) |
 
 ## Chords
 
@@ -84,6 +86,7 @@ D
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 2116 | F# | [F#sus4#5](ChordFSharpSuspendedFourthSharpFifth.md) | F#, B, C## | ![F#sus4#5](ChordFSharpSuspendedFourthSharpFifthRootPosition.png) | [midi](ChordFSharpSuspendedFourthSharpFifthRootPosition.mid) |
+| 2116 | F# | [Gbsus4#5](ChordGFlatSuspendedFourthSharpFifth.md) | Gb, Cb, D | ![Gbsus4#5](ChordGFlatSuspendedFourthSharpFifthRootPosition.png) | [midi](ChordGFlatSuspendedFourthSharpFifthRootPosition.mid) |
 
 ### G
 

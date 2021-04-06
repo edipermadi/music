@@ -52,7 +52,7 @@ F
 
 ## Diagram
 
-![FNaturalAeolacritonic](CircleModeFNaturalAeolacritonic.png)
+![FNaturalAeolacritonic](CircleOfFifthModeFNaturalAeolacritonic.png)
 
 ## Relative Modes
 
@@ -67,11 +67,11 @@ F
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [721](https://ianring.com/musictheory/scales/721) | [Aeolacritonic](ModeAeolacritonic.md) | F | F, A, B, C, D, F | ![FNaturalAeolacritonic](CircleModeFNaturalAeolacritonic.png) |
-| [301](https://ianring.com/musictheory/scales/301) | [Zythitonic](ModeZythitonic.md) | A | A, B, C, D, F, A | ![ANaturalZythitonic](CircleModeANaturalZythitonic.png) |
-| [1099](https://ianring.com/musictheory/scales/1099) | [Dyritonic](ModeDyritonic.md) | B | B, C, D, F, A, B | ![BNaturalDyritonic](CircleModeBNaturalDyritonic.png) |
-| [2597](https://ianring.com/musictheory/scales/2597) | [Koptitonic](ModeKoptitonic.md) | C | C, D, F, A, B, C | ![CNaturalKoptitonic](CircleModeCNaturalKoptitonic.png) |
-| [1673](https://ianring.com/musictheory/scales/1673) | [Thocritonic](ModeThocritonic.md) | D | D, F, A, B, C, D | ![DNaturalThocritonic](CircleModeDNaturalThocritonic.png) |
+| [721](https://ianring.com/musictheory/scales/721) | [Aeolacritonic](ModeAeolacritonic.md) | F | F, A, B, C, D, F | ![FNaturalAeolacritonic](CircleOfFifthModeFNaturalAeolacritonic.png) |
+| [301](https://ianring.com/musictheory/scales/301) | [Zythitonic](ModeZythitonic.md) | A | A, B, C, D, F, A | ![ANaturalZythitonic](CircleOfFifthModeANaturalZythitonic.png) |
+| [1099](https://ianring.com/musictheory/scales/1099) | [Dyritonic](ModeDyritonic.md) | B | B, C, D, F, A, B | ![BNaturalDyritonic](CircleOfFifthModeBNaturalDyritonic.png) |
+| [2597](https://ianring.com/musictheory/scales/2597) | [Koptitonic](ModeKoptitonic.md) | C | C, D, F, A, B, C | ![CNaturalKoptitonic](CircleOfFifthModeCNaturalKoptitonic.png) |
+| [1673](https://ianring.com/musictheory/scales/1673) | [Thocritonic](ModeThocritonic.md) | D | D, F, A, B, C, D | ![DNaturalThocritonic](CircleOfFifthModeDNaturalThocritonic.png) |
 
 ## Chords
 

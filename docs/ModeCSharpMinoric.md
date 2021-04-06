@@ -29,7 +29,7 @@ C#
 
 ## Chord Pattern
 
-I⁺, II⁺, III⁺
+I⁺, I⁺, II⁺, III⁺
 
 ## Perfection
 
@@ -50,22 +50,24 @@ I⁺, II⁺, III⁺
 
 ## Diagram
 
-![CSharpMinoric](CircleModeCSharpMinoric.png)
+![CSharpMinoric](CircleOfFifthModeCSharpMinoric.png)
 
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | C# | C#, F, A, C# | ![CSharpMinoric](ModeCSharpMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Db | Db, F, A, Db | ![DFlatMinoric](ModeDFlatMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | F | F, A, C#, F | ![FNaturalMinoric](ModeFNaturalMinoric.png) |
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | A | A, C#, F, A | ![ANaturalMinoric](ModeANaturalMinoric.png) |
 ## Relative Brightness
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | C# | C#, F, A, C# | ![CSharpMinoric](CircleModeCSharpMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | F | F, A, C#, F | ![FNaturalMinoric](CircleModeFNaturalMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | A | A, C#, F, A | ![ANaturalMinoric](CircleModeANaturalMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | C# | C#, F, A, C# | ![CSharpMinoric](CircleOfFifthModeCSharpMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Db | Db, F, A, Db | ![DFlatMinoric](CircleOfFifthModeDFlatMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | F | F, A, C#, F | ![FNaturalMinoric](CircleOfFifthModeFNaturalMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | A | A, C#, F, A | ![ANaturalMinoric](CircleOfFifthModeANaturalMinoric.png) |
 
 ## Chords
 
@@ -75,6 +77,8 @@ I⁺, II⁺, III⁺
 |--------|------|------|-------|--------------|-------|
 | 546 | C# | [C#+](ChordCSharpAugmented.md) | C#, E#, G## | ![C#+](ChordCSharpAugmentedRootPosition.png) | [midi](ChordCSharpAugmentedRootPosition.mid) |
 | 546 | C# | [C#+7](ChordCSharpAugmentedAugmentedSeventh.md) | C#, E#, G##, B## | ![C#+7](ChordCSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordCSharpAugmentedAugmentedSeventhRootPosition.mid) |
+| 546 | C# | [Db+](ChordDFlatAugmented.md) | Db, F, A | ![Db+](ChordDFlatAugmentedRootPosition.png) | [midi](ChordDFlatAugmentedRootPosition.mid) |
+| 546 | C# | [Db+7](ChordDFlatAugmentedAugmentedSeventh.md) | Db, F, A, C# | ![Db+7](ChordDFlatAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordDFlatAugmentedAugmentedSeventhRootPosition.mid) |
 
 ### F
 

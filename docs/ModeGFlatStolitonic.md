@@ -52,12 +52,13 @@ Gb
 
 ## Diagram
 
-![GFlatStolitonic](CircleModeGFlatStolitonic.png)
+![GFlatStolitonic](CircleOfFifthModeGFlatStolitonic.png)
 
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
+| [3145](https://ianring.com/musictheory/scales/3145) | [Stolitonic](ModeStolitonic.md) | F# | F#, A, C, E, F, F# | ![FSharpStolitonic](ModeFSharpStolitonic.png) |
 | [3145](https://ianring.com/musictheory/scales/3145) | [Stolitonic](ModeStolitonic.md) | Gb | Gb, A, C, E, F, Gb | ![GFlatStolitonic](ModeGFlatStolitonic.png) |
 | [905](https://ianring.com/musictheory/scales/905) | [Bylitonic](ModeBylitonic.md) | A | A, C, E, F, F#, A | ![ANaturalBylitonic](ModeANaturalBylitonic.png) |
 | [625](https://ianring.com/musictheory/scales/625) | [Ionyptitonic](ModeIonyptitonic.md) | C | C, E, F, F#, A, C | ![CNaturalIonyptitonic](ModeCNaturalIonyptitonic.png) |
@@ -67,11 +68,12 @@ Gb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [3145](https://ianring.com/musictheory/scales/3145) | [Stolitonic](ModeStolitonic.md) | Gb | Gb, A, C, E, F, Gb | ![GFlatStolitonic](CircleModeGFlatStolitonic.png) |
-| [905](https://ianring.com/musictheory/scales/905) | [Bylitonic](ModeBylitonic.md) | A | A, C, E, F, F#, A | ![ANaturalBylitonic](CircleModeANaturalBylitonic.png) |
-| [625](https://ianring.com/musictheory/scales/625) | [Ionyptitonic](ModeIonyptitonic.md) | C | C, E, F, F#, A, C | ![CNaturalIonyptitonic](CircleModeCNaturalIonyptitonic.png) |
-| [295](https://ianring.com/musictheory/scales/295) | [Gyritonic](ModeGyritonic.md) | E | E, F, F#, A, C, E | ![ENaturalGyritonic](CircleModeENaturalGyritonic.png) |
-| [2195](https://ianring.com/musictheory/scales/2195) | [Zalitonic](ModeZalitonic.md) | F | F, F#, A, C, E, F | ![FNaturalZalitonic](CircleModeFNaturalZalitonic.png) |
+| [3145](https://ianring.com/musictheory/scales/3145) | [Stolitonic](ModeStolitonic.md) | F# | F#, A, C, E, F, F# | ![FSharpStolitonic](CircleOfFifthModeFSharpStolitonic.png) |
+| [3145](https://ianring.com/musictheory/scales/3145) | [Stolitonic](ModeStolitonic.md) | Gb | Gb, A, C, E, F, Gb | ![GFlatStolitonic](CircleOfFifthModeGFlatStolitonic.png) |
+| [905](https://ianring.com/musictheory/scales/905) | [Bylitonic](ModeBylitonic.md) | A | A, C, E, F, F#, A | ![ANaturalBylitonic](CircleOfFifthModeANaturalBylitonic.png) |
+| [625](https://ianring.com/musictheory/scales/625) | [Ionyptitonic](ModeIonyptitonic.md) | C | C, E, F, F#, A, C | ![CNaturalIonyptitonic](CircleOfFifthModeCNaturalIonyptitonic.png) |
+| [295](https://ianring.com/musictheory/scales/295) | [Gyritonic](ModeGyritonic.md) | E | E, F, F#, A, C, E | ![ENaturalGyritonic](CircleOfFifthModeENaturalGyritonic.png) |
+| [2195](https://ianring.com/musictheory/scales/2195) | [Zalitonic](ModeZalitonic.md) | F | F, F#, A, C, E, F | ![FNaturalZalitonic](CircleOfFifthModeFNaturalZalitonic.png) |
 
 ## Chords
 
@@ -79,8 +81,11 @@ Gb
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 577 | Gb | [F#o](ChordFSharpDiminished.md) | F#, A, C | ![F#o](ChordFSharpDiminishedRootPosition.png) | [midi](ChordFSharpDiminishedRootPosition.mid) |
 | 577 | Gb | [Gbo](ChordGFlatDiminished.md) | Gb, Bbb, Dbb | ![Gbo](ChordGFlatDiminishedRootPosition.png) | [midi](ChordGFlatDiminishedRootPosition.mid) |
+| 593 | Gb | [F#ø7](ChordFSharpHalfDiminishedSeventh.md) | F#, A, C, E | ![F#ø7](ChordFSharpHalfDiminishedSeventhRootPosition.png) | [midi](ChordFSharpHalfDiminishedSeventhRootPosition.mid) |
 | 593 | Gb | [Gbø7](ChordGFlatHalfDiminishedSeventh.md) | Gb, Bbb, Dbb, Fb | ![Gbø7](ChordGFlatHalfDiminishedSeventhRootPosition.png) | [midi](ChordGFlatHalfDiminishedSeventhRootPosition.mid) |
+| 609 | Gb | [F#oM7](ChordFSharpDiminishedMajorSeventh.md) | F#, A, C, E# | ![F#oM7](ChordFSharpDiminishedMajorSeventhRootPosition.png) | [midi](ChordFSharpDiminishedMajorSeventhRootPosition.mid) |
 | 609 | Gb | [GboM7](ChordGFlatDiminishedMajorSeventh.md) | Gb, Bbb, Dbb, F | ![GboM7](ChordGFlatDiminishedMajorSeventhRootPosition.png) | [midi](ChordGFlatDiminishedMajorSeventhRootPosition.mid) |
 
 ### A

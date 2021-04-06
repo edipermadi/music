@@ -51,7 +51,7 @@ C
 
 ## Diagram
 
-![CNaturalRothic](CircleModeCNaturalRothic.png)
+![CNaturalRothic](CircleOfFifthModeCNaturalRothic.png)
 
 ## Relative Modes
 
@@ -65,10 +65,10 @@ C
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | C | C, D, F, A, C | ![CNaturalRothic](CircleModeCNaturalRothic.png) |
-| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | D | D, F, A, C, D | ![DNaturalEporic](CircleModeDNaturalEporic.png) |
-| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | F | F, A, C, D, F | ![FNaturalEpathic](CircleModeFNaturalEpathic.png) |
-| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | A | A, C, D, F, A | ![ANaturalMynic](CircleModeANaturalMynic.png) |
+| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | C | C, D, F, A, C | ![CNaturalRothic](CircleOfFifthModeCNaturalRothic.png) |
+| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | D | D, F, A, C, D | ![DNaturalEporic](CircleOfFifthModeDNaturalEporic.png) |
+| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | F | F, A, C, D, F | ![FNaturalEpathic](CircleOfFifthModeFNaturalEpathic.png) |
+| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | A | A, C, D, F, A | ![ANaturalMynic](CircleOfFifthModeANaturalMynic.png) |
 
 ## Chords
 

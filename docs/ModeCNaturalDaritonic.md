@@ -52,7 +52,7 @@ C
 
 ## Diagram
 
-![CNaturalDaritonic](CircleModeCNaturalDaritonic.png)
+![CNaturalDaritonic](CircleOfFifthModeCNaturalDaritonic.png)
 
 ## Relative Modes
 
@@ -67,11 +67,11 @@ C
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | C | C, D, F, G, B, C | ![CNaturalDaritonic](CircleModeCNaturalDaritonic.png) |
-| [1577](https://ianring.com/musictheory/scales/1577) | [Lonitonic](ModeLonitonic.md) | D | D, F, G, B, C, D | ![DNaturalLonitonic](CircleModeDNaturalLonitonic.png) |
-| [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | F | F, G, B, C, D, F | ![FNaturalIonycritonic](CircleModeFNaturalIonycritonic.png) |
-| [1201](https://ianring.com/musictheory/scales/1201) | [Aeracritonic](ModeAeracritonic.md) | G | G, B, C, D, F, G | ![GNaturalAeracritonic](CircleModeGNaturalAeracritonic.png) |
-| [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | B | B, C, D, F, G, B | ![BNaturalByptitonic](CircleModeBNaturalByptitonic.png) |
+| [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | C | C, D, F, G, B, C | ![CNaturalDaritonic](CircleOfFifthModeCNaturalDaritonic.png) |
+| [1577](https://ianring.com/musictheory/scales/1577) | [Lonitonic](ModeLonitonic.md) | D | D, F, G, B, C, D | ![DNaturalLonitonic](CircleOfFifthModeDNaturalLonitonic.png) |
+| [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | F | F, G, B, C, D, F | ![FNaturalIonycritonic](CircleOfFifthModeFNaturalIonycritonic.png) |
+| [1201](https://ianring.com/musictheory/scales/1201) | [Aeracritonic](ModeAeracritonic.md) | G | G, B, C, D, F, G | ![GNaturalAeracritonic](CircleOfFifthModeGNaturalAeracritonic.png) |
+| [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | B | B, C, D, F, G, B | ![BNaturalByptitonic](CircleOfFifthModeBNaturalByptitonic.png) |
 
 ## Chords
 

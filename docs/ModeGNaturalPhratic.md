@@ -51,7 +51,7 @@ G
 
 ## Diagram
 
-![GNaturalPhratic](CircleModeGNaturalPhratic.png)
+![GNaturalPhratic](CircleOfFifthModeGNaturalPhratic.png)
 
 ## Relative Modes
 
@@ -65,10 +65,10 @@ G
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | G | G, B, C, E, G | ![GNaturalPhratic](CircleModeGNaturalPhratic.png) |
-| [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | B | B, C, E, G, B | ![BNaturalAerathic](CircleModeBNaturalAerathic.png) |
-| [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | C | C, E, G, B, C | ![CNaturalThaptic](CircleModeCNaturalThaptic.png) |
-| [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | E | E, G, B, C, E | ![ENaturalLothic](CircleModeENaturalLothic.png) |
+| [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | G | G, B, C, E, G | ![GNaturalPhratic](CircleOfFifthModeGNaturalPhratic.png) |
+| [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | B | B, C, E, G, B | ![BNaturalAerathic](CircleOfFifthModeBNaturalAerathic.png) |
+| [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | C | C, E, G, B, C | ![CNaturalThaptic](CircleOfFifthModeCNaturalThaptic.png) |
+| [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | E | E, G, B, C, E | ![ENaturalLothic](CircleOfFifthModeENaturalLothic.png) |
 
 ## Chords
 

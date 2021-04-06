@@ -52,12 +52,13 @@ Ab
 
 ## Diagram
 
-![AFlatAerylitonic](CircleModeAFlatAerylitonic.png)
+![AFlatAerylitonic](CircleOfFifthModeAFlatAerylitonic.png)
 
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
+| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | G# | G#, A, B, C, E, G# | ![GSharpAerylitonic](ModeGSharpAerylitonic.png) |
 | [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | Ab | Ab, A, B, C, E, Ab | ![AFlatAerylitonic](ModeAFlatAerylitonic.png) |
 | [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | A | A, B, C, E, G#, A | ![ANaturalZagitonic](ModeANaturalZagitonic.png) |
 | [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | B | B, C, E, G#, A, B | ![BNaturalLagitonic](ModeBNaturalLagitonic.png) |
@@ -67,11 +68,12 @@ Ab
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | Ab | Ab, A, B, C, E, Ab | ![AFlatAerylitonic](CircleModeAFlatAerylitonic.png) |
-| [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | A | A, B, C, E, G#, A | ![ANaturalZagitonic](CircleModeANaturalZagitonic.png) |
-| [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | B | B, C, E, G#, A, B | ![BNaturalLagitonic](CircleModeBNaturalLagitonic.png) |
-| [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | C | C, E, G#, A, B, C | ![CNaturalDolitonic](CircleModeCNaturalDolitonic.png) |
-| [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | E | E, G#, A, B, C, E | ![ENaturalPoritonic](CircleModeENaturalPoritonic.png) |
+| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | G# | G#, A, B, C, E, G# | ![GSharpAerylitonic](CircleOfFifthModeGSharpAerylitonic.png) |
+| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | Ab | Ab, A, B, C, E, Ab | ![AFlatAerylitonic](CircleOfFifthModeAFlatAerylitonic.png) |
+| [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | A | A, B, C, E, G#, A | ![ANaturalZagitonic](CircleOfFifthModeANaturalZagitonic.png) |
+| [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | B | B, C, E, G#, A, B | ![BNaturalLagitonic](CircleOfFifthModeBNaturalLagitonic.png) |
+| [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | C | C, E, G#, A, B, C | ![CNaturalDolitonic](CircleOfFifthModeCNaturalDolitonic.png) |
+| [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | E | E, G#, A, B, C, E | ![ENaturalPoritonic](CircleOfFifthModeENaturalPoritonic.png) |
 
 ## Chords
 
@@ -79,7 +81,10 @@ Ab
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 2320 | Ab | [G#m#5](ChordGSharpMinorSharpFifth.md) | G#, B, E | ![G#m#5](ChordGSharpMinorSharpFifthRootPosition.png) | [midi](ChordGSharpMinorSharpFifthRootPosition.mid) |
 | 2320 | Ab | [Abm#5](ChordAFlatMinorSharpFifth.md) | Ab, Cb, Fb | ![Abm#5](ChordAFlatMinorSharpFifthRootPosition.png) | [midi](ChordAFlatMinorSharpFifthRootPosition.mid) |
+| 273 | Ab | [G#+](ChordGSharpAugmented.md) | G#, B#, D## | ![G#+](ChordGSharpAugmentedRootPosition.png) | [midi](ChordGSharpAugmentedRootPosition.mid) |
+| 273 | Ab | [G#+7](ChordGSharpAugmentedAugmentedSeventh.md) | G#, B#, D##, F### | ![G#+7](ChordGSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordGSharpAugmentedAugmentedSeventhRootPosition.mid) |
 | 273 | Ab | [Ab+](ChordAFlatAugmented.md) | Ab, C, E | ![Ab+](ChordAFlatAugmentedRootPosition.png) | [midi](ChordAFlatAugmentedRootPosition.mid) |
 | 273 | Ab | [Ab+7](ChordAFlatAugmentedAugmentedSeventh.md) | Ab, C, E, G# | ![Ab+7](ChordAFlatAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordAFlatAugmentedAugmentedSeventhRootPosition.mid) |
 

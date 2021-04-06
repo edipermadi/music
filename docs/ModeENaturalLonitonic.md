@@ -52,7 +52,7 @@ E
 
 ## Diagram
 
-![ENaturalLonitonic](CircleModeENaturalLonitonic.png)
+![ENaturalLonitonic](CircleOfFifthModeENaturalLonitonic.png)
 
 ## Relative Modes
 
@@ -62,16 +62,18 @@ E
 | [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | G | G, A, C#, D, E, G | ![GNaturalIonycritonic](ModeGNaturalIonycritonic.png) |
 | [1201](https://ianring.com/musictheory/scales/1201) | [Aeracritonic](ModeAeracritonic.md) | A | A, C#, D, E, G, A | ![ANaturalAeracritonic](ModeANaturalAeracritonic.png) |
 | [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | C# | C#, D, E, G, A, C# | ![CSharpByptitonic](ModeCSharpByptitonic.png) |
+| [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | Db | Db, D, E, G, A, Db | ![DFlatByptitonic](ModeDFlatByptitonic.png) |
 | [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | D | D, E, G, A, C#, D | ![DNaturalDaritonic](ModeDNaturalDaritonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [1577](https://ianring.com/musictheory/scales/1577) | [Lonitonic](ModeLonitonic.md) | E | E, G, A, C#, D, E | ![ENaturalLonitonic](CircleModeENaturalLonitonic.png) |
-| [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | G | G, A, C#, D, E, G | ![GNaturalIonycritonic](CircleModeGNaturalIonycritonic.png) |
-| [1201](https://ianring.com/musictheory/scales/1201) | [Aeracritonic](ModeAeracritonic.md) | A | A, C#, D, E, G, A | ![ANaturalAeracritonic](CircleModeANaturalAeracritonic.png) |
-| [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | C# | C#, D, E, G, A, C# | ![CSharpByptitonic](CircleModeCSharpByptitonic.png) |
-| [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | D | D, E, G, A, C#, D | ![DNaturalDaritonic](CircleModeDNaturalDaritonic.png) |
+| [1577](https://ianring.com/musictheory/scales/1577) | [Lonitonic](ModeLonitonic.md) | E | E, G, A, C#, D, E | ![ENaturalLonitonic](CircleOfFifthModeENaturalLonitonic.png) |
+| [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | G | G, A, C#, D, E, G | ![GNaturalIonycritonic](CircleOfFifthModeGNaturalIonycritonic.png) |
+| [1201](https://ianring.com/musictheory/scales/1201) | [Aeracritonic](ModeAeracritonic.md) | A | A, C#, D, E, G, A | ![ANaturalAeracritonic](CircleOfFifthModeANaturalAeracritonic.png) |
+| [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | C# | C#, D, E, G, A, C# | ![CSharpByptitonic](CircleOfFifthModeCSharpByptitonic.png) |
+| [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | Db | Db, D, E, G, A, Db | ![DFlatByptitonic](CircleOfFifthModeDFlatByptitonic.png) |
+| [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | D | D, E, G, A, C#, D | ![DNaturalDaritonic](CircleOfFifthModeDNaturalDaritonic.png) |
 
 ## Chords
 
@@ -117,8 +119,11 @@ E
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 134 | C# | [C#loc](ChordCSharpLocrian.md) | C#, D, G | ![C#loc](ChordCSharpLocrianRootPosition.png) | [midi](ChordCSharpLocrianRootPosition.mid) |
+| 134 | C# | [Dbloc](ChordDFlatLocrian.md) | Db, Ebb, Abb | ![Dbloc](ChordDFlatLocrianRootPosition.png) | [midi](ChordDFlatLocrianRootPosition.mid) |
 | 146 | C# | [C#o](ChordCSharpDiminished.md) | C#, E, G | ![C#o](ChordCSharpDiminishedRootPosition.png) | [midi](ChordCSharpDiminishedRootPosition.mid) |
+| 146 | C# | [Dbo](ChordDFlatDiminished.md) | Db, Fb, Abb | ![Dbo](ChordDFlatDiminishedRootPosition.png) | [midi](ChordDFlatDiminishedRootPosition.mid) |
 | 530 | C# | [C#m#5](ChordCSharpMinorSharpFifth.md) | C#, E, A | ![C#m#5](ChordCSharpMinorSharpFifthRootPosition.png) | [midi](ChordCSharpMinorSharpFifthRootPosition.mid) |
+| 530 | C# | [Dbm#5](ChordDFlatMinorSharpFifth.md) | Db, Fb, Bbb | ![Dbm#5](ChordDFlatMinorSharpFifthRootPosition.png) | [midi](ChordDFlatMinorSharpFifthRootPosition.mid) |
 
 ### D
 

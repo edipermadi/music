@@ -52,7 +52,7 @@ A
 
 ## Diagram
 
-![ANaturalBylitonic](CircleModeANaturalBylitonic.png)
+![ANaturalBylitonic](CircleOfFifthModeANaturalBylitonic.png)
 
 ## Relative Modes
 
@@ -63,15 +63,17 @@ A
 | [295](https://ianring.com/musictheory/scales/295) | [Gyritonic](ModeGyritonic.md) | E | E, F, F#, A, C, E | ![ENaturalGyritonic](ModeENaturalGyritonic.png) |
 | [2195](https://ianring.com/musictheory/scales/2195) | [Zalitonic](ModeZalitonic.md) | F | F, F#, A, C, E, F | ![FNaturalZalitonic](ModeFNaturalZalitonic.png) |
 | [3145](https://ianring.com/musictheory/scales/3145) | [Stolitonic](ModeStolitonic.md) | F# | F#, A, C, E, F, F# | ![FSharpStolitonic](ModeFSharpStolitonic.png) |
+| [3145](https://ianring.com/musictheory/scales/3145) | [Stolitonic](ModeStolitonic.md) | Gb | Gb, A, C, E, F, Gb | ![GFlatStolitonic](ModeGFlatStolitonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [905](https://ianring.com/musictheory/scales/905) | [Bylitonic](ModeBylitonic.md) | A | A, C, E, F, F#, A | ![ANaturalBylitonic](CircleModeANaturalBylitonic.png) |
-| [625](https://ianring.com/musictheory/scales/625) | [Ionyptitonic](ModeIonyptitonic.md) | C | C, E, F, F#, A, C | ![CNaturalIonyptitonic](CircleModeCNaturalIonyptitonic.png) |
-| [295](https://ianring.com/musictheory/scales/295) | [Gyritonic](ModeGyritonic.md) | E | E, F, F#, A, C, E | ![ENaturalGyritonic](CircleModeENaturalGyritonic.png) |
-| [2195](https://ianring.com/musictheory/scales/2195) | [Zalitonic](ModeZalitonic.md) | F | F, F#, A, C, E, F | ![FNaturalZalitonic](CircleModeFNaturalZalitonic.png) |
-| [3145](https://ianring.com/musictheory/scales/3145) | [Stolitonic](ModeStolitonic.md) | F# | F#, A, C, E, F, F# | ![FSharpStolitonic](CircleModeFSharpStolitonic.png) |
+| [905](https://ianring.com/musictheory/scales/905) | [Bylitonic](ModeBylitonic.md) | A | A, C, E, F, F#, A | ![ANaturalBylitonic](CircleOfFifthModeANaturalBylitonic.png) |
+| [625](https://ianring.com/musictheory/scales/625) | [Ionyptitonic](ModeIonyptitonic.md) | C | C, E, F, F#, A, C | ![CNaturalIonyptitonic](CircleOfFifthModeCNaturalIonyptitonic.png) |
+| [295](https://ianring.com/musictheory/scales/295) | [Gyritonic](ModeGyritonic.md) | E | E, F, F#, A, C, E | ![ENaturalGyritonic](CircleOfFifthModeENaturalGyritonic.png) |
+| [2195](https://ianring.com/musictheory/scales/2195) | [Zalitonic](ModeZalitonic.md) | F | F, F#, A, C, E, F | ![FNaturalZalitonic](CircleOfFifthModeFNaturalZalitonic.png) |
+| [3145](https://ianring.com/musictheory/scales/3145) | [Stolitonic](ModeStolitonic.md) | F# | F#, A, C, E, F, F# | ![FSharpStolitonic](CircleOfFifthModeFSharpStolitonic.png) |
+| [3145](https://ianring.com/musictheory/scales/3145) | [Stolitonic](ModeStolitonic.md) | Gb | Gb, A, C, E, F, Gb | ![GFlatStolitonic](CircleOfFifthModeGFlatStolitonic.png) |
 
 ## Chords
 
@@ -118,6 +120,9 @@ A
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 577 | F# | [F#o](ChordFSharpDiminished.md) | F#, A, C | ![F#o](ChordFSharpDiminishedRootPosition.png) | [midi](ChordFSharpDiminishedRootPosition.mid) |
+| 577 | F# | [Gbo](ChordGFlatDiminished.md) | Gb, Bbb, Dbb | ![Gbo](ChordGFlatDiminishedRootPosition.png) | [midi](ChordGFlatDiminishedRootPosition.mid) |
 | 593 | F# | [F#ø7](ChordFSharpHalfDiminishedSeventh.md) | F#, A, C, E | ![F#ø7](ChordFSharpHalfDiminishedSeventhRootPosition.png) | [midi](ChordFSharpHalfDiminishedSeventhRootPosition.mid) |
+| 593 | F# | [Gbø7](ChordGFlatHalfDiminishedSeventh.md) | Gb, Bbb, Dbb, Fb | ![Gbø7](ChordGFlatHalfDiminishedSeventhRootPosition.png) | [midi](ChordGFlatHalfDiminishedSeventhRootPosition.mid) |
 | 609 | F# | [F#oM7](ChordFSharpDiminishedMajorSeventh.md) | F#, A, C, E# | ![F#oM7](ChordFSharpDiminishedMajorSeventhRootPosition.png) | [midi](ChordFSharpDiminishedMajorSeventhRootPosition.mid) |
+| 609 | F# | [GboM7](ChordGFlatDiminishedMajorSeventh.md) | Gb, Bbb, Dbb, F | ![GboM7](ChordGFlatDiminishedMajorSeventhRootPosition.png) | [midi](ChordGFlatDiminishedMajorSeventhRootPosition.mid) |
 

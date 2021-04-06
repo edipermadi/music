@@ -52,12 +52,13 @@ Ab
 
 ## Diagram
 
-![AFlatByptitonic](CircleModeAFlatByptitonic.png)
+![AFlatByptitonic](CircleOfFifthModeAFlatByptitonic.png)
 
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
+| [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | G# | G#, A, B, D, E, G# | ![GSharpByptitonic](ModeGSharpByptitonic.png) |
 | [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | Ab | Ab, A, B, D, E, Ab | ![AFlatByptitonic](ModeAFlatByptitonic.png) |
 | [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | A | A, B, D, E, G#, A | ![ANaturalDaritonic](ModeANaturalDaritonic.png) |
 | [1577](https://ianring.com/musictheory/scales/1577) | [Lonitonic](ModeLonitonic.md) | B | B, D, E, G#, A, B | ![BNaturalLonitonic](ModeBNaturalLonitonic.png) |
@@ -67,11 +68,12 @@ Ab
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | Ab | Ab, A, B, D, E, Ab | ![AFlatByptitonic](CircleModeAFlatByptitonic.png) |
-| [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | A | A, B, D, E, G#, A | ![ANaturalDaritonic](CircleModeANaturalDaritonic.png) |
-| [1577](https://ianring.com/musictheory/scales/1577) | [Lonitonic](ModeLonitonic.md) | B | B, D, E, G#, A, B | ![BNaturalLonitonic](CircleModeBNaturalLonitonic.png) |
-| [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | D | D, E, G#, A, B, D | ![DNaturalIonycritonic](CircleModeDNaturalIonycritonic.png) |
-| [1201](https://ianring.com/musictheory/scales/1201) | [Aeracritonic](ModeAeracritonic.md) | E | E, G#, A, B, D, E | ![ENaturalAeracritonic](CircleModeENaturalAeracritonic.png) |
+| [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | G# | G#, A, B, D, E, G# | ![GSharpByptitonic](CircleOfFifthModeGSharpByptitonic.png) |
+| [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | Ab | Ab, A, B, D, E, Ab | ![AFlatByptitonic](CircleOfFifthModeAFlatByptitonic.png) |
+| [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | A | A, B, D, E, G#, A | ![ANaturalDaritonic](CircleOfFifthModeANaturalDaritonic.png) |
+| [1577](https://ianring.com/musictheory/scales/1577) | [Lonitonic](ModeLonitonic.md) | B | B, D, E, G#, A, B | ![BNaturalLonitonic](CircleOfFifthModeBNaturalLonitonic.png) |
+| [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | D | D, E, G#, A, B, D | ![DNaturalIonycritonic](CircleOfFifthModeDNaturalIonycritonic.png) |
+| [1201](https://ianring.com/musictheory/scales/1201) | [Aeracritonic](ModeAeracritonic.md) | E | E, G#, A, B, D, E | ![ENaturalAeracritonic](CircleOfFifthModeENaturalAeracritonic.png) |
 
 ## Chords
 
@@ -79,8 +81,11 @@ Ab
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 772 | Ab | [G#loc](ChordGSharpLocrian.md) | G#, A, D | ![G#loc](ChordGSharpLocrianRootPosition.png) | [midi](ChordGSharpLocrianRootPosition.mid) |
 | 772 | Ab | [Abloc](ChordAFlatLocrian.md) | Ab, Bbb, Ebb | ![Abloc](ChordAFlatLocrianRootPosition.png) | [midi](ChordAFlatLocrianRootPosition.mid) |
+| 2308 | Ab | [G#o](ChordGSharpDiminished.md) | G#, B, D | ![G#o](ChordGSharpDiminishedRootPosition.png) | [midi](ChordGSharpDiminishedRootPosition.mid) |
 | 2308 | Ab | [Abo](ChordAFlatDiminished.md) | Ab, Cb, Ebb | ![Abo](ChordAFlatDiminishedRootPosition.png) | [midi](ChordAFlatDiminishedRootPosition.mid) |
+| 2320 | Ab | [G#m#5](ChordGSharpMinorSharpFifth.md) | G#, B, E | ![G#m#5](ChordGSharpMinorSharpFifthRootPosition.png) | [midi](ChordGSharpMinorSharpFifthRootPosition.mid) |
 | 2320 | Ab | [Abm#5](ChordAFlatMinorSharpFifth.md) | Ab, Cb, Fb | ![Abm#5](ChordAFlatMinorSharpFifthRootPosition.png) | [midi](ChordAFlatMinorSharpFifthRootPosition.mid) |
 
 ### A

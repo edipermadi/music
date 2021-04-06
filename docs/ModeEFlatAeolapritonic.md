@@ -52,12 +52,13 @@ IV⁺
 
 ## Diagram
 
-![EFlatAeolapritonic](CircleModeEFlatAeolapritonic.png)
+![EFlatAeolapritonic](CircleOfFifthModeEFlatAeolapritonic.png)
 
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
+| [787](https://ianring.com/musictheory/scales/787) | [Aeolapritonic](ModeAeolapritonic.md) | D# | D#, E, G, B, C, D# | ![DSharpAeolapritonic](ModeDSharpAeolapritonic.png) |
 | [787](https://ianring.com/musictheory/scales/787) | [Aeolapritonic](ModeAeolapritonic.md) | Eb | Eb, E, G, B, C, Eb | ![EFlatAeolapritonic](ModeEFlatAeolapritonic.png) |
 | [2441](https://ianring.com/musictheory/scales/2441) | [Kyritonic](ModeKyritonic.md) | E | E, G, B, C, D#, E | ![ENaturalKyritonic](ModeENaturalKyritonic.png) |
 | [817](https://ianring.com/musictheory/scales/817) | [Zothitonic](ModeZothitonic.md) | G | G, B, C, D#, E, G | ![GNaturalZothitonic](ModeGNaturalZothitonic.png) |
@@ -67,11 +68,12 @@ IV⁺
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [787](https://ianring.com/musictheory/scales/787) | [Aeolapritonic](ModeAeolapritonic.md) | Eb | Eb, E, G, B, C, Eb | ![EFlatAeolapritonic](CircleModeEFlatAeolapritonic.png) |
-| [2441](https://ianring.com/musictheory/scales/2441) | [Kyritonic](ModeKyritonic.md) | E | E, G, B, C, D#, E | ![ENaturalKyritonic](CircleModeENaturalKyritonic.png) |
-| [817](https://ianring.com/musictheory/scales/817) | [Zothitonic](ModeZothitonic.md) | G | G, B, C, D#, E, G | ![GNaturalZothitonic](CircleModeGNaturalZothitonic.png) |
-| [307](https://ianring.com/musictheory/scales/307) | [Phrolitonic](ModePhrolitonic.md) | B | B, C, D#, E, G, B | ![BNaturalPhrolitonic](CircleModeBNaturalPhrolitonic.png) |
-| [2201](https://ianring.com/musictheory/scales/2201) | [Ionagitonic](ModeIonagitonic.md) | C | C, D#, E, G, B, C | ![CNaturalIonagitonic](CircleModeCNaturalIonagitonic.png) |
+| [787](https://ianring.com/musictheory/scales/787) | [Aeolapritonic](ModeAeolapritonic.md) | D# | D#, E, G, B, C, D# | ![DSharpAeolapritonic](CircleOfFifthModeDSharpAeolapritonic.png) |
+| [787](https://ianring.com/musictheory/scales/787) | [Aeolapritonic](ModeAeolapritonic.md) | Eb | Eb, E, G, B, C, Eb | ![EFlatAeolapritonic](CircleOfFifthModeEFlatAeolapritonic.png) |
+| [2441](https://ianring.com/musictheory/scales/2441) | [Kyritonic](ModeKyritonic.md) | E | E, G, B, C, D#, E | ![ENaturalKyritonic](CircleOfFifthModeENaturalKyritonic.png) |
+| [817](https://ianring.com/musictheory/scales/817) | [Zothitonic](ModeZothitonic.md) | G | G, B, C, D#, E, G | ![GNaturalZothitonic](CircleOfFifthModeGNaturalZothitonic.png) |
+| [307](https://ianring.com/musictheory/scales/307) | [Phrolitonic](ModePhrolitonic.md) | B | B, C, D#, E, G, B | ![BNaturalPhrolitonic](CircleOfFifthModeBNaturalPhrolitonic.png) |
+| [2201](https://ianring.com/musictheory/scales/2201) | [Ionagitonic](ModeIonagitonic.md) | C | C, D#, E, G, B, C | ![CNaturalIonagitonic](CircleOfFifthModeCNaturalIonagitonic.png) |
 
 ## Chords
 
@@ -79,8 +81,11 @@ IV⁺
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 2184 | Eb | [D#+](ChordDSharpAugmented.md) | D#, F##, A## | ![D#+](ChordDSharpAugmentedRootPosition.png) | [midi](ChordDSharpAugmentedRootPosition.mid) |
+| 2184 | Eb | [D#+7](ChordDSharpAugmentedAugmentedSeventh.md) | D#, F##, A##, C### | ![D#+7](ChordDSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordDSharpAugmentedAugmentedSeventhRootPosition.mid) |
 | 2184 | Eb | [Eb+](ChordEFlatAugmented.md) | Eb, G, B | ![Eb+](ChordEFlatAugmentedRootPosition.png) | [midi](ChordEFlatAugmentedRootPosition.mid) |
 | 2184 | Eb | [Eb+7](ChordEFlatAugmentedAugmentedSeventh.md) | Eb, G, B, D# | ![Eb+7](ChordEFlatAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordEFlatAugmentedAugmentedSeventhRootPosition.mid) |
+| 137 | Eb | [D#M##5](ChordDSharpMajorDoubleSharpFifth.md) | D#, F##, B# | ![D#M##5](ChordDSharpMajorDoubleSharpFifthRootPosition.png) | [midi](ChordDSharpMajorDoubleSharpFifthRootPosition.mid) |
 | 137 | Eb | [EbM##5](ChordEFlatMajorDoubleSharpFifth.md) | Eb, G, C | ![EbM##5](ChordEFlatMajorDoubleSharpFifthRootPosition.png) | [midi](ChordEFlatMajorDoubleSharpFifthRootPosition.mid) |
 
 ### E

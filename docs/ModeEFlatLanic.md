@@ -51,13 +51,15 @@ Eb
 
 ## Diagram
 
-![EFlatLanic](CircleModeEFlatLanic.png)
+![EFlatLanic](CircleOfFifthModeEFlatLanic.png)
 
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
+| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | D# | D#, F#, G, B, D# | ![DSharpLanic](ModeDSharpLanic.png) |
 | [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | Eb | Eb, Gb, G, B, Eb | ![EFlatLanic](ModeEFlatLanic.png) |
+| [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | F# | F#, G, B, D#, F# | ![FSharpPyrric](ModeFSharpPyrric.png) |
 | [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | Gb | Gb, G, B, Eb, Gb | ![GFlatPyrric](ModeGFlatPyrric.png) |
 | [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | G | G, B, D#, F#, G | ![GNaturalZyphic](ModeGNaturalZyphic.png) |
 | [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | B | B, D#, F#, G, B | ![BNaturalEpogic](ModeBNaturalEpogic.png) |
@@ -65,10 +67,12 @@ Eb
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | Eb | Eb, Gb, G, B, Eb | ![EFlatLanic](CircleModeEFlatLanic.png) |
-| [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | Gb | Gb, G, B, Eb, Gb | ![GFlatPyrric](CircleModeGFlatPyrric.png) |
-| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | G | G, B, D#, F#, G | ![GNaturalZyphic](CircleModeGNaturalZyphic.png) |
-| [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | B | B, D#, F#, G, B | ![BNaturalEpogic](CircleModeBNaturalEpogic.png) |
+| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | D# | D#, F#, G, B, D# | ![DSharpLanic](CircleOfFifthModeDSharpLanic.png) |
+| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | Eb | Eb, Gb, G, B, Eb | ![EFlatLanic](CircleOfFifthModeEFlatLanic.png) |
+| [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | F# | F#, G, B, D#, F# | ![FSharpPyrric](CircleOfFifthModeFSharpPyrric.png) |
+| [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | Gb | Gb, G, B, Eb, Gb | ![GFlatPyrric](CircleOfFifthModeGFlatPyrric.png) |
+| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | G | G, B, D#, F#, G | ![GNaturalZyphic](CircleOfFifthModeGNaturalZyphic.png) |
+| [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | B | B, D#, F#, G, B | ![BNaturalEpogic](CircleOfFifthModeBNaturalEpogic.png) |
 
 ## Chords
 
@@ -76,7 +80,10 @@ Eb
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 2120 | Eb | [D#m#5](ChordDSharpMinorSharpFifth.md) | D#, F#, B | ![D#m#5](ChordDSharpMinorSharpFifthRootPosition.png) | [midi](ChordDSharpMinorSharpFifthRootPosition.mid) |
 | 2120 | Eb | [Ebm#5](ChordEFlatMinorSharpFifth.md) | Eb, Gb, Cb | ![Ebm#5](ChordEFlatMinorSharpFifthRootPosition.png) | [midi](ChordEFlatMinorSharpFifthRootPosition.mid) |
+| 2184 | Eb | [D#+](ChordDSharpAugmented.md) | D#, F##, A## | ![D#+](ChordDSharpAugmentedRootPosition.png) | [midi](ChordDSharpAugmentedRootPosition.mid) |
+| 2184 | Eb | [D#+7](ChordDSharpAugmentedAugmentedSeventh.md) | D#, F##, A##, C### | ![D#+7](ChordDSharpAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordDSharpAugmentedAugmentedSeventhRootPosition.mid) |
 | 2184 | Eb | [Eb+](ChordEFlatAugmented.md) | Eb, G, B | ![Eb+](ChordEFlatAugmentedRootPosition.png) | [midi](ChordEFlatAugmentedRootPosition.mid) |
 | 2184 | Eb | [Eb+7](ChordEFlatAugmentedAugmentedSeventh.md) | Eb, G, B, D# | ![Eb+7](ChordEFlatAugmentedAugmentedSeventhRootPosition.png) | [midi](ChordEFlatAugmentedAugmentedSeventhRootPosition.mid) |
 
@@ -84,6 +91,7 @@ Eb
 
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
+| 2120 | Gb | [F#sus4##5](ChordFSharpSuspendedFourthDoubleSharpFifth.md) | F#, B, D# | ![F#sus4##5](ChordFSharpSuspendedFourthDoubleSharpFifthRootPosition.png) | [midi](ChordFSharpSuspendedFourthDoubleSharpFifthRootPosition.mid) |
 | 2120 | Gb | [Gbsus4##5](ChordGFlatSuspendedFourthDoubleSharpFifth.md) | Gb, Cb, Eb | ![Gbsus4##5](ChordGFlatSuspendedFourthDoubleSharpFifthRootPosition.png) | [midi](ChordGFlatSuspendedFourthDoubleSharpFifthRootPosition.mid) |
 
 ### G

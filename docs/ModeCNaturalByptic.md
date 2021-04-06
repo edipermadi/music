@@ -51,7 +51,7 @@ C
 
 ## Diagram
 
-![CNaturalByptic](CircleModeCNaturalByptic.png)
+![CNaturalByptic](CircleOfFifthModeCNaturalByptic.png)
 
 ## Relative Modes
 
@@ -59,16 +59,18 @@ C
 |--------|------|-------|-------|--------------|
 | [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | C | C, D#, G, A, C | ![CNaturalByptic](ModeCNaturalByptic.png) |
 | [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | D# | D#, G, A, C, D# | ![DSharpSaric](ModeDSharpSaric.png) |
+| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | Eb | Eb, G, A, C, Eb | ![EFlatSaric](ModeEFlatSaric.png) |
 | [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | G | G, A, C, D#, G | ![GNaturalZoptic](ModeGNaturalZoptic.png) |
 | [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | A | A, C, D#, G, A | ![ANaturalAeraphic](ModeANaturalAeraphic.png) |
 ## Relative Brightness
 
 | Number | Mode | Tonic | Notes | Illustration |
 |--------|------|-------|-------|--------------|
-| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | C | C, D#, G, A, C | ![CNaturalByptic](CircleModeCNaturalByptic.png) |
-| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | D# | D#, G, A, C, D# | ![DSharpSaric](CircleModeDSharpSaric.png) |
-| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | G | G, A, C, D#, G | ![GNaturalZoptic](CircleModeGNaturalZoptic.png) |
-| [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | A | A, C, D#, G, A | ![ANaturalAeraphic](CircleModeANaturalAeraphic.png) |
+| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | C | C, D#, G, A, C | ![CNaturalByptic](CircleOfFifthModeCNaturalByptic.png) |
+| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | D# | D#, G, A, C, D# | ![DSharpSaric](CircleOfFifthModeDSharpSaric.png) |
+| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | Eb | Eb, G, A, C, Eb | ![EFlatSaric](CircleOfFifthModeEFlatSaric.png) |
+| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | G | G, A, C, D#, G | ![GNaturalZoptic](CircleOfFifthModeGNaturalZoptic.png) |
+| [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | A | A, C, D#, G, A | ![ANaturalAeraphic](CircleOfFifthModeANaturalAeraphic.png) |
 
 ## Chords
 
@@ -86,8 +88,11 @@ C
 | Number | Root | Name | Notes | Illustration | Audio |
 |--------|------|------|-------|--------------|-------|
 | 648 | D# | [D#Mb5](ChordDSharpMajorFlatFifth.md) | D#, F##, A | ![D#Mb5](ChordDSharpMajorFlatFifthRootPosition.png) | [midi](ChordDSharpMajorFlatFifthRootPosition.mid) |
+| 648 | D# | [EbMb5](ChordEFlatMajorFlatFifth.md) | Eb, G, Bbb | ![EbMb5](ChordEFlatMajorFlatFifthRootPosition.png) | [midi](ChordEFlatMajorFlatFifthRootPosition.mid) |
 | 137 | D# | [D#M##5](ChordDSharpMajorDoubleSharpFifth.md) | D#, F##, B# | ![D#M##5](ChordDSharpMajorDoubleSharpFifthRootPosition.png) | [midi](ChordDSharpMajorDoubleSharpFifthRootPosition.mid) |
+| 137 | D# | [EbM##5](ChordEFlatMajorDoubleSharpFifth.md) | Eb, G, C | ![EbM##5](ChordEFlatMajorDoubleSharpFifthRootPosition.png) | [midi](ChordEFlatMajorDoubleSharpFifthRootPosition.mid) |
 | 649 | D# | [D#M6b5](ChordDSharpMajorSixthFlatFifth.md) | D#, F##, A, B# | ![D#M6b5](ChordDSharpMajorSixthFlatFifthRootPosition.png) | [midi](ChordDSharpMajorSixthFlatFifthRootPosition.mid) |
+| 649 | D# | [EbM6b5](ChordEFlatMajorSixthFlatFifth.md) | Eb, G, Bbb, C | ![EbM6b5](ChordEFlatMajorSixthFlatFifthRootPosition.png) | [midi](ChordEFlatMajorSixthFlatFifthRootPosition.mid) |
 
 ### G
 
