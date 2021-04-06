@@ -29,7 +29,7 @@ C
 
 ## Chord Pattern
 
-ii, iii⁰, iii⁰
+ii, iii⁰
 
 ## Perfection
 

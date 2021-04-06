@@ -29,7 +29,7 @@ C
 
 ## Chord Pattern
 
-Ib5, IIb5, IIb5, v, v, VII⁺
+Ib5, IIb5, v, VII⁺
 
 ## Perfection
 

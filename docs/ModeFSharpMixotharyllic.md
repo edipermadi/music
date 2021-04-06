@@ -29,7 +29,7 @@ F#
 
 ## Chord Pattern
 
-i, i, ii, III, IV, IV
+i, ii, III, IV
 
 ## Perfection
 

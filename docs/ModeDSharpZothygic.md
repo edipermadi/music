@@ -29,7 +29,7 @@ D#
 
 ## Chord Pattern
 
-Ib5, Ib5, vii, viii, IXb5
+Ib5, vii, viii, IXb5
 
 ## Perfection
 

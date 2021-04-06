@@ -29,7 +29,7 @@ E
 
 ## Chord Pattern
 
-IIIb5, IVb5, IVb5
+IIIb5, IVb5
 
 ## Perfection
 
