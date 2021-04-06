@@ -11,6 +11,10 @@
 
 Ab
 
+## Diagram
+
+![AFlatPowerChord](ChromaticCircleChordAFlatPowerChord.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

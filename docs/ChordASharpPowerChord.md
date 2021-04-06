@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpPowerChord](ChromaticCircleChordASharpPowerChord.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

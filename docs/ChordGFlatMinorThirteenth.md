@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatMinorThirteenth](ChromaticCircleChordGFlatMinorThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

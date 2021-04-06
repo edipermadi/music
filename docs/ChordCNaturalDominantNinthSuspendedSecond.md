@@ -11,6 +11,10 @@
 
 C
 
+## Diagram
+
+![CNaturalDominantNinthSuspendedSecond](ChromaticCircleChordCNaturalDominantNinthSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

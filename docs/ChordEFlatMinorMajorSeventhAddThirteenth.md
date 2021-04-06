@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatMinorMajorSeventhAddThirteenth](ChromaticCircleChordEFlatMinorMajorSeventhAddThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

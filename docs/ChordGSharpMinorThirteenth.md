@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpMinorThirteenth](ChromaticCircleChordGSharpMinorThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatLydian](ChromaticCircleChordEFlatLydian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

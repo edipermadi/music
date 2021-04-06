@@ -11,6 +11,10 @@
 
 A
 
+## Diagram
+
+![ANaturalDominantSeventhAddFourth](ChromaticCircleChordANaturalDominantSeventhAddFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatAugmentedMajorSeventh](ChromaticCircleChordEFlatAugmentedMajorSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

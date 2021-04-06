@@ -11,6 +11,10 @@
 
 D
 
+## Diagram
+
+![DNaturalMinorMajorEleventh](ChromaticCircleChordDNaturalMinorMajorEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

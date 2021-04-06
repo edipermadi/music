@@ -11,6 +11,10 @@
 
 C
 
+## Diagram
+
+![CNaturalSuspendedFourthFlatFifth](ChromaticCircleChordCNaturalSuspendedFourthFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

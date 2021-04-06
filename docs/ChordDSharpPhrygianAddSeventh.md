@@ -11,6 +11,10 @@
 
 D#
 
+## Diagram
+
+![DSharpPhrygianAddSeventh](ChromaticCircleChordDSharpPhrygianAddSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

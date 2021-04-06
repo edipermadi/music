@@ -11,6 +11,10 @@
 
 F#
 
+## Diagram
+
+![FSharpDominantSeventhAddThirteenth](ChromaticCircleChordFSharpDominantSeventhAddThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

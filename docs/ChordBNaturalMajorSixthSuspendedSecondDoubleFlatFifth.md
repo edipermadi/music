@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalMajorSixthSuspendedSecondDoubleFlatFifth](ChromaticCircleChordBNaturalMajorSixthSuspendedSecondDoubleFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

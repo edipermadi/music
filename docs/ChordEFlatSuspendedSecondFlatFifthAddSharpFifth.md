@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatSuspendedSecondFlatFifthAddSharpFifth](ChromaticCircleChordEFlatSuspendedSecondFlatFifthAddSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

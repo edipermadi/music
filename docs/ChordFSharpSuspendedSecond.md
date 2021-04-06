@@ -11,6 +11,10 @@
 
 F#
 
+## Diagram
+
+![FSharpSuspendedSecond](ChromaticCircleChordFSharpSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

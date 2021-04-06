@@ -11,6 +11,10 @@
 
 G
 
+## Diagram
+
+![GNaturalSuspendedSecondFlatFifth](ChromaticCircleChordGNaturalSuspendedSecondFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

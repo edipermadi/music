@@ -11,6 +11,10 @@
 
 Db
 
+## Diagram
+
+![DFlatLocrian](ChromaticCircleChordDFlatLocrian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

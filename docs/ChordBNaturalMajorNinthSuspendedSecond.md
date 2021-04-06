@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalMajorNinthSuspendedSecond](ChromaticCircleChordBNaturalMajorNinthSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

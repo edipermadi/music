@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatMajorSixthAddNinth](ChromaticCircleChordBFlatMajorSixthAddNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatPhrygian](ChromaticCircleChordGFlatPhrygian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

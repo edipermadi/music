@@ -11,6 +11,10 @@
 
 D#
 
+## Diagram
+
+![DSharpDominantSeventhFlatNinth](ChromaticCircleChordDSharpDominantSeventhFlatNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

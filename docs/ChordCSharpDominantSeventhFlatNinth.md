@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpDominantSeventhFlatNinth](ChromaticCircleChordCSharpDominantSeventhFlatNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

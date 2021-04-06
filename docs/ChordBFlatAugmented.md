@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatAugmented](ChromaticCircleChordBFlatAugmented.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

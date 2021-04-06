@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalMinorDoubleFlatFifth](ChromaticCircleChordBNaturalMinorDoubleFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

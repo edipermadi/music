@@ -11,6 +11,10 @@
 
 D
 
+## Diagram
+
+![DNaturalSuspendedSecond](ChromaticCircleChordDNaturalSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatPhrygian](ChromaticCircleChordBFlatPhrygian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

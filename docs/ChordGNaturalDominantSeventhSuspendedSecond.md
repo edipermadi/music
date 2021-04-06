@@ -11,6 +11,10 @@
 
 G
 
+## Diagram
+
+![GNaturalDominantSeventhSuspendedSecond](ChromaticCircleChordGNaturalDominantSeventhSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpMajorSixthSuspendedSecondFlatFifth](ChromaticCircleChordASharpMajorSixthSuspendedSecondFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

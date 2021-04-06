@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalDominantSeventhFlatFifthFlatNinth](ChromaticCircleChordBNaturalDominantSeventhFlatFifthFlatNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

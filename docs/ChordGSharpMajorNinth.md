@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpMajorNinth](ChromaticCircleChordGSharpMajorNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

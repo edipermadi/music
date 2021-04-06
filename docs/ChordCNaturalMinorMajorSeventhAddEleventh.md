@@ -11,6 +11,10 @@
 
 C
 
+## Diagram
+
+![CNaturalMinorMajorSeventhAddEleventh](ChromaticCircleChordCNaturalMinorMajorSeventhAddEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

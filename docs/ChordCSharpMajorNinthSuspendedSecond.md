@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpMajorNinthSuspendedSecond](ChromaticCircleChordCSharpMajorNinthSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 D#
 
+## Diagram
+
+![DSharpQuartal](ChromaticCircleChordDSharpQuartal.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

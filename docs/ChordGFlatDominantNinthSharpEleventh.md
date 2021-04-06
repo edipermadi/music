@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatDominantNinthSharpEleventh](ChromaticCircleChordGFlatDominantNinthSharpEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

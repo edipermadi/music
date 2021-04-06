@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatMajorSeventhAddSharpFourth](ChromaticCircleChordEFlatMajorSeventhAddSharpFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatDominantSeventhSharpNinth](ChromaticCircleChordEFlatDominantSeventhSharpNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

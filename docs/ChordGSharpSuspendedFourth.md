@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpSuspendedFourth](ChromaticCircleChordGSharpSuspendedFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

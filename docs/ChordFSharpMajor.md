@@ -11,6 +11,10 @@
 
 F#
 
+## Diagram
+
+![FSharpMajor](ChromaticCircleChordFSharpMajor.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 D
 
+## Diagram
+
+![DNaturalMinorAddNinth](ChromaticCircleChordDNaturalMinorAddNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

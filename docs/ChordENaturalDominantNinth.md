@@ -11,6 +11,10 @@
 
 E
 
+## Diagram
+
+![ENaturalDominantNinth](ChromaticCircleChordENaturalDominantNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

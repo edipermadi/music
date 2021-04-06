@@ -72,14 +72,14 @@ II⁺, iii⁰b3, iii⁰b3, IV⁺, VI⁺, VI⁺
 
 | Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|-------|-------|-----------------|------------------|
-| [2505](https://ianring.com/musictheory/scales/2505) | [Mydimic](ModeMydimic.md) | E | E, F##, G###, A##, B#, C###, E | ![ENaturalMydimic](CircleOfFifthModeENaturalMydimic.png) | ![ENaturalMydimic](ChromaticCircleModeENaturalMydimic.png) 
-| [825](https://ianring.com/musictheory/scales/825) | [Thyptimic](ModeThyptimic.md) | G | G, A#, B, C, D#, E, G | ![GNaturalThyptimic](CircleOfFifthModeGNaturalThyptimic.png) | ![GNaturalThyptimic](ChromaticCircleModeGNaturalThyptimic.png) 
-| [615](https://ianring.com/musictheory/scales/615) | [Phrothimic](ModePhrothimic.md) | A# | A#, B, C, D#, E, F##, A# | ![ASharpPhrothimic](CircleOfFifthModeASharpPhrothimic.png) | ![ASharpPhrothimic](ChromaticCircleModeASharpPhrothimic.png) 
-| [615](https://ianring.com/musictheory/scales/615) | [Phrothimic](ModePhrothimic.md) | Bb | Bb, Cb, Dbb, Eb, Fb, G, Bb | ![BFlatPhrothimic](CircleOfFifthModeBFlatPhrothimic.png) | ![BFlatPhrothimic](ChromaticCircleModeBFlatPhrothimic.png) 
-| [2355](https://ianring.com/musictheory/scales/2355) | [Katycrimic](ModeKatycrimic.md) | B | B, C, D#, E, F##, G###, B | ![BNaturalKatycrimic](CircleOfFifthModeBNaturalKatycrimic.png) | ![BNaturalKatycrimic](ChromaticCircleModeBNaturalKatycrimic.png) 
-| [3225](https://ianring.com/musictheory/scales/3225) | [Ionalimic](ModeIonalimic.md) | C | C, D#, E, F##, G###, A##, C | ![CNaturalIonalimic](CircleOfFifthModeCNaturalIonalimic.png) | ![CNaturalIonalimic](ChromaticCircleModeCNaturalIonalimic.png) 
-| [915](https://ianring.com/musictheory/scales/915) | [Loptimic](ModeLoptimic.md) | D# | D#, E, F##, G###, A##, B#, D# | ![DSharpLoptimic](CircleOfFifthModeDSharpLoptimic.png) | ![DSharpLoptimic](ChromaticCircleModeDSharpLoptimic.png) 
-| [915](https://ianring.com/musictheory/scales/915) | [Loptimic](ModeLoptimic.md) | Eb | Eb, Fb, G, A#, B, C, Eb | ![EFlatLoptimic](CircleOfFifthModeEFlatLoptimic.png) | ![EFlatLoptimic](ChromaticCircleModeEFlatLoptimic.png) 
+| [2505](https://ianring.com/musictheory/scales/2505) | [Mydimic](ModeMydimic.md) | E | E, F##, G###, A##, B#, C###, E | ![ENaturalMydimic](CircleOfFifthModeENaturalMydimic.png) | ![ENaturalMydimic](ChromaticCircleModeENaturalMydimic.png) |
+| [825](https://ianring.com/musictheory/scales/825) | [Thyptimic](ModeThyptimic.md) | G | G, A#, B, C, D#, E, G | ![GNaturalThyptimic](CircleOfFifthModeGNaturalThyptimic.png) | ![GNaturalThyptimic](ChromaticCircleModeGNaturalThyptimic.png) |
+| [615](https://ianring.com/musictheory/scales/615) | [Phrothimic](ModePhrothimic.md) | A# | A#, B, C, D#, E, F##, A# | ![ASharpPhrothimic](CircleOfFifthModeASharpPhrothimic.png) | ![ASharpPhrothimic](ChromaticCircleModeASharpPhrothimic.png) |
+| [615](https://ianring.com/musictheory/scales/615) | [Phrothimic](ModePhrothimic.md) | Bb | Bb, Cb, Dbb, Eb, Fb, G, Bb | ![BFlatPhrothimic](CircleOfFifthModeBFlatPhrothimic.png) | ![BFlatPhrothimic](ChromaticCircleModeBFlatPhrothimic.png) |
+| [2355](https://ianring.com/musictheory/scales/2355) | [Katycrimic](ModeKatycrimic.md) | B | B, C, D#, E, F##, G###, B | ![BNaturalKatycrimic](CircleOfFifthModeBNaturalKatycrimic.png) | ![BNaturalKatycrimic](ChromaticCircleModeBNaturalKatycrimic.png) |
+| [3225](https://ianring.com/musictheory/scales/3225) | [Ionalimic](ModeIonalimic.md) | C | C, D#, E, F##, G###, A##, C | ![CNaturalIonalimic](CircleOfFifthModeCNaturalIonalimic.png) | ![CNaturalIonalimic](ChromaticCircleModeCNaturalIonalimic.png) |
+| [915](https://ianring.com/musictheory/scales/915) | [Loptimic](ModeLoptimic.md) | D# | D#, E, F##, G###, A##, B#, D# | ![DSharpLoptimic](CircleOfFifthModeDSharpLoptimic.png) | ![DSharpLoptimic](ChromaticCircleModeDSharpLoptimic.png) |
+| [915](https://ianring.com/musictheory/scales/915) | [Loptimic](ModeLoptimic.md) | Eb | Eb, Fb, G, A#, B, C, Eb | ![EFlatLoptimic](CircleOfFifthModeEFlatLoptimic.png) | ![EFlatLoptimic](ChromaticCircleModeEFlatLoptimic.png) |
 
 ## Chords
 

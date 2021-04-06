@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatDiminished](ChromaticCircleChordGFlatDiminished.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

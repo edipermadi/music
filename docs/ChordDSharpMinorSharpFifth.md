@@ -11,6 +11,10 @@
 
 D#
 
+## Diagram
+
+![DSharpMinorSharpFifth](ChromaticCircleChordDSharpMinorSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

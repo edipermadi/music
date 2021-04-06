@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatMinorNinth](ChromaticCircleChordBFlatMinorNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -66,11 +66,11 @@ I⁺, I⁺, II⁺, II⁺, III⁺
 
 | Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|-------|-------|-----------------|------------------|
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | F# | F#, A#, D, F# | ![FSharpMinoric](CircleOfFifthModeFSharpMinoric.png) | ![FSharpMinoric](ChromaticCircleModeFSharpMinoric.png) 
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Gb | Gb, Bb, D, Gb | ![GFlatMinoric](CircleOfFifthModeGFlatMinoric.png) | ![GFlatMinoric](ChromaticCircleModeGFlatMinoric.png) 
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | A# | A#, D, F#, A# | ![ASharpMinoric](CircleOfFifthModeASharpMinoric.png) | ![ASharpMinoric](ChromaticCircleModeASharpMinoric.png) 
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Bb | Bb, D, Gb, Bb | ![BFlatMinoric](CircleOfFifthModeBFlatMinoric.png) | ![BFlatMinoric](ChromaticCircleModeBFlatMinoric.png) 
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | D | D, F#, A#, D | ![DNaturalMinoric](CircleOfFifthModeDNaturalMinoric.png) | ![DNaturalMinoric](ChromaticCircleModeDNaturalMinoric.png) 
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | F# | F#, A#, D, F# | ![FSharpMinoric](CircleOfFifthModeFSharpMinoric.png) | ![FSharpMinoric](ChromaticCircleModeFSharpMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Gb | Gb, Bb, D, Gb | ![GFlatMinoric](CircleOfFifthModeGFlatMinoric.png) | ![GFlatMinoric](ChromaticCircleModeGFlatMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | A# | A#, D, F#, A# | ![ASharpMinoric](CircleOfFifthModeASharpMinoric.png) | ![ASharpMinoric](ChromaticCircleModeASharpMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Bb | Bb, D, Gb, Bb | ![BFlatMinoric](CircleOfFifthModeBFlatMinoric.png) | ![BFlatMinoric](ChromaticCircleModeBFlatMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | D | D, F#, A#, D | ![DNaturalMinoric](CircleOfFifthModeDNaturalMinoric.png) | ![DNaturalMinoric](ChromaticCircleModeDNaturalMinoric.png) |
 
 ## Chords
 

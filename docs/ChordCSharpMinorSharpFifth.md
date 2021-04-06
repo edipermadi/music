@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpMinorSharpFifth](ChromaticCircleChordCSharpMinorSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

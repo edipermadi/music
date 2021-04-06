@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpPhrygian](ChromaticCircleChordCSharpPhrygian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

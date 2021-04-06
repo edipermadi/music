@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatLocrian](ChromaticCircleChordGFlatLocrian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

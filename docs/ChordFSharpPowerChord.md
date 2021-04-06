@@ -11,6 +11,10 @@
 
 F#
 
+## Diagram
+
+![FSharpPowerChord](ChromaticCircleChordFSharpPowerChord.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

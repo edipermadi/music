@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalMajorAddSharpFourth](ChromaticCircleChordBNaturalMajorAddSharpFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

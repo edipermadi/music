@@ -11,6 +11,10 @@
 
 Db
 
+## Diagram
+
+![DFlatDominantThirteenthFlatNinth](ChromaticCircleChordDFlatDominantThirteenthFlatNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

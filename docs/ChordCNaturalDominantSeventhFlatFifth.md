@@ -11,6 +11,10 @@
 
 C
 
+## Diagram
+
+![CNaturalDominantSeventhFlatFifth](ChromaticCircleChordCNaturalDominantSeventhFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

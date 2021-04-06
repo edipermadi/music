@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalSuspendedFourthDoubleSharpFifth](ChromaticCircleChordBNaturalSuspendedFourthDoubleSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

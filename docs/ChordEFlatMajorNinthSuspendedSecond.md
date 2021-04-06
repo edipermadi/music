@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatMajorNinthSuspendedSecond](ChromaticCircleChordEFlatMajorNinthSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

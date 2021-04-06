@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatSuspendedFourthFlatFifth](ChromaticCircleChordEFlatSuspendedFourthFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

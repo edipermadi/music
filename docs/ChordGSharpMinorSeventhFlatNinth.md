@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpMinorSeventhFlatNinth](ChromaticCircleChordGSharpMinorSeventhFlatNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatQuartalAugmented](ChromaticCircleChordEFlatQuartalAugmented.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

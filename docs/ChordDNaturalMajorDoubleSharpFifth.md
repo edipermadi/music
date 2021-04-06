@@ -11,6 +11,10 @@
 
 D
 
+## Diagram
+
+![DNaturalMajorDoubleSharpFifth](ChromaticCircleChordDNaturalMajorDoubleSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

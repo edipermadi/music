@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatMajorSixthSuspendedSecondDoubleFlatFifth](ChromaticCircleChordEFlatMajorSixthSuspendedSecondDoubleFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

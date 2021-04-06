@@ -11,6 +11,10 @@
 
 C
 
+## Diagram
+
+![CNaturalAugmentedMajorSeventh](ChromaticCircleChordCNaturalAugmentedMajorSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

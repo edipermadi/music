@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpPhrygianAddSeventh](ChromaticCircleChordCSharpPhrygianAddSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

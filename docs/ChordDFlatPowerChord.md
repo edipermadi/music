@@ -11,6 +11,10 @@
 
 Db
 
+## Diagram
+
+![DFlatPowerChord](ChromaticCircleChordDFlatPowerChord.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

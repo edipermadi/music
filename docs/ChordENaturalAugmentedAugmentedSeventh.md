@@ -11,6 +11,10 @@
 
 E
 
+## Diagram
+
+![ENaturalAugmentedAugmentedSeventh](ChromaticCircleChordENaturalAugmentedAugmentedSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 F#
 
+## Diagram
+
+![FSharpLocrian](ChromaticCircleChordFSharpLocrian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

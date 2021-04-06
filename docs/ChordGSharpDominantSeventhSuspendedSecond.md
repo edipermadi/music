@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpDominantSeventhSuspendedSecond](ChromaticCircleChordGSharpDominantSeventhSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

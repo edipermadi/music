@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpDominantSeventhAddSharpFourth](ChromaticCircleChordASharpDominantSeventhAddSharpFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

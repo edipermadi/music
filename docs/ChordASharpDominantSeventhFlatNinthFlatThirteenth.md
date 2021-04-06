@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpDominantSeventhFlatNinthFlatThirteenth](ChromaticCircleChordASharpDominantSeventhFlatNinthFlatThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

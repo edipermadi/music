@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalPhrygianAddSeventh](ChromaticCircleChordBNaturalPhrygianAddSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 F#
 
+## Diagram
+
+![FSharpMajorSeventhAddEleventh](ChromaticCircleChordFSharpMajorSeventhAddEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

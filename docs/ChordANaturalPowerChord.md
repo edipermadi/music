@@ -11,6 +11,10 @@
 
 A
 
+## Diagram
+
+![ANaturalPowerChord](ChromaticCircleChordANaturalPowerChord.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

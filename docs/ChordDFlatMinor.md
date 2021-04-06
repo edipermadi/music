@@ -11,6 +11,10 @@
 
 Db
 
+## Diagram
+
+![DFlatMinor](ChromaticCircleChordDFlatMinor.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

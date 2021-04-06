@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatMinorAddSharpNinth](ChromaticCircleChordEFlatMinorAddSharpNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

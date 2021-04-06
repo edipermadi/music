@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpMajorSeventhAddSharpEleventh](ChromaticCircleChordGSharpMajorSeventhAddSharpEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

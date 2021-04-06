@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatSuspendedFourthDoubleSharpFifth](ChromaticCircleChordBFlatSuspendedFourthDoubleSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

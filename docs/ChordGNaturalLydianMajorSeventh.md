@@ -11,6 +11,10 @@
 
 G
 
+## Diagram
+
+![GNaturalLydianMajorSeventh](ChromaticCircleChordGNaturalLydianMajorSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

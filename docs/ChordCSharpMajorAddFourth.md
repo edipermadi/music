@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpMajorAddFourth](ChromaticCircleChordCSharpMajorAddFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

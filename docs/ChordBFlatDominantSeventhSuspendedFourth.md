@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatDominantSeventhSuspendedFourth](ChromaticCircleChordBFlatDominantSeventhSuspendedFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

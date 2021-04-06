@@ -11,6 +11,10 @@
 
 D#
 
+## Diagram
+
+![DSharpMajorAddSharpNinth](ChromaticCircleChordDSharpMajorAddSharpNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpSuspendedSecondFlatFifthAddSharpFifth](ChromaticCircleChordCSharpSuspendedSecondFlatFifthAddSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

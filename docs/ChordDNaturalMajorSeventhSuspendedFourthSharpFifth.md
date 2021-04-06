@@ -11,6 +11,10 @@
 
 D
 
+## Diagram
+
+![DNaturalMajorSeventhSuspendedFourthSharpFifth](ChromaticCircleChordDNaturalMajorSeventhSuspendedFourthSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

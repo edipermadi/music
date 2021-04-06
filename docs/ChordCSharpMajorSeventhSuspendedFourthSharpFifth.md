@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpMajorSeventhSuspendedFourthSharpFifth](ChromaticCircleChordCSharpMajorSeventhSuspendedFourthSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

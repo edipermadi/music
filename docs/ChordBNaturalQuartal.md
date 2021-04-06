@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalQuartal](ChromaticCircleChordBNaturalQuartal.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

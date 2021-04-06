@@ -11,6 +11,10 @@
 
 A
 
+## Diagram
+
+![ANaturalDominantNinthSharpEleventh](ChromaticCircleChordANaturalDominantNinthSharpEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

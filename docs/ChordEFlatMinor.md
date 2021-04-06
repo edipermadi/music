@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatMinor](ChromaticCircleChordEFlatMinor.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

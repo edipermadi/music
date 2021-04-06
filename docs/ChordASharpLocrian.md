@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpLocrian](ChromaticCircleChordASharpLocrian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

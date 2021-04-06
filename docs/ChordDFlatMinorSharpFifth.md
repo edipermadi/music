@@ -11,6 +11,10 @@
 
 Db
 
+## Diagram
+
+![DFlatMinorSharpFifth](ChromaticCircleChordDFlatMinorSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

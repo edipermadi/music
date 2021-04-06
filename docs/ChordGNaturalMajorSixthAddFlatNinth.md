@@ -11,6 +11,10 @@
 
 G
 
+## Diagram
+
+![GNaturalMajorSixthAddFlatNinth](ChromaticCircleChordGNaturalMajorSixthAddFlatNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

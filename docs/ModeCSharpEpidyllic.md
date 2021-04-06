@@ -74,14 +74,14 @@ i⁰, i⁰, ii⁰b3, ii⁰b3, iii⁰, IVb5, v⁰, vi⁰b3, vii⁰, vii⁰, VIIIb
 
 | Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|-------|-------|-----------------|------------------|
-| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | C# | C#, D#, E, F, G, A, A#, B, C# | ![CSharpEpidyllic](CircleOfFifthModeCSharpEpidyllic.png) | ![CSharpEpidyllic](ChromaticCircleModeCSharpEpidyllic.png) 
-| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | Db | Db, Eb, E, F, G, A, Bb, B, Db | ![DFlatEpidyllic](CircleOfFifthModeDFlatEpidyllic.png) | ![DFlatEpidyllic](ChromaticCircleModeDFlatEpidyllic.png) 
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | D# | D#, E, F, G, A, A#, B, C#, D# | ![DSharpKaptyllic](CircleOfFifthModeDSharpKaptyllic.png) | ![DSharpKaptyllic](ChromaticCircleModeDSharpKaptyllic.png) 
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | Eb | Eb, E, F, G, A, Bb, B, Db, Eb | ![EFlatKaptyllic](CircleOfFifthModeEFlatKaptyllic.png) | ![EFlatKaptyllic](ChromaticCircleModeEFlatKaptyllic.png) 
-| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | F | F, G, A, A#, B, C#, D#, E, F | ![FNaturalEpotyllic](CircleOfFifthModeFNaturalEpotyllic.png) | ![FNaturalEpotyllic](ChromaticCircleModeFNaturalEpotyllic.png) 
-| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | G | G, A, A#, B, C#, D#, E, F, G | ![GNaturalEpidyllic](CircleOfFifthModeGNaturalEpidyllic.png) | ![GNaturalEpidyllic](ChromaticCircleModeGNaturalEpidyllic.png) 
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | A | A, A#, B, C#, D#, E, F, G, A | ![ANaturalKaptyllic](CircleOfFifthModeANaturalKaptyllic.png) | ![ANaturalKaptyllic](ChromaticCircleModeANaturalKaptyllic.png) 
-| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | B | B, C#, D#, E, F, G, A, A#, B | ![BNaturalEpotyllic](CircleOfFifthModeBNaturalEpotyllic.png) | ![BNaturalEpotyllic](ChromaticCircleModeBNaturalEpotyllic.png) 
+| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | C# | C#, D#, E, F, G, A, A#, B, C# | ![CSharpEpidyllic](CircleOfFifthModeCSharpEpidyllic.png) | ![CSharpEpidyllic](ChromaticCircleModeCSharpEpidyllic.png) |
+| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | Db | Db, Eb, E, F, G, A, Bb, B, Db | ![DFlatEpidyllic](CircleOfFifthModeDFlatEpidyllic.png) | ![DFlatEpidyllic](ChromaticCircleModeDFlatEpidyllic.png) |
+| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | D# | D#, E, F, G, A, A#, B, C#, D# | ![DSharpKaptyllic](CircleOfFifthModeDSharpKaptyllic.png) | ![DSharpKaptyllic](ChromaticCircleModeDSharpKaptyllic.png) |
+| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | Eb | Eb, E, F, G, A, Bb, B, Db, Eb | ![EFlatKaptyllic](CircleOfFifthModeEFlatKaptyllic.png) | ![EFlatKaptyllic](ChromaticCircleModeEFlatKaptyllic.png) |
+| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | F | F, G, A, A#, B, C#, D#, E, F | ![FNaturalEpotyllic](CircleOfFifthModeFNaturalEpotyllic.png) | ![FNaturalEpotyllic](ChromaticCircleModeFNaturalEpotyllic.png) |
+| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | G | G, A, A#, B, C#, D#, E, F, G | ![GNaturalEpidyllic](CircleOfFifthModeGNaturalEpidyllic.png) | ![GNaturalEpidyllic](ChromaticCircleModeGNaturalEpidyllic.png) |
+| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | A | A, A#, B, C#, D#, E, F, G, A | ![ANaturalKaptyllic](CircleOfFifthModeANaturalKaptyllic.png) | ![ANaturalKaptyllic](ChromaticCircleModeANaturalKaptyllic.png) |
+| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | B | B, C#, D#, E, F, G, A, A#, B | ![BNaturalEpotyllic](CircleOfFifthModeBNaturalEpotyllic.png) | ![BNaturalEpotyllic](ChromaticCircleModeBNaturalEpotyllic.png) |
 
 ## Chords
 

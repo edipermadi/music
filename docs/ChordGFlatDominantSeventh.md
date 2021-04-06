@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatDominantSeventh](ChromaticCircleChordGFlatDominantSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

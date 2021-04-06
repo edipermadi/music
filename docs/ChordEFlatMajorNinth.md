@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatMajorNinth](ChromaticCircleChordEFlatMajorNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

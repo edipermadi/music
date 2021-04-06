@@ -11,6 +11,10 @@
 
 E
 
+## Diagram
+
+![ENaturalSuspendedFourth](ChromaticCircleChordENaturalSuspendedFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

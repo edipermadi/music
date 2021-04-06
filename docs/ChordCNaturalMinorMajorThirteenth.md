@@ -11,6 +11,10 @@
 
 C
 
+## Diagram
+
+![CNaturalMinorMajorThirteenth](ChromaticCircleChordCNaturalMinorMajorThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

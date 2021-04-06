@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatQuartalAugmented](ChromaticCircleChordGFlatQuartalAugmented.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

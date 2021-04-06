@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpMinorAddNinth](ChromaticCircleChordASharpMinorAddNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

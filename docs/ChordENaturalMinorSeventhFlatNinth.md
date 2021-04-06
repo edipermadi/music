@@ -11,6 +11,10 @@
 
 E
 
+## Diagram
+
+![ENaturalMinorSeventhFlatNinth](ChromaticCircleChordENaturalMinorSeventhFlatNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

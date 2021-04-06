@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalMajorSeventhFlatFifth](ChromaticCircleChordBNaturalMajorSeventhFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

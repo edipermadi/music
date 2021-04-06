@@ -11,6 +11,10 @@
 
 D#
 
+## Diagram
+
+![DSharpDominantThirteenth](ChromaticCircleChordDSharpDominantThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

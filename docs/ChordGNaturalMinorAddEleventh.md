@@ -11,6 +11,10 @@
 
 G
 
+## Diagram
+
+![GNaturalMinorAddEleventh](ChromaticCircleChordGNaturalMinorAddEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

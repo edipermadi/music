@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatMajorSeventhAddEleventh](ChromaticCircleChordGFlatMajorSeventhAddEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

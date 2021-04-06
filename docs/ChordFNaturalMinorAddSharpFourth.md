@@ -11,6 +11,10 @@
 
 F
 
+## Diagram
+
+![FNaturalMinorAddSharpFourth](ChromaticCircleChordFNaturalMinorAddSharpFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

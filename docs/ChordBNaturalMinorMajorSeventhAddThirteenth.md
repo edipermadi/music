@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalMinorMajorSeventhAddThirteenth](ChromaticCircleChordBNaturalMinorMajorSeventhAddThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

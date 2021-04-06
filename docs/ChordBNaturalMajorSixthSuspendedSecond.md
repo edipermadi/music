@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalMajorSixthSuspendedSecond](ChromaticCircleChordBNaturalMajorSixthSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

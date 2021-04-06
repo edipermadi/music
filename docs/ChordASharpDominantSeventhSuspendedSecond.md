@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpDominantSeventhSuspendedSecond](ChromaticCircleChordASharpDominantSeventhSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 D#
 
+## Diagram
+
+![DSharpAugmented](ChromaticCircleChordDSharpAugmented.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

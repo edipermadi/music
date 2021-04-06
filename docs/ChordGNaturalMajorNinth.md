@@ -11,6 +11,10 @@
 
 G
 
+## Diagram
+
+![GNaturalMajorNinth](ChromaticCircleChordGNaturalMajorNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

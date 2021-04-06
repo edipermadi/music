@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatMinorEleventh](ChromaticCircleChordGFlatMinorEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

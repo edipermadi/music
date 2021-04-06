@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpMinorDoubleFlatFifth](ChromaticCircleChordASharpMinorDoubleFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

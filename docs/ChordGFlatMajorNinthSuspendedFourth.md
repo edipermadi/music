@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatMajorNinthSuspendedFourth](ChromaticCircleChordGFlatMajorNinthSuspendedFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

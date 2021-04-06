@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatDominantNinthFlatThirteenth](ChromaticCircleChordGFlatDominantNinthFlatThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

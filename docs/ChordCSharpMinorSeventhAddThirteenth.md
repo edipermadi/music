@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpMinorSeventhAddThirteenth](ChromaticCircleChordCSharpMinorSeventhAddThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

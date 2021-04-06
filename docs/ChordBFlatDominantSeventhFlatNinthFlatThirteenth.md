@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatDominantSeventhFlatNinthFlatThirteenth](ChromaticCircleChordBFlatDominantSeventhFlatNinthFlatThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

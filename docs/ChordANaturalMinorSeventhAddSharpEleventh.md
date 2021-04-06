@@ -11,6 +11,10 @@
 
 A
 
+## Diagram
+
+![ANaturalMinorSeventhAddSharpEleventh](ChromaticCircleChordANaturalMinorSeventhAddSharpEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

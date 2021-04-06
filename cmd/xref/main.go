@@ -695,7 +695,7 @@ func generateChordPage(logger *zap.Logger, wikiDir string, givenChord chord.Chor
 	_, _ = fmt.Fprintf(&buff, "- [Modes Index](Modes.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
 	_, _ = fmt.Fprintf(&buff, "## Root\n\n%s\n\n", computedRoot.Name())
-	_, _ = fmt.Fprintf(&buff, "## Diagram\n\n![%s](ChromaticCircleChord%s)\n\n", givenChord, givenChord)
+	_, _ = fmt.Fprintf(&buff, "## Diagram\n\n![%s](ChromaticCircleChord%s.png)\n\n", givenChord, givenChord)
 	_, _ = fmt.Fprintf(&buff, "## Notes\n\n")
 	_, _ = fmt.Fprintf(&buff, "| Position | Notes | Illustration |\n")
 	_, _ = fmt.Fprintf(&buff, "|----------|------|--------------|\n")

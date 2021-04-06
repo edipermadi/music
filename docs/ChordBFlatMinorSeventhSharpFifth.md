@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatMinorSeventhSharpFifth](ChromaticCircleChordBFlatMinorSeventhSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

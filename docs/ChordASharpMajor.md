@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpMajor](ChromaticCircleChordASharpMajor.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

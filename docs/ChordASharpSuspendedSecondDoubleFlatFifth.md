@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpSuspendedSecondDoubleFlatFifth](ChromaticCircleChordASharpSuspendedSecondDoubleFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

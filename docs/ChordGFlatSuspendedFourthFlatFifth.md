@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatSuspendedFourthFlatFifth](ChromaticCircleChordGFlatSuspendedFourthFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

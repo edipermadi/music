@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpQuartal](ChromaticCircleChordGSharpQuartal.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

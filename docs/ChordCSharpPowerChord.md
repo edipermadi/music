@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpPowerChord](ChromaticCircleChordCSharpPowerChord.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

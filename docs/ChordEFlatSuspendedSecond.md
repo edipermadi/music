@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatSuspendedSecond](ChromaticCircleChordEFlatSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

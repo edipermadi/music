@@ -11,6 +11,10 @@
 
 G
 
+## Diagram
+
+![GNaturalDominantNinthFlatThirteenth](ChromaticCircleChordGNaturalDominantNinthFlatThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

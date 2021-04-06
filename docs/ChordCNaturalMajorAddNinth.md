@@ -11,6 +11,10 @@
 
 C
 
+## Diagram
+
+![CNaturalMajorAddNinth](ChromaticCircleChordCNaturalMajorAddNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

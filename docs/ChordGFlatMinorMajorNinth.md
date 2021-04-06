@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatMinorMajorNinth](ChromaticCircleChordGFlatMinorMajorNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

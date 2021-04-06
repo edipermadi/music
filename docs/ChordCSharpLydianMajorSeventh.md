@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpLydianMajorSeventh](ChromaticCircleChordCSharpLydianMajorSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 E
 
+## Diagram
+
+![ENaturalSuspendedSecondSharpFifth](ChromaticCircleChordENaturalSuspendedSecondSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpSuspendedFourthSharpFifth](ChromaticCircleChordASharpSuspendedFourthSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

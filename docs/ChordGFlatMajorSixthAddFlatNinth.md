@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatMajorSixthAddFlatNinth](ChromaticCircleChordGFlatMajorSixthAddFlatNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

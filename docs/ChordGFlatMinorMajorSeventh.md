@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatMinorMajorSeventh](ChromaticCircleChordGFlatMinorMajorSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

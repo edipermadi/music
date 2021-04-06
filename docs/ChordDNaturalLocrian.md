@@ -11,6 +11,10 @@
 
 D
 
+## Diagram
+
+![DNaturalLocrian](ChromaticCircleChordDNaturalLocrian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

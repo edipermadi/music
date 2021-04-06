@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpDominantSeventhSuspendedFourth](ChromaticCircleChordCSharpDominantSeventhSuspendedFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

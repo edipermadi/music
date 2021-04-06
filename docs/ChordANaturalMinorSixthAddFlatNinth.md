@@ -11,6 +11,10 @@
 
 A
 
+## Diagram
+
+![ANaturalMinorSixthAddFlatNinth](ChromaticCircleChordANaturalMinorSixthAddFlatNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

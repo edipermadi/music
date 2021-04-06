@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatHalfDiminishedSeventh](ChromaticCircleChordEFlatHalfDiminishedSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

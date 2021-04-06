@@ -11,6 +11,10 @@
 
 F#
 
+## Diagram
+
+![FSharpMajorSeventhDoubleSharpFifth](ChromaticCircleChordFSharpMajorSeventhDoubleSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

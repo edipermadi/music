@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpQuartalAugmented](ChromaticCircleChordCSharpQuartalAugmented.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

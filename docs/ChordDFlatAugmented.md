@@ -11,6 +11,10 @@
 
 Db
 
+## Diagram
+
+![DFlatAugmented](ChromaticCircleChordDFlatAugmented.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

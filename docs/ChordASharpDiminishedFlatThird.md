@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpDiminishedFlatThird](ChromaticCircleChordASharpDiminishedFlatThird.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 G
 
+## Diagram
+
+![GNaturalMinorSeventhSharpFifth](ChromaticCircleChordGNaturalMinorSeventhSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

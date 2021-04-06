@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpDominantSeventhSharpEleventh](ChromaticCircleChordGSharpDominantSeventhSharpEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

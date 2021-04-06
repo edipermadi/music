@@ -11,6 +11,10 @@
 
 C
 
+## Diagram
+
+![CNaturalMajorSeventhAddFourth](ChromaticCircleChordCNaturalMajorSeventhAddFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

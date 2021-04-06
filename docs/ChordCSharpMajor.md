@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpMajor](ChromaticCircleChordCSharpMajor.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

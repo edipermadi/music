@@ -11,6 +11,10 @@
 
 D
 
+## Diagram
+
+![DNaturalQuartal](ChromaticCircleChordDNaturalQuartal.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

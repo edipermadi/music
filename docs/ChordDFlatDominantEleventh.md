@@ -11,6 +11,10 @@
 
 Db
 
+## Diagram
+
+![DFlatDominantEleventh](ChromaticCircleChordDFlatDominantEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

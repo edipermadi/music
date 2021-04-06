@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpDominantNinthSuspendedFourth](ChromaticCircleChordGSharpDominantNinthSuspendedFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

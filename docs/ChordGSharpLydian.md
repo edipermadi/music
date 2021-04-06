@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpLydian](ChromaticCircleChordGSharpLydian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

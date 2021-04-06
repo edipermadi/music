@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatMinorAddFourth](ChromaticCircleChordEFlatMinorAddFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

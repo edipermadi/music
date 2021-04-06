@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalSuspendedSecondSharpFifth](ChromaticCircleChordBNaturalSuspendedSecondSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatDominantNinthSuspendedSecond](ChromaticCircleChordGFlatDominantNinthSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

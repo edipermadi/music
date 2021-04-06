@@ -11,6 +11,10 @@
 
 E
 
+## Diagram
+
+![ENaturalDominantSeventh](ChromaticCircleChordENaturalDominantSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

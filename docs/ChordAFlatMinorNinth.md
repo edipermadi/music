@@ -11,6 +11,10 @@
 
 Ab
 
+## Diagram
+
+![AFlatMinorNinth](ChromaticCircleChordAFlatMinorNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

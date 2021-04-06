@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatLydianMajorSeventh](ChromaticCircleChordEFlatLydianMajorSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

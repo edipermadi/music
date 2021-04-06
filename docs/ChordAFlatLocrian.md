@@ -11,6 +11,10 @@
 
 Ab
 
+## Diagram
+
+![AFlatLocrian](ChromaticCircleChordAFlatLocrian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

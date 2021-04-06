@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatPowerChord](ChromaticCircleChordGFlatPowerChord.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatLydian](ChromaticCircleChordBFlatLydian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

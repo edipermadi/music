@@ -11,6 +11,10 @@
 
 D#
 
+## Diagram
+
+![DSharpDiminished](ChromaticCircleChordDSharpDiminished.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 Db
 
+## Diagram
+
+![DFlatMajorSixthAddNinth](ChromaticCircleChordDFlatMajorSixthAddNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

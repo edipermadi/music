@@ -11,6 +11,10 @@
 
 Ab
 
+## Diagram
+
+![AFlatMajorAddFourth](ChromaticCircleChordAFlatMajorAddFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

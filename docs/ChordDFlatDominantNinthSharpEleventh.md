@@ -11,6 +11,10 @@
 
 Db
 
+## Diagram
+
+![DFlatDominantNinthSharpEleventh](ChromaticCircleChordDFlatDominantNinthSharpEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

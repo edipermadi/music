@@ -11,6 +11,10 @@
 
 F#
 
+## Diagram
+
+![FSharpMinorAddEleventh](ChromaticCircleChordFSharpMinorAddEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

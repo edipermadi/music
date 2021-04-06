@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpDominantSeventhFlatFifth](ChromaticCircleChordGSharpDominantSeventhFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

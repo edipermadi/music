@@ -11,6 +11,10 @@
 
 Db
 
+## Diagram
+
+![DFlatSuspendedSecondSharpFifth](ChromaticCircleChordDFlatSuspendedSecondSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

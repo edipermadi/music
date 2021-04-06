@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatDominantThirteenthFlatNinth](ChromaticCircleChordEFlatDominantThirteenthFlatNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

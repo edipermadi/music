@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatMajor](ChromaticCircleChordEFlatMajor.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

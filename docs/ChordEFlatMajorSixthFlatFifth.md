@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatMajorSixthFlatFifth](ChromaticCircleChordEFlatMajorSixthFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

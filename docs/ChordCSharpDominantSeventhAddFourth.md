@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpDominantSeventhAddFourth](ChromaticCircleChordCSharpDominantSeventhAddFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

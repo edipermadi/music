@@ -11,6 +11,10 @@
 
 D
 
+## Diagram
+
+![DNaturalDiminished](ChromaticCircleChordDNaturalDiminished.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 Ab
 
+## Diagram
+
+![AFlatMajor](ChromaticCircleChordAFlatMajor.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

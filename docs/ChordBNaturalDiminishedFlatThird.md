@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalDiminishedFlatThird](ChromaticCircleChordBNaturalDiminishedFlatThird.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

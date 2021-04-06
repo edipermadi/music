@@ -67,11 +67,11 @@ D
 
 | Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|-------|-------|-----------------|------------------|
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | D | D, F, G#, B, D | ![DNaturalPhrynic](CircleOfFifthModeDNaturalPhrynic.png) | ![DNaturalPhrynic](ChromaticCircleModeDNaturalPhrynic.png) 
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | F | F, G#, B, D, F | ![FNaturalPhrynic](CircleOfFifthModeFNaturalPhrynic.png) | ![FNaturalPhrynic](ChromaticCircleModeFNaturalPhrynic.png) 
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | G# | G#, B, D, F, G# | ![GSharpPhrynic](CircleOfFifthModeGSharpPhrynic.png) | ![GSharpPhrynic](ChromaticCircleModeGSharpPhrynic.png) 
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | Ab | Ab, B, D, F, Ab | ![AFlatPhrynic](CircleOfFifthModeAFlatPhrynic.png) | ![AFlatPhrynic](ChromaticCircleModeAFlatPhrynic.png) 
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | B | B, D, F, G#, B | ![BNaturalPhrynic](CircleOfFifthModeBNaturalPhrynic.png) | ![BNaturalPhrynic](ChromaticCircleModeBNaturalPhrynic.png) 
+| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | D | D, F, G#, B, D | ![DNaturalPhrynic](CircleOfFifthModeDNaturalPhrynic.png) | ![DNaturalPhrynic](ChromaticCircleModeDNaturalPhrynic.png) |
+| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | F | F, G#, B, D, F | ![FNaturalPhrynic](CircleOfFifthModeFNaturalPhrynic.png) | ![FNaturalPhrynic](ChromaticCircleModeFNaturalPhrynic.png) |
+| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | G# | G#, B, D, F, G# | ![GSharpPhrynic](CircleOfFifthModeGSharpPhrynic.png) | ![GSharpPhrynic](ChromaticCircleModeGSharpPhrynic.png) |
+| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | Ab | Ab, B, D, F, Ab | ![AFlatPhrynic](CircleOfFifthModeAFlatPhrynic.png) | ![AFlatPhrynic](ChromaticCircleModeAFlatPhrynic.png) |
+| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | B | B, D, F, G#, B | ![BNaturalPhrynic](CircleOfFifthModeBNaturalPhrynic.png) | ![BNaturalPhrynic](ChromaticCircleModeBNaturalPhrynic.png) |
 
 ## Chords
 

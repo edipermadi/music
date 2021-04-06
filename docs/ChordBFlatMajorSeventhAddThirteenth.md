@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatMajorSeventhAddThirteenth](ChromaticCircleChordBFlatMajorSeventhAddThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 Db
 
+## Diagram
+
+![DFlatMajorAddEleventh](ChromaticCircleChordDFlatMajorAddEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

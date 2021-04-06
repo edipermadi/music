@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatMajorAddEleventh](ChromaticCircleChordBFlatMajorAddEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

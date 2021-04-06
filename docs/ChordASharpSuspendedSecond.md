@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpSuspendedSecond](ChromaticCircleChordASharpSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

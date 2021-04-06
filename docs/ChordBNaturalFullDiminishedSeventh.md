@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalFullDiminishedSeventh](ChromaticCircleChordBNaturalFullDiminishedSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

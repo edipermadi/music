@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatDominantSeventhAddFourth](ChromaticCircleChordGFlatDominantSeventhAddFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

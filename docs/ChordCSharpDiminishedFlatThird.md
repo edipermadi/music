@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpDiminishedFlatThird](ChromaticCircleChordCSharpDiminishedFlatThird.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

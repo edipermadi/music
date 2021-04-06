@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalLydian](ChromaticCircleChordBNaturalLydian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 C
 
+## Diagram
+
+![CNaturalMajorSixth](ChromaticCircleChordCNaturalMajorSixth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

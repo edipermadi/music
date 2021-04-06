@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatLydianMajorSeventh](ChromaticCircleChordBFlatLydianMajorSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpDiminished](ChromaticCircleChordCSharpDiminished.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

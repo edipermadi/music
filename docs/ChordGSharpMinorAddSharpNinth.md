@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpMinorAddSharpNinth](ChromaticCircleChordGSharpMinorAddSharpNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

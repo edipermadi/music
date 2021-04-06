@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpDominantNinth](ChromaticCircleChordGSharpDominantNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

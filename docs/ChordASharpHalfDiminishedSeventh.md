@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpHalfDiminishedSeventh](ChromaticCircleChordASharpHalfDiminishedSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

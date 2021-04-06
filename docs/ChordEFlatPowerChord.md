@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatPowerChord](ChromaticCircleChordEFlatPowerChord.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

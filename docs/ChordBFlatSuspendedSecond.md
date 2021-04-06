@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatSuspendedSecond](ChromaticCircleChordBFlatSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

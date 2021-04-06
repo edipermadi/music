@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpLydian](ChromaticCircleChordCSharpLydian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

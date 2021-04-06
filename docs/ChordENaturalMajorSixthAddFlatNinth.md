@@ -11,6 +11,10 @@
 
 E
 
+## Diagram
+
+![ENaturalMajorSixthAddFlatNinth](ChromaticCircleChordENaturalMajorSixthAddFlatNinth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

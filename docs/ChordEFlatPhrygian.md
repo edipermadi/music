@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatPhrygian](ChromaticCircleChordEFlatPhrygian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

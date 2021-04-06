@@ -11,6 +11,10 @@
 
 G
 
+## Diagram
+
+![GNaturalDiminishedMajorSeventh](ChromaticCircleChordGNaturalDiminishedMajorSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 G
 
+## Diagram
+
+![GNaturalMajorNinthSuspendedFourth](ChromaticCircleChordGNaturalMajorNinthSuspendedFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatDiminishedFlatThird](ChromaticCircleChordGFlatDiminishedFlatThird.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatDiminished](ChromaticCircleChordBFlatDiminished.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

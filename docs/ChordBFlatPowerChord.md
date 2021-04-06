@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatPowerChord](ChromaticCircleChordBFlatPowerChord.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

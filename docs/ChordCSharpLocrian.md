@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpLocrian](ChromaticCircleChordCSharpLocrian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

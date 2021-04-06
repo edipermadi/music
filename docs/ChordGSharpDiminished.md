@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpDiminished](ChromaticCircleChordGSharpDiminished.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

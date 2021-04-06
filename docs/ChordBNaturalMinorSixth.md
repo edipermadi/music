@@ -11,6 +11,10 @@
 
 B
 
+## Diagram
+
+![BNaturalMinorSixth](ChromaticCircleChordBNaturalMinorSixth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

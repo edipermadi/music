@@ -11,6 +11,10 @@
 
 Db
 
+## Diagram
+
+![DFlatDominantSeventhAddThirteenth](ChromaticCircleChordDFlatDominantSeventhAddThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

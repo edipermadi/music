@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatLocrian](ChromaticCircleChordBFlatLocrian.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

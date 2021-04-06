@@ -11,6 +11,10 @@
 
 Db
 
+## Diagram
+
+![DFlatMajorAddSharpFourth](ChromaticCircleChordDFlatMajorAddSharpFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

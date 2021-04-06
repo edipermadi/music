@@ -72,14 +72,14 @@ IIb5
 
 | Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|-------|-------|-----------------|------------------|
-| [485](https://ianring.com/musictheory/scales/485) | [Stoptimic](ModeStoptimic.md) | G | G, A, B#, C#, D, Eb, G | ![GNaturalStoptimic](CircleOfFifthModeGNaturalStoptimic.png) | ![GNaturalStoptimic](ChromaticCircleModeGNaturalStoptimic.png) 
-| [1145](https://ianring.com/musictheory/scales/1145) | [Zygimic](ModeZygimic.md) | A | A, B#, C#, D, Eb, F##, A | ![ANaturalZygimic](CircleOfFifthModeANaturalZygimic.png) | ![ANaturalZygimic](ChromaticCircleModeANaturalZygimic.png) 
-| [655](https://ianring.com/musictheory/scales/655) | [Kataptimic](ModeKataptimic.md) | C | C, Db, Ebb, Fbb, G, A, C | ![CNaturalKataptimic](CircleOfFifthModeCNaturalKataptimic.png) | ![CNaturalKataptimic](ChromaticCircleModeCNaturalKataptimic.png) 
-| [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | C# | C#, D, Eb, F##, G##, A###, C# | ![CSharpAeolaptimic](CircleOfFifthModeCSharpAeolaptimic.png) | ![CSharpAeolaptimic](ChromaticCircleModeCSharpAeolaptimic.png) 
-| [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | Db | Db, Ebb, Fbb, G, A, B#, Db | ![DFlatAeolaptimic](CircleOfFifthModeDFlatAeolaptimic.png) | ![DFlatAeolaptimic](ChromaticCircleModeDFlatAeolaptimic.png) 
-| [3235](https://ianring.com/musictheory/scales/3235) | [Pothimic](ModePothimic.md) | D | D, Eb, F##, G##, A###, B##, D | ![DNaturalPothimic](CircleOfFifthModeDNaturalPothimic.png) | ![DNaturalPothimic](ChromaticCircleModeDNaturalPothimic.png) 
-| [3665](https://ianring.com/musictheory/scales/3665) | [Stalimic](ModeStalimic.md) | D# | D#, E###, Cbbb, Dbb, Ebbb, Fbbb, D# | ![DSharpStalimic](CircleOfFifthModeDSharpStalimic.png) | ![DSharpStalimic](ChromaticCircleModeDSharpStalimic.png) 
-| [3665](https://ianring.com/musictheory/scales/3665) | [Stalimic](ModeStalimic.md) | Eb | Eb, F##, G##, A###, B##, C##, Eb | ![EFlatStalimic](CircleOfFifthModeEFlatStalimic.png) | ![EFlatStalimic](ChromaticCircleModeEFlatStalimic.png) 
+| [485](https://ianring.com/musictheory/scales/485) | [Stoptimic](ModeStoptimic.md) | G | G, A, B#, C#, D, Eb, G | ![GNaturalStoptimic](CircleOfFifthModeGNaturalStoptimic.png) | ![GNaturalStoptimic](ChromaticCircleModeGNaturalStoptimic.png) |
+| [1145](https://ianring.com/musictheory/scales/1145) | [Zygimic](ModeZygimic.md) | A | A, B#, C#, D, Eb, F##, A | ![ANaturalZygimic](CircleOfFifthModeANaturalZygimic.png) | ![ANaturalZygimic](ChromaticCircleModeANaturalZygimic.png) |
+| [655](https://ianring.com/musictheory/scales/655) | [Kataptimic](ModeKataptimic.md) | C | C, Db, Ebb, Fbb, G, A, C | ![CNaturalKataptimic](CircleOfFifthModeCNaturalKataptimic.png) | ![CNaturalKataptimic](ChromaticCircleModeCNaturalKataptimic.png) |
+| [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | C# | C#, D, Eb, F##, G##, A###, C# | ![CSharpAeolaptimic](CircleOfFifthModeCSharpAeolaptimic.png) | ![CSharpAeolaptimic](ChromaticCircleModeCSharpAeolaptimic.png) |
+| [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | Db | Db, Ebb, Fbb, G, A, B#, Db | ![DFlatAeolaptimic](CircleOfFifthModeDFlatAeolaptimic.png) | ![DFlatAeolaptimic](ChromaticCircleModeDFlatAeolaptimic.png) |
+| [3235](https://ianring.com/musictheory/scales/3235) | [Pothimic](ModePothimic.md) | D | D, Eb, F##, G##, A###, B##, D | ![DNaturalPothimic](CircleOfFifthModeDNaturalPothimic.png) | ![DNaturalPothimic](ChromaticCircleModeDNaturalPothimic.png) |
+| [3665](https://ianring.com/musictheory/scales/3665) | [Stalimic](ModeStalimic.md) | D# | D#, E###, Cbbb, Dbb, Ebbb, Fbbb, D# | ![DSharpStalimic](CircleOfFifthModeDSharpStalimic.png) | ![DSharpStalimic](ChromaticCircleModeDSharpStalimic.png) |
+| [3665](https://ianring.com/musictheory/scales/3665) | [Stalimic](ModeStalimic.md) | Eb | Eb, F##, G##, A###, B##, C##, Eb | ![EFlatStalimic](CircleOfFifthModeEFlatStalimic.png) | ![EFlatStalimic](ChromaticCircleModeEFlatStalimic.png) |
 
 ## Chords
 

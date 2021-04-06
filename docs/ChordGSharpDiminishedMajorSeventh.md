@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpDiminishedMajorSeventh](ChromaticCircleChordGSharpDiminishedMajorSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

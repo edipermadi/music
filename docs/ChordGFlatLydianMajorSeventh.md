@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatLydianMajorSeventh](ChromaticCircleChordGFlatLydianMajorSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

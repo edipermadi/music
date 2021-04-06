@@ -11,6 +11,10 @@
 
 Ab
 
+## Diagram
+
+![AFlatMajorSixthSuspendedSecond](ChromaticCircleChordAFlatMajorSixthSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

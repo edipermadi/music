@@ -11,6 +11,10 @@
 
 E
 
+## Diagram
+
+![ENaturalSuspendedSecond](ChromaticCircleChordENaturalSuspendedSecond.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

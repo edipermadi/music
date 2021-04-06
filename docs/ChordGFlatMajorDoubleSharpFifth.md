@@ -11,6 +11,10 @@
 
 Gb
 
+## Diagram
+
+![GFlatMajorDoubleSharpFifth](ChromaticCircleChordGFlatMajorDoubleSharpFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

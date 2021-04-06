@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpMinorMajorSeventhAddThirteenth](ChromaticCircleChordASharpMinorMajorSeventhAddThirteenth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

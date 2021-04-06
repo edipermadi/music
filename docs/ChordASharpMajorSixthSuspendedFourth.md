@@ -11,6 +11,10 @@
 
 A#
 
+## Diagram
+
+![ASharpMajorSixthSuspendedFourth](ChromaticCircleChordASharpMajorSixthSuspendedFourth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

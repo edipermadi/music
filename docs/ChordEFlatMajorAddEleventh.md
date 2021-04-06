@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatMajorAddEleventh](ChromaticCircleChordEFlatMajorAddEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

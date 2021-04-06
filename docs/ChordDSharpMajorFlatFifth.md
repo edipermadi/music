@@ -11,6 +11,10 @@
 
 D#
 
+## Diagram
+
+![DSharpMajorFlatFifth](ChromaticCircleChordDSharpMajorFlatFifth.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

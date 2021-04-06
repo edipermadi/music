@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatDominantSeventhSharpEleventh](ChromaticCircleChordBFlatDominantSeventhSharpEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

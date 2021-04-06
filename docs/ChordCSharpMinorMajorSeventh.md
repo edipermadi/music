@@ -11,6 +11,10 @@
 
 C#
 
+## Diagram
+
+![CSharpMinorMajorSeventh](ChromaticCircleChordCSharpMinorMajorSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

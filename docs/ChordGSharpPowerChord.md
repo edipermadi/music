@@ -11,6 +11,10 @@
 
 G#
 
+## Diagram
+
+![GSharpPowerChord](ChromaticCircleChordGSharpPowerChord.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

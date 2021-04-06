@@ -11,6 +11,10 @@
 
 Bb
 
+## Diagram
+
+![BFlatQuartal](ChromaticCircleChordBFlatQuartal.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

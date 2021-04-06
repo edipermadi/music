@@ -11,6 +11,10 @@
 
 Eb
 
+## Diagram
+
+![EFlatDominantSeventh](ChromaticCircleChordEFlatDominantSeventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |

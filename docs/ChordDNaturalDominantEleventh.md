@@ -11,6 +11,10 @@
 
 D
 
+## Diagram
+
+![DNaturalDominantEleventh](ChromaticCircleChordDNaturalDominantEleventh.png)
+
 ## Notes
 
 | Position | Notes | Illustration |
