@@ -381,9 +381,9 @@ subgraph 1 {
 	var parts []string
 	for _, givenNote := range notes {
 		if givenMode.Tonic().Equal(givenNote) {
-			parts = append(parts, fmt.Sprintf("%s [color=blue];", givenNote.Name()))
+			parts = append(parts, fmt.Sprintf("%s [fillcolor = cadetblue1];", givenNote.Name()))
 		} else if givenMode.Notes().Contains(givenNote) {
-			parts = append(parts, fmt.Sprintf("%s [color=orange];", givenNote.Name()))
+			parts = append(parts, fmt.Sprintf("%s [fillcolor = gray];", givenNote.Name()))
 		}
 	}
 

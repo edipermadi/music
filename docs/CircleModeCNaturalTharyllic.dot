@@ -11,12 +11,12 @@ subgraph 1 {
 	E -- B -- Gb -- Db -- Ab -- Eb -- Bb -- F -- C -- G -- D -- A -- E
 }
 
-E [color=orange];
-Gb [color=orange];
-Eb [color=orange];
-Bb [color=orange];
-F [color=orange];
-C [color=blue];
-G [color=orange];
-A [color=orange];
+E [fillcolor = gray];
+Gb [fillcolor = gray];
+Eb [fillcolor = gray];
+Bb [fillcolor = gray];
+F [fillcolor = gray];
+C [fillcolor = cadetblue1];
+G [fillcolor = gray];
+A [fillcolor = gray];
 }
