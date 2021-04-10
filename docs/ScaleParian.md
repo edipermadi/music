@@ -15,16 +15,16 @@
 
 - 4 Perfect Pitch
 - 3 Imperfect Pitch
-- [false true true false true true false] Perfection Profile
+Perfection Profile - false, true, true, false, true, true, false
 
 ## Modes
 
-| Number | Mode | Notes | Illustration | Audio |
-|--------|------|-------|--------------|-------|
-| [499](https://ianring.com/musictheory/scales/499) | [Ionaptian](ModeIonaptian.md) | C, Db, **E**, F, Gb, **Abb**, **Bbbb**, C | ![CNaturalIonaptian](ModeCNaturalIonaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalIonaptian.mid?raw=true) | 
-| [799](https://ianring.com/musictheory/scales/799) | [Lolian](ModeLolian.md) | **C**, Db, Ebb, **Fbb**, **Gbbb**, Ab, Bbb, **C** | ![CNaturalLolian](ModeCNaturalLolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalLolian.mid?raw=true) | 
-| [2297](https://ianring.com/musictheory/scales/2297) | [Thylian](ModeThylian.md) | C, **D#**, E, F, **Gb**, **Abb**, B, C | ![CNaturalThylian](ModeCNaturalThylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThylian.mid?raw=true) | 
-| [2447](https://ianring.com/musictheory/scales/2447) | [Thagian](ModeThagian.md) | C, Db, **Ebb**, **Fbb**, G, Ab, **B**, C | ![CNaturalThagian](ModeCNaturalThagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThagian.mid?raw=true) | 
-| [3271](https://ianring.com/musictheory/scales/3271) | [Kolian](ModeKolian.md) | C, **Db**, **Ebb**, F#, G, **A#**, B, C | ![CNaturalKolian](ModeCNaturalKolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKolian.mid?raw=true) | 
-| [3683](https://ianring.com/musictheory/scales/3683) | [Dycrian](ModeDycrian.md) | **C**, **Db**, E#, F#, **G##**, A#, B, **C** | ![CNaturalDycrian](ModeCNaturalDycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDycrian.mid?raw=true) | 
-| [3889](https://ianring.com/musictheory/scales/3889) | [Parian](ModeParian.md) | **C**, D##, E#, **F###**, G##, A#, **B**, **C** | ![CNaturalParian](ModeCNaturalParian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalParian.mid?raw=true) | 
+| Number | Mode | Luminosity | Notes | Illustration | Audio |
+|--------|------|------------|-------|--------------|-------|
+| [499](https://ianring.com/musictheory/scales/499) | [Ionaptian](ModeIonaptian.md) | -1 | C, Db, **E**, F, Gb, **Abb**, **Bbbb**, C | ![CNaturalIonaptian](ModeCNaturalIonaptian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalIonaptian.mid?raw=true) | 
+| [799](https://ianring.com/musictheory/scales/799) | [Lolian](ModeLolian.md) | -1 | **C**, Db, Ebb, **Fbb**, **Gbbb**, Ab, Bbb, **C** | ![CNaturalLolian](ModeCNaturalLolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalLolian.mid?raw=true) | 
+| [2297](https://ianring.com/musictheory/scales/2297) | [Thylian](ModeThylian.md) | 6 | C, **D#**, E, F, **Gb**, **Abb**, B, C | ![CNaturalThylian](ModeCNaturalThylian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThylian.mid?raw=true) | 
+| [2447](https://ianring.com/musictheory/scales/2447) | [Thagian](ModeThagian.md) | -1 | C, Db, **Ebb**, **Fbb**, G, Ab, **B**, C | ![CNaturalThagian](ModeCNaturalThagian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThagian.mid?raw=true) | 
+| [3271](https://ianring.com/musictheory/scales/3271) | [Kolian](ModeKolian.md) | 7 | C, **Db**, **Ebb**, F#, G, **A#**, B, C | ![CNaturalKolian](ModeCNaturalKolian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKolian.mid?raw=true) | 
+| [3683](https://ianring.com/musictheory/scales/3683) | [Dycrian](ModeDycrian.md) | -1 | **C**, **Db**, E#, F#, **G##**, A#, B, **C** | ![CNaturalDycrian](ModeCNaturalDycrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDycrian.mid?raw=true) | 
+| [3889](https://ianring.com/musictheory/scales/3889) | [Parian](ModeParian.md) | -1 | **C**, D##, E#, **F###**, G##, A#, **B**, **C** | ![CNaturalParian](ModeCNaturalParian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalParian.mid?raw=true) | 

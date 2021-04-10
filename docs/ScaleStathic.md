@@ -15,11 +15,11 @@
 
 - 0 Perfect Pitch
 - 4 Imperfect Pitch
-- [false false false false] Perfection Profile
+Perfection Profile - false, false, false, false
 
 ## Modes
 
-| Number | Mode | Notes | Illustration | Audio |
-|--------|------|-------|--------------|-------|
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | **C**, **D**, **F#**, **G#**, **C** | ![CNaturalDadic](ModeCNaturalDadic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDadic.mid?raw=true) | 
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | **C**, **E**, **F#**, **A#**, **C** | ![CNaturalStathic](ModeCNaturalStathic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalStathic.mid?raw=true) | 
+| Number | Mode | Luminosity | Notes | Illustration | Audio |
+|--------|------|------------|-------|--------------|-------|
+| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | -1 | **C**, **D**, **F#**, **G#**, **C** | ![CNaturalDadic](ModeCNaturalDadic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDadic.mid?raw=true) | 
+| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | -1 | **C**, **E**, **F#**, **A#**, **C** | ![CNaturalStathic](ModeCNaturalStathic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalStathic.mid?raw=true) | 

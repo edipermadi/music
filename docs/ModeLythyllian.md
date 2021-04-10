@@ -30,7 +30,7 @@ ix⁰, x⁰
 
 ## Perfection Profile
 
-[true true true false true true false true true true]
+true, true, true, false, true, true, false, true, true, true
 
 ## Permutations
 

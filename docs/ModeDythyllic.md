@@ -30,7 +30,7 @@ Ib5, v⁰b3, VII⁺
 
 ## Perfection Profile
 
-[true false false true false false true true]
+true, false, false, true, false, false, true, true
 
 ## Permutations
 

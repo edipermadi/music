@@ -30,7 +30,7 @@ II⁺, IV, vi⁰, vii⁰b3
 
 ## Perfection Profile
 
-[false true false true true false false]
+false, true, false, true, true, false, false
 
 ## Permutations
 

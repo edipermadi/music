@@ -15,10 +15,10 @@
 
 - 0 Perfect Pitch
 - 6 Imperfect Pitch
-- [false false false false false false] Perfection Profile
+Perfection Profile - false, false, false, false, false, false
 
 ## Modes
 
-| Number | Mode | Notes | Illustration | Audio |
-|--------|------|-------|--------------|-------|
-| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | **C**, **D**, **E**, **F#**, **G#**, **A#**, **C** | ![CNaturalWholeTone](ModeCNaturalWholeTone.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalWholeTone.mid?raw=true) | 
+| Number | Mode | Luminosity | Notes | Illustration | Audio |
+|--------|------|------------|-------|--------------|-------|
+| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | -1 | **C**, **D**, **E**, **F#**, **G#**, **A#**, **C** | ![CNaturalWholeTone](ModeCNaturalWholeTone.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalWholeTone.mid?raw=true) | 

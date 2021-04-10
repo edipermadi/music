@@ -15,10 +15,10 @@
 
 - 0 Perfect Pitch
 - 3 Imperfect Pitch
-- [false false false] Perfection Profile
+Perfection Profile - false, false, false
 
 ## Modes
 
-| Number | Mode | Notes | Illustration | Audio |
-|--------|------|-------|--------------|-------|
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | **C**, **E**, **G#**, **C** | ![CNaturalMinoric](ModeCNaturalMinoric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMinoric.mid?raw=true) | 
+| Number | Mode | Luminosity | Notes | Illustration | Audio |
+|--------|------|------------|-------|--------------|-------|
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | **C**, **E**, **G#**, **C** | ![CNaturalMinoric](ModeCNaturalMinoric.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMinoric.mid?raw=true) | 

@@ -15,10 +15,10 @@
 
 - 0 Perfect Pitch
 - 4 Imperfect Pitch
-- [false false false false] Perfection Profile
+Perfection Profile - false, false, false, false
 
 ## Modes
 
-| Number | Mode | Notes | Illustration | Audio |
-|--------|------|-------|--------------|-------|
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | **C**, **D#**, **F#**, **A**, **C** | ![CNaturalPhrynic](ModeCNaturalPhrynic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPhrynic.mid?raw=true) | 
+| Number | Mode | Luminosity | Notes | Illustration | Audio |
+|--------|------|------------|-------|--------------|-------|
+| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | **C**, **D#**, **F#**, **A**, **C** | ![CNaturalPhrynic](ModeCNaturalPhrynic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPhrynic.mid?raw=true) | 
