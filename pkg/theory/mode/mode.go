@@ -98,6 +98,17 @@ func (m Mode) Scale() scale.Scale {
 	return computedScale
 }
 
+// Luminosity returns mode luminosity, -1 when tonic does not have sibling fifth
+func (m Mode) Luminosity() int {
+	for idx, currentNote := range m.Notes().CircleOfFifth().Notes() {
+		if currentNote.Equal(m.Tonic()) {
+			return m.Cardinality() - idx
+		}
+	}
+
+	return -1
+}
+
 // AllModes returns all modes
 func AllModes() Modes {
 	return allModes

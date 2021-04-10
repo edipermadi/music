@@ -1,9 +1,11 @@
 package note
 
+import "fmt"
+
 // CircleOfFifth represents circle of fifth, true when the note is used by a scale
 type CircleOfFifth map[Note]bool
 
-var circleOfFifthNotes = []Note{
+var circleOfFifthNotes = Notes{
 	CNatural, GNatural, DNatural, ANatural, ENatural, BNatural, GFlat, DFlat, AFlat, EFlat, BFlat, FNatural,
 }
 
@@ -29,12 +31,26 @@ func (c CircleOfFifth) Contains(givenNote Note) bool {
 
 // HasLeftSibling returns true when previous fifth is in the circle of fifth
 func (c CircleOfFifth) HasLeftSibling(givenNote Note) bool {
-	return c.Contains(givenNote.PreviousFifth())
+	target := givenNote.PreviousFifth()
+	for currentNote, active := range c {
+		if currentNote.Equal(target) {
+			return active
+		}
+	}
+
+	panic(fmt.Errorf("invalid note %s", givenNote))
 }
 
 // HasRightSibling returns true when next fifth is in the circle of fifth
 func (c CircleOfFifth) HasRightSibling(givenNote Note) bool {
-	return c.Contains(givenNote.NextFifth())
+	target := givenNote.NextFifth()
+	for currentNote, active := range c {
+		if currentNote.Equal(target) {
+			return active
+		}
+	}
+
+	panic(fmt.Errorf("invalid note %s", givenNote))
 }
 
 // HasSibling returns true when next or previous fifth is in the circle of fifth
@@ -71,26 +87,37 @@ func (c CircleOfFifth) Rightmost() Note {
 // Notes return notes sorted clockwise
 func (c CircleOfFifth) Notes() Notes {
 	notes := make(Notes, 0)
-	for currentNote := range c {
-		if c.HasSibling(currentNote) {
+	processedNotes := make(map[Note]struct{})
+	for currentNote, active := range c {
+		if active && c.HasSibling(currentNote) {
 			notes = append(notes, currentNote)
 		}
 	}
 
-	lastNote := Invalid
 	sortedNotes := make(Notes, 0)
 	if len(notes) == 0 {
 		return sortedNotes
 	}
 
-	for count := 0; count < len(notes); {
+	var iteration int
+	maxIteration := 2 * len(notes)
+	lastNote := Invalid
+	for count := 0; count < len(notes) && iteration < maxIteration; iteration++ {
 		for _, currentNote := range notes {
-			if lastNote.Equal(Invalid) && c.Leftmost().Equal(currentNote) {
+			if _, processed := processedNotes[currentNote]; processed {
+				continue
+			}
+
+			var found bool
+			if lastNote == Invalid && c.Leftmost().Equal(currentNote) {
+				found = true
+			} else if lastNote != Invalid && lastNote.NextFifth().Equal(currentNote) {
+				found = true
+			}
+
+			if found {
 				sortedNotes = append(sortedNotes, currentNote)
-				lastNote = currentNote
-				count++
-			} else if !lastNote.Equal(Invalid) && lastNote.NextFifth().Equal(currentNote) {
-				sortedNotes = append(sortedNotes, currentNote)
+				processedNotes[currentNote] = struct{}{}
 				lastNote = currentNote
 				count++
 			}

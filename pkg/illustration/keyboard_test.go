@@ -13,7 +13,9 @@ import (
 
 func TestKeyboard_Draw(t *testing.T) {
 	testOutDir := os.Getenv("TEST_OUT_DIR")
-	require.NotEmpty(t, testOutDir)
+	if testOutDir == "" {
+		t.Skip("TEST_OUT_DIR is empty")
+	}
 
 	template := fmt.Sprintf("test_%s", time.Now().Format("20060102_150405"))
 	for _, givenPitch := range pitch.SimplePianoPitches(37) {
