@@ -12,7 +12,9 @@ import (
 
 func TestMarshallToMIDI(t *testing.T) {
 	testOutDir := os.Getenv("TEST_OUT_DIR")
-	require.NotEmpty(t, testOutDir)
+	if testOutDir == "" {
+		t.Skip("TEST_OUT_DIR is empty")
+	}
 
 	file, err := os.Create(fmt.Sprintf("%s/output.mid", testOutDir))
 	require.NoError(t, err)

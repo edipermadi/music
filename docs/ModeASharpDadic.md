@@ -7,13 +7,21 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Stathic](ScaleStathic.md)
 
 ## Mode
 
-[ASharpDadic](ModeASharpDadic.md)
+[Dadic](ModeDadic.md)
+
+## Number
+
+325
+
+## Luminosity
+
+-1
 
 ## Tonic
 
@@ -21,7 +29,7 @@ A#
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ A#
  - 0 Perfect Notes
 
  - 4 Imperfect Notes
+
+ - Perfection Profile - false, false, false, false
 
 ## Notes
 
@@ -56,24 +66,16 @@ A#
 | ![ASharpDadic](CircleOfFifthModeASharpDadic.svg) | ![ASharpDadic](ChromaticCircleModeASharpDadic.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | A# | A#, C, E, F#, A# | ![ASharpDadic](ModeASharpDadic.png) |
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | Bb | Bb, C, E, Gb, Bb | ![BFlatDadic](ModeBFlatDadic.png) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | C | C, E, F#, A#, C | ![CNaturalStathic](ModeCNaturalStathic.png) |
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | E | E, F#, A#, C, E | ![ENaturalDadic](ModeENaturalDadic.png) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | F# | F#, A#, C, E, F# | ![FSharpStathic](ModeFSharpStathic.png) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | Gb | Gb, Bb, C, E, Gb | ![GFlatStathic](ModeGFlatStathic.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | -1 | A# | A#, C, E, F#, A# | ![ASharpDadic](ModeASharpDadic.png) |
+| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | -1 | C | C, E, F#, A#, C | ![CNaturalStathic](ModeCNaturalStathic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | A# | A#, C, E, F#, A# | ![ASharpDadic](CircleOfFifthModeASharpDadic.svg) | ![ASharpDadic](ChromaticCircleModeASharpDadic.svg) |
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | Bb | Bb, C, E, Gb, Bb | ![BFlatDadic](CircleOfFifthModeBFlatDadic.svg) | ![BFlatDadic](ChromaticCircleModeBFlatDadic.svg) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | C | C, E, F#, A#, C | ![CNaturalStathic](CircleOfFifthModeCNaturalStathic.svg) | ![CNaturalStathic](ChromaticCircleModeCNaturalStathic.svg) |
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | E | E, F#, A#, C, E | ![ENaturalDadic](CircleOfFifthModeENaturalDadic.svg) | ![ENaturalDadic](ChromaticCircleModeENaturalDadic.svg) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | F# | F#, A#, C, E, F# | ![FSharpStathic](CircleOfFifthModeFSharpStathic.svg) | ![FSharpStathic](ChromaticCircleModeFSharpStathic.svg) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | Gb | Gb, Bb, C, E, Gb | ![GFlatStathic](CircleOfFifthModeGFlatStathic.svg) | ![GFlatStathic](ChromaticCircleModeGFlatStathic.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | -1 | A# | A#, C, E, F#, A# | ![ASharpDadic](CircleOfFifthModeASharpDadic.svg) | ![ASharpDadic](ChromaticCircleModeASharpDadic.svg) |
+| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | -1 | C | C, E, F#, A#, C | ![CNaturalStathic](CircleOfFifthModeCNaturalStathic.svg) | ![CNaturalStathic](ChromaticCircleModeCNaturalStathic.svg) |
 
 ## Chords
 

@@ -7,13 +7,21 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Minoric](ScaleMinoric.md)
 
 ## Mode
 
-[CNaturalMinoric](ModeCNaturalMinoric.md)
+[Minoric](ModeMinoric.md)
+
+## Number
+
+273
+
+## Luminosity
+
+-1
 
 ## Tonic
 
@@ -21,7 +29,7 @@ C
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ I⁺, II⁺, III⁺
  - 0 Perfect Notes
 
  - 3 Imperfect Notes
+
+ - Perfection Profile - false, false, false
 
 ## Notes
 
@@ -55,20 +65,14 @@ I⁺, II⁺, III⁺
 | ![CNaturalMinoric](CircleOfFifthModeCNaturalMinoric.svg) | ![CNaturalMinoric](ChromaticCircleModeCNaturalMinoric.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | C | C, E, G#, C | ![CNaturalMinoric](ModeCNaturalMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | E | E, G#, C, E | ![ENaturalMinoric](ModeENaturalMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | G# | G#, C, E, G# | ![GSharpMinoric](ModeGSharpMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Ab | Ab, C, E, Ab | ![AFlatMinoric](ModeAFlatMinoric.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | C | C, E, G#, C | ![CNaturalMinoric](ModeCNaturalMinoric.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | C | C, E, G#, C | ![CNaturalMinoric](CircleOfFifthModeCNaturalMinoric.svg) | ![CNaturalMinoric](ChromaticCircleModeCNaturalMinoric.svg) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | E | E, G#, C, E | ![ENaturalMinoric](CircleOfFifthModeENaturalMinoric.svg) | ![ENaturalMinoric](ChromaticCircleModeENaturalMinoric.svg) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | G# | G#, C, E, G# | ![GSharpMinoric](CircleOfFifthModeGSharpMinoric.svg) | ![GSharpMinoric](ChromaticCircleModeGSharpMinoric.svg) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Ab | Ab, C, E, Ab | ![AFlatMinoric](CircleOfFifthModeAFlatMinoric.svg) | ![AFlatMinoric](ChromaticCircleModeAFlatMinoric.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | C | C, E, G#, C | ![CNaturalMinoric](CircleOfFifthModeCNaturalMinoric.svg) | ![CNaturalMinoric](ChromaticCircleModeCNaturalMinoric.svg) |
 
 ## Chords
 

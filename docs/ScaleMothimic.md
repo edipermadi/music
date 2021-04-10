@@ -15,15 +15,15 @@
 
 - 3 Perfect Pitch
 - 3 Imperfect Pitch
-- [true false true false true false] Perfection Profile
+Perfection Profile - true, false, true, false, true, false
 
 ## Modes
 
-| Number | Mode | Notes | Illustration | Audio |
-|--------|------|-------|--------------|-------|
-| [821](https://ianring.com/musictheory/scales/821) | [Aeranimic](ModeAeranimic.md) | **C**, D, **E**, F, **G#**, A, **C** | ![CNaturalAeranimic](ModeCNaturalAeranimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAeranimic.mid?raw=true) | 
-| [851](https://ianring.com/musictheory/scales/851) | [Aerylimic](ModeAerylimic.md) | **C**, Db, **E**, F#, **G#**, A, **C** | ![CNaturalAerylimic](ModeCNaturalAerylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAerylimic.mid?raw=true) | 
-| [1229](https://ianring.com/musictheory/scales/1229) | [Ragimic](ModeRagimic.md) | C, **D**, Eb, **F#**, G, **A#**, C | ![CNaturalRagimic](ModeCNaturalRagimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalRagimic.mid?raw=true) | 
-| [1331](https://ianring.com/musictheory/scales/1331) | [Dolimic](ModeDolimic.md) | **C**, Db, **E**, F, **G#**, A#, **C** | ![CNaturalDolimic](ModeCNaturalDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDolimic.mid?raw=true) | 
-| [2473](https://ianring.com/musictheory/scales/2473) | [Mothimic](ModeMothimic.md) | C, **D#**, E#, **F##**, G#, **A##**, C | ![CNaturalMothimic](ModeCNaturalMothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMothimic.mid?raw=true) | 
-| [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModePorimic.md) | C, **D#**, E, **F##**, G##, **A##**, C | ![CNaturalPorimic](ModeCNaturalPorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPorimic.mid?raw=true) | 
+| Number | Mode | Luminosity | Notes | Illustration | Audio |
+|--------|------|------------|-------|--------------|-------|
+| [821](https://ianring.com/musictheory/scales/821) | [Aeranimic](ModeAeranimic.md) | 5 | **C**, D, **E**, F, **G#**, A, **C** | ![CNaturalAeranimic](ModeCNaturalAeranimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAeranimic.mid?raw=true) | 
+| [851](https://ianring.com/musictheory/scales/851) | [Aerylimic](ModeAerylimic.md) | -1 | **C**, Db, **E**, F#, **G#**, A, **C** | ![CNaturalAerylimic](ModeCNaturalAerylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAerylimic.mid?raw=true) | 
+| [1229](https://ianring.com/musictheory/scales/1229) | [Ragimic](ModeRagimic.md) | 6 | C, **D**, Eb, **F#**, G, **A#**, C | ![CNaturalRagimic](ModeCNaturalRagimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalRagimic.mid?raw=true) | 
+| [1331](https://ianring.com/musictheory/scales/1331) | [Dolimic](ModeDolimic.md) | 4 | **C**, Db, **E**, F, **G#**, A#, **C** | ![CNaturalDolimic](ModeCNaturalDolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalDolimic.mid?raw=true) | 
+| [2473](https://ianring.com/musictheory/scales/2473) | [Mothimic](ModeMothimic.md) | 5 | C, **D#**, E#, **F##**, G#, **A##**, C | ![CNaturalMothimic](ModeCNaturalMothimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMothimic.mid?raw=true) | 
+| [2713](https://ianring.com/musictheory/scales/2713) | [Porimic](ModePorimic.md) | -1 | C, **D#**, E, **F##**, G##, **A##**, C | ![CNaturalPorimic](ModeCNaturalPorimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalPorimic.mid?raw=true) | 

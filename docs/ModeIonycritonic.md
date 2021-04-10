@@ -15,6 +15,10 @@
 
 [709](https://ianring.com/musictheory/scales/709)
 
+## Luminosity
+
+5
+
 ## Transposition
 
 2, 4, 1, 2, 3
@@ -30,7 +34,7 @@
 
 ## Perfection Profile
 
-[true true false true false]
+true, true, false, true, false
 
 ## Permutations
 

@@ -15,6 +15,10 @@
 
 [1327](https://ianring.com/musictheory/scales/1327)
 
+## Luminosity
+
+2
+
 ## Transposition
 
 1, 1, 1, 2, 3, 2, 2
@@ -30,7 +34,7 @@ VIb5
 
 ## Perfection Profile
 
-[false true false true true true true]
+false, true, false, true, true, true, true
 
 ## Permutations
 

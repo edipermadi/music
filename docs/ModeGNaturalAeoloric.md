@@ -7,13 +7,21 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Aeoloric](ScaleAeoloric.md)
 
 ## Mode
 
-[GNaturalAeoloric](ModeGNaturalAeoloric.md)
+[Aeoloric](ModeAeoloric.md)
+
+## Number
+
+785
+
+## Luminosity
+
+-1
 
 ## Tonic
 
@@ -21,7 +29,7 @@ G
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ G
  - 1 Perfect Notes
 
  - 3 Imperfect Notes
+
+ - Perfection Profile - false, false, false, true
 
 ## Notes
 
@@ -56,22 +66,20 @@ G
 | ![GNaturalAeoloric](CircleOfFifthModeGNaturalAeoloric.svg) | ![GNaturalAeoloric](ChromaticCircleModeGNaturalAeoloric.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | G | G, B, D#, E, G | ![GNaturalAeoloric](ModeGNaturalAeoloric.png) |
-| [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | B | B, D#, E, G, B | ![BNaturalGonic](ModeBNaturalGonic.png) |
-| [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | D# | D#, E, G, B, D# | ![DSharpDalic](ModeDSharpDalic.png) |
-| [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | Eb | Eb, E, G, B, Eb | ![EFlatDalic](ModeEFlatDalic.png) |
-| [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | E | E, G, B, D#, E | ![ENaturalDygic](ModeENaturalDygic.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | -1 | G | G, B, D#, E, G | ![GNaturalAeoloric](ModeGNaturalAeoloric.png) |
+| [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | 3 | B | B, D#, E, G, B | ![BNaturalGonic](ModeBNaturalGonic.png) |
+| [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | -1 | D# | D#, E, G, B, D# | ![DSharpDalic](ModeDSharpDalic.png) |
+| [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | 4 | E | E, G, B, D#, E | ![ENaturalDygic](ModeENaturalDygic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | G | G, B, D#, E, G | ![GNaturalAeoloric](CircleOfFifthModeGNaturalAeoloric.svg) | ![GNaturalAeoloric](ChromaticCircleModeGNaturalAeoloric.svg) |
-| [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | B | B, D#, E, G, B | ![BNaturalGonic](CircleOfFifthModeBNaturalGonic.svg) | ![BNaturalGonic](ChromaticCircleModeBNaturalGonic.svg) |
-| [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | D# | D#, E, G, B, D# | ![DSharpDalic](CircleOfFifthModeDSharpDalic.svg) | ![DSharpDalic](ChromaticCircleModeDSharpDalic.svg) |
-| [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | Eb | Eb, E, G, B, Eb | ![EFlatDalic](CircleOfFifthModeEFlatDalic.svg) | ![EFlatDalic](ChromaticCircleModeEFlatDalic.svg) |
-| [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | E | E, G, B, D#, E | ![ENaturalDygic](CircleOfFifthModeENaturalDygic.svg) | ![ENaturalDygic](ChromaticCircleModeENaturalDygic.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | -1 | G | G, B, D#, E, G | ![GNaturalAeoloric](CircleOfFifthModeGNaturalAeoloric.svg) | ![GNaturalAeoloric](ChromaticCircleModeGNaturalAeoloric.svg) |
+| [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | 3 | B | B, D#, E, G, B | ![BNaturalGonic](CircleOfFifthModeBNaturalGonic.svg) | ![BNaturalGonic](ChromaticCircleModeBNaturalGonic.svg) |
+| [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | -1 | D# | D#, E, G, B, D# | ![DSharpDalic](CircleOfFifthModeDSharpDalic.svg) | ![DSharpDalic](ChromaticCircleModeDSharpDalic.svg) |
+| [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | 4 | E | E, G, B, D#, E | ![ENaturalDygic](CircleOfFifthModeENaturalDygic.svg) | ![ENaturalDygic](ChromaticCircleModeENaturalDygic.svg) |
 
 ## Chords
 

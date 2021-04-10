@@ -7,13 +7,21 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Thonimic](ScaleThonimic.md)
 
 ## Mode
 
-[BFlatThonimic](ModeBFlatThonimic.md)
+[Thonimic](ModeThonimic.md)
+
+## Number
+
+3185
+
+## Luminosity
+
+-1
 
 ## Tonic
 
@@ -21,7 +29,7 @@ Bb
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ Bb
  - 4 Perfect Notes
 
  - 2 Imperfect Notes
+
+ - Perfection Profile - false, true, true, false, true, true
 
 ## Notes
 
@@ -58,30 +68,18 @@ Bb
 | ![BFlatThonimic](CircleOfFifthModeBFlatThonimic.svg) | ![BFlatThonimic](ChromaticCircleModeBFlatThonimic.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [3185](https://ianring.com/musictheory/scales/3185) | [Thonimic](ModeThonimic.md) | A# | A#, B###, C###, D##, F###, G##, A# | ![ASharpThonimic](ModeASharpThonimic.png) |
-| [3185](https://ianring.com/musictheory/scales/3185) | [Thonimic](ModeThonimic.md) | Bb | Bb, C##, D#, E, F###, G##, Bb | ![BFlatThonimic](ModeBFlatThonimic.png) |
-| [455](https://ianring.com/musictheory/scales/455) | [Stadimic](ModeStadimic.md) | D | D, Eb, Fb, G#, A, Bb, D | ![DNaturalStadimic](ModeDNaturalStadimic.png) |
-| [2275](https://ianring.com/musictheory/scales/2275) | [Thodimic](ModeThodimic.md) | D# | D#, E, F###, G##, A#, B###, D# | ![DSharpThodimic](ModeDSharpThodimic.png) |
-| [2275](https://ianring.com/musictheory/scales/2275) | [Thodimic](ModeThodimic.md) | Eb | Eb, Fb, G#, A, Bb, C##, Eb | ![EFlatThodimic](ModeEFlatThodimic.png) |
-| [3185](https://ianring.com/musictheory/scales/3185) | [Thonimic](ModeThonimic.md) | E | E, F###, G##, A#, B###, C###, E | ![ENaturalThonimic](ModeENaturalThonimic.png) |
-| [455](https://ianring.com/musictheory/scales/455) | [Stadimic](ModeStadimic.md) | G# | G#, A, Bb, C##, D#, E, G# | ![GSharpStadimic](ModeGSharpStadimic.png) |
-| [455](https://ianring.com/musictheory/scales/455) | [Stadimic](ModeStadimic.md) | Ab | Ab, Bbb, Cbb, D, Eb, Fb, Ab | ![AFlatStadimic](ModeAFlatStadimic.png) |
-| [2275](https://ianring.com/musictheory/scales/2275) | [Thodimic](ModeThodimic.md) | A | A, Bb, C##, D#, E, F###, A | ![ANaturalThodimic](ModeANaturalThodimic.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [3185](https://ianring.com/musictheory/scales/3185) | [Thonimic](ModeThonimic.md) | -1 | A# | A#, B###, C###, D##, F###, G##, A# | ![ASharpThonimic](ModeASharpThonimic.png) |
+| [455](https://ianring.com/musictheory/scales/455) | [Stadimic](ModeStadimic.md) | 6 | D | D, Eb, Fb, G#, A, Bb, D | ![DNaturalStadimic](ModeDNaturalStadimic.png) |
+| [2275](https://ianring.com/musictheory/scales/2275) | [Thodimic](ModeThodimic.md) | -1 | D# | D#, E, F###, G##, A#, B###, D# | ![DSharpThodimic](ModeDSharpThodimic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [3185](https://ianring.com/musictheory/scales/3185) | [Thonimic](ModeThonimic.md) | A# | A#, B###, C###, D##, F###, G##, A# | ![ASharpThonimic](CircleOfFifthModeASharpThonimic.svg) | ![ASharpThonimic](ChromaticCircleModeASharpThonimic.svg) |
-| [3185](https://ianring.com/musictheory/scales/3185) | [Thonimic](ModeThonimic.md) | Bb | Bb, C##, D#, E, F###, G##, Bb | ![BFlatThonimic](CircleOfFifthModeBFlatThonimic.svg) | ![BFlatThonimic](ChromaticCircleModeBFlatThonimic.svg) |
-| [455](https://ianring.com/musictheory/scales/455) | [Stadimic](ModeStadimic.md) | D | D, Eb, Fb, G#, A, Bb, D | ![DNaturalStadimic](CircleOfFifthModeDNaturalStadimic.svg) | ![DNaturalStadimic](ChromaticCircleModeDNaturalStadimic.svg) |
-| [2275](https://ianring.com/musictheory/scales/2275) | [Thodimic](ModeThodimic.md) | D# | D#, E, F###, G##, A#, B###, D# | ![DSharpThodimic](CircleOfFifthModeDSharpThodimic.svg) | ![DSharpThodimic](ChromaticCircleModeDSharpThodimic.svg) |
-| [2275](https://ianring.com/musictheory/scales/2275) | [Thodimic](ModeThodimic.md) | Eb | Eb, Fb, G#, A, Bb, C##, Eb | ![EFlatThodimic](CircleOfFifthModeEFlatThodimic.svg) | ![EFlatThodimic](ChromaticCircleModeEFlatThodimic.svg) |
-| [3185](https://ianring.com/musictheory/scales/3185) | [Thonimic](ModeThonimic.md) | E | E, F###, G##, A#, B###, C###, E | ![ENaturalThonimic](CircleOfFifthModeENaturalThonimic.svg) | ![ENaturalThonimic](ChromaticCircleModeENaturalThonimic.svg) |
-| [455](https://ianring.com/musictheory/scales/455) | [Stadimic](ModeStadimic.md) | G# | G#, A, Bb, C##, D#, E, G# | ![GSharpStadimic](CircleOfFifthModeGSharpStadimic.svg) | ![GSharpStadimic](ChromaticCircleModeGSharpStadimic.svg) |
-| [455](https://ianring.com/musictheory/scales/455) | [Stadimic](ModeStadimic.md) | Ab | Ab, Bbb, Cbb, D, Eb, Fb, Ab | ![AFlatStadimic](CircleOfFifthModeAFlatStadimic.svg) | ![AFlatStadimic](ChromaticCircleModeAFlatStadimic.svg) |
-| [2275](https://ianring.com/musictheory/scales/2275) | [Thodimic](ModeThodimic.md) | A | A, Bb, C##, D#, E, F###, A | ![ANaturalThodimic](CircleOfFifthModeANaturalThodimic.svg) | ![ANaturalThodimic](ChromaticCircleModeANaturalThodimic.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [3185](https://ianring.com/musictheory/scales/3185) | [Thonimic](ModeThonimic.md) | -1 | A# | A#, B###, C###, D##, F###, G##, A# | ![ASharpThonimic](CircleOfFifthModeASharpThonimic.svg) | ![ASharpThonimic](ChromaticCircleModeASharpThonimic.svg) |
+| [455](https://ianring.com/musictheory/scales/455) | [Stadimic](ModeStadimic.md) | -1 | D | D, Eb, Fb, G#, A, Bb, D | ![DNaturalStadimic](CircleOfFifthModeDNaturalStadimic.svg) | ![DNaturalStadimic](ChromaticCircleModeDNaturalStadimic.svg) |
+| [2275](https://ianring.com/musictheory/scales/2275) | [Thodimic](ModeThodimic.md) | -1 | D# | D#, E, F###, G##, A#, B###, D# | ![DSharpThodimic](CircleOfFifthModeDSharpThodimic.svg) | ![DSharpThodimic](ChromaticCircleModeDSharpThodimic.svg) |
 
 ## Chords
 

@@ -7,13 +7,21 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Zolitonic](ScaleZolitonic.md)
 
 ## Mode
 
-[GNaturalLanitonic](ModeGNaturalLanitonic.md)
+[Lanitonic](ModeLanitonic.md)
+
+## Number
+
+1123
+
+## Luminosity
+
+-1
 
 ## Tonic
 
@@ -21,7 +29,7 @@ G
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ G
  - 3 Perfect Notes
 
  - 2 Imperfect Notes
+
+ - Perfection Profile - false, false, true, true, true
 
 ## Notes
 
@@ -57,26 +67,22 @@ G
 | ![GNaturalLanitonic](CircleOfFifthModeGNaturalLanitonic.svg) | ![GNaturalLanitonic](ChromaticCircleModeGNaturalLanitonic.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [1123](https://ianring.com/musictheory/scales/1123) | [Lanitonic](ModeLanitonic.md) | G | G, G#, C, C#, F, G | ![GNaturalLanitonic](ModeGNaturalLanitonic.png) |
-| [2609](https://ianring.com/musictheory/scales/2609) | [Paptitonic](ModePaptitonic.md) | G# | G#, C, C#, F, G, G# | ![GSharpPaptitonic](ModeGSharpPaptitonic.png) |
-| [2609](https://ianring.com/musictheory/scales/2609) | [Paptitonic](ModePaptitonic.md) | Ab | Ab, C, Db, F, G, Ab | ![AFlatPaptitonic](ModeAFlatPaptitonic.png) |
-| [419](https://ianring.com/musictheory/scales/419) | [Ionacritonic](ModeIonacritonic.md) | C | C, C#, F, G, G#, C | ![CNaturalIonacritonic](ModeCNaturalIonacritonic.png) |
-| [2257](https://ianring.com/musictheory/scales/2257) | [Zolitonic](ModeZolitonic.md) | C# | C#, F, G, G#, C, C# | ![CSharpZolitonic](ModeCSharpZolitonic.png) |
-| [2257](https://ianring.com/musictheory/scales/2257) | [Zolitonic](ModeZolitonic.md) | Db | Db, F, G, Ab, C, Db | ![DFlatZolitonic](ModeDFlatZolitonic.png) |
-| [397](https://ianring.com/musictheory/scales/397) | [Epogitonic](ModeEpogitonic.md) | F | F, G, G#, C, C#, F | ![FNaturalEpogitonic](ModeFNaturalEpogitonic.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [1123](https://ianring.com/musictheory/scales/1123) | [Lanitonic](ModeLanitonic.md) | -1 | G | G, G#, C, C#, F, G | ![GNaturalLanitonic](ModeGNaturalLanitonic.png) |
+| [2609](https://ianring.com/musictheory/scales/2609) | [Paptitonic](ModePaptitonic.md) | 4 | G# | G#, C, C#, F, G, G# | ![GSharpPaptitonic](ModeGSharpPaptitonic.png) |
+| [419](https://ianring.com/musictheory/scales/419) | [Ionacritonic](ModeIonacritonic.md) | 4 | C | C, C#, F, G, G#, C | ![CNaturalIonacritonic](ModeCNaturalIonacritonic.png) |
+| [2257](https://ianring.com/musictheory/scales/2257) | [Zolitonic](ModeZolitonic.md) | -1 | C# | C#, F, G, G#, C, C# | ![CSharpZolitonic](ModeCSharpZolitonic.png) |
+| [397](https://ianring.com/musictheory/scales/397) | [Epogitonic](ModeEpogitonic.md) | -1 | F | F, G, G#, C, C#, F | ![FNaturalEpogitonic](ModeFNaturalEpogitonic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [1123](https://ianring.com/musictheory/scales/1123) | [Lanitonic](ModeLanitonic.md) | G | G, G#, C, C#, F, G | ![GNaturalLanitonic](CircleOfFifthModeGNaturalLanitonic.svg) | ![GNaturalLanitonic](ChromaticCircleModeGNaturalLanitonic.svg) |
-| [2609](https://ianring.com/musictheory/scales/2609) | [Paptitonic](ModePaptitonic.md) | G# | G#, C, C#, F, G, G# | ![GSharpPaptitonic](CircleOfFifthModeGSharpPaptitonic.svg) | ![GSharpPaptitonic](ChromaticCircleModeGSharpPaptitonic.svg) |
-| [2609](https://ianring.com/musictheory/scales/2609) | [Paptitonic](ModePaptitonic.md) | Ab | Ab, C, Db, F, G, Ab | ![AFlatPaptitonic](CircleOfFifthModeAFlatPaptitonic.svg) | ![AFlatPaptitonic](ChromaticCircleModeAFlatPaptitonic.svg) |
-| [419](https://ianring.com/musictheory/scales/419) | [Ionacritonic](ModeIonacritonic.md) | C | C, C#, F, G, G#, C | ![CNaturalIonacritonic](CircleOfFifthModeCNaturalIonacritonic.svg) | ![CNaturalIonacritonic](ChromaticCircleModeCNaturalIonacritonic.svg) |
-| [2257](https://ianring.com/musictheory/scales/2257) | [Zolitonic](ModeZolitonic.md) | C# | C#, F, G, G#, C, C# | ![CSharpZolitonic](CircleOfFifthModeCSharpZolitonic.svg) | ![CSharpZolitonic](ChromaticCircleModeCSharpZolitonic.svg) |
-| [2257](https://ianring.com/musictheory/scales/2257) | [Zolitonic](ModeZolitonic.md) | Db | Db, F, G, Ab, C, Db | ![DFlatZolitonic](CircleOfFifthModeDFlatZolitonic.svg) | ![DFlatZolitonic](ChromaticCircleModeDFlatZolitonic.svg) |
-| [397](https://ianring.com/musictheory/scales/397) | [Epogitonic](ModeEpogitonic.md) | F | F, G, G#, C, C#, F | ![FNaturalEpogitonic](CircleOfFifthModeFNaturalEpogitonic.svg) | ![FNaturalEpogitonic](ChromaticCircleModeFNaturalEpogitonic.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [1123](https://ianring.com/musictheory/scales/1123) | [Lanitonic](ModeLanitonic.md) | -1 | G | G, G#, C, C#, F, G | ![GNaturalLanitonic](CircleOfFifthModeGNaturalLanitonic.svg) | ![GNaturalLanitonic](ChromaticCircleModeGNaturalLanitonic.svg) |
+| [2609](https://ianring.com/musictheory/scales/2609) | [Paptitonic](ModePaptitonic.md) | 4 | G# | G#, C, C#, F, G, G# | ![GSharpPaptitonic](CircleOfFifthModeGSharpPaptitonic.svg) | ![GSharpPaptitonic](ChromaticCircleModeGSharpPaptitonic.svg) |
+| [419](https://ianring.com/musictheory/scales/419) | [Ionacritonic](ModeIonacritonic.md) | -1 | C | C, C#, F, G, G#, C | ![CNaturalIonacritonic](CircleOfFifthModeCNaturalIonacritonic.svg) | ![CNaturalIonacritonic](ChromaticCircleModeCNaturalIonacritonic.svg) |
+| [2257](https://ianring.com/musictheory/scales/2257) | [Zolitonic](ModeZolitonic.md) | -1 | C# | C#, F, G, G#, C, C# | ![CSharpZolitonic](CircleOfFifthModeCSharpZolitonic.svg) | ![CSharpZolitonic](ChromaticCircleModeCSharpZolitonic.svg) |
+| [397](https://ianring.com/musictheory/scales/397) | [Epogitonic](ModeEpogitonic.md) | -1 | F | F, G, G#, C, C#, F | ![FNaturalEpogitonic](CircleOfFifthModeFNaturalEpogitonic.svg) | ![FNaturalEpogitonic](ChromaticCircleModeFNaturalEpogitonic.svg) |
 
 ## Chords
 

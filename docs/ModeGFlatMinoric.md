@@ -7,13 +7,21 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Minoric](ScaleMinoric.md)
 
 ## Mode
 
-[GFlatMinoric](ModeGFlatMinoric.md)
+[Minoric](ModeMinoric.md)
+
+## Number
+
+273
+
+## Luminosity
+
+-1
 
 ## Tonic
 
@@ -21,7 +29,7 @@ Gb
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ I⁺, II⁺, III⁺
  - 0 Perfect Notes
 
  - 3 Imperfect Notes
+
+ - Perfection Profile - false, false, false
 
 ## Notes
 
@@ -55,22 +65,14 @@ I⁺, II⁺, III⁺
 | ![GFlatMinoric](CircleOfFifthModeGFlatMinoric.svg) | ![GFlatMinoric](ChromaticCircleModeGFlatMinoric.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | F# | F#, A#, D, F# | ![FSharpMinoric](ModeFSharpMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Gb | Gb, Bb, D, Gb | ![GFlatMinoric](ModeGFlatMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | A# | A#, D, F#, A# | ![ASharpMinoric](ModeASharpMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Bb | Bb, D, Gb, Bb | ![BFlatMinoric](ModeBFlatMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | D | D, F#, A#, D | ![DNaturalMinoric](ModeDNaturalMinoric.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | F# | F#, A#, D, F# | ![FSharpMinoric](ModeFSharpMinoric.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | F# | F#, A#, D, F# | ![FSharpMinoric](CircleOfFifthModeFSharpMinoric.svg) | ![FSharpMinoric](ChromaticCircleModeFSharpMinoric.svg) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Gb | Gb, Bb, D, Gb | ![GFlatMinoric](CircleOfFifthModeGFlatMinoric.svg) | ![GFlatMinoric](ChromaticCircleModeGFlatMinoric.svg) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | A# | A#, D, F#, A# | ![ASharpMinoric](CircleOfFifthModeASharpMinoric.svg) | ![ASharpMinoric](ChromaticCircleModeASharpMinoric.svg) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Bb | Bb, D, Gb, Bb | ![BFlatMinoric](CircleOfFifthModeBFlatMinoric.svg) | ![BFlatMinoric](ChromaticCircleModeBFlatMinoric.svg) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | D | D, F#, A#, D | ![DNaturalMinoric](CircleOfFifthModeDNaturalMinoric.svg) | ![DNaturalMinoric](ChromaticCircleModeDNaturalMinoric.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | F# | F#, A#, D, F# | ![FSharpMinoric](CircleOfFifthModeFSharpMinoric.svg) | ![FSharpMinoric](ChromaticCircleModeFSharpMinoric.svg) |
 
 ## Chords
 

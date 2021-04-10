@@ -7,13 +7,21 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Pothyllic](ScalePothyllic.md)
 
 ## Mode
 
-[GSharpRythyllic](ModeGSharpRythyllic.md)
+[Rythyllic](ModeRythyllic.md)
+
+## Number
+
+3027
+
+## Luminosity
+
+8
 
 ## Tonic
 
@@ -21,7 +29,7 @@ G#
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ I, vii
  - 6 Perfect Notes
 
  - 2 Imperfect Notes
+
+ - Perfection Profile - true, true, true, true, false, false, true, true
 
 ## Notes
 
@@ -60,32 +70,28 @@ I, vii
 | ![GSharpRythyllic](CircleOfFifthModeGSharpRythyllic.svg) | ![GSharpRythyllic](ChromaticCircleModeGSharpRythyllic.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [3027](https://ianring.com/musictheory/scales/3027) | [Rythyllic](ModeRythyllic.md) | G# | G#, A, C, D, D#, E, F, G, G# | ![GSharpRythyllic](ModeGSharpRythyllic.png) |
-| [3027](https://ianring.com/musictheory/scales/3027) | [Rythyllic](ModeRythyllic.md) | Ab | Ab, A, C, D, Eb, E, F, G, Ab | ![AFlatRythyllic](ModeAFlatRythyllic.png) |
-| [3561](https://ianring.com/musictheory/scales/3561) | [Pothyllic](ModePothyllic.md) | A | A, C, D, D#, E, F, G, G#, A | ![ANaturalPothyllic](ModeANaturalPothyllic.png) |
-| [957](https://ianring.com/musictheory/scales/957) | [Phronyllic](ModePhronyllic.md) | C | C, D, D#, E, F, G, G#, A, C | ![CNaturalPhronyllic](ModeCNaturalPhronyllic.png) |
-| [1263](https://ianring.com/musictheory/scales/1263) | [Stynyllic](ModeStynyllic.md) | D | D, D#, E, F, G, G#, A, C, D | ![DNaturalStynyllic](ModeDNaturalStynyllic.png) |
-| [2679](https://ianring.com/musictheory/scales/2679) | [Rathyllic](ModeRathyllic.md) | D# | D#, E, F, G, G#, A, C, D, D# | ![DSharpRathyllic](ModeDSharpRathyllic.png) |
-| [2679](https://ianring.com/musictheory/scales/2679) | [Rathyllic](ModeRathyllic.md) | Eb | Eb, E, F, G, Ab, A, C, D, Eb | ![EFlatRathyllic](ModeEFlatRathyllic.png) |
-| [3387](https://ianring.com/musictheory/scales/3387) | [Aeryptyllic](ModeAeryptyllic.md) | E | E, F, G, G#, A, C, D, D#, E | ![ENaturalAeryptyllic](ModeENaturalAeryptyllic.png) |
-| [3741](https://ianring.com/musictheory/scales/3741) | [Zydyllic](ModeZydyllic.md) | F | F, G, G#, A, C, D, D#, E, F | ![FNaturalZydyllic](ModeFNaturalZydyllic.png) |
-| [1959](https://ianring.com/musictheory/scales/1959) | [Katolyllic](ModeKatolyllic.md) | G | G, G#, A, C, D, D#, E, F, G | ![GNaturalKatolyllic](ModeGNaturalKatolyllic.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [3027](https://ianring.com/musictheory/scales/3027) | [Rythyllic](ModeRythyllic.md) | 8 | G# | G#, A, C, D, D#, E, F, G, G# | ![GSharpRythyllic](ModeGSharpRythyllic.png) |
+| [3561](https://ianring.com/musictheory/scales/3561) | [Pothyllic](ModePothyllic.md) | -1 | A | A, C, D, D#, E, F, G, G#, A | ![ANaturalPothyllic](ModeANaturalPothyllic.png) |
+| [957](https://ianring.com/musictheory/scales/957) | [Phronyllic](ModePhronyllic.md) | 7 | C | C, D, D#, E, F, G, G#, A, C | ![CNaturalPhronyllic](ModeCNaturalPhronyllic.png) |
+| [1263](https://ianring.com/musictheory/scales/1263) | [Stynyllic](ModeStynyllic.md) | -1 | D | D, D#, E, F, G, G#, A, C, D | ![DNaturalStynyllic](ModeDNaturalStynyllic.png) |
+| [2679](https://ianring.com/musictheory/scales/2679) | [Rathyllic](ModeRathyllic.md) | 7 | D# | D#, E, F, G, G#, A, C, D, D# | ![DSharpRathyllic](ModeDSharpRathyllic.png) |
+| [3387](https://ianring.com/musictheory/scales/3387) | [Aeryptyllic](ModeAeryptyllic.md) | -1 | E | E, F, G, G#, A, C, D, D#, E | ![ENaturalAeryptyllic](ModeENaturalAeryptyllic.png) |
+| [3741](https://ianring.com/musictheory/scales/3741) | [Zydyllic](ModeZydyllic.md) | -1 | F | F, G, G#, A, C, D, D#, E, F | ![FNaturalZydyllic](ModeFNaturalZydyllic.png) |
+| [1959](https://ianring.com/musictheory/scales/1959) | [Katolyllic](ModeKatolyllic.md) | -1 | G | G, G#, A, C, D, D#, E, F, G | ![GNaturalKatolyllic](ModeGNaturalKatolyllic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [3027](https://ianring.com/musictheory/scales/3027) | [Rythyllic](ModeRythyllic.md) | G# | G#, A, C, D, D#, E, F, G, G# | ![GSharpRythyllic](CircleOfFifthModeGSharpRythyllic.svg) | ![GSharpRythyllic](ChromaticCircleModeGSharpRythyllic.svg) |
-| [3027](https://ianring.com/musictheory/scales/3027) | [Rythyllic](ModeRythyllic.md) | Ab | Ab, A, C, D, Eb, E, F, G, Ab | ![AFlatRythyllic](CircleOfFifthModeAFlatRythyllic.svg) | ![AFlatRythyllic](ChromaticCircleModeAFlatRythyllic.svg) |
-| [3561](https://ianring.com/musictheory/scales/3561) | [Pothyllic](ModePothyllic.md) | A | A, C, D, D#, E, F, G, G#, A | ![ANaturalPothyllic](CircleOfFifthModeANaturalPothyllic.svg) | ![ANaturalPothyllic](ChromaticCircleModeANaturalPothyllic.svg) |
-| [957](https://ianring.com/musictheory/scales/957) | [Phronyllic](ModePhronyllic.md) | C | C, D, D#, E, F, G, G#, A, C | ![CNaturalPhronyllic](CircleOfFifthModeCNaturalPhronyllic.svg) | ![CNaturalPhronyllic](ChromaticCircleModeCNaturalPhronyllic.svg) |
-| [1263](https://ianring.com/musictheory/scales/1263) | [Stynyllic](ModeStynyllic.md) | D | D, D#, E, F, G, G#, A, C, D | ![DNaturalStynyllic](CircleOfFifthModeDNaturalStynyllic.svg) | ![DNaturalStynyllic](ChromaticCircleModeDNaturalStynyllic.svg) |
-| [2679](https://ianring.com/musictheory/scales/2679) | [Rathyllic](ModeRathyllic.md) | D# | D#, E, F, G, G#, A, C, D, D# | ![DSharpRathyllic](CircleOfFifthModeDSharpRathyllic.svg) | ![DSharpRathyllic](ChromaticCircleModeDSharpRathyllic.svg) |
-| [2679](https://ianring.com/musictheory/scales/2679) | [Rathyllic](ModeRathyllic.md) | Eb | Eb, E, F, G, Ab, A, C, D, Eb | ![EFlatRathyllic](CircleOfFifthModeEFlatRathyllic.svg) | ![EFlatRathyllic](ChromaticCircleModeEFlatRathyllic.svg) |
-| [3387](https://ianring.com/musictheory/scales/3387) | [Aeryptyllic](ModeAeryptyllic.md) | E | E, F, G, G#, A, C, D, D#, E | ![ENaturalAeryptyllic](CircleOfFifthModeENaturalAeryptyllic.svg) | ![ENaturalAeryptyllic](ChromaticCircleModeENaturalAeryptyllic.svg) |
-| [3741](https://ianring.com/musictheory/scales/3741) | [Zydyllic](ModeZydyllic.md) | F | F, G, G#, A, C, D, D#, E, F | ![FNaturalZydyllic](CircleOfFifthModeFNaturalZydyllic.svg) | ![FNaturalZydyllic](ChromaticCircleModeFNaturalZydyllic.svg) |
-| [1959](https://ianring.com/musictheory/scales/1959) | [Katolyllic](ModeKatolyllic.md) | G | G, G#, A, C, D, D#, E, F, G | ![GNaturalKatolyllic](CircleOfFifthModeGNaturalKatolyllic.svg) | ![GNaturalKatolyllic](ChromaticCircleModeGNaturalKatolyllic.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [3027](https://ianring.com/musictheory/scales/3027) | [Rythyllic](ModeRythyllic.md) | 8 | G# | G#, A, C, D, D#, E, F, G, G# | ![GSharpRythyllic](CircleOfFifthModeGSharpRythyllic.svg) | ![GSharpRythyllic](ChromaticCircleModeGSharpRythyllic.svg) |
+| [3561](https://ianring.com/musictheory/scales/3561) | [Pothyllic](ModePothyllic.md) | -1 | A | A, C, D, D#, E, F, G, G#, A | ![ANaturalPothyllic](CircleOfFifthModeANaturalPothyllic.svg) | ![ANaturalPothyllic](ChromaticCircleModeANaturalPothyllic.svg) |
+| [957](https://ianring.com/musictheory/scales/957) | [Phronyllic](ModePhronyllic.md) | -1 | C | C, D, D#, E, F, G, G#, A, C | ![CNaturalPhronyllic](CircleOfFifthModeCNaturalPhronyllic.svg) | ![CNaturalPhronyllic](ChromaticCircleModeCNaturalPhronyllic.svg) |
+| [1263](https://ianring.com/musictheory/scales/1263) | [Stynyllic](ModeStynyllic.md) | 5 | D | D, D#, E, F, G, G#, A, C, D | ![DNaturalStynyllic](CircleOfFifthModeDNaturalStynyllic.svg) | ![DNaturalStynyllic](ChromaticCircleModeDNaturalStynyllic.svg) |
+| [2679](https://ianring.com/musictheory/scales/2679) | [Rathyllic](ModeRathyllic.md) | -1 | D# | D#, E, F, G, G#, A, C, D, D# | ![DSharpRathyllic](CircleOfFifthModeDSharpRathyllic.svg) | ![DSharpRathyllic](ChromaticCircleModeDSharpRathyllic.svg) |
+| [3387](https://ianring.com/musictheory/scales/3387) | [Aeryptyllic](ModeAeryptyllic.md) | -1 | E | E, F, G, G#, A, C, D, D#, E | ![ENaturalAeryptyllic](CircleOfFifthModeENaturalAeryptyllic.svg) | ![ENaturalAeryptyllic](ChromaticCircleModeENaturalAeryptyllic.svg) |
+| [3741](https://ianring.com/musictheory/scales/3741) | [Zydyllic](ModeZydyllic.md) | -1 | F | F, G, G#, A, C, D, D#, E, F | ![FNaturalZydyllic](CircleOfFifthModeFNaturalZydyllic.svg) | ![FNaturalZydyllic](ChromaticCircleModeFNaturalZydyllic.svg) |
+| [1959](https://ianring.com/musictheory/scales/1959) | [Katolyllic](ModeKatolyllic.md) | -1 | G | G, G#, A, C, D, D#, E, F, G | ![GNaturalKatolyllic](CircleOfFifthModeGNaturalKatolyllic.svg) | ![GNaturalKatolyllic](ChromaticCircleModeGNaturalKatolyllic.svg) |
 
 ## Chords
 

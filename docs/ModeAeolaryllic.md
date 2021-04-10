@@ -15,6 +15,10 @@
 
 [2525](https://ianring.com/musictheory/scales/2525)
 
+## Luminosity
+
+8
+
 ## Transposition
 
 2, 1, 1, 2, 1, 1, 3, 1
@@ -30,7 +34,7 @@ i⁰, iv, v⁰b3, VI, VII
 
 ## Perfection Profile
 
-[true false false true false true true true]
+true, false, false, true, false, true, true, true
 
 ## Permutations
 
