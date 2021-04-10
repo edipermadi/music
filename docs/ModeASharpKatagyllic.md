@@ -73,13 +73,10 @@ iii⁰b3, iv, V, VI, vii⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2749](https://ianring.com/musictheory/scales/2749) | [Katagyllic](ModeKatagyllic.md) | 7 | A# | A#, C, C#, D, D#, F, G, A, A# | ![ASharpKatagyllic](ModeASharpKatagyllic.png) |
-| [2749](https://ianring.com/musictheory/scales/2749) | [Katagyllic](ModeKatagyllic.md) | 7 | Bb | Bb, C, Db, D, Eb, F, G, A, Bb | ![BFlatKatagyllic](ModeBFlatKatagyllic.png) |
 | [1711](https://ianring.com/musictheory/scales/1711) | [Ragyllic](ModeRagyllic.md) | 5 | C | C, C#, D, D#, F, G, A, A#, C | ![CNaturalRagyllic](ModeCNaturalRagyllic.png) |
 | [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeGothyllic.md) | -1 | C# | C#, D, D#, F, G, A, A#, C, C# | ![CSharpGothyllic](ModeCSharpGothyllic.png) |
-| [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeGothyllic.md) | -1 | Db | Db, D, Eb, F, G, A, Bb, C, Db | ![DFlatGothyllic](ModeDFlatGothyllic.png) |
 | [3499](https://ianring.com/musictheory/scales/3499) | [Lythyllic](ModeLythyllic.md) | 3 | D | D, D#, F, G, A, A#, C, C#, D | ![DNaturalLythyllic](ModeDNaturalLythyllic.png) |
 | [3797](https://ianring.com/musictheory/scales/3797) | [Rocryllic](ModeRocryllic.md) | 8 | D# | D#, F, G, A, A#, C, C#, D, D# | ![DSharpRocryllic](ModeDSharpRocryllic.png) |
-| [3797](https://ianring.com/musictheory/scales/3797) | [Rocryllic](ModeRocryllic.md) | 8 | Eb | Eb, F, G, A, Bb, C, Db, D, Eb | ![EFlatRocryllic](ModeEFlatRocryllic.png) |
 | [1973](https://ianring.com/musictheory/scales/1973) | [Zyryllic](ModeZyryllic.md) | 6 | F | F, G, A, A#, C, C#, D, D#, F | ![FNaturalZyryllic](ModeFNaturalZyryllic.png) |
 | [1517](https://ianring.com/musictheory/scales/1517) | [Sagyllic](ModeSagyllic.md) | 4 | G | G, A, A#, C, C#, D, D#, F, G | ![GNaturalSagyllic](ModeGNaturalSagyllic.png) |
 | [1403](https://ianring.com/musictheory/scales/1403) | [Epinyllic](ModeEpinyllic.md) | 2 | A | A, A#, C, C#, D, D#, F, G, A | ![ANaturalEpinyllic](ModeANaturalEpinyllic.png) |

@@ -71,7 +71,6 @@ Vb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | -1 | D# | D#, E, F, G##, A##, B###, D# | ![DSharpAeolaptimic](ModeDSharpAeolaptimic.png) |
-| [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | -1 | Eb | Eb, Fb, Gbb, A, B, C##, Eb | ![EFlatAeolaptimic](ModeEFlatAeolaptimic.png) |
 | [3235](https://ianring.com/musictheory/scales/3235) | [Pothimic](ModePothimic.md) | 4 | E | E, F, G##, A##, B###, C###, E | ![ENaturalPothimic](ModeENaturalPothimic.png) |
 | [3665](https://ianring.com/musictheory/scales/3665) | [Stalimic](ModeStalimic.md) | -1 | F | F, G##, A##, B###, C###, D##, F | ![FNaturalStalimic](ModeFNaturalStalimic.png) |
 | [485](https://ianring.com/musictheory/scales/485) | [Stoptimic](ModeStoptimic.md) | 5 | A | A, B, C##, D#, E, F, A | ![ANaturalStoptimic](ModeANaturalStoptimic.png) |

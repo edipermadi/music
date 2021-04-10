@@ -69,9 +69,7 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | -1 | F# | F#, A#, D, F, F# | ![FSharpZyphic](ModeFSharpZyphic.png) |
-| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | -1 | Gb | Gb, Bb, D, F, Gb | ![GFlatZyphic](ModeGFlatZyphic.png) |
 | [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | 4 | A# | A#, D, F, F#, A# | ![ASharpEpogic](ModeASharpEpogic.png) |
-| [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | 4 | Bb | Bb, D, F, Gb, Bb | ![BFlatEpogic](ModeBFlatEpogic.png) |
 | [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | -1 | D | D, F, F#, A#, D | ![DNaturalLanic](ModeDNaturalLanic.png) |
 | [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | 3 | F | F, F#, A#, D, F | ![FNaturalPyrric](ModeFNaturalPyrric.png) |
 ## Relative Brightness

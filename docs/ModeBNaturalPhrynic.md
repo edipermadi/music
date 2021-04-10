@@ -69,10 +69,6 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | B | B, D, F, G#, B | ![BNaturalPhrynic](ModeBNaturalPhrynic.png) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | D | D, F, G#, B, D | ![DNaturalPhrynic](ModeDNaturalPhrynic.png) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | F | F, G#, B, D, F | ![FNaturalPhrynic](ModeFNaturalPhrynic.png) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | G# | G#, B, D, F, G# | ![GSharpPhrynic](ModeGSharpPhrynic.png) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | Ab | Ab, B, D, F, Ab | ![AFlatPhrynic](ModeAFlatPhrynic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

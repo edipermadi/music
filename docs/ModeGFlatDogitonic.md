@@ -21,7 +21,7 @@
 
 ## Luminosity
 
-4
+-1
 
 ## Tonic
 
@@ -70,20 +70,18 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [809](https://ianring.com/musictheory/scales/809) | [Dogitonic](ModeDogitonic.md) | -1 | F# | F#, A, B, D, D#, F# | ![FSharpDogitonic](ModeFSharpDogitonic.png) |
-| [809](https://ianring.com/musictheory/scales/809) | [Dogitonic](ModeDogitonic.md) | -1 | Gb | Gb, A, B, D, Eb, Gb | ![GFlatDogitonic](ModeGFlatDogitonic.png) |
-| [613](https://ianring.com/musictheory/scales/613) | [Phralitonic](ModePhralitonic.md) | 4 | A | A, B, D, D#, F#, A | ![ANaturalPhralitonic](ModeANaturalPhralitonic.png) |
-| [1177](https://ianring.com/musictheory/scales/1177) | [Garitonic](ModeGaritonic.md) | 5 | B | B, D, D#, F#, A, B | ![BNaturalGaritonic](ModeBNaturalGaritonic.png) |
+| [613](https://ianring.com/musictheory/scales/613) | [Phralitonic](ModePhralitonic.md) | -1 | A | A, B, D, D#, F#, A | ![ANaturalPhralitonic](ModeANaturalPhralitonic.png) |
+| [1177](https://ianring.com/musictheory/scales/1177) | [Garitonic](ModeGaritonic.md) | -1 | B | B, D, D#, F#, A, B | ![BNaturalGaritonic](ModeBNaturalGaritonic.png) |
 | [659](https://ianring.com/musictheory/scales/659) | [Soptitonic](ModeSoptitonic.md) | 5 | D | D, D#, F#, A, B, D | ![DNaturalSoptitonic](ModeDNaturalSoptitonic.png) |
 | [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | -1 | D# | D#, F#, A, B, D, D# | ![DSharpThoditonic](ModeDSharpThoditonic.png) |
-| [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | -1 | Eb | Eb, Gb, A, B, D, Eb | ![EFlatThoditonic](ModeEFlatThoditonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [809](https://ianring.com/musictheory/scales/809) | [Dogitonic](ModeDogitonic.md) | -1 | F# | F#, A, B, D, D#, F# | ![FSharpDogitonic](CircleOfFifthModeFSharpDogitonic.svg) | ![FSharpDogitonic](ChromaticCircleModeFSharpDogitonic.svg) |
 | [809](https://ianring.com/musictheory/scales/809) | [Dogitonic](ModeDogitonic.md) | -1 | Gb | Gb, A, B, D, Eb, Gb | ![GFlatDogitonic](CircleOfFifthModeGFlatDogitonic.svg) | ![GFlatDogitonic](ChromaticCircleModeGFlatDogitonic.svg) |
-| [613](https://ianring.com/musictheory/scales/613) | [Phralitonic](ModePhralitonic.md) | 4 | A | A, B, D, D#, F#, A | ![ANaturalPhralitonic](CircleOfFifthModeANaturalPhralitonic.svg) | ![ANaturalPhralitonic](ChromaticCircleModeANaturalPhralitonic.svg) |
-| [1177](https://ianring.com/musictheory/scales/1177) | [Garitonic](ModeGaritonic.md) | 5 | B | B, D, D#, F#, A, B | ![BNaturalGaritonic](CircleOfFifthModeBNaturalGaritonic.svg) | ![BNaturalGaritonic](ChromaticCircleModeBNaturalGaritonic.svg) |
+| [613](https://ianring.com/musictheory/scales/613) | [Phralitonic](ModePhralitonic.md) | -1 | A | A, B, D, D#, F#, A | ![ANaturalPhralitonic](CircleOfFifthModeANaturalPhralitonic.svg) | ![ANaturalPhralitonic](ChromaticCircleModeANaturalPhralitonic.svg) |
+| [1177](https://ianring.com/musictheory/scales/1177) | [Garitonic](ModeGaritonic.md) | -1 | B | B, D, D#, F#, A, B | ![BNaturalGaritonic](CircleOfFifthModeBNaturalGaritonic.svg) | ![BNaturalGaritonic](ChromaticCircleModeBNaturalGaritonic.svg) |
 | [659](https://ianring.com/musictheory/scales/659) | [Soptitonic](ModeSoptitonic.md) | 5 | D | D, D#, F#, A, B, D | ![DNaturalSoptitonic](CircleOfFifthModeDNaturalSoptitonic.svg) | ![DNaturalSoptitonic](ChromaticCircleModeDNaturalSoptitonic.svg) |
 | [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | -1 | D# | D#, F#, A, B, D, D# | ![DSharpThoditonic](CircleOfFifthModeDSharpThoditonic.svg) | ![DSharpThoditonic](ChromaticCircleModeDSharpThoditonic.svg) |
 | [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | -1 | Eb | Eb, Gb, A, B, D, Eb | ![EFlatThoditonic](CircleOfFifthModeEFlatThoditonic.svg) | ![EFlatThoditonic](ChromaticCircleModeEFlatThoditonic.svg) |

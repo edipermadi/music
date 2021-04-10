@@ -21,7 +21,7 @@
 
 ## Luminosity
 
-6
+-1
 
 ## Tonic
 
@@ -70,9 +70,8 @@ II⁺, iii⁰, IV⁺, VI⁺
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [2761](https://ianring.com/musictheory/scales/2761) | [Dagimic](ModeDagimic.md) | 6 | F | F, G#, A##, B#, C##, D##, F | ![FNaturalDagimic](ModeFNaturalDagimic.png) |
+| [2761](https://ianring.com/musictheory/scales/2761) | [Dagimic](ModeDagimic.md) | -1 | F | F, G#, A##, B#, C##, D##, F | ![FNaturalDagimic](ModeFNaturalDagimic.png) |
 | [857](https://ianring.com/musictheory/scales/857) | [Aeolydimic](ModeAeolydimic.md) | -1 | G# | G#, A##, B#, C##, D##, E#, G# | ![GSharpAeolydimic](ModeGSharpAeolydimic.png) |
-| [857](https://ianring.com/musictheory/scales/857) | [Aeolydimic](ModeAeolydimic.md) | -1 | Ab | Ab, B, C, D, E, F, Ab | ![AFlatAeolydimic](ModeAFlatAeolydimic.png) |
 | [619](https://ianring.com/musictheory/scales/619) | [Parimic](ModeParimic.md) | 5 | B | B, C, D, E, F, G#, B | ![BNaturalParimic](ModeBNaturalParimic.png) |
 | [2357](https://ianring.com/musictheory/scales/2357) | [Ionaptimic](ModeIonaptimic.md) | 5 | C | C, D, E, F, G#, A##, C | ![CNaturalIonaptimic](ModeCNaturalIonaptimic.png) |
 | [1613](https://ianring.com/musictheory/scales/1613) | [Thylimic](ModeThylimic.md) | -1 | D | D, E, F, G#, A##, B#, D | ![DNaturalThylimic](ModeDNaturalThylimic.png) |

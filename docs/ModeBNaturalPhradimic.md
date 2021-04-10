@@ -72,7 +72,6 @@ V, VI
 |--------|------|------------|-------|-------|--------------|
 | [1325](https://ianring.com/musictheory/scales/1325) | [Phradimic](ModePhradimic.md) | 2 | B | B, C#, D, E, F##, G##, B | ![BNaturalPhradimic](ModeBNaturalPhradimic.png) |
 | [1355](https://ianring.com/musictheory/scales/1355) | [Aeolorimic](ModeAeolorimic.md) | -1 | C# | C#, D, E, F##, G##, A##, C# | ![CSharpAeolorimic](ModeCSharpAeolorimic.png) |
-| [1355](https://ianring.com/musictheory/scales/1355) | [Aeolorimic](ModeAeolorimic.md) | -1 | Db | Db, Ebb, Fb, G, A, B, Db | ![DFlatAeolorimic](ModeDFlatAeolorimic.png) |
 | [2725](https://ianring.com/musictheory/scales/2725) | [Gonimic](ModeGonimic.md) | 5 | D | D, E, F##, G##, A##, B##, D | ![DNaturalGonimic](ModeDNaturalGonimic.png) |
 | [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeDarmic.md) | 3 | E | E, F##, G##, A##, B##, C##, E | ![ENaturalDarmic](ModeENaturalDarmic.png) |
 | [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeLonimic.md) | 6 | G | G, A, B, C#, D, E, G | ![GNaturalLonimic](ModeGNaturalLonimic.png) |

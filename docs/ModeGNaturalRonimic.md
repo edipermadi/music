@@ -76,7 +76,6 @@ I, ii⁰
 | [2701](https://ianring.com/musictheory/scales/2701) | [Epythimic](ModeEpythimic.md) | 6 | C | C, D, Eb, F##, G##, A##, C | ![CNaturalEpythimic](ModeCNaturalEpythimic.png) |
 | [1699](https://ianring.com/musictheory/scales/1699) | [Kaptimic](ModeKaptimic.md) | 4 | D | D, Eb, F##, G##, A##, B#, D | ![DNaturalKaptimic](ModeDNaturalKaptimic.png) |
 | [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeRycrimic.md) | -1 | D# | D#, E###, Cbbb, Dbbb, Dbb, Ebb, D# | ![DSharpRycrimic](ModeDSharpRycrimic.png) |
-| [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeRycrimic.md) | -1 | Eb | Eb, F##, G##, A##, B#, C##, Eb | ![EFlatRycrimic](ModeEFlatRycrimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

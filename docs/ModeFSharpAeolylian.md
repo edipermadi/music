@@ -72,7 +72,6 @@ vii⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | 2 | F# | F#, G, A, B, C##, D##, E#, F# | ![FSharpAeolylian](ModeFSharpAeolylian.png) |
-| [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | 2 | Gb | Gb, Abb, Bbb, Cb, D, E, F, Gb | ![GFlatAeolylian](ModeGFlatAeolylian.png) |
 | [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | 7 | G | G, A, B, C##, D##, E#, F#, G | ![GNaturalGycrian](ModeGNaturalGycrian.png) |
 | [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | 5 | A | A, B, C##, D##, E#, F#, G, A | ![ANaturalPyrian](ModeANaturalPyrian.png) |
 | [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | 3 | B | B, C##, D##, E#, F#, G, A, B | ![BNaturalStathian](ModeBNaturalStathian.png) |

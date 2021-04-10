@@ -78,7 +78,6 @@ II, iii⁰, v, VII⁺
 | [2717](https://ianring.com/musictheory/scales/2717) | [Epygian](ModeEpygian.md) | 7 | F | F, G, Ab, Bbb, C, D, E, F | ![FNaturalEpygian](ModeFNaturalEpygian.png) |
 | [1703](https://ianring.com/musictheory/scales/1703) | [Zaptian](ModeZaptian.md) | 5 | G | G, Ab, Bbb, C, D, E, F, G | ![GNaturalZaptian](ModeGNaturalZaptian.png) |
 | [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeKagian.md) | -1 | G# | G#, A, B#, C##, D##, E#, F##, G# | ![GSharpKagian](ModeGSharpKagian.png) |
-| [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeKagian.md) | -1 | Ab | Ab, Bbb, C, D, E, F, G, Ab | ![AFlatKagian](ModeAFlatKagian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

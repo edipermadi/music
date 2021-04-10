@@ -21,7 +21,7 @@
 
 ## Luminosity
 
-6
+-1
 
 ## Tonic
 
@@ -70,22 +70,19 @@ C
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [399](https://ianring.com/musictheory/scales/399) | [Zynimic](ModeZynimic.md) | -1 | C# | C#, D, Eb, Fb, G#, A, C# | ![CSharpZynimic](ModeCSharpZynimic.png) |
-| [399](https://ianring.com/musictheory/scales/399) | [Zynimic](ModeZynimic.md) | -1 | Db | Db, Ebb, Fbb, Gbbb, Ab, Bbb, Db | ![DFlatZynimic](ModeDFlatZynimic.png) |
+| [399](https://ianring.com/musictheory/scales/399) | [Zynimic](ModeZynimic.md) | 6 | C# | C#, D, Eb, Fb, G#, A, C# | ![CSharpZynimic](ModeCSharpZynimic.png) |
 | [2247](https://ianring.com/musictheory/scales/2247) | [Aeolimic](ModeAeolimic.md) | 6 | D | D, Eb, Fb, G#, A, B##, D | ![DNaturalAeolimic](ModeDNaturalAeolimic.png) |
-| [3171](https://ianring.com/musictheory/scales/3171) | [Zythimic](ModeZythimic.md) | -1 | D# | D#, E, F###, G##, Db, Ebb, D# | ![DSharpZythimic](ModeDSharpZythimic.png) |
-| [3171](https://ianring.com/musictheory/scales/3171) | [Zythimic](ModeZythimic.md) | 4 | Eb | Eb, Fb, G#, A, B##, C##, Eb | ![EFlatZythimic](ModeEFlatZythimic.png) |
+| [3171](https://ianring.com/musictheory/scales/3171) | [Zythimic](ModeZythimic.md) | 4 | D# | D#, E, F###, G##, Db, Ebb, D# | ![DSharpZythimic](ModeDSharpZythimic.png) |
 | [3633](https://ianring.com/musictheory/scales/3633) | [Daptimic](ModeDaptimic.md) | 4 | E | E, F###, G##, Db, Ebb, Fbb, E | ![ENaturalDaptimic](ModeENaturalDaptimic.png) |
 | [483](https://ianring.com/musictheory/scales/483) | [Kygimic](ModeKygimic.md) | -1 | G# | G#, A, B##, C##, D#, E, G# | ![GSharpKygimic](ModeGSharpKygimic.png) |
-| [483](https://ianring.com/musictheory/scales/483) | [Kygimic](ModeKygimic.md) | -1 | Ab | Ab, Bbb, C#, D, Eb, Fb, Ab | ![AFlatKygimic](ModeAFlatKygimic.png) |
 | [2289](https://ianring.com/musictheory/scales/2289) | [Mocrimic](ModeMocrimic.md) | 5 | A | A, B##, C##, D#, E, F###, A | ![ANaturalMocrimic](ModeANaturalMocrimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [399](https://ianring.com/musictheory/scales/399) | [Zynimic](ModeZynimic.md) | -1 | C# | C#, D, Eb, Fb, G#, A, C# | ![CSharpZynimic](CircleOfFifthModeCSharpZynimic.svg) | ![CSharpZynimic](ChromaticCircleModeCSharpZynimic.svg) |
-| [399](https://ianring.com/musictheory/scales/399) | [Zynimic](ModeZynimic.md) | 6 | Db | Db, Ebb, Fbb, Gbbb, Ab, Bbb, Db | ![DFlatZynimic](CircleOfFifthModeDFlatZynimic.svg) | ![DFlatZynimic](ChromaticCircleModeDFlatZynimic.svg) |
-| [2247](https://ianring.com/musictheory/scales/2247) | [Aeolimic](ModeAeolimic.md) | 6 | D | D, Eb, Fb, G#, A, B##, D | ![DNaturalAeolimic](CircleOfFifthModeDNaturalAeolimic.svg) | ![DNaturalAeolimic](ChromaticCircleModeDNaturalAeolimic.svg) |
+| [399](https://ianring.com/musictheory/scales/399) | [Zynimic](ModeZynimic.md) | -1 | Db | Db, Ebb, Fbb, Gbbb, Ab, Bbb, Db | ![DFlatZynimic](CircleOfFifthModeDFlatZynimic.svg) | ![DFlatZynimic](ChromaticCircleModeDFlatZynimic.svg) |
+| [2247](https://ianring.com/musictheory/scales/2247) | [Aeolimic](ModeAeolimic.md) | -1 | D | D, Eb, Fb, G#, A, B##, D | ![DNaturalAeolimic](CircleOfFifthModeDNaturalAeolimic.svg) | ![DNaturalAeolimic](ChromaticCircleModeDNaturalAeolimic.svg) |
 | [3171](https://ianring.com/musictheory/scales/3171) | [Zythimic](ModeZythimic.md) | -1 | D# | D#, E, F###, G##, Db, Ebb, D# | ![DSharpZythimic](CircleOfFifthModeDSharpZythimic.svg) | ![DSharpZythimic](ChromaticCircleModeDSharpZythimic.svg) |
 | [3171](https://ianring.com/musictheory/scales/3171) | [Zythimic](ModeZythimic.md) | -1 | Eb | Eb, Fb, G#, A, B##, C##, Eb | ![EFlatZythimic](CircleOfFifthModeEFlatZythimic.svg) | ![EFlatZythimic](ChromaticCircleModeEFlatZythimic.svg) |
 | [3633](https://ianring.com/musictheory/scales/3633) | [Daptimic](ModeDaptimic.md) | -1 | E | E, F###, G##, Db, Ebb, Fbb, E | ![ENaturalDaptimic](CircleOfFifthModeENaturalDaptimic.svg) | ![ENaturalDaptimic](ChromaticCircleModeENaturalDaptimic.svg) |

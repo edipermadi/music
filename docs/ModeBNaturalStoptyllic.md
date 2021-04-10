@@ -75,14 +75,11 @@ I⁺, IIIb5, vii⁰b3
 | [3923](https://ianring.com/musictheory/scales/3923) | [Stoptyllic](ModeStoptyllic.md) | -1 | B | B, C, D#, F, G, G#, A, A#, B | ![BNaturalStoptyllic](ModeBNaturalStoptyllic.png) |
 | [4009](https://ianring.com/musictheory/scales/4009) | [Phranyllic](ModePhranyllic.md) | 4 | C | C, D#, F, G, G#, A, A#, B, C | ![CNaturalPhranyllic](ModeCNaturalPhranyllic.png) |
 | [1013](https://ianring.com/musictheory/scales/1013) | [Stydyllic](ModeStydyllic.md) | 7 | D# | D#, F, G, G#, A, A#, B, C, D# | ![DSharpStydyllic](ModeDSharpStydyllic.png) |
-| [1013](https://ianring.com/musictheory/scales/1013) | [Stydyllic](ModeStydyllic.md) | 7 | Eb | Eb, F, G, Ab, A, Bb, B, C, Eb | ![EFlatStydyllic](ModeEFlatStydyllic.png) |
 | [1277](https://ianring.com/musictheory/scales/1277) | [Zadyllic](ModeZadyllic.md) | 5 | F | F, G, G#, A, A#, B, C, D#, F | ![FNaturalZadyllic](ModeFNaturalZadyllic.png) |
 | [1343](https://ianring.com/musictheory/scales/1343) | [Zalyllic](ModeZalyllic.md) | 3 | G | G, G#, A, A#, B, C, D#, F, G | ![GNaturalZalyllic](ModeGNaturalZalyllic.png) |
 | [2719](https://ianring.com/musictheory/scales/2719) | [Zocryllic](ModeZocryllic.md) | 8 | G# | G#, A, A#, B, C, D#, F, G, G# | ![GSharpZocryllic](ModeGSharpZocryllic.png) |
-| [2719](https://ianring.com/musictheory/scales/2719) | [Zocryllic](ModeZocryllic.md) | 8 | Ab | Ab, A, Bb, B, C, Eb, F, G, Ab | ![AFlatZocryllic](ModeAFlatZocryllic.png) |
 | [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeKatocryllic.md) | -1 | A | A, A#, B, C, D#, F, G, G#, A | ![ANaturalKatocryllic](ModeANaturalKatocryllic.png) |
 | [3751](https://ianring.com/musictheory/scales/3751) | [Aerathyllic](ModeAerathyllic.md) | 6 | A# | A#, B, C, D#, F, G, G#, A, A# | ![ASharpAerathyllic](ModeASharpAerathyllic.png) |
-| [3751](https://ianring.com/musictheory/scales/3751) | [Aerathyllic](ModeAerathyllic.md) | 6 | Bb | Bb, B, C, Eb, F, G, Ab, A, Bb | ![BFlatAerathyllic](ModeBFlatAerathyllic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

@@ -75,9 +75,7 @@ v⁰, vi⁰b3
 | [1861](https://ianring.com/musictheory/scales/1861) | [Phrygimic](ModePhrygimic.md) | -1 | G | G, A, B##, C###, D##, E#, G | ![GNaturalPhrygimic](ModeGNaturalPhrygimic.png) |
 | [1489](https://ianring.com/musictheory/scales/1489) | [Gacrimic](ModeGacrimic.md) | 6 | A | A, B##, C###, D##, E#, F##, A | ![ANaturalGacrimic](ModeANaturalGacrimic.png) |
 | [349](https://ianring.com/musictheory/scales/349) | [Borimic](ModeBorimic.md) | -1 | C# | C#, D#, E, F, G, A, C# | ![CSharpBorimic](ModeCSharpBorimic.png) |
-| [349](https://ianring.com/musictheory/scales/349) | [Borimic](ModeBorimic.md) | -1 | Db | Db, Eb, Fb, Gbb, Abb, Bbb, Db | ![DFlatBorimic](ModeDFlatBorimic.png) |
 | [1111](https://ianring.com/musictheory/scales/1111) | [Sycrimic](ModeSycrimic.md) | -1 | D# | D#, E, F, G, A, B##, D# | ![DSharpSycrimic](ModeDSharpSycrimic.png) |
-| [1111](https://ianring.com/musictheory/scales/1111) | [Sycrimic](ModeSycrimic.md) | -1 | Eb | Eb, Fb, Gbb, Abb, Bbb, C#, Eb | ![EFlatSycrimic](ModeEFlatSycrimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

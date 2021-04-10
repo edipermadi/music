@@ -72,13 +72,10 @@ II, IIIb5
 |--------|------|------------|-------|-------|--------------|
 | [3409](https://ianring.com/musictheory/scales/3409) | [Katanimic](ModeKatanimic.md) | -1 | A | A, B##, C###, D###, E###, F###, A | ![ANaturalKatanimic](ModeANaturalKatanimic.png) |
 | [469](https://ianring.com/musictheory/scales/469) | [Katyrimic](ModeKatyrimic.md) | 6 | C# | C#, D#, E#, F##, G#, A, C# | ![CSharpKatyrimic](ModeCSharpKatyrimic.png) |
-| [469](https://ianring.com/musictheory/scales/469) | [Katyrimic](ModeKatyrimic.md) | 6 | Db | Db, Eb, F, G, Ab, Bbb, Db | ![DFlatKatyrimic](ModeDFlatKatyrimic.png) |
 | [1141](https://ianring.com/musictheory/scales/1141) | [Rynimic](ModeRynimic.md) | 4 | D# | D#, E#, F##, G#, A, B##, D# | ![DSharpRynimic](ModeDSharpRynimic.png) |
-| [1141](https://ianring.com/musictheory/scales/1141) | [Rynimic](ModeRynimic.md) | 4 | Eb | Eb, F, G, Ab, Bbb, C#, Eb | ![EFlatRynimic](ModeEFlatRynimic.png) |
 | [1309](https://ianring.com/musictheory/scales/1309) | [Pogimic](ModePogimic.md) | -1 | F | F, G, Ab, Bbb, C#, D#, F | ![FNaturalPogimic](ModeFNaturalPogimic.png) |
 | [1351](https://ianring.com/musictheory/scales/1351) | [Aeraptimic](ModeAeraptimic.md) | -1 | G | G, Ab, Bbb, C#, D#, E#, G | ![GNaturalAeraptimic](ModeGNaturalAeraptimic.png) |
 | [2723](https://ianring.com/musictheory/scales/2723) | [Epylimic](ModeEpylimic.md) | 5 | G# | G#, A, B##, C###, D###, E###, G# | ![GSharpEpylimic](ModeGSharpEpylimic.png) |
-| [2723](https://ianring.com/musictheory/scales/2723) | [Epylimic](ModeEpylimic.md) | 5 | Ab | Ab, Bbb, C#, D#, E#, F##, Ab | ![AFlatEpylimic](ModeAFlatEpylimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

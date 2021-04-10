@@ -71,11 +71,9 @@ II⁺, IV⁺, VI⁺
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [679](https://ianring.com/musictheory/scales/679) | [Lanimic](ModeLanimic.md) | 5 | A# | A#, B, C, D#, E#, F##, A# | ![ASharpLanimic](ModeASharpLanimic.png) |
-| [679](https://ianring.com/musictheory/scales/679) | [Lanimic](ModeLanimic.md) | 5 | Bb | Bb, Cb, Dbb, Eb, F, G, Bb | ![BFlatLanimic](ModeBFlatLanimic.png) |
 | [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | -1 | B | B, C, D#, E#, F##, G###, B | ![BNaturalPaptimic](ModeBNaturalPaptimic.png) |
 | [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDalimic.md) | 3 | C | C, D#, E#, F##, G###, A##, C | ![CNaturalDalimic](ModeCNaturalDalimic.png) |
 | [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | 6 | D# | D#, E#, F##, G###, A##, B#, D# | ![DSharpDygimic](ModeDSharpDygimic.png) |
-| [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | 6 | Eb | Eb, F, G, A#, B, C, Eb | ![EFlatDygimic](ModeEFlatDygimic.png) |
 | [1253](https://ianring.com/musictheory/scales/1253) | [Zolimic](ModeZolimic.md) | 4 | F | F, G, A#, B, C, D#, F | ![FNaturalZolimic](ModeFNaturalZolimic.png) |
 | [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeEpogimic.md) | 2 | G | G, A#, B, C, D#, E#, G | ![GNaturalEpogimic](ModeGNaturalEpogimic.png) |
 ## Relative Brightness

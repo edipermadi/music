@@ -70,11 +70,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | -1 | F# | F#, G, A, A#, D, F# | ![FSharpAerylitonic](ModeFSharpAerylitonic.png) |
-| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | -1 | Gb | Gb, G, A, Bb, D, Gb | ![GFlatAerylitonic](ModeGFlatAerylitonic.png) |
 | [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | 5 | G | G, A, A#, D, F#, G | ![GNaturalZagitonic](ModeGNaturalZagitonic.png) |
 | [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | 3 | A | A, A#, D, F#, G, A | ![ANaturalLagitonic](ModeANaturalLagitonic.png) |
 | [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | -1 | A# | A#, D, F#, G, A, A# | ![ASharpDolitonic](ModeASharpDolitonic.png) |
-| [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | -1 | Bb | Bb, D, Gb, G, A, Bb | ![BFlatDolitonic](ModeBFlatDolitonic.png) |
 | [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | 4 | D | D, F#, G, A, A#, D | ![DNaturalPoritonic](ModeDNaturalPoritonic.png) |
 ## Relative Brightness
 

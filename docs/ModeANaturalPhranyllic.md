@@ -78,10 +78,8 @@ IIb5, vi⁰b3, VIII⁺
 | [1343](https://ianring.com/musictheory/scales/1343) | [Zalyllic](ModeZalyllic.md) | 3 | E | E, F, F#, G, G#, A, C, D, E | ![ENaturalZalyllic](ModeENaturalZalyllic.png) |
 | [2719](https://ianring.com/musictheory/scales/2719) | [Zocryllic](ModeZocryllic.md) | 8 | F | F, F#, G, G#, A, C, D, E, F | ![FNaturalZocryllic](ModeFNaturalZocryllic.png) |
 | [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeKatocryllic.md) | -1 | F# | F#, G, G#, A, C, D, E, F, F# | ![FSharpKatocryllic](ModeFSharpKatocryllic.png) |
-| [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeKatocryllic.md) | -1 | Gb | Gb, G, Ab, A, C, D, E, F, Gb | ![GFlatKatocryllic](ModeGFlatKatocryllic.png) |
 | [3751](https://ianring.com/musictheory/scales/3751) | [Aerathyllic](ModeAerathyllic.md) | 6 | G | G, G#, A, C, D, E, F, F#, G | ![GNaturalAerathyllic](ModeGNaturalAerathyllic.png) |
 | [3923](https://ianring.com/musictheory/scales/3923) | [Stoptyllic](ModeStoptyllic.md) | -1 | G# | G#, A, C, D, E, F, F#, G, G# | ![GSharpStoptyllic](ModeGSharpStoptyllic.png) |
-| [3923](https://ianring.com/musictheory/scales/3923) | [Stoptyllic](ModeStoptyllic.md) | -1 | Ab | Ab, A, C, D, E, F, Gb, G, Ab | ![AFlatStoptyllic](ModeAFlatStoptyllic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

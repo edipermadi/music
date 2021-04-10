@@ -75,15 +75,11 @@ i, ii⁰, IIIb5, vi⁰b3, vii⁰, VIII
 | [1965](https://ianring.com/musictheory/scales/1965) | [Gadyllic](ModeGadyllic.md) | 4 | F | F, G, G#, A#, C, C#, D, D#, F | ![FNaturalGadyllic](ModeFNaturalGadyllic.png) |
 | [1515](https://ianring.com/musictheory/scales/1515) | [Solyllic](ModeSolyllic.md) | 2 | G | G, G#, A#, C, C#, D, D#, F, G | ![GNaturalSolyllic](ModeGNaturalSolyllic.png) |
 | [2805](https://ianring.com/musictheory/scales/2805) | [Zylyllic](ModeZylyllic.md) | 7 | G# | G#, A#, C, C#, D, D#, F, G, G# | ![GSharpZylyllic](ModeGSharpZylyllic.png) |
-| [2805](https://ianring.com/musictheory/scales/2805) | [Zylyllic](ModeZylyllic.md) | 7 | Ab | Ab, Bb, C, Db, D, Eb, F, G, Ab | ![AFlatZylyllic](ModeAFlatZylyllic.png) |
 | [1725](https://ianring.com/musictheory/scales/1725) | [Mixodyllic](ModeMixodyllic.md) | 5 | A# | A#, C, C#, D, D#, F, G, G#, A# | ![ASharpMixodyllic](ModeASharpMixodyllic.png) |
-| [1725](https://ianring.com/musictheory/scales/1725) | [Mixodyllic](ModeMixodyllic.md) | 5 | Bb | Bb, C, Db, D, Eb, F, G, Ab, Bb | ![BFlatMixodyllic](ModeBFlatMixodyllic.png) |
 | [1455](https://ianring.com/musictheory/scales/1455) | [Soryllic](ModeSoryllic.md) | 3 | C | C, C#, D, D#, F, G, G#, A#, C | ![CNaturalSoryllic](ModeCNaturalSoryllic.png) |
 | [2775](https://ianring.com/musictheory/scales/2775) | [Godyllic](ModeGodyllic.md) | 8 | C# | C#, D, D#, F, G, G#, A#, C, C# | ![CSharpGodyllic](ModeCSharpGodyllic.png) |
-| [2775](https://ianring.com/musictheory/scales/2775) | [Godyllic](ModeGodyllic.md) | 8 | Db | Db, D, Eb, F, G, Ab, Bb, C, Db | ![DFlatGodyllic](ModeDFlatGodyllic.png) |
 | [3435](https://ianring.com/musictheory/scales/3435) | [Epiphyllic](ModeEpiphyllic.md) | 1 | D | D, D#, F, G, G#, A#, C, C#, D | ![DNaturalEpiphyllic](ModeDNaturalEpiphyllic.png) |
 | [3765](https://ianring.com/musictheory/scales/3765) | [Aerycryllic](ModeAerycryllic.md) | 6 | D# | D#, F, G, G#, A#, C, C#, D, D# | ![DSharpAerycryllic](ModeDSharpAerycryllic.png) |
-| [3765](https://ianring.com/musictheory/scales/3765) | [Aerycryllic](ModeAerycryllic.md) | 6 | Eb | Eb, F, G, Ab, Bb, C, Db, D, Eb | ![EFlatAerycryllic](ModeEFlatAerycryllic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

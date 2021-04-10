@@ -72,7 +72,6 @@ I⁺, III, IVb5, vi⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | C# | C#, D, E#, F##, G##, A##, B#, C# | ![CSharpIonathian](ModeCSharpIonathian.png) |
-| [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | Db | Db, Ebb, F, G, A, B, C, Db | ![DFlatIonathian](ModeDFlatIonathian.png) |
 | [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | 4 | D | D, E#, F##, G##, A##, B#, C#, D | ![DNaturalPhraptian](ModeDNaturalPhraptian.png) |
 | [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | 7 | F | F, G, A, B, C, Db, Ebb, F | ![FNaturalBacrian](ModeFNaturalBacrian.png) |
 | [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | 5 | G | G, A, B, C, Db, Ebb, F, G | ![GNaturalKatythian](ModeGNaturalKatythian.png) |

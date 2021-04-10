@@ -75,11 +75,9 @@ C
 | [765](https://ianring.com/musictheory/scales/765) | [Mixonyphyllic](ModeMixonyphyllic.md) | 7 | C | C, D, D#, E, F, F#, G, A, C | ![CNaturalMixonyphyllic](ModeCNaturalMixonyphyllic.png) |
 | [1215](https://ianring.com/musictheory/scales/1215) | [Aeolanyllic](ModeAeolanyllic.md) | 5 | D | D, D#, E, F, F#, G, A, C, D | ![DNaturalAeolanyllic](ModeDNaturalAeolanyllic.png) |
 | [2655](https://ianring.com/musictheory/scales/2655) | [Thocryllic](ModeThocryllic.md) | -1 | D# | D#, E, F, F#, G, A, C, D, D# | ![DSharpThocryllic](ModeDSharpThocryllic.png) |
-| [2655](https://ianring.com/musictheory/scales/2655) | [Thocryllic](ModeThocryllic.md) | -1 | Eb | Eb, E, F, Gb, G, A, C, D, Eb | ![EFlatThocryllic](ModeEFlatThocryllic.png) |
 | [3375](https://ianring.com/musictheory/scales/3375) | [Kygyllic](ModeKygyllic.md) | 3 | E | E, F, F#, G, A, C, D, D#, E | ![ENaturalKygyllic](ModeENaturalKygyllic.png) |
 | [3735](https://ianring.com/musictheory/scales/3735) | [Ionagyllic](ModeIonagyllic.md) | 8 | F | F, F#, G, A, C, D, D#, E, F | ![FNaturalIonagyllic](ModeFNaturalIonagyllic.png) |
 | [3915](https://ianring.com/musictheory/scales/3915) | [Gogyllic](ModeGogyllic.md) | -1 | F# | F#, G, A, C, D, D#, E, F, F# | ![FSharpGogyllic](ModeFSharpGogyllic.png) |
-| [3915](https://ianring.com/musictheory/scales/3915) | [Gogyllic](ModeGogyllic.md) | -1 | Gb | Gb, G, A, C, D, Eb, E, F, Gb | ![GFlatGogyllic](ModeGFlatGogyllic.png) |
 | [4005](https://ianring.com/musictheory/scales/4005) | [Phradyllic](ModePhradyllic.md) | 6 | G | G, A, C, D, D#, E, F, F#, G | ![GNaturalPhradyllic](ModeGNaturalPhradyllic.png) |
 | [2025](https://ianring.com/musictheory/scales/2025) | [Mixolydyllic](ModeMixolydyllic.md) | 4 | A | A, C, D, D#, E, F, F#, G, A | ![ANaturalMixolydyllic](ModeANaturalMixolydyllic.png) |
 ## Relative Brightness

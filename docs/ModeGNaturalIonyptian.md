@@ -76,7 +76,6 @@ Ib5
 | [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | 2 | B | B, C, Db, Ebb, Fb, G, A, B | ![BNaturalZalian](ModeBNaturalZalian.png) |
 | [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | 7 | C | C, Db, Ebb, Fb, G, A, B, C | ![CNaturalStolian](ModeCNaturalStolian.png) |
 | [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | -1 | C# | C#, D, E, F##, G##, A##, B#, C# | ![CSharpBylian](ModeCSharpBylian.png) |
-| [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | -1 | Db | Db, Ebb, Fb, G, A, B, C, Db | ![DFlatBylian](ModeDFlatBylian.png) |
 | [3749](https://ianring.com/musictheory/scales/3749) | [Zothian](ModeZothian.md) | 5 | D | D, E, F##, G##, A##, B#, C#, D | ![DNaturalZothian](ModeDNaturalZothian.png) |
 | [1961](https://ianring.com/musictheory/scales/1961) | [Soptian](ModeSoptian.md) | 3 | E | E, F##, G##, A##, B#, C#, D, E | ![ENaturalSoptian](ModeENaturalSoptian.png) |
 ## Relative Brightness

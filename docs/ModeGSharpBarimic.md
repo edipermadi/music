@@ -71,7 +71,6 @@ i⁰, ii
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [347](https://ianring.com/musictheory/scales/347) | [Barimic](ModeBarimic.md) | -1 | G# | G#, A, B, C, D, E, G# | ![GSharpBarimic](ModeGSharpBarimic.png) |
-| [347](https://ianring.com/musictheory/scales/347) | [Barimic](ModeBarimic.md) | -1 | Ab | Ab, Bbb, Cb, Dbb, Ebb, Fb, Ab | ![AFlatBarimic](ModeAFlatBarimic.png) |
 | [2221](https://ianring.com/musictheory/scales/2221) | [Poptimic](ModePoptimic.md) | 5 | A | A, B, C, D, E, F###, A | ![ANaturalPoptimic](ModeANaturalPoptimic.png) |
 | [1579](https://ianring.com/musictheory/scales/1579) | [Sagimic](ModeSagimic.md) | 3 | B | B, C, D, E, F###, G##, B | ![BNaturalSagimic](ModeBNaturalSagimic.png) |
 | [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeAelothimic.md) | -1 | C | C, D, E, F###, G##, A##, C | ![CNaturalAelothimic](ModeCNaturalAelothimic.png) |

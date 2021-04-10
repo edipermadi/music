@@ -74,7 +74,6 @@ i⁰b3, III⁺, V, VIb5
 | [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeAerygian.md) | -1 | B | B, C, Db, Ebb, F, G, A, B | ![BNaturalAerygian](ModeBNaturalAerygian.png) |
 | [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | 6 | C | C, Db, Ebb, F, G, A, B, C | ![CNaturalPylian](ModeCNaturalPylian.png) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | C# | C#, D, E#, F##, G##, A##, B#, C# | ![CSharpIonathian](ModeCSharpIonathian.png) |
-| [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | Db | Db, Ebb, F, G, A, B, C, Db | ![DFlatIonathian](ModeDFlatIonathian.png) |
 | [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | 4 | D | D, E#, F##, G##, A##, B#, C#, D | ![DNaturalPhraptian](ModeDNaturalPhraptian.png) |
 | [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | 7 | F | F, G, A, B, C, Db, Ebb, F | ![FNaturalBacrian](ModeFNaturalBacrian.png) |
 | [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | 5 | G | G, A, B, C, Db, Ebb, F, G | ![GNaturalKatythian](ModeGNaturalKatythian.png) |

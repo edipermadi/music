@@ -70,9 +70,7 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2633](https://ianring.com/musictheory/scales/2633) | [Mixitonic](ModeMixitonic.md) | -1 | A# | A#, C#, E, G, A, A# | ![ASharpMixitonic](ModeASharpMixitonic.png) |
-| [2633](https://ianring.com/musictheory/scales/2633) | [Mixitonic](ModeMixitonic.md) | -1 | Bb | Bb, Db, E, G, A, Bb | ![BFlatMixitonic](ModeBFlatMixitonic.png) |
 | [841](https://ianring.com/musictheory/scales/841) | [Phrothitonic](ModePhrothitonic.md) | -1 | C# | C#, E, G, A, A#, C# | ![CSharpPhrothitonic](ModeCSharpPhrothitonic.png) |
-| [841](https://ianring.com/musictheory/scales/841) | [Phrothitonic](ModePhrothitonic.md) | -1 | Db | Db, E, G, A, Bb, Db | ![DFlatPhrothitonic](ModeDFlatPhrothitonic.png) |
 | [617](https://ianring.com/musictheory/scales/617) | [Katycritonic](ModeKatycritonic.md) | 4 | E | E, G, A, A#, C#, E | ![ENaturalKatycritonic](ModeENaturalKatycritonic.png) |
 | [589](https://ianring.com/musictheory/scales/589) | [Ionalitonic](ModeIonalitonic.md) | -1 | G | G, A, A#, C#, E, G | ![GNaturalIonalitonic](ModeGNaturalIonalitonic.png) |
 | [1171](https://ianring.com/musictheory/scales/1171) | [Loptitonic](ModeLoptitonic.md) | 5 | A | A, A#, C#, E, G, A | ![ANaturalLoptitonic](ModeANaturalLoptitonic.png) |

@@ -21,7 +21,7 @@
 
 ## Luminosity
 
--1
+4
 
 ## Tonic
 
@@ -70,12 +70,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [689](https://ianring.com/musictheory/scales/689) | [Lothitonic](ModeLothitonic.md) | -1 | D# | D#, G, G#, A#, C, D# | ![DSharpLothitonic](ModeDSharpLothitonic.png) |
-| [689](https://ianring.com/musictheory/scales/689) | [Lothitonic](ModeLothitonic.md) | 4 | Eb | Eb, G, Ab, Bb, C, Eb | ![EFlatLothitonic](ModeEFlatLothitonic.png) |
-| [299](https://ianring.com/musictheory/scales/299) | [Phratonic](ModePhratonic.md) | -1 | G | G, G#, A#, C, D#, G | ![GNaturalPhratonic](ModeGNaturalPhratonic.png) |
+| [299](https://ianring.com/musictheory/scales/299) | [Phratonic](ModePhratonic.md) | 4 | G | G, G#, A#, C, D#, G | ![GNaturalPhratonic](ModeGNaturalPhratonic.png) |
 | [2197](https://ianring.com/musictheory/scales/2197) | [Aerathitonic](ModeAerathitonic.md) | -1 | G# | G#, A#, C, D#, G, G# | ![GSharpAerathitonic](ModeGSharpAerathitonic.png) |
-| [2197](https://ianring.com/musictheory/scales/2197) | [Aerathitonic](ModeAerathitonic.md) | 5 | Ab | Ab, Bb, C, Eb, G, Ab | ![AFlatAerathitonic](ModeAFlatAerathitonic.png) |
 | [1573](https://ianring.com/musictheory/scales/1573) | [Saritonic](ModeSaritonic.md) | -1 | A# | A#, C, D#, G, G#, A# | ![ASharpSaritonic](ModeASharpSaritonic.png) |
-| [1573](https://ianring.com/musictheory/scales/1573) | [Saritonic](ModeSaritonic.md) | 3 | Bb | Bb, C, Eb, G, Ab, Bb | ![BFlatSaritonic](ModeBFlatSaritonic.png) |
 | [1417](https://ianring.com/musictheory/scales/1417) | [Zoptitonic](ModeZoptitonic.md) | -1 | C | C, D#, G, G#, A#, C | ![CNaturalZoptitonic](ModeCNaturalZoptitonic.png) |
 ## Relative Brightness
 

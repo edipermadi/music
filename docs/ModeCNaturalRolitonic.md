@@ -71,7 +71,6 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [2595](https://ianring.com/musictheory/scales/2595) | [Rolitonic](ModeRolitonic.md) | 4 | C | C, C#, F, A, B, C | ![CNaturalRolitonic](ModeCNaturalRolitonic.png) |
 | [3345](https://ianring.com/musictheory/scales/3345) | [Zylitonic](ModeZylitonic.md) | -1 | C# | C#, F, A, B, C, C# | ![CSharpZylitonic](ModeCSharpZylitonic.png) |
-| [3345](https://ianring.com/musictheory/scales/3345) | [Zylitonic](ModeZylitonic.md) | -1 | Db | Db, F, A, B, C, Db | ![DFlatZylitonic](ModeDFlatZylitonic.png) |
 | [465](https://ianring.com/musictheory/scales/465) | [Zoditonic](ModeZoditonic.md) | 5 | F | F, A, B, C, C#, F | ![FNaturalZoditonic](ModeFNaturalZoditonic.png) |
 | [285](https://ianring.com/musictheory/scales/285) | [Zaritonic](ModeZaritonic.md) | -1 | A | A, B, C, C#, F, A | ![ANaturalZaritonic](ModeANaturalZaritonic.png) |
 | [1095](https://ianring.com/musictheory/scales/1095) | [Phrythitonic](ModePhrythitonic.md) | -1 | B | B, C, C#, F, A, B | ![BNaturalPhrythitonic](ModeBNaturalPhrythitonic.png) |

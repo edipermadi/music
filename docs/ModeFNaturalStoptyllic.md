@@ -74,14 +74,11 @@ I⁺, IIIb5, vii⁰b3
 |--------|------|------------|-------|-------|--------------|
 | [3923](https://ianring.com/musictheory/scales/3923) | [Stoptyllic](ModeStoptyllic.md) | -1 | F | F, F#, A, B, C#, D, D#, E, F | ![FNaturalStoptyllic](ModeFNaturalStoptyllic.png) |
 | [4009](https://ianring.com/musictheory/scales/4009) | [Phranyllic](ModePhranyllic.md) | 4 | F# | F#, A, B, C#, D, D#, E, F, F# | ![FSharpPhranyllic](ModeFSharpPhranyllic.png) |
-| [4009](https://ianring.com/musictheory/scales/4009) | [Phranyllic](ModePhranyllic.md) | 4 | Gb | Gb, A, B, Db, D, Eb, E, F, Gb | ![GFlatPhranyllic](ModeGFlatPhranyllic.png) |
 | [1013](https://ianring.com/musictheory/scales/1013) | [Stydyllic](ModeStydyllic.md) | 7 | A | A, B, C#, D, D#, E, F, F#, A | ![ANaturalStydyllic](ModeANaturalStydyllic.png) |
 | [1277](https://ianring.com/musictheory/scales/1277) | [Zadyllic](ModeZadyllic.md) | 5 | B | B, C#, D, D#, E, F, F#, A, B | ![BNaturalZadyllic](ModeBNaturalZadyllic.png) |
 | [1343](https://ianring.com/musictheory/scales/1343) | [Zalyllic](ModeZalyllic.md) | 3 | C# | C#, D, D#, E, F, F#, A, B, C# | ![CSharpZalyllic](ModeCSharpZalyllic.png) |
-| [1343](https://ianring.com/musictheory/scales/1343) | [Zalyllic](ModeZalyllic.md) | 3 | Db | Db, D, Eb, E, F, Gb, A, B, Db | ![DFlatZalyllic](ModeDFlatZalyllic.png) |
 | [2719](https://ianring.com/musictheory/scales/2719) | [Zocryllic](ModeZocryllic.md) | 8 | D | D, D#, E, F, F#, A, B, C#, D | ![DNaturalZocryllic](ModeDNaturalZocryllic.png) |
 | [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeKatocryllic.md) | -1 | D# | D#, E, F, F#, A, B, C#, D, D# | ![DSharpKatocryllic](ModeDSharpKatocryllic.png) |
-| [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeKatocryllic.md) | -1 | Eb | Eb, E, F, Gb, A, B, Db, D, Eb | ![EFlatKatocryllic](ModeEFlatKatocryllic.png) |
 | [3751](https://ianring.com/musictheory/scales/3751) | [Aerathyllic](ModeAerathyllic.md) | 6 | E | E, F, F#, A, B, C#, D, D#, E | ![ENaturalAerathyllic](ModeENaturalAerathyllic.png) |
 ## Relative Brightness
 

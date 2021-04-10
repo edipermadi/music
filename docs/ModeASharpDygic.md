@@ -69,9 +69,7 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | 4 | A# | A#, C#, F, A, A# | ![ASharpDygic](ModeASharpDygic.png) |
-| [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | 4 | Bb | Bb, Db, F, A, Bb | ![BFlatDygic](ModeBFlatDygic.png) |
 | [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | -1 | C# | C#, F, A, A#, C# | ![CSharpAeoloric](ModeCSharpAeoloric.png) |
-| [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | -1 | Db | Db, F, A, Bb, Db | ![DFlatAeoloric](ModeDFlatAeoloric.png) |
 | [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | 3 | F | F, A, A#, C#, F | ![FNaturalGonic](ModeFNaturalGonic.png) |
 | [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | -1 | A | A, A#, C#, F, A | ![ANaturalDalic](ModeANaturalDalic.png) |
 ## Relative Brightness

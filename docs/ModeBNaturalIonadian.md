@@ -75,7 +75,6 @@ i⁰, ii, iii, IV⁺, V, VI, vii⁰
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | 6 | C | C, D, Eb, F, G, A, B, C | ![CNaturalBocrian](ModeCNaturalBocrian.png) |
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | 4 | D | D, Eb, F, G, A, B, C, D | ![DNaturalMixolythian](ModeDNaturalMixolythian.png) |
 | [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | -1 | D# | D#, E#, F##, G##, A##, B#, C##, D# | ![DSharpLarian](ModeDSharpLarian.png) |
-| [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | -1 | Eb | Eb, F, G, A, B, C, D, Eb | ![EFlatLarian](ModeEFlatLarian.png) |
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | 7 | F | F, G, A, B, C, D, Eb, F | ![FNaturalLythian](ModeFNaturalLythian.png) |
 | [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | 5 | G | G, A, B, C, D, Eb, F, G | ![GNaturalStydian](ModeGNaturalStydian.png) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | A | A, B, C, D, Eb, F, G, A | ![ANaturalLorian](ModeANaturalLorian.png) |

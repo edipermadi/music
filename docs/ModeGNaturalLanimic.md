@@ -72,7 +72,6 @@ II⁺, IV⁺, VI⁺
 |--------|------|------------|-------|-------|--------------|
 | [679](https://ianring.com/musictheory/scales/679) | [Lanimic](ModeLanimic.md) | 5 | G | G, Ab, Bbb, C, D, E, G | ![GNaturalLanimic](ModeGNaturalLanimic.png) |
 | [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | -1 | G# | G#, A, B#, C##, D##, E###, G# | ![GSharpPaptimic](ModeGSharpPaptimic.png) |
-| [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | -1 | Ab | Ab, Bbb, C, D, E, F##, Ab | ![AFlatPaptimic](ModeAFlatPaptimic.png) |
 | [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDalimic.md) | 3 | A | A, B#, C##, D##, E###, F###, A | ![ANaturalDalimic](ModeANaturalDalimic.png) |
 | [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | 6 | C | C, D, E, F##, G#, A, C | ![CNaturalDygimic](ModeCNaturalDygimic.png) |
 | [1253](https://ianring.com/musictheory/scales/1253) | [Zolimic](ModeZolimic.md) | 4 | D | D, E, F##, G#, A, B#, D | ![DNaturalZolimic](ModeDNaturalZolimic.png) |

@@ -71,9 +71,7 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [2187](https://ianring.com/musictheory/scales/2187) | [Ionothitonic](ModeIonothitonic.md) | 5 | F | F, F#, G#, C, E, F | ![FNaturalIonothitonic](ModeFNaturalIonothitonic.png) |
 | [3141](https://ianring.com/musictheory/scales/3141) | [Kanitonic](ModeKanitonic.md) | -1 | F# | F#, G#, C, E, F, F# | ![FSharpKanitonic](ModeFSharpKanitonic.png) |
-| [3141](https://ianring.com/musictheory/scales/3141) | [Kanitonic](ModeKanitonic.md) | -1 | Gb | Gb, Ab, C, E, F, Gb | ![GFlatKanitonic](ModeGFlatKanitonic.png) |
 | [1809](https://ianring.com/musictheory/scales/1809) | [Ranitonic](ModeRanitonic.md) | -1 | G# | G#, C, E, F, F#, G# | ![GSharpRanitonic](ModeGSharpRanitonic.png) |
-| [1809](https://ianring.com/musictheory/scales/1809) | [Ranitonic](ModeRanitonic.md) | -1 | Ab | Ab, C, E, F, Gb, Ab | ![AFlatRanitonic](ModeAFlatRanitonic.png) |
 | [369](https://ianring.com/musictheory/scales/369) | [Laditonic](ModeLaditonic.md) | 4 | C | C, E, F, F#, G#, C | ![CNaturalLaditonic](ModeCNaturalLaditonic.png) |
 | [279](https://ianring.com/musictheory/scales/279) | [Poditonic](ModePoditonic.md) | -1 | E | E, F, F#, G#, C, E | ![ENaturalPoditonic](ModeENaturalPoditonic.png) |
 ## Relative Brightness

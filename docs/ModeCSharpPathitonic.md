@@ -70,12 +70,10 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [587](https://ianring.com/musictheory/scales/587) | [Pathitonic](ModePathitonic.md) | -1 | C# | C#, D, E, G, A#, C# | ![CSharpPathitonic](ModeCSharpPathitonic.png) |
-| [587](https://ianring.com/musictheory/scales/587) | [Pathitonic](ModePathitonic.md) | -1 | Db | Db, D, E, G, Bb, Db | ![DFlatPathitonic](ModeDFlatPathitonic.png) |
 | [2341](https://ianring.com/musictheory/scales/2341) | [Myditonic](ModeMyditonic.md) | 4 | D | D, E, G, A#, C#, D | ![DNaturalMyditonic](ModeDNaturalMyditonic.png) |
 | [1609](https://ianring.com/musictheory/scales/1609) | [Thyritonic](ModeThyritonic.md) | -1 | E | E, G, A#, C#, D, E | ![ENaturalThyritonic](ModeENaturalThyritonic.png) |
 | [713](https://ianring.com/musictheory/scales/713) | [Thoptitonic](ModeThoptitonic.md) | 5 | G | G, A#, C#, D, E, G | ![GNaturalThoptitonic](ModeGNaturalThoptitonic.png) |
 | [601](https://ianring.com/musictheory/scales/601) | [Bycritonic](ModeBycritonic.md) | -1 | A# | A#, C#, D, E, G, A# | ![ASharpBycritonic](ModeASharpBycritonic.png) |
-| [601](https://ianring.com/musictheory/scales/601) | [Bycritonic](ModeBycritonic.md) | -1 | Bb | Bb, Db, D, E, G, Bb | ![BFlatBycritonic](ModeBFlatBycritonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

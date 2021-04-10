@@ -71,7 +71,6 @@ I⁺, II, III⁺, V⁺
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [853](https://ianring.com/musictheory/scales/853) | [Epothimic](ModeEpothimic.md) | -1 | D# | D#, E#, F##, G##, A##, B#, D# | ![DSharpEpothimic](ModeDSharpEpothimic.png) |
-| [853](https://ianring.com/musictheory/scales/853) | [Epothimic](ModeEpothimic.md) | -1 | Eb | Eb, F, G, A, B, C, Eb | ![EFlatEpothimic](ModeEFlatEpothimic.png) |
 | [1237](https://ianring.com/musictheory/scales/1237) | [Salimic](ModeSalimic.md) | 6 | F | F, G, A, B, C, D#, F | ![FNaturalSalimic](ModeFNaturalSalimic.png) |
 | [1333](https://ianring.com/musictheory/scales/1333) | [Lyptimic](ModeLyptimic.md) | 4 | G | G, A, B, C, D#, E#, G | ![GNaturalLyptimic](ModeGNaturalLyptimic.png) |
 | [1357](https://ianring.com/musictheory/scales/1357) | [Katonimic](ModeKatonimic.md) | -1 | A | A, B, C, D#, E#, F##, A | ![ANaturalKatonimic](ModeANaturalKatonimic.png) |

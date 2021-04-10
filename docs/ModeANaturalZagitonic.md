@@ -74,7 +74,6 @@ C
 | [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | -1 | C | C, E, G#, A, B, C | ![CNaturalDolitonic](ModeCNaturalDolitonic.png) |
 | [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | 4 | E | E, G#, A, B, C, E | ![ENaturalPoritonic](ModeENaturalPoritonic.png) |
 | [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | -1 | G# | G#, A, B, C, E, G# | ![GSharpAerylitonic](ModeGSharpAerylitonic.png) |
-| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | -1 | Ab | Ab, A, B, C, E, Ab | ![AFlatAerylitonic](ModeAFlatAerylitonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

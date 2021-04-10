@@ -79,14 +79,11 @@ i⁰, IIb5, x⁰b3
 | [2045](https://ianring.com/musictheory/scales/2045) | [Katogyllian](ModeKatogyllian.md) | 6 | G | G, A, A#, B, C, C#, D, D#, E, F, G | ![GNaturalKatogyllian](ModeGNaturalKatogyllian.png) |
 | [1535](https://ianring.com/musictheory/scales/1535) | [Mixodyllian](ModeMixodyllian.md) | 4 | A | A, A#, B, C, C#, D, D#, E, F, G, A | ![ANaturalMixodyllian](ModeANaturalMixodyllian.png) |
 | [2815](https://ianring.com/musictheory/scales/2815) | [Aeradyllian](ModeAeradyllian.md) | 9 | A# | A#, B, C, C#, D, D#, E, F, G, A, A# | ![ASharpAeradyllian](ModeASharpAeradyllian.png) |
-| [2815](https://ianring.com/musictheory/scales/2815) | [Aeradyllian](ModeAeradyllian.md) | 9 | Bb | Bb, B, C, Db, D, Eb, E, F, G, A, Bb | ![BFlatAeradyllian](ModeBFlatAeradyllian.png) |
 | [3455](https://ianring.com/musictheory/scales/3455) | [Ryptyllian](ModeRyptyllian.md) | 2 | B | B, C, C#, D, D#, E, F, G, A, A#, B | ![BNaturalRyptyllian](ModeBNaturalRyptyllian.png) |
 | [3775](https://ianring.com/musictheory/scales/3775) | [Loptyllian](ModeLoptyllian.md) | 7 | C | C, C#, D, D#, E, F, G, A, A#, B, C | ![CNaturalLoptyllian](ModeCNaturalLoptyllian.png) |
 | [3935](https://ianring.com/musictheory/scales/3935) | [Kataphyllian](ModeKataphyllian.md) | -1 | C# | C#, D, D#, E, F, G, A, A#, B, C, C# | ![CSharpKataphyllian](ModeCSharpKataphyllian.png) |
-| [3935](https://ianring.com/musictheory/scales/3935) | [Kataphyllian](ModeKataphyllian.md) | -1 | Db | Db, D, Eb, E, F, G, A, Bb, B, C, Db | ![DFlatKataphyllian](ModeDFlatKataphyllian.png) |
 | [4015](https://ianring.com/musictheory/scales/4015) | [Phradyllian](ModePhradyllian.md) | 5 | D | D, D#, E, F, G, A, A#, B, C, C#, D | ![DNaturalPhradyllian](ModeDNaturalPhradyllian.png) |
 | [4055](https://ianring.com/musictheory/scales/4055) | [Dagyllian](ModeDagyllian.md) | 10 | D# | D#, E, F, G, A, A#, B, C, C#, D, D# | ![DSharpDagyllian](ModeDSharpDagyllian.png) |
-| [4055](https://ianring.com/musictheory/scales/4055) | [Dagyllian](ModeDagyllian.md) | 10 | Eb | Eb, E, F, G, A, Bb, B, C, Db, D, Eb | ![EFlatDagyllian](ModeEFlatDagyllian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

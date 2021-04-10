@@ -72,16 +72,11 @@ I, II, iii, iv⁰, V, vi, vii
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeLydian.md) | 7 | F# | F#, G#, A#, B#, C#, D#, E#, F# | ![FSharpLydian](ModeFSharpLydian.png) |
-| [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeLydian.md) | 7 | Gb | Gb, Ab, Bb, C, Db, Eb, F, Gb | ![GFlatLydian](ModeGFlatLydian.png) |
 | [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | 5 | G# | G#, A#, B#, C#, D#, E#, F#, G# | ![GSharpMixolydian](ModeGSharpMixolydian.png) |
-| [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | 5 | Ab | Ab, Bb, C, Db, Eb, F, Gb, Ab | ![AFlatMixolydian](ModeAFlatMixolydian.png) |
 | [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | 3 | A# | A#, B#, C#, D#, E#, F#, G#, A# | ![ASharpAeolian](ModeASharpAeolian.png) |
-| [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | 3 | Bb | Bb, C, Db, Eb, F, Gb, Ab, Bb | ![BFlatAeolian](ModeBFlatAeolian.png) |
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | 1 | C | C, Db, Eb, F, Gb, Ab, Bb, C | ![CNaturalLocrian](ModeCNaturalLocrian.png) |
 | [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeIonian.md) | 6 | C# | C#, D#, E#, F#, G#, A#, B#, C# | ![CSharpIonian](ModeCSharpIonian.png) |
-| [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeIonian.md) | 6 | Db | Db, Eb, F, Gb, Ab, Bb, C, Db | ![DFlatIonian](ModeDFlatIonian.png) |
 | [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | 4 | D# | D#, E#, F#, G#, A#, B#, C#, D# | ![DSharpDorian](ModeDSharpDorian.png) |
-| [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | 4 | Eb | Eb, F, Gb, Ab, Bb, C, Db, Eb | ![EFlatDorian](ModeEFlatDorian.png) |
 | [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | 2 | F | F, Gb, Ab, Bb, C, Db, Eb, F | ![FNaturalPhrygian](ModeFNaturalPhrygian.png) |
 ## Relative Brightness
 

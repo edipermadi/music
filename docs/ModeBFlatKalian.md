@@ -72,15 +72,11 @@ vii⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3627](https://ianring.com/musictheory/scales/3627) | [Kalian](ModeKalian.md) | 4 | A# | A#, B, C#, D#, E###, F###, G##, A# | ![ASharpKalian](ModeASharpKalian.png) |
-| [3627](https://ianring.com/musictheory/scales/3627) | [Kalian](ModeKalian.md) | 4 | Bb | Bb, Cb, Db, Eb, F##, G#, A, Bb | ![BFlatKalian](ModeBFlatKalian.png) |
 | [3861](https://ianring.com/musictheory/scales/3861) | [Phroptian](ModePhroptian.md) | -1 | B | B, C#, D#, E###, F###, G##, A#, B | ![BNaturalPhroptian](ModeBNaturalPhroptian.png) |
 | [1989](https://ianring.com/musictheory/scales/1989) | [Dydian](ModeDydian.md) | 7 | C# | C#, D#, E###, F###, G##, A#, B, C# | ![CSharpDydian](ModeCSharpDydian.png) |
-| [1989](https://ianring.com/musictheory/scales/1989) | [Dydian](ModeDydian.md) | 7 | Db | Db, Eb, F##, G#, A, Bb, Cb, Db | ![DFlatDydian](ModeDFlatDydian.png) |
 | [1521](https://ianring.com/musictheory/scales/1521) | [Stanian](ModeStanian.md) | 5 | D# | D#, E###, F###, G##, A#, B, C#, D# | ![DSharpStanian](ModeDSharpStanian.png) |
-| [1521](https://ianring.com/musictheory/scales/1521) | [Stanian](ModeStanian.md) | 5 | Eb | Eb, F##, G#, A, Bb, Cb, Db, Eb | ![EFlatStanian](ModeEFlatStanian.png) |
 | [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeEpanian.md) | -1 | G | G, Ab, Bbb, Cbb, Dbbb, Ebbb, Fbb, G | ![GNaturalEpanian](ModeGNaturalEpanian.png) |
 | [2223](https://ianring.com/musictheory/scales/2223) | [Konian](ModeKonian.md) | 6 | G# | G#, A, Bb, Cb, Db, Eb, F##, G# | ![GSharpKonian](ModeGSharpKonian.png) |
-| [2223](https://ianring.com/musictheory/scales/2223) | [Konian](ModeKonian.md) | 6 | Ab | Ab, Bbb, Cbb, Dbbb, Ebbb, Fbb, G, Ab | ![AFlatKonian](ModeAFlatKonian.png) |
 | [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeStocrian.md) | -1 | A | A, Bb, Cb, Db, Eb, F##, G#, A | ![ANaturalStocrian](ModeANaturalStocrian.png) |
 ## Relative Brightness
 

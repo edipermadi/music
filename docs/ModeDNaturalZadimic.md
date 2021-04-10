@@ -70,14 +70,12 @@ IV, V
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [2445](https://ianring.com/musictheory/scales/2445) | [Zadimic](ModeZadimic.md) | -1 | D | D, E, F, G##, A#, B##, D | ![DNaturalZadimic](ModeDNaturalZadimic.png) |
-| [1635](https://ianring.com/musictheory/scales/1635) | [Sygimic](ModeSygimic.md) | -1 | E | E, F, G##, A#, B##, C##, E | ![ENaturalSygimic](ModeENaturalSygimic.png) |
-| [2865](https://ianring.com/musictheory/scales/2865) | [Solimic](ModeSolimic.md) | -1 | F | F, G##, A#, B##, C##, D##, F | ![FNaturalSolimic](ModeFNaturalSolimic.png) |
-| [435](https://ianring.com/musictheory/scales/435) | [Ionolimic](ModeIonolimic.md) | 5 | A | A, Bb, C#, D, E, F, A | ![ANaturalIonolimic](ModeANaturalIonolimic.png) |
+| [2445](https://ianring.com/musictheory/scales/2445) | [Zadimic](ModeZadimic.md) | 6 | D | D, E, F, G##, A#, B##, D | ![DNaturalZadimic](ModeDNaturalZadimic.png) |
+| [1635](https://ianring.com/musictheory/scales/1635) | [Sygimic](ModeSygimic.md) | 4 | E | E, F, G##, A#, B##, C##, E | ![ENaturalSygimic](ModeENaturalSygimic.png) |
+| [2865](https://ianring.com/musictheory/scales/2865) | [Solimic](ModeSolimic.md) | 5 | F | F, G##, A#, B##, C##, D##, F | ![FNaturalSolimic](ModeFNaturalSolimic.png) |
+| [435](https://ianring.com/musictheory/scales/435) | [Ionolimic](ModeIonolimic.md) | -1 | A | A, Bb, C#, D, E, F, A | ![ANaturalIonolimic](ModeANaturalIonolimic.png) |
 | [2265](https://ianring.com/musictheory/scales/2265) | [Ionophimic](ModeIonophimic.md) | 6 | A# | A#, B##, C##, D##, E#, Cbbb, A# | ![ASharpIonophimic](ModeASharpIonophimic.png) |
-| [2265](https://ianring.com/musictheory/scales/2265) | [Ionophimic](ModeIonophimic.md) | 6 | Bb | Bb, C#, D, E, F, G##, Bb | ![BFlatIonophimic](ModeBFlatIonophimic.png) |
 | [795](https://ianring.com/musictheory/scales/795) | [Aeologimic](ModeAeologimic.md) | -1 | C# | C#, D, E, F, G##, A#, C# | ![CSharpAeologimic](ModeCSharpAeologimic.png) |
-| [795](https://ianring.com/musictheory/scales/795) | [Aeologimic](ModeAeologimic.md) | -1 | Db | Db, Ebb, Fb, Gbb, A, Bb, Db | ![DFlatAeologimic](ModeDFlatAeologimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

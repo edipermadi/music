@@ -72,9 +72,7 @@ Ib5, VI
 |--------|------|------------|-------|-------|--------------|
 | [1141](https://ianring.com/musictheory/scales/1141) | [Rynimic](ModeRynimic.md) | 4 | B | B, C#, D#, E, F, G##, B | ![BNaturalRynimic](ModeBNaturalRynimic.png) |
 | [1309](https://ianring.com/musictheory/scales/1309) | [Pogimic](ModePogimic.md) | -1 | C# | C#, D#, E, F, G##, A##, C# | ![CSharpPogimic](ModeCSharpPogimic.png) |
-| [1309](https://ianring.com/musictheory/scales/1309) | [Pogimic](ModePogimic.md) | -1 | Db | Db, Eb, Fb, Gbb, A, B, Db | ![DFlatPogimic](ModeDFlatPogimic.png) |
 | [1351](https://ianring.com/musictheory/scales/1351) | [Aeraptimic](ModeAeraptimic.md) | -1 | D# | D#, E, F, G##, A##, B##, D# | ![DSharpAeraptimic](ModeDSharpAeraptimic.png) |
-| [1351](https://ianring.com/musictheory/scales/1351) | [Aeraptimic](ModeAeraptimic.md) | -1 | Eb | Eb, Fb, Gbb, A, B, C#, Eb | ![EFlatAeraptimic](ModeEFlatAeraptimic.png) |
 | [2723](https://ianring.com/musictheory/scales/2723) | [Epylimic](ModeEpylimic.md) | 5 | E | E, F, G##, A##, B##, C###, E | ![ENaturalEpylimic](ModeENaturalEpylimic.png) |
 | [3409](https://ianring.com/musictheory/scales/3409) | [Katanimic](ModeKatanimic.md) | -1 | F | F, G##, A##, B##, C###, D##, F | ![FNaturalKatanimic](ModeFNaturalKatanimic.png) |
 | [469](https://ianring.com/musictheory/scales/469) | [Katyrimic](ModeKatyrimic.md) | 6 | A | A, B, C#, D#, E, F, A | ![ANaturalKatyrimic](ModeANaturalKatyrimic.png) |

@@ -72,10 +72,8 @@ C
 | [1201](https://ianring.com/musictheory/scales/1201) | [Aeracritonic](ModeAeracritonic.md) | 3 | F | F, A, A#, C, D#, F | ![FNaturalAeracritonic](ModeFNaturalAeracritonic.png) |
 | [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | -1 | A | A, A#, C, D#, F, A | ![ANaturalByptitonic](ModeANaturalByptitonic.png) |
 | [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | 4 | A# | A#, C, D#, F, A, A# | ![ASharpDaritonic](ModeASharpDaritonic.png) |
-| [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | 4 | Bb | Bb, C, Eb, F, A, Bb | ![BFlatDaritonic](ModeBFlatDaritonic.png) |
 | [1577](https://ianring.com/musictheory/scales/1577) | [Lonitonic](ModeLonitonic.md) | 2 | C | C, D#, F, A, A#, C | ![CNaturalLonitonic](ModeCNaturalLonitonic.png) |
 | [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | 5 | D# | D#, F, A, A#, C, D# | ![DSharpIonycritonic](ModeDSharpIonycritonic.png) |
-| [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | 5 | Eb | Eb, F, A, Bb, C, Eb | ![EFlatIonycritonic](ModeEFlatIonycritonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

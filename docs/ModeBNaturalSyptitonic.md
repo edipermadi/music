@@ -72,7 +72,6 @@ C
 | [327](https://ianring.com/musictheory/scales/327) | [Syptitonic](ModeSyptitonic.md) | -1 | B | B, C, C#, F, G, B | ![BNaturalSyptitonic](ModeBNaturalSyptitonic.png) |
 | [2211](https://ianring.com/musictheory/scales/2211) | [Ionythitonic](ModeIonythitonic.md) | 4 | C | C, C#, F, G, B, C | ![CNaturalIonythitonic](ModeCNaturalIonythitonic.png) |
 | [3153](https://ianring.com/musictheory/scales/3153) | [Zathitonic](ModeZathitonic.md) | -1 | C# | C#, F, G, B, C, C# | ![CSharpZathitonic](ModeCSharpZathitonic.png) |
-| [3153](https://ianring.com/musictheory/scales/3153) | [Zathitonic](ModeZathitonic.md) | -1 | Db | Db, F, G, B, C, Db | ![DFlatZathitonic](ModeDFlatZathitonic.png) |
 | [453](https://ianring.com/musictheory/scales/453) | [Raditonic](ModeRaditonic.md) | 5 | F | F, G, B, C, C#, F | ![FNaturalRaditonic](ModeFNaturalRaditonic.png) |
 | [1137](https://ianring.com/musictheory/scales/1137) | [Stonitonic](ModeStonitonic.md) | 3 | G | G, B, C, C#, F, G | ![GNaturalStonitonic](ModeGNaturalStonitonic.png) |
 ## Relative Brightness

@@ -72,7 +72,6 @@ iv⁰, vi⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | -1 | G# | G#, A, B, C##, D##, E#, F##, G# | ![GSharpPhrogian](ModeGSharpPhrogian.png) |
-| [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | -1 | Ab | Ab, Bbb, Cb, D, E, F, G, Ab | ![AFlatPhrogian](ModeAFlatPhrogian.png) |
 | [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | 5 | A | A, B, C##, D##, E#, F##, G#, A | ![ANaturalRathian](ModeANaturalRathian.png) |
 | [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | 3 | B | B, C##, D##, E#, F##, G#, A, B | ![BNaturalIonopian](ModeBNaturalIonopian.png) |
 | [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | 6 | D | D, E, F, G, Ab, Bbb, Cb, D | ![DNaturalAeologian](ModeDNaturalAeologian.png) |

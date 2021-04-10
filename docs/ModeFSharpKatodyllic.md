@@ -73,13 +73,10 @@ i, ii⁰, III, iv⁰, vi⁰, viii⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3501](https://ianring.com/musictheory/scales/3501) | [Katodyllic](ModeKatodyllic.md) | 4 | F# | F#, G#, A, B, C#, D, E, F, F# | ![FSharpKatodyllic](ModeFSharpKatodyllic.png) |
-| [3501](https://ianring.com/musictheory/scales/3501) | [Katodyllic](ModeKatodyllic.md) | 4 | Gb | Gb, Ab, A, B, Db, D, E, F, Gb | ![GFlatKatodyllic](ModeGFlatKatodyllic.png) |
 | [1899](https://ianring.com/musictheory/scales/1899) | [Moptyllic](ModeMoptyllic.md) | 2 | G# | G#, A, B, C#, D, E, F, F#, G# | ![GSharpMoptyllic](ModeGSharpMoptyllic.png) |
-| [1899](https://ianring.com/musictheory/scales/1899) | [Moptyllic](ModeMoptyllic.md) | 2 | Ab | Ab, A, B, Db, D, E, F, Gb, Ab | ![AFlatMoptyllic](ModeAFlatMoptyllic.png) |
 | [2997](https://ianring.com/musictheory/scales/2997) | [Ionoptyllic](ModeIonoptyllic.md) | 7 | A | A, B, C#, D, E, F, F#, G#, A | ![ANaturalIonoptyllic](ModeANaturalIonoptyllic.png) |
 | [1773](https://ianring.com/musictheory/scales/1773) | [Aeoloryllic](ModeAeoloryllic.md) | 5 | B | B, C#, D, E, F, F#, G#, A, B | ![BNaturalAeoloryllic](ModeBNaturalAeoloryllic.png) |
 | [1467](https://ianring.com/musictheory/scales/1467) | [Thydyllic](ModeThydyllic.md) | 3 | C# | C#, D, E, F, F#, G#, A, B, C# | ![CSharpThydyllic](ModeCSharpThydyllic.png) |
-| [1467](https://ianring.com/musictheory/scales/1467) | [Thydyllic](ModeThydyllic.md) | 3 | Db | Db, D, E, F, Gb, Ab, A, B, Db | ![DFlatThydyllic](ModeDFlatThydyllic.png) |
 | [2781](https://ianring.com/musictheory/scales/2781) | [Gycryllic](ModeGycryllic.md) | 8 | D | D, E, F, F#, G#, A, B, C#, D | ![DNaturalGycryllic](ModeDNaturalGycryllic.png) |
 | [1719](https://ianring.com/musictheory/scales/1719) | [Lyryllic](ModeLyryllic.md) | 6 | E | E, F, F#, G#, A, B, C#, D, E | ![ENaturalLyryllic](ModeENaturalLyryllic.png) |
 | [2907](https://ianring.com/musictheory/scales/2907) | [Mogyllic](ModeMogyllic.md) | -1 | F | F, F#, G#, A, B, C#, D, E, F | ![FNaturalMogyllic](ModeFNaturalMogyllic.png) |

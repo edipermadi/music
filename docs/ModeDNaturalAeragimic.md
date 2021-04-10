@@ -76,7 +76,6 @@ II⁺, III, IV⁺, VI⁺
 | [1333](https://ianring.com/musictheory/scales/1333) | [Lyptimic](ModeLyptimic.md) | 4 | A | A, B, C#, D, E#, F##, A | ![ANaturalLyptimic](ModeANaturalLyptimic.png) |
 | [1357](https://ianring.com/musictheory/scales/1357) | [Katonimic](ModeKatonimic.md) | -1 | B | B, C#, D, E#, F##, G##, B | ![BNaturalKatonimic](ModeBNaturalKatonimic.png) |
 | [1363](https://ianring.com/musictheory/scales/1363) | [Gygimic](ModeGygimic.md) | -1 | C# | C#, D, E#, F##, G##, A##, C# | ![CSharpGygimic](ModeCSharpGygimic.png) |
-| [1363](https://ianring.com/musictheory/scales/1363) | [Gygimic](ModeGygimic.md) | -1 | Db | Db, Ebb, F, G, A, B, Db | ![DFlatGygimic](ModeDFlatGygimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

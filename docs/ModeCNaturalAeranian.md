@@ -76,10 +76,8 @@ I⁺, IIIb5, v⁰b3, vi
 | [1401](https://ianring.com/musictheory/scales/1401) | [Pagian](ModePagian.md) | 3 | E | E, F##, G#, A, Bb, C, D, E | ![ENaturalPagian](ModeENaturalPagian.png) |
 | [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeAeolythian.md) | 6 | G | G, Ab, Bbb, Cbb, Dbb, Ebb, Fb, G | ![GNaturalAeolythian](ModeGNaturalAeolythian.png) |
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | -1 | G# | G#, A, Bb, C, D, E, F##, G# | ![GSharpMolian](ModeGSharpMolian.png) |
-| [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | -1 | Ab | Ab, Bbb, Cbb, Dbb, Ebb, Fb, G, Ab | ![AFlatMolian](ModeAFlatMolian.png) |
 | [3243](https://ianring.com/musictheory/scales/3243) | [Staptian](ModeStaptian.md) | 4 | A | A, Bb, C, D, E, F##, G#, A | ![ANaturalStaptian](ModeANaturalStaptian.png) |
 | [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeMothian.md) | -1 | A# | A#, B#, C##, D##, E###, F###, G##, A# | ![ASharpMothian](ModeASharpMothian.png) |
-| [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeMothian.md) | -1 | Bb | Bb, C, D, E, F##, G#, A, Bb | ![BFlatMothian](ModeBFlatMothian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

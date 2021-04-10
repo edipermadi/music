@@ -72,7 +72,6 @@ i⁰, ii, IV⁺, VI
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | -1 | C# | C#, D, E, F, G, A, B#, C# | ![CSharpZoptian](ModeCSharpZoptian.png) |
-| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | -1 | Db | Db, Ebb, Fb, Gbb, Abb, Bbb, C, Db | ![DFlatZoptian](ModeDFlatZoptian.png) |
 | [3245](https://ianring.com/musictheory/scales/3245) | [Aeracrian](ModeAeracrian.md) | 4 | D | D, E, F, G, A, B#, C#, D | ![DNaturalAeracrian](ModeDNaturalAeracrian.png) |
 | [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | 2 | E | E, F, G, A, B#, C#, D, E | ![ENaturalByptian](ModeENaturalByptian.png) |
 | [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | 7 | F | F, G, A, B#, C#, D, E, F | ![FNaturalDarian](ModeFNaturalDarian.png) |

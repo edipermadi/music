@@ -76,7 +76,6 @@ III, IV
 | [1205](https://ianring.com/musictheory/scales/1205) | [Ionycrimic](ModeIonycrimic.md) | 4 | A | A, B, C#, D, E, F##, A | ![ANaturalIonycrimic](ModeANaturalIonycrimic.png) |
 | [1325](https://ianring.com/musictheory/scales/1325) | [Phradimic](ModePhradimic.md) | 2 | B | B, C#, D, E, F##, G##, B | ![BNaturalPhradimic](ModeBNaturalPhradimic.png) |
 | [1355](https://ianring.com/musictheory/scales/1355) | [Aeolorimic](ModeAeolorimic.md) | -1 | C# | C#, D, E, F##, G##, A##, C# | ![CSharpAeolorimic](ModeCSharpAeolorimic.png) |
-| [1355](https://ianring.com/musictheory/scales/1355) | [Aeolorimic](ModeAeolorimic.md) | -1 | Db | Db, Ebb, Fb, G, A, B, Db | ![DFlatAeolorimic](ModeDFlatAeolorimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

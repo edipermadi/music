@@ -76,7 +76,6 @@ II⁺, IV⁺, VI⁺
 | [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeEpogimic.md) | 2 | E | E, F##, G#, A, B#, C##, E | ![ENaturalEpogimic](ModeENaturalEpogimic.png) |
 | [679](https://ianring.com/musictheory/scales/679) | [Lanimic](ModeLanimic.md) | 5 | G | G, Ab, Bbb, C, D, E, G | ![GNaturalLanimic](ModeGNaturalLanimic.png) |
 | [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | -1 | G# | G#, A, B#, C##, D##, E###, G# | ![GSharpPaptimic](ModeGSharpPaptimic.png) |
-| [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | -1 | Ab | Ab, Bbb, C, D, E, F##, Ab | ![AFlatPaptimic](ModeAFlatPaptimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

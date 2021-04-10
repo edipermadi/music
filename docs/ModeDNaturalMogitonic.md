@@ -71,11 +71,8 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [1107](https://ianring.com/musictheory/scales/1107) | [Mogitonic](ModeMogitonic.md) | -1 | D | D, D#, F#, G#, C, D | ![DNaturalMogitonic](ModeDNaturalMogitonic.png) |
 | [2601](https://ianring.com/musictheory/scales/2601) | [Docritonic](ModeDocritonic.md) | 4 | D# | D#, F#, G#, C, D, D# | ![DSharpDocritonic](ModeDSharpDocritonic.png) |
-| [2601](https://ianring.com/musictheory/scales/2601) | [Docritonic](ModeDocritonic.md) | 4 | Eb | Eb, Gb, Ab, C, D, Eb | ![EFlatDocritonic](ModeEFlatDocritonic.png) |
 | [837](https://ianring.com/musictheory/scales/837) | [Epaditonic](ModeEpaditonic.md) | -1 | F# | F#, G#, C, D, D#, F# | ![FSharpEpaditonic](ModeFSharpEpaditonic.png) |
-| [837](https://ianring.com/musictheory/scales/837) | [Epaditonic](ModeEpaditonic.md) | -1 | Gb | Gb, Ab, C, D, Eb, Gb | ![GFlatEpaditonic](ModeGFlatEpaditonic.png) |
 | [1233](https://ianring.com/musictheory/scales/1233) | [Ionoditonic](ModeIonoditonic.md) | 5 | G# | G#, C, D, D#, F#, G# | ![GSharpIonoditonic](ModeGSharpIonoditonic.png) |
-| [1233](https://ianring.com/musictheory/scales/1233) | [Ionoditonic](ModeIonoditonic.md) | 5 | Ab | Ab, C, D, Eb, Gb, Ab | ![AFlatIonoditonic](ModeAFlatIonoditonic.png) |
 | [333](https://ianring.com/musictheory/scales/333) | [Bogitonic](ModeBogitonic.md) | -1 | C | C, D, D#, F#, G#, C | ![CNaturalBogitonic](ModeCNaturalBogitonic.png) |
 ## Relative Brightness
 

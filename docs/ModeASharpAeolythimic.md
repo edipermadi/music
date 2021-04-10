@@ -71,9 +71,7 @@ v, VI
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeAeolythimic.md) | -1 | A# | A#, B##, C##, D##, E###, Cbbb, A# | ![ASharpAeolythimic](ModeASharpAeolythimic.png) |
-| [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeAeolythimic.md) | -1 | Bb | Bb, C#, D, E, F##, G##, Bb | ![BFlatAeolythimic](ModeBFlatAeolythimic.png) |
 | [843](https://ianring.com/musictheory/scales/843) | [Molimic](ModeMolimic.md) | -1 | C# | C#, D, E, F##, G##, A#, C# | ![CSharpMolimic](ModeCSharpMolimic.png) |
-| [843](https://ianring.com/musictheory/scales/843) | [Molimic](ModeMolimic.md) | -1 | Db | Db, Ebb, Fb, G, A, Bb, Db | ![DFlatMolimic](ModeDFlatMolimic.png) |
 | [2469](https://ianring.com/musictheory/scales/2469) | [Staptimic](ModeStaptimic.md) | 5 | D | D, E, F##, G##, A#, B##, D | ![DNaturalStaptimic](ModeDNaturalStaptimic.png) |
 | [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | 3 | E | E, F##, G##, A#, B##, C##, E | ![ENaturalBocrimic](ModeENaturalBocrimic.png) |
 | [717](https://ianring.com/musictheory/scales/717) | [Gythimic](ModeGythimic.md) | 6 | G | G, A, Bb, C#, D, E, G | ![GNaturalGythimic](ModeGNaturalGythimic.png) |

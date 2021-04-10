@@ -73,13 +73,10 @@ i⁰b3, III⁺, V, VIb5
 |--------|------|------------|-------|-------|--------------|
 | [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeAerygian.md) | -1 | D | D, Eb, Fb, Gbb, Ab, Bb, C, D | ![DNaturalAerygian](ModeDNaturalAerygian.png) |
 | [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | 6 | D# | D#, E, F, G#, A#, B#, C##, D# | ![DSharpPylian](ModeDSharpPylian.png) |
-| [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | 6 | Eb | Eb, Fb, Gbb, Ab, Bb, C, D, Eb | ![EFlatPylian](ModeEFlatPylian.png) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | E | E, F, G#, A#, B#, C##, D#, E | ![ENaturalIonathian](ModeENaturalIonathian.png) |
 | [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | 4 | F | F, G#, A#, B#, C##, D#, E, F | ![FNaturalPhraptian](ModeFNaturalPhraptian.png) |
 | [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | 7 | G# | G#, A#, B#, C##, D#, E, F, G# | ![GSharpBacrian](ModeGSharpBacrian.png) |
-| [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | 7 | Ab | Ab, Bb, C, D, Eb, Fb, Gbb, Ab | ![AFlatBacrian](ModeAFlatBacrian.png) |
 | [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | 5 | A# | A#, B#, C##, D#, E, F, G#, A# | ![ASharpKatythian](ModeASharpKatythian.png) |
-| [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | 5 | Bb | Bb, C, D, Eb, Fb, Gbb, Ab, Bb | ![BFlatKatythian](ModeBFlatKatythian.png) |
 | [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | 3 | C | C, D, Eb, Fb, Gbb, Ab, Bb, C | ![CNaturalMadian](ModeCNaturalMadian.png) |
 ## Relative Brightness
 

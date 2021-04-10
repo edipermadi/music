@@ -73,7 +73,6 @@ V⁺
 | [1299](https://ianring.com/musictheory/scales/1299) | [Aerophitonic](ModeAerophitonic.md) | -1 | B | B, C, D#, G, A, B | ![BNaturalAerophitonic](ModeBNaturalAerophitonic.png) |
 | [2697](https://ianring.com/musictheory/scales/2697) | [Katagitonic](ModeKatagitonic.md) | 5 | C | C, D#, G, A, B, C | ![CNaturalKatagitonic](ModeCNaturalKatagitonic.png) |
 | [849](https://ianring.com/musictheory/scales/849) | [Aerynitonic](ModeAerynitonic.md) | -1 | D# | D#, G, A, B, C, D# | ![DSharpAerynitonic](ModeDSharpAerynitonic.png) |
-| [849](https://ianring.com/musictheory/scales/849) | [Aerynitonic](ModeAerynitonic.md) | -1 | Eb | Eb, G, A, B, C, Eb | ![EFlatAerynitonic](ModeEFlatAerynitonic.png) |
 | [309](https://ianring.com/musictheory/scales/309) | [Palitonic](ModePalitonic.md) | 4 | G | G, A, B, C, D#, G | ![GNaturalPalitonic](ModeGNaturalPalitonic.png) |
 ## Relative Brightness
 

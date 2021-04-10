@@ -72,7 +72,6 @@ v⁰, vi
 |--------|------|------------|-------|-------|--------------|
 | [1579](https://ianring.com/musictheory/scales/1579) | [Sagimic](ModeSagimic.md) | 3 | D | D, Eb, F, G, A##, B#, D | ![DNaturalSagimic](ModeDNaturalSagimic.png) |
 | [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeAelothimic.md) | -1 | D# | D#, E#, F##, Cb, Dbb, Ebb, D# | ![DSharpAelothimic](ModeDSharpAelothimic.png) |
-| [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeAelothimic.md) | -1 | Eb | Eb, F, G, A##, B#, C##, Eb | ![EFlatAelothimic](ModeEFlatAelothimic.png) |
 | [1733](https://ianring.com/musictheory/scales/1733) | [Socrimic](ModeSocrimic.md) | 6 | F | F, G, A##, B#, C##, D#, F | ![FNaturalSocrimic](ModeFNaturalSocrimic.png) |
 | [1457](https://ianring.com/musictheory/scales/1457) | [Modimic](ModeModimic.md) | 4 | G | G, A##, B#, C##, D#, E#, G | ![GNaturalModimic](ModeGNaturalModimic.png) |
 | [347](https://ianring.com/musictheory/scales/347) | [Barimic](ModeBarimic.md) | -1 | B | B, C, D, Eb, F, G, B | ![BNaturalBarimic](ModeBNaturalBarimic.png) |

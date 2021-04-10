@@ -72,13 +72,10 @@ i⁰, ii⁰, iv, VI, vii⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | -1 | G# | G#, A#, B, C#, D, E, F##, G# | ![GSharpPhrydian](ModeGSharpPhrydian.png) |
-| [2413](https://ianring.com/musictheory/scales/2413) | [Phrydian](ModePhrydian.md) | -1 | Ab | Ab, Bb, Cb, Db, Ebb, Fb, G, Ab | ![AFlatPhrydian](ModeAFlatPhrydian.png) |
 | [1627](https://ianring.com/musictheory/scales/1627) | [Zyptian](ModeZyptian.md) | -1 | A# | A#, B, C#, D, E, F##, G#, A# | ![ASharpZyptian](ModeASharpZyptian.png) |
-| [1627](https://ianring.com/musictheory/scales/1627) | [Zyptian](ModeZyptian.md) | -1 | Bb | Bb, Cb, Db, Ebb, Fb, G, Ab, Bb | ![BFlatZyptian](ModeBFlatZyptian.png) |
 | [2861](https://ianring.com/musictheory/scales/2861) | [Katothian](ModeKatothian.md) | -1 | B | B, C#, D, E, F##, G#, A#, B | ![BNaturalKatothian](ModeBNaturalKatothian.png) |
 | [1739](https://ianring.com/musictheory/scales/1739) | [Phrylian](ModePhrylian.md) | -1 | C# | C#, D, E, F##, G#, A#, B, C# | ![CSharpPhrylian](ModeCSharpPhrylian.png) |
-| [1739](https://ianring.com/musictheory/scales/1739) | [Phrylian](ModePhrylian.md) | 7 | Db | Db, Ebb, Fb, G, Ab, Bb, Cb, Db | ![DFlatPhrylian](ModeDFlatPhrylian.png) |
-| [2917](https://ianring.com/musictheory/scales/2917) | [Kocrian](ModeKocrian.md) | 6 | D | D, E, F##, G#, A#, B, C#, D | ![DNaturalKocrian](ModeDNaturalKocrian.png) |
+| [2917](https://ianring.com/musictheory/scales/2917) | [Kocrian](ModeKocrian.md) | -1 | D | D, E, F##, G#, A#, B, C#, D | ![DNaturalKocrian](ModeDNaturalKocrian.png) |
 | [1753](https://ianring.com/musictheory/scales/1753) | [Mycrian](ModeMycrian.md) | 7 | E | E, F##, G#, A#, B, C#, D, E | ![ENaturalMycrian](ModeENaturalMycrian.png) |
 | [731](https://ianring.com/musictheory/scales/731) | [Ionorian](ModeIonorian.md) | -1 | G | G, Ab, Bb, Cb, Db, Ebb, Fb, G | ![GNaturalIonorian](ModeGNaturalIonorian.png) |
 ## Relative Brightness
@@ -92,9 +89,9 @@ i⁰, ii⁰, iv, VI, vii⁰
 | [2861](https://ianring.com/musictheory/scales/2861) | [Katothian](ModeKatothian.md) | -1 | B | B, C#, D, E, F##, G#, A#, B | ![BNaturalKatothian](CircleOfFifthModeBNaturalKatothian.svg) | ![BNaturalKatothian](ChromaticCircleModeBNaturalKatothian.svg) |
 | [1739](https://ianring.com/musictheory/scales/1739) | [Phrylian](ModePhrylian.md) | -1 | C# | C#, D, E, F##, G#, A#, B, C# | ![CSharpPhrylian](CircleOfFifthModeCSharpPhrylian.svg) | ![CSharpPhrylian](ChromaticCircleModeCSharpPhrylian.svg) |
 | [1739](https://ianring.com/musictheory/scales/1739) | [Phrylian](ModePhrylian.md) | -1 | Db | Db, Ebb, Fb, G, Ab, Bb, Cb, Db | ![DFlatPhrylian](CircleOfFifthModeDFlatPhrylian.svg) | ![DFlatPhrylian](ChromaticCircleModeDFlatPhrylian.svg) |
-| [2917](https://ianring.com/musictheory/scales/2917) | [Kocrian](ModeKocrian.md) | -1 | D | D, E, F##, G#, A#, B, C#, D | ![DNaturalKocrian](CircleOfFifthModeDNaturalKocrian.svg) | ![DNaturalKocrian](ChromaticCircleModeDNaturalKocrian.svg) |
+| [2917](https://ianring.com/musictheory/scales/2917) | [Kocrian](ModeKocrian.md) | 6 | D | D, E, F##, G#, A#, B, C#, D | ![DNaturalKocrian](CircleOfFifthModeDNaturalKocrian.svg) | ![DNaturalKocrian](ChromaticCircleModeDNaturalKocrian.svg) |
 | [1753](https://ianring.com/musictheory/scales/1753) | [Mycrian](ModeMycrian.md) | -1 | E | E, F##, G#, A#, B, C#, D, E | ![ENaturalMycrian](CircleOfFifthModeENaturalMycrian.svg) | ![ENaturalMycrian](ChromaticCircleModeENaturalMycrian.svg) |
-| [731](https://ianring.com/musictheory/scales/731) | [Ionorian](ModeIonorian.md) | -1 | G | G, Ab, Bb, Cb, Db, Ebb, Fb, G | ![GNaturalIonorian](CircleOfFifthModeGNaturalIonorian.svg) | ![GNaturalIonorian](ChromaticCircleModeGNaturalIonorian.svg) |
+| [731](https://ianring.com/musictheory/scales/731) | [Ionorian](ModeIonorian.md) | 7 | G | G, Ab, Bb, Cb, Db, Ebb, Fb, G | ![GNaturalIonorian](CircleOfFifthModeGNaturalIonorian.svg) | ![GNaturalIonorian](ChromaticCircleModeGNaturalIonorian.svg) |
 
 ## Chords
 

@@ -76,7 +76,6 @@ iii
 | [1191](https://ianring.com/musictheory/scales/1191) | [Pyrimic](ModePyrimic.md) | 4 | E | E, F, Gb, A, B, C##, E | ![ENaturalPyrimic](ModeENaturalPyrimic.png) |
 | [2643](https://ianring.com/musictheory/scales/2643) | [Lydimic](ModeLydimic.md) | -1 | F | F, Gb, A, B, C##, D##, F | ![FNaturalLydimic](ModeFNaturalLydimic.png) |
 | [3369](https://ianring.com/musictheory/scales/3369) | [Mixolimic](ModeMixolimic.md) | 2 | F# | F#, G##, A##, B###, D##, E#, F# | ![FSharpMixolimic](ModeFSharpMixolimic.png) |
-| [3369](https://ianring.com/musictheory/scales/3369) | [Mixolimic](ModeMixolimic.md) | 2 | Gb | Gb, A, B, C##, D##, E#, Gb | ![GFlatMixolimic](ModeGFlatMixolimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

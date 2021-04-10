@@ -71,15 +71,10 @@ III, IV
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2725](https://ianring.com/musictheory/scales/2725) | [Gonimic](ModeGonimic.md) | 5 | C# | C#, D#, E##, F###, G###, A###, C# | ![CSharpGonimic](ModeCSharpGonimic.png) |
-| [2725](https://ianring.com/musictheory/scales/2725) | [Gonimic](ModeGonimic.md) | 5 | Db | Db, Eb, F#, G#, A#, B#, Db | ![DFlatGonimic](ModeDFlatGonimic.png) |
 | [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeDarmic.md) | 3 | D# | D#, E##, F###, G###, A###, B##, D# | ![DSharpDarmic](ModeDSharpDarmic.png) |
-| [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeDarmic.md) | 3 | Eb | Eb, F#, G#, A#, B#, C#, Eb | ![EFlatDarmic](ModeEFlatDarmic.png) |
 | [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeLonimic.md) | 6 | F# | F#, G#, A#, B#, C#, D#, F# | ![FSharpLonimic](ModeFSharpLonimic.png) |
-| [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeLonimic.md) | 6 | Gb | Gb, Ab, Bb, C, Db, Eb, Gb | ![GFlatLonimic](ModeGFlatLonimic.png) |
 | [1205](https://ianring.com/musictheory/scales/1205) | [Ionycrimic](ModeIonycrimic.md) | 4 | G# | G#, A#, B#, C#, D#, E##, G# | ![GSharpIonycrimic](ModeGSharpIonycrimic.png) |
-| [1205](https://ianring.com/musictheory/scales/1205) | [Ionycrimic](ModeIonycrimic.md) | 4 | Ab | Ab, Bb, C, Db, Eb, F#, Ab | ![AFlatIonycrimic](ModeAFlatIonycrimic.png) |
 | [1325](https://ianring.com/musictheory/scales/1325) | [Phradimic](ModePhradimic.md) | 2 | A# | A#, B#, C#, D#, E##, F###, A# | ![ASharpPhradimic](ModeASharpPhradimic.png) |
-| [1325](https://ianring.com/musictheory/scales/1325) | [Phradimic](ModePhradimic.md) | 2 | Bb | Bb, C, Db, Eb, F#, G#, Bb | ![BFlatPhradimic](ModeBFlatPhradimic.png) |
 | [1355](https://ianring.com/musictheory/scales/1355) | [Aeolorimic](ModeAeolorimic.md) | -1 | C | C, Db, Eb, F#, G#, A#, C | ![CNaturalAeolorimic](ModeCNaturalAeolorimic.png) |
 ## Relative Brightness
 

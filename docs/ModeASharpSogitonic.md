@@ -70,10 +70,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [595](https://ianring.com/musictheory/scales/595) | [Sogitonic](ModeSogitonic.md) | -1 | A# | A#, B, D, E, G, A# | ![ASharpSogitonic](ModeASharpSogitonic.png) |
-| [595](https://ianring.com/musictheory/scales/595) | [Sogitonic](ModeSogitonic.md) | -1 | Bb | Bb, B, D, E, G, Bb | ![BFlatSogitonic](ModeBFlatSogitonic.png) |
-| [2345](https://ianring.com/musictheory/scales/2345) | [Gothitonic](ModeGothitonic.md) | 4 | B | B, D, E, G, A#, B | ![BNaturalGothitonic](ModeBNaturalGothitonic.png) |
+| [2345](https://ianring.com/musictheory/scales/2345) | [Gothitonic](ModeGothitonic.md) | -1 | B | B, D, E, G, A#, B | ![BNaturalGothitonic](ModeBNaturalGothitonic.png) |
 | [805](https://ianring.com/musictheory/scales/805) | [Rothitonic](ModeRothitonic.md) | 4 | D | D, E, G, A#, B, D | ![DNaturalRothitonic](ModeDNaturalRothitonic.png) |
-| [1225](https://ianring.com/musictheory/scales/1225) | [Lyditonic](ModeLyditonic.md) | 5 | E | E, G, A#, B, D, E | ![ENaturalLyditonic](ModeENaturalLyditonic.png) |
+| [1225](https://ianring.com/musictheory/scales/1225) | [Lyditonic](ModeLyditonic.md) | -1 | E | E, G, A#, B, D, E | ![ENaturalLyditonic](ModeENaturalLyditonic.png) |
 | [665](https://ianring.com/musictheory/scales/665) | [Mythitonic](ModeMythitonic.md) | 5 | G | G, A#, B, D, E, G | ![GNaturalMythitonic](ModeGNaturalMythitonic.png) |
 ## Relative Brightness
 

@@ -78,7 +78,6 @@ i, ii, III⁺, IV, V, vi⁰, vii⁰
 | [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | 5 | A | A, B, C#, D, E, F, G, A | ![ANaturalStydian](ModeANaturalStydian.png) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | B | B, C#, D, E, F, G, A, B | ![BNaturalLorian](ModeBNaturalLorian.png) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | C# | C#, D, E, F, G, A, B, C# | ![CSharpIonadian](ModeCSharpIonadian.png) |
-| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | Db | Db, Ebb, Fb, Gbb, Abb, Bbb, Cb, Db | ![DFlatIonadian](ModeDFlatIonadian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

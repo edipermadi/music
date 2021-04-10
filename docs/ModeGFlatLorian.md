@@ -72,9 +72,7 @@ i⁰, ii⁰, iii, iv, V⁺, VI, VII
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | F# | F#, G#, A, B, C, D, E, F# | ![FSharpLorian](ModeFSharpLorian.png) |
-| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | Gb | Gb, Ab, Bbb, Cb, Dbb, Ebb, Fb, Gb | ![GFlatLorian](ModeGFlatLorian.png) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | G# | G#, A, B, C, D, E, F#, G# | ![GSharpIonadian](ModeGSharpIonadian.png) |
-| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | Ab | Ab, Bbb, Cb, Dbb, Ebb, Fb, Gb, Ab | ![AFlatIonadian](ModeAFlatIonadian.png) |
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | 6 | A | A, B, C, D, E, F#, G#, A | ![ANaturalBocrian](ModeANaturalBocrian.png) |
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | 4 | B | B, C, D, E, F#, G#, A, B | ![BNaturalMixolythian](ModeBNaturalMixolythian.png) |
 | [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | -1 | C | C, D, E, F#, G#, A, B, C | ![CNaturalLarian](ModeCNaturalLarian.png) |

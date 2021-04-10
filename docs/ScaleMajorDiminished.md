@@ -22,4 +22,4 @@ Perfection Profile - false, true, false, true, false, true, false, true
 | Number | Mode | Luminosity | Notes | Illustration | Audio |
 |--------|------|------------|-------|--------------|-------|
 | [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | -1 | C, **C#**, D#, **E**, F#, **G**, A, **A#**, C | ![CNaturalMinorDiminished](ModeCNaturalMinorDiminished.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMinorDiminished.mid?raw=true) | 
-| [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | 7 | **C**, D, **D#**, F, **F#**, G#, **A**, B, **C** | ![CNaturalMajorDiminished](ModeCNaturalMajorDiminished.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMajorDiminished.mid?raw=true) | 
+| [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | -1 | **C**, D, **D#**, F, **F#**, G#, **A**, B, **C** | ![CNaturalMajorDiminished](ModeCNaturalMajorDiminished.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalMajorDiminished.mid?raw=true) | 

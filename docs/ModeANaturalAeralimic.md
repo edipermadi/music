@@ -73,10 +73,8 @@ I
 | [473](https://ianring.com/musictheory/scales/473) | [Aeralimic](ModeAeralimic.md) | -1 | A | A, B#, C#, D#, E, F, A | ![ANaturalAeralimic](ModeANaturalAeralimic.png) |
 | [571](https://ianring.com/musictheory/scales/571) | [Kynimic](ModeKynimic.md) | 5 | C | C, Db, Eb, Fb, Gbb, A, C | ![CNaturalKynimic](ModeCNaturalKynimic.png) |
 | [2333](https://ianring.com/musictheory/scales/2333) | [Stynimic](ModeStynimic.md) | -1 | C# | C#, D#, E, F, G##, A###, C# | ![CSharpStynimic](ModeCSharpStynimic.png) |
-| [2333](https://ianring.com/musictheory/scales/2333) | [Stynimic](ModeStynimic.md) | -1 | Db | Db, Eb, Fb, Gbb, A, B#, Db | ![DFlatStynimic](ModeDFlatStynimic.png) |
 | [1607](https://ianring.com/musictheory/scales/1607) | [Epytimic](ModeEpytimic.md) | -1 | D# | D#, E, F, G##, A###, B##, D# | ![DSharpEpytimic](ModeDSharpEpytimic.png) |
-| [1607](https://ianring.com/musictheory/scales/1607) | [Epytimic](ModeEpytimic.md) | -1 | Eb | Eb, Fb, Gbb, A, B#, C#, Eb | ![EFlatEpytimic](ModeEFlatEpytimic.png) |
-| [2851](https://ianring.com/musictheory/scales/2851) | [Katoptimic](ModeKatoptimic.md) | -1 | E | E, F, G##, A###, B##, C###, E | ![ENaturalKatoptimic](ModeENaturalKatoptimic.png) |
+| [2851](https://ianring.com/musictheory/scales/2851) | [Katoptimic](ModeKatoptimic.md) | 5 | E | E, F, G##, A###, B##, C###, E | ![ENaturalKatoptimic](ModeENaturalKatoptimic.png) |
 | [3473](https://ianring.com/musictheory/scales/3473) | [Lathimic](ModeLathimic.md) | 6 | F | F, G##, A###, B##, C###, D##, F | ![FNaturalLathimic](ModeFNaturalLathimic.png) |
 ## Relative Brightness
 

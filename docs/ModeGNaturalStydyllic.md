@@ -77,10 +77,8 @@ Ib5, v⁰b3, VII⁺
 | [1343](https://ianring.com/musictheory/scales/1343) | [Zalyllic](ModeZalyllic.md) | 3 | B | B, C, C#, D, D#, E, G, A, B | ![BNaturalZalyllic](ModeBNaturalZalyllic.png) |
 | [2719](https://ianring.com/musictheory/scales/2719) | [Zocryllic](ModeZocryllic.md) | 8 | C | C, C#, D, D#, E, G, A, B, C | ![CNaturalZocryllic](ModeCNaturalZocryllic.png) |
 | [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeKatocryllic.md) | -1 | C# | C#, D, D#, E, G, A, B, C, C# | ![CSharpKatocryllic](ModeCSharpKatocryllic.png) |
-| [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeKatocryllic.md) | -1 | Db | Db, D, Eb, E, G, A, B, C, Db | ![DFlatKatocryllic](ModeDFlatKatocryllic.png) |
 | [3751](https://ianring.com/musictheory/scales/3751) | [Aerathyllic](ModeAerathyllic.md) | 6 | D | D, D#, E, G, A, B, C, C#, D | ![DNaturalAerathyllic](ModeDNaturalAerathyllic.png) |
 | [3923](https://ianring.com/musictheory/scales/3923) | [Stoptyllic](ModeStoptyllic.md) | -1 | D# | D#, E, G, A, B, C, C#, D, D# | ![DSharpStoptyllic](ModeDSharpStoptyllic.png) |
-| [3923](https://ianring.com/musictheory/scales/3923) | [Stoptyllic](ModeStoptyllic.md) | -1 | Eb | Eb, E, G, A, B, C, Db, D, Eb | ![EFlatStoptyllic](ModeEFlatStoptyllic.png) |
 | [4009](https://ianring.com/musictheory/scales/4009) | [Phranyllic](ModePhranyllic.md) | 4 | E | E, G, A, B, C, C#, D, D#, E | ![ENaturalPhranyllic](ModeENaturalPhranyllic.png) |
 ## Relative Brightness
 

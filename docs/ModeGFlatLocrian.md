@@ -72,7 +72,6 @@ i⁰, II, iii, iv, V, VI, vii
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | 1 | F# | F#, G, A, B, C, D, E, F# | ![FSharpLocrian](ModeFSharpLocrian.png) |
-| [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | 1 | Gb | Gb, Abb, Bbb, Cb, Dbb, Ebb, Fb, Gb | ![GFlatLocrian](ModeGFlatLocrian.png) |
 | [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeIonian.md) | 6 | G | G, A, B, C, D, E, F#, G | ![GNaturalIonian](ModeGNaturalIonian.png) |
 | [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | 4 | A | A, B, C, D, E, F#, G, A | ![ANaturalDorian](ModeANaturalDorian.png) |
 | [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | 2 | B | B, C, D, E, F#, G, A, B | ![BNaturalPhrygian](ModeBNaturalPhrygian.png) |

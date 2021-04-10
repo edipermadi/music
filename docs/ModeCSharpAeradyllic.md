@@ -73,13 +73,10 @@ iii⁰, iv, v, VI, VIIb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1391](https://ianring.com/musictheory/scales/1391) | [Aeradyllic](ModeAeradyllic.md) | 2 | C# | C#, D, D#, E, F#, G, A, B, C# | ![CSharpAeradyllic](ModeCSharpAeradyllic.png) |
-| [1391](https://ianring.com/musictheory/scales/1391) | [Aeradyllic](ModeAeradyllic.md) | 2 | Db | Db, D, Eb, E, Gb, G, A, B, Db | ![DFlatAeradyllic](ModeDFlatAeradyllic.png) |
 | [2743](https://ianring.com/musictheory/scales/2743) | [Staptyllic](ModeStaptyllic.md) | 7 | D | D, D#, E, F#, G, A, B, C#, D | ![DNaturalStaptyllic](ModeDNaturalStaptyllic.png) |
 | [3419](https://ianring.com/musictheory/scales/3419) | [Danyllic](ModeDanyllic.md) | -1 | D# | D#, E, F#, G, A, B, C#, D, D# | ![DSharpDanyllic](ModeDSharpDanyllic.png) |
-| [3419](https://ianring.com/musictheory/scales/3419) | [Danyllic](ModeDanyllic.md) | -1 | Eb | Eb, E, Gb, G, A, B, Db, D, Eb | ![EFlatDanyllic](ModeEFlatDanyllic.png) |
 | [3757](https://ianring.com/musictheory/scales/3757) | [Goptyllic](ModeGoptyllic.md) | 5 | E | E, F#, G, A, B, C#, D, D#, E | ![ENaturalGoptyllic](ModeENaturalGoptyllic.png) |
 | [1963](https://ianring.com/musictheory/scales/1963) | [Epocryllic](ModeEpocryllic.md) | 3 | F# | F#, G, A, B, C#, D, D#, E, F# | ![FSharpEpocryllic](ModeFSharpEpocryllic.png) |
-| [1963](https://ianring.com/musictheory/scales/1963) | [Epocryllic](ModeEpocryllic.md) | 3 | Gb | Gb, G, A, B, Db, D, Eb, E, Gb | ![GFlatEpocryllic](ModeGFlatEpocryllic.png) |
 | [3029](https://ianring.com/musictheory/scales/3029) | [Ionocryllic](ModeIonocryllic.md) | 8 | G | G, A, B, C#, D, D#, E, F#, G | ![GNaturalIonocryllic](ModeGNaturalIonocryllic.png) |
 | [1781](https://ianring.com/musictheory/scales/1781) | [Gocryllic](ModeGocryllic.md) | 6 | A | A, B, C#, D, D#, E, F#, G, A | ![ANaturalGocryllic](ModeANaturalGocryllic.png) |
 | [1469](https://ianring.com/musictheory/scales/1469) | [Epiryllic](ModeEpiryllic.md) | 4 | B | B, C#, D, D#, E, F#, G, A, B | ![BNaturalEpiryllic](ModeBNaturalEpiryllic.png) |

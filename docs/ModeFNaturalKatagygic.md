@@ -76,15 +76,12 @@ vi⁰, vii, viii⁰, IXb5
 | [1789](https://ianring.com/musictheory/scales/1789) | [Katagygic](ModeKatagygic.md) | 6 | F | F, G, G#, A, A#, B, C, D, D#, F | ![FNaturalKatagygic](ModeFNaturalKatagygic.png) |
 | [1471](https://ianring.com/musictheory/scales/1471) | [Radygic](ModeRadygic.md) | 4 | G | G, G#, A, A#, B, C, D, D#, F, G | ![GNaturalRadygic](ModeGNaturalRadygic.png) |
 | [2783](https://ianring.com/musictheory/scales/2783) | [Gothygic](ModeGothygic.md) | 9 | G# | G#, A, A#, B, C, D, D#, F, G, G# | ![GSharpGothygic](ModeGSharpGothygic.png) |
-| [2783](https://ianring.com/musictheory/scales/2783) | [Gothygic](ModeGothygic.md) | 9 | Ab | Ab, A, Bb, B, C, D, Eb, F, G, Ab | ![AFlatGothygic](ModeAFlatGothygic.png) |
 | [3439](https://ianring.com/musictheory/scales/3439) | [Lythygic](ModeLythygic.md) | 2 | A | A, A#, B, C, D, D#, F, G, G#, A | ![ANaturalLythygic](ModeANaturalLythygic.png) |
 | [3767](https://ianring.com/musictheory/scales/3767) | [Bacrygic](ModeBacrygic.md) | 7 | A# | A#, B, C, D, D#, F, G, G#, A, A# | ![ASharpBacrygic](ModeASharpBacrygic.png) |
-| [3767](https://ianring.com/musictheory/scales/3767) | [Bacrygic](ModeBacrygic.md) | 7 | Bb | Bb, B, C, D, Eb, F, G, Ab, A, Bb | ![BFlatBacrygic](ModeBFlatBacrygic.png) |
 | [3931](https://ianring.com/musictheory/scales/3931) | [Aerygic](ModeAerygic.md) | -1 | B | B, C, D, D#, F, G, G#, A, A#, B | ![BNaturalAerygic](ModeBNaturalAerygic.png) |
 | [4013](https://ianring.com/musictheory/scales/4013) | [Dathygic](ModeDathygic.md) | 5 | C | C, D, D#, F, G, G#, A, A#, B, C | ![CNaturalDathygic](ModeCNaturalDathygic.png) |
 | [2027](https://ianring.com/musictheory/scales/2027) | [Boptygic](ModeBoptygic.md) | 3 | D | D, D#, F, G, G#, A, A#, B, C, D | ![DNaturalBoptygic](ModeDNaturalBoptygic.png) |
 | [3061](https://ianring.com/musictheory/scales/3061) | [Apinygic](ModeApinygic.md) | 8 | D# | D#, F, G, G#, A, A#, B, C, D, D# | ![DSharpApinygic](ModeDSharpApinygic.png) |
-| [3061](https://ianring.com/musictheory/scales/3061) | [Apinygic](ModeApinygic.md) | 8 | Eb | Eb, F, G, Ab, A, Bb, B, C, D, Eb | ![EFlatApinygic](ModeEFlatApinygic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

@@ -70,11 +70,8 @@ V⁺
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | -1 | F# | F#, G#, A#, C, E, F# | ![FSharpKataditonic](ModeFSharpKataditonic.png) |
-| [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | -1 | Gb | Gb, Ab, Bb, C, E, Gb | ![GFlatKataditonic](ModeGFlatKataditonic.png) |
 | [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | -1 | G# | G#, A#, C, E, F#, G# | ![GSharpKoditonic](ModeGSharpKoditonic.png) |
-| [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | -1 | Ab | Ab, Bb, C, E, Gb, Ab | ![AFlatKoditonic](ModeAFlatKoditonic.png) |
 | [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | -1 | A# | A#, C, E, F#, G#, A# | ![ASharpTholitonic](ModeASharpTholitonic.png) |
-| [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | -1 | Bb | Bb, C, E, Gb, Ab, Bb | ![BFlatTholitonic](ModeBFlatTholitonic.png) |
 | [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | C | C, E, F#, G#, A#, C | ![CNaturalBolitonic](ModeCNaturalBolitonic.png) |
 | [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | -1 | E | E, F#, G#, A#, C, E | ![ENaturalBothitonic](ModeENaturalBothitonic.png) |
 ## Relative Brightness

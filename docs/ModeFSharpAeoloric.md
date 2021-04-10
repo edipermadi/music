@@ -69,12 +69,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | -1 | F# | F#, A#, D, D#, F# | ![FSharpAeoloric](ModeFSharpAeoloric.png) |
-| [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | -1 | Gb | Gb, Bb, D, Eb, Gb | ![GFlatAeoloric](ModeGFlatAeoloric.png) |
 | [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | 3 | A# | A#, D, D#, F#, A# | ![ASharpGonic](ModeASharpGonic.png) |
-| [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | 3 | Bb | Bb, D, Eb, Gb, Bb | ![BFlatGonic](ModeBFlatGonic.png) |
 | [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | -1 | D | D, D#, F#, A#, D | ![DNaturalDalic](ModeDNaturalDalic.png) |
 | [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | 4 | D# | D#, F#, A#, D, D# | ![DSharpDygic](ModeDSharpDygic.png) |
-| [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | 4 | Eb | Eb, Gb, Bb, D, Eb | ![EFlatDygic](ModeEFlatDygic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

@@ -71,7 +71,6 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [1201](https://ianring.com/musictheory/scales/1201) | [Aeracritonic](ModeAeracritonic.md) | 3 | A | A, C#, D, E, G, A | ![ANaturalAeracritonic](ModeANaturalAeracritonic.png) |
 | [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | -1 | C# | C#, D, E, G, A, C# | ![CSharpByptitonic](ModeCSharpByptitonic.png) |
-| [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | -1 | Db | Db, D, E, G, A, Db | ![DFlatByptitonic](ModeDFlatByptitonic.png) |
 | [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | 4 | D | D, E, G, A, C#, D | ![DNaturalDaritonic](ModeDNaturalDaritonic.png) |
 | [1577](https://ianring.com/musictheory/scales/1577) | [Lonitonic](ModeLonitonic.md) | 2 | E | E, G, A, C#, D, E | ![ENaturalLonitonic](ModeENaturalLonitonic.png) |
 | [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | 5 | G | G, A, C#, D, E, G | ![GNaturalIonycritonic](ModeGNaturalIonycritonic.png) |

@@ -72,12 +72,10 @@ i⁰b3, vi⁰
 |--------|------|------------|-------|-------|--------------|
 | [1111](https://ianring.com/musictheory/scales/1111) | [Sycrimic](ModeSycrimic.md) | -1 | F | F, Gb, Abb, Bbb, Cb, D#, F | ![FNaturalSycrimic](ModeFNaturalSycrimic.png) |
 | [2603](https://ianring.com/musictheory/scales/2603) | [Gadimic](ModeGadimic.md) | 5 | F# | F#, G, A, B, C###, D###, F# | ![FSharpGadimic](ModeFSharpGadimic.png) |
-| [2603](https://ianring.com/musictheory/scales/2603) | [Gadimic](ModeGadimic.md) | 5 | Gb | Gb, Abb, Bbb, Cb, D#, E#, Gb | ![GFlatGadimic](ModeGFlatGadimic.png) |
 | [3349](https://ianring.com/musictheory/scales/3349) | [Aeolocrimic](ModeAeolocrimic.md) | -1 | G | G, A, B, C###, D###, E##, G | ![GNaturalAeolocrimic](ModeGNaturalAeolocrimic.png) |
 | [1861](https://ianring.com/musictheory/scales/1861) | [Phrygimic](ModePhrygimic.md) | -1 | A | A, B, C###, D###, E##, F##, A | ![ANaturalPhrygimic](ModeANaturalPhrygimic.png) |
 | [1489](https://ianring.com/musictheory/scales/1489) | [Gacrimic](ModeGacrimic.md) | 6 | B | B, C###, D###, E##, F##, G##, B | ![BNaturalGacrimic](ModeBNaturalGacrimic.png) |
 | [349](https://ianring.com/musictheory/scales/349) | [Borimic](ModeBorimic.md) | -1 | D# | D#, E#, F#, G, A, B, D# | ![DSharpBorimic](ModeDSharpBorimic.png) |
-| [349](https://ianring.com/musictheory/scales/349) | [Borimic](ModeBorimic.md) | -1 | Eb | Eb, F, Gb, Abb, Bbb, Cb, Eb | ![EFlatBorimic](ModeEFlatBorimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

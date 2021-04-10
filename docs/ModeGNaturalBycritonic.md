@@ -71,10 +71,8 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [601](https://ianring.com/musictheory/scales/601) | [Bycritonic](ModeBycritonic.md) | -1 | G | G, A#, B, C#, E, G | ![GNaturalBycritonic](ModeGNaturalBycritonic.png) |
 | [587](https://ianring.com/musictheory/scales/587) | [Pathitonic](ModePathitonic.md) | -1 | A# | A#, B, C#, E, G, A# | ![ASharpPathitonic](ModeASharpPathitonic.png) |
-| [587](https://ianring.com/musictheory/scales/587) | [Pathitonic](ModePathitonic.md) | -1 | Bb | Bb, B, Db, E, G, Bb | ![BFlatPathitonic](ModeBFlatPathitonic.png) |
 | [2341](https://ianring.com/musictheory/scales/2341) | [Myditonic](ModeMyditonic.md) | 4 | B | B, C#, E, G, A#, B | ![BNaturalMyditonic](ModeBNaturalMyditonic.png) |
 | [1609](https://ianring.com/musictheory/scales/1609) | [Thyritonic](ModeThyritonic.md) | -1 | C# | C#, E, G, A#, B, C# | ![CSharpThyritonic](ModeCSharpThyritonic.png) |
-| [1609](https://ianring.com/musictheory/scales/1609) | [Thyritonic](ModeThyritonic.md) | -1 | Db | Db, E, G, Bb, B, Db | ![DFlatThyritonic](ModeDFlatThyritonic.png) |
 | [713](https://ianring.com/musictheory/scales/713) | [Thoptitonic](ModeThoptitonic.md) | 5 | E | E, G, A#, B, C#, E | ![ENaturalThoptitonic](ModeENaturalThoptitonic.png) |
 ## Relative Brightness
 

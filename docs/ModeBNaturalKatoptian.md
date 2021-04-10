@@ -71,14 +71,12 @@ IIb5
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [1993](https://ianring.com/musictheory/scales/1993) | [Katoptian](ModeKatoptian.md) | -1 | B | B, C##, D###, E##, F##, G#, A, B | ![BNaturalKatoptian](ModeBNaturalKatoptian.png) |
+| [1993](https://ianring.com/musictheory/scales/1993) | [Katoptian](ModeKatoptian.md) | 7 | B | B, C##, D###, E##, F##, G#, A, B | ![BNaturalKatoptian](ModeBNaturalKatoptian.png) |
 | [761](https://ianring.com/musictheory/scales/761) | [Ponian](ModePonian.md) | 6 | D | D, E#, F#, G, Ab, Bbb, Cb, D | ![DNaturalPonian](ModeDNaturalPonian.png) |
 | [607](https://ianring.com/musictheory/scales/607) | [Kadian](ModeKadian.md) | -1 | F | F, Gb, Abb, Bbbb, Cbbb, Dbbb, Ebb, F | ![FNaturalKadian](ModeFNaturalKadian.png) |
 | [2351](https://ianring.com/musictheory/scales/2351) | [Gynian](ModeGynian.md) | -1 | F# | F#, G, Ab, Bbb, Cb, D, E#, F# | ![FSharpGynian](ModeFSharpGynian.png) |
-| [2351](https://ianring.com/musictheory/scales/2351) | [Gynian](ModeGynian.md) | 6 | Gb | Gb, Abb, Bbbb, Cbbb, Dbbb, Ebb, F, Gb | ![GFlatGynian](ModeGFlatGynian.png) |
-| [3223](https://ianring.com/musictheory/scales/3223) | [Thyphian](ModeThyphian.md) | 7 | G | G, Ab, Bbb, Cb, D, E#, F#, G | ![GNaturalThyphian](ModeGNaturalThyphian.png) |
+| [3223](https://ianring.com/musictheory/scales/3223) | [Thyphian](ModeThyphian.md) | -1 | G | G, Ab, Bbb, Cb, D, E#, F#, G | ![GNaturalThyphian](ModeGNaturalThyphian.png) |
 | [3659](https://ianring.com/musictheory/scales/3659) | [Polian](ModePolian.md) | -1 | G# | G#, A, B, C##, D###, E##, F##, G# | ![GSharpPolian](ModeGSharpPolian.png) |
-| [3659](https://ianring.com/musictheory/scales/3659) | [Polian](ModePolian.md) | -1 | Ab | Ab, Bbb, Cb, D, E#, F#, G, Ab | ![AFlatPolian](ModeAFlatPolian.png) |
 | [3877](https://ianring.com/musictheory/scales/3877) | [Thanian](ModeThanian.md) | 5 | A | A, B, C##, D###, E##, F##, G#, A | ![ANaturalThanian](ModeANaturalThanian.png) |
 ## Relative Brightness
 

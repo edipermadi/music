@@ -480,6 +480,7 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 	_, _ = fmt.Fprintf(&buff, "|-----------------|------------------|\n")
 	_, _ = fmt.Fprintf(&buff, "| ![%s](CircleOfFifthMode%s.svg) | ![%s](ChromaticCircleMode%s.svg) |\n", givenMode, givenMode, givenMode, givenMode)
 
+	uniqueRelativeMode := make(map[int]struct{})
 	_, _ = fmt.Fprintf(&buff, "## Relative Modes\n\n")
 	_, _ = fmt.Fprintf(&buff, "| Number | Mode | Luminosity | Tonic | Notes | Illustration |\n")
 	_, _ = fmt.Fprintf(&buff, "|--------|------|------------|-------|-------|--------------|\n")
@@ -487,10 +488,14 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 		if idx < givenMode.Cardinality() {
 			for _, relativeMode := range mapModeNumberToModes[givenMode.Number()] {
 				if relativeMode.Tonic().Equal(expectedTonic) {
-					canonicalNumber := relativeMode.CanonicalNumber()
-					computedNoteNames := relativeMode.Notes().Names()
-					modeURL := fmt.Sprintf("https://ianring.com/musictheory/scales/%d", canonicalNumber)
-					_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %d | %s | %s | ![%s](Mode%s.png) |\n", canonicalNumber, modeURL, relativeMode.Type(), relativeMode.Type(), relativeMode.Luminosity(), relativeMode.Tonic().Name(), strings.Join(computedNoteNames, ", "), relativeMode, relativeMode)
+					if _, found := uniqueRelativeMode[relativeMode.CanonicalNumber()]; !found{
+						uniqueRelativeMode[relativeMode.CanonicalNumber()] = struct{}{}
+
+						canonicalNumber := relativeMode.CanonicalNumber()
+						computedNoteNames := relativeMode.Notes().Names()
+						modeURL := fmt.Sprintf("https://ianring.com/musictheory/scales/%d", canonicalNumber)
+						_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %d | %s | %s | ![%s](Mode%s.png) |\n", canonicalNumber, modeURL, relativeMode.Type(), relativeMode.Type(), relativeMode.Luminosity(), relativeMode.Tonic().Name(), strings.Join(computedNoteNames, ", "), relativeMode, relativeMode)
+					}
 				}
 			}
 		}

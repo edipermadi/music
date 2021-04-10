@@ -74,7 +74,6 @@ C
 | [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | -1 | E | E, G, A#, C, D, E | ![ENaturalKataritonic](ModeENaturalKataritonic.png) |
 | [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | 4 | G | G, A#, C, D, E, G | ![GNaturalSylitonic](ModeGNaturalSylitonic.png) |
 | [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | -1 | A# | A#, C, D, E, G, A# | ![ASharpThonitonic](ModeASharpThonitonic.png) |
-| [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | -1 | Bb | Bb, C, D, E, G, Bb | ![BFlatThonitonic](ModeBFlatThonitonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

@@ -73,14 +73,11 @@ i⁰, v⁰b3, vi, VII, VIII
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1517](https://ianring.com/musictheory/scales/1517) | [Sagyllic](ModeSagyllic.md) | 4 | F# | F#, G#, A, B, C, C#, D, E, F# | ![FSharpSagyllic](ModeFSharpSagyllic.png) |
-| [1517](https://ianring.com/musictheory/scales/1517) | [Sagyllic](ModeSagyllic.md) | 4 | Gb | Gb, Ab, A, B, C, Db, D, E, Gb | ![GFlatSagyllic](ModeGFlatSagyllic.png) |
 | [1403](https://ianring.com/musictheory/scales/1403) | [Epinyllic](ModeEpinyllic.md) | 2 | G# | G#, A, B, C, C#, D, E, F#, G# | ![GSharpEpinyllic](ModeGSharpEpinyllic.png) |
-| [1403](https://ianring.com/musictheory/scales/1403) | [Epinyllic](ModeEpinyllic.md) | 2 | Ab | Ab, A, B, C, Db, D, E, Gb, Ab | ![AFlatEpinyllic](ModeAFlatEpinyllic.png) |
 | [2749](https://ianring.com/musictheory/scales/2749) | [Katagyllic](ModeKatagyllic.md) | 7 | A | A, B, C, C#, D, E, F#, G#, A | ![ANaturalKatagyllic](ModeANaturalKatagyllic.png) |
 | [1711](https://ianring.com/musictheory/scales/1711) | [Ragyllic](ModeRagyllic.md) | 5 | B | B, C, C#, D, E, F#, G#, A, B | ![BNaturalRagyllic](ModeBNaturalRagyllic.png) |
 | [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeGothyllic.md) | -1 | C | C, C#, D, E, F#, G#, A, B, C | ![CNaturalGothyllic](ModeCNaturalGothyllic.png) |
 | [3499](https://ianring.com/musictheory/scales/3499) | [Lythyllic](ModeLythyllic.md) | 3 | C# | C#, D, E, F#, G#, A, B, C, C# | ![CSharpLythyllic](ModeCSharpLythyllic.png) |
-| [3499](https://ianring.com/musictheory/scales/3499) | [Lythyllic](ModeLythyllic.md) | 3 | Db | Db, D, E, Gb, Ab, A, B, C, Db | ![DFlatLythyllic](ModeDFlatLythyllic.png) |
 | [3797](https://ianring.com/musictheory/scales/3797) | [Rocryllic](ModeRocryllic.md) | 8 | D | D, E, F#, G#, A, B, C, C#, D | ![DNaturalRocryllic](ModeDNaturalRocryllic.png) |
 | [1973](https://ianring.com/musictheory/scales/1973) | [Zyryllic](ModeZyryllic.md) | 6 | E | E, F#, G#, A, B, C, C#, D, E | ![ENaturalZyryllic](ModeENaturalZyryllic.png) |
 ## Relative Brightness

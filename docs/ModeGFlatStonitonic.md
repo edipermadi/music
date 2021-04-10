@@ -70,9 +70,7 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1137](https://ianring.com/musictheory/scales/1137) | [Stonitonic](ModeStonitonic.md) | 3 | F# | F#, A#, B, C, E, F# | ![FSharpStonitonic](ModeFSharpStonitonic.png) |
-| [1137](https://ianring.com/musictheory/scales/1137) | [Stonitonic](ModeStonitonic.md) | 3 | Gb | Gb, Bb, B, C, E, Gb | ![GFlatStonitonic](ModeGFlatStonitonic.png) |
 | [327](https://ianring.com/musictheory/scales/327) | [Syptitonic](ModeSyptitonic.md) | -1 | A# | A#, B, C, E, F#, A# | ![ASharpSyptitonic](ModeASharpSyptitonic.png) |
-| [327](https://ianring.com/musictheory/scales/327) | [Syptitonic](ModeSyptitonic.md) | -1 | Bb | Bb, B, C, E, Gb, Bb | ![BFlatSyptitonic](ModeBFlatSyptitonic.png) |
 | [2211](https://ianring.com/musictheory/scales/2211) | [Ionythitonic](ModeIonythitonic.md) | 4 | B | B, C, E, F#, A#, B | ![BNaturalIonythitonic](ModeBNaturalIonythitonic.png) |
 | [3153](https://ianring.com/musictheory/scales/3153) | [Zathitonic](ModeZathitonic.md) | -1 | C | C, E, F#, A#, B, C | ![CNaturalZathitonic](ModeCNaturalZathitonic.png) |
 | [453](https://ianring.com/musictheory/scales/453) | [Raditonic](ModeRaditonic.md) | 5 | E | E, F#, A#, B, C, E | ![ENaturalRaditonic](ModeENaturalRaditonic.png) |

@@ -71,13 +71,10 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3619](https://ianring.com/musictheory/scales/3619) | [Thanimic](ModeThanimic.md) | 4 | A# | A#, B, C###, E###, F###, G##, A# | ![ASharpThanimic](ModeASharpThanimic.png) |
-| [3619](https://ianring.com/musictheory/scales/3619) | [Thanimic](ModeThanimic.md) | 4 | Bb | Bb, Cb, D#, E###, F###, G##, Bb | ![BFlatThanimic](ModeBFlatThanimic.png) |
 | [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModePonimic.md) | -1 | B | B, C###, E###, F###, G##, A#, B | ![BNaturalPonimic](ModeBNaturalPonimic.png) |
 | [497](https://ianring.com/musictheory/scales/497) | [Kadimic](ModeKadimic.md) | 5 | D# | D#, E###, F###, G##, A#, B, D# | ![DSharpKadimic](ModeDSharpKadimic.png) |
-| [497](https://ianring.com/musictheory/scales/497) | [Kadimic](ModeKadimic.md) | 5 | Eb | Eb, F##, G#, A, Bb, Cb, Eb | ![EFlatKadimic](ModeEFlatKadimic.png) |
 | [287](https://ianring.com/musictheory/scales/287) | [Gynimic](ModeGynimic.md) | -1 | G | G, Ab, Bbb, Cbb, Dbbb, Eb, G | ![GNaturalGynimic](ModeGNaturalGynimic.png) |
 | [2191](https://ianring.com/musictheory/scales/2191) | [Thydimic](ModeThydimic.md) | 6 | G# | G#, A, Bb, Cb, D#, E###, G# | ![GSharpThydimic](ModeGSharpThydimic.png) |
-| [2191](https://ianring.com/musictheory/scales/2191) | [Thydimic](ModeThydimic.md) | 6 | Ab | Ab, Bbb, Cbb, Dbbb, Eb, F##, Ab | ![AFlatThydimic](ModeAFlatThydimic.png) |
 | [3143](https://ianring.com/musictheory/scales/3143) | [Polimic](ModePolimic.md) | -1 | A | A, Bb, Cb, D#, E###, F###, A | ![ANaturalPolimic](ModeANaturalPolimic.png) |
 ## Relative Brightness
 

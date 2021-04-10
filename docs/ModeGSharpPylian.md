@@ -72,14 +72,10 @@ II⁺, IV, Vb5, vii⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | 6 | G# | G#, A, Bb, C#, D#, E#, F##, G# | ![GSharpPylian](ModeGSharpPylian.png) |
-| [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | 6 | Ab | Ab, Bbb, Cbb, Db, Eb, F, G, Ab | ![AFlatPylian](ModeAFlatPylian.png) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | A | A, Bb, C#, D#, E#, F##, G#, A | ![ANaturalIonathian](ModeANaturalIonathian.png) |
 | [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | 4 | A# | A#, B##, C###, D###, E###, F###, G##, A# | ![ASharpPhraptian](ModeASharpPhraptian.png) |
-| [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | 4 | Bb | Bb, C#, D#, E#, F##, G#, A, Bb | ![BFlatPhraptian](ModeBFlatPhraptian.png) |
 | [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | 7 | C# | C#, D#, E#, F##, G#, A, Bb, C# | ![CSharpBacrian](ModeCSharpBacrian.png) |
-| [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | 7 | Db | Db, Eb, F, G, Ab, Bbb, Cbb, Db | ![DFlatBacrian](ModeDFlatBacrian.png) |
 | [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | 5 | D# | D#, E#, F##, G#, A, Bb, C#, D# | ![DSharpKatythian](ModeDSharpKatythian.png) |
-| [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | 5 | Eb | Eb, F, G, Ab, Bbb, Cbb, Db, Eb | ![EFlatKatythian](ModeEFlatKatythian.png) |
 | [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | 3 | F | F, G, Ab, Bbb, Cbb, Db, Eb, F | ![FNaturalMadian](ModeFNaturalMadian.png) |
 | [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeAerygian.md) | -1 | G | G, Ab, Bbb, Cbb, Db, Eb, F, G | ![GNaturalAerygian](ModeGNaturalAerygian.png) |
 ## Relative Brightness

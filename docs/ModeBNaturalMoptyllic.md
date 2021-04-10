@@ -79,7 +79,6 @@ i⁰, II, iii⁰, v⁰, vii⁰, viii
 | [2781](https://ianring.com/musictheory/scales/2781) | [Gycryllic](ModeGycryllic.md) | 8 | F | F, G, G#, A, B, C, D, E, F | ![FNaturalGycryllic](ModeFNaturalGycryllic.png) |
 | [1719](https://ianring.com/musictheory/scales/1719) | [Lyryllic](ModeLyryllic.md) | 6 | G | G, G#, A, B, C, D, E, F, G | ![GNaturalLyryllic](ModeGNaturalLyryllic.png) |
 | [2907](https://ianring.com/musictheory/scales/2907) | [Mogyllic](ModeMogyllic.md) | -1 | G# | G#, A, B, C, D, E, F, G, G# | ![GSharpMogyllic](ModeGSharpMogyllic.png) |
-| [2907](https://ianring.com/musictheory/scales/2907) | [Mogyllic](ModeMogyllic.md) | -1 | Ab | Ab, A, B, C, D, E, F, G, Ab | ![AFlatMogyllic](ModeAFlatMogyllic.png) |
 | [3501](https://ianring.com/musictheory/scales/3501) | [Katodyllic](ModeKatodyllic.md) | 4 | A | A, B, C, D, E, F, G, G#, A | ![ANaturalKatodyllic](ModeANaturalKatodyllic.png) |
 ## Relative Brightness
 

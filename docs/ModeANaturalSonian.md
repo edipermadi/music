@@ -21,7 +21,7 @@
 
 ## Luminosity
 
--1
+5
 
 ## Tonic
 
@@ -71,14 +71,12 @@ C
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [1955](https://ianring.com/musictheory/scales/1955) | [Sonian](ModeSonian.md) | 5 | A | A, Bb, C##, D##, E#, F#, G, A | ![ANaturalSonian](ModeANaturalSonian.png) |
-| [3025](https://ianring.com/musictheory/scales/3025) | [Epycrian](ModeEpycrian.md) | -1 | A# | A#, B###, D##, E#, F#, G, A, A# | ![ASharpEpycrian](ModeASharpEpycrian.png) |
-| [3025](https://ianring.com/musictheory/scales/3025) | [Epycrian](ModeEpycrian.md) | 7 | Bb | Bb, C##, D##, E#, F#, G, A, Bb | ![BFlatEpycrian](ModeBFlatEpycrian.png) |
-| [445](https://ianring.com/musictheory/scales/445) | [Gocrian](ModeGocrian.md) | -1 | D | D, E, F, Gb, Abb, Bbb, Cbb, D | ![DNaturalGocrian](ModeDNaturalGocrian.png) |
-| [1135](https://ianring.com/musictheory/scales/1135) | [Katolian](ModeKatolian.md) | 4 | E | E, F, Gb, Abb, Bbb, Cbb, D, E | ![ENaturalKatolian](ModeENaturalKatolian.png) |
+| [1955](https://ianring.com/musictheory/scales/1955) | [Sonian](ModeSonian.md) | -1 | A | A, Bb, C##, D##, E#, F#, G, A | ![ANaturalSonian](ModeANaturalSonian.png) |
+| [3025](https://ianring.com/musictheory/scales/3025) | [Epycrian](ModeEpycrian.md) | 7 | A# | A#, B###, D##, E#, F#, G, A, A# | ![ASharpEpycrian](ModeASharpEpycrian.png) |
+| [445](https://ianring.com/musictheory/scales/445) | [Gocrian](ModeGocrian.md) | 6 | D | D, E, F, Gb, Abb, Bbb, Cbb, D | ![DNaturalGocrian](ModeDNaturalGocrian.png) |
+| [1135](https://ianring.com/musictheory/scales/1135) | [Katolian](ModeKatolian.md) | -1 | E | E, F, Gb, Abb, Bbb, Cbb, D, E | ![ENaturalKatolian](ModeENaturalKatolian.png) |
 | [2615](https://ianring.com/musictheory/scales/2615) | [Thoptian](ModeThoptian.md) | -1 | F | F, Gb, Abb, Bbb, Cbb, D, E, F | ![FNaturalThoptian](ModeFNaturalThoptian.png) |
 | [3355](https://ianring.com/musictheory/scales/3355) | [Bagian](ModeBagian.md) | -1 | F# | F#, G, A, Bb, C##, D##, E#, F# | ![FSharpBagian](ModeFSharpBagian.png) |
-| [3355](https://ianring.com/musictheory/scales/3355) | [Bagian](ModeBagian.md) | -1 | Gb | Gb, Abb, Bbb, Cbb, D, E, F, Gb | ![GFlatBagian](ModeGFlatBagian.png) |
 | [3725](https://ianring.com/musictheory/scales/3725) | [Kyrian](ModeKyrian.md) | -1 | G | G, A, Bb, C##, D##, E#, F#, G | ![GNaturalKyrian](ModeGNaturalKyrian.png) |
 ## Relative Brightness
 

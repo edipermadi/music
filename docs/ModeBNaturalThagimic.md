@@ -75,7 +75,6 @@ iii⁰
 | [605](https://ianring.com/musictheory/scales/605) | [Dycrimic](ModeDycrimic.md) | -1 | F | F, G, Ab, Bbb, Cb, D, F | ![FNaturalDycrimic](ModeFNaturalDycrimic.png) |
 | [1175](https://ianring.com/musictheory/scales/1175) | [Epycrimic](ModeEpycrimic.md) | 6 | G | G, Ab, Bbb, Cb, D, E#, G | ![GNaturalEpycrimic](ModeGNaturalEpycrimic.png) |
 | [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | -1 | G# | G#, A, B, C##, D###, E###, G# | ![GSharpGocrimic](ModeGSharpGocrimic.png) |
-| [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | -1 | Ab | Ab, Bbb, Cb, D, E#, F##, Ab | ![AFlatGocrimic](ModeAFlatGocrimic.png) |
 | [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | 4 | A | A, B, C##, D###, E###, F###, A | ![ANaturalKatolimic](ModeANaturalKatolimic.png) |
 ## Relative Brightness
 

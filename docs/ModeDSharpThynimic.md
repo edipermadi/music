@@ -71,7 +71,6 @@ I⁺, III⁺, V⁺, vi
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeThynimic.md) | -1 | D# | D#, E#, F##, G##, A##, B###, D# | ![DSharpThynimic](ModeDSharpThynimic.png) |
-| [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeThynimic.md) | -1 | Eb | Eb, F, G, A, B, C##, Eb | ![EFlatThynimic](ModeEFlatThynimic.png) |
 | [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | -1 | F | F, G, A, B, C##, D#, F | ![FNaturalAeolathimic](ModeFNaturalAeolathimic.png) |
 | [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeBythimic.md) | 6 | G | G, A, B, C##, D#, E#, G | ![GNaturalBythimic](ModeGNaturalBythimic.png) |
 | [1381](https://ianring.com/musictheory/scales/1381) | [Padimic](ModePadimic.md) | 4 | A | A, B, C##, D#, E#, F##, A | ![ANaturalPadimic](ModeANaturalPadimic.png) |

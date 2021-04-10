@@ -72,15 +72,10 @@ vi⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | 7 | F# | F#, G#, A#, B##, C###, D##, E#, F# | ![FSharpGycrian](ModeFSharpGycrian.png) |
-| [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | 7 | Gb | Gb, Ab, Bb, C#, D#, E, F, Gb | ![GFlatGycrian](ModeGFlatGycrian.png) |
 | [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | 5 | G# | G#, A#, B##, C###, D##, E#, F#, G# | ![GSharpPyrian](ModeGSharpPyrian.png) |
-| [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | 5 | Ab | Ab, Bb, C#, D#, E, F, Gb, Ab | ![AFlatPyrian](ModeAFlatPyrian.png) |
 | [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | 3 | A# | A#, B##, C###, D##, E#, F#, G#, A# | ![ASharpStathian](ModeASharpStathian.png) |
-| [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | 3 | Bb | Bb, C#, D#, E, F, Gb, Ab, Bb | ![BFlatStathian](ModeBFlatStathian.png) |
 | [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | 6 | C# | C#, D#, E, F, Gb, Ab, Bb, C# | ![CSharpMixonyphian](ModeCSharpMixonyphian.png) |
-| [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | 6 | Db | Db, Eb, Fb, Gbb, Abbb, Bbbb, Cbb, Db | ![DFlatMixonyphian](ModeDFlatMixonyphian.png) |
 | [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | 4 | D# | D#, E, F, Gb, Ab, Bb, C#, D# | ![DSharpMagian](ModeDSharpMagian.png) |
-| [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | 4 | Eb | Eb, Fb, Gbb, Abbb, Bbbb, Cbb, Db, Eb | ![EFlatMagian](ModeEFlatMagian.png) |
 | [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | -1 | E | E, F, Gb, Ab, Bb, C#, D#, E | ![ENaturalDadian](ModeENaturalDadian.png) |
 | [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | 2 | F | F, Gb, Ab, Bb, C#, D#, E, F | ![FNaturalAeolylian](ModeFNaturalAeolylian.png) |
 ## Relative Brightness

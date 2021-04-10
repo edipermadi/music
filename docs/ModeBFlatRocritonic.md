@@ -70,14 +70,10 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1193](https://ianring.com/musictheory/scales/1193) | [Rocritonic](ModeRocritonic.md) | 2 | A# | A#, C#, D#, F, G#, A# | ![ASharpRocritonic](ModeASharpRocritonic.png) |
-| [1193](https://ianring.com/musictheory/scales/1193) | [Rocritonic](ModeRocritonic.md) | 2 | Bb | Bb, Db, Eb, F, Ab, Bb | ![BFlatRocritonic](ModeBFlatRocritonic.png) |
 | [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | 5 | C# | C#, D#, F, G#, A#, C# | ![CSharpPentatonic](ModeCSharpPentatonic.png) |
-| [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | 5 | Db | Db, Eb, F, Ab, Bb, Db | ![DFlatPentatonic](ModeDFlatPentatonic.png) |
 | [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | 3 | D# | D#, F, G#, A#, C#, D# | ![DSharpThaptitonic](ModeDSharpThaptitonic.png) |
-| [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | 3 | Eb | Eb, F, Ab, Bb, Db, Eb | ![EFlatThaptitonic](ModeEFlatThaptitonic.png) |
 | [1321](https://ianring.com/musictheory/scales/1321) | [Epathitonic](ModeEpathitonic.md) | 1 | F | F, G#, A#, C#, D#, F | ![FNaturalEpathitonic](ModeFNaturalEpathitonic.png) |
 | [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | 4 | G# | G#, A#, C#, D#, F, G# | ![GSharpMynitonic](ModeGSharpMynitonic.png) |
-| [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | 4 | Ab | Ab, Bb, Db, Eb, F, Ab | ![AFlatMynitonic](ModeAFlatMynitonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

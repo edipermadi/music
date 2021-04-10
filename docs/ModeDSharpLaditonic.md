@@ -70,10 +70,8 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [369](https://ianring.com/musictheory/scales/369) | [Laditonic](ModeLaditonic.md) | 4 | D# | D#, G, G#, A, B, D# | ![DSharpLaditonic](ModeDSharpLaditonic.png) |
-| [369](https://ianring.com/musictheory/scales/369) | [Laditonic](ModeLaditonic.md) | 4 | Eb | Eb, G, Ab, A, B, Eb | ![EFlatLaditonic](ModeEFlatLaditonic.png) |
 | [279](https://ianring.com/musictheory/scales/279) | [Poditonic](ModePoditonic.md) | -1 | G | G, G#, A, B, D#, G | ![GNaturalPoditonic](ModeGNaturalPoditonic.png) |
 | [2187](https://ianring.com/musictheory/scales/2187) | [Ionothitonic](ModeIonothitonic.md) | 5 | G# | G#, A, B, D#, G, G# | ![GSharpIonothitonic](ModeGSharpIonothitonic.png) |
-| [2187](https://ianring.com/musictheory/scales/2187) | [Ionothitonic](ModeIonothitonic.md) | 5 | Ab | Ab, A, B, Eb, G, Ab | ![AFlatIonothitonic](ModeAFlatIonothitonic.png) |
 | [3141](https://ianring.com/musictheory/scales/3141) | [Kanitonic](ModeKanitonic.md) | -1 | A | A, B, D#, G, G#, A | ![ANaturalKanitonic](ModeANaturalKanitonic.png) |
 | [1809](https://ianring.com/musictheory/scales/1809) | [Ranitonic](ModeRanitonic.md) | -1 | B | B, D#, G, G#, A, B | ![BNaturalRanitonic](ModeBNaturalRanitonic.png) |
 ## Relative Brightness

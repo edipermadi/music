@@ -73,7 +73,6 @@ IV⁺
 | [1605](https://ianring.com/musictheory/scales/1605) | [Zanitonic](ModeZanitonic.md) | -1 | D | D, E, G#, B, C, D | ![DNaturalZanitonic](ModeDNaturalZanitonic.png) |
 | [1425](https://ianring.com/musictheory/scales/1425) | [Ryphitonic](ModeRyphitonic.md) | 5 | E | E, G#, B, C, D, E | ![ENaturalRyphitonic](ModeENaturalRyphitonic.png) |
 | [345](https://ianring.com/musictheory/scales/345) | [Gylitonic](ModeGylitonic.md) | -1 | G# | G#, B, C, D, E, G# | ![GSharpGylitonic](ModeGSharpGylitonic.png) |
-| [345](https://ianring.com/musictheory/scales/345) | [Gylitonic](ModeGylitonic.md) | -1 | Ab | Ab, B, C, D, E, Ab | ![AFlatGylitonic](ModeAFlatGylitonic.png) |
 | [555](https://ianring.com/musictheory/scales/555) | [Aeolycritonic](ModeAeolycritonic.md) | 4 | B | B, C, D, E, G#, B | ![BNaturalAeolycritonic](ModeBNaturalAeolycritonic.png) |
 ## Relative Brightness
 

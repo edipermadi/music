@@ -74,15 +74,12 @@ IIb5, vi⁰b3, VIII⁺
 |--------|------|------------|-------|-------|--------------|
 | [4009](https://ianring.com/musictheory/scales/4009) | [Phranyllic](ModePhranyllic.md) | 4 | G | G, A#, C, D, D#, E, F, F#, G | ![GNaturalPhranyllic](ModeGNaturalPhranyllic.png) |
 | [1013](https://ianring.com/musictheory/scales/1013) | [Stydyllic](ModeStydyllic.md) | 7 | A# | A#, C, D, D#, E, F, F#, G, A# | ![ASharpStydyllic](ModeASharpStydyllic.png) |
-| [1013](https://ianring.com/musictheory/scales/1013) | [Stydyllic](ModeStydyllic.md) | 7 | Bb | Bb, C, D, Eb, E, F, Gb, G, Bb | ![BFlatStydyllic](ModeBFlatStydyllic.png) |
 | [1277](https://ianring.com/musictheory/scales/1277) | [Zadyllic](ModeZadyllic.md) | 5 | C | C, D, D#, E, F, F#, G, A#, C | ![CNaturalZadyllic](ModeCNaturalZadyllic.png) |
 | [1343](https://ianring.com/musictheory/scales/1343) | [Zalyllic](ModeZalyllic.md) | 3 | D | D, D#, E, F, F#, G, A#, C, D | ![DNaturalZalyllic](ModeDNaturalZalyllic.png) |
 | [2719](https://ianring.com/musictheory/scales/2719) | [Zocryllic](ModeZocryllic.md) | 8 | D# | D#, E, F, F#, G, A#, C, D, D# | ![DSharpZocryllic](ModeDSharpZocryllic.png) |
-| [2719](https://ianring.com/musictheory/scales/2719) | [Zocryllic](ModeZocryllic.md) | 8 | Eb | Eb, E, F, Gb, G, Bb, C, D, Eb | ![EFlatZocryllic](ModeEFlatZocryllic.png) |
 | [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeKatocryllic.md) | -1 | E | E, F, F#, G, A#, C, D, D#, E | ![ENaturalKatocryllic](ModeENaturalKatocryllic.png) |
 | [3751](https://ianring.com/musictheory/scales/3751) | [Aerathyllic](ModeAerathyllic.md) | 6 | F | F, F#, G, A#, C, D, D#, E, F | ![FNaturalAerathyllic](ModeFNaturalAerathyllic.png) |
 | [3923](https://ianring.com/musictheory/scales/3923) | [Stoptyllic](ModeStoptyllic.md) | -1 | F# | F#, G, A#, C, D, D#, E, F, F# | ![FSharpStoptyllic](ModeFSharpStoptyllic.png) |
-| [3923](https://ianring.com/musictheory/scales/3923) | [Stoptyllic](ModeStoptyllic.md) | -1 | Gb | Gb, G, Bb, C, D, Eb, E, F, Gb | ![GFlatStoptyllic](ModeGFlatStoptyllic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

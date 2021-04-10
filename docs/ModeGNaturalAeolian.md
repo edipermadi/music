@@ -74,11 +74,9 @@ i, ii⁰, III, iv, v, VI, VII
 | [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | 3 | G | G, A, Bb, C, D, Eb, F, G | ![GNaturalAeolian](ModeGNaturalAeolian.png) |
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | 1 | A | A, Bb, C, D, Eb, F, G, A | ![ANaturalLocrian](ModeANaturalLocrian.png) |
 | [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeIonian.md) | 6 | A# | A#, B#, C##, D#, E#, F##, G##, A# | ![ASharpIonian](ModeASharpIonian.png) |
-| [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeIonian.md) | 6 | Bb | Bb, C, D, Eb, F, G, A, Bb | ![BFlatIonian](ModeBFlatIonian.png) |
 | [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | 4 | C | C, D, Eb, F, G, A, Bb, C | ![CNaturalDorian](ModeCNaturalDorian.png) |
 | [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | 2 | D | D, Eb, F, G, A, Bb, C, D | ![DNaturalPhrygian](ModeDNaturalPhrygian.png) |
 | [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeLydian.md) | 7 | D# | D#, E#, F##, G##, A#, B#, C##, D# | ![DSharpLydian](ModeDSharpLydian.png) |
-| [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeLydian.md) | 7 | Eb | Eb, F, G, A, Bb, C, D, Eb | ![EFlatLydian](ModeEFlatLydian.png) |
 | [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | 5 | F | F, G, A, Bb, C, D, Eb, F | ![FNaturalMixolydian](ModeFNaturalMixolydian.png) |
 ## Relative Brightness
 

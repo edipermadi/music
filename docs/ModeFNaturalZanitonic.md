@@ -74,7 +74,6 @@ III⁺
 | [345](https://ianring.com/musictheory/scales/345) | [Gylitonic](ModeGylitonic.md) | -1 | B | B, D, D#, F, G, B | ![BNaturalGylitonic](ModeBNaturalGylitonic.png) |
 | [555](https://ianring.com/musictheory/scales/555) | [Aeolycritonic](ModeAeolycritonic.md) | 4 | D | D, D#, F, G, B, D | ![DNaturalAeolycritonic](ModeDNaturalAeolycritonic.png) |
 | [2325](https://ianring.com/musictheory/scales/2325) | [Pynitonic](ModePynitonic.md) | -1 | D# | D#, F, G, B, D, D# | ![DSharpPynitonic](ModeDSharpPynitonic.png) |
-| [2325](https://ianring.com/musictheory/scales/2325) | [Pynitonic](ModePynitonic.md) | -1 | Eb | Eb, F, G, B, D, Eb | ![EFlatPynitonic](ModeEFlatPynitonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

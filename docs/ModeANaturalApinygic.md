@@ -76,16 +76,12 @@ Ib5, vii⁰, viii, ix⁰
 | [3061](https://ianring.com/musictheory/scales/3061) | [Apinygic](ModeApinygic.md) | 8 | A | A, B, C#, D, D#, E, F, F#, G#, A | ![ANaturalApinygic](ModeANaturalApinygic.png) |
 | [1789](https://ianring.com/musictheory/scales/1789) | [Katagygic](ModeKatagygic.md) | 6 | B | B, C#, D, D#, E, F, F#, G#, A, B | ![BNaturalKatagygic](ModeBNaturalKatagygic.png) |
 | [1471](https://ianring.com/musictheory/scales/1471) | [Radygic](ModeRadygic.md) | 4 | C# | C#, D, D#, E, F, F#, G#, A, B, C# | ![CSharpRadygic](ModeCSharpRadygic.png) |
-| [1471](https://ianring.com/musictheory/scales/1471) | [Radygic](ModeRadygic.md) | 4 | Db | Db, D, Eb, E, F, Gb, Ab, A, B, Db | ![DFlatRadygic](ModeDFlatRadygic.png) |
 | [2783](https://ianring.com/musictheory/scales/2783) | [Gothygic](ModeGothygic.md) | 9 | D | D, D#, E, F, F#, G#, A, B, C#, D | ![DNaturalGothygic](ModeDNaturalGothygic.png) |
 | [3439](https://ianring.com/musictheory/scales/3439) | [Lythygic](ModeLythygic.md) | 2 | D# | D#, E, F, F#, G#, A, B, C#, D, D# | ![DSharpLythygic](ModeDSharpLythygic.png) |
-| [3439](https://ianring.com/musictheory/scales/3439) | [Lythygic](ModeLythygic.md) | 2 | Eb | Eb, E, F, Gb, Ab, A, B, Db, D, Eb | ![EFlatLythygic](ModeEFlatLythygic.png) |
 | [3767](https://ianring.com/musictheory/scales/3767) | [Bacrygic](ModeBacrygic.md) | 7 | E | E, F, F#, G#, A, B, C#, D, D#, E | ![ENaturalBacrygic](ModeENaturalBacrygic.png) |
 | [3931](https://ianring.com/musictheory/scales/3931) | [Aerygic](ModeAerygic.md) | -1 | F | F, F#, G#, A, B, C#, D, D#, E, F | ![FNaturalAerygic](ModeFNaturalAerygic.png) |
 | [4013](https://ianring.com/musictheory/scales/4013) | [Dathygic](ModeDathygic.md) | 5 | F# | F#, G#, A, B, C#, D, D#, E, F, F# | ![FSharpDathygic](ModeFSharpDathygic.png) |
-| [4013](https://ianring.com/musictheory/scales/4013) | [Dathygic](ModeDathygic.md) | 5 | Gb | Gb, Ab, A, B, Db, D, Eb, E, F, Gb | ![GFlatDathygic](ModeGFlatDathygic.png) |
 | [2027](https://ianring.com/musictheory/scales/2027) | [Boptygic](ModeBoptygic.md) | 3 | G# | G#, A, B, C#, D, D#, E, F, F#, G# | ![GSharpBoptygic](ModeGSharpBoptygic.png) |
-| [2027](https://ianring.com/musictheory/scales/2027) | [Boptygic](ModeBoptygic.md) | 3 | Ab | Ab, A, B, Db, D, Eb, E, F, Gb, Ab | ![AFlatBoptygic](ModeAFlatBoptygic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

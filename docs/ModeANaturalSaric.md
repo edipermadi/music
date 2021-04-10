@@ -70,11 +70,8 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | -1 | A | A, C#, D#, F#, A | ![ANaturalSaric](ModeANaturalSaric.png) |
 | [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | 3 | C# | C#, D#, F#, A, C# | ![CSharpZoptic](ModeCSharpZoptic.png) |
-| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | 3 | Db | Db, Eb, Gb, A, Db | ![DFlatZoptic](ModeDFlatZoptic.png) |
 | [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | -1 | D# | D#, F#, A, C#, D# | ![DSharpAeraphic](ModeDSharpAeraphic.png) |
-| [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | -1 | Eb | Eb, Gb, A, Db, Eb | ![EFlatAeraphic](ModeEFlatAeraphic.png) |
 | [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | 4 | F# | F#, A, C#, D#, F# | ![FSharpByptic](ModeFSharpByptic.png) |
-| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | 4 | Gb | Gb, A, Db, Eb, Gb | ![GFlatByptic](ModeGFlatByptic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

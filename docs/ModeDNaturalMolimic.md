@@ -72,12 +72,9 @@ iv, V
 |--------|------|------------|-------|-------|--------------|
 | [843](https://ianring.com/musictheory/scales/843) | [Molimic](ModeMolimic.md) | -1 | D | D, Eb, F, G#, A#, B, D | ![DNaturalMolimic](ModeDNaturalMolimic.png) |
 | [2469](https://ianring.com/musictheory/scales/2469) | [Staptimic](ModeStaptimic.md) | 5 | D# | D#, E#, F###, G###, A##, B###, D# | ![DSharpStaptimic](ModeDSharpStaptimic.png) |
-| [2469](https://ianring.com/musictheory/scales/2469) | [Staptimic](ModeStaptimic.md) | 5 | Eb | Eb, F, G#, A#, B, C##, Eb | ![EFlatStaptimic](ModeEFlatStaptimic.png) |
 | [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | 3 | F | F, G#, A#, B, C##, D#, F | ![FNaturalBocrimic](ModeFNaturalBocrimic.png) |
 | [717](https://ianring.com/musictheory/scales/717) | [Gythimic](ModeGythimic.md) | 6 | G# | G#, A#, B, C##, D#, E#, G# | ![GSharpGythimic](ModeGSharpGythimic.png) |
-| [717](https://ianring.com/musictheory/scales/717) | [Gythimic](ModeGythimic.md) | 6 | Ab | Ab, Bb, Cb, D, Eb, F, Ab | ![AFlatGythimic](ModeAFlatGythimic.png) |
 | [1203](https://ianring.com/musictheory/scales/1203) | [Pagimic](ModePagimic.md) | 4 | A# | A#, B, C##, D#, E#, F###, A# | ![ASharpPagimic](ModeASharpPagimic.png) |
-| [1203](https://ianring.com/musictheory/scales/1203) | [Pagimic](ModePagimic.md) | 4 | Bb | Bb, Cb, D, Eb, F, G#, Bb | ![BFlatPagimic](ModeBFlatPagimic.png) |
 | [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeAeolythimic.md) | -1 | B | B, C##, D#, E#, F###, G###, B | ![BNaturalAeolythimic](ModeBNaturalAeolythimic.png) |
 ## Relative Brightness
 

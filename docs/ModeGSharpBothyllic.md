@@ -73,16 +73,13 @@ iii⁰b3, iv, V⁺, VI, VIIb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1375](https://ianring.com/musictheory/scales/1375) | [Bothyllic](ModeBothyllic.md) | -1 | G# | G#, A, A#, B, C, D, E, F#, G# | ![GSharpBothyllic](ModeGSharpBothyllic.png) |
-| [1375](https://ianring.com/musictheory/scales/1375) | [Bothyllic](ModeBothyllic.md) | -1 | Ab | Ab, A, Bb, B, C, D, E, Gb, Ab | ![AFlatBothyllic](ModeAFlatBothyllic.png) |
 | [2735](https://ianring.com/musictheory/scales/2735) | [Gynyllic](ModeGynyllic.md) | 7 | A | A, A#, B, C, D, E, F#, G#, A | ![ANaturalGynyllic](ModeANaturalGynyllic.png) |
 | [3415](https://ianring.com/musictheory/scales/3415) | [Ionaptyllic](ModeIonaptyllic.md) | -1 | A# | A#, B, C, D, E, F#, G#, A, A# | ![ASharpIonaptyllic](ModeASharpIonaptyllic.png) |
-| [3415](https://ianring.com/musictheory/scales/3415) | [Ionaptyllic](ModeIonaptyllic.md) | -1 | Bb | Bb, B, C, D, E, Gb, Ab, A, Bb | ![BFlatIonaptyllic](ModeBFlatIonaptyllic.png) |
 | [3755](https://ianring.com/musictheory/scales/3755) | [Phryryllic](ModePhryryllic.md) | 5 | B | B, C, D, E, F#, G#, A, A#, B | ![BNaturalPhryryllic](ModeBNaturalPhryryllic.png) |
 | [3925](https://ianring.com/musictheory/scales/3925) | [Thyryllic](ModeThyryllic.md) | -1 | C | C, D, E, F#, G#, A, A#, B, C | ![CNaturalThyryllic](ModeCNaturalThyryllic.png) |
 | [2005](https://ianring.com/musictheory/scales/2005) | [Gygyllic](ModeGygyllic.md) | 8 | D | D, E, F#, G#, A, A#, B, C, D | ![DNaturalGygyllic](ModeDNaturalGygyllic.png) |
 | [1525](https://ianring.com/musictheory/scales/1525) | [Sodyllic](ModeSodyllic.md) | 6 | E | E, F#, G#, A, A#, B, C, D, E | ![ENaturalSodyllic](ModeENaturalSodyllic.png) |
 | [1405](https://ianring.com/musictheory/scales/1405) | [Goryllic](ModeGoryllic.md) | 4 | F# | F#, G#, A, A#, B, C, D, E, F# | ![FSharpGoryllic](ModeFSharpGoryllic.png) |
-| [1405](https://ianring.com/musictheory/scales/1405) | [Goryllic](ModeGoryllic.md) | 4 | Gb | Gb, Ab, A, Bb, B, C, D, E, Gb | ![GFlatGoryllic](ModeGFlatGoryllic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

@@ -74,7 +74,6 @@ I⁺
 | [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | -1 | A | A, B, C#, F, G, A | ![ANaturalKoditonic](ModeANaturalKoditonic.png) |
 | [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | -1 | B | B, C#, F, G, A, B | ![BNaturalTholitonic](ModeBNaturalTholitonic.png) |
 | [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | C# | C#, F, G, A, B, C# | ![CSharpBolitonic](ModeCSharpBolitonic.png) |
-| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | Db | Db, F, G, A, B, Db | ![DFlatBolitonic](ModeDFlatBolitonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

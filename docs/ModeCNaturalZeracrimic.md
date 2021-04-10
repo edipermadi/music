@@ -76,7 +76,6 @@ iv, v
 | [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeAerathimic.md) | 5 | G | G, A, Bb, C, D, E, G | ![GNaturalAerathimic](ModeGNaturalAerathimic.png) |
 | [1195](https://ianring.com/musictheory/scales/1195) | [Sarimic](ModeSarimic.md) | 3 | A | A, Bb, C, D, E, F##, A | ![ANaturalSarimic](ModeANaturalSarimic.png) |
 | [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | -1 | A# | A#, B#, C##, D##, E###, Cbbb, A# | ![ASharpZoptimic](ModeASharpZoptimic.png) |
-| [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | -1 | Bb | Bb, C, D, E, F##, G##, Bb | ![BFlatZoptimic](ModeBFlatZoptimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

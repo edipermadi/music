@@ -71,11 +71,9 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [589](https://ianring.com/musictheory/scales/589) | [Ionalitonic](ModeIonalitonic.md) | -1 | B | B, C#, D, F, G#, B | ![BNaturalIonalitonic](ModeBNaturalIonalitonic.png) |
 | [1171](https://ianring.com/musictheory/scales/1171) | [Loptitonic](ModeLoptitonic.md) | 5 | C# | C#, D, F, G#, B, C# | ![CSharpLoptitonic](ModeCSharpLoptitonic.png) |
-| [1171](https://ianring.com/musictheory/scales/1171) | [Loptitonic](ModeLoptitonic.md) | 5 | Db | Db, D, F, Ab, B, Db | ![DFlatLoptitonic](ModeDFlatLoptitonic.png) |
 | [2633](https://ianring.com/musictheory/scales/2633) | [Mixitonic](ModeMixitonic.md) | -1 | D | D, F, G#, B, C#, D | ![DNaturalMixitonic](ModeDNaturalMixitonic.png) |
 | [841](https://ianring.com/musictheory/scales/841) | [Phrothitonic](ModePhrothitonic.md) | -1 | F | F, G#, B, C#, D, F | ![FNaturalPhrothitonic](ModeFNaturalPhrothitonic.png) |
 | [617](https://ianring.com/musictheory/scales/617) | [Katycritonic](ModeKatycritonic.md) | 4 | G# | G#, B, C#, D, F, G# | ![GSharpKatycritonic](ModeGSharpKatycritonic.png) |
-| [617](https://ianring.com/musictheory/scales/617) | [Katycritonic](ModeKatycritonic.md) | 4 | Ab | Ab, B, Db, D, F, Ab | ![AFlatKatycritonic](ModeAFlatKatycritonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

@@ -74,15 +74,11 @@ i, II⁺, III, IVb5, viii⁰b3
 |--------|------|------------|-------|-------|--------------|
 | [3755](https://ianring.com/musictheory/scales/3755) | [Phryryllic](ModePhryryllic.md) | 5 | F | F, F#, G#, A#, C, D, D#, E, F | ![FNaturalPhryryllic](ModeFNaturalPhryryllic.png) |
 | [3925](https://ianring.com/musictheory/scales/3925) | [Thyryllic](ModeThyryllic.md) | -1 | F# | F#, G#, A#, C, D, D#, E, F, F# | ![FSharpThyryllic](ModeFSharpThyryllic.png) |
-| [3925](https://ianring.com/musictheory/scales/3925) | [Thyryllic](ModeThyryllic.md) | -1 | Gb | Gb, Ab, Bb, C, D, Eb, E, F, Gb | ![GFlatThyryllic](ModeGFlatThyryllic.png) |
 | [2005](https://ianring.com/musictheory/scales/2005) | [Gygyllic](ModeGygyllic.md) | 8 | G# | G#, A#, C, D, D#, E, F, F#, G# | ![GSharpGygyllic](ModeGSharpGygyllic.png) |
-| [2005](https://ianring.com/musictheory/scales/2005) | [Gygyllic](ModeGygyllic.md) | 8 | Ab | Ab, Bb, C, D, Eb, E, F, Gb, Ab | ![AFlatGygyllic](ModeAFlatGygyllic.png) |
 | [1525](https://ianring.com/musictheory/scales/1525) | [Sodyllic](ModeSodyllic.md) | 6 | A# | A#, C, D, D#, E, F, F#, G#, A# | ![ASharpSodyllic](ModeASharpSodyllic.png) |
-| [1525](https://ianring.com/musictheory/scales/1525) | [Sodyllic](ModeSodyllic.md) | 6 | Bb | Bb, C, D, Eb, E, F, Gb, Ab, Bb | ![BFlatSodyllic](ModeBFlatSodyllic.png) |
 | [1405](https://ianring.com/musictheory/scales/1405) | [Goryllic](ModeGoryllic.md) | 4 | C | C, D, D#, E, F, F#, G#, A#, C | ![CNaturalGoryllic](ModeCNaturalGoryllic.png) |
 | [1375](https://ianring.com/musictheory/scales/1375) | [Bothyllic](ModeBothyllic.md) | -1 | D | D, D#, E, F, F#, G#, A#, C, D | ![DNaturalBothyllic](ModeDNaturalBothyllic.png) |
 | [2735](https://ianring.com/musictheory/scales/2735) | [Gynyllic](ModeGynyllic.md) | 7 | D# | D#, E, F, F#, G#, A#, C, D, D# | ![DSharpGynyllic](ModeDSharpGynyllic.png) |
-| [2735](https://ianring.com/musictheory/scales/2735) | [Gynyllic](ModeGynyllic.md) | 7 | Eb | Eb, E, F, Gb, Ab, Bb, C, D, Eb | ![EFlatGynyllic](ModeEFlatGynyllic.png) |
 | [3415](https://ianring.com/musictheory/scales/3415) | [Ionaptyllic](ModeIonaptyllic.md) | -1 | E | E, F, F#, G#, A#, C, D, D#, E | ![ENaturalIonaptyllic](ModeENaturalIonaptyllic.png) |
 ## Relative Brightness
 

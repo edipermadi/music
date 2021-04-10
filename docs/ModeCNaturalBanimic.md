@@ -72,10 +72,9 @@ IVb5, v
 |--------|------|------------|-------|-------|--------------|
 | [2707](https://ianring.com/musictheory/scales/2707) | [Banimic](ModeBanimic.md) | 6 | C | C, Db, E, F##, G##, A##, C | ![CNaturalBanimic](ModeCNaturalBanimic.png) |
 | [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModePalimic.md) | -1 | C# | C#, D##, E###, Cbbb, Dbbb, Dbb, C# | ![CSharpPalimic](ModeCSharpPalimic.png) |
-| [3401](https://ianring.com/musictheory/scales/3401) | [Palimic](ModePalimic.md) | -1 | Db | Db, E, F##, G##, A##, B#, Db | ![DFlatPalimic](ModeDFlatPalimic.png) |
 | [937](https://ianring.com/musictheory/scales/937) | [Stothimic](ModeStothimic.md) | -1 | E | E, F##, G##, A##, B#, C#, E | ![ENaturalStothimic](ModeENaturalStothimic.png) |
-| [629](https://ianring.com/musictheory/scales/629) | [Aeronimic](ModeAeronimic.md) | -1 | G | G, A, B, C, Db, E, G | ![GNaturalAeronimic](ModeGNaturalAeronimic.png) |
-| [1181](https://ianring.com/musictheory/scales/1181) | [Katagimic](ModeKatagimic.md) | -1 | A | A, B, C, Db, E, F##, A | ![ANaturalKatagimic](ModeANaturalKatagimic.png) |
+| [629](https://ianring.com/musictheory/scales/629) | [Aeronimic](ModeAeronimic.md) | 5 | G | G, A, B, C, Db, E, G | ![GNaturalAeronimic](ModeGNaturalAeronimic.png) |
+| [1181](https://ianring.com/musictheory/scales/1181) | [Katagimic](ModeKatagimic.md) | 6 | A | A, B, C, Db, E, F##, A | ![ANaturalKatagimic](ModeANaturalKatagimic.png) |
 | [1319](https://ianring.com/musictheory/scales/1319) | [Phronimic](ModePhronimic.md) | -1 | B | B, C, Db, E, F##, G##, B | ![BNaturalPhronimic](ModeBNaturalPhronimic.png) |
 ## Relative Brightness
 

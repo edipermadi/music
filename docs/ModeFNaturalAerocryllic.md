@@ -74,13 +74,10 @@ iv⁰b3, VI⁺, VIIIb5
 |--------|------|------------|-------|-------|--------------|
 | [703](https://ianring.com/musictheory/scales/703) | [Aerocryllic](ModeAerocryllic.md) | 7 | F | F, F#, G, G#, A, A#, C, D, F | ![FNaturalAerocryllic](ModeFNaturalAerocryllic.png) |
 | [2399](https://ianring.com/musictheory/scales/2399) | [Zanyllic](ModeZanyllic.md) | -1 | F# | F#, G, G#, A, A#, C, D, F, F# | ![FSharpZanyllic](ModeFSharpZanyllic.png) |
-| [2399](https://ianring.com/musictheory/scales/2399) | [Zanyllic](ModeZanyllic.md) | -1 | Gb | Gb, G, Ab, A, Bb, C, D, F, Gb | ![GFlatZanyllic](ModeGFlatZanyllic.png) |
 | [3247](https://ianring.com/musictheory/scales/3247) | [Aeolonyllic](ModeAeolonyllic.md) | 5 | G | G, G#, A, A#, C, D, F, F#, G | ![GNaturalAeolonyllic](ModeGNaturalAeolonyllic.png) |
 | [3671](https://ianring.com/musictheory/scales/3671) | [Aeonyllic](ModeAeonyllic.md) | -1 | G# | G#, A, A#, C, D, F, F#, G, G# | ![GSharpAeonyllic](ModeGSharpAeonyllic.png) |
-| [3671](https://ianring.com/musictheory/scales/3671) | [Aeonyllic](ModeAeonyllic.md) | -1 | Ab | Ab, A, Bb, C, D, F, Gb, G, Ab | ![AFlatAeonyllic](ModeAFlatAeonyllic.png) |
 | [3883](https://ianring.com/musictheory/scales/3883) | [Kyryllic](ModeKyryllic.md) | 3 | A | A, A#, C, D, F, F#, G, G#, A | ![ANaturalKyryllic](ModeANaturalKyryllic.png) |
 | [3989](https://ianring.com/musictheory/scales/3989) | [Sythyllic](ModeSythyllic.md) | 8 | A# | A#, C, D, F, F#, G, G#, A, A# | ![ASharpSythyllic](ModeASharpSythyllic.png) |
-| [3989](https://ianring.com/musictheory/scales/3989) | [Sythyllic](ModeSythyllic.md) | 8 | Bb | Bb, C, D, F, Gb, G, Ab, A, Bb | ![BFlatSythyllic](ModeBFlatSythyllic.png) |
 | [2021](https://ianring.com/musictheory/scales/2021) | [Katycryllic](ModeKatycryllic.md) | 6 | C | C, D, F, F#, G, G#, A, A#, C | ![CNaturalKatycryllic](ModeCNaturalKatycryllic.png) |
 | [1529](https://ianring.com/musictheory/scales/1529) | [Kataryllic](ModeKataryllic.md) | 4 | D | D, F, F#, G, G#, A, A#, C, D | ![DNaturalKataryllic](ModeDNaturalKataryllic.png) |
 ## Relative Brightness

@@ -73,16 +73,11 @@ iv⁰, vi⁰
 |--------|------|------------|-------|-------|--------------|
 | [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | -1 | G | G, Ab, Bb, C#, D#, E, F#, G | ![GNaturalPhrogian](ModeGNaturalPhrogian.png) |
 | [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | 5 | G# | G#, A#, B##, C###, D##, E##, F##, G# | ![GSharpRathian](ModeGSharpRathian.png) |
-| [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | 5 | Ab | Ab, Bb, C#, D#, E, F#, G, Ab | ![AFlatRathian](ModeAFlatRathian.png) |
 | [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | 3 | A# | A#, B##, C###, D##, E##, F##, G#, A# | ![ASharpIonopian](ModeASharpIonopian.png) |
-| [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | 3 | Bb | Bb, C#, D#, E, F#, G, Ab, Bb | ![BFlatIonopian](ModeBFlatIonopian.png) |
 | [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | 6 | C# | C#, D#, E, F#, G, Ab, Bb, C# | ![CSharpAeologian](ModeCSharpAeologian.png) |
-| [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | 6 | Db | Db, Eb, Fb, Gb, Abb, Bbbb, Cbb, Db | ![DFlatAeologian](ModeDFlatAeologian.png) |
 | [1211](https://ianring.com/musictheory/scales/1211) | [Zadian](ModeZadian.md) | 4 | D# | D#, E, F#, G, Ab, Bb, C#, D# | ![DSharpZadian](ModeDSharpZadian.png) |
-| [1211](https://ianring.com/musictheory/scales/1211) | [Zadian](ModeZadian.md) | 4 | Eb | Eb, Fb, Gb, Abb, Bbbb, Cbb, Db, Eb | ![EFlatZadian](ModeEFlatZadian.png) |
 | [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | -1 | E | E, F#, G, Ab, Bb, C#, D#, E | ![ENaturalSygian](ModeENaturalSygian.png) |
 | [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | 7 | F# | F#, G, Ab, Bb, C#, D#, E, F# | ![FSharpPhralian](ModeFSharpPhralian.png) |
-| [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | 7 | Gb | Gb, Abb, Bbbb, Cbb, Db, Eb, Fb, Gb | ![GFlatPhralian](ModeGFlatPhralian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

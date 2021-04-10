@@ -74,10 +74,8 @@ IVb5
 | [3665](https://ianring.com/musictheory/scales/3665) | [Stalimic](ModeStalimic.md) | -1 | C | C, D##, E##, Cbbb, Cbb, Dbbb, C | ![CNaturalStalimic](ModeCNaturalStalimic.png) |
 | [485](https://ianring.com/musictheory/scales/485) | [Stoptimic](ModeStoptimic.md) | 5 | E | E, F#, G##, A#, B, C, E | ![ENaturalStoptimic](ModeENaturalStoptimic.png) |
 | [1145](https://ianring.com/musictheory/scales/1145) | [Zygimic](ModeZygimic.md) | 3 | F# | F#, G##, A#, B, C, D##, F# | ![FSharpZygimic](ModeFSharpZygimic.png) |
-| [1145](https://ianring.com/musictheory/scales/1145) | [Zygimic](ModeZygimic.md) | 3 | Gb | Gb, A, Bb, Cb, Dbb, E, Gb | ![GFlatZygimic](ModeGFlatZygimic.png) |
 | [655](https://ianring.com/musictheory/scales/655) | [Kataptimic](ModeKataptimic.md) | 6 | A | A, Bb, Cb, Dbb, E, F#, A | ![ANaturalKataptimic](ModeANaturalKataptimic.png) |
 | [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | -1 | A# | A#, B, C, D##, E##, Cbbb, A# | ![ASharpAeolaptimic](ModeASharpAeolaptimic.png) |
-| [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | -1 | Bb | Bb, Cb, Dbb, E, F#, G##, Bb | ![BFlatAeolaptimic](ModeBFlatAeolaptimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

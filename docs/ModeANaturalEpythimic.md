@@ -75,9 +75,7 @@ IV, v⁰
 | [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeRycrimic.md) | -1 | C | C, D##, E##, F###, G##, A##, C | ![CNaturalRycrimic](ModeCNaturalRycrimic.png) |
 | [437](https://ianring.com/musictheory/scales/437) | [Ronimic](ModeRonimic.md) | 5 | E | E, F#, G#, A, B, C, E | ![ENaturalRonimic](ModeENaturalRonimic.png) |
 | [1133](https://ianring.com/musictheory/scales/1133) | [Stycrimic](ModeStycrimic.md) | 3 | F# | F#, G#, A, B, C, D##, F# | ![FSharpStycrimic](ModeFSharpStycrimic.png) |
-| [1133](https://ianring.com/musictheory/scales/1133) | [Stycrimic](ModeStycrimic.md) | 3 | Gb | Gb, Ab, Bbb, Cb, Dbb, E, Gb | ![GFlatStycrimic](ModeGFlatStycrimic.png) |
 | [1307](https://ianring.com/musictheory/scales/1307) | [Katorimic](ModeKatorimic.md) | -1 | G# | G#, A, B, C, D##, E##, G# | ![GSharpKatorimic](ModeGSharpKatorimic.png) |
-| [1307](https://ianring.com/musictheory/scales/1307) | [Katorimic](ModeKatorimic.md) | -1 | Ab | Ab, Bbb, Cb, Dbb, E, F#, Ab | ![AFlatKatorimic](ModeAFlatKatorimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

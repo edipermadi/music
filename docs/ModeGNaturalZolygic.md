@@ -76,15 +76,12 @@ v⁰b3, vi⁰, VII, viii⁰
 | [2813](https://ianring.com/musictheory/scales/2813) | [Zolygic](ModeZolygic.md) | 8 | G | G, A, A#, B, C, C#, D, E, F#, G | ![GNaturalZolygic](ModeGNaturalZolygic.png) |
 | [1727](https://ianring.com/musictheory/scales/1727) | [Sydygic](ModeSydygic.md) | 6 | A | A, A#, B, C, C#, D, E, F#, G, A | ![ANaturalSydygic](ModeANaturalSydygic.png) |
 | [2911](https://ianring.com/musictheory/scales/2911) | [Katygic](ModeKatygic.md) | -1 | A# | A#, B, C, C#, D, E, F#, G, A, A# | ![ASharpKatygic](ModeASharpKatygic.png) |
-| [2911](https://ianring.com/musictheory/scales/2911) | [Katygic](ModeKatygic.md) | -1 | Bb | Bb, B, C, Db, D, E, Gb, G, A, Bb | ![BFlatKatygic](ModeBFlatKatygic.png) |
 | [3503](https://ianring.com/musictheory/scales/3503) | [Zyphygic](ModeZyphygic.md) | 4 | B | B, C, C#, D, E, F#, G, A, A#, B | ![BNaturalZyphygic](ModeBNaturalZyphygic.png) |
 | [3799](https://ianring.com/musictheory/scales/3799) | [Aeralygic](ModeAeralygic.md) | 9 | C | C, C#, D, E, F#, G, A, A#, B, C | ![CNaturalAeralygic](ModeCNaturalAeralygic.png) |
 | [3947](https://ianring.com/musictheory/scales/3947) | [Ryptygic](ModeRyptygic.md) | 2 | C# | C#, D, E, F#, G, A, A#, B, C, C# | ![CSharpRyptygic](ModeCSharpRyptygic.png) |
-| [3947](https://ianring.com/musictheory/scales/3947) | [Ryptygic](ModeRyptygic.md) | 2 | Db | Db, D, E, Gb, G, A, Bb, B, C, Db | ![DFlatRyptygic](ModeDFlatRyptygic.png) |
 | [4021](https://ianring.com/musictheory/scales/4021) | [Bagygic](ModeBagygic.md) | 7 | D | D, E, F#, G, A, A#, B, C, C#, D | ![DNaturalBagygic](ModeDNaturalBagygic.png) |
 | [2029](https://ianring.com/musictheory/scales/2029) | [Mathygic](ModeMathygic.md) | 5 | E | E, F#, G, A, A#, B, C, C#, D, E | ![ENaturalMathygic](ModeENaturalMathygic.png) |
 | [1531](https://ianring.com/musictheory/scales/1531) | [Styptygic](ModeStyptygic.md) | 3 | F# | F#, G, A, A#, B, C, C#, D, E, F# | ![FSharpStyptygic](ModeFSharpStyptygic.png) |
-| [1531](https://ianring.com/musictheory/scales/1531) | [Styptygic](ModeStyptygic.md) | 3 | Gb | Gb, G, A, Bb, B, C, Db, D, E, Gb | ![GFlatStyptygic](ModeGFlatStyptygic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

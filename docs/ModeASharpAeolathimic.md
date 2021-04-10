@@ -71,13 +71,11 @@ II⁺, IV⁺, v, VI⁺
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | -1 | A# | A#, B#, C##, D##, E###, F###, A# | ![ASharpAeolathimic](ModeASharpAeolathimic.png) |
-| [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | -1 | Bb | Bb, C, D, E, F##, G#, Bb | ![BFlatAeolathimic](ModeBFlatAeolathimic.png) |
 | [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeBythimic.md) | 6 | C | C, D, E, F##, G#, A#, C | ![CNaturalBythimic](ModeCNaturalBythimic.png) |
 | [1381](https://ianring.com/musictheory/scales/1381) | [Padimic](ModePadimic.md) | 4 | D | D, E, F##, G#, A#, B#, D | ![DNaturalPadimic](ModeDNaturalPadimic.png) |
 | [1369](https://ianring.com/musictheory/scales/1369) | [Boptimic](ModeBoptimic.md) | -1 | E | E, F##, G#, A#, B#, C##, E | ![ENaturalBoptimic](ModeENaturalBoptimic.png) |
 | [683](https://ianring.com/musictheory/scales/683) | [Stogimic](ModeStogimic.md) | 5 | G | G, Ab, Bb, C, D, E, G | ![GNaturalStogimic](ModeGNaturalStogimic.png) |
 | [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeThynimic.md) | -1 | G# | G#, A#, B#, C##, D##, E###, G# | ![GSharpThynimic](ModeGSharpThynimic.png) |
-| [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeThynimic.md) | -1 | Ab | Ab, Bb, C, D, E, F##, Ab | ![AFlatThynimic](ModeAFlatThynimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

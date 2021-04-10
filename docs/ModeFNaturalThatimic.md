@@ -73,10 +73,8 @@ IV
 | [3237](https://ianring.com/musictheory/scales/3237) | [Thatimic](ModeThatimic.md) | 4 | F | F, G, A#, B#, C###, D##, F | ![FNaturalThatimic](ModeFNaturalThatimic.png) |
 | [1833](https://ianring.com/musictheory/scales/1833) | [Ionacrimic](ModeIonacrimic.md) | 2 | G | G, A#, B#, C###, D##, E#, G | ![GNaturalIonacrimic](ModeGNaturalIonacrimic.png) |
 | [741](https://ianring.com/musictheory/scales/741) | [Gathimic](ModeGathimic.md) | 5 | A# | A#, B#, C###, D##, E#, F##, A# | ![ASharpGathimic](ModeASharpGathimic.png) |
-| [741](https://ianring.com/musictheory/scales/741) | [Gathimic](ModeGathimic.md) | 5 | Bb | Bb, C, D#, E, F, G, Bb | ![BFlatGathimic](ModeBFlatGathimic.png) |
 | [1209](https://ianring.com/musictheory/scales/1209) | [Ionynimic](ModeIonynimic.md) | 3 | C | C, D#, E, F, G, A#, C | ![CNaturalIonynimic](ModeCNaturalIonynimic.png) |
 | [663](https://ianring.com/musictheory/scales/663) | [Phrynimic](ModePhrynimic.md) | 6 | D# | D#, E, F, G, A#, B#, D# | ![DSharpPhrynimic](ModeDSharpPhrynimic.png) |
-| [663](https://ianring.com/musictheory/scales/663) | [Phrynimic](ModePhrynimic.md) | 6 | Eb | Eb, Fb, Gbb, Abb, Bb, C, Eb | ![EFlatPhrynimic](ModeEFlatPhrynimic.png) |
 | [2379](https://ianring.com/musictheory/scales/2379) | [Stathimic](ModeStathimic.md) | -1 | E | E, F, G, A#, B#, C###, E | ![ENaturalStathimic](ModeENaturalStathimic.png) |
 ## Relative Brightness
 

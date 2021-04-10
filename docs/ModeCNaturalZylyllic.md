@@ -77,7 +77,6 @@ Ib5, iv⁰b3, v⁰, VI, vii, viii⁰
 | [1455](https://ianring.com/musictheory/scales/1455) | [Soryllic](ModeSoryllic.md) | 3 | E | E, F, F#, G, A, B, C, D, E | ![ENaturalSoryllic](ModeENaturalSoryllic.png) |
 | [2775](https://ianring.com/musictheory/scales/2775) | [Godyllic](ModeGodyllic.md) | 8 | F | F, F#, G, A, B, C, D, E, F | ![FNaturalGodyllic](ModeFNaturalGodyllic.png) |
 | [3435](https://ianring.com/musictheory/scales/3435) | [Epiphyllic](ModeEpiphyllic.md) | 1 | F# | F#, G, A, B, C, D, E, F, F# | ![FSharpEpiphyllic](ModeFSharpEpiphyllic.png) |
-| [3435](https://ianring.com/musictheory/scales/3435) | [Epiphyllic](ModeEpiphyllic.md) | 1 | Gb | Gb, G, A, B, C, D, E, F, Gb | ![GFlatEpiphyllic](ModeGFlatEpiphyllic.png) |
 | [3765](https://ianring.com/musictheory/scales/3765) | [Aerycryllic](ModeAerycryllic.md) | 6 | G | G, A, B, C, D, E, F, F#, G | ![GNaturalAerycryllic](ModeGNaturalAerycryllic.png) |
 | [1965](https://ianring.com/musictheory/scales/1965) | [Gadyllic](ModeGadyllic.md) | 4 | A | A, B, C, D, E, F, F#, G, A | ![ANaturalGadyllic](ModeANaturalGadyllic.png) |
 | [1515](https://ianring.com/musictheory/scales/1515) | [Solyllic](ModeSolyllic.md) | 2 | B | B, C, D, E, F, F#, G, A, B | ![BNaturalSolyllic](ModeBNaturalSolyllic.png) |

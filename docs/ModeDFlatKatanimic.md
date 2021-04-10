@@ -71,7 +71,6 @@ II, IIIb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3409](https://ianring.com/musictheory/scales/3409) | [Katanimic](ModeKatanimic.md) | -1 | C# | C#, D###, E###, Cbbb, Dbbb, Dbb, C# | ![CSharpKatanimic](ModeCSharpKatanimic.png) |
-| [3409](https://ianring.com/musictheory/scales/3409) | [Katanimic](ModeKatanimic.md) | -1 | Db | Db, E#, F##, G##, A##, B#, Db | ![DFlatKatanimic](ModeDFlatKatanimic.png) |
 | [469](https://ianring.com/musictheory/scales/469) | [Katyrimic](ModeKatyrimic.md) | 6 | F | F, G, A, B, C, Db, F | ![FNaturalKatyrimic](ModeFNaturalKatyrimic.png) |
 | [1141](https://ianring.com/musictheory/scales/1141) | [Rynimic](ModeRynimic.md) | 4 | G | G, A, B, C, Db, E#, G | ![GNaturalRynimic](ModeGNaturalRynimic.png) |
 | [1309](https://ianring.com/musictheory/scales/1309) | [Pogimic](ModePogimic.md) | -1 | A | A, B, C, Db, E#, F##, A | ![ANaturalPogimic](ModeANaturalPogimic.png) |

@@ -76,7 +76,6 @@ IVb5
 | [1145](https://ianring.com/musictheory/scales/1145) | [Zygimic](ModeZygimic.md) | 3 | B | B, C##, D#, E, F, G##, B | ![BNaturalZygimic](ModeBNaturalZygimic.png) |
 | [655](https://ianring.com/musictheory/scales/655) | [Kataptimic](ModeKataptimic.md) | 6 | D | D, Eb, Fb, Gbb, A, B, D | ![DNaturalKataptimic](ModeDNaturalKataptimic.png) |
 | [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | -1 | D# | D#, E, F, G##, A##, B###, D# | ![DSharpAeolaptimic](ModeDSharpAeolaptimic.png) |
-| [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | -1 | Eb | Eb, Fb, Gbb, A, B, C##, Eb | ![EFlatAeolaptimic](ModeEFlatAeolaptimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

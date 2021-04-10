@@ -74,13 +74,10 @@ v⁰b3
 | [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | 5 | F | F, G, A#, B#, C#, D, Eb, F | ![FNaturalPyrian](ModeFNaturalPyrian.png) |
 | [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | 3 | G | G, A#, B#, C#, D, Eb, F, G | ![GNaturalStathian](ModeGNaturalStathian.png) |
 | [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | 6 | A# | A#, B#, C#, D, Eb, F, G, A# | ![ASharpMixonyphian](ModeASharpMixonyphian.png) |
-| [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | 6 | Bb | Bb, C, Db, Ebb, Fbb, Gbb, Abb, Bb | ![BFlatMixonyphian](ModeBFlatMixonyphian.png) |
 | [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | 4 | C | C, Db, Ebb, Fbb, Gbb, Abb, Bb, C | ![CNaturalMagian](ModeCNaturalMagian.png) |
 | [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | -1 | C# | C#, D, Eb, F, G, A#, B#, C# | ![CSharpDadian](ModeCSharpDadian.png) |
-| [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | -1 | Db | Db, Ebb, Fbb, Gbb, Abb, Bb, C, Db | ![DFlatDadian](ModeDFlatDadian.png) |
 | [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | 2 | D | D, Eb, F, G, A#, B#, C#, D | ![DNaturalAeolylian](ModeDNaturalAeolylian.png) |
 | [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | 7 | D# | D#, E#, F##, G###, A###, B##, C##, D# | ![DSharpGycrian](ModeDSharpGycrian.png) |
-| [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | 7 | Eb | Eb, F, G, A#, B#, C#, D, Eb | ![EFlatGycrian](ModeEFlatGycrian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

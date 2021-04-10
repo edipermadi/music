@@ -75,17 +75,13 @@ I, ii⁰, viii⁰b3, ix⁰
 |--------|------|------------|-------|-------|--------------|
 | [4021](https://ianring.com/musictheory/scales/4021) | [Bagygic](ModeBagygic.md) | 7 | E | E, F#, G#, A, B, C, C#, D, D#, E | ![ENaturalBagygic](ModeENaturalBagygic.png) |
 | [2029](https://ianring.com/musictheory/scales/2029) | [Mathygic](ModeMathygic.md) | 5 | F# | F#, G#, A, B, C, C#, D, D#, E, F# | ![FSharpMathygic](ModeFSharpMathygic.png) |
-| [2029](https://ianring.com/musictheory/scales/2029) | [Mathygic](ModeMathygic.md) | 5 | Gb | Gb, Ab, A, B, C, Db, D, Eb, E, Gb | ![GFlatMathygic](ModeGFlatMathygic.png) |
 | [1531](https://ianring.com/musictheory/scales/1531) | [Styptygic](ModeStyptygic.md) | 3 | G# | G#, A, B, C, C#, D, D#, E, F#, G# | ![GSharpStyptygic](ModeGSharpStyptygic.png) |
-| [1531](https://ianring.com/musictheory/scales/1531) | [Styptygic](ModeStyptygic.md) | 3 | Ab | Ab, A, B, C, Db, D, Eb, E, Gb, Ab | ![AFlatStyptygic](ModeAFlatStyptygic.png) |
 | [2813](https://ianring.com/musictheory/scales/2813) | [Zolygic](ModeZolygic.md) | 8 | A | A, B, C, C#, D, D#, E, F#, G#, A | ![ANaturalZolygic](ModeANaturalZolygic.png) |
 | [1727](https://ianring.com/musictheory/scales/1727) | [Sydygic](ModeSydygic.md) | 6 | B | B, C, C#, D, D#, E, F#, G#, A, B | ![BNaturalSydygic](ModeBNaturalSydygic.png) |
 | [2911](https://ianring.com/musictheory/scales/2911) | [Katygic](ModeKatygic.md) | -1 | C | C, C#, D, D#, E, F#, G#, A, B, C | ![CNaturalKatygic](ModeCNaturalKatygic.png) |
 | [3503](https://ianring.com/musictheory/scales/3503) | [Zyphygic](ModeZyphygic.md) | 4 | C# | C#, D, D#, E, F#, G#, A, B, C, C# | ![CSharpZyphygic](ModeCSharpZyphygic.png) |
-| [3503](https://ianring.com/musictheory/scales/3503) | [Zyphygic](ModeZyphygic.md) | 4 | Db | Db, D, Eb, E, Gb, Ab, A, B, C, Db | ![DFlatZyphygic](ModeDFlatZyphygic.png) |
 | [3799](https://ianring.com/musictheory/scales/3799) | [Aeralygic](ModeAeralygic.md) | 9 | D | D, D#, E, F#, G#, A, B, C, C#, D | ![DNaturalAeralygic](ModeDNaturalAeralygic.png) |
 | [3947](https://ianring.com/musictheory/scales/3947) | [Ryptygic](ModeRyptygic.md) | 2 | D# | D#, E, F#, G#, A, B, C, C#, D, D# | ![DSharpRyptygic](ModeDSharpRyptygic.png) |
-| [3947](https://ianring.com/musictheory/scales/3947) | [Ryptygic](ModeRyptygic.md) | 2 | Eb | Eb, E, Gb, Ab, A, B, C, Db, D, Eb | ![EFlatRyptygic](ModeEFlatRyptygic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

@@ -71,11 +71,9 @@ II, iii
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | 2 | F# | F#, G##, A##, B##, C##, D##, F# | ![FSharpEpathimic](ModeFSharpEpathimic.png) |
-| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | 2 | Gb | Gb, A, B, C#, D, E, Gb | ![GFlatEpathimic](ModeGFlatEpathimic.png) |
 | [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | 5 | A | A, B, C#, D, E, F#, A | ![ANaturalMynimic](ModeANaturalMynimic.png) |
 | [1197](https://ianring.com/musictheory/scales/1197) | [Rocrimic](ModeRocrimic.md) | 3 | B | B, C#, D, E, F#, G##, B | ![BNaturalRocrimic](ModeBNaturalRocrimic.png) |
 | [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | 1 | C# | C#, D, E, F#, G##, A##, C# | ![CSharpEporimic](ModeCSharpEporimic.png) |
-| [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | 1 | Db | Db, Ebb, Fb, Gb, A, B, Db | ![DFlatEporimic](ModeDFlatEporimic.png) |
 | [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | 6 | D | D, E, F#, G##, A##, B##, D | ![DNaturalThaptimic](ModeDNaturalThaptimic.png) |
 | [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | 4 | E | E, F#, G##, A##, B##, C##, E | ![ENaturalLothimic](ModeENaturalLothimic.png) |
 ## Relative Brightness

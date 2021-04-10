@@ -71,7 +71,6 @@ II, iii⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeRycrimic.md) | -1 | G# | G#, A###, B###, D##, E#, F##, G# | ![GSharpRycrimic](ModeGSharpRycrimic.png) |
-| [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeRycrimic.md) | -1 | Ab | Ab, B#, C##, D##, E#, F##, Ab | ![AFlatRycrimic](ModeAFlatRycrimic.png) |
 | [437](https://ianring.com/musictheory/scales/437) | [Ronimic](ModeRonimic.md) | 5 | C | C, D, E, F, G, Ab, C | ![CNaturalRonimic](ModeCNaturalRonimic.png) |
 | [1133](https://ianring.com/musictheory/scales/1133) | [Stycrimic](ModeStycrimic.md) | 3 | D | D, E, F, G, Ab, B#, D | ![DNaturalStycrimic](ModeDNaturalStycrimic.png) |
 | [1307](https://ianring.com/musictheory/scales/1307) | [Katorimic](ModeKatorimic.md) | -1 | E | E, F, G, Ab, B#, C##, E | ![ENaturalKatorimic](ModeENaturalKatorimic.png) |

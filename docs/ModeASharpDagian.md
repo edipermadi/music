@@ -21,7 +21,7 @@
 
 ## Luminosity
 
--1
+7
 
 ## Tonic
 
@@ -72,14 +72,12 @@ iv⁰, v⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1735](https://ianring.com/musictheory/scales/1735) | [Dagian](ModeDagian.md) | -1 | A# | A#, B, C, D##, E#, F##, G#, A# | ![ASharpDagian](ModeASharpDagian.png) |
-| [1735](https://ianring.com/musictheory/scales/1735) | [Dagian](ModeDagian.md) | 7 | Bb | Bb, Cb, Dbb, E, F, G, Ab, Bb | ![BFlatDagian](ModeBFlatDagian.png) |
 | [2915](https://ianring.com/musictheory/scales/2915) | [Aeolydian](ModeAeolydian.md) | 6 | B | B, C, D##, E#, F##, G#, A#, B | ![BNaturalAeolydian](ModeBNaturalAeolydian.png) |
-| [3505](https://ianring.com/musictheory/scales/3505) | [Stygian](ModeStygian.md) | 5 | C | C, D##, E#, F##, G#, A#, B, C | ![CNaturalStygian](ModeCNaturalStygian.png) |
+| [3505](https://ianring.com/musictheory/scales/3505) | [Stygian](ModeStygian.md) | -1 | C | C, D##, E#, F##, G#, A#, B, C | ![CNaturalStygian](ModeCNaturalStygian.png) |
 | [475](https://ianring.com/musictheory/scales/475) | [Aeolygian](ModeAeolygian.md) | -1 | E | E, F, G, Ab, Bb, Cb, Dbb, E | ![ENaturalAeolygian](ModeENaturalAeolygian.png) |
-| [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | -1 | F | F, G, Ab, Bb, Cb, Dbb, E, F | ![FNaturalAerogian](ModeFNaturalAerogian.png) |
+| [2285](https://ianring.com/musictheory/scales/2285) | [Aerogian](ModeAerogian.md) | 6 | F | F, G, Ab, Bb, Cb, Dbb, E, F | ![FNaturalAerogian](ModeFNaturalAerogian.png) |
 | [1595](https://ianring.com/musictheory/scales/1595) | [Dacrian](ModeDacrian.md) | 4 | G | G, Ab, Bb, Cb, Dbb, E, F, G | ![GNaturalDacrian](ModeGNaturalDacrian.png) |
 | [2845](https://ianring.com/musictheory/scales/2845) | [Baptian](ModeBaptian.md) | -1 | G# | G#, A#, B, C, D##, E#, F##, G# | ![GSharpBaptian](ModeGSharpBaptian.png) |
-| [2845](https://ianring.com/musictheory/scales/2845) | [Baptian](ModeBaptian.md) | -1 | Ab | Ab, Bb, Cb, Dbb, E, F, G, Ab | ![AFlatBaptian](ModeAFlatBaptian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

@@ -74,10 +74,8 @@ iv
 | [933](https://ianring.com/musictheory/scales/933) | [Dadimic](ModeDadimic.md) | 5 | F | F, G, A#, B#, C#, D, F | ![FNaturalDadimic](ModeFNaturalDadimic.png) |
 | [1257](https://ianring.com/musictheory/scales/1257) | [Aeolyphimic](ModeAeolyphimic.md) | 3 | G | G, A#, B#, C#, D, E#, G | ![GNaturalAeolyphimic](ModeGNaturalAeolyphimic.png) |
 | [669](https://ianring.com/musictheory/scales/669) | [Gycrimic](ModeGycrimic.md) | 6 | A# | A#, B#, C#, D, E#, F##, A# | ![ASharpGycrimic](ModeASharpGycrimic.png) |
-| [669](https://ianring.com/musictheory/scales/669) | [Gycrimic](ModeGycrimic.md) | 6 | Bb | Bb, C, Db, Ebb, F, G, Bb | ![BFlatGycrimic](ModeBFlatGycrimic.png) |
 | [1191](https://ianring.com/musictheory/scales/1191) | [Pyrimic](ModePyrimic.md) | 4 | C | C, Db, Ebb, F, G, A#, C | ![CNaturalPyrimic](ModeCNaturalPyrimic.png) |
 | [2643](https://ianring.com/musictheory/scales/2643) | [Lydimic](ModeLydimic.md) | -1 | C# | C#, D, E#, F##, G###, A###, C# | ![CSharpLydimic](ModeCSharpLydimic.png) |
-| [2643](https://ianring.com/musictheory/scales/2643) | [Lydimic](ModeLydimic.md) | -1 | Db | Db, Ebb, F, G, A#, B#, Db | ![DFlatLydimic](ModeDFlatLydimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

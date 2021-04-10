@@ -70,10 +70,6 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | -1 | G | G, A, C#, D#, G | ![GNaturalDadic](ModeGNaturalDadic.png) |
 | [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | -1 | A | A, C#, D#, G, A | ![ANaturalStathic](ModeANaturalStathic.png) |
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | -1 | C# | C#, D#, G, A, C# | ![CSharpDadic](ModeCSharpDadic.png) |
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | -1 | Db | Db, Eb, G, A, Db | ![DFlatDadic](ModeDFlatDadic.png) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | -1 | D# | D#, G, A, C#, D# | ![DSharpStathic](ModeDSharpStathic.png) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | -1 | Eb | Eb, G, A, Db, Eb | ![EFlatStathic](ModeEFlatStathic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

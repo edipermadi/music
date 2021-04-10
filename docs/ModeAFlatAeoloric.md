@@ -69,7 +69,6 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | -1 | G# | G#, C, E, F, G# | ![GSharpAeoloric](ModeGSharpAeoloric.png) |
-| [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | -1 | Ab | Ab, C, E, F, Ab | ![AFlatAeoloric](ModeAFlatAeoloric.png) |
 | [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | 3 | C | C, E, F, G#, C | ![CNaturalGonic](ModeCNaturalGonic.png) |
 | [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | -1 | E | E, F, G#, C, E | ![ENaturalDalic](ModeENaturalDalic.png) |
 | [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | 4 | F | F, G#, C, E, F | ![FNaturalDygic](ModeFNaturalDygic.png) |

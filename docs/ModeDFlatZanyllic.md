@@ -73,10 +73,8 @@ iii⁰b3, V⁺, VIIb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2399](https://ianring.com/musictheory/scales/2399) | [Zanyllic](ModeZanyllic.md) | -1 | C# | C#, D, D#, E, F, G, A, C, C# | ![CSharpZanyllic](ModeCSharpZanyllic.png) |
-| [2399](https://ianring.com/musictheory/scales/2399) | [Zanyllic](ModeZanyllic.md) | -1 | Db | Db, D, Eb, E, F, G, A, C, Db | ![DFlatZanyllic](ModeDFlatZanyllic.png) |
 | [3247](https://ianring.com/musictheory/scales/3247) | [Aeolonyllic](ModeAeolonyllic.md) | 5 | D | D, D#, E, F, G, A, C, C#, D | ![DNaturalAeolonyllic](ModeDNaturalAeolonyllic.png) |
 | [3671](https://ianring.com/musictheory/scales/3671) | [Aeonyllic](ModeAeonyllic.md) | -1 | D# | D#, E, F, G, A, C, C#, D, D# | ![DSharpAeonyllic](ModeDSharpAeonyllic.png) |
-| [3671](https://ianring.com/musictheory/scales/3671) | [Aeonyllic](ModeAeonyllic.md) | -1 | Eb | Eb, E, F, G, A, C, Db, D, Eb | ![EFlatAeonyllic](ModeEFlatAeonyllic.png) |
 | [3883](https://ianring.com/musictheory/scales/3883) | [Kyryllic](ModeKyryllic.md) | 3 | E | E, F, G, A, C, C#, D, D#, E | ![ENaturalKyryllic](ModeENaturalKyryllic.png) |
 | [3989](https://ianring.com/musictheory/scales/3989) | [Sythyllic](ModeSythyllic.md) | 8 | F | F, G, A, C, C#, D, D#, E, F | ![FNaturalSythyllic](ModeFNaturalSythyllic.png) |
 | [2021](https://ianring.com/musictheory/scales/2021) | [Katycryllic](ModeKatycryllic.md) | 6 | G | G, A, C, C#, D, D#, E, F, G | ![GNaturalKatycryllic](ModeGNaturalKatycryllic.png) |

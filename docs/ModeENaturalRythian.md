@@ -75,10 +75,8 @@ ii⁰, iv⁰
 | [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeDonian.md) | 7 | G | G, A, Bb, Cb, Db, Ebb, Fb, G | ![GNaturalDonian](ModeGNaturalDonian.png) |
 | [1207](https://ianring.com/musictheory/scales/1207) | [Aeoloptian](ModeAeoloptian.md) | 5 | A | A, Bb, Cb, Db, Ebb, Fb, G, A | ![ANaturalAeoloptian](ModeANaturalAeoloptian.png) |
 | [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | -1 | A# | A#, B, C#, D, E, F##, G##, A# | ![ASharpPanian](ModeASharpPanian.png) |
-| [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | -1 | Bb | Bb, Cb, Db, Ebb, Fb, G, A, Bb | ![BFlatPanian](ModeBFlatPanian.png) |
 | [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | 3 | B | B, C#, D, E, F##, G##, A#, B | ![BNaturalLodian](ModeBNaturalLodian.png) |
 | [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | -1 | C# | C#, D, E, F##, G##, A#, B, C# | ![CSharpSolian](ModeCSharpSolian.png) |
-| [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | -1 | Db | Db, Ebb, Fb, G, A, Bb, Cb, Db | ![DFlatSolian](ModeDFlatSolian.png) |
 | [2981](https://ianring.com/musictheory/scales/2981) | [Ionolian](ModeIonolian.md) | 6 | D | D, E, F##, G##, A#, B, C#, D | ![DNaturalIonolian](ModeDNaturalIonolian.png) |
 ## Relative Brightness
 

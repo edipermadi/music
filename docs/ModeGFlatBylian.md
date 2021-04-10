@@ -72,7 +72,6 @@ IVb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | -1 | F# | F#, G, A, B#, C##, D##, E#, F# | ![FSharpBylian](ModeFSharpBylian.png) |
-| [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | -1 | Gb | Gb, Abb, Bbb, C, D, E, F, Gb | ![GFlatBylian](ModeGFlatBylian.png) |
 | [3749](https://ianring.com/musictheory/scales/3749) | [Zothian](ModeZothian.md) | 5 | G | G, A, B#, C##, D##, E#, F#, G | ![GNaturalZothian](ModeGNaturalZothian.png) |
 | [1961](https://ianring.com/musictheory/scales/1961) | [Soptian](ModeSoptian.md) | 3 | A | A, B#, C##, D##, E#, F#, G, A | ![ANaturalSoptian](ModeANaturalSoptian.png) |
 | [757](https://ianring.com/musictheory/scales/757) | [Ionyptian](ModeIonyptian.md) | 6 | C | C, D, E, F, Gb, Abb, Bbb, C | ![CNaturalIonyptian](ModeCNaturalIonyptian.png) |

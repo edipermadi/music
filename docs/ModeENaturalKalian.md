@@ -76,10 +76,8 @@ vii⁰b3
 | [1989](https://ianring.com/musictheory/scales/1989) | [Dydian](ModeDydian.md) | 7 | G | G, A, B##, C##, D#, E, F, G | ![GNaturalDydian](ModeGNaturalDydian.png) |
 | [1521](https://ianring.com/musictheory/scales/1521) | [Stanian](ModeStanian.md) | 5 | A | A, B##, C##, D#, E, F, G, A | ![ANaturalStanian](ModeANaturalStanian.png) |
 | [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeEpanian.md) | -1 | C# | C#, D, Eb, Fb, Gbb, Abb, Bbb, C# | ![CSharpEpanian](ModeCSharpEpanian.png) |
-| [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeEpanian.md) | -1 | Db | Db, Ebb, Fbb, Gbbb, D###, E###, Cbbb, Db | ![DFlatEpanian](ModeDFlatEpanian.png) |
 | [2223](https://ianring.com/musictheory/scales/2223) | [Konian](ModeKonian.md) | 6 | D | D, Eb, Fb, Gbb, Abb, Bbb, C#, D | ![DNaturalKonian](ModeDNaturalKonian.png) |
 | [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeStocrian.md) | -1 | D# | D#, E, F, G, A, B##, C##, D# | ![DSharpStocrian](ModeDSharpStocrian.png) |
-| [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeStocrian.md) | -1 | Eb | Eb, Fb, Gbb, Abb, Bbb, C#, D, Eb | ![EFlatStocrian](ModeEFlatStocrian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

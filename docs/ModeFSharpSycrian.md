@@ -21,7 +21,7 @@
 
 ## Luminosity
 
-6
+-1
 
 ## Tonic
 
@@ -71,16 +71,13 @@ iii, V⁺, VIIb5
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [623](https://ianring.com/musictheory/scales/623) | [Sycrian](ModeSycrian.md) | -1 | F# | F#, G, Ab, Bbb, Cb, Dbb, Eb, F# | ![FSharpSycrian](ModeFSharpSycrian.png) |
-| [623](https://ianring.com/musictheory/scales/623) | [Sycrian](ModeSycrian.md) | 6 | Gb | Gb, Abb, Bbbb, Cbbb, Dbbb, Dbb, Eb, Gb | ![GFlatSycrian](ModeGFlatSycrian.png) |
-| [2359](https://ianring.com/musictheory/scales/2359) | [Gadian](ModeGadian.md) | -1 | G | G, Ab, Bbb, Cb, Dbb, Eb, F#, G | ![GNaturalGadian](ModeGNaturalGadian.png) |
+| [623](https://ianring.com/musictheory/scales/623) | [Sycrian](ModeSycrian.md) | 6 | F# | F#, G, Ab, Bbb, Cb, Dbb, Eb, F# | ![FSharpSycrian](ModeFSharpSycrian.png) |
+| [2359](https://ianring.com/musictheory/scales/2359) | [Gadian](ModeGadian.md) | 6 | G | G, Ab, Bbb, Cb, Dbb, Eb, F#, G | ![GNaturalGadian](ModeGNaturalGadian.png) |
 | [3227](https://ianring.com/musictheory/scales/3227) | [Aeolocrian](ModeAeolocrian.md) | -1 | G# | G#, A, B, C, D#, E##, F##, G# | ![GSharpAeolocrian](ModeGSharpAeolocrian.png) |
-| [3227](https://ianring.com/musictheory/scales/3227) | [Aeolocrian](ModeAeolocrian.md) | -1 | Ab | Ab, Bbb, Cb, Dbb, Eb, F#, G, Ab | ![AFlatAeolocrian](ModeAFlatAeolocrian.png) |
 | [3661](https://ianring.com/musictheory/scales/3661) | [Mixodorian](ModeMixodorian.md) | -1 | A | A, B, C, D#, E##, F##, G#, A | ![ANaturalMixodorian](ModeANaturalMixodorian.png) |
 | [1939](https://ianring.com/musictheory/scales/1939) | [Dathian](ModeDathian.md) | -1 | B | B, C, D#, E##, F##, G#, A, B | ![BNaturalDathian](ModeBNaturalDathian.png) |
 | [3017](https://ianring.com/musictheory/scales/3017) | [Gacrian](ModeGacrian.md) | -1 | C | C, D#, E##, F##, G#, A, B, C | ![CNaturalGacrian](ModeCNaturalGacrian.png) |
-| [889](https://ianring.com/musictheory/scales/889) | [Borian](ModeBorian.md) | 6 | D# | D#, E##, F##, G#, A, B, C, D# | ![DSharpBorian](ModeDSharpBorian.png) |
-| [889](https://ianring.com/musictheory/scales/889) | [Borian](ModeBorian.md) | -1 | Eb | Eb, F#, G, Ab, Bbb, Cb, Dbb, Eb | ![EFlatBorian](ModeEFlatBorian.png) |
+| [889](https://ianring.com/musictheory/scales/889) | [Borian](ModeBorian.md) | -1 | D# | D#, E##, F##, G#, A, B, C, D# | ![DSharpBorian](ModeDSharpBorian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

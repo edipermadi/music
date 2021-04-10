@@ -73,15 +73,11 @@ IIb5
 |--------|------|------------|-------|-------|--------------|
 | [3921](https://ianring.com/musictheory/scales/3921) | [Pythian](ModePythian.md) | -1 | D | D, E##, F###, G###, A##, B#, C#, D | ![DNaturalPythian](ModeDNaturalPythian.png) |
 | [501](https://ianring.com/musictheory/scales/501) | [Katylian](ModeKatylian.md) | 6 | F# | F#, G#, A#, B, C, Db, Ebb, F# | ![FSharpKatylian](ModeFSharpKatylian.png) |
-| [501](https://ianring.com/musictheory/scales/501) | [Katylian](ModeKatylian.md) | 6 | Gb | Gb, Ab, Bb, Cb, Dbb, Ebbb, Fbbb, Gb | ![GFlatKatylian](ModeGFlatKatylian.png) |
 | [1149](https://ianring.com/musictheory/scales/1149) | [Bydian](ModeBydian.md) | 4 | G# | G#, A#, B, C, Db, Ebb, F#, G# | ![GSharpBydian](ModeGSharpBydian.png) |
-| [1149](https://ianring.com/musictheory/scales/1149) | [Bydian](ModeBydian.md) | 4 | Ab | Ab, Bb, Cb, Dbb, Ebbb, Fbbb, Gb, Ab | ![AFlatBydian](ModeAFlatBydian.png) |
 | [1311](https://ianring.com/musictheory/scales/1311) | [Bynian](ModeBynian.md) | -1 | A# | A#, B, C, Db, Ebb, F#, G#, A# | ![ASharpBynian](ModeASharpBynian.png) |
-| [1311](https://ianring.com/musictheory/scales/1311) | [Bynian](ModeBynian.md) | -1 | Bb | Bb, Cb, Dbb, Ebbb, Fbbb, Gb, Ab, Bb | ![BFlatBynian](ModeBFlatBynian.png) |
 | [2703](https://ianring.com/musictheory/scales/2703) | [Galian](ModeGalian.md) | 7 | B | B, C, Db, Ebb, F#, G#, A#, B | ![BNaturalGalian](ModeBNaturalGalian.png) |
 | [3399](https://ianring.com/musictheory/scales/3399) | [Zonian](ModeZonian.md) | -1 | C | C, Db, Ebb, F#, G#, A#, B, C | ![CNaturalZonian](ModeCNaturalZonian.png) |
 | [3747](https://ianring.com/musictheory/scales/3747) | [Myrian](ModeMyrian.md) | 5 | C# | C#, D, E##, F###, G###, A##, B#, C# | ![CSharpMyrian](ModeCSharpMyrian.png) |
-| [3747](https://ianring.com/musictheory/scales/3747) | [Myrian](ModeMyrian.md) | 5 | Db | Db, Ebb, F#, G#, A#, B, C, Db | ![DFlatMyrian](ModeDFlatMyrian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

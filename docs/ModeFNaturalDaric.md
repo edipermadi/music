@@ -72,7 +72,6 @@ C
 | [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | -1 | A | A, C, D#, F, A | ![ANaturalLonic](ModeANaturalLonic.png) |
 | [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | 3 | C | C, D#, F, A, C | ![CNaturalPhradic](ModeCNaturalPhradic.png) |
 | [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | -1 | D# | D#, F, A, C, D# | ![DSharpBolic](ModeDSharpBolic.png) |
-| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | -1 | Eb | Eb, F, A, C, Eb | ![EFlatBolic](ModeEFlatBolic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

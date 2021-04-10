@@ -73,13 +73,10 @@ I, ii⁰, iv⁰, vi⁰, vii, viii⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2997](https://ianring.com/musictheory/scales/2997) | [Ionoptyllic](ModeIonoptyllic.md) | 7 | D# | D#, F, G, G#, A#, B, C, D, D# | ![DSharpIonoptyllic](ModeDSharpIonoptyllic.png) |
-| [2997](https://ianring.com/musictheory/scales/2997) | [Ionoptyllic](ModeIonoptyllic.md) | 7 | Eb | Eb, F, G, Ab, Bb, B, C, D, Eb | ![EFlatIonoptyllic](ModeEFlatIonoptyllic.png) |
 | [1773](https://ianring.com/musictheory/scales/1773) | [Aeoloryllic](ModeAeoloryllic.md) | 5 | F | F, G, G#, A#, B, C, D, D#, F | ![FNaturalAeoloryllic](ModeFNaturalAeoloryllic.png) |
 | [1467](https://ianring.com/musictheory/scales/1467) | [Thydyllic](ModeThydyllic.md) | 3 | G | G, G#, A#, B, C, D, D#, F, G | ![GNaturalThydyllic](ModeGNaturalThydyllic.png) |
 | [2781](https://ianring.com/musictheory/scales/2781) | [Gycryllic](ModeGycryllic.md) | 8 | G# | G#, A#, B, C, D, D#, F, G, G# | ![GSharpGycryllic](ModeGSharpGycryllic.png) |
-| [2781](https://ianring.com/musictheory/scales/2781) | [Gycryllic](ModeGycryllic.md) | 8 | Ab | Ab, Bb, B, C, D, Eb, F, G, Ab | ![AFlatGycryllic](ModeAFlatGycryllic.png) |
 | [1719](https://ianring.com/musictheory/scales/1719) | [Lyryllic](ModeLyryllic.md) | 6 | A# | A#, B, C, D, D#, F, G, G#, A# | ![ASharpLyryllic](ModeASharpLyryllic.png) |
-| [1719](https://ianring.com/musictheory/scales/1719) | [Lyryllic](ModeLyryllic.md) | 6 | Bb | Bb, B, C, D, Eb, F, G, Ab, Bb | ![BFlatLyryllic](ModeBFlatLyryllic.png) |
 | [2907](https://ianring.com/musictheory/scales/2907) | [Mogyllic](ModeMogyllic.md) | -1 | B | B, C, D, D#, F, G, G#, A#, B | ![BNaturalMogyllic](ModeBNaturalMogyllic.png) |
 | [3501](https://ianring.com/musictheory/scales/3501) | [Katodyllic](ModeKatodyllic.md) | 4 | C | C, D, D#, F, G, G#, A#, B, C | ![CNaturalKatodyllic](ModeCNaturalKatodyllic.png) |
 | [1899](https://ianring.com/musictheory/scales/1899) | [Moptyllic](ModeMoptyllic.md) | 2 | D | D, D#, F, G, G#, A#, B, C, D | ![DNaturalMoptyllic](ModeDNaturalMoptyllic.png) |

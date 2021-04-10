@@ -21,7 +21,7 @@
 
 ## Luminosity
 
--1
+7
 
 ## Tonic
 
@@ -72,15 +72,12 @@ ii⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3537](https://ianring.com/musictheory/scales/3537) | [Katogian](ModeKatogian.md) | 7 | D# | D#, E###, Cbbb, Cbb, Dbbb, Ebbb, Fbbb, D# | ![DSharpKatogian](ModeDSharpKatogian.png) |
-| [3537](https://ianring.com/musictheory/scales/3537) | [Katogian](ModeKatogian.md) | -1 | Eb | Eb, F##, G##, A#, B, C#, D, Eb | ![EFlatKatogian](ModeEFlatKatogian.png) |
 | [477](https://ianring.com/musictheory/scales/477) | [Stacrian](ModeStacrian.md) | 7 | G | G, A, Bb, Cb, Db, Ebb, Fbb, G | ![GNaturalStacrian](ModeGNaturalStacrian.png) |
-| [1143](https://ianring.com/musictheory/scales/1143) | [Styrian](ModeStyrian.md) | 5 | A | A, Bb, Cb, Db, Ebb, Fbb, G, A | ![ANaturalStyrian](ModeANaturalStyrian.png) |
+| [1143](https://ianring.com/musictheory/scales/1143) | [Styrian](ModeStyrian.md) | -1 | A | A, Bb, Cb, Db, Ebb, Fbb, G, A | ![ANaturalStyrian](ModeANaturalStyrian.png) |
 | [2619](https://ianring.com/musictheory/scales/2619) | [Ionyrian](ModeIonyrian.md) | 6 | A# | A#, B, C#, D, Eb, F##, G##, A# | ![ASharpIonyrian](ModeASharpIonyrian.png) |
-| [2619](https://ianring.com/musictheory/scales/2619) | [Ionyrian](ModeIonyrian.md) | -1 | Bb | Bb, Cb, Db, Ebb, Fbb, G, A, Bb | ![BFlatIonyrian](ModeBFlatIonyrian.png) |
 | [3357](https://ianring.com/musictheory/scales/3357) | [Phrodian](ModePhrodian.md) | -1 | B | B, C#, D, Eb, F##, G##, A#, B | ![BNaturalPhrodian](ModeBNaturalPhrodian.png) |
 | [1863](https://ianring.com/musictheory/scales/1863) | [Pycrian](ModePycrian.md) | -1 | C# | C#, D, Eb, F##, G##, A#, B, C# | ![CSharpPycrian](ModeCSharpPycrian.png) |
-| [1863](https://ianring.com/musictheory/scales/1863) | [Pycrian](ModePycrian.md) | -1 | Db | Db, Ebb, Fbb, G, A, Bb, Cb, Db | ![DFlatPycrian](ModeDFlatPycrian.png) |
-| [2979](https://ianring.com/musictheory/scales/2979) | [Gyptian](ModeGyptian.md) | -1 | D | D, Eb, F##, G##, A#, B, C#, D | ![DNaturalGyptian](ModeDNaturalGyptian.png) |
+| [2979](https://ianring.com/musictheory/scales/2979) | [Gyptian](ModeGyptian.md) | 6 | D | D, Eb, F##, G##, A#, B, C#, D | ![DNaturalGyptian](ModeDNaturalGyptian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

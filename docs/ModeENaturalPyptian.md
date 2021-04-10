@@ -74,11 +74,8 @@ i⁰b3, ii, III⁺, IV⁺, V, VIb5, vii⁰
 | [1367](https://ianring.com/musictheory/scales/1367) | [Pyptian](ModePyptian.md) | -1 | E | E, F, Gb, Ab, Bb, C, D, E | ![ENaturalPyptian](ModeENaturalPyptian.png) |
 | [2731](https://ianring.com/musictheory/scales/2731) | [Thydian](ModeThydian.md) | 6 | F | F, Gb, Ab, Bb, C, D, E, F | ![FNaturalThydian](ModeFNaturalThydian.png) |
 | [3413](https://ianring.com/musictheory/scales/3413) | [Aeolynian](ModeAeolynian.md) | -1 | F# | F#, G#, A#, B#, C##, D##, E#, F# | ![FSharpAeolynian](ModeFSharpAeolynian.png) |
-| [3413](https://ianring.com/musictheory/scales/3413) | [Aeolynian](ModeAeolynian.md) | -1 | Gb | Gb, Ab, Bb, C, D, E, F, Gb | ![GFlatAeolynian](ModeGFlatAeolynian.png) |
 | [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeAeroptian.md) | -1 | G# | G#, A#, B#, C##, D##, E#, F#, G# | ![GSharpAeroptian](ModeGSharpAeroptian.png) |
-| [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeAeroptian.md) | -1 | Ab | Ab, Bb, C, D, E, F, Gb, Ab | ![AFlatAeroptian](ModeAFlatAeroptian.png) |
 | [1493](https://ianring.com/musictheory/scales/1493) | [Phryrian](ModePhryrian.md) | 7 | A# | A#, B#, C##, D##, E#, F#, G#, A# | ![ASharpPhryrian](ModeASharpPhryrian.png) |
-| [1493](https://ianring.com/musictheory/scales/1493) | [Phryrian](ModePhryrian.md) | 7 | Bb | Bb, C, D, E, F, Gb, Ab, Bb | ![BFlatPhryrian](ModeBFlatPhryrian.png) |
 | [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | 5 | C | C, D, E, F, Gb, Ab, Bb, C | ![CNaturalGothian](ModeCNaturalGothian.png) |
 | [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | -1 | D | D, E, F, Gb, Ab, Bb, C, D | ![DNaturalStorian](ModeDNaturalStorian.png) |
 ## Relative Brightness

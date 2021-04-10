@@ -21,7 +21,7 @@
 
 ## Luminosity
 
--1
+7
 
 ## Tonic
 
@@ -72,20 +72,18 @@ i⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [477](https://ianring.com/musictheory/scales/477) | [Stacrian](ModeStacrian.md) | 7 | A | A, B, C, Db, Eb, Fb, Gbb, A | ![ANaturalStacrian](ModeANaturalStacrian.png) |
-| [1143](https://ianring.com/musictheory/scales/1143) | [Styrian](ModeStyrian.md) | 5 | B | B, C, Db, Eb, Fb, Gbb, A, B | ![BNaturalStyrian](ModeBNaturalStyrian.png) |
+| [1143](https://ianring.com/musictheory/scales/1143) | [Styrian](ModeStyrian.md) | -1 | B | B, C, Db, Eb, Fb, Gbb, A, B | ![BNaturalStyrian](ModeBNaturalStyrian.png) |
 | [2619](https://ianring.com/musictheory/scales/2619) | [Ionyrian](ModeIonyrian.md) | -1 | C | C, Db, Eb, Fb, Gbb, A, B, C | ![CNaturalIonyrian](ModeCNaturalIonyrian.png) |
 | [3357](https://ianring.com/musictheory/scales/3357) | [Phrodian](ModePhrodian.md) | -1 | C# | C#, D#, E, F, G##, A##, B#, C# | ![CSharpPhrodian](ModeCSharpPhrodian.png) |
-| [3357](https://ianring.com/musictheory/scales/3357) | [Phrodian](ModePhrodian.md) | -1 | Db | Db, Eb, Fb, Gbb, A, B, C, Db | ![DFlatPhrodian](ModeDFlatPhrodian.png) |
 | [1863](https://ianring.com/musictheory/scales/1863) | [Pycrian](ModePycrian.md) | -1 | D# | D#, E, F, G##, A##, B#, C#, D# | ![DSharpPycrian](ModeDSharpPycrian.png) |
-| [1863](https://ianring.com/musictheory/scales/1863) | [Pycrian](ModePycrian.md) | -1 | Eb | Eb, Fb, Gbb, A, B, C, Db, Eb | ![EFlatPycrian](ModeEFlatPycrian.png) |
-| [2979](https://ianring.com/musictheory/scales/2979) | [Gyptian](ModeGyptian.md) | -1 | E | E, F, G##, A##, B#, C#, D#, E | ![ENaturalGyptian](ModeENaturalGyptian.png) |
-| [3537](https://ianring.com/musictheory/scales/3537) | [Katogian](ModeKatogian.md) | 7 | F | F, G##, A##, B#, C#, D#, E, F | ![FNaturalKatogian](ModeFNaturalKatogian.png) |
+| [2979](https://ianring.com/musictheory/scales/2979) | [Gyptian](ModeGyptian.md) | 6 | E | E, F, G##, A##, B#, C#, D#, E | ![ENaturalGyptian](ModeENaturalGyptian.png) |
+| [3537](https://ianring.com/musictheory/scales/3537) | [Katogian](ModeKatogian.md) | -1 | F | F, G##, A##, B#, C#, D#, E, F | ![FNaturalKatogian](ModeFNaturalKatogian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
-| [477](https://ianring.com/musictheory/scales/477) | [Stacrian](ModeStacrian.md) | -1 | A | A, B, C, Db, Eb, Fb, Gbb, A | ![ANaturalStacrian](CircleOfFifthModeANaturalStacrian.svg) | ![ANaturalStacrian](ChromaticCircleModeANaturalStacrian.svg) |
-| [1143](https://ianring.com/musictheory/scales/1143) | [Styrian](ModeStyrian.md) | -1 | B | B, C, Db, Eb, Fb, Gbb, A, B | ![BNaturalStyrian](CircleOfFifthModeBNaturalStyrian.svg) | ![BNaturalStyrian](ChromaticCircleModeBNaturalStyrian.svg) |
+| [477](https://ianring.com/musictheory/scales/477) | [Stacrian](ModeStacrian.md) | 7 | A | A, B, C, Db, Eb, Fb, Gbb, A | ![ANaturalStacrian](CircleOfFifthModeANaturalStacrian.svg) | ![ANaturalStacrian](ChromaticCircleModeANaturalStacrian.svg) |
+| [1143](https://ianring.com/musictheory/scales/1143) | [Styrian](ModeStyrian.md) | 5 | B | B, C, Db, Eb, Fb, Gbb, A, B | ![BNaturalStyrian](CircleOfFifthModeBNaturalStyrian.svg) | ![BNaturalStyrian](ChromaticCircleModeBNaturalStyrian.svg) |
 | [2619](https://ianring.com/musictheory/scales/2619) | [Ionyrian](ModeIonyrian.md) | 6 | C | C, Db, Eb, Fb, Gbb, A, B, C | ![CNaturalIonyrian](CircleOfFifthModeCNaturalIonyrian.svg) | ![CNaturalIonyrian](ChromaticCircleModeCNaturalIonyrian.svg) |
 | [3357](https://ianring.com/musictheory/scales/3357) | [Phrodian](ModePhrodian.md) | -1 | C# | C#, D#, E, F, G##, A##, B#, C# | ![CSharpPhrodian](CircleOfFifthModeCSharpPhrodian.svg) | ![CSharpPhrodian](ChromaticCircleModeCSharpPhrodian.svg) |
 | [3357](https://ianring.com/musictheory/scales/3357) | [Phrodian](ModePhrodian.md) | -1 | Db | Db, Eb, Fb, Gbb, A, B, C, Db | ![DFlatPhrodian](CircleOfFifthModeDFlatPhrodian.svg) | ![DFlatPhrodian](ChromaticCircleModeDFlatPhrodian.svg) |

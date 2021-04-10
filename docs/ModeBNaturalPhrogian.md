@@ -77,9 +77,7 @@ iv⁰, vi⁰
 | [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | 6 | F | F, G, Ab, Bb, Cb, Dbb, Ebb, F | ![FNaturalAeologian](ModeFNaturalAeologian.png) |
 | [1211](https://ianring.com/musictheory/scales/1211) | [Zadian](ModeZadian.md) | 4 | G | G, Ab, Bb, Cb, Dbb, Ebb, F, G | ![GNaturalZadian](ModeGNaturalZadian.png) |
 | [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | -1 | G# | G#, A#, B, C, D, E#, F##, G# | ![GSharpSygian](ModeGSharpSygian.png) |
-| [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | -1 | Ab | Ab, Bb, Cb, Dbb, Ebb, F, G, Ab | ![AFlatSygian](ModeAFlatSygian.png) |
 | [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | 7 | A# | A#, B, C, D, E#, F##, G#, A# | ![ASharpPhralian](ModeASharpPhralian.png) |
-| [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | 7 | Bb | Bb, Cb, Dbb, Ebb, F, G, Ab, Bb | ![BFlatPhralian](ModeBFlatPhralian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

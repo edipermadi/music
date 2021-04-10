@@ -76,10 +76,8 @@ II, IIIb5, v⁰b3, VII⁺
 | [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | 5 | A | A, B, C#, D, Eb, Fb, G, A | ![ANaturalKatythian](ModeANaturalKatythian.png) |
 | [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | 3 | B | B, C#, D, Eb, Fb, G, A, B | ![BNaturalMadian](ModeBNaturalMadian.png) |
 | [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeAerygian.md) | -1 | C# | C#, D, Eb, Fb, G, A, B, C# | ![CSharpAerygian](ModeCSharpAerygian.png) |
-| [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeAerygian.md) | -1 | Db | Db, Ebb, Fbb, Gbbb, Abb, Bbb, Cb, Db | ![DFlatAerygian](ModeDFlatAerygian.png) |
 | [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | 6 | D | D, Eb, Fb, G, A, B, C#, D | ![DNaturalPylian](ModeDNaturalPylian.png) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | D# | D#, E, F##, G##, A##, B##, C##, D# | ![DSharpIonathian](ModeDSharpIonathian.png) |
-| [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | Eb | Eb, Fb, G, A, B, C#, D, Eb | ![EFlatIonathian](ModeEFlatIonathian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

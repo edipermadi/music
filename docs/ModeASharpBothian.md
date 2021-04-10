@@ -71,15 +71,13 @@ ii, IV⁺, Vb5, VIb5
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [2455](https://ianring.com/musictheory/scales/2455) | [Bothian](ModeBothian.md) | -1 | A# | A#, B, C, D, E#, F#, G##, A# | ![ASharpBothian](ModeASharpBothian.png) |
-| [2455](https://ianring.com/musictheory/scales/2455) | [Bothian](ModeBothian.md) | -1 | Bb | Bb, Cb, Dbb, Ebb, F, Gb, A, Bb | ![BFlatBothian](ModeBFlatBothian.png) |
+| [2455](https://ianring.com/musictheory/scales/2455) | [Bothian](ModeBothian.md) | 7 | A# | A#, B, C, D, E#, F#, G##, A# | ![ASharpBothian](ModeASharpBothian.png) |
 | [3275](https://ianring.com/musictheory/scales/3275) | [Katadian](ModeKatadian.md) | -1 | B | B, C, D, E#, F#, G##, A#, B | ![BNaturalKatadian](ModeBNaturalKatadian.png) |
 | [3685](https://ianring.com/musictheory/scales/3685) | [Kodian](ModeKodian.md) | 5 | C | C, D, E#, F#, G##, A#, B, C | ![CNaturalKodian](ModeCNaturalKodian.png) |
 | [1945](https://ianring.com/musictheory/scales/1945) | [Zarian](ModeZarian.md) | -1 | D | D, E#, F#, G##, A#, B, C, D | ![DNaturalZarian](ModeDNaturalZarian.png) |
 | [755](https://ianring.com/musictheory/scales/755) | [Phrythian](ModePhrythian.md) | -1 | F | F, Gb, A, Bb, Cb, Dbb, Ebb, F | ![FNaturalPhrythian](ModeFNaturalPhrythian.png) |
-| [2425](https://ianring.com/musictheory/scales/2425) | [Rorian](ModeRorian.md) | -1 | F# | F#, G##, A#, B, C, D, E#, F# | ![FSharpRorian](ModeFSharpRorian.png) |
-| [2425](https://ianring.com/musictheory/scales/2425) | [Rorian](ModeRorian.md) | -1 | Gb | Gb, A, Bb, Cb, Dbb, Ebb, F, Gb | ![GFlatRorian](ModeGFlatRorian.png) |
-| [815](https://ianring.com/musictheory/scales/815) | [Bolian](ModeBolian.md) | -1 | A | A, Bb, Cb, Dbb, Ebb, F, Gb, A | ![ANaturalBolian](ModeANaturalBolian.png) |
+| [2425](https://ianring.com/musictheory/scales/2425) | [Rorian](ModeRorian.md) | 6 | F# | F#, G##, A#, B, C, D, E#, F# | ![FSharpRorian](ModeFSharpRorian.png) |
+| [815](https://ianring.com/musictheory/scales/815) | [Bolian](ModeBolian.md) | 6 | A | A, Bb, Cb, Dbb, Ebb, F, Gb, A | ![ANaturalBolian](ModeANaturalBolian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

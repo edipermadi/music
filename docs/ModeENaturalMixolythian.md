@@ -77,7 +77,6 @@ i, II⁺, III, IV, v⁰, vi⁰, vii
 | [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | 5 | A | A, B, C#, D, E, F, G, A | ![ANaturalStydian](ModeANaturalStydian.png) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | B | B, C#, D, E, F, G, A, B | ![BNaturalLorian](ModeBNaturalLorian.png) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | C# | C#, D, E, F, G, A, B, C# | ![CSharpIonadian](ModeCSharpIonadian.png) |
-| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | Db | Db, Ebb, Fb, Gbb, Abb, Bbb, Cb, Db | ![DFlatIonadian](ModeDFlatIonadian.png) |
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | 6 | D | D, E, F, G, A, B, C#, D | ![DNaturalBocrian](ModeDNaturalBocrian.png) |
 ## Relative Brightness
 

@@ -71,13 +71,10 @@ i
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [669](https://ianring.com/musictheory/scales/669) | [Gycrimic](ModeGycrimic.md) | 6 | G# | G#, A#, B, C, D#, E#, G# | ![GSharpGycrimic](ModeGSharpGycrimic.png) |
-| [669](https://ianring.com/musictheory/scales/669) | [Gycrimic](ModeGycrimic.md) | 6 | Ab | Ab, Bb, Cb, Dbb, Eb, F, Ab | ![AFlatGycrimic](ModeAFlatGycrimic.png) |
 | [1191](https://ianring.com/musictheory/scales/1191) | [Pyrimic](ModePyrimic.md) | 4 | A# | A#, B, C, D#, E#, F###, A# | ![ASharpPyrimic](ModeASharpPyrimic.png) |
-| [1191](https://ianring.com/musictheory/scales/1191) | [Pyrimic](ModePyrimic.md) | 4 | Bb | Bb, Cb, Dbb, Eb, F, G#, Bb | ![BFlatPyrimic](ModeBFlatPyrimic.png) |
 | [2643](https://ianring.com/musictheory/scales/2643) | [Lydimic](ModeLydimic.md) | -1 | B | B, C, D#, E#, F###, G###, B | ![BNaturalLydimic](ModeBNaturalLydimic.png) |
 | [3369](https://ianring.com/musictheory/scales/3369) | [Mixolimic](ModeMixolimic.md) | 2 | C | C, D#, E#, F###, G###, A##, C | ![CNaturalMixolimic](ModeCNaturalMixolimic.png) |
 | [933](https://ianring.com/musictheory/scales/933) | [Dadimic](ModeDadimic.md) | 5 | D# | D#, E#, F###, G###, A##, B#, D# | ![DSharpDadimic](ModeDSharpDadimic.png) |
-| [933](https://ianring.com/musictheory/scales/933) | [Dadimic](ModeDadimic.md) | 5 | Eb | Eb, F, G#, A#, B, C, Eb | ![EFlatDadimic](ModeEFlatDadimic.png) |
 | [1257](https://ianring.com/musictheory/scales/1257) | [Aeolyphimic](ModeAeolyphimic.md) | 3 | F | F, G#, A#, B, C, D#, F | ![FNaturalAeolyphimic](ModeFNaturalAeolyphimic.png) |
 ## Relative Brightness
 

@@ -78,7 +78,6 @@ v⁰, vii⁰
 | [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeDonian.md) | 7 | F | F, G, Ab, Bbb, Cb, Dbb, Ebb, F | ![FNaturalDonian](ModeFNaturalDonian.png) |
 | [1207](https://ianring.com/musictheory/scales/1207) | [Aeoloptian](ModeAeoloptian.md) | 5 | G | G, Ab, Bbb, Cb, Dbb, Ebb, F, G | ![GNaturalAeoloptian](ModeGNaturalAeoloptian.png) |
 | [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | -1 | G# | G#, A, B, C, D, E#, F##, G# | ![GSharpPanian](ModeGSharpPanian.png) |
-| [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | -1 | Ab | Ab, Bbb, Cb, Dbb, Ebb, F, G, Ab | ![AFlatPanian](ModeAFlatPanian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

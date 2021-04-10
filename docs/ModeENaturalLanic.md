@@ -71,7 +71,6 @@ C
 | [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | -1 | E | E, G, G#, C, E | ![ENaturalLanic](ModeENaturalLanic.png) |
 | [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | 3 | G | G, G#, C, E, G | ![GNaturalPyrric](ModeGNaturalPyrric.png) |
 | [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | -1 | G# | G#, C, E, G, G# | ![GSharpZyphic](ModeGSharpZyphic.png) |
-| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | -1 | Ab | Ab, C, E, G, Ab | ![AFlatZyphic](ModeAFlatZyphic.png) |
 | [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | 4 | C | C, E, G, G#, C | ![CNaturalEpogic](ModeCNaturalEpogic.png) |
 ## Relative Brightness
 

@@ -73,15 +73,11 @@ ii⁰b3
 |--------|------|------------|-------|-------|--------------|
 | [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | 4 | F | F, Gb, Abb, Bbbb, Cbb, Dbb, Eb, F | ![FNaturalMagian](ModeFNaturalMagian.png) |
 | [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | -1 | F# | F#, G, Ab, Bb, C, D#, E#, F# | ![FSharpDadian](ModeFSharpDadian.png) |
-| [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | -1 | Gb | Gb, Abb, Bbbb, Cbb, Dbb, Eb, F, Gb | ![GFlatDadian](ModeGFlatDadian.png) |
 | [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | 2 | G | G, Ab, Bb, C, D#, E#, F#, G | ![GNaturalAeolylian](ModeGNaturalAeolylian.png) |
 | [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | 7 | G# | G#, A#, B#, C###, D###, E##, F##, G# | ![GSharpGycrian](ModeGSharpGycrian.png) |
-| [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | 7 | Ab | Ab, Bb, C, D#, E#, F#, G, Ab | ![AFlatGycrian](ModeAFlatGycrian.png) |
 | [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | 5 | A# | A#, B#, C###, D###, E##, F##, G#, A# | ![ASharpPyrian](ModeASharpPyrian.png) |
-| [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | 5 | Bb | Bb, C, D#, E#, F#, G, Ab, Bb | ![BFlatPyrian](ModeBFlatPyrian.png) |
 | [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | 3 | C | C, D#, E#, F#, G, Ab, Bb, C | ![CNaturalStathian](ModeCNaturalStathian.png) |
 | [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | 6 | D# | D#, E#, F#, G, Ab, Bb, C, D# | ![DSharpMixonyphian](ModeDSharpMixonyphian.png) |
-| [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | 6 | Eb | Eb, F, Gb, Abb, Bbbb, Cbb, Dbb, Eb | ![EFlatMixonyphian](ModeEFlatMixonyphian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

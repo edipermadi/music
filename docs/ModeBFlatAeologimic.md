@@ -71,13 +71,10 @@ V, VI
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [795](https://ianring.com/musictheory/scales/795) | [Aeologimic](ModeAeologimic.md) | -1 | A# | A#, B, C#, D, E##, F##, A# | ![ASharpAeologimic](ModeASharpAeologimic.png) |
-| [795](https://ianring.com/musictheory/scales/795) | [Aeologimic](ModeAeologimic.md) | -1 | Bb | Bb, Cb, Db, Ebb, F#, G, Bb | ![BFlatAeologimic](ModeBFlatAeologimic.png) |
-| [2445](https://ianring.com/musictheory/scales/2445) | [Zadimic](ModeZadimic.md) | -1 | B | B, C#, D, E##, F##, G###, B | ![BNaturalZadimic](ModeBNaturalZadimic.png) |
+| [2445](https://ianring.com/musictheory/scales/2445) | [Zadimic](ModeZadimic.md) | 6 | B | B, C#, D, E##, F##, G###, B | ![BNaturalZadimic](ModeBNaturalZadimic.png) |
 | [1635](https://ianring.com/musictheory/scales/1635) | [Sygimic](ModeSygimic.md) | -1 | C# | C#, D, E##, F##, G###, A##, C# | ![CSharpSygimic](ModeCSharpSygimic.png) |
-| [1635](https://ianring.com/musictheory/scales/1635) | [Sygimic](ModeSygimic.md) | -1 | Db | Db, Ebb, F#, G, A#, B, Db | ![DFlatSygimic](ModeDFlatSygimic.png) |
 | [2865](https://ianring.com/musictheory/scales/2865) | [Solimic](ModeSolimic.md) | 5 | D | D, E##, F##, G###, A##, B##, D | ![DNaturalSolimic](ModeDNaturalSolimic.png) |
-| [435](https://ianring.com/musictheory/scales/435) | [Ionolimic](ModeIonolimic.md) | 5 | F# | F#, G, A#, B, C#, D, F# | ![FSharpIonolimic](ModeFSharpIonolimic.png) |
-| [435](https://ianring.com/musictheory/scales/435) | [Ionolimic](ModeIonolimic.md) | -1 | Gb | Gb, Abb, Bb, Cb, Db, Ebb, Gb | ![GFlatIonolimic](ModeGFlatIonolimic.png) |
+| [435](https://ianring.com/musictheory/scales/435) | [Ionolimic](ModeIonolimic.md) | -1 | F# | F#, G, A#, B, C#, D, F# | ![FSharpIonolimic](ModeFSharpIonolimic.png) |
 | [2265](https://ianring.com/musictheory/scales/2265) | [Ionophimic](ModeIonophimic.md) | 6 | G | G, A#, B, C#, D, E##, G | ![GNaturalIonophimic](ModeGNaturalIonophimic.png) |
 ## Relative Brightness
 

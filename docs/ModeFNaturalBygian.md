@@ -73,13 +73,11 @@ I⁺, III, vi
 |--------|------|------------|-------|-------|--------------|
 | [2963](https://ianring.com/musictheory/scales/2963) | [Bygian](ModeBygian.md) | -1 | F | F, Gb, A, B#, C#, D, E, F | ![FNaturalBygian](ModeFNaturalBygian.png) |
 | [3529](https://ianring.com/musictheory/scales/3529) | [Stalian](ModeStalian.md) | -1 | F# | F#, G##, A###, B##, C##, D##, E#, F# | ![FSharpStalian](ModeFSharpStalian.png) |
-| [3529](https://ianring.com/musictheory/scales/3529) | [Stalian](ModeStalian.md) | -1 | Gb | Gb, A, B#, C#, D, E, F, Gb | ![GFlatStalian](ModeGFlatStalian.png) |
-| [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | 6 | A | A, B#, C#, D, E, F, Gb, A | ![ANaturalStoptian](ModeANaturalStoptian.png) |
+| [953](https://ianring.com/musictheory/scales/953) | [Stoptian](ModeStoptian.md) | -1 | A | A, B#, C#, D, E, F, Gb, A | ![ANaturalStoptian](ModeANaturalStoptian.png) |
 | [631](https://ianring.com/musictheory/scales/631) | [Zygian](ModeZygian.md) | -1 | C | C, Db, Ebb, Fb, Gbb, Abbb, Bbb, C | ![CNaturalZygian](ModeCNaturalZygian.png) |
 | [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | -1 | C# | C#, D, E, F, Gb, A, B#, C# | ![CSharpKataptian](ModeCSharpKataptian.png) |
-| [2363](https://ianring.com/musictheory/scales/2363) | [Kataptian](ModeKataptian.md) | -1 | Db | Db, Ebb, Fb, Gbb, Abbb, Bbb, C, Db | ![DFlatKataptian](ModeDFlatKataptian.png) |
-| [3229](https://ianring.com/musictheory/scales/3229) | [Aeolaptian](ModeAeolaptian.md) | 7 | D | D, E, F, Gb, A, B#, C#, D | ![DNaturalAeolaptian](ModeDNaturalAeolaptian.png) |
-| [1831](https://ianring.com/musictheory/scales/1831) | [Pothian](ModePothian.md) | 5 | E | E, F, Gb, A, B#, C#, D, E | ![ENaturalPothian](ModeENaturalPothian.png) |
+| [3229](https://ianring.com/musictheory/scales/3229) | [Aeolaptian](ModeAeolaptian.md) | -1 | D | D, E, F, Gb, A, B#, C#, D | ![DNaturalAeolaptian](ModeDNaturalAeolaptian.png) |
+| [1831](https://ianring.com/musictheory/scales/1831) | [Pothian](ModePothian.md) | -1 | E | E, F, Gb, A, B#, C#, D, E | ![ENaturalPothian](ModeENaturalPothian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

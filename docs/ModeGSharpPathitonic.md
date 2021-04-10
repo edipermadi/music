@@ -70,7 +70,6 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [587](https://ianring.com/musictheory/scales/587) | [Pathitonic](ModePathitonic.md) | -1 | G# | G#, A, B, D, F, G# | ![GSharpPathitonic](ModeGSharpPathitonic.png) |
-| [587](https://ianring.com/musictheory/scales/587) | [Pathitonic](ModePathitonic.md) | -1 | Ab | Ab, A, B, D, F, Ab | ![AFlatPathitonic](ModeAFlatPathitonic.png) |
 | [2341](https://ianring.com/musictheory/scales/2341) | [Myditonic](ModeMyditonic.md) | 4 | A | A, B, D, F, G#, A | ![ANaturalMyditonic](ModeANaturalMyditonic.png) |
 | [1609](https://ianring.com/musictheory/scales/1609) | [Thyritonic](ModeThyritonic.md) | -1 | B | B, D, F, G#, A, B | ![BNaturalThyritonic](ModeBNaturalThyritonic.png) |
 | [713](https://ianring.com/musictheory/scales/713) | [Thoptitonic](ModeThoptitonic.md) | 5 | D | D, F, G#, A, B, D | ![DNaturalThoptitonic](ModeDNaturalThoptitonic.png) |

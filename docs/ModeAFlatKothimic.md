@@ -21,7 +21,7 @@
 
 ## Luminosity
 
--1
+5
 
 ## Tonic
 
@@ -70,12 +70,9 @@ II, iii
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [869](https://ianring.com/musictheory/scales/869) | [Kothimic](ModeKothimic.md) | 5 | G# | G#, A#, B##, C##, D##, E#, G# | ![GSharpKothimic](ModeGSharpKothimic.png) |
-| [869](https://ianring.com/musictheory/scales/869) | [Kothimic](ModeKothimic.md) | -1 | Ab | Ab, Bb, C#, D, E, F, Ab | ![AFlatKothimic](ModeAFlatKothimic.png) |
-| [1241](https://ianring.com/musictheory/scales/1241) | [Pygimic](ModePygimic.md) | -1 | A# | A#, B##, C##, D##, E#, F###, A# | ![ASharpPygimic](ModeASharpPygimic.png) |
-| [1241](https://ianring.com/musictheory/scales/1241) | [Pygimic](ModePygimic.md) | -1 | Bb | Bb, C#, D, E, F, G#, Bb | ![BFlatPygimic](ModeBFlatPygimic.png) |
+| [869](https://ianring.com/musictheory/scales/869) | [Kothimic](ModeKothimic.md) | -1 | G# | G#, A#, B##, C##, D##, E#, G# | ![GSharpKothimic](ModeGSharpKothimic.png) |
+| [1241](https://ianring.com/musictheory/scales/1241) | [Pygimic](ModePygimic.md) | 6 | A# | A#, B##, C##, D##, E#, F###, A# | ![ASharpPygimic](ModeASharpPygimic.png) |
 | [667](https://ianring.com/musictheory/scales/667) | [Rodimic](ModeRodimic.md) | -1 | C# | C#, D, E, F, G#, A#, C# | ![CSharpRodimic](ModeCSharpRodimic.png) |
-| [667](https://ianring.com/musictheory/scales/667) | [Rodimic](ModeRodimic.md) | 6 | Db | Db, Ebb, Fb, Gbb, Ab, Bb, Db | ![DFlatRodimic](ModeDFlatRodimic.png) |
 | [2381](https://ianring.com/musictheory/scales/2381) | [Sorimic](ModeSorimic.md) | -1 | D | D, E, F, G#, A#, B##, D | ![DNaturalSorimic](ModeDNaturalSorimic.png) |
 | [1619](https://ianring.com/musictheory/scales/1619) | [Monimic](ModeMonimic.md) | -1 | E | E, F, G#, A#, B##, C##, E | ![ENaturalMonimic](ModeENaturalMonimic.png) |
 | [2857](https://ianring.com/musictheory/scales/2857) | [Stythimic](ModeStythimic.md) | 5 | F | F, G#, A#, B##, C##, D##, F | ![FNaturalStythimic](ModeFNaturalStythimic.png) |

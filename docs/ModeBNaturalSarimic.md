@@ -75,7 +75,6 @@ i, vi
 | [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | 6 | D | D, E, F#, G##, A##, B#, D | ![DNaturalZeracrimic](ModeDNaturalZeracrimic.png) |
 | [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | 4 | E | E, F#, G##, A##, B#, C##, E | ![ENaturalByptimic](ModeENaturalByptimic.png) |
 | [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | 2 | F# | F#, G##, A##, B#, C##, D##, F# | ![FSharpPhracrimic](ModeFSharpPhracrimic.png) |
-| [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | 2 | Gb | Gb, A, B, C, D, E, Gb | ![GFlatPhracrimic](ModeGFlatPhracrimic.png) |
 | [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeAerathimic.md) | 5 | A | A, B, C, D, E, F#, A | ![ANaturalAerathimic](ModeANaturalAerathimic.png) |
 ## Relative Brightness
 

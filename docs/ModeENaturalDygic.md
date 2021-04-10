@@ -72,7 +72,6 @@ C
 | [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | -1 | G | G, B, D#, E, G | ![GNaturalAeoloric](ModeGNaturalAeoloric.png) |
 | [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | 3 | B | B, D#, E, G, B | ![BNaturalGonic](ModeBNaturalGonic.png) |
 | [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | -1 | D# | D#, E, G, B, D# | ![DSharpDalic](ModeDSharpDalic.png) |
-| [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | -1 | Eb | Eb, E, G, B, Eb | ![EFlatDalic](ModeEFlatDalic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

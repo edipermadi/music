@@ -74,18 +74,13 @@ Ib5, vii⁰b3, viii, IX
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2037](https://ianring.com/musictheory/scales/2037) | [Sythygic](ModeSythygic.md) | 7 | F# | F#, G#, A#, B, C, C#, D, D#, E, F# | ![FSharpSythygic](ModeFSharpSythygic.png) |
-| [2037](https://ianring.com/musictheory/scales/2037) | [Sythygic](ModeSythygic.md) | 7 | Gb | Gb, Ab, Bb, B, C, Db, D, Eb, E, Gb | ![GFlatSythygic](ModeGFlatSythygic.png) |
 | [1533](https://ianring.com/musictheory/scales/1533) | [Katycrygic](ModeKatycrygic.md) | 5 | G# | G#, A#, B, C, C#, D, D#, E, F#, G# | ![GSharpKatycrygic](ModeGSharpKatycrygic.png) |
-| [1533](https://ianring.com/musictheory/scales/1533) | [Katycrygic](ModeKatycrygic.md) | 5 | Ab | Ab, Bb, B, C, Db, D, Eb, E, Gb, Ab | ![AFlatKatycrygic](ModeAFlatKatycrygic.png) |
 | [1407](https://ianring.com/musictheory/scales/1407) | [Tharygic](ModeTharygic.md) | 3 | A# | A#, B, C, C#, D, D#, E, F#, G#, A# | ![ASharpTharygic](ModeASharpTharygic.png) |
-| [1407](https://ianring.com/musictheory/scales/1407) | [Tharygic](ModeTharygic.md) | 3 | Bb | Bb, B, C, Db, D, Eb, E, Gb, Ab, Bb | ![BFlatTharygic](ModeBFlatTharygic.png) |
 | [2751](https://ianring.com/musictheory/scales/2751) | [Sylygic](ModeSylygic.md) | 8 | B | B, C, C#, D, D#, E, F#, G#, A#, B | ![BNaturalSylygic](ModeBNaturalSylygic.png) |
 | [3423](https://ianring.com/musictheory/scales/3423) | [Lothygic](ModeLothygic.md) | -1 | C | C, C#, D, D#, E, F#, G#, A#, B, C | ![CNaturalLothygic](ModeCNaturalLothygic.png) |
 | [3759](https://ianring.com/musictheory/scales/3759) | [Darygic](ModeDarygic.md) | 6 | C# | C#, D, D#, E, F#, G#, A#, B, C, C# | ![CSharpDarygic](ModeCSharpDarygic.png) |
-| [3759](https://ianring.com/musictheory/scales/3759) | [Darygic](ModeDarygic.md) | 6 | Db | Db, D, Eb, E, Gb, Ab, Bb, B, C, Db | ![DFlatDarygic](ModeDFlatDarygic.png) |
 | [3927](https://ianring.com/musictheory/scales/3927) | [Monygic](ModeMonygic.md) | -1 | D | D, D#, E, F#, G#, A#, B, C, C#, D | ![DNaturalMonygic](ModeDNaturalMonygic.png) |
 | [4011](https://ianring.com/musictheory/scales/4011) | [Styrygic](ModeStyrygic.md) | 4 | D# | D#, E, F#, G#, A#, B, C, C#, D, D# | ![DSharpStyrygic](ModeDSharpStyrygic.png) |
-| [4011](https://ianring.com/musictheory/scales/4011) | [Styrygic](ModeStyrygic.md) | 4 | Eb | Eb, E, Gb, Ab, Bb, B, C, Db, D, Eb | ![EFlatStyrygic](ModeEFlatStyrygic.png) |
 | [4053](https://ianring.com/musictheory/scales/4053) | [Kyrygic](ModeKyrygic.md) | 9 | E | E, F#, G#, A#, B, C, C#, D, D#, E | ![ENaturalKyrygic](ModeENaturalKyrygic.png) |
 ## Relative Brightness
 

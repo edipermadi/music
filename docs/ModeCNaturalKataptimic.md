@@ -72,10 +72,8 @@ VIb5
 |--------|------|------------|-------|-------|--------------|
 | [655](https://ianring.com/musictheory/scales/655) | [Kataptimic](ModeKataptimic.md) | 6 | C | C, Db, Ebb, Fbb, G, A, C | ![CNaturalKataptimic](ModeCNaturalKataptimic.png) |
 | [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | -1 | C# | C#, D, Eb, F##, G##, A###, C# | ![CSharpAeolaptimic](ModeCSharpAeolaptimic.png) |
-| [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | -1 | Db | Db, Ebb, Fbb, G, A, B#, Db | ![DFlatAeolaptimic](ModeDFlatAeolaptimic.png) |
 | [3235](https://ianring.com/musictheory/scales/3235) | [Pothimic](ModePothimic.md) | 4 | D | D, Eb, F##, G##, A###, B##, D | ![DNaturalPothimic](ModeDNaturalPothimic.png) |
 | [3665](https://ianring.com/musictheory/scales/3665) | [Stalimic](ModeStalimic.md) | -1 | D# | D#, E###, Cbbb, Dbb, Ebbb, Fbbb, D# | ![DSharpStalimic](ModeDSharpStalimic.png) |
-| [3665](https://ianring.com/musictheory/scales/3665) | [Stalimic](ModeStalimic.md) | -1 | Eb | Eb, F##, G##, A###, B##, C##, Eb | ![EFlatStalimic](ModeEFlatStalimic.png) |
 | [485](https://ianring.com/musictheory/scales/485) | [Stoptimic](ModeStoptimic.md) | 5 | G | G, A, B#, C#, D, Eb, G | ![GNaturalStoptimic](ModeGNaturalStoptimic.png) |
 | [1145](https://ianring.com/musictheory/scales/1145) | [Zygimic](ModeZygimic.md) | 3 | A | A, B#, C#, D, Eb, F##, A | ![ANaturalZygimic](ModeANaturalZygimic.png) |
 ## Relative Brightness

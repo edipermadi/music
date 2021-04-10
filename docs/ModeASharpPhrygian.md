@@ -72,17 +72,12 @@ i, II, III, iv, v⁰, VI, vii
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | 2 | A# | A#, B, C#, D#, E#, F#, G#, A# | ![ASharpPhrygian](ModeASharpPhrygian.png) |
-| [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | 2 | Bb | Bb, Cb, Db, Eb, F, Gb, Ab, Bb | ![BFlatPhrygian](ModeBFlatPhrygian.png) |
 | [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeLydian.md) | 7 | B | B, C#, D#, E#, F#, G#, A#, B | ![BNaturalLydian](ModeBNaturalLydian.png) |
 | [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | 5 | C# | C#, D#, E#, F#, G#, A#, B, C# | ![CSharpMixolydian](ModeCSharpMixolydian.png) |
-| [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | 5 | Db | Db, Eb, F, Gb, Ab, Bb, Cb, Db | ![DFlatMixolydian](ModeDFlatMixolydian.png) |
 | [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | 3 | D# | D#, E#, F#, G#, A#, B, C#, D# | ![DSharpAeolian](ModeDSharpAeolian.png) |
-| [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | 3 | Eb | Eb, F, Gb, Ab, Bb, Cb, Db, Eb | ![EFlatAeolian](ModeEFlatAeolian.png) |
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | 1 | F | F, Gb, Ab, Bb, Cb, Db, Eb, F | ![FNaturalLocrian](ModeFNaturalLocrian.png) |
 | [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeIonian.md) | 6 | F# | F#, G#, A#, B, C#, D#, E#, F# | ![FSharpIonian](ModeFSharpIonian.png) |
-| [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeIonian.md) | 6 | Gb | Gb, Ab, Bb, Cb, Db, Eb, F, Gb | ![GFlatIonian](ModeGFlatIonian.png) |
 | [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | 4 | G# | G#, A#, B, C#, D#, E#, F#, G# | ![GSharpDorian](ModeGSharpDorian.png) |
-| [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | 4 | Ab | Ab, Bb, Cb, Db, Eb, F, Gb, Ab | ![AFlatDorian](ModeAFlatDorian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

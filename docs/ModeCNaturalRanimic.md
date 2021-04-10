@@ -72,7 +72,6 @@ vi⁰b3
 |--------|------|------------|-------|-------|--------------|
 | [2215](https://ianring.com/musictheory/scales/2215) | [Ranimic](ModeRanimic.md) | 5 | C | C, Db, Ebb, F, G, A##, C | ![CNaturalRanimic](ModeCNaturalRanimic.png) |
 | [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeLadimic.md) | -1 | C# | C#, D, E#, F##, Cb, Dbb, C# | ![CSharpLadimic](ModeCSharpLadimic.png) |
-| [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeLadimic.md) | -1 | Db | Db, Ebb, F, G, A##, B#, Db | ![DFlatLadimic](ModeDFlatLadimic.png) |
 | [3625](https://ianring.com/musictheory/scales/3625) | [Podimic](ModePodimic.md) | 3 | D | D, E#, F##, Cb, Dbb, Ebbb, D | ![DNaturalPodimic](ModeDNaturalPodimic.png) |
 | [965](https://ianring.com/musictheory/scales/965) | [Ionothimic](ModeIonothimic.md) | 6 | F | F, G, A##, B#, C#, D, F | ![FNaturalIonothimic](ModeFNaturalIonothimic.png) |
 | [1265](https://ianring.com/musictheory/scales/1265) | [Pynimic](ModePynimic.md) | 4 | G | G, A##, B#, C#, D, E#, G | ![GNaturalPynimic](ModeGNaturalPynimic.png) |

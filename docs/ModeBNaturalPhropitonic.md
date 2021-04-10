@@ -71,11 +71,8 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [1173](https://ianring.com/musictheory/scales/1173) | [Phropitonic](ModePhropitonic.md) | 5 | B | B, C#, D#, F#, A, B | ![BNaturalPhropitonic](ModeBNaturalPhropitonic.png) |
 | [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | 3 | C# | C#, D#, F#, A, B, C# | ![CSharpStaditonic](ModeCSharpStaditonic.png) |
-| [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | 3 | Db | Db, Eb, Gb, A, B, Db | ![DFlatStaditonic](ModeDFlatStaditonic.png) |
 | [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | -1 | D# | D#, F#, A, B, C#, D# | ![DSharpKataritonic](ModeDSharpKataritonic.png) |
-| [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | -1 | Eb | Eb, Gb, A, B, Db, Eb | ![EFlatKataritonic](ModeEFlatKataritonic.png) |
 | [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | 4 | F# | F#, A, B, C#, D#, F# | ![FSharpSylitonic](ModeFSharpSylitonic.png) |
-| [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | 4 | Gb | Gb, A, B, Db, Eb, Gb | ![GFlatSylitonic](ModeGFlatSylitonic.png) |
 | [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | -1 | A | A, B, C#, D#, F#, A | ![ANaturalThonitonic](ModeANaturalThonitonic.png) |
 ## Relative Brightness
 

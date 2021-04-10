@@ -71,15 +71,12 @@ Ib5, ii, IV, vi, vii⁰
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeThodian.md) | -1 | G# | G#, A#, B#, C#, D, E#, F##, G# | ![GSharpThodian](ModeGSharpThodian.png) |
-| [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeThodian.md) | 6 | Ab | Ab, Bb, C, Db, Ebb, F, G, Ab | ![AFlatThodian](ModeAFlatThodian.png) |
+| [2677](https://ianring.com/musictheory/scales/2677) | [Thodian](ModeThodian.md) | 6 | G# | G#, A#, B#, C#, D, E#, F##, G# | ![GSharpThodian](ModeGSharpThodian.png) |
 | [1693](https://ianring.com/musictheory/scales/1693) | [Dogian](ModeDogian.md) | -1 | A# | A#, B#, C#, D, E#, F##, G#, A# | ![ASharpDogian](ModeASharpDogian.png) |
-| [1693](https://ianring.com/musictheory/scales/1693) | [Dogian](ModeDogian.md) | 7 | Bb | Bb, C, Db, Ebb, F, G, Ab, Bb | ![BFlatDogian](ModeBFlatDogian.png) |
 | [1447](https://ianring.com/musictheory/scales/1447) | [Mixopyrian](ModeMixopyrian.md) | -1 | C | C, Db, Ebb, F, G, Ab, Bb, C | ![CNaturalMixopyrian](ModeCNaturalMixopyrian.png) |
 | [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeGarian.md) | 7 | C# | C#, D, E#, F##, G#, A#, B#, C# | ![CSharpGarian](ModeCSharpGarian.png) |
-| [2771](https://ianring.com/musictheory/scales/2771) | [Garian](ModeGarian.md) | 7 | Db | Db, Ebb, F, G, Ab, Bb, C, Db | ![DFlatGarian](ModeDFlatGarian.png) |
 | [3433](https://ianring.com/musictheory/scales/3433) | [Thonian](ModeThonian.md) | -1 | D | D, E#, F##, G#, A#, B#, C#, D | ![DNaturalThonian](ModeDNaturalThonian.png) |
-| [941](https://ianring.com/musictheory/scales/941) | [Phrorian](ModePhrorian.md) | -1 | F | F, G, Ab, Bb, C, Db, Ebb, F | ![FNaturalPhrorian](ModeFNaturalPhrorian.png) |
+| [941](https://ianring.com/musictheory/scales/941) | [Phrorian](ModePhrorian.md) | 6 | F | F, G, Ab, Bb, C, Db, Ebb, F | ![FNaturalPhrorian](ModeFNaturalPhrorian.png) |
 | [1259](https://ianring.com/musictheory/scales/1259) | [Stadian](ModeStadian.md) | -1 | G | G, Ab, Bb, C, Db, Ebb, F, G | ![GNaturalStadian](ModeGNaturalStadian.png) |
 ## Relative Brightness
 

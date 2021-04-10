@@ -69,11 +69,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | 4 | A# | A#, D, F, G#, A# | ![ASharpDaric](ModeASharpDaric.png) |
-| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | 4 | Bb | Bb, D, F, Ab, Bb | ![BFlatDaric](ModeBFlatDaric.png) |
 | [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | -1 | D | D, F, G#, A#, D | ![DNaturalLonic](ModeDNaturalLonic.png) |
 | [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | 3 | F | F, G#, A#, D, F | ![FNaturalPhradic](ModeFNaturalPhradic.png) |
 | [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | -1 | G# | G#, A#, D, F, G# | ![GSharpBolic](ModeGSharpBolic.png) |
-| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | -1 | Ab | Ab, Bb, D, F, Ab | ![AFlatBolic](ModeAFlatBolic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

@@ -73,16 +73,11 @@ I, ii, iii, IV, V, vi, vii⁰
 |--------|------|------------|-------|-------|--------------|
 | [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeIonian.md) | 6 | B | B, C#, D#, E, F#, G#, A#, B | ![BNaturalIonian](ModeBNaturalIonian.png) |
 | [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | 4 | C# | C#, D#, E, F#, G#, A#, B, C# | ![CSharpDorian](ModeCSharpDorian.png) |
-| [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | 4 | Db | Db, Eb, Fb, Gb, Ab, Bb, Cb, Db | ![DFlatDorian](ModeDFlatDorian.png) |
 | [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | 2 | D# | D#, E, F#, G#, A#, B, C#, D# | ![DSharpPhrygian](ModeDSharpPhrygian.png) |
-| [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | 2 | Eb | Eb, Fb, Gb, Ab, Bb, Cb, Db, Eb | ![EFlatPhrygian](ModeEFlatPhrygian.png) |
 | [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeLydian.md) | 7 | E | E, F#, G#, A#, B, C#, D#, E | ![ENaturalLydian](ModeENaturalLydian.png) |
 | [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | 5 | F# | F#, G#, A#, B, C#, D#, E, F# | ![FSharpMixolydian](ModeFSharpMixolydian.png) |
-| [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | 5 | Gb | Gb, Ab, Bb, Cb, Db, Eb, Fb, Gb | ![GFlatMixolydian](ModeGFlatMixolydian.png) |
 | [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | 3 | G# | G#, A#, B, C#, D#, E, F#, G# | ![GSharpAeolian](ModeGSharpAeolian.png) |
-| [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | 3 | Ab | Ab, Bb, Cb, Db, Eb, Fb, Gb, Ab | ![AFlatAeolian](ModeAFlatAeolian.png) |
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | 1 | A# | A#, B, C#, D#, E, F#, G#, A# | ![ASharpLocrian](ModeASharpLocrian.png) |
-| [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | 1 | Bb | Bb, Cb, Db, Eb, Fb, Gb, Ab, Bb | ![BFlatLocrian](ModeBFlatLocrian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

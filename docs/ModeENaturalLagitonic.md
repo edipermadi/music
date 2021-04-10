@@ -73,7 +73,6 @@ C
 | [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | -1 | F | F, A, C#, D, E, F | ![FNaturalDolitonic](ModeFNaturalDolitonic.png) |
 | [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | 4 | A | A, C#, D, E, F, A | ![ANaturalPoritonic](ModeANaturalPoritonic.png) |
 | [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | -1 | C# | C#, D, E, F, A, C# | ![CSharpAerylitonic](ModeCSharpAerylitonic.png) |
-| [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | -1 | Db | Db, D, E, F, A, Db | ![DFlatAerylitonic](ModeDFlatAerylitonic.png) |
 | [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | 5 | D | D, E, F, A, C#, D | ![DNaturalZagitonic](ModeDNaturalZagitonic.png) |
 ## Relative Brightness
 

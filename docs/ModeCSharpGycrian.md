@@ -72,14 +72,10 @@ vi⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | 7 | C# | C#, D#, E#, F###, G###, A##, B#, C# | ![CSharpGycrian](ModeCSharpGycrian.png) |
-| [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | 7 | Db | Db, Eb, F, G#, A#, B, C, Db | ![DFlatGycrian](ModeDFlatGycrian.png) |
 | [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | 5 | D# | D#, E#, F###, G###, A##, B#, C#, D# | ![DSharpPyrian](ModeDSharpPyrian.png) |
-| [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | 5 | Eb | Eb, F, G#, A#, B, C, Db, Eb | ![EFlatPyrian](ModeEFlatPyrian.png) |
 | [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | 3 | F | F, G#, A#, B, C, Db, Eb, F | ![FNaturalStathian](ModeFNaturalStathian.png) |
 | [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | 6 | G# | G#, A#, B, C, Db, Eb, F, G# | ![GSharpMixonyphian](ModeGSharpMixonyphian.png) |
-| [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | 6 | Ab | Ab, Bb, Cb, Dbb, Ebbb, Fbb, Gbb, Ab | ![AFlatMixonyphian](ModeAFlatMixonyphian.png) |
 | [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | 4 | A# | A#, B, C, Db, Eb, F, G#, A# | ![ASharpMagian](ModeASharpMagian.png) |
-| [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | 4 | Bb | Bb, Cb, Dbb, Ebbb, Fbb, Gbb, Ab, Bb | ![BFlatMagian](ModeBFlatMagian.png) |
 | [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | -1 | B | B, C, Db, Eb, F, G#, A#, B | ![BNaturalDadian](ModeBNaturalDadian.png) |
 | [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | 2 | C | C, Db, Eb, F, G#, A#, B, C | ![CNaturalAeolylian](ModeCNaturalAeolylian.png) |
 ## Relative Brightness

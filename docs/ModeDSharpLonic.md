@@ -69,9 +69,7 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | -1 | D# | D#, F#, A, B, D# | ![DSharpLonic](ModeDSharpLonic.png) |
-| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | -1 | Eb | Eb, Gb, A, B, Eb | ![EFlatLonic](ModeEFlatLonic.png) |
 | [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | 3 | F# | F#, A, B, D#, F# | ![FSharpPhradic](ModeFSharpPhradic.png) |
-| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | 3 | Gb | Gb, A, B, Eb, Gb | ![GFlatPhradic](ModeGFlatPhradic.png) |
 | [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | -1 | A | A, B, D#, F#, A | ![ANaturalBolic](ModeANaturalBolic.png) |
 | [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | 4 | B | B, D#, F#, A, B | ![BNaturalDaric](ModeBNaturalDaric.png) |
 ## Relative Brightness

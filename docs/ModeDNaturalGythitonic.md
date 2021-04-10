@@ -21,7 +21,7 @@
 
 ## Luminosity
 
--1
+4
 
 ## Tonic
 
@@ -73,7 +73,7 @@ C
 | [1163](https://ianring.com/musictheory/scales/1163) | [Pagitonic](ModePagitonic.md) | 5 | E | E, F, G, B, D, E | ![ENaturalPagitonic](ModeENaturalPagitonic.png) |
 | [2629](https://ianring.com/musictheory/scales/2629) | [Aeolythitonic](ModeAeolythitonic.md) | -1 | F | F, G, B, D, E, F | ![FNaturalAeolythitonic](ModeFNaturalAeolythitonic.png) |
 | [1681](https://ianring.com/musictheory/scales/1681) | [Ionaditonic](ModeIonaditonic.md) | 5 | G | G, B, D, E, F, G | ![GNaturalIonaditonic](ModeGNaturalIonaditonic.png) |
-| [361](https://ianring.com/musictheory/scales/361) | [Bocritonic](ModeBocritonic.md) | -1 | B | B, D, E, F, G, B | ![BNaturalBocritonic](ModeBNaturalBocritonic.png) |
+| [361](https://ianring.com/musictheory/scales/361) | [Bocritonic](ModeBocritonic.md) | 4 | B | B, D, E, F, G, B | ![BNaturalBocritonic](ModeBNaturalBocritonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
@@ -82,7 +82,7 @@ C
 | [1163](https://ianring.com/musictheory/scales/1163) | [Pagitonic](ModePagitonic.md) | -1 | E | E, F, G, B, D, E | ![ENaturalPagitonic](CircleOfFifthModeENaturalPagitonic.svg) | ![ENaturalPagitonic](ChromaticCircleModeENaturalPagitonic.svg) |
 | [2629](https://ianring.com/musictheory/scales/2629) | [Aeolythitonic](ModeAeolythitonic.md) | -1 | F | F, G, B, D, E, F | ![FNaturalAeolythitonic](CircleOfFifthModeFNaturalAeolythitonic.svg) | ![FNaturalAeolythitonic](ChromaticCircleModeFNaturalAeolythitonic.svg) |
 | [1681](https://ianring.com/musictheory/scales/1681) | [Ionaditonic](ModeIonaditonic.md) | 5 | G | G, B, D, E, F, G | ![GNaturalIonaditonic](CircleOfFifthModeGNaturalIonaditonic.svg) | ![GNaturalIonaditonic](ChromaticCircleModeGNaturalIonaditonic.svg) |
-| [361](https://ianring.com/musictheory/scales/361) | [Bocritonic](ModeBocritonic.md) | 4 | B | B, D, E, F, G, B | ![BNaturalBocritonic](CircleOfFifthModeBNaturalBocritonic.svg) | ![BNaturalBocritonic](ChromaticCircleModeBNaturalBocritonic.svg) |
+| [361](https://ianring.com/musictheory/scales/361) | [Bocritonic](ModeBocritonic.md) | -1 | B | B, D, E, F, G, B | ![BNaturalBocritonic](CircleOfFifthModeBNaturalBocritonic.svg) | ![BNaturalBocritonic](ChromaticCircleModeBNaturalBocritonic.svg) |
 
 ## Chords
 

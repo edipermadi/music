@@ -72,16 +72,11 @@ i, III⁺, Vb5, vii⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3243](https://ianring.com/musictheory/scales/3243) | [Staptian](ModeStaptian.md) | 4 | D# | D#, E, F#, G#, A#, B##, C##, D# | ![DSharpStaptian](ModeDSharpStaptian.png) |
-| [3243](https://ianring.com/musictheory/scales/3243) | [Staptian](ModeStaptian.md) | 4 | Eb | Eb, Fb, Gb, Ab, Bb, C#, D, Eb | ![EFlatStaptian](ModeEFlatStaptian.png) |
 | [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeMothian.md) | -1 | E | E, F#, G#, A#, B##, C##, D#, E | ![ENaturalMothian](ModeENaturalMothian.png) |
 | [1941](https://ianring.com/musictheory/scales/1941) | [Aeranian](ModeAeranian.md) | 7 | F# | F#, G#, A#, B##, C##, D#, E, F# | ![FSharpAeranian](ModeFSharpAeranian.png) |
-| [1941](https://ianring.com/musictheory/scales/1941) | [Aeranian](ModeAeranian.md) | 7 | Gb | Gb, Ab, Bb, C#, D, Eb, Fb, Gb | ![GFlatAeranian](ModeGFlatAeranian.png) |
 | [1509](https://ianring.com/musictheory/scales/1509) | [Ragian](ModeRagian.md) | 5 | G# | G#, A#, B##, C##, D#, E, F#, G# | ![GSharpRagian](ModeGSharpRagian.png) |
-| [1509](https://ianring.com/musictheory/scales/1509) | [Ragian](ModeRagian.md) | 5 | Ab | Ab, Bb, C#, D, Eb, Fb, Gb, Ab | ![AFlatRagian](ModeAFlatRagian.png) |
 | [1401](https://ianring.com/musictheory/scales/1401) | [Pagian](ModePagian.md) | 3 | A# | A#, B##, C##, D#, E, F#, G#, A# | ![ASharpPagian](ModeASharpPagian.png) |
-| [1401](https://ianring.com/musictheory/scales/1401) | [Pagian](ModePagian.md) | 3 | Bb | Bb, C#, D, Eb, Fb, Gb, Ab, Bb | ![BFlatPagian](ModeBFlatPagian.png) |
 | [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeAeolythian.md) | 6 | C# | C#, D, Eb, Fb, Gb, Ab, Bb, C# | ![CSharpAeolythian](ModeCSharpAeolythian.png) |
-| [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeAeolythian.md) | 6 | Db | Db, Ebb, Fbb, Gbbb, Abbb, Bbbb, Cbb, Db | ![DFlatAeolythian](ModeDFlatAeolythian.png) |
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | -1 | D | D, Eb, Fb, Gb, Ab, Bb, C#, D | ![DNaturalMolian](ModeDNaturalMolian.png) |
 ## Relative Brightness
 

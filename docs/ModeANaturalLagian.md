@@ -21,7 +21,7 @@
 
 ## Luminosity
 
--1
+5
 
 ## Tonic
 
@@ -71,15 +71,13 @@ I⁺, ii, IIIb5, IV, v⁰b3, vi, VII
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [1845](https://ianring.com/musictheory/scales/1845) | [Lagian](ModeLagian.md) | -1 | A | A, B, C#, D, E#, F#, G, A | ![ANaturalLagian](ModeANaturalLagian.png) |
-| [1485](https://ianring.com/musictheory/scales/1485) | [Tyrian](ModeTyrian.md) | -1 | B | B, C#, D, E#, F#, G, A, B | ![BNaturalTyrian](ModeBNaturalTyrian.png) |
-| [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeMixonorian.md) | -1 | C# | C#, D, E#, F#, G, A, B, C# | ![CSharpMixonorian](ModeCSharpMixonorian.png) |
-| [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeMixonorian.md) | -1 | Db | Db, Ebb, F, Gb, Abb, Bbb, Cb, Db | ![DFlatMixonorian](ModeDFlatMixonorian.png) |
+| [1845](https://ianring.com/musictheory/scales/1845) | [Lagian](ModeLagian.md) | 5 | A | A, B, C#, D, E#, F#, G, A | ![ANaturalLagian](ModeANaturalLagian.png) |
+| [1485](https://ianring.com/musictheory/scales/1485) | [Tyrian](ModeTyrian.md) | 7 | B | B, C#, D, E#, F#, G, A, B | ![BNaturalTyrian](ModeBNaturalTyrian.png) |
+| [1395](https://ianring.com/musictheory/scales/1395) | [Mixonorian](ModeMixonorian.md) | 5 | C# | C#, D, E#, F#, G, A, B, C# | ![CSharpMixonorian](ModeCSharpMixonorian.png) |
 | [2745](https://ianring.com/musictheory/scales/2745) | [Dolian](ModeDolian.md) | -1 | D | D, E#, F#, G, A, B, C#, D | ![DNaturalDolian](ModeDNaturalDolian.png) |
 | [855](https://ianring.com/musictheory/scales/855) | [Porian](ModePorian.md) | -1 | F | F, Gb, Abb, Bbb, Cb, Db, Ebb, F | ![FNaturalPorian](ModeFNaturalPorian.png) |
-| [2475](https://ianring.com/musictheory/scales/2475) | [Aerylian](ModeAerylian.md) | 6 | F# | F#, G, A, B, C#, D, E#, F# | ![FSharpAerylian](ModeFSharpAerylian.png) |
-| [2475](https://ianring.com/musictheory/scales/2475) | [Aerylian](ModeAerylian.md) | -1 | Gb | Gb, Abb, Bbb, Cb, Db, Ebb, F, Gb | ![GFlatAerylian](ModeGFlatAerylian.png) |
-| [3285](https://ianring.com/musictheory/scales/3285) | [Zagian](ModeZagian.md) | -1 | G | G, A, B, C#, D, E#, F#, G | ![GNaturalZagian](ModeGNaturalZagian.png) |
+| [2475](https://ianring.com/musictheory/scales/2475) | [Aerylian](ModeAerylian.md) | -1 | F# | F#, G, A, B, C#, D, E#, F# | ![FSharpAerylian](ModeFSharpAerylian.png) |
+| [3285](https://ianring.com/musictheory/scales/3285) | [Zagian](ModeZagian.md) | 7 | G | G, A, B, C#, D, E#, F#, G | ![GNaturalZagian](ModeGNaturalZagian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

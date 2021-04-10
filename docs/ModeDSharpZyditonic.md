@@ -70,12 +70,9 @@ III⁺
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [675](https://ianring.com/musictheory/scales/675) | [Zyditonic](ModeZyditonic.md) | 4 | D# | D#, E, G#, A#, C, D# | ![DSharpZyditonic](ModeDSharpZyditonic.png) |
-| [675](https://ianring.com/musictheory/scales/675) | [Zyditonic](ModeZyditonic.md) | 4 | Eb | Eb, E, Ab, Bb, C, Eb | ![EFlatZyditonic](ModeEFlatZyditonic.png) |
 | [2385](https://ianring.com/musictheory/scales/2385) | [Aeolanitonic](ModeAeolanitonic.md) | -1 | E | E, G#, A#, C, D#, E | ![ENaturalAeolanitonic](ModeENaturalAeolanitonic.png) |
 | [405](https://ianring.com/musictheory/scales/405) | [Danitonic](ModeDanitonic.md) | 5 | G# | G#, A#, C, D#, E, G# | ![GSharpDanitonic](ModeGSharpDanitonic.png) |
-| [405](https://ianring.com/musictheory/scales/405) | [Danitonic](ModeDanitonic.md) | 5 | Ab | Ab, Bb, C, Eb, E, Ab | ![AFlatDanitonic](ModeAFlatDanitonic.png) |
 | [1125](https://ianring.com/musictheory/scales/1125) | [Ionaritonic](ModeIonaritonic.md) | 3 | A# | A#, C, D#, E, G#, A# | ![ASharpIonaritonic](ModeASharpIonaritonic.png) |
-| [1125](https://ianring.com/musictheory/scales/1125) | [Ionaritonic](ModeIonaritonic.md) | 3 | Bb | Bb, C, Eb, E, Ab, Bb | ![BFlatIonaritonic](ModeBFlatIonaritonic.png) |
 | [1305](https://ianring.com/musictheory/scales/1305) | [Dynitonic](ModeDynitonic.md) | -1 | C | C, D#, E, G#, A#, C | ![CNaturalDynitonic](ModeCNaturalDynitonic.png) |
 ## Relative Brightness
 

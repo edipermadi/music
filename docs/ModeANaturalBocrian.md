@@ -77,9 +77,7 @@ i, ii, III⁺, IV, V, vi⁰, vii⁰
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | 7 | D | D, E, F#, G#, A, B, C, D | ![DNaturalLythian](ModeDNaturalLythian.png) |
 | [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | 5 | E | E, F#, G#, A, B, C, D, E | ![ENaturalStydian](ModeENaturalStydian.png) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | F# | F#, G#, A, B, C, D, E, F# | ![FSharpLorian](ModeFSharpLorian.png) |
-| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | Gb | Gb, Ab, Bbb, Cb, Dbb, Ebb, Fb, Gb | ![GFlatLorian](ModeGFlatLorian.png) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | G# | G#, A, B, C, D, E, F#, G# | ![GSharpIonadian](ModeGSharpIonadian.png) |
-| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | Ab | Ab, Bbb, Cb, Dbb, Ebb, Fb, Gb, Ab | ![AFlatIonadian](ModeAFlatIonadian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

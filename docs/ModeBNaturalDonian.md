@@ -73,15 +73,11 @@ i⁰, iii⁰
 |--------|------|------------|-------|-------|--------------|
 | [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeDonian.md) | 7 | B | B, C#, D, Eb, F, Gb, Ab, B | ![BNaturalDonian](ModeBNaturalDonian.png) |
 | [1207](https://ianring.com/musictheory/scales/1207) | [Aeoloptian](ModeAeoloptian.md) | 5 | C# | C#, D, Eb, F, Gb, Ab, B, C# | ![CSharpAeoloptian](ModeCSharpAeoloptian.png) |
-| [1207](https://ianring.com/musictheory/scales/1207) | [Aeoloptian](ModeAeoloptian.md) | 5 | Db | Db, Ebb, Fbb, Gbb, Abbb, Bbbb, Cb, Db | ![DFlatAeoloptian](ModeDFlatAeoloptian.png) |
 | [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | -1 | D | D, Eb, F, Gb, Ab, B, C#, D | ![DNaturalPanian](ModeDNaturalPanian.png) |
 | [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | 3 | D# | D#, E#, F#, G#, A##, B##, C##, D# | ![DSharpLodian](ModeDSharpLodian.png) |
-| [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | 3 | Eb | Eb, F, Gb, Ab, B, C#, D, Eb | ![EFlatLodian](ModeEFlatLodian.png) |
 | [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | -1 | F | F, Gb, Ab, B, C#, D, Eb, F | ![FNaturalSolian](ModeFNaturalSolian.png) |
 | [2981](https://ianring.com/musictheory/scales/2981) | [Ionolian](ModeIonolian.md) | 6 | F# | F#, G#, A##, B##, C##, D#, E#, F# | ![FSharpIonolian](ModeFSharpIonolian.png) |
-| [2981](https://ianring.com/musictheory/scales/2981) | [Ionolian](ModeIonolian.md) | 6 | Gb | Gb, Ab, B, C#, D, Eb, F, Gb | ![GFlatIonolian](ModeGFlatIonolian.png) |
 | [1769](https://ianring.com/musictheory/scales/1769) | [Rythian](ModeRythian.md) | 4 | G# | G#, A##, B##, C##, D#, E#, F#, G# | ![GSharpRythian](ModeGSharpRythian.png) |
-| [1769](https://ianring.com/musictheory/scales/1769) | [Rythian](ModeRythian.md) | 4 | Ab | Ab, B, C#, D, Eb, F, Gb, Ab | ![AFlatRythian](ModeAFlatRythian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

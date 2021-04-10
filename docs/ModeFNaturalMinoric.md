@@ -68,9 +68,6 @@ I⁺, II⁺, III⁺
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | F | F, A, C#, F | ![FNaturalMinoric](ModeFNaturalMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | A | A, C#, F, A | ![ANaturalMinoric](ModeANaturalMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | C# | C#, F, A, C# | ![CSharpMinoric](ModeCSharpMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | Db | Db, F, A, Db | ![DFlatMinoric](ModeDFlatMinoric.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

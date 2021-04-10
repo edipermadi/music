@@ -73,7 +73,6 @@ ii⁰b3, iii, V⁺, VIIb5
 |--------|------|------------|-------|-------|--------------|
 | [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeAeolythian.md) | 6 | D | D, Eb, Fb, Gbb, Abb, Bbb, Cb, D | ![DNaturalAeolythian](ModeDNaturalAeolythian.png) |
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | -1 | D# | D#, E, F, G, A, B, C##, D# | ![DSharpMolian](ModeDSharpMolian.png) |
-| [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | -1 | Eb | Eb, Fb, Gbb, Abb, Bbb, Cb, D, Eb | ![EFlatMolian](ModeEFlatMolian.png) |
 | [3243](https://ianring.com/musictheory/scales/3243) | [Staptian](ModeStaptian.md) | 4 | E | E, F, G, A, B, C##, D#, E | ![ENaturalStaptian](ModeENaturalStaptian.png) |
 | [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeMothian.md) | -1 | F | F, G, A, B, C##, D#, E, F | ![FNaturalMothian](ModeFNaturalMothian.png) |
 | [1941](https://ianring.com/musictheory/scales/1941) | [Aeranian](ModeAeranian.md) | 7 | G | G, A, B, C##, D#, E, F, G | ![GNaturalAeranian](ModeGNaturalAeranian.png) |

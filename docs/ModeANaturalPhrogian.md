@@ -73,15 +73,11 @@ iv⁰, vi⁰
 |--------|------|------------|-------|-------|--------------|
 | [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | -1 | A | A, Bb, C, D#, E#, F#, G#, A | ![ANaturalPhrogian](ModeANaturalPhrogian.png) |
 | [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | 5 | A# | A#, B#, C###, D###, E##, F###, G##, A# | ![ASharpRathian](ModeASharpRathian.png) |
-| [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | 5 | Bb | Bb, C, D#, E#, F#, G#, A, Bb | ![BFlatRathian](ModeBFlatRathian.png) |
 | [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | 3 | C | C, D#, E#, F#, G#, A, Bb, C | ![CNaturalIonopian](ModeCNaturalIonopian.png) |
 | [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | 6 | D# | D#, E#, F#, G#, A, Bb, C, D# | ![DSharpAeologian](ModeDSharpAeologian.png) |
-| [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | 6 | Eb | Eb, F, Gb, Ab, Bbb, Cbb, Dbb, Eb | ![EFlatAeologian](ModeEFlatAeologian.png) |
 | [1211](https://ianring.com/musictheory/scales/1211) | [Zadian](ModeZadian.md) | 4 | F | F, Gb, Ab, Bbb, Cbb, Dbb, Eb, F | ![FNaturalZadian](ModeFNaturalZadian.png) |
 | [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | -1 | F# | F#, G#, A, Bb, C, D#, E#, F# | ![FSharpSygian](ModeFSharpSygian.png) |
-| [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | -1 | Gb | Gb, Ab, Bbb, Cbb, Dbb, Eb, F, Gb | ![GFlatSygian](ModeGFlatSygian.png) |
 | [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | 7 | G# | G#, A, Bb, C, D#, E#, F#, G# | ![GSharpPhralian](ModeGSharpPhralian.png) |
-| [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | 7 | Ab | Ab, Bbb, Cbb, Dbb, Eb, F, Gb, Ab | ![AFlatPhralian](ModeAFlatPhralian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

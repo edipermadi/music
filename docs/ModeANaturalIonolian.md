@@ -77,9 +77,7 @@ iii⁰, v⁰
 | [1207](https://ianring.com/musictheory/scales/1207) | [Aeoloptian](ModeAeoloptian.md) | 5 | E | E, F, Gb, Ab, Bbb, Cb, D, E | ![ENaturalAeoloptian](ModeENaturalAeoloptian.png) |
 | [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | -1 | F | F, Gb, Ab, Bbb, Cb, D, E, F | ![FNaturalPanian](ModeFNaturalPanian.png) |
 | [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | 3 | F# | F#, G#, A, B, C##, D##, E#, F# | ![FSharpLodian](ModeFSharpLodian.png) |
-| [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | 3 | Gb | Gb, Ab, Bbb, Cb, D, E, F, Gb | ![GFlatLodian](ModeGFlatLodian.png) |
 | [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | -1 | G# | G#, A, B, C##, D##, E#, F#, G# | ![GSharpSolian](ModeGSharpSolian.png) |
-| [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | -1 | Ab | Ab, Bbb, Cb, D, E, F, Gb, Ab | ![AFlatSolian](ModeAFlatSolian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

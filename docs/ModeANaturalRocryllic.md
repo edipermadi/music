@@ -75,15 +75,11 @@ I, II, iii⁰, vii⁰b3, viii
 | [3797](https://ianring.com/musictheory/scales/3797) | [Rocryllic](ModeRocryllic.md) | 8 | A | A, B, C#, D#, E, F#, G, G#, A | ![ANaturalRocryllic](ModeANaturalRocryllic.png) |
 | [1973](https://ianring.com/musictheory/scales/1973) | [Zyryllic](ModeZyryllic.md) | 6 | B | B, C#, D#, E, F#, G, G#, A, B | ![BNaturalZyryllic](ModeBNaturalZyryllic.png) |
 | [1517](https://ianring.com/musictheory/scales/1517) | [Sagyllic](ModeSagyllic.md) | 4 | C# | C#, D#, E, F#, G, G#, A, B, C# | ![CSharpSagyllic](ModeCSharpSagyllic.png) |
-| [1517](https://ianring.com/musictheory/scales/1517) | [Sagyllic](ModeSagyllic.md) | 4 | Db | Db, Eb, E, Gb, G, Ab, A, B, Db | ![DFlatSagyllic](ModeDFlatSagyllic.png) |
 | [1403](https://ianring.com/musictheory/scales/1403) | [Epinyllic](ModeEpinyllic.md) | 2 | D# | D#, E, F#, G, G#, A, B, C#, D# | ![DSharpEpinyllic](ModeDSharpEpinyllic.png) |
-| [1403](https://ianring.com/musictheory/scales/1403) | [Epinyllic](ModeEpinyllic.md) | 2 | Eb | Eb, E, Gb, G, Ab, A, B, Db, Eb | ![EFlatEpinyllic](ModeEFlatEpinyllic.png) |
 | [2749](https://ianring.com/musictheory/scales/2749) | [Katagyllic](ModeKatagyllic.md) | 7 | E | E, F#, G, G#, A, B, C#, D#, E | ![ENaturalKatagyllic](ModeENaturalKatagyllic.png) |
 | [1711](https://ianring.com/musictheory/scales/1711) | [Ragyllic](ModeRagyllic.md) | 5 | F# | F#, G, G#, A, B, C#, D#, E, F# | ![FSharpRagyllic](ModeFSharpRagyllic.png) |
-| [1711](https://ianring.com/musictheory/scales/1711) | [Ragyllic](ModeRagyllic.md) | 5 | Gb | Gb, G, Ab, A, B, Db, Eb, E, Gb | ![GFlatRagyllic](ModeGFlatRagyllic.png) |
 | [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeGothyllic.md) | -1 | G | G, G#, A, B, C#, D#, E, F#, G | ![GNaturalGothyllic](ModeGNaturalGothyllic.png) |
 | [3499](https://ianring.com/musictheory/scales/3499) | [Lythyllic](ModeLythyllic.md) | 3 | G# | G#, A, B, C#, D#, E, F#, G, G# | ![GSharpLythyllic](ModeGSharpLythyllic.png) |
-| [3499](https://ianring.com/musictheory/scales/3499) | [Lythyllic](ModeLythyllic.md) | 3 | Ab | Ab, A, B, Db, Eb, E, Gb, G, Ab | ![AFlatLythyllic](ModeAFlatLythyllic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

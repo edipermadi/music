@@ -72,15 +72,12 @@ i⁰, II, iii⁰, iv, v, VI, VII⁺
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [875](https://ianring.com/musictheory/scales/875) | [Stothian](ModeStothian.md) | -1 | C# | C#, D, E, F#, G, A, Bb, C# | ![CSharpStothian](ModeCSharpStothian.png) |
-| [875](https://ianring.com/musictheory/scales/875) | [Stothian](ModeStothian.md) | 6 | Db | Db, Ebb, Fb, Gb, Abb, Bbb, Cbb, Db | ![DFlatStothian](ModeDFlatStothian.png) |
 | [2485](https://ianring.com/musictheory/scales/2485) | [Aerorian](ModeAerorian.md) | 6 | D | D, E, F#, G, A, Bb, C#, D | ![DNaturalAerorian](ModeDNaturalAerorian.png) |
-| [1645](https://ianring.com/musictheory/scales/1645) | [Katagian](ModeKatagian.md) | -1 | E | E, F#, G, A, Bb, C#, D, E | ![ENaturalKatagian](ModeENaturalKatagian.png) |
+| [1645](https://ianring.com/musictheory/scales/1645) | [Katagian](ModeKatagian.md) | 4 | E | E, F#, G, A, Bb, C#, D, E | ![ENaturalKatagian](ModeENaturalKatagian.png) |
 | [1435](https://ianring.com/musictheory/scales/1435) | [Phronian](ModePhronian.md) | 7 | F# | F#, G, A, Bb, C#, D, E, F# | ![FSharpPhronian](ModeFSharpPhronian.png) |
-| [1435](https://ianring.com/musictheory/scales/1435) | [Phronian](ModePhronian.md) | -1 | Gb | Gb, Abb, Bbb, Cbb, Db, Ebb, Fb, Gb | ![GFlatPhronian](ModeGFlatPhronian.png) |
 | [2765](https://ianring.com/musictheory/scales/2765) | [Banian](ModeBanian.md) | 7 | G | G, A, Bb, C#, D, E, F#, G | ![GNaturalBanian](ModeGNaturalBanian.png) |
-| [1715](https://ianring.com/musictheory/scales/1715) | [Aeronian](ModeAeronian.md) | -1 | A | A, Bb, C#, D, E, F#, G, A | ![ANaturalAeronian](ModeANaturalAeronian.png) |
+| [1715](https://ianring.com/musictheory/scales/1715) | [Aeronian](ModeAeronian.md) | 5 | A | A, Bb, C#, D, E, F#, G, A | ![ANaturalAeronian](ModeANaturalAeronian.png) |
 | [2905](https://ianring.com/musictheory/scales/2905) | [Palian](ModePalian.md) | -1 | A# | A#, B##, C##, D##, E##, F##, G##, A# | ![ASharpPalian](ModeASharpPalian.png) |
-| [2905](https://ianring.com/musictheory/scales/2905) | [Palian](ModePalian.md) | -1 | Bb | Bb, C#, D, E, F#, G, A, Bb | ![BFlatPalian](ModeBFlatPalian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

@@ -78,7 +78,6 @@ I, ii, iii, IV, V, vi, vii⁰
 | [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | 5 | D | D, E, F#, G, A, B, C, D | ![DNaturalMixolydian](ModeDNaturalMixolydian.png) |
 | [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | 3 | E | E, F#, G, A, B, C, D, E | ![ENaturalAeolian](ModeENaturalAeolian.png) |
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | 1 | F# | F#, G, A, B, C, D, E, F# | ![FSharpLocrian](ModeFSharpLocrian.png) |
-| [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | 1 | Gb | Gb, Abb, Bbb, Cb, Dbb, Ebb, Fb, Gb | ![GFlatLocrian](ModeGFlatLocrian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

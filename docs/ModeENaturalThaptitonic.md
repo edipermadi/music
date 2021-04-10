@@ -71,7 +71,6 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [1189](https://ianring.com/musictheory/scales/1189) | [Thaptitonic](ModeThaptitonic.md) | 3 | E | E, F#, A, B, D, E | ![ENaturalThaptitonic](ModeENaturalThaptitonic.png) |
 | [1321](https://ianring.com/musictheory/scales/1321) | [Epathitonic](ModeEpathitonic.md) | 1 | F# | F#, A, B, D, E, F# | ![FSharpEpathitonic](ModeFSharpEpathitonic.png) |
-| [1321](https://ianring.com/musictheory/scales/1321) | [Epathitonic](ModeEpathitonic.md) | 1 | Gb | Gb, A, B, D, E, Gb | ![GFlatEpathitonic](ModeGFlatEpathitonic.png) |
 | [677](https://ianring.com/musictheory/scales/677) | [Mynitonic](ModeMynitonic.md) | 4 | A | A, B, D, E, F#, A | ![ANaturalMynitonic](ModeANaturalMynitonic.png) |
 | [1193](https://ianring.com/musictheory/scales/1193) | [Rocritonic](ModeRocritonic.md) | 2 | B | B, D, E, F#, A, B | ![BNaturalRocritonic](ModeBNaturalRocritonic.png) |
 | [661](https://ianring.com/musictheory/scales/661) | [Pentatonic](ModePentatonic.md) | 5 | D | D, E, F#, A, B, D | ![DNaturalPentatonic](ModeDNaturalPentatonic.png) |

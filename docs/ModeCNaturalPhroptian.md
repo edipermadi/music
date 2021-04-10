@@ -75,10 +75,8 @@ vi⁰b3
 | [1989](https://ianring.com/musictheory/scales/1989) | [Dydian](ModeDydian.md) | 7 | D | D, E, F###, G##, A#, B, C, D | ![DNaturalDydian](ModeDNaturalDydian.png) |
 | [1521](https://ianring.com/musictheory/scales/1521) | [Stanian](ModeStanian.md) | 5 | E | E, F###, G##, A#, B, C, D, E | ![ENaturalStanian](ModeENaturalStanian.png) |
 | [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeEpanian.md) | -1 | G# | G#, A, Bb, Cb, Dbb, Ebb, Fb, G# | ![GSharpEpanian](ModeGSharpEpanian.png) |
-| [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeEpanian.md) | -1 | Ab | Ab, Bbb, Cbb, Dbbb, Dbb, Ebb, Fb, Ab | ![AFlatEpanian](ModeAFlatEpanian.png) |
 | [2223](https://ianring.com/musictheory/scales/2223) | [Konian](ModeKonian.md) | 6 | A | A, Bb, Cb, Dbb, Ebb, Fb, G#, A | ![ANaturalKonian](ModeANaturalKonian.png) |
 | [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeStocrian.md) | -1 | A# | A#, B, C, D, E, F###, G##, A# | ![ASharpStocrian](ModeASharpStocrian.png) |
-| [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeStocrian.md) | -1 | Bb | Bb, Cb, Dbb, Ebb, Fb, G#, A, Bb | ![BFlatStocrian](ModeBFlatStocrian.png) |
 | [3627](https://ianring.com/musictheory/scales/3627) | [Kalian](ModeKalian.md) | 4 | B | B, C, D, E, F###, G##, A#, B | ![BNaturalKalian](ModeBNaturalKalian.png) |
 ## Relative Brightness
 

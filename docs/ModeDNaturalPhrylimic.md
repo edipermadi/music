@@ -73,10 +73,8 @@ iii⁰b3, iv
 | [1477](https://ianring.com/musictheory/scales/1477) | [Phrylimic](ModePhrylimic.md) | 6 | D | D, E, F###, G##, A#, B#, D | ![DNaturalPhrylimic](ModeDNaturalPhrylimic.png) |
 | [1393](https://ianring.com/musictheory/scales/1393) | [Mycrimic](ModeMycrimic.md) | 4 | E | E, F###, G##, A#, B#, C##, E | ![ENaturalMycrimic](ModeENaturalMycrimic.png) |
 | [343](https://ianring.com/musictheory/scales/343) | [Ionorimic](ModeIonorimic.md) | -1 | G# | G#, A, Bb, C, D, E, G# | ![GSharpIonorimic](ModeGSharpIonorimic.png) |
-| [343](https://ianring.com/musictheory/scales/343) | [Ionorimic](ModeIonorimic.md) | -1 | Ab | Ab, Bbb, Cbb, Dbb, Ebb, Fb, Ab | ![AFlatIonorimic](ModeAFlatIonorimic.png) |
 | [2219](https://ianring.com/musictheory/scales/2219) | [Phrydimic](ModePhrydimic.md) | 5 | A | A, Bb, C, D, E, F###, A | ![ANaturalPhrydimic](ModeANaturalPhrydimic.png) |
 | [3157](https://ianring.com/musictheory/scales/3157) | [Zyptimic](ModeZyptimic.md) | -1 | A# | A#, B#, C##, D##, F###, G##, A# | ![ASharpZyptimic](ModeASharpZyptimic.png) |
-| [3157](https://ianring.com/musictheory/scales/3157) | [Zyptimic](ModeZyptimic.md) | -1 | Bb | Bb, C, D, E, F###, G##, Bb | ![BFlatZyptimic](ModeBFlatZyptimic.png) |
 | [1813](https://ianring.com/musictheory/scales/1813) | [Katothimic](ModeKatothimic.md) | -1 | C | C, D, E, F###, G##, A#, C | ![CNaturalKatothimic](ModeCNaturalKatothimic.png) |
 ## Relative Brightness
 

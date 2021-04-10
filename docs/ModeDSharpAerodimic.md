@@ -70,16 +70,12 @@ C
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [1167](https://ianring.com/musictheory/scales/1167) | [Aerodimic](ModeAerodimic.md) | -1 | D# | D#, E, F, Gb, A#, B##, D# | ![DSharpAerodimic](ModeDSharpAerodimic.png) |
-| [1167](https://ianring.com/musictheory/scales/1167) | [Aerodimic](ModeAerodimic.md) | -1 | Eb | Eb, Fb, Gbb, Abbb, Bb, C#, Eb | ![EFlatAerodimic](ModeEFlatAerodimic.png) |
+| [1167](https://ianring.com/musictheory/scales/1167) | [Aerodimic](ModeAerodimic.md) | 6 | D# | D#, E, F, Gb, A#, B##, D# | ![DSharpAerodimic](ModeDSharpAerodimic.png) |
 | [2631](https://ianring.com/musictheory/scales/2631) | [Macrimic](ModeMacrimic.md) | -1 | E | E, F, Gb, A#, B##, C###, E | ![ENaturalMacrimic](ModeENaturalMacrimic.png) |
 | [3363](https://ianring.com/musictheory/scales/3363) | [Rogimic](ModeRogimic.md) | -1 | F | F, Gb, A#, B##, C###, D##, F | ![FNaturalRogimic](ModeFNaturalRogimic.png) |
 | [3729](https://ianring.com/musictheory/scales/3729) | [Starimic](ModeStarimic.md) | 6 | F# | F#, G###, Db, Eb, Fb, Gbb, F# | ![FSharpStarimic](ModeFSharpStarimic.png) |
-| [3729](https://ianring.com/musictheory/scales/3729) | [Starimic](ModeStarimic.md) | 6 | Gb | Gb, A#, B##, C###, D##, E#, Gb | ![GFlatStarimic](ModeGFlatStarimic.png) |
 | [489](https://ianring.com/musictheory/scales/489) | [Phrathimic](ModePhrathimic.md) | -1 | A# | A#, B##, C###, D##, E#, F#, A# | ![ASharpPhrathimic](ModeASharpPhrathimic.png) |
-| [489](https://ianring.com/musictheory/scales/489) | [Phrathimic](ModePhrathimic.md) | 5 | Bb | Bb, C#, D#, E, F, Gb, Bb | ![BFlatPhrathimic](ModeBFlatPhrathimic.png) |
-| [573](https://ianring.com/musictheory/scales/573) | [Saptimic](ModeSaptimic.md) | -1 | C# | C#, D#, E, F, Gb, A#, C# | ![CSharpSaptimic](ModeCSharpSaptimic.png) |
-| [573](https://ianring.com/musictheory/scales/573) | [Saptimic](ModeSaptimic.md) | 5 | Db | Db, Eb, Fb, Gbb, Abbb, Bb, Db | ![DFlatSaptimic](ModeDFlatSaptimic.png) |
+| [573](https://ianring.com/musictheory/scales/573) | [Saptimic](ModeSaptimic.md) | 5 | C# | C#, D#, E, F, Gb, A#, C# | ![CSharpSaptimic](ModeCSharpSaptimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

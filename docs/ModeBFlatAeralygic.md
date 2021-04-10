@@ -74,7 +74,6 @@ i⁰b3, ii⁰, III, iv⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3799](https://ianring.com/musictheory/scales/3799) | [Aeralygic](ModeAeralygic.md) | 9 | A# | A#, B, C, D, E, F, G, G#, A, A# | ![ASharpAeralygic](ModeASharpAeralygic.png) |
-| [3799](https://ianring.com/musictheory/scales/3799) | [Aeralygic](ModeAeralygic.md) | 9 | Bb | Bb, B, C, D, E, F, G, Ab, A, Bb | ![BFlatAeralygic](ModeBFlatAeralygic.png) |
 | [3947](https://ianring.com/musictheory/scales/3947) | [Ryptygic](ModeRyptygic.md) | 2 | B | B, C, D, E, F, G, G#, A, A#, B | ![BNaturalRyptygic](ModeBNaturalRyptygic.png) |
 | [4021](https://ianring.com/musictheory/scales/4021) | [Bagygic](ModeBagygic.md) | 7 | C | C, D, E, F, G, G#, A, A#, B, C | ![CNaturalBagygic](ModeCNaturalBagygic.png) |
 | [2029](https://ianring.com/musictheory/scales/2029) | [Mathygic](ModeMathygic.md) | 5 | D | D, E, F, G, G#, A, A#, B, C, D | ![DNaturalMathygic](ModeDNaturalMathygic.png) |
@@ -82,7 +81,6 @@ i⁰b3, ii⁰, III, iv⁰
 | [2813](https://ianring.com/musictheory/scales/2813) | [Zolygic](ModeZolygic.md) | 8 | F | F, G, G#, A, A#, B, C, D, E, F | ![FNaturalZolygic](ModeFNaturalZolygic.png) |
 | [1727](https://ianring.com/musictheory/scales/1727) | [Sydygic](ModeSydygic.md) | 6 | G | G, G#, A, A#, B, C, D, E, F, G | ![GNaturalSydygic](ModeGNaturalSydygic.png) |
 | [2911](https://ianring.com/musictheory/scales/2911) | [Katygic](ModeKatygic.md) | -1 | G# | G#, A, A#, B, C, D, E, F, G, G# | ![GSharpKatygic](ModeGSharpKatygic.png) |
-| [2911](https://ianring.com/musictheory/scales/2911) | [Katygic](ModeKatygic.md) | -1 | Ab | Ab, A, Bb, B, C, D, E, F, G, Ab | ![AFlatKatygic](ModeAFlatKatygic.png) |
 | [3503](https://ianring.com/musictheory/scales/3503) | [Zyphygic](ModeZyphygic.md) | 4 | A | A, A#, B, C, D, E, F, G, G#, A | ![ANaturalZyphygic](ModeANaturalZyphygic.png) |
 ## Relative Brightness
 

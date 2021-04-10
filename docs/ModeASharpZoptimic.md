@@ -71,7 +71,6 @@ v, vi
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | -1 | A# | A#, B#, C##, D##, E###, Cbbb, A# | ![ASharpZoptimic](ModeASharpZoptimic.png) |
-| [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | -1 | Bb | Bb, C, D, E, F##, G##, Bb | ![BFlatZoptimic](ModeBFlatZoptimic.png) |
 | [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | 6 | C | C, D, E, F##, G##, A#, C | ![CNaturalZeracrimic](ModeCNaturalZeracrimic.png) |
 | [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | 4 | D | D, E, F##, G##, A#, B#, D | ![DNaturalByptimic](ModeDNaturalByptimic.png) |
 | [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | 2 | E | E, F##, G##, A#, B#, C##, E | ![ENaturalPhracrimic](ModeENaturalPhracrimic.png) |

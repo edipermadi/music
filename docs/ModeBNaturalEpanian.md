@@ -74,10 +74,8 @@ iii⁰b3
 | [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeEpanian.md) | -1 | B | B, C, Db, Ebb, Fbb, Gbb, Abb, B | ![BNaturalEpanian](ModeBNaturalEpanian.png) |
 | [2223](https://ianring.com/musictheory/scales/2223) | [Konian](ModeKonian.md) | 6 | C | C, Db, Ebb, Fbb, Gbb, Abb, B, C | ![CNaturalKonian](ModeCNaturalKonian.png) |
 | [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeStocrian.md) | -1 | C# | C#, D, Eb, F, G, A##, B#, C# | ![CSharpStocrian](ModeCSharpStocrian.png) |
-| [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeStocrian.md) | -1 | Db | Db, Ebb, Fbb, Gbb, Abb, B, C, Db | ![DFlatStocrian](ModeDFlatStocrian.png) |
 | [3627](https://ianring.com/musictheory/scales/3627) | [Kalian](ModeKalian.md) | 4 | D | D, Eb, F, G, A##, B#, C#, D | ![DNaturalKalian](ModeDNaturalKalian.png) |
 | [3861](https://ianring.com/musictheory/scales/3861) | [Phroptian](ModePhroptian.md) | -1 | D# | D#, E#, F##, Cb, Dbb, Ebbb, Fbbb, D# | ![DSharpPhroptian](ModeDSharpPhroptian.png) |
-| [3861](https://ianring.com/musictheory/scales/3861) | [Phroptian](ModePhroptian.md) | -1 | Eb | Eb, F, G, A##, B#, C#, D, Eb | ![EFlatPhroptian](ModeEFlatPhroptian.png) |
 | [1989](https://ianring.com/musictheory/scales/1989) | [Dydian](ModeDydian.md) | 7 | F | F, G, A##, B#, C#, D, Eb, F | ![FNaturalDydian](ModeFNaturalDydian.png) |
 | [1521](https://ianring.com/musictheory/scales/1521) | [Stanian](ModeStanian.md) | 5 | G | G, A##, B#, C#, D, Eb, F, G | ![GNaturalStanian](ModeGNaturalStanian.png) |
 ## Relative Brightness

@@ -79,7 +79,6 @@ I, II, iii⁰, vii⁰b3, viii
 | [2749](https://ianring.com/musictheory/scales/2749) | [Katagyllic](ModeKatagyllic.md) | 7 | C | C, D, D#, E, F, G, A, B, C | ![CNaturalKatagyllic](ModeCNaturalKatagyllic.png) |
 | [1711](https://ianring.com/musictheory/scales/1711) | [Ragyllic](ModeRagyllic.md) | 5 | D | D, D#, E, F, G, A, B, C, D | ![DNaturalRagyllic](ModeDNaturalRagyllic.png) |
 | [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeGothyllic.md) | -1 | D# | D#, E, F, G, A, B, C, D, D# | ![DSharpGothyllic](ModeDSharpGothyllic.png) |
-| [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeGothyllic.md) | -1 | Eb | Eb, E, F, G, A, B, C, D, Eb | ![EFlatGothyllic](ModeEFlatGothyllic.png) |
 | [3499](https://ianring.com/musictheory/scales/3499) | [Lythyllic](ModeLythyllic.md) | 3 | E | E, F, G, A, B, C, D, D#, E | ![ENaturalLythyllic](ModeENaturalLythyllic.png) |
 ## Relative Brightness
 

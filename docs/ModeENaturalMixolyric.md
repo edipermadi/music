@@ -70,9 +70,7 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | -1 | E | E, F#, G#, C, E | ![ENaturalMixolyric](ModeENaturalMixolyric.png) |
 | [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | -1 | F# | F#, G#, C, E, F# | ![FSharpLydic](ModeFSharpLydic.png) |
-| [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | -1 | Gb | Gb, Ab, C, E, Gb | ![GFlatLydic](ModeGFlatLydic.png) |
 | [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | -1 | G# | G#, C, E, F#, G# | ![GSharpAeolic](ModeGSharpAeolic.png) |
-| [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | -1 | Ab | Ab, C, E, Gb, Ab | ![AFlatAeolic](ModeAFlatAeolic.png) |
 | [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | -1 | C | C, E, F#, G#, C | ![CNaturalKoptic](ModeCNaturalKoptic.png) |
 ## Relative Brightness
 

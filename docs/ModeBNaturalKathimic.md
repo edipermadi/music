@@ -71,10 +71,9 @@ Ib5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [377](https://ianring.com/musictheory/scales/377) | [Kathimic](ModeKathimic.md) | 5 | B | B, C##, D#, E, F, G, B | ![BNaturalKathimic](ModeBNaturalKathimic.png) |
-| [559](https://ianring.com/musictheory/scales/559) | [Lylimic](ModeLylimic.md) | 5 | D | D, Eb, Fb, Gbb, Abb, B, D | ![DNaturalLylimic](ModeDNaturalLylimic.png) |
+| [559](https://ianring.com/musictheory/scales/559) | [Lylimic](ModeLylimic.md) | -1 | D | D, Eb, Fb, Gbb, Abb, B, D | ![DNaturalLylimic](ModeDNaturalLylimic.png) |
 | [2327](https://ianring.com/musictheory/scales/2327) | [Epalimic](ModeEpalimic.md) | -1 | D# | D#, E, F, G, A##, B###, D# | ![DSharpEpalimic](ModeDSharpEpalimic.png) |
-| [2327](https://ianring.com/musictheory/scales/2327) | [Epalimic](ModeEpalimic.md) | -1 | Eb | Eb, Fb, Gbb, Abb, B, C##, Eb | ![EFlatEpalimic](ModeEFlatEpalimic.png) |
-| [3211](https://ianring.com/musictheory/scales/3211) | [Epacrimic](ModeEpacrimic.md) | -1 | E | E, F, G, A##, B###, C###, E | ![ENaturalEpacrimic](ModeENaturalEpacrimic.png) |
+| [3211](https://ianring.com/musictheory/scales/3211) | [Epacrimic](ModeEpacrimic.md) | 6 | E | E, F, G, A##, B###, C###, E | ![ENaturalEpacrimic](ModeENaturalEpacrimic.png) |
 | [3653](https://ianring.com/musictheory/scales/3653) | [Sathimic](ModeSathimic.md) | -1 | F | F, G, A##, B###, C###, D##, F | ![FNaturalSathimic](ModeFNaturalSathimic.png) |
 | [1937](https://ianring.com/musictheory/scales/1937) | [Galimic](ModeGalimic.md) | 6 | G | G, A##, B###, C###, D##, E#, G | ![GNaturalGalimic](ModeGNaturalGalimic.png) |
 ## Relative Brightness

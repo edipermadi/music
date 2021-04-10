@@ -70,14 +70,12 @@ IVb5
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [3211](https://ianring.com/musictheory/scales/3211) | [Epacrimic](ModeEpacrimic.md) | -1 | A | A, Bb, C, D##, E###, F###, A | ![ANaturalEpacrimic](ModeANaturalEpacrimic.png) |
+| [3211](https://ianring.com/musictheory/scales/3211) | [Epacrimic](ModeEpacrimic.md) | 6 | A | A, Bb, C, D##, E###, F###, A | ![ANaturalEpacrimic](ModeANaturalEpacrimic.png) |
 | [3653](https://ianring.com/musictheory/scales/3653) | [Sathimic](ModeSathimic.md) | -1 | A# | A#, B#, D##, E###, F###, G##, A# | ![ASharpSathimic](ModeASharpSathimic.png) |
-| [3653](https://ianring.com/musictheory/scales/3653) | [Sathimic](ModeSathimic.md) | -1 | Bb | Bb, C, D##, E###, F###, G##, Bb | ![BFlatSathimic](ModeBFlatSathimic.png) |
-| [1937](https://ianring.com/musictheory/scales/1937) | [Galimic](ModeGalimic.md) | 6 | C | C, D##, E###, F###, G##, A#, C | ![CNaturalGalimic](ModeCNaturalGalimic.png) |
+| [1937](https://ianring.com/musictheory/scales/1937) | [Galimic](ModeGalimic.md) | -1 | C | C, D##, E###, F###, G##, A#, C | ![CNaturalGalimic](ModeCNaturalGalimic.png) |
 | [377](https://ianring.com/musictheory/scales/377) | [Kathimic](ModeKathimic.md) | -1 | E | E, F##, G#, A, Bb, C, E | ![ENaturalKathimic](ModeENaturalKathimic.png) |
-| [559](https://ianring.com/musictheory/scales/559) | [Lylimic](ModeLylimic.md) | -1 | G | G, Ab, Bbb, Cbb, Dbb, E, G | ![GNaturalLylimic](ModeGNaturalLylimic.png) |
+| [559](https://ianring.com/musictheory/scales/559) | [Lylimic](ModeLylimic.md) | 5 | G | G, Ab, Bbb, Cbb, Dbb, E, G | ![GNaturalLylimic](ModeGNaturalLylimic.png) |
 | [2327](https://ianring.com/musictheory/scales/2327) | [Epalimic](ModeEpalimic.md) | -1 | G# | G#, A, Bb, C, D##, E###, G# | ![GSharpEpalimic](ModeGSharpEpalimic.png) |
-| [2327](https://ianring.com/musictheory/scales/2327) | [Epalimic](ModeEpalimic.md) | -1 | Ab | Ab, Bbb, Cbb, Dbb, E, F##, Ab | ![AFlatEpalimic](ModeAFlatEpalimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
@@ -85,7 +83,7 @@ IVb5
 | [3211](https://ianring.com/musictheory/scales/3211) | [Epacrimic](ModeEpacrimic.md) | -1 | A | A, Bb, C, D##, E###, F###, A | ![ANaturalEpacrimic](CircleOfFifthModeANaturalEpacrimic.svg) | ![ANaturalEpacrimic](ChromaticCircleModeANaturalEpacrimic.svg) |
 | [3653](https://ianring.com/musictheory/scales/3653) | [Sathimic](ModeSathimic.md) | -1 | A# | A#, B#, D##, E###, F###, G##, A# | ![ASharpSathimic](CircleOfFifthModeASharpSathimic.svg) | ![ASharpSathimic](ChromaticCircleModeASharpSathimic.svg) |
 | [3653](https://ianring.com/musictheory/scales/3653) | [Sathimic](ModeSathimic.md) | -1 | Bb | Bb, C, D##, E###, F###, G##, Bb | ![BFlatSathimic](CircleOfFifthModeBFlatSathimic.svg) | ![BFlatSathimic](ChromaticCircleModeBFlatSathimic.svg) |
-| [1937](https://ianring.com/musictheory/scales/1937) | [Galimic](ModeGalimic.md) | 6 | C | C, D##, E###, F###, G##, A#, C | ![CNaturalGalimic](CircleOfFifthModeCNaturalGalimic.svg) | ![CNaturalGalimic](ChromaticCircleModeCNaturalGalimic.svg) |
+| [1937](https://ianring.com/musictheory/scales/1937) | [Galimic](ModeGalimic.md) | -1 | C | C, D##, E###, F###, G##, A#, C | ![CNaturalGalimic](CircleOfFifthModeCNaturalGalimic.svg) | ![CNaturalGalimic](ChromaticCircleModeCNaturalGalimic.svg) |
 | [377](https://ianring.com/musictheory/scales/377) | [Kathimic](ModeKathimic.md) | -1 | E | E, F##, G#, A, Bb, C, E | ![ENaturalKathimic](CircleOfFifthModeENaturalKathimic.svg) | ![ENaturalKathimic](ChromaticCircleModeENaturalKathimic.svg) |
 | [559](https://ianring.com/musictheory/scales/559) | [Lylimic](ModeLylimic.md) | 5 | G | G, Ab, Bbb, Cbb, Dbb, E, G | ![GNaturalLylimic](CircleOfFifthModeGNaturalLylimic.svg) | ![GNaturalLylimic](ChromaticCircleModeGNaturalLylimic.svg) |
 | [2327](https://ianring.com/musictheory/scales/2327) | [Epalimic](ModeEpalimic.md) | -1 | G# | G#, A, Bb, C, D##, E###, G# | ![GSharpEpalimic](CircleOfFifthModeGSharpEpalimic.svg) | ![GSharpEpalimic](ChromaticCircleModeGSharpEpalimic.svg) |

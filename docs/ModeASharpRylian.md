@@ -72,14 +72,11 @@ i⁰, ii⁰b3, iii⁰, IV⁺, VI
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [861](https://ianring.com/musictheory/scales/861) | [Rylian](ModeRylian.md) | -1 | A# | A#, B#, C#, D, E, F#, G, A# | ![ASharpRylian](ModeASharpRylian.png) |
-| [861](https://ianring.com/musictheory/scales/861) | [Rylian](ModeRylian.md) | -1 | Bb | Bb, C, Db, Ebb, Fb, Gb, Abb, Bb | ![BFlatRylian](ModeBFlatRylian.png) |
 | [1239](https://ianring.com/musictheory/scales/1239) | [Epaptian](ModeEpaptian.md) | 7 | C | C, Db, Ebb, Fb, Gb, Abb, Bb, C | ![CNaturalEpaptian](ModeCNaturalEpaptian.png) |
-| [2667](https://ianring.com/musictheory/scales/2667) | [Byrian](ModeByrian.md) | 6 | C# | C#, D, E, F#, G, A#, B#, C# | ![CSharpByrian](ModeCSharpByrian.png) |
-| [2667](https://ianring.com/musictheory/scales/2667) | [Byrian](ModeByrian.md) | 6 | Db | Db, Ebb, Fb, Gb, Abb, Bb, C, Db | ![DFlatByrian](ModeDFlatByrian.png) |
-| [3381](https://ianring.com/musictheory/scales/3381) | [Katanian](ModeKatanian.md) | 5 | D | D, E, F#, G, A#, B#, C#, D | ![DNaturalKatanian](ModeDNaturalKatanian.png) |
+| [2667](https://ianring.com/musictheory/scales/2667) | [Byrian](ModeByrian.md) | -1 | C# | C#, D, E, F#, G, A#, B#, C# | ![CSharpByrian](ModeCSharpByrian.png) |
+| [3381](https://ianring.com/musictheory/scales/3381) | [Katanian](ModeKatanian.md) | -1 | D | D, E, F#, G, A#, B#, C#, D | ![DNaturalKatanian](ModeDNaturalKatanian.png) |
 | [1869](https://ianring.com/musictheory/scales/1869) | [Katyrian](ModeKatyrian.md) | -1 | E | E, F#, G, A#, B#, C#, D, E | ![ENaturalKatyrian](ModeENaturalKatyrian.png) |
-| [1491](https://ianring.com/musictheory/scales/1491) | [Rynian](ModeRynian.md) | 7 | F# | F#, G, A#, B#, C#, D, E, F# | ![FSharpRynian](ModeFSharpRynian.png) |
-| [1491](https://ianring.com/musictheory/scales/1491) | [Rynian](ModeRynian.md) | -1 | Gb | Gb, Abb, Bb, C, Db, Ebb, Fb, Gb | ![GFlatRynian](ModeGFlatRynian.png) |
+| [1491](https://ianring.com/musictheory/scales/1491) | [Rynian](ModeRynian.md) | -1 | F# | F#, G, A#, B#, C#, D, E, F# | ![FSharpRynian](ModeFSharpRynian.png) |
 | [2793](https://ianring.com/musictheory/scales/2793) | [Eporian](ModeEporian.md) | -1 | G | G, A#, B#, C#, D, E, F#, G | ![GNaturalEporian](ModeGNaturalEporian.png) |
 ## Relative Brightness
 

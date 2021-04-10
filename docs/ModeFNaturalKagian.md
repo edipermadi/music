@@ -73,11 +73,9 @@ I⁺, III, iv⁰, vi
 |--------|------|------------|-------|-------|--------------|
 | [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeKagian.md) | -1 | F | F, Gb, A, B, C#, D, E, F | ![FNaturalKagian](ModeFNaturalKagian.png) |
 | [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModePhrolian.md) | 3 | F# | F#, G##, A##, B##, C##, D##, E#, F# | ![FSharpPhrolian](ModeFSharpPhrolian.png) |
-| [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModePhrolian.md) | 3 | Gb | Gb, A, B, C#, D, E, F, Gb | ![GFlatPhrolian](ModeGFlatPhrolian.png) |
 | [949](https://ianring.com/musictheory/scales/949) | [Ionagian](ModeIonagian.md) | 6 | A | A, B, C#, D, E, F, Gb, A | ![ANaturalIonagian](ModeANaturalIonagian.png) |
 | [1261](https://ianring.com/musictheory/scales/1261) | [Aeodian](ModeAeodian.md) | 4 | B | B, C#, D, E, F, Gb, A, B | ![BNaturalAeodian](ModeBNaturalAeodian.png) |
 | [1339](https://ianring.com/musictheory/scales/1339) | [Kycrian](ModeKycrian.md) | 2 | C# | C#, D, E, F, Gb, A, B, C# | ![CSharpKycrian](ModeCSharpKycrian.png) |
-| [1339](https://ianring.com/musictheory/scales/1339) | [Kycrian](ModeKycrian.md) | 2 | Db | Db, Ebb, Fb, Gbb, Abbb, Bbb, Cb, Db | ![DFlatKycrian](ModeDFlatKycrian.png) |
 | [2717](https://ianring.com/musictheory/scales/2717) | [Epygian](ModeEpygian.md) | 7 | D | D, E, F, Gb, A, B, C#, D | ![DNaturalEpygian](ModeDNaturalEpygian.png) |
 | [1703](https://ianring.com/musictheory/scales/1703) | [Zaptian](ModeZaptian.md) | 5 | E | E, F, Gb, A, B, C#, D, E | ![ENaturalZaptian](ModeENaturalZaptian.png) |
 ## Relative Brightness

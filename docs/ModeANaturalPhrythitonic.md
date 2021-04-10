@@ -71,10 +71,8 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [1095](https://ianring.com/musictheory/scales/1095) | [Phrythitonic](ModePhrythitonic.md) | -1 | A | A, A#, B, D#, G, A | ![ANaturalPhrythitonic](ModeANaturalPhrythitonic.png) |
 | [2595](https://ianring.com/musictheory/scales/2595) | [Rolitonic](ModeRolitonic.md) | 4 | A# | A#, B, D#, G, A, A# | ![ASharpRolitonic](ModeASharpRolitonic.png) |
-| [2595](https://ianring.com/musictheory/scales/2595) | [Rolitonic](ModeRolitonic.md) | 4 | Bb | Bb, B, Eb, G, A, Bb | ![BFlatRolitonic](ModeBFlatRolitonic.png) |
 | [3345](https://ianring.com/musictheory/scales/3345) | [Zylitonic](ModeZylitonic.md) | -1 | B | B, D#, G, A, A#, B | ![BNaturalZylitonic](ModeBNaturalZylitonic.png) |
 | [465](https://ianring.com/musictheory/scales/465) | [Zoditonic](ModeZoditonic.md) | 5 | D# | D#, G, A, A#, B, D# | ![DSharpZoditonic](ModeDSharpZoditonic.png) |
-| [465](https://ianring.com/musictheory/scales/465) | [Zoditonic](ModeZoditonic.md) | 5 | Eb | Eb, G, A, Bb, B, Eb | ![EFlatZoditonic](ModeEFlatZoditonic.png) |
 | [285](https://ianring.com/musictheory/scales/285) | [Zaritonic](ModeZaritonic.md) | -1 | G | G, A, A#, B, D#, G | ![GNaturalZaritonic](ModeGNaturalZaritonic.png) |
 ## Relative Brightness
 

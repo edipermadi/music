@@ -70,7 +70,6 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | 4 | A | A, C#, E, G, A | ![ANaturalDaric](ModeANaturalDaric.png) |
 | [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | -1 | C# | C#, E, G, A, C# | ![CSharpLonic](ModeCSharpLonic.png) |
-| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | -1 | Db | Db, E, G, A, Db | ![DFlatLonic](ModeDFlatLonic.png) |
 | [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | 3 | E | E, G, A, C#, E | ![ENaturalPhradic](ModeENaturalPhradic.png) |
 | [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | -1 | G | G, A, C#, E, G | ![GNaturalBolic](ModeGNaturalBolic.png) |
 ## Relative Brightness

@@ -72,17 +72,12 @@ IIb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1961](https://ianring.com/musictheory/scales/1961) | [Soptian](ModeSoptian.md) | 3 | A# | A#, B##, C###, D###, E##, F##, G#, A# | ![ASharpSoptian](ModeASharpSoptian.png) |
-| [1961](https://ianring.com/musictheory/scales/1961) | [Soptian](ModeSoptian.md) | 3 | Bb | Bb, C#, D#, E#, F#, G, Ab, Bb | ![BFlatSoptian](ModeBFlatSoptian.png) |
 | [757](https://ianring.com/musictheory/scales/757) | [Ionyptian](ModeIonyptian.md) | 6 | C# | C#, D#, E#, F#, G, Ab, Bb, C# | ![CSharpIonyptian](ModeCSharpIonyptian.png) |
-| [757](https://ianring.com/musictheory/scales/757) | [Ionyptian](ModeIonyptian.md) | 6 | Db | Db, Eb, F, Gb, Abb, Bbbb, Cbb, Db | ![DFlatIonyptian](ModeDFlatIonyptian.png) |
 | [1213](https://ianring.com/musictheory/scales/1213) | [Gyrian](ModeGyrian.md) | 4 | D# | D#, E#, F#, G, Ab, Bb, C#, D# | ![DSharpGyrian](ModeDSharpGyrian.png) |
-| [1213](https://ianring.com/musictheory/scales/1213) | [Gyrian](ModeGyrian.md) | 4 | Eb | Eb, F, Gb, Abb, Bbbb, Cbb, Db, Eb | ![EFlatGyrian](ModeEFlatGyrian.png) |
 | [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | 2 | F | F, Gb, Abb, Bbbb, Cbb, Db, Eb, F | ![FNaturalZalian](ModeFNaturalZalian.png) |
 | [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | 7 | F# | F#, G, Ab, Bb, C#, D#, E#, F# | ![FSharpStolian](ModeFSharpStolian.png) |
-| [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | 7 | Gb | Gb, Abb, Bbbb, Cbb, Db, Eb, F, Gb | ![GFlatStolian](ModeGFlatStolian.png) |
 | [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | -1 | G | G, Ab, Bb, C#, D#, E#, F#, G | ![GNaturalBylian](ModeGNaturalBylian.png) |
 | [3749](https://ianring.com/musictheory/scales/3749) | [Zothian](ModeZothian.md) | 5 | G# | G#, A#, B##, C###, D###, E##, F##, G# | ![GSharpZothian](ModeGSharpZothian.png) |
-| [3749](https://ianring.com/musictheory/scales/3749) | [Zothian](ModeZothian.md) | 5 | Ab | Ab, Bb, C#, D#, E#, F#, G, Ab | ![AFlatZothian](ModeAFlatZothian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

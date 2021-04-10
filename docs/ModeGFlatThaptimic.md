@@ -71,15 +71,10 @@ IV, v
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | 6 | F# | F#, G#, A#, B##, C###, D###, F# | ![FSharpThaptimic](ModeFSharpThaptimic.png) |
-| [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | 6 | Gb | Gb, Ab, Bb, C#, D#, E#, Gb | ![GFlatThaptimic](ModeGFlatThaptimic.png) |
 | [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | 4 | G# | G#, A#, B##, C###, D###, E##, G# | ![GSharpLothimic](ModeGSharpLothimic.png) |
-| [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | 4 | Ab | Ab, Bb, C#, D#, E#, F#, Ab | ![AFlatLothimic](ModeAFlatLothimic.png) |
 | [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | 2 | A# | A#, B##, C###, D###, E##, F###, A# | ![ASharpEpathimic](ModeASharpEpathimic.png) |
-| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | 2 | Bb | Bb, C#, D#, E#, F#, G#, Bb | ![BFlatEpathimic](ModeBFlatEpathimic.png) |
 | [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | 5 | C# | C#, D#, E#, F#, G#, A#, C# | ![CSharpMynimic](ModeCSharpMynimic.png) |
-| [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | 5 | Db | Db, Eb, F, Gb, Ab, Bb, Db | ![DFlatMynimic](ModeDFlatMynimic.png) |
 | [1197](https://ianring.com/musictheory/scales/1197) | [Rocrimic](ModeRocrimic.md) | 3 | D# | D#, E#, F#, G#, A#, B##, D# | ![DSharpRocrimic](ModeDSharpRocrimic.png) |
-| [1197](https://ianring.com/musictheory/scales/1197) | [Rocrimic](ModeRocrimic.md) | 3 | Eb | Eb, F, Gb, Ab, Bb, C#, Eb | ![EFlatRocrimic](ModeEFlatRocrimic.png) |
 | [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | 1 | F | F, Gb, Ab, Bb, C#, D#, F | ![FNaturalEporimic](ModeFNaturalEporimic.png) |
 ## Relative Brightness
 

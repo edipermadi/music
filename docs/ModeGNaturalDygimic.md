@@ -75,7 +75,6 @@ I⁺, III⁺, V⁺
 | [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeEpogimic.md) | 2 | B | B, C##, D#, E, F##, G##, B | ![BNaturalEpogimic](ModeBNaturalEpogimic.png) |
 | [679](https://ianring.com/musictheory/scales/679) | [Lanimic](ModeLanimic.md) | 5 | D | D, Eb, Fb, G, A, B, D | ![DNaturalLanimic](ModeDNaturalLanimic.png) |
 | [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | -1 | D# | D#, E, F##, G##, A##, B###, D# | ![DSharpPaptimic](ModeDSharpPaptimic.png) |
-| [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | -1 | Eb | Eb, Fb, G, A, B, C##, Eb | ![EFlatPaptimic](ModeEFlatPaptimic.png) |
 | [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDalimic.md) | 3 | E | E, F##, G##, A##, B###, C###, E | ![ENaturalDalimic](ModeENaturalDalimic.png) |
 ## Relative Brightness
 

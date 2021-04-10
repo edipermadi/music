@@ -74,15 +74,11 @@ I⁺, IIIb5, vii⁰b3
 |--------|------|------------|-------|-------|--------------|
 | [3923](https://ianring.com/musictheory/scales/3923) | [Stoptyllic](ModeStoptyllic.md) | -1 | C | C, C#, E, F#, G#, A, A#, B, C | ![CNaturalStoptyllic](ModeCNaturalStoptyllic.png) |
 | [4009](https://ianring.com/musictheory/scales/4009) | [Phranyllic](ModePhranyllic.md) | 4 | C# | C#, E, F#, G#, A, A#, B, C, C# | ![CSharpPhranyllic](ModeCSharpPhranyllic.png) |
-| [4009](https://ianring.com/musictheory/scales/4009) | [Phranyllic](ModePhranyllic.md) | 4 | Db | Db, E, Gb, Ab, A, Bb, B, C, Db | ![DFlatPhranyllic](ModeDFlatPhranyllic.png) |
 | [1013](https://ianring.com/musictheory/scales/1013) | [Stydyllic](ModeStydyllic.md) | 7 | E | E, F#, G#, A, A#, B, C, C#, E | ![ENaturalStydyllic](ModeENaturalStydyllic.png) |
 | [1277](https://ianring.com/musictheory/scales/1277) | [Zadyllic](ModeZadyllic.md) | 5 | F# | F#, G#, A, A#, B, C, C#, E, F# | ![FSharpZadyllic](ModeFSharpZadyllic.png) |
-| [1277](https://ianring.com/musictheory/scales/1277) | [Zadyllic](ModeZadyllic.md) | 5 | Gb | Gb, Ab, A, Bb, B, C, Db, E, Gb | ![GFlatZadyllic](ModeGFlatZadyllic.png) |
 | [1343](https://ianring.com/musictheory/scales/1343) | [Zalyllic](ModeZalyllic.md) | 3 | G# | G#, A, A#, B, C, C#, E, F#, G# | ![GSharpZalyllic](ModeGSharpZalyllic.png) |
-| [1343](https://ianring.com/musictheory/scales/1343) | [Zalyllic](ModeZalyllic.md) | 3 | Ab | Ab, A, Bb, B, C, Db, E, Gb, Ab | ![AFlatZalyllic](ModeAFlatZalyllic.png) |
 | [2719](https://ianring.com/musictheory/scales/2719) | [Zocryllic](ModeZocryllic.md) | 8 | A | A, A#, B, C, C#, E, F#, G#, A | ![ANaturalZocryllic](ModeANaturalZocryllic.png) |
 | [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeKatocryllic.md) | -1 | A# | A#, B, C, C#, E, F#, G#, A, A# | ![ASharpKatocryllic](ModeASharpKatocryllic.png) |
-| [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeKatocryllic.md) | -1 | Bb | Bb, B, C, Db, E, Gb, Ab, A, Bb | ![BFlatKatocryllic](ModeBFlatKatocryllic.png) |
 | [3751](https://ianring.com/musictheory/scales/3751) | [Aerathyllic](ModeAerathyllic.md) | 6 | B | B, C, C#, E, F#, G#, A, A#, B | ![BNaturalAerathyllic](ModeBNaturalAerathyllic.png) |
 ## Relative Brightness
 

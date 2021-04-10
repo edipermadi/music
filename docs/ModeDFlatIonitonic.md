@@ -70,13 +70,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [421](https://ianring.com/musictheory/scales/421) | [Ionitonic](ModeIonitonic.md) | 4 | C# | C#, D#, F#, G#, A, C# | ![CSharpIonitonic](ModeCSharpIonitonic.png) |
-| [421](https://ianring.com/musictheory/scales/421) | [Ionitonic](ModeIonitonic.md) | 4 | Db | Db, Eb, Gb, Ab, A, Db | ![DFlatIonitonic](ModeDFlatIonitonic.png) |
 | [1129](https://ianring.com/musictheory/scales/1129) | [Phrynitonic](ModePhrynitonic.md) | 2 | D# | D#, F#, G#, A, C#, D# | ![DSharpPhrynitonic](ModeDSharpPhrynitonic.png) |
-| [1129](https://ianring.com/musictheory/scales/1129) | [Phrynitonic](ModePhrynitonic.md) | 2 | Eb | Eb, Gb, Ab, A, Db, Eb | ![EFlatPhrynitonic](ModeEFlatPhrynitonic.png) |
 | [653](https://ianring.com/musictheory/scales/653) | [Stathitonic](ModeStathitonic.md) | 5 | F# | F#, G#, A, C#, D#, F# | ![FSharpStathitonic](ModeFSharpStathitonic.png) |
-| [653](https://ianring.com/musictheory/scales/653) | [Stathitonic](ModeStathitonic.md) | 5 | Gb | Gb, Ab, A, Db, Eb, Gb | ![GFlatStathitonic](ModeGFlatStathitonic.png) |
 | [1187](https://ianring.com/musictheory/scales/1187) | [Thalitonic](ModeThalitonic.md) | 3 | G# | G#, A, C#, D#, F#, G# | ![GSharpThalitonic](ModeGSharpThalitonic.png) |
-| [1187](https://ianring.com/musictheory/scales/1187) | [Thalitonic](ModeThalitonic.md) | 3 | Ab | Ab, A, Db, Eb, Gb, Ab | ![AFlatThalitonic](ModeAFlatThalitonic.png) |
 | [2641](https://ianring.com/musictheory/scales/2641) | [Gathitonic](ModeGathitonic.md) | -1 | A | A, C#, D#, F#, G#, A | ![ANaturalGathitonic](ModeANaturalGathitonic.png) |
 ## Relative Brightness
 

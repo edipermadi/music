@@ -73,9 +73,7 @@ i, II⁺, III⁺, IV, Vb5, vi⁰, vii⁰b3
 |--------|------|------------|-------|-------|--------------|
 | [2731](https://ianring.com/musictheory/scales/2731) | [Thydian](ModeThydian.md) | 6 | C | C, Db, Eb, F, G, A, B, C | ![CNaturalThydian](ModeCNaturalThydian.png) |
 | [3413](https://ianring.com/musictheory/scales/3413) | [Aeolynian](ModeAeolynian.md) | -1 | C# | C#, D#, E#, F##, G##, A##, B#, C# | ![CSharpAeolynian](ModeCSharpAeolynian.png) |
-| [3413](https://ianring.com/musictheory/scales/3413) | [Aeolynian](ModeAeolynian.md) | -1 | Db | Db, Eb, F, G, A, B, C, Db | ![DFlatAeolynian](ModeDFlatAeolynian.png) |
 | [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeAeroptian.md) | -1 | D# | D#, E#, F##, G##, A##, B#, C#, D# | ![DSharpAeroptian](ModeDSharpAeroptian.png) |
-| [1877](https://ianring.com/musictheory/scales/1877) | [Aeroptian](ModeAeroptian.md) | -1 | Eb | Eb, F, G, A, B, C, Db, Eb | ![EFlatAeroptian](ModeEFlatAeroptian.png) |
 | [1493](https://ianring.com/musictheory/scales/1493) | [Phryrian](ModePhryrian.md) | 7 | F | F, G, A, B, C, Db, Eb, F | ![FNaturalPhryrian](ModeFNaturalPhryrian.png) |
 | [1397](https://ianring.com/musictheory/scales/1397) | [Gothian](ModeGothian.md) | 5 | G | G, A, B, C, Db, Eb, F, G | ![GNaturalGothian](ModeGNaturalGothian.png) |
 | [1373](https://ianring.com/musictheory/scales/1373) | [Storian](ModeStorian.md) | -1 | A | A, B, C, Db, Eb, F, G, A | ![ANaturalStorian](ModeANaturalStorian.png) |

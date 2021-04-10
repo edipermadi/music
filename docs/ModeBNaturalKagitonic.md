@@ -73,9 +73,7 @@ V⁺
 | [789](https://ianring.com/musictheory/scales/789) | [Zogitonic](ModeZogitonic.md) | -1 | D | D, E, F#, A#, B, D | ![DNaturalZogitonic](ModeDNaturalZogitonic.png) |
 | [1221](https://ianring.com/musictheory/scales/1221) | [Epyritonic](ModeEpyritonic.md) | 5 | E | E, F#, A#, B, D, E | ![ENaturalEpyritonic](ModeENaturalEpyritonic.png) |
 | [1329](https://ianring.com/musictheory/scales/1329) | [Epygitonic](ModeEpygitonic.md) | 3 | F# | F#, A#, B, D, E, F# | ![FSharpEpygitonic](ModeFSharpEpygitonic.png) |
-| [1329](https://ianring.com/musictheory/scales/1329) | [Epygitonic](ModeEpygitonic.md) | 3 | Gb | Gb, Bb, B, D, E, Gb | ![GFlatEpygitonic](ModeGFlatEpygitonic.png) |
 | [339](https://ianring.com/musictheory/scales/339) | [Zaptitonic](ModeZaptitonic.md) | -1 | A# | A#, B, D, E, F#, A# | ![ASharpZaptitonic](ModeASharpZaptitonic.png) |
-| [339](https://ianring.com/musictheory/scales/339) | [Zaptitonic](ModeZaptitonic.md) | -1 | Bb | Bb, B, D, E, Gb, Bb | ![BFlatZaptitonic](ModeBFlatZaptitonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

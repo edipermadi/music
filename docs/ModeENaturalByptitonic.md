@@ -73,7 +73,6 @@ C
 | [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | 4 | F | F, G, A#, C, E, F | ![FNaturalDaritonic](ModeFNaturalDaritonic.png) |
 | [1577](https://ianring.com/musictheory/scales/1577) | [Lonitonic](ModeLonitonic.md) | 2 | G | G, A#, C, E, F, G | ![GNaturalLonitonic](ModeGNaturalLonitonic.png) |
 | [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | 5 | A# | A#, C, E, F, G, A# | ![ASharpIonycritonic](ModeASharpIonycritonic.png) |
-| [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | 5 | Bb | Bb, C, E, F, G, Bb | ![BFlatIonycritonic](ModeBFlatIonycritonic.png) |
 | [1201](https://ianring.com/musictheory/scales/1201) | [Aeracritonic](ModeAeracritonic.md) | 3 | C | C, E, F, G, A#, C | ![CNaturalAeracritonic](ModeCNaturalAeracritonic.png) |
 ## Relative Brightness
 

@@ -74,9 +74,7 @@ i⁰
 | [1175](https://ianring.com/musictheory/scales/1175) | [Epycrimic](ModeEpycrimic.md) | 6 | E | E, F, Gb, Ab, B, C##, E | ![ENaturalEpycrimic](ModeENaturalEpycrimic.png) |
 | [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | -1 | F | F, Gb, Ab, B, C##, D##, F | ![FNaturalGocrimic](ModeFNaturalGocrimic.png) |
 | [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | 4 | F# | F#, G#, A##, B###, D##, E#, F# | ![FSharpKatolimic](ModeFSharpKatolimic.png) |
-| [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | 4 | Gb | Gb, Ab, B, C##, D##, E#, Gb | ![GFlatKatolimic](ModeGFlatKatolimic.png) |
 | [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | -1 | G# | G#, A##, B###, D##, E#, F#, G# | ![GSharpThagimic](ModeGSharpThagimic.png) |
-| [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | -1 | Ab | Ab, B, C##, D##, E#, F#, Ab | ![AFlatThagimic](ModeAFlatThagimic.png) |
 | [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | 5 | B | B, C##, D##, E#, F#, G#, B | ![BNaturalKolimic](ModeBNaturalKolimic.png) |
 ## Relative Brightness
 

@@ -69,11 +69,6 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | A | A, C, D#, F#, A | ![ANaturalPhrynic](ModeANaturalPhrynic.png) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | C | C, D#, F#, A, C | ![CNaturalPhrynic](ModeCNaturalPhrynic.png) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | D# | D#, F#, A, C, D# | ![DSharpPhrynic](ModeDSharpPhrynic.png) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | Eb | Eb, Gb, A, C, Eb | ![EFlatPhrynic](ModeEFlatPhrynic.png) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | F# | F#, A, C, D#, F# | ![FSharpPhrynic](ModeFSharpPhrynic.png) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | Gb | Gb, A, C, Eb, Gb | ![GFlatPhrynic](ModeGFlatPhrynic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

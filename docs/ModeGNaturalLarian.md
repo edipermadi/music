@@ -75,12 +75,9 @@ I⁺, II, III, iv⁰, v⁰, vi, vii
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | 7 | A | A, B, C#, D#, E, F#, G, A | ![ANaturalLythian](ModeANaturalLythian.png) |
 | [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | 5 | B | B, C#, D#, E, F#, G, A, B | ![BNaturalStydian](ModeBNaturalStydian.png) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | C# | C#, D#, E, F#, G, A, B, C# | ![CSharpLorian](ModeCSharpLorian.png) |
-| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | Db | Db, Eb, Fb, Gb, Abb, Bbb, Cb, Db | ![DFlatLorian](ModeDFlatLorian.png) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | D# | D#, E, F#, G, A, B, C#, D# | ![DSharpIonadian](ModeDSharpIonadian.png) |
-| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | Eb | Eb, Fb, Gb, Abb, Bbb, Cb, Db, Eb | ![EFlatIonadian](ModeEFlatIonadian.png) |
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | 6 | E | E, F#, G, A, B, C#, D#, E | ![ENaturalBocrian](ModeENaturalBocrian.png) |
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | 4 | F# | F#, G, A, B, C#, D#, E, F# | ![FSharpMixolythian](ModeFSharpMixolythian.png) |
-| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | 4 | Gb | Gb, Abb, Bbb, Cb, Db, Eb, Fb, Gb | ![GFlatMixolythian](ModeGFlatMixolythian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

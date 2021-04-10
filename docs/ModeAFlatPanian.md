@@ -72,7 +72,6 @@ i⁰, vi⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | -1 | G# | G#, A, B, C, D, E#, F##, G# | ![GSharpPanian](ModeGSharpPanian.png) |
-| [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | -1 | Ab | Ab, Bbb, Cb, Dbb, Ebb, F, G, Ab | ![AFlatPanian](ModeAFlatPanian.png) |
 | [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | 3 | A | A, B, C, D, E#, F##, G#, A | ![ANaturalLodian](ModeANaturalLodian.png) |
 | [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | -1 | B | B, C, D, E#, F##, G#, A, B | ![BNaturalSolian](ModeBNaturalSolian.png) |
 | [2981](https://ianring.com/musictheory/scales/2981) | [Ionolian](ModeIonolian.md) | 6 | C | C, D, E#, F##, G#, A, B, C | ![CNaturalIonolian](ModeCNaturalIonolian.png) |

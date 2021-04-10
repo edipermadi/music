@@ -73,15 +73,12 @@ i⁰, ii, iii⁰, IV, v⁰, vii⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2907](https://ianring.com/musictheory/scales/2907) | [Mogyllic](ModeMogyllic.md) | -1 | F# | F#, G, A, A#, C, D, D#, F, F# | ![FSharpMogyllic](ModeFSharpMogyllic.png) |
-| [2907](https://ianring.com/musictheory/scales/2907) | [Mogyllic](ModeMogyllic.md) | -1 | Gb | Gb, G, A, Bb, C, D, Eb, F, Gb | ![GFlatMogyllic](ModeGFlatMogyllic.png) |
 | [3501](https://ianring.com/musictheory/scales/3501) | [Katodyllic](ModeKatodyllic.md) | 4 | G | G, A, A#, C, D, D#, F, F#, G | ![GNaturalKatodyllic](ModeGNaturalKatodyllic.png) |
 | [1899](https://ianring.com/musictheory/scales/1899) | [Moptyllic](ModeMoptyllic.md) | 2 | A | A, A#, C, D, D#, F, F#, G, A | ![ANaturalMoptyllic](ModeANaturalMoptyllic.png) |
 | [2997](https://ianring.com/musictheory/scales/2997) | [Ionoptyllic](ModeIonoptyllic.md) | 7 | A# | A#, C, D, D#, F, F#, G, A, A# | ![ASharpIonoptyllic](ModeASharpIonoptyllic.png) |
-| [2997](https://ianring.com/musictheory/scales/2997) | [Ionoptyllic](ModeIonoptyllic.md) | 7 | Bb | Bb, C, D, Eb, F, Gb, G, A, Bb | ![BFlatIonoptyllic](ModeBFlatIonoptyllic.png) |
 | [1773](https://ianring.com/musictheory/scales/1773) | [Aeoloryllic](ModeAeoloryllic.md) | 5 | C | C, D, D#, F, F#, G, A, A#, C | ![CNaturalAeoloryllic](ModeCNaturalAeoloryllic.png) |
 | [1467](https://ianring.com/musictheory/scales/1467) | [Thydyllic](ModeThydyllic.md) | 3 | D | D, D#, F, F#, G, A, A#, C, D | ![DNaturalThydyllic](ModeDNaturalThydyllic.png) |
 | [2781](https://ianring.com/musictheory/scales/2781) | [Gycryllic](ModeGycryllic.md) | 8 | D# | D#, F, F#, G, A, A#, C, D, D# | ![DSharpGycryllic](ModeDSharpGycryllic.png) |
-| [2781](https://ianring.com/musictheory/scales/2781) | [Gycryllic](ModeGycryllic.md) | 8 | Eb | Eb, F, Gb, G, A, Bb, C, D, Eb | ![EFlatGycryllic](ModeEFlatGycryllic.png) |
 | [1719](https://ianring.com/musictheory/scales/1719) | [Lyryllic](ModeLyryllic.md) | 6 | F | F, F#, G, A, A#, C, D, D#, F | ![FNaturalLyryllic](ModeFNaturalLyryllic.png) |
 ## Relative Brightness
 

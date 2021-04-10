@@ -72,14 +72,11 @@ i⁰, vi⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | -1 | C# | C#, D#, E, F, G, A#, B#, C# | ![CSharpSygian](ModeCSharpSygian.png) |
-| [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | -1 | Db | Db, Eb, Fb, Gbb, Abb, Bb, C, Db | ![DFlatSygian](ModeDFlatSygian.png) |
 | [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | 7 | D# | D#, E, F, G, A#, B#, C#, D# | ![DSharpPhralian](ModeDSharpPhralian.png) |
-| [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | 7 | Eb | Eb, Fb, Gbb, Abb, Bb, C, Db, Eb | ![EFlatPhralian](ModeEFlatPhralian.png) |
 | [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | -1 | E | E, F, G, A#, B#, C#, D#, E | ![ENaturalPhrogian](ModeENaturalPhrogian.png) |
 | [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | 5 | F | F, G, A#, B#, C#, D#, E, F | ![FNaturalRathian](ModeFNaturalRathian.png) |
 | [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | 3 | G | G, A#, B#, C#, D#, E, F, G | ![GNaturalIonopian](ModeGNaturalIonopian.png) |
 | [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | 6 | A# | A#, B#, C#, D#, E, F, G, A# | ![ASharpAeologian](ModeASharpAeologian.png) |
-| [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | 6 | Bb | Bb, C, Db, Eb, Fb, Gbb, Abb, Bb | ![BFlatAeologian](ModeBFlatAeologian.png) |
 | [1211](https://ianring.com/musictheory/scales/1211) | [Zadian](ModeZadian.md) | 4 | C | C, Db, Eb, Fb, Gbb, Abb, Bb, C | ![CNaturalZadian](ModeCNaturalZadian.png) |
 ## Relative Brightness
 

@@ -73,16 +73,12 @@ iv⁰b3, VI⁺, VIIIb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [703](https://ianring.com/musictheory/scales/703) | [Aerocryllic](ModeAerocryllic.md) | 7 | G# | G#, A, A#, B, C, C#, D#, F, G# | ![GSharpAerocryllic](ModeGSharpAerocryllic.png) |
-| [703](https://ianring.com/musictheory/scales/703) | [Aerocryllic](ModeAerocryllic.md) | 7 | Ab | Ab, A, Bb, B, C, Db, Eb, F, Ab | ![AFlatAerocryllic](ModeAFlatAerocryllic.png) |
 | [2399](https://ianring.com/musictheory/scales/2399) | [Zanyllic](ModeZanyllic.md) | -1 | A | A, A#, B, C, C#, D#, F, G#, A | ![ANaturalZanyllic](ModeANaturalZanyllic.png) |
 | [3247](https://ianring.com/musictheory/scales/3247) | [Aeolonyllic](ModeAeolonyllic.md) | 5 | A# | A#, B, C, C#, D#, F, G#, A, A# | ![ASharpAeolonyllic](ModeASharpAeolonyllic.png) |
-| [3247](https://ianring.com/musictheory/scales/3247) | [Aeolonyllic](ModeAeolonyllic.md) | 5 | Bb | Bb, B, C, Db, Eb, F, Ab, A, Bb | ![BFlatAeolonyllic](ModeBFlatAeolonyllic.png) |
 | [3671](https://ianring.com/musictheory/scales/3671) | [Aeonyllic](ModeAeonyllic.md) | -1 | B | B, C, C#, D#, F, G#, A, A#, B | ![BNaturalAeonyllic](ModeBNaturalAeonyllic.png) |
 | [3883](https://ianring.com/musictheory/scales/3883) | [Kyryllic](ModeKyryllic.md) | 3 | C | C, C#, D#, F, G#, A, A#, B, C | ![CNaturalKyryllic](ModeCNaturalKyryllic.png) |
 | [3989](https://ianring.com/musictheory/scales/3989) | [Sythyllic](ModeSythyllic.md) | 8 | C# | C#, D#, F, G#, A, A#, B, C, C# | ![CSharpSythyllic](ModeCSharpSythyllic.png) |
-| [3989](https://ianring.com/musictheory/scales/3989) | [Sythyllic](ModeSythyllic.md) | 8 | Db | Db, Eb, F, Ab, A, Bb, B, C, Db | ![DFlatSythyllic](ModeDFlatSythyllic.png) |
 | [2021](https://ianring.com/musictheory/scales/2021) | [Katycryllic](ModeKatycryllic.md) | 6 | D# | D#, F, G#, A, A#, B, C, C#, D# | ![DSharpKatycryllic](ModeDSharpKatycryllic.png) |
-| [2021](https://ianring.com/musictheory/scales/2021) | [Katycryllic](ModeKatycryllic.md) | 6 | Eb | Eb, F, Ab, A, Bb, B, C, Db, Eb | ![EFlatKatycryllic](ModeEFlatKatycryllic.png) |
 | [1529](https://ianring.com/musictheory/scales/1529) | [Kataryllic](ModeKataryllic.md) | 4 | F | F, G#, A, A#, B, C, C#, D#, F | ![FNaturalKataryllic](ModeFNaturalKataryllic.png) |
 ## Relative Brightness
 

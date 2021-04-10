@@ -76,7 +76,6 @@ I, VI
 | [2725](https://ianring.com/musictheory/scales/2725) | [Gonimic](ModeGonimic.md) | 5 | F | F, G, A#, B#, C##, D##, F | ![FNaturalGonimic](ModeFNaturalGonimic.png) |
 | [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeDarmic.md) | 3 | G | G, A#, B#, C##, D##, E#, G | ![GNaturalDarmic](ModeGNaturalDarmic.png) |
 | [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeLonimic.md) | 6 | A# | A#, B#, C##, D##, E#, F##, A# | ![ASharpLonimic](ModeASharpLonimic.png) |
-| [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeLonimic.md) | 6 | Bb | Bb, C, D, E, F, G, Bb | ![BFlatLonimic](ModeBFlatLonimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

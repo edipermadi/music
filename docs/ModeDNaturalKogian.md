@@ -21,7 +21,7 @@
 
 ## Luminosity
 
-6
+-1
 
 ## Tonic
 
@@ -71,16 +71,13 @@ C
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [381](https://ianring.com/musictheory/scales/381) | [Kogian](ModeKogian.md) | -1 | D | D, E, F, Gb, Abb, Bbbb, Cbb, D | ![DNaturalKogian](ModeDNaturalKogian.png) |
+| [381](https://ianring.com/musictheory/scales/381) | [Kogian](ModeKogian.md) | 6 | D | D, E, F, Gb, Abb, Bbbb, Cbb, D | ![DNaturalKogian](ModeDNaturalKogian.png) |
 | [1119](https://ianring.com/musictheory/scales/1119) | [Rarian](ModeRarian.md) | -1 | E | E, F, Gb, Abb, Bbbb, Cbb, D, E | ![ENaturalRarian](ModeENaturalRarian.png) |
 | [2607](https://ianring.com/musictheory/scales/2607) | [Aerolian](ModeAerolian.md) | 6 | F | F, Gb, Abb, Bbbb, Cbb, D, E, F | ![FNaturalAerolian](ModeFNaturalAerolian.png) |
 | [3351](https://ianring.com/musictheory/scales/3351) | [Karian](ModeKarian.md) | -1 | F# | F#, G, Ab, Bb, C##, D##, E#, F# | ![FSharpKarian](ModeFSharpKarian.png) |
-| [3351](https://ianring.com/musictheory/scales/3351) | [Karian](ModeKarian.md) | -1 | Gb | Gb, Abb, Bbbb, Cbb, D, E, F, Gb | ![GFlatKarian](ModeGFlatKarian.png) |
-| [3723](https://ianring.com/musictheory/scales/3723) | [Myptian](ModeMyptian.md) | -1 | G | G, Ab, Bb, C##, D##, E#, F#, G | ![GNaturalMyptian](ModeGNaturalMyptian.png) |
+| [3723](https://ianring.com/musictheory/scales/3723) | [Myptian](ModeMyptian.md) | 7 | G | G, Ab, Bb, C##, D##, E#, F#, G | ![GNaturalMyptian](ModeGNaturalMyptian.png) |
 | [3909](https://ianring.com/musictheory/scales/3909) | [Rydian](ModeRydian.md) | -1 | G# | G#, A#, B###, D##, E#, F#, G, G# | ![GSharpRydian](ModeGSharpRydian.png) |
-| [3909](https://ianring.com/musictheory/scales/3909) | [Rydian](ModeRydian.md) | -1 | Ab | Ab, Bb, C##, D##, E#, F#, G, Ab | ![AFlatRydian](ModeAFlatRydian.png) |
 | [2001](https://ianring.com/musictheory/scales/2001) | [Gydian](ModeGydian.md) | -1 | A# | A#, B###, D##, E#, F#, G, Ab, A# | ![ASharpGydian](ModeASharpGydian.png) |
-| [2001](https://ianring.com/musictheory/scales/2001) | [Gydian](ModeGydian.md) | 7 | Bb | Bb, C##, D##, E#, F#, G, Ab, Bb | ![BFlatGydian](ModeBFlatGydian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

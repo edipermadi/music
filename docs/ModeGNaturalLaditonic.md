@@ -73,9 +73,7 @@ C
 | [279](https://ianring.com/musictheory/scales/279) | [Poditonic](ModePoditonic.md) | -1 | B | B, C, C#, D#, G, B | ![BNaturalPoditonic](ModeBNaturalPoditonic.png) |
 | [2187](https://ianring.com/musictheory/scales/2187) | [Ionothitonic](ModeIonothitonic.md) | 5 | C | C, C#, D#, G, B, C | ![CNaturalIonothitonic](ModeCNaturalIonothitonic.png) |
 | [3141](https://ianring.com/musictheory/scales/3141) | [Kanitonic](ModeKanitonic.md) | -1 | C# | C#, D#, G, B, C, C# | ![CSharpKanitonic](ModeCSharpKanitonic.png) |
-| [3141](https://ianring.com/musictheory/scales/3141) | [Kanitonic](ModeKanitonic.md) | -1 | Db | Db, Eb, G, B, C, Db | ![DFlatKanitonic](ModeDFlatKanitonic.png) |
 | [1809](https://ianring.com/musictheory/scales/1809) | [Ranitonic](ModeRanitonic.md) | -1 | D# | D#, G, B, C, C#, D# | ![DSharpRanitonic](ModeDSharpRanitonic.png) |
-| [1809](https://ianring.com/musictheory/scales/1809) | [Ranitonic](ModeRanitonic.md) | -1 | Eb | Eb, G, B, C, Db, Eb | ![EFlatRanitonic](ModeEFlatRanitonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

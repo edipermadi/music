@@ -74,14 +74,11 @@ i, II⁺, III, IVb5, viii⁰b3
 |--------|------|------------|-------|-------|--------------|
 | [3755](https://ianring.com/musictheory/scales/3755) | [Phryryllic](ModePhryryllic.md) | 5 | C | C, C#, D#, F, G, A, A#, B, C | ![CNaturalPhryryllic](ModeCNaturalPhryryllic.png) |
 | [3925](https://ianring.com/musictheory/scales/3925) | [Thyryllic](ModeThyryllic.md) | -1 | C# | C#, D#, F, G, A, A#, B, C, C# | ![CSharpThyryllic](ModeCSharpThyryllic.png) |
-| [3925](https://ianring.com/musictheory/scales/3925) | [Thyryllic](ModeThyryllic.md) | -1 | Db | Db, Eb, F, G, A, Bb, B, C, Db | ![DFlatThyryllic](ModeDFlatThyryllic.png) |
 | [2005](https://ianring.com/musictheory/scales/2005) | [Gygyllic](ModeGygyllic.md) | 8 | D# | D#, F, G, A, A#, B, C, C#, D# | ![DSharpGygyllic](ModeDSharpGygyllic.png) |
-| [2005](https://ianring.com/musictheory/scales/2005) | [Gygyllic](ModeGygyllic.md) | 8 | Eb | Eb, F, G, A, Bb, B, C, Db, Eb | ![EFlatGygyllic](ModeEFlatGygyllic.png) |
 | [1525](https://ianring.com/musictheory/scales/1525) | [Sodyllic](ModeSodyllic.md) | 6 | F | F, G, A, A#, B, C, C#, D#, F | ![FNaturalSodyllic](ModeFNaturalSodyllic.png) |
 | [1405](https://ianring.com/musictheory/scales/1405) | [Goryllic](ModeGoryllic.md) | 4 | G | G, A, A#, B, C, C#, D#, F, G | ![GNaturalGoryllic](ModeGNaturalGoryllic.png) |
 | [1375](https://ianring.com/musictheory/scales/1375) | [Bothyllic](ModeBothyllic.md) | -1 | A | A, A#, B, C, C#, D#, F, G, A | ![ANaturalBothyllic](ModeANaturalBothyllic.png) |
 | [2735](https://ianring.com/musictheory/scales/2735) | [Gynyllic](ModeGynyllic.md) | 7 | A# | A#, B, C, C#, D#, F, G, A, A# | ![ASharpGynyllic](ModeASharpGynyllic.png) |
-| [2735](https://ianring.com/musictheory/scales/2735) | [Gynyllic](ModeGynyllic.md) | 7 | Bb | Bb, B, C, Db, Eb, F, G, A, Bb | ![BFlatGynyllic](ModeBFlatGynyllic.png) |
 | [3415](https://ianring.com/musictheory/scales/3415) | [Ionaptyllic](ModeIonaptyllic.md) | -1 | B | B, C, C#, D#, F, G, A, A#, B | ![BNaturalIonaptyllic](ModeBNaturalIonaptyllic.png) |
 ## Relative Brightness
 

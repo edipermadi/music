@@ -70,9 +70,7 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [713](https://ianring.com/musictheory/scales/713) | [Thoptitonic](ModeThoptitonic.md) | 5 | A# | A#, C#, E, F, G, A# | ![ASharpThoptitonic](ModeASharpThoptitonic.png) |
-| [713](https://ianring.com/musictheory/scales/713) | [Thoptitonic](ModeThoptitonic.md) | 5 | Bb | Bb, Db, E, F, G, Bb | ![BFlatThoptitonic](ModeBFlatThoptitonic.png) |
 | [601](https://ianring.com/musictheory/scales/601) | [Bycritonic](ModeBycritonic.md) | -1 | C# | C#, E, F, G, A#, C# | ![CSharpBycritonic](ModeCSharpBycritonic.png) |
-| [601](https://ianring.com/musictheory/scales/601) | [Bycritonic](ModeBycritonic.md) | -1 | Db | Db, E, F, G, Bb, Db | ![DFlatBycritonic](ModeDFlatBycritonic.png) |
 | [587](https://ianring.com/musictheory/scales/587) | [Pathitonic](ModePathitonic.md) | -1 | E | E, F, G, A#, C#, E | ![ENaturalPathitonic](ModeENaturalPathitonic.png) |
 | [2341](https://ianring.com/musictheory/scales/2341) | [Myditonic](ModeMyditonic.md) | 4 | F | F, G, A#, C#, E, F | ![FNaturalMyditonic](ModeFNaturalMyditonic.png) |
 | [1609](https://ianring.com/musictheory/scales/1609) | [Thyritonic](ModeThyritonic.md) | -1 | G | G, A#, C#, E, F, G | ![GNaturalThyritonic](ModeGNaturalThyritonic.png) |

@@ -78,7 +78,6 @@ IIIb5
 | [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | 2 | E | E, F, Gb, Abb, Bbb, C, D, E | ![ENaturalZalian](ModeENaturalZalian.png) |
 | [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | 7 | F | F, Gb, Abb, Bbb, C, D, E, F | ![FNaturalStolian](ModeFNaturalStolian.png) |
 | [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | -1 | F# | F#, G, A, B#, C##, D##, E#, F# | ![FSharpBylian](ModeFSharpBylian.png) |
-| [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | -1 | Gb | Gb, Abb, Bbb, C, D, E, F, Gb | ![GFlatBylian](ModeGFlatBylian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

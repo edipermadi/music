@@ -78,10 +78,8 @@ C
 | [1215](https://ianring.com/musictheory/scales/1215) | [Aeolanyllic](ModeAeolanyllic.md) | 5 | E | E, F, F#, G, G#, A, B, D, E | ![ENaturalAeolanyllic](ModeENaturalAeolanyllic.png) |
 | [2655](https://ianring.com/musictheory/scales/2655) | [Thocryllic](ModeThocryllic.md) | -1 | F | F, F#, G, G#, A, B, D, E, F | ![FNaturalThocryllic](ModeFNaturalThocryllic.png) |
 | [3375](https://ianring.com/musictheory/scales/3375) | [Kygyllic](ModeKygyllic.md) | 3 | F# | F#, G, G#, A, B, D, E, F, F# | ![FSharpKygyllic](ModeFSharpKygyllic.png) |
-| [3375](https://ianring.com/musictheory/scales/3375) | [Kygyllic](ModeKygyllic.md) | 3 | Gb | Gb, G, Ab, A, B, D, E, F, Gb | ![GFlatKygyllic](ModeGFlatKygyllic.png) |
 | [3735](https://ianring.com/musictheory/scales/3735) | [Ionagyllic](ModeIonagyllic.md) | 8 | G | G, G#, A, B, D, E, F, F#, G | ![GNaturalIonagyllic](ModeGNaturalIonagyllic.png) |
 | [3915](https://ianring.com/musictheory/scales/3915) | [Gogyllic](ModeGogyllic.md) | -1 | G# | G#, A, B, D, E, F, F#, G, G# | ![GSharpGogyllic](ModeGSharpGogyllic.png) |
-| [3915](https://ianring.com/musictheory/scales/3915) | [Gogyllic](ModeGogyllic.md) | -1 | Ab | Ab, A, B, D, E, F, Gb, G, Ab | ![AFlatGogyllic](ModeAFlatGogyllic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

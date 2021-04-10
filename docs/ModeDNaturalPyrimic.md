@@ -72,7 +72,6 @@ vi
 |--------|------|------------|-------|-------|--------------|
 | [1191](https://ianring.com/musictheory/scales/1191) | [Pyrimic](ModePyrimic.md) | 4 | D | D, Eb, Fb, G, A, B#, D | ![DNaturalPyrimic](ModeDNaturalPyrimic.png) |
 | [2643](https://ianring.com/musictheory/scales/2643) | [Lydimic](ModeLydimic.md) | -1 | D# | D#, E, F##, G##, A###, B###, D# | ![DSharpLydimic](ModeDSharpLydimic.png) |
-| [2643](https://ianring.com/musictheory/scales/2643) | [Lydimic](ModeLydimic.md) | -1 | Eb | Eb, Fb, G, A, B#, C##, Eb | ![EFlatLydimic](ModeEFlatLydimic.png) |
 | [3369](https://ianring.com/musictheory/scales/3369) | [Mixolimic](ModeMixolimic.md) | 2 | E | E, F##, G##, A###, B###, C###, E | ![ENaturalMixolimic](ModeENaturalMixolimic.png) |
 | [933](https://ianring.com/musictheory/scales/933) | [Dadimic](ModeDadimic.md) | 5 | G | G, A, B#, C##, D#, E, G | ![GNaturalDadimic](ModeGNaturalDadimic.png) |
 | [1257](https://ianring.com/musictheory/scales/1257) | [Aeolyphimic](ModeAeolyphimic.md) | 3 | A | A, B#, C##, D#, E, F##, A | ![ANaturalAeolyphimic](ModeANaturalAeolyphimic.png) |

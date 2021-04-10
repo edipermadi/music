@@ -77,14 +77,11 @@ iii⁰b3, iv⁰, Vb5
 | [1967](https://ianring.com/musictheory/scales/1967) | [Godygic](ModeGodygic.md) | 4 | B | B, C, C#, D, E, F#, G, G#, A, B | ![BNaturalGodygic](ModeBNaturalGodygic.png) |
 | [3031](https://ianring.com/musictheory/scales/3031) | [Epithygic](ModeEpithygic.md) | 9 | C | C, C#, D, E, F#, G, G#, A, B, C | ![CNaturalEpithygic](ModeCNaturalEpithygic.png) |
 | [3563](https://ianring.com/musictheory/scales/3563) | [Ionoptygic](ModeIonoptygic.md) | 2 | C# | C#, D, E, F#, G, G#, A, B, C, C# | ![CSharpIonoptygic](ModeCSharpIonoptygic.png) |
-| [3563](https://ianring.com/musictheory/scales/3563) | [Ionoptygic](ModeIonoptygic.md) | 2 | Db | Db, D, E, Gb, G, Ab, A, B, C, Db | ![DFlatIonoptygic](ModeDFlatIonoptygic.png) |
 | [3829](https://ianring.com/musictheory/scales/3829) | [Aerycrygic](ModeAerycrygic.md) | 7 | D | D, E, F#, G, G#, A, B, C, C#, D | ![DNaturalAerycrygic](ModeDNaturalAerycrygic.png) |
 | [1981](https://ianring.com/musictheory/scales/1981) | [Gadygic](ModeGadygic.md) | 5 | E | E, F#, G, G#, A, B, C, C#, D, E | ![ENaturalGadygic](ModeENaturalGadygic.png) |
 | [1519](https://ianring.com/musictheory/scales/1519) | [Solygic](ModeSolygic.md) | 3 | F# | F#, G, G#, A, B, C, C#, D, E, F# | ![FSharpSolygic](ModeFSharpSolygic.png) |
-| [1519](https://ianring.com/musictheory/scales/1519) | [Solygic](ModeSolygic.md) | 3 | Gb | Gb, G, Ab, A, B, C, Db, D, E, Gb | ![GFlatSolygic](ModeGFlatSolygic.png) |
 | [2807](https://ianring.com/musictheory/scales/2807) | [Zylygic](ModeZylygic.md) | 8 | G | G, G#, A, B, C, C#, D, E, F#, G | ![GNaturalZylygic](ModeGNaturalZylygic.png) |
 | [3451](https://ianring.com/musictheory/scales/3451) | [Garygic](ModeGarygic.md) | 1 | G# | G#, A, B, C, C#, D, E, F#, G, G# | ![GSharpGarygic](ModeGSharpGarygic.png) |
-| [3451](https://ianring.com/musictheory/scales/3451) | [Garygic](ModeGarygic.md) | 1 | Ab | Ab, A, B, C, Db, D, E, Gb, G, Ab | ![AFlatGarygic](ModeAFlatGarygic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

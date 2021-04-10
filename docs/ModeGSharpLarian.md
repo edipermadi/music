@@ -72,9 +72,7 @@ I⁺, II, III, iv⁰, v⁰, vi, vii
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | -1 | G# | G#, A#, B#, C##, D##, E#, F##, G# | ![GSharpLarian](ModeGSharpLarian.png) |
-| [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | -1 | Ab | Ab, Bb, C, D, E, F, G, Ab | ![AFlatLarian](ModeAFlatLarian.png) |
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | 7 | A# | A#, B#, C##, D##, E#, F##, G#, A# | ![ASharpLythian](ModeASharpLythian.png) |
-| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | 7 | Bb | Bb, C, D, E, F, G, Ab, Bb | ![BFlatLythian](ModeBFlatLythian.png) |
 | [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | 5 | C | C, D, E, F, G, Ab, Bb, C | ![CNaturalStydian](ModeCNaturalStydian.png) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | D | D, E, F, G, Ab, Bb, C, D | ![DNaturalLorian](ModeDNaturalLorian.png) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | E | E, F, G, Ab, Bb, C, D, E | ![ENaturalIonadian](ModeENaturalIonadian.png) |

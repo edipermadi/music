@@ -69,11 +69,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | -1 | A# | A#, C, E, G#, A# | ![ASharpLydic](ModeASharpLydic.png) |
-| [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | -1 | Bb | Bb, C, E, Ab, Bb | ![BFlatLydic](ModeBFlatLydic.png) |
 | [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | -1 | C | C, E, G#, A#, C | ![CNaturalAeolic](ModeCNaturalAeolic.png) |
 | [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | -1 | E | E, G#, A#, C, E | ![ENaturalKoptic](ModeENaturalKoptic.png) |
 | [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | -1 | G# | G#, A#, C, E, G# | ![GSharpMixolyric](ModeGSharpMixolyric.png) |
-| [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | -1 | Ab | Ab, Bb, C, E, Ab | ![AFlatMixolyric](ModeAFlatMixolyric.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

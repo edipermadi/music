@@ -74,11 +74,9 @@ i, III⁺, V, vii⁰
 | [3245](https://ianring.com/musictheory/scales/3245) | [Aeracrian](ModeAeracrian.md) | 4 | C | C, D, Eb, F, G, A#, B, C | ![CNaturalAeracrian](ModeCNaturalAeracrian.png) |
 | [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | 2 | D | D, Eb, F, G, A#, B, C, D | ![DNaturalByptian](ModeDNaturalByptian.png) |
 | [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | 7 | D# | D#, E#, F##, G###, A##, B#, C##, D# | ![DSharpDarian](ModeDSharpDarian.png) |
-| [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | 7 | Eb | Eb, F, G, A#, B, C, D, Eb | ![EFlatDarian](ModeEFlatDarian.png) |
 | [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | 5 | F | F, G, A#, B, C, D, Eb, F | ![FNaturalLonian](ModeFNaturalLonian.png) |
 | [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | 3 | G | G, A#, B, C, D, Eb, F, G | ![GNaturalAerathian](ModeGNaturalAerathian.png) |
 | [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | 6 | A# | A#, B, C, D, Eb, F, G, A# | ![ASharpSarian](ModeASharpSarian.png) |
-| [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | 6 | Bb | Bb, Cb, Dbb, Ebb, Fbb, Gbb, Abb, Bb | ![BFlatSarian](ModeBFlatSarian.png) |
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | -1 | B | B, C, D, Eb, F, G, A#, B | ![BNaturalZoptian](ModeBNaturalZoptian.png) |
 ## Relative Brightness
 

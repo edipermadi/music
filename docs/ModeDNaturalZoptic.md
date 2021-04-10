@@ -72,7 +72,6 @@ C
 | [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | -1 | E | E, G, A#, D, E | ![ENaturalAeraphic](ModeENaturalAeraphic.png) |
 | [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | 4 | G | G, A#, D, E, G | ![GNaturalByptic](ModeGNaturalByptic.png) |
 | [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | -1 | A# | A#, D, E, G, A# | ![ASharpSaric](ModeASharpSaric.png) |
-| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | -1 | Bb | Bb, D, E, G, Bb | ![BFlatSaric](ModeBFlatSaric.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

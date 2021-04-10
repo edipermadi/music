@@ -73,7 +73,6 @@ V⁺
 | [1305](https://ianring.com/musictheory/scales/1305) | [Dynitonic](ModeDynitonic.md) | -1 | E | E, G, G#, C, D, E | ![ENaturalDynitonic](ModeENaturalDynitonic.png) |
 | [675](https://ianring.com/musictheory/scales/675) | [Zyditonic](ModeZyditonic.md) | 4 | G | G, G#, C, D, E, G | ![GNaturalZyditonic](ModeGNaturalZyditonic.png) |
 | [2385](https://ianring.com/musictheory/scales/2385) | [Aeolanitonic](ModeAeolanitonic.md) | -1 | G# | G#, C, D, E, G, G# | ![GSharpAeolanitonic](ModeGSharpAeolanitonic.png) |
-| [2385](https://ianring.com/musictheory/scales/2385) | [Aeolanitonic](ModeAeolanitonic.md) | -1 | Ab | Ab, C, D, E, G, Ab | ![AFlatAeolanitonic](ModeAFlatAeolanitonic.png) |
 | [405](https://ianring.com/musictheory/scales/405) | [Danitonic](ModeDanitonic.md) | 5 | C | C, D, E, G, G#, C | ![CNaturalDanitonic](ModeCNaturalDanitonic.png) |
 ## Relative Brightness
 

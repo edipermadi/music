@@ -21,7 +21,7 @@
 
 ## Luminosity
 
-3
+-1
 
 ## Tonic
 
@@ -70,14 +70,14 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | -1 | B | B, C, E, G, B | ![BNaturalAerathic](ModeBNaturalAerathic.png) |
 | [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | 4 | C | C, E, G, B, C | ![CNaturalThaptic](ModeCNaturalThaptic.png) |
-| [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | -1 | E | E, G, B, C, E | ![ENaturalLothic](ModeENaturalLothic.png) |
+| [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | 4 | E | E, G, B, C, E | ![ENaturalLothic](ModeENaturalLothic.png) |
 | [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | 3 | G | G, B, C, E, G | ![GNaturalPhratic](ModeGNaturalPhratic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [291](https://ianring.com/musictheory/scales/291) | [Aerathic](ModeAerathic.md) | -1 | B | B, C, E, G, B | ![BNaturalAerathic](CircleOfFifthModeBNaturalAerathic.svg) | ![BNaturalAerathic](ChromaticCircleModeBNaturalAerathic.svg) |
-| [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | 4 | C | C, E, G, B, C | ![CNaturalThaptic](CircleOfFifthModeCNaturalThaptic.svg) | ![CNaturalThaptic](ChromaticCircleModeCNaturalThaptic.svg) |
+| [2193](https://ianring.com/musictheory/scales/2193) | [Thaptic](ModeThaptic.md) | -1 | C | C, E, G, B, C | ![CNaturalThaptic](CircleOfFifthModeCNaturalThaptic.svg) | ![CNaturalThaptic](ChromaticCircleModeCNaturalThaptic.svg) |
 | [393](https://ianring.com/musictheory/scales/393) | [Lothic](ModeLothic.md) | 4 | E | E, G, B, C, E | ![ENaturalLothic](CircleOfFifthModeENaturalLothic.svg) | ![ENaturalLothic](ChromaticCircleModeENaturalLothic.svg) |
 | [561](https://ianring.com/musictheory/scales/561) | [Phratic](ModePhratic.md) | 3 | G | G, B, C, E, G | ![GNaturalPhratic](CircleOfFifthModeGNaturalPhratic.svg) | ![GNaturalPhratic](ChromaticCircleModeGNaturalPhratic.svg) |
 

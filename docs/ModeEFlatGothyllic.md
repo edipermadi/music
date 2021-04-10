@@ -73,7 +73,6 @@ i⁰b3, ii, III, IV, v⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeGothyllic.md) | -1 | D# | D#, E, F, G, A, B, C, D, D# | ![DSharpGothyllic](ModeDSharpGothyllic.png) |
-| [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeGothyllic.md) | -1 | Eb | Eb, E, F, G, A, B, C, D, Eb | ![EFlatGothyllic](ModeEFlatGothyllic.png) |
 | [3499](https://ianring.com/musictheory/scales/3499) | [Lythyllic](ModeLythyllic.md) | 3 | E | E, F, G, A, B, C, D, D#, E | ![ENaturalLythyllic](ModeENaturalLythyllic.png) |
 | [3797](https://ianring.com/musictheory/scales/3797) | [Rocryllic](ModeRocryllic.md) | 8 | F | F, G, A, B, C, D, D#, E, F | ![FNaturalRocryllic](ModeFNaturalRocryllic.png) |
 | [1973](https://ianring.com/musictheory/scales/1973) | [Zyryllic](ModeZyryllic.md) | 6 | G | G, A, B, C, D, D#, E, F, G | ![GNaturalZyryllic](ModeGNaturalZyryllic.png) |

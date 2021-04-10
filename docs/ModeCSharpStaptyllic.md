@@ -73,17 +73,12 @@ ii⁰, iii, iv, V, VIb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2743](https://ianring.com/musictheory/scales/2743) | [Staptyllic](ModeStaptyllic.md) | 7 | C# | C#, D, D#, F, F#, G#, A#, C, C# | ![CSharpStaptyllic](ModeCSharpStaptyllic.png) |
-| [2743](https://ianring.com/musictheory/scales/2743) | [Staptyllic](ModeStaptyllic.md) | 7 | Db | Db, D, Eb, F, Gb, Ab, Bb, C, Db | ![DFlatStaptyllic](ModeDFlatStaptyllic.png) |
 | [3419](https://ianring.com/musictheory/scales/3419) | [Danyllic](ModeDanyllic.md) | -1 | D | D, D#, F, F#, G#, A#, C, C#, D | ![DNaturalDanyllic](ModeDNaturalDanyllic.png) |
 | [3757](https://ianring.com/musictheory/scales/3757) | [Goptyllic](ModeGoptyllic.md) | 5 | D# | D#, F, F#, G#, A#, C, C#, D, D# | ![DSharpGoptyllic](ModeDSharpGoptyllic.png) |
-| [3757](https://ianring.com/musictheory/scales/3757) | [Goptyllic](ModeGoptyllic.md) | 5 | Eb | Eb, F, Gb, Ab, Bb, C, Db, D, Eb | ![EFlatGoptyllic](ModeEFlatGoptyllic.png) |
 | [1963](https://ianring.com/musictheory/scales/1963) | [Epocryllic](ModeEpocryllic.md) | 3 | F | F, F#, G#, A#, C, C#, D, D#, F | ![FNaturalEpocryllic](ModeFNaturalEpocryllic.png) |
 | [3029](https://ianring.com/musictheory/scales/3029) | [Ionocryllic](ModeIonocryllic.md) | 8 | F# | F#, G#, A#, C, C#, D, D#, F, F# | ![FSharpIonocryllic](ModeFSharpIonocryllic.png) |
-| [3029](https://ianring.com/musictheory/scales/3029) | [Ionocryllic](ModeIonocryllic.md) | 8 | Gb | Gb, Ab, Bb, C, Db, D, Eb, F, Gb | ![GFlatIonocryllic](ModeGFlatIonocryllic.png) |
 | [1781](https://ianring.com/musictheory/scales/1781) | [Gocryllic](ModeGocryllic.md) | 6 | G# | G#, A#, C, C#, D, D#, F, F#, G# | ![GSharpGocryllic](ModeGSharpGocryllic.png) |
-| [1781](https://ianring.com/musictheory/scales/1781) | [Gocryllic](ModeGocryllic.md) | 6 | Ab | Ab, Bb, C, Db, D, Eb, F, Gb, Ab | ![AFlatGocryllic](ModeAFlatGocryllic.png) |
 | [1469](https://ianring.com/musictheory/scales/1469) | [Epiryllic](ModeEpiryllic.md) | 4 | A# | A#, C, C#, D, D#, F, F#, G#, A# | ![ASharpEpiryllic](ModeASharpEpiryllic.png) |
-| [1469](https://ianring.com/musictheory/scales/1469) | [Epiryllic](ModeEpiryllic.md) | 4 | Bb | Bb, C, Db, D, Eb, F, Gb, Ab, Bb | ![BFlatEpiryllic](ModeBFlatEpiryllic.png) |
 | [1391](https://ianring.com/musictheory/scales/1391) | [Aeradyllic](ModeAeradyllic.md) | 2 | C | C, C#, D, D#, F, F#, G#, A#, C | ![CNaturalAeradyllic](ModeCNaturalAeradyllic.png) |
 ## Relative Brightness
 

@@ -73,15 +73,12 @@ i⁰b3, ii, III⁺, IV, Vb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3415](https://ianring.com/musictheory/scales/3415) | [Ionaptyllic](ModeIonaptyllic.md) | -1 | G# | G#, A, A#, C, D, E, F#, G, G# | ![GSharpIonaptyllic](ModeGSharpIonaptyllic.png) |
-| [3415](https://ianring.com/musictheory/scales/3415) | [Ionaptyllic](ModeIonaptyllic.md) | -1 | Ab | Ab, A, Bb, C, D, E, Gb, G, Ab | ![AFlatIonaptyllic](ModeAFlatIonaptyllic.png) |
 | [3755](https://ianring.com/musictheory/scales/3755) | [Phryryllic](ModePhryryllic.md) | 5 | A | A, A#, C, D, E, F#, G, G#, A | ![ANaturalPhryryllic](ModeANaturalPhryryllic.png) |
 | [3925](https://ianring.com/musictheory/scales/3925) | [Thyryllic](ModeThyryllic.md) | -1 | A# | A#, C, D, E, F#, G, G#, A, A# | ![ASharpThyryllic](ModeASharpThyryllic.png) |
-| [3925](https://ianring.com/musictheory/scales/3925) | [Thyryllic](ModeThyryllic.md) | -1 | Bb | Bb, C, D, E, Gb, G, Ab, A, Bb | ![BFlatThyryllic](ModeBFlatThyryllic.png) |
 | [2005](https://ianring.com/musictheory/scales/2005) | [Gygyllic](ModeGygyllic.md) | 8 | C | C, D, E, F#, G, G#, A, A#, C | ![CNaturalGygyllic](ModeCNaturalGygyllic.png) |
 | [1525](https://ianring.com/musictheory/scales/1525) | [Sodyllic](ModeSodyllic.md) | 6 | D | D, E, F#, G, G#, A, A#, C, D | ![DNaturalSodyllic](ModeDNaturalSodyllic.png) |
 | [1405](https://ianring.com/musictheory/scales/1405) | [Goryllic](ModeGoryllic.md) | 4 | E | E, F#, G, G#, A, A#, C, D, E | ![ENaturalGoryllic](ModeENaturalGoryllic.png) |
 | [1375](https://ianring.com/musictheory/scales/1375) | [Bothyllic](ModeBothyllic.md) | -1 | F# | F#, G, G#, A, A#, C, D, E, F# | ![FSharpBothyllic](ModeFSharpBothyllic.png) |
-| [1375](https://ianring.com/musictheory/scales/1375) | [Bothyllic](ModeBothyllic.md) | -1 | Gb | Gb, G, Ab, A, Bb, C, D, E, Gb | ![GFlatBothyllic](ModeGFlatBothyllic.png) |
 | [2735](https://ianring.com/musictheory/scales/2735) | [Gynyllic](ModeGynyllic.md) | 7 | G | G, G#, A, A#, C, D, E, F#, G | ![GNaturalGynyllic](ModeGNaturalGynyllic.png) |
 ## Relative Brightness
 

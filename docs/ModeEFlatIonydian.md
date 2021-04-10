@@ -21,7 +21,7 @@
 
 ## Luminosity
 
-6
+-1
 
 ## Tonic
 
@@ -72,15 +72,12 @@ VIIb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [575](https://ianring.com/musictheory/scales/575) | [Ionydian](ModeIonydian.md) | 6 | D# | D#, E, F, Gb, Abb, Bbbb, C, D# | ![DSharpIonydian](ModeDSharpIonydian.png) |
-| [575](https://ianring.com/musictheory/scales/575) | [Ionydian](ModeIonydian.md) | -1 | Eb | Eb, Fb, Gbb, Abbb, E###, F###, Dbb, Eb | ![EFlatIonydian](ModeEFlatIonydian.png) |
 | [2335](https://ianring.com/musictheory/scales/2335) | [Epydian](ModeEpydian.md) | -1 | E | E, F, Gb, Abb, Bbbb, C, D#, E | ![ENaturalEpydian](ModeENaturalEpydian.png) |
 | [3215](https://ianring.com/musictheory/scales/3215) | [Katydian](ModeKatydian.md) | 7 | F | F, Gb, Abb, Bbbb, C, D#, E, F | ![FNaturalKatydian](ModeFNaturalKatydian.png) |
 | [3655](https://ianring.com/musictheory/scales/3655) | [Mathian](ModeMathian.md) | -1 | F# | F#, G, Ab, B#, C###, D##, E#, F# | ![FSharpMathian](ModeFSharpMathian.png) |
-| [3655](https://ianring.com/musictheory/scales/3655) | [Mathian](ModeMathian.md) | -1 | Gb | Gb, Abb, Bbbb, C, D#, E, F, Gb | ![GFlatMathian](ModeGFlatMathian.png) |
 | [3875](https://ianring.com/musictheory/scales/3875) | [Aeryptian](ModeAeryptian.md) | -1 | G | G, Ab, B#, C###, D##, E#, F#, G | ![GNaturalAeryptian](ModeGNaturalAeryptian.png) |
-| [3985](https://ianring.com/musictheory/scales/3985) | [Thadian](ModeThadian.md) | 7 | G# | G#, A###, C###, D##, E#, F#, G, G# | ![GSharpThadian](ModeGSharpThadian.png) |
-| [3985](https://ianring.com/musictheory/scales/3985) | [Thadian](ModeThadian.md) | 7 | Ab | Ab, B#, C###, D##, E#, F#, G, Ab | ![AFlatThadian](ModeAFlatThadian.png) |
-| [505](https://ianring.com/musictheory/scales/505) | [Sanian](ModeSanian.md) | -1 | C | C, D#, E, F, Gb, Abb, Bbbb, C | ![CNaturalSanian](ModeCNaturalSanian.png) |
+| [3985](https://ianring.com/musictheory/scales/3985) | [Thadian](ModeThadian.md) | -1 | G# | G#, A###, C###, D##, E#, F#, G, G# | ![GSharpThadian](ModeGSharpThadian.png) |
+| [505](https://ianring.com/musictheory/scales/505) | [Sanian](ModeSanian.md) | 6 | C | C, D#, E, F, Gb, Abb, Bbbb, C | ![CNaturalSanian](ModeCNaturalSanian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
@@ -92,7 +89,7 @@ VIIb5
 | [3655](https://ianring.com/musictheory/scales/3655) | [Mathian](ModeMathian.md) | -1 | F# | F#, G, Ab, B#, C###, D##, E#, F# | ![FSharpMathian](CircleOfFifthModeFSharpMathian.svg) | ![FSharpMathian](ChromaticCircleModeFSharpMathian.svg) |
 | [3655](https://ianring.com/musictheory/scales/3655) | [Mathian](ModeMathian.md) | -1 | Gb | Gb, Abb, Bbbb, C, D#, E, F, Gb | ![GFlatMathian](CircleOfFifthModeGFlatMathian.svg) | ![GFlatMathian](ChromaticCircleModeGFlatMathian.svg) |
 | [3875](https://ianring.com/musictheory/scales/3875) | [Aeryptian](ModeAeryptian.md) | -1 | G | G, Ab, B#, C###, D##, E#, F#, G | ![GNaturalAeryptian](CircleOfFifthModeGNaturalAeryptian.svg) | ![GNaturalAeryptian](ChromaticCircleModeGNaturalAeryptian.svg) |
-| [3985](https://ianring.com/musictheory/scales/3985) | [Thadian](ModeThadian.md) | -1 | G# | G#, A###, C###, D##, E#, F#, G, G# | ![GSharpThadian](CircleOfFifthModeGSharpThadian.svg) | ![GSharpThadian](ChromaticCircleModeGSharpThadian.svg) |
+| [3985](https://ianring.com/musictheory/scales/3985) | [Thadian](ModeThadian.md) | 7 | G# | G#, A###, C###, D##, E#, F#, G, G# | ![GSharpThadian](CircleOfFifthModeGSharpThadian.svg) | ![GSharpThadian](ChromaticCircleModeGSharpThadian.svg) |
 | [3985](https://ianring.com/musictheory/scales/3985) | [Thadian](ModeThadian.md) | 7 | Ab | Ab, B#, C###, D##, E#, F#, G, Ab | ![AFlatThadian](CircleOfFifthModeAFlatThadian.svg) | ![AFlatThadian](ChromaticCircleModeAFlatThadian.svg) |
 | [505](https://ianring.com/musictheory/scales/505) | [Sanian](ModeSanian.md) | -1 | C | C, D#, E, F, Gb, Abb, Bbbb, C | ![CNaturalSanian](CircleOfFifthModeCNaturalSanian.svg) | ![CNaturalSanian](ChromaticCircleModeCNaturalSanian.svg) |
 

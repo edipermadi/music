@@ -80,7 +80,6 @@ i, II, III, iv⁰, viii⁰b3
 | [2749](https://ianring.com/musictheory/scales/2749) | [Katagyllic](ModeKatagyllic.md) | 7 | C | C, D, D#, E, F, G, A, B, C | ![CNaturalKatagyllic](ModeCNaturalKatagyllic.png) |
 | [1711](https://ianring.com/musictheory/scales/1711) | [Ragyllic](ModeRagyllic.md) | 5 | D | D, D#, E, F, G, A, B, C, D | ![DNaturalRagyllic](ModeDNaturalRagyllic.png) |
 | [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeGothyllic.md) | -1 | D# | D#, E, F, G, A, B, C, D, D# | ![DSharpGothyllic](ModeDSharpGothyllic.png) |
-| [2903](https://ianring.com/musictheory/scales/2903) | [Gothyllic](ModeGothyllic.md) | -1 | Eb | Eb, E, F, G, A, B, C, D, Eb | ![EFlatGothyllic](ModeEFlatGothyllic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

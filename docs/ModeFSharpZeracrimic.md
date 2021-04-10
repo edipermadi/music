@@ -71,15 +71,10 @@ iv, v
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | 6 | F# | F#, G#, A#, B##, C###, D##, F# | ![FSharpZeracrimic](ModeFSharpZeracrimic.png) |
-| [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | 6 | Gb | Gb, Ab, Bb, C#, D#, E, Gb | ![GFlatZeracrimic](ModeGFlatZeracrimic.png) |
 | [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | 4 | G# | G#, A#, B##, C###, D##, E##, G# | ![GSharpByptimic](ModeGSharpByptimic.png) |
-| [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | 4 | Ab | Ab, Bb, C#, D#, E, F#, Ab | ![AFlatByptimic](ModeAFlatByptimic.png) |
 | [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | 2 | A# | A#, B##, C###, D##, E##, F###, A# | ![ASharpPhracrimic](ModeASharpPhracrimic.png) |
-| [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | 2 | Bb | Bb, C#, D#, E, F#, G#, Bb | ![BFlatPhracrimic](ModeBFlatPhracrimic.png) |
 | [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeAerathimic.md) | 5 | C# | C#, D#, E, F#, G#, A#, C# | ![CSharpAerathimic](ModeCSharpAerathimic.png) |
-| [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeAerathimic.md) | 5 | Db | Db, Eb, Fb, Gb, Ab, Bb, Db | ![DFlatAerathimic](ModeDFlatAerathimic.png) |
 | [1195](https://ianring.com/musictheory/scales/1195) | [Sarimic](ModeSarimic.md) | 3 | D# | D#, E, F#, G#, A#, B##, D# | ![DSharpSarimic](ModeDSharpSarimic.png) |
-| [1195](https://ianring.com/musictheory/scales/1195) | [Sarimic](ModeSarimic.md) | 3 | Eb | Eb, Fb, Gb, Ab, Bb, C#, Eb | ![EFlatSarimic](ModeEFlatSarimic.png) |
 | [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | -1 | E | E, F#, G#, A#, B##, C###, E | ![ENaturalZoptimic](ModeENaturalZoptimic.png) |
 ## Relative Brightness
 

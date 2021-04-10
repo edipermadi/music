@@ -78,7 +78,6 @@ i, III⁺, Vb5, vii⁰b3
 | [1401](https://ianring.com/musictheory/scales/1401) | [Pagian](ModePagian.md) | 3 | B | B, C##, D#, E, F, G, A, B | ![BNaturalPagian](ModeBNaturalPagian.png) |
 | [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeAeolythian.md) | 6 | D | D, Eb, Fb, Gbb, Abb, Bbb, Cb, D | ![DNaturalAeolythian](ModeDNaturalAeolythian.png) |
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | -1 | D# | D#, E, F, G, A, B, C##, D# | ![DSharpMolian](ModeDSharpMolian.png) |
-| [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | -1 | Eb | Eb, Fb, Gbb, Abb, Bbb, Cb, D, Eb | ![EFlatMolian](ModeEFlatMolian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

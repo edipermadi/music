@@ -69,12 +69,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | 4 | G# | G#, C, D#, F#, G# | ![GSharpDaric](ModeGSharpDaric.png) |
-| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | 4 | Ab | Ab, C, Eb, Gb, Ab | ![AFlatDaric](ModeAFlatDaric.png) |
 | [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | -1 | C | C, D#, F#, G#, C | ![CNaturalLonic](ModeCNaturalLonic.png) |
 | [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | 3 | D# | D#, F#, G#, C, D# | ![DSharpPhradic](ModeDSharpPhradic.png) |
-| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | 3 | Eb | Eb, Gb, Ab, C, Eb | ![EFlatPhradic](ModeEFlatPhradic.png) |
 | [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | -1 | F# | F#, G#, C, D#, F# | ![FSharpBolic](ModeFSharpBolic.png) |
-| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | -1 | Gb | Gb, Ab, C, Eb, Gb | ![GFlatBolic](ModeGFlatBolic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

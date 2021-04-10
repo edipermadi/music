@@ -73,7 +73,6 @@ i⁰, ii⁰, iii, iv, V⁺, VI, VII
 |--------|------|------------|-------|-------|--------------|
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | B | B, C#, D, E, F, G, A, B | ![BNaturalLorian](ModeBNaturalLorian.png) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | C# | C#, D, E, F, G, A, B, C# | ![CSharpIonadian](ModeCSharpIonadian.png) |
-| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | Db | Db, Ebb, Fb, Gbb, Abb, Bbb, Cb, Db | ![DFlatIonadian](ModeDFlatIonadian.png) |
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | 6 | D | D, E, F, G, A, B, C#, D | ![DNaturalBocrian](ModeDNaturalBocrian.png) |
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | 4 | E | E, F, G, A, B, C#, D, E | ![ENaturalMixolythian](ModeENaturalMixolythian.png) |
 | [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | -1 | F | F, G, A, B, C#, D, E, F | ![FNaturalLarian](ModeFNaturalLarian.png) |

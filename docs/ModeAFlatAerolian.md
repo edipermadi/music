@@ -21,7 +21,7 @@
 
 ## Luminosity
 
--1
+6
 
 ## Tonic
 
@@ -72,13 +72,10 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2607](https://ianring.com/musictheory/scales/2607) | [Aerolian](ModeAerolian.md) | 6 | G# | G#, A, Bb, Cb, Db, E#, F##, G# | ![GSharpAerolian](ModeGSharpAerolian.png) |
-| [2607](https://ianring.com/musictheory/scales/2607) | [Aerolian](ModeAerolian.md) | 6 | Ab | Ab, Bbb, Cbb, Dbbb, Ebbb, F, G, Ab | ![AFlatAerolian](ModeAFlatAerolian.png) |
 | [3351](https://ianring.com/musictheory/scales/3351) | [Karian](ModeKarian.md) | -1 | A | A, Bb, Cb, Db, E#, F##, G#, A | ![ANaturalKarian](ModeANaturalKarian.png) |
-| [3723](https://ianring.com/musictheory/scales/3723) | [Myptian](ModeMyptian.md) | -1 | A# | A#, B, C#, D###, E###, F###, G##, A# | ![ASharpMyptian](ModeASharpMyptian.png) |
-| [3723](https://ianring.com/musictheory/scales/3723) | [Myptian](ModeMyptian.md) | 7 | Bb | Bb, Cb, Db, E#, F##, G#, A, Bb | ![BFlatMyptian](ModeBFlatMyptian.png) |
+| [3723](https://ianring.com/musictheory/scales/3723) | [Myptian](ModeMyptian.md) | 7 | A# | A#, B, C#, D###, E###, F###, G##, A# | ![ASharpMyptian](ModeASharpMyptian.png) |
 | [3909](https://ianring.com/musictheory/scales/3909) | [Rydian](ModeRydian.md) | -1 | B | B, C#, D###, E###, F###, G##, A#, B | ![BNaturalRydian](ModeBNaturalRydian.png) |
-| [2001](https://ianring.com/musictheory/scales/2001) | [Gydian](ModeGydian.md) | -1 | C# | C#, D###, E###, F###, G##, A#, B, C# | ![CSharpGydian](ModeCSharpGydian.png) |
-| [2001](https://ianring.com/musictheory/scales/2001) | [Gydian](ModeGydian.md) | 7 | Db | Db, E#, F##, G#, A, Bb, Cb, Db | ![DFlatGydian](ModeDFlatGydian.png) |
+| [2001](https://ianring.com/musictheory/scales/2001) | [Gydian](ModeGydian.md) | 7 | C# | C#, D###, E###, F###, G##, A#, B, C# | ![CSharpGydian](ModeCSharpGydian.png) |
 | [381](https://ianring.com/musictheory/scales/381) | [Kogian](ModeKogian.md) | -1 | F | F, G, Ab, Bbb, Cbb, Dbbb, Ebbb, F | ![FNaturalKogian](ModeFNaturalKogian.png) |
 | [1119](https://ianring.com/musictheory/scales/1119) | [Rarian](ModeRarian.md) | -1 | G | G, Ab, Bbb, Cbb, Dbbb, Ebbb, F, G | ![GNaturalRarian](ModeGNaturalRarian.png) |
 ## Relative Brightness

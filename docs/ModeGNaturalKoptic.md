@@ -71,9 +71,7 @@ C
 | [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | -1 | G | G, B, C#, D#, G | ![GNaturalKoptic](ModeGNaturalKoptic.png) |
 | [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | -1 | B | B, C#, D#, G, B | ![BNaturalMixolyric](ModeBNaturalMixolyric.png) |
 | [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | -1 | C# | C#, D#, G, B, C# | ![CSharpLydic](ModeCSharpLydic.png) |
-| [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | -1 | Db | Db, Eb, G, B, Db | ![DFlatLydic](ModeDFlatLydic.png) |
 | [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | -1 | D# | D#, G, B, C#, D# | ![DSharpAeolic](ModeDSharpAeolic.png) |
-| [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | -1 | Eb | Eb, G, B, Db, Eb | ![EFlatAeolic](ModeEFlatAeolic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

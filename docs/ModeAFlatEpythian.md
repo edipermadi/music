@@ -72,16 +72,11 @@ Vb5, vii⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3239](https://ianring.com/musictheory/scales/3239) | [Epythian](ModeEpythian.md) | 5 | G# | G#, A, Bb, C#, D#, E##, F##, G# | ![GSharpEpythian](ModeGSharpEpythian.png) |
-| [3239](https://ianring.com/musictheory/scales/3239) | [Epythian](ModeEpythian.md) | 5 | Ab | Ab, Bbb, Cbb, Db, Eb, F#, G, Ab | ![AFlatEpythian](ModeAFlatEpythian.png) |
 | [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeKaptian.md) | -1 | A | A, Bb, C#, D#, E##, F##, G#, A | ![ANaturalKaptian](ModeANaturalKaptian.png) |
 | [3881](https://ianring.com/musictheory/scales/3881) | [Morian](ModeMorian.md) | 3 | A# | A#, B##, C###, E##, F##, G#, A, A# | ![ASharpMorian](ModeASharpMorian.png) |
-| [3881](https://ianring.com/musictheory/scales/3881) | [Morian](ModeMorian.md) | 3 | Bb | Bb, C#, D#, E##, F##, G#, A, Bb | ![BFlatMorian](ModeBFlatMorian.png) |
 | [997](https://ianring.com/musictheory/scales/997) | [Rycrian](ModeRycrian.md) | 6 | C# | C#, D#, E##, F##, G#, A, Bb, C# | ![CSharpRycrian](ModeCSharpRycrian.png) |
-| [997](https://ianring.com/musictheory/scales/997) | [Rycrian](ModeRycrian.md) | 6 | Db | Db, Eb, F#, G, Ab, Bbb, Cbb, Db | ![DFlatRycrian](ModeDFlatRycrian.png) |
 | [1273](https://ianring.com/musictheory/scales/1273) | [Ronian](ModeRonian.md) | 4 | D# | D#, E##, F##, G#, A, Bb, C#, D# | ![DSharpRonian](ModeDSharpRonian.png) |
-| [1273](https://ianring.com/musictheory/scales/1273) | [Ronian](ModeRonian.md) | 4 | Eb | Eb, F#, G, Ab, Bbb, Cbb, Db, Eb | ![EFlatRonian](ModeEFlatRonian.png) |
 | [671](https://ianring.com/musictheory/scales/671) | [Stycrian](ModeStycrian.md) | 7 | F# | F#, G, Ab, Bbb, Cbb, Db, Eb, F# | ![FSharpStycrian](ModeFSharpStycrian.png) |
-| [671](https://ianring.com/musictheory/scales/671) | [Stycrian](ModeStycrian.md) | 7 | Gb | Gb, Abb, Bbbb, Cbbb, Cbb, Db, Eb, Gb | ![GFlatStycrian](ModeGFlatStycrian.png) |
 | [2383](https://ianring.com/musictheory/scales/2383) | [Katorian](ModeKatorian.md) | -1 | G | G, Ab, Bbb, Cbb, Db, Eb, F#, G | ![GNaturalKatorian](ModeGNaturalKatorian.png) |
 ## Relative Brightness
 

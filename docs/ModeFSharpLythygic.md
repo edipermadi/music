@@ -74,10 +74,8 @@ iii⁰, iv, v⁰, VIb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3439](https://ianring.com/musictheory/scales/3439) | [Lythygic](ModeLythygic.md) | 2 | F# | F#, G, G#, A, B, C, D, E, F, F# | ![FSharpLythygic](ModeFSharpLythygic.png) |
-| [3439](https://ianring.com/musictheory/scales/3439) | [Lythygic](ModeLythygic.md) | 2 | Gb | Gb, G, Ab, A, B, C, D, E, F, Gb | ![GFlatLythygic](ModeGFlatLythygic.png) |
 | [3767](https://ianring.com/musictheory/scales/3767) | [Bacrygic](ModeBacrygic.md) | 7 | G | G, G#, A, B, C, D, E, F, F#, G | ![GNaturalBacrygic](ModeGNaturalBacrygic.png) |
 | [3931](https://ianring.com/musictheory/scales/3931) | [Aerygic](ModeAerygic.md) | -1 | G# | G#, A, B, C, D, E, F, F#, G, G# | ![GSharpAerygic](ModeGSharpAerygic.png) |
-| [3931](https://ianring.com/musictheory/scales/3931) | [Aerygic](ModeAerygic.md) | -1 | Ab | Ab, A, B, C, D, E, F, Gb, G, Ab | ![AFlatAerygic](ModeAFlatAerygic.png) |
 | [4013](https://ianring.com/musictheory/scales/4013) | [Dathygic](ModeDathygic.md) | 5 | A | A, B, C, D, E, F, F#, G, G#, A | ![ANaturalDathygic](ModeANaturalDathygic.png) |
 | [2027](https://ianring.com/musictheory/scales/2027) | [Boptygic](ModeBoptygic.md) | 3 | B | B, C, D, E, F, F#, G, G#, A, B | ![BNaturalBoptygic](ModeBNaturalBoptygic.png) |
 | [3061](https://ianring.com/musictheory/scales/3061) | [Apinygic](ModeApinygic.md) | 8 | C | C, D, E, F, F#, G, G#, A, B, C | ![CNaturalApinygic](ModeCNaturalApinygic.png) |

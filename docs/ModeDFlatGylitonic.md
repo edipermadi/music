@@ -70,7 +70,6 @@ I⁺
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [345](https://ianring.com/musictheory/scales/345) | [Gylitonic](ModeGylitonic.md) | -1 | C# | C#, E, F, G, A, C# | ![CSharpGylitonic](ModeCSharpGylitonic.png) |
-| [345](https://ianring.com/musictheory/scales/345) | [Gylitonic](ModeGylitonic.md) | -1 | Db | Db, E, F, G, A, Db | ![DFlatGylitonic](ModeDFlatGylitonic.png) |
 | [555](https://ianring.com/musictheory/scales/555) | [Aeolycritonic](ModeAeolycritonic.md) | 4 | E | E, F, G, A, C#, E | ![ENaturalAeolycritonic](ModeENaturalAeolycritonic.png) |
 | [2325](https://ianring.com/musictheory/scales/2325) | [Pynitonic](ModePynitonic.md) | -1 | F | F, G, A, C#, E, F | ![FNaturalPynitonic](ModeFNaturalPynitonic.png) |
 | [1605](https://ianring.com/musictheory/scales/1605) | [Zanitonic](ModeZanitonic.md) | -1 | G | G, A, C#, E, F, G | ![GNaturalZanitonic](ModeGNaturalZanitonic.png) |

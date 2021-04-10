@@ -77,7 +77,6 @@ IIIb5
 | [1213](https://ianring.com/musictheory/scales/1213) | [Gyrian](ModeGyrian.md) | 4 | G | G, A, Bb, Cb, Dbb, Ebb, F, G | ![GNaturalGyrian](ModeGNaturalGyrian.png) |
 | [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | 2 | A | A, Bb, Cb, Dbb, Ebb, F, G, A | ![ANaturalZalian](ModeANaturalZalian.png) |
 | [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | 7 | A# | A#, B, C, D, E#, F##, G##, A# | ![ASharpStolian](ModeASharpStolian.png) |
-| [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | 7 | Bb | Bb, Cb, Dbb, Ebb, F, G, A, Bb | ![BFlatStolian](ModeBFlatStolian.png) |
 | [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | -1 | B | B, C, D, E#, F##, G##, A#, B | ![BNaturalBylian](ModeBNaturalBylian.png) |
 ## Relative Brightness
 

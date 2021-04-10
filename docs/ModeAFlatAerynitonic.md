@@ -70,7 +70,6 @@ II⁺
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [849](https://ianring.com/musictheory/scales/849) | [Aerynitonic](ModeAerynitonic.md) | -1 | G# | G#, C, D, E, F, G# | ![GSharpAerynitonic](ModeGSharpAerynitonic.png) |
-| [849](https://ianring.com/musictheory/scales/849) | [Aerynitonic](ModeAerynitonic.md) | -1 | Ab | Ab, C, D, E, F, Ab | ![AFlatAerynitonic](ModeAFlatAerynitonic.png) |
 | [309](https://ianring.com/musictheory/scales/309) | [Palitonic](ModePalitonic.md) | 4 | C | C, D, E, F, G#, C | ![CNaturalPalitonic](ModeCNaturalPalitonic.png) |
 | [1101](https://ianring.com/musictheory/scales/1101) | [Stothitonic](ModeStothitonic.md) | -1 | D | D, E, F, G#, C, D | ![DNaturalStothitonic](ModeDNaturalStothitonic.png) |
 | [1299](https://ianring.com/musictheory/scales/1299) | [Aerophitonic](ModeAerophitonic.md) | -1 | E | E, F, G#, C, D, E | ![ENaturalAerophitonic](ModeENaturalAerophitonic.png) |

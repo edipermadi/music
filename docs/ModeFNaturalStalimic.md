@@ -75,7 +75,6 @@ IIIb5
 | [1145](https://ianring.com/musictheory/scales/1145) | [Zygimic](ModeZygimic.md) | 3 | B | B, C##, D#, E, F, G##, B | ![BNaturalZygimic](ModeBNaturalZygimic.png) |
 | [655](https://ianring.com/musictheory/scales/655) | [Kataptimic](ModeKataptimic.md) | 6 | D | D, Eb, Fb, Gbb, A, B, D | ![DNaturalKataptimic](ModeDNaturalKataptimic.png) |
 | [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | -1 | D# | D#, E, F, G##, A##, B###, D# | ![DSharpAeolaptimic](ModeDSharpAeolaptimic.png) |
-| [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | -1 | Eb | Eb, Fb, Gbb, A, B, C##, Eb | ![EFlatAeolaptimic](ModeEFlatAeolaptimic.png) |
 | [3235](https://ianring.com/musictheory/scales/3235) | [Pothimic](ModePothimic.md) | 4 | E | E, F, G##, A##, B###, C###, E | ![ENaturalPothimic](ModeENaturalPothimic.png) |
 ## Relative Brightness
 

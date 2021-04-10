@@ -69,23 +69,19 @@ C
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [1165](https://ianring.com/musictheory/scales/1165) | [Gycritonic](ModeGycritonic.md) | -1 | G# | G#, A#, B, D#, F#, G# | ![GSharpGycritonic](ModeGSharpGycritonic.png) |
-| [1165](https://ianring.com/musictheory/scales/1165) | [Gycritonic](ModeGycritonic.md) | -1 | Ab | Ab, Bb, B, Eb, Gb, Ab | ![AFlatGycritonic](ModeAFlatGycritonic.png) |
-| [1315](https://ianring.com/musictheory/scales/1315) | [Pyritonic](ModePyritonic.md) | -1 | A# | A#, B, D#, F#, G#, A# | ![ASharpPyritonic](ModeASharpPyritonic.png) |
-| [1315](https://ianring.com/musictheory/scales/1315) | [Pyritonic](ModePyritonic.md) | -1 | Bb | Bb, B, Eb, Gb, Ab, Bb | ![BFlatPyritonic](ModeBFlatPyritonic.png) |
+| [1165](https://ianring.com/musictheory/scales/1165) | [Gycritonic](ModeGycritonic.md) | 5 | G# | G#, A#, B, D#, F#, G# | ![GSharpGycritonic](ModeGSharpGycritonic.png) |
+| [1315](https://ianring.com/musictheory/scales/1315) | [Pyritonic](ModePyritonic.md) | 3 | A# | A#, B, D#, F#, G#, A# | ![ASharpPyritonic](ModeASharpPyritonic.png) |
 | [2705](https://ianring.com/musictheory/scales/2705) | [Magitonic](ModeMagitonic.md) | 5 | B | B, D#, F#, G#, A#, B | ![BNaturalMagitonic](ModeBNaturalMagitonic.png) |
 | [425](https://ianring.com/musictheory/scales/425) | [Daditonic](ModeDaditonic.md) | -1 | D# | D#, F#, G#, A#, B, D# | ![DSharpDaditonic](ModeDSharpDaditonic.png) |
-| [425](https://ianring.com/musictheory/scales/425) | [Daditonic](ModeDaditonic.md) | 4 | Eb | Eb, Gb, Ab, Bb, B, Eb | ![EFlatDaditonic](ModeEFlatDaditonic.png) |
 | [565](https://ianring.com/musictheory/scales/565) | [Aeolyphritonic](ModeAeolyphritonic.md) | 4 | F# | F#, G#, A#, B, D#, F# | ![FSharpAeolyphritonic](ModeFSharpAeolyphritonic.png) |
-| [565](https://ianring.com/musictheory/scales/565) | [Aeolyphritonic](ModeAeolyphritonic.md) | 4 | Gb | Gb, Ab, Bb, B, Eb, Gb | ![GFlatAeolyphritonic](ModeGFlatAeolyphritonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1165](https://ianring.com/musictheory/scales/1165) | [Gycritonic](ModeGycritonic.md) | 5 | G# | G#, A#, B, D#, F#, G# | ![GSharpGycritonic](CircleOfFifthModeGSharpGycritonic.svg) | ![GSharpGycritonic](ChromaticCircleModeGSharpGycritonic.svg) |
 | [1165](https://ianring.com/musictheory/scales/1165) | [Gycritonic](ModeGycritonic.md) | -1 | Ab | Ab, Bb, B, Eb, Gb, Ab | ![AFlatGycritonic](CircleOfFifthModeAFlatGycritonic.svg) | ![AFlatGycritonic](ChromaticCircleModeAFlatGycritonic.svg) |
-| [1315](https://ianring.com/musictheory/scales/1315) | [Pyritonic](ModePyritonic.md) | 3 | A# | A#, B, D#, F#, G#, A# | ![ASharpPyritonic](CircleOfFifthModeASharpPyritonic.svg) | ![ASharpPyritonic](ChromaticCircleModeASharpPyritonic.svg) |
-| [1315](https://ianring.com/musictheory/scales/1315) | [Pyritonic](ModePyritonic.md) | -1 | Bb | Bb, B, Eb, Gb, Ab, Bb | ![BFlatPyritonic](CircleOfFifthModeBFlatPyritonic.svg) | ![BFlatPyritonic](ChromaticCircleModeBFlatPyritonic.svg) |
+| [1315](https://ianring.com/musictheory/scales/1315) | [Pyritonic](ModePyritonic.md) | -1 | A# | A#, B, D#, F#, G#, A# | ![ASharpPyritonic](CircleOfFifthModeASharpPyritonic.svg) | ![ASharpPyritonic](ChromaticCircleModeASharpPyritonic.svg) |
+| [1315](https://ianring.com/musictheory/scales/1315) | [Pyritonic](ModePyritonic.md) | 3 | Bb | Bb, B, Eb, Gb, Ab, Bb | ![BFlatPyritonic](CircleOfFifthModeBFlatPyritonic.svg) | ![BFlatPyritonic](ChromaticCircleModeBFlatPyritonic.svg) |
 | [2705](https://ianring.com/musictheory/scales/2705) | [Magitonic](ModeMagitonic.md) | 5 | B | B, D#, F#, G#, A#, B | ![BNaturalMagitonic](CircleOfFifthModeBNaturalMagitonic.svg) | ![BNaturalMagitonic](ChromaticCircleModeBNaturalMagitonic.svg) |
 | [425](https://ianring.com/musictheory/scales/425) | [Daditonic](ModeDaditonic.md) | -1 | D# | D#, F#, G#, A#, B, D# | ![DSharpDaditonic](CircleOfFifthModeDSharpDaditonic.svg) | ![DSharpDaditonic](ChromaticCircleModeDSharpDaditonic.svg) |
 | [425](https://ianring.com/musictheory/scales/425) | [Daditonic](ModeDaditonic.md) | -1 | Eb | Eb, Gb, Ab, Bb, B, Eb | ![EFlatDaditonic](CircleOfFifthModeEFlatDaditonic.svg) | ![EFlatDaditonic](ChromaticCircleModeEFlatDaditonic.svg) |

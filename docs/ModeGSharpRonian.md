@@ -72,16 +72,12 @@ Ib5, iii⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1273](https://ianring.com/musictheory/scales/1273) | [Ronian](ModeRonian.md) | 4 | G# | G#, A##, B#, C#, D, Eb, F#, G# | ![GSharpRonian](ModeGSharpRonian.png) |
-| [1273](https://ianring.com/musictheory/scales/1273) | [Ronian](ModeRonian.md) | 4 | Ab | Ab, B, C, Db, Ebb, Fbb, Gb, Ab | ![AFlatRonian](ModeAFlatRonian.png) |
 | [671](https://ianring.com/musictheory/scales/671) | [Stycrian](ModeStycrian.md) | 7 | B | B, C, Db, Ebb, Fbb, Gb, Ab, B | ![BNaturalStycrian](ModeBNaturalStycrian.png) |
 | [2383](https://ianring.com/musictheory/scales/2383) | [Katorian](ModeKatorian.md) | -1 | C | C, Db, Ebb, Fbb, Gb, Ab, B, C | ![CNaturalKatorian](ModeCNaturalKatorian.png) |
 | [3239](https://ianring.com/musictheory/scales/3239) | [Epythian](ModeEpythian.md) | 5 | C# | C#, D, Eb, F#, G#, A##, B#, C# | ![CSharpEpythian](ModeCSharpEpythian.png) |
-| [3239](https://ianring.com/musictheory/scales/3239) | [Epythian](ModeEpythian.md) | 5 | Db | Db, Ebb, Fbb, Gb, Ab, B, C, Db | ![DFlatEpythian](ModeDFlatEpythian.png) |
 | [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeKaptian.md) | -1 | D | D, Eb, F#, G#, A##, B#, C#, D | ![DNaturalKaptian](ModeDNaturalKaptian.png) |
 | [3881](https://ianring.com/musictheory/scales/3881) | [Morian](ModeMorian.md) | 3 | D# | D#, E##, F###, Cb, Dbb, Ebbb, Fbbb, D# | ![DSharpMorian](ModeDSharpMorian.png) |
-| [3881](https://ianring.com/musictheory/scales/3881) | [Morian](ModeMorian.md) | 3 | Eb | Eb, F#, G#, A##, B#, C#, D, Eb | ![EFlatMorian](ModeEFlatMorian.png) |
 | [997](https://ianring.com/musictheory/scales/997) | [Rycrian](ModeRycrian.md) | 6 | F# | F#, G#, A##, B#, C#, D, Eb, F# | ![FSharpRycrian](ModeFSharpRycrian.png) |
-| [997](https://ianring.com/musictheory/scales/997) | [Rycrian](ModeRycrian.md) | 6 | Gb | Gb, Ab, B, C, Db, Ebb, Fbb, Gb | ![GFlatRycrian](ModeGFlatRycrian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

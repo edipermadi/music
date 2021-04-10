@@ -21,7 +21,7 @@
 
 ## Luminosity
 
--1
+5
 
 ## Tonic
 
@@ -70,14 +70,12 @@ II⁺, IV⁺, V, VI⁺
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [811](https://ianring.com/musictheory/scales/811) | [Radimic](ModeRadimic.md) | 5 | F# | F#, G, A, B, C##, D#, F# | ![FSharpRadimic](ModeFSharpRadimic.png) |
-| [811](https://ianring.com/musictheory/scales/811) | [Radimic](ModeRadimic.md) | 5 | Gb | Gb, Abb, Bbb, Cb, D, Eb, Gb | ![GFlatRadimic](ModeGFlatRadimic.png) |
-| [2453](https://ianring.com/musictheory/scales/2453) | [Stonimic](ModeStonimic.md) | 6 | G | G, A, B, C##, D#, E##, G | ![GNaturalStonimic](ModeGNaturalStonimic.png) |
+| [811](https://ianring.com/musictheory/scales/811) | [Radimic](ModeRadimic.md) | -1 | F# | F#, G, A, B, C##, D#, F# | ![FSharpRadimic](ModeFSharpRadimic.png) |
+| [2453](https://ianring.com/musictheory/scales/2453) | [Stonimic](ModeStonimic.md) | -1 | G | G, A, B, C##, D#, E##, G | ![GNaturalStonimic](ModeGNaturalStonimic.png) |
 | [1637](https://ianring.com/musictheory/scales/1637) | [Syptimic](ModeSyptimic.md) | -1 | A | A, B, C##, D#, E##, F##, A | ![ANaturalSyptimic](ModeANaturalSyptimic.png) |
 | [1433](https://ianring.com/musictheory/scales/1433) | [Dynimic](ModeDynimic.md) | -1 | B | B, C##, D#, E##, F##, G##, B | ![BNaturalDynimic](ModeBNaturalDynimic.png) |
-| [691](https://ianring.com/musictheory/scales/691) | [Zydimic](ModeZydimic.md) | 5 | D | D, Eb, F#, G, A, B, D | ![DNaturalZydimic](ModeDNaturalZydimic.png) |
+| [691](https://ianring.com/musictheory/scales/691) | [Zydimic](ModeZydimic.md) | -1 | D | D, Eb, F#, G, A, B, D | ![DNaturalZydimic](ModeDNaturalZydimic.png) |
 | [2393](https://ianring.com/musictheory/scales/2393) | [Zathimic](ModeZathimic.md) | -1 | D# | D#, E##, F##, G##, A##, B###, D# | ![DSharpZathimic](ModeDSharpZathimic.png) |
-| [2393](https://ianring.com/musictheory/scales/2393) | [Zathimic](ModeZathimic.md) | -1 | Eb | Eb, F#, G, A, B, C##, Eb | ![EFlatZathimic](ModeEFlatZathimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

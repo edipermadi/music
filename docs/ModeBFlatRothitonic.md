@@ -21,7 +21,7 @@
 
 ## Luminosity
 
--1
+4
 
 ## Tonic
 
@@ -70,13 +70,10 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [805](https://ianring.com/musictheory/scales/805) | [Rothitonic](ModeRothitonic.md) | 4 | A# | A#, C, D#, F#, G, A# | ![ASharpRothitonic](ModeASharpRothitonic.png) |
-| [805](https://ianring.com/musictheory/scales/805) | [Rothitonic](ModeRothitonic.md) | 4 | Bb | Bb, C, Eb, Gb, G, Bb | ![BFlatRothitonic](ModeBFlatRothitonic.png) |
-| [1225](https://ianring.com/musictheory/scales/1225) | [Lyditonic](ModeLyditonic.md) | -1 | C | C, D#, F#, G, A#, C | ![CNaturalLyditonic](ModeCNaturalLyditonic.png) |
-| [665](https://ianring.com/musictheory/scales/665) | [Mythitonic](ModeMythitonic.md) | 5 | D# | D#, F#, G, A#, C, D# | ![DSharpMythitonic](ModeDSharpMythitonic.png) |
-| [665](https://ianring.com/musictheory/scales/665) | [Mythitonic](ModeMythitonic.md) | 5 | Eb | Eb, Gb, G, Bb, C, Eb | ![EFlatMythitonic](ModeEFlatMythitonic.png) |
+| [1225](https://ianring.com/musictheory/scales/1225) | [Lyditonic](ModeLyditonic.md) | 5 | C | C, D#, F#, G, A#, C | ![CNaturalLyditonic](ModeCNaturalLyditonic.png) |
+| [665](https://ianring.com/musictheory/scales/665) | [Mythitonic](ModeMythitonic.md) | -1 | D# | D#, F#, G, A#, C, D# | ![DSharpMythitonic](ModeDSharpMythitonic.png) |
 | [595](https://ianring.com/musictheory/scales/595) | [Sogitonic](ModeSogitonic.md) | -1 | F# | F#, G, A#, C, D#, F# | ![FSharpSogitonic](ModeFSharpSogitonic.png) |
-| [595](https://ianring.com/musictheory/scales/595) | [Sogitonic](ModeSogitonic.md) | -1 | Gb | Gb, G, Bb, C, Eb, Gb | ![GFlatSogitonic](ModeGFlatSogitonic.png) |
-| [2345](https://ianring.com/musictheory/scales/2345) | [Gothitonic](ModeGothitonic.md) | -1 | G | G, A#, C, D#, F#, G | ![GNaturalGothitonic](ModeGNaturalGothitonic.png) |
+| [2345](https://ianring.com/musictheory/scales/2345) | [Gothitonic](ModeGothitonic.md) | 4 | G | G, A#, C, D#, F#, G | ![GNaturalGothitonic](ModeGNaturalGothitonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
@@ -84,7 +81,7 @@ C
 | [805](https://ianring.com/musictheory/scales/805) | [Rothitonic](ModeRothitonic.md) | -1 | A# | A#, C, D#, F#, G, A# | ![ASharpRothitonic](CircleOfFifthModeASharpRothitonic.svg) | ![ASharpRothitonic](ChromaticCircleModeASharpRothitonic.svg) |
 | [805](https://ianring.com/musictheory/scales/805) | [Rothitonic](ModeRothitonic.md) | -1 | Bb | Bb, C, Eb, Gb, G, Bb | ![BFlatRothitonic](CircleOfFifthModeBFlatRothitonic.svg) | ![BFlatRothitonic](ChromaticCircleModeBFlatRothitonic.svg) |
 | [1225](https://ianring.com/musictheory/scales/1225) | [Lyditonic](ModeLyditonic.md) | -1 | C | C, D#, F#, G, A#, C | ![CNaturalLyditonic](CircleOfFifthModeCNaturalLyditonic.svg) | ![CNaturalLyditonic](ChromaticCircleModeCNaturalLyditonic.svg) |
-| [665](https://ianring.com/musictheory/scales/665) | [Mythitonic](ModeMythitonic.md) | 5 | D# | D#, F#, G, A#, C, D# | ![DSharpMythitonic](CircleOfFifthModeDSharpMythitonic.svg) | ![DSharpMythitonic](ChromaticCircleModeDSharpMythitonic.svg) |
+| [665](https://ianring.com/musictheory/scales/665) | [Mythitonic](ModeMythitonic.md) | -1 | D# | D#, F#, G, A#, C, D# | ![DSharpMythitonic](CircleOfFifthModeDSharpMythitonic.svg) | ![DSharpMythitonic](ChromaticCircleModeDSharpMythitonic.svg) |
 | [665](https://ianring.com/musictheory/scales/665) | [Mythitonic](ModeMythitonic.md) | 5 | Eb | Eb, Gb, G, Bb, C, Eb | ![EFlatMythitonic](CircleOfFifthModeEFlatMythitonic.svg) | ![EFlatMythitonic](ChromaticCircleModeEFlatMythitonic.svg) |
 | [595](https://ianring.com/musictheory/scales/595) | [Sogitonic](ModeSogitonic.md) | -1 | F# | F#, G, A#, C, D#, F# | ![FSharpSogitonic](CircleOfFifthModeFSharpSogitonic.svg) | ![FSharpSogitonic](ChromaticCircleModeFSharpSogitonic.svg) |
 | [595](https://ianring.com/musictheory/scales/595) | [Sogitonic](ModeSogitonic.md) | -1 | Gb | Gb, G, Bb, C, Eb, Gb | ![GFlatSogitonic](CircleOfFifthModeGFlatSogitonic.svg) | ![GFlatSogitonic](ChromaticCircleModeGFlatSogitonic.svg) |

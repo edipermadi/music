@@ -72,17 +72,12 @@ ii⁰, vii⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1207](https://ianring.com/musictheory/scales/1207) | [Aeoloptian](ModeAeoloptian.md) | 5 | G# | G#, A, Bb, C, Db, Eb, F#, G# | ![GSharpAeoloptian](ModeGSharpAeoloptian.png) |
-| [1207](https://ianring.com/musictheory/scales/1207) | [Aeoloptian](ModeAeoloptian.md) | 5 | Ab | Ab, Bbb, Cbb, Dbb, Ebbb, Fbb, Gb, Ab | ![AFlatAeoloptian](ModeAFlatAeoloptian.png) |
 | [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | -1 | A | A, Bb, C, Db, Eb, F#, G#, A | ![ANaturalPanian](ModeANaturalPanian.png) |
 | [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | 3 | A# | A#, B#, C#, D#, E##, F###, G##, A# | ![ASharpLodian](ModeASharpLodian.png) |
-| [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | 3 | Bb | Bb, C, Db, Eb, F#, G#, A, Bb | ![BFlatLodian](ModeBFlatLodian.png) |
 | [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | -1 | C | C, Db, Eb, F#, G#, A, Bb, C | ![CNaturalSolian](ModeCNaturalSolian.png) |
 | [2981](https://ianring.com/musictheory/scales/2981) | [Ionolian](ModeIonolian.md) | 6 | C# | C#, D#, E##, F###, G##, A#, B#, C# | ![CSharpIonolian](ModeCSharpIonolian.png) |
-| [2981](https://ianring.com/musictheory/scales/2981) | [Ionolian](ModeIonolian.md) | 6 | Db | Db, Eb, F#, G#, A, Bb, C, Db | ![DFlatIonolian](ModeDFlatIonolian.png) |
 | [1769](https://ianring.com/musictheory/scales/1769) | [Rythian](ModeRythian.md) | 4 | D# | D#, E##, F###, G##, A#, B#, C#, D# | ![DSharpRythian](ModeDSharpRythian.png) |
-| [1769](https://ianring.com/musictheory/scales/1769) | [Rythian](ModeRythian.md) | 4 | Eb | Eb, F#, G#, A, Bb, C, Db, Eb | ![EFlatRythian](ModeEFlatRythian.png) |
 | [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeDonian.md) | 7 | F# | F#, G#, A, Bb, C, Db, Eb, F# | ![FSharpDonian](ModeFSharpDonian.png) |
-| [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeDonian.md) | 7 | Gb | Gb, Ab, Bbb, Cbb, Dbb, Ebbb, Fbb, Gb | ![GFlatDonian](ModeGFlatDonian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

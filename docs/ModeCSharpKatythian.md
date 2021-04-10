@@ -72,15 +72,11 @@ Ib5, iii⁰b3, V⁺, VII
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | 5 | C# | C#, D#, E#, F#, G, Ab, B, C# | ![CSharpKatythian](ModeCSharpKatythian.png) |
-| [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | 5 | Db | Db, Eb, F, Gb, Abb, Bbbb, Cb, Db | ![DFlatKatythian](ModeDFlatKatythian.png) |
 | [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | 3 | D# | D#, E#, F#, G, Ab, B, C#, D# | ![DSharpMadian](ModeDSharpMadian.png) |
-| [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | 3 | Eb | Eb, F, Gb, Abb, Bbbb, Cb, Db, Eb | ![EFlatMadian](ModeEFlatMadian.png) |
 | [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeAerygian.md) | -1 | F | F, Gb, Abb, Bbbb, Cb, Db, Eb, F | ![FNaturalAerygian](ModeFNaturalAerygian.png) |
 | [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | 6 | F# | F#, G, Ab, B, C#, D#, E#, F# | ![FSharpPylian](ModeFSharpPylian.png) |
-| [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | 6 | Gb | Gb, Abb, Bbbb, Cb, Db, Eb, F, Gb | ![GFlatPylian](ModeGFlatPylian.png) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | G | G, Ab, B, C#, D#, E#, F#, G | ![GNaturalIonathian](ModeGNaturalIonathian.png) |
 | [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | 4 | G# | G#, A##, B##, C###, D###, E##, F##, G# | ![GSharpPhraptian](ModeGSharpPhraptian.png) |
-| [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | 4 | Ab | Ab, B, C#, D#, E#, F#, G, Ab | ![AFlatPhraptian](ModeAFlatPhraptian.png) |
 | [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | 7 | B | B, C#, D#, E#, F#, G, Ab, B | ![BNaturalBacrian](ModeBNaturalBacrian.png) |
 ## Relative Brightness
 

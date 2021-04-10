@@ -72,7 +72,6 @@ C
 | [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | -1 | B | B, D, D#, G, B | ![BNaturalLanic](ModeBNaturalLanic.png) |
 | [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | 3 | D | D, D#, G, B, D | ![DNaturalPyrric](ModeDNaturalPyrric.png) |
 | [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | -1 | D# | D#, G, B, D, D# | ![DSharpZyphic](ModeDSharpZyphic.png) |
-| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | -1 | Eb | Eb, G, B, D, Eb | ![EFlatZyphic](ModeEFlatZyphic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

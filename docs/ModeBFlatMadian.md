@@ -72,17 +72,12 @@ ii⁰b3, IV⁺, VI, VIIb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | 3 | A# | A#, B#, C#, D, Eb, F#, G#, A# | ![ASharpMadian](ModeASharpMadian.png) |
-| [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | 3 | Bb | Bb, C, Db, Ebb, Fbb, Gb, Ab, Bb | ![BFlatMadian](ModeBFlatMadian.png) |
 | [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeAerygian.md) | -1 | C | C, Db, Ebb, Fbb, Gb, Ab, Bb, C | ![CNaturalAerygian](ModeCNaturalAerygian.png) |
 | [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | 6 | C# | C#, D, Eb, F#, G#, A#, B#, C# | ![CSharpPylian](ModeCSharpPylian.png) |
-| [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | 6 | Db | Db, Ebb, Fbb, Gb, Ab, Bb, C, Db | ![DFlatPylian](ModeDFlatPylian.png) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | D | D, Eb, F#, G#, A#, B#, C#, D | ![DNaturalIonathian](ModeDNaturalIonathian.png) |
 | [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | 4 | D# | D#, E##, F###, G###, A###, B##, C##, D# | ![DSharpPhraptian](ModeDSharpPhraptian.png) |
-| [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | 4 | Eb | Eb, F#, G#, A#, B#, C#, D, Eb | ![EFlatPhraptian](ModeEFlatPhraptian.png) |
 | [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | 7 | F# | F#, G#, A#, B#, C#, D, Eb, F# | ![FSharpBacrian](ModeFSharpBacrian.png) |
-| [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | 7 | Gb | Gb, Ab, Bb, C, Db, Ebb, Fbb, Gb | ![GFlatBacrian](ModeGFlatBacrian.png) |
 | [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | 5 | G# | G#, A#, B#, C#, D, Eb, F#, G# | ![GSharpKatythian](ModeGSharpKatythian.png) |
-| [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | 5 | Ab | Ab, Bb, C, Db, Ebb, Fbb, Gb, Ab | ![AFlatKatythian](ModeAFlatKatythian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

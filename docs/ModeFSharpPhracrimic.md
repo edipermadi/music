@@ -71,7 +71,6 @@ ii, iii
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | 2 | F# | F#, G##, A##, B#, C##, D##, F# | ![FSharpPhracrimic](ModeFSharpPhracrimic.png) |
-| [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | 2 | Gb | Gb, A, B, C, D, E, Gb | ![GFlatPhracrimic](ModeGFlatPhracrimic.png) |
 | [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeAerathimic.md) | 5 | A | A, B, C, D, E, F#, A | ![ANaturalAerathimic](ModeANaturalAerathimic.png) |
 | [1195](https://ianring.com/musictheory/scales/1195) | [Sarimic](ModeSarimic.md) | 3 | B | B, C, D, E, F#, G##, B | ![BNaturalSarimic](ModeBNaturalSarimic.png) |
 | [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | -1 | C | C, D, E, F#, G##, A##, C | ![CNaturalZoptimic](ModeCNaturalZoptimic.png) |

@@ -72,14 +72,10 @@ i, ii, III⁺, IV, V, vi⁰, vii⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | 6 | G# | G#, A#, B, C#, D#, E#, F##, G# | ![GSharpBocrian](ModeGSharpBocrian.png) |
-| [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | 6 | Ab | Ab, Bb, Cb, Db, Eb, F, G, Ab | ![AFlatBocrian](ModeAFlatBocrian.png) |
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | 4 | A# | A#, B, C#, D#, E#, F##, G#, A# | ![ASharpMixolythian](ModeASharpMixolythian.png) |
-| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | 4 | Bb | Bb, Cb, Db, Eb, F, G, Ab, Bb | ![BFlatMixolythian](ModeBFlatMixolythian.png) |
 | [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | -1 | B | B, C#, D#, E#, F##, G#, A#, B | ![BNaturalLarian](ModeBNaturalLarian.png) |
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | 7 | C# | C#, D#, E#, F##, G#, A#, B, C# | ![CSharpLythian](ModeCSharpLythian.png) |
-| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | 7 | Db | Db, Eb, F, G, Ab, Bb, Cb, Db | ![DFlatLythian](ModeDFlatLythian.png) |
 | [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | 5 | D# | D#, E#, F##, G#, A#, B, C#, D# | ![DSharpStydian](ModeDSharpStydian.png) |
-| [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | 5 | Eb | Eb, F, G, Ab, Bb, Cb, Db, Eb | ![EFlatStydian](ModeEFlatStydian.png) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | F | F, G, Ab, Bb, Cb, Db, Eb, F | ![FNaturalLorian](ModeFNaturalLorian.png) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | G | G, Ab, Bb, Cb, Db, Eb, F, G | ![GNaturalIonadian](ModeGNaturalIonadian.png) |
 ## Relative Brightness

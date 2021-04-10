@@ -76,19 +76,14 @@ v⁰b3, vi⁰, VIIb5
 |--------|------|------------|-------|-------|--------------|
 | [3455](https://ianring.com/musictheory/scales/3455) | [Ryptyllian](ModeRyptyllian.md) | 2 | D | D, D#, E, F, F#, G, G#, A#, C, C#, D | ![DNaturalRyptyllian](ModeDNaturalRyptyllian.png) |
 | [3775](https://ianring.com/musictheory/scales/3775) | [Loptyllian](ModeLoptyllian.md) | 7 | D# | D#, E, F, F#, G, G#, A#, C, C#, D, D# | ![DSharpLoptyllian](ModeDSharpLoptyllian.png) |
-| [3775](https://ianring.com/musictheory/scales/3775) | [Loptyllian](ModeLoptyllian.md) | 7 | Eb | Eb, E, F, Gb, G, Ab, Bb, C, Db, D, Eb | ![EFlatLoptyllian](ModeEFlatLoptyllian.png) |
 | [3935](https://ianring.com/musictheory/scales/3935) | [Kataphyllian](ModeKataphyllian.md) | -1 | E | E, F, F#, G, G#, A#, C, C#, D, D#, E | ![ENaturalKataphyllian](ModeENaturalKataphyllian.png) |
 | [4015](https://ianring.com/musictheory/scales/4015) | [Phradyllian](ModePhradyllian.md) | 5 | F | F, F#, G, G#, A#, C, C#, D, D#, E, F | ![FNaturalPhradyllian](ModeFNaturalPhradyllian.png) |
 | [4055](https://ianring.com/musictheory/scales/4055) | [Dagyllian](ModeDagyllian.md) | 10 | F# | F#, G, G#, A#, C, C#, D, D#, E, F, F# | ![FSharpDagyllian](ModeFSharpDagyllian.png) |
-| [4055](https://ianring.com/musictheory/scales/4055) | [Dagyllian](ModeDagyllian.md) | 10 | Gb | Gb, G, Ab, Bb, C, Db, D, Eb, E, F, Gb | ![GFlatDagyllian](ModeGFlatDagyllian.png) |
 | [4075](https://ianring.com/musictheory/scales/4075) | [Katyllian](ModeKatyllian.md) | 3 | G | G, G#, A#, C, C#, D, D#, E, F, F#, G | ![GNaturalKatyllian](ModeGNaturalKatyllian.png) |
 | [4085](https://ianring.com/musictheory/scales/4085) | [Sydyllian](ModeSydyllian.md) | 8 | G# | G#, A#, C, C#, D, D#, E, F, F#, G, G# | ![GSharpSydyllian](ModeGSharpSydyllian.png) |
-| [4085](https://ianring.com/musictheory/scales/4085) | [Sydyllian](ModeSydyllian.md) | 8 | Ab | Ab, Bb, C, Db, D, Eb, E, F, Gb, G, Ab | ![AFlatSydyllian](ModeAFlatSydyllian.png) |
 | [2045](https://ianring.com/musictheory/scales/2045) | [Katogyllian](ModeKatogyllian.md) | 6 | A# | A#, C, C#, D, D#, E, F, F#, G, G#, A# | ![ASharpKatogyllian](ModeASharpKatogyllian.png) |
-| [2045](https://ianring.com/musictheory/scales/2045) | [Katogyllian](ModeKatogyllian.md) | 6 | Bb | Bb, C, Db, D, Eb, E, F, Gb, G, Ab, Bb | ![BFlatKatogyllian](ModeBFlatKatogyllian.png) |
 | [1535](https://ianring.com/musictheory/scales/1535) | [Mixodyllian](ModeMixodyllian.md) | 4 | C | C, C#, D, D#, E, F, F#, G, G#, A#, C | ![CNaturalMixodyllian](ModeCNaturalMixodyllian.png) |
 | [2815](https://ianring.com/musictheory/scales/2815) | [Aeradyllian](ModeAeradyllian.md) | 9 | C# | C#, D, D#, E, F, F#, G, G#, A#, C, C# | ![CSharpAeradyllian](ModeCSharpAeradyllian.png) |
-| [2815](https://ianring.com/musictheory/scales/2815) | [Aeradyllian](ModeAeradyllian.md) | 9 | Db | Db, D, Eb, E, F, Gb, G, Ab, Bb, C, Db | ![DFlatAeradyllian](ModeDFlatAeradyllian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

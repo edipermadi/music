@@ -73,7 +73,6 @@ IV⁺
 | [1221](https://ianring.com/musictheory/scales/1221) | [Epyritonic](ModeEpyritonic.md) | 5 | A | A, B, D#, E, G, A | ![ANaturalEpyritonic](ModeANaturalEpyritonic.png) |
 | [1329](https://ianring.com/musictheory/scales/1329) | [Epygitonic](ModeEpygitonic.md) | 3 | B | B, D#, E, G, A, B | ![BNaturalEpygitonic](ModeBNaturalEpygitonic.png) |
 | [339](https://ianring.com/musictheory/scales/339) | [Zaptitonic](ModeZaptitonic.md) | -1 | D# | D#, E, G, A, B, D# | ![DSharpZaptitonic](ModeDSharpZaptitonic.png) |
-| [339](https://ianring.com/musictheory/scales/339) | [Zaptitonic](ModeZaptitonic.md) | -1 | Eb | Eb, E, G, A, B, Eb | ![EFlatZaptitonic](ModeEFlatZaptitonic.png) |
 | [2217](https://ianring.com/musictheory/scales/2217) | [Kagitonic](ModeKagitonic.md) | 4 | E | E, G, A, B, D#, E | ![ENaturalKagitonic](ModeENaturalKagitonic.png) |
 ## Relative Brightness
 

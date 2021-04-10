@@ -75,7 +75,6 @@ IV
 | [741](https://ianring.com/musictheory/scales/741) | [Gathimic](ModeGathimic.md) | 5 | F | F, G, A#, B, C, D, F | ![FNaturalGathimic](ModeFNaturalGathimic.png) |
 | [1209](https://ianring.com/musictheory/scales/1209) | [Ionynimic](ModeIonynimic.md) | 3 | G | G, A#, B, C, D, E#, G | ![GNaturalIonynimic](ModeGNaturalIonynimic.png) |
 | [663](https://ianring.com/musictheory/scales/663) | [Phrynimic](ModePhrynimic.md) | 6 | A# | A#, B, C, D, E#, F##, A# | ![ASharpPhrynimic](ModeASharpPhrynimic.png) |
-| [663](https://ianring.com/musictheory/scales/663) | [Phrynimic](ModePhrynimic.md) | 6 | Bb | Bb, Cb, Dbb, Ebb, F, G, Bb | ![BFlatPhrynimic](ModeBFlatPhrynimic.png) |
 | [2379](https://ianring.com/musictheory/scales/2379) | [Stathimic](ModeStathimic.md) | -1 | B | B, C, D, E#, F##, G###, B | ![BNaturalStathimic](ModeBNaturalStathimic.png) |
 ## Relative Brightness
 

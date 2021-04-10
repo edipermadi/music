@@ -72,14 +72,10 @@ I⁺, III⁺, V⁺
 |--------|------|------------|-------|-------|--------------|
 | [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeEpogimic.md) | 2 | F | F, G#, A, Bb, C#, D#, F | ![FNaturalEpogimic](ModeFNaturalEpogimic.png) |
 | [679](https://ianring.com/musictheory/scales/679) | [Lanimic](ModeLanimic.md) | 5 | G# | G#, A, Bb, C#, D#, E#, G# | ![GSharpLanimic](ModeGSharpLanimic.png) |
-| [679](https://ianring.com/musictheory/scales/679) | [Lanimic](ModeLanimic.md) | 5 | Ab | Ab, Bbb, Cbb, Db, Eb, F, Ab | ![AFlatLanimic](ModeAFlatLanimic.png) |
 | [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | -1 | A | A, Bb, C#, D#, E#, F###, A | ![ANaturalPaptimic](ModeANaturalPaptimic.png) |
 | [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDalimic.md) | 3 | A# | A#, B##, C###, D###, F###, G##, A# | ![ASharpDalimic](ModeASharpDalimic.png) |
-| [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDalimic.md) | 3 | Bb | Bb, C#, D#, E#, F###, G##, Bb | ![BFlatDalimic](ModeBFlatDalimic.png) |
 | [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | 6 | C# | C#, D#, E#, F###, G##, A#, C# | ![CSharpDygimic](ModeCSharpDygimic.png) |
-| [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | 6 | Db | Db, Eb, F, G#, A, Bb, Db | ![DFlatDygimic](ModeDFlatDygimic.png) |
 | [1253](https://ianring.com/musictheory/scales/1253) | [Zolimic](ModeZolimic.md) | 4 | D# | D#, E#, F###, G##, A#, B##, D# | ![DSharpZolimic](ModeDSharpZolimic.png) |
-| [1253](https://ianring.com/musictheory/scales/1253) | [Zolimic](ModeZolimic.md) | 4 | Eb | Eb, F, G#, A, Bb, C#, Eb | ![EFlatZolimic](ModeEFlatZolimic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |

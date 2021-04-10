@@ -72,11 +72,9 @@ C
 |--------|------|------------|-------|-------|--------------|
 | [287](https://ianring.com/musictheory/scales/287) | [Gynimic](ModeGynimic.md) | -1 | A | A, Bb, Cb, Dbb, Ebbb, F, A | ![ANaturalGynimic](ModeANaturalGynimic.png) |
 | [2191](https://ianring.com/musictheory/scales/2191) | [Thydimic](ModeThydimic.md) | 6 | A# | A#, B, C, Db, E#, Cbbb, A# | ![ASharpThydimic](ModeASharpThydimic.png) |
-| [2191](https://ianring.com/musictheory/scales/2191) | [Thydimic](ModeThydimic.md) | 6 | Bb | Bb, Cb, Dbb, Ebbb, F, G##, Bb | ![BFlatThydimic](ModeBFlatThydimic.png) |
 | [3143](https://ianring.com/musictheory/scales/3143) | [Polimic](ModePolimic.md) | -1 | B | B, C, Db, E#, Cbbb, Cbb, B | ![BNaturalPolimic](ModeBNaturalPolimic.png) |
 | [3619](https://ianring.com/musictheory/scales/3619) | [Thanimic](ModeThanimic.md) | 4 | C | C, Db, E#, Cbbb, Cbb, Dbbb, C | ![CNaturalThanimic](ModeCNaturalThanimic.png) |
 | [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModePonimic.md) | -1 | C# | C#, D###, Cbbb, Cbb, Dbbb, Dbb, C# | ![CSharpPonimic](ModeCSharpPonimic.png) |
-| [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModePonimic.md) | -1 | Db | Db, E#, Cbbb, Cbb, Dbbb, Dbb, Db | ![DFlatPonimic](ModeDFlatPonimic.png) |
 | [497](https://ianring.com/musictheory/scales/497) | [Kadimic](ModeKadimic.md) | 5 | F | F, G##, A#, B, C, Db, F | ![FNaturalKadimic](ModeFNaturalKadimic.png) |
 ## Relative Brightness
 

@@ -77,7 +77,6 @@ i, ii⁰, III, iv, v, VI, VII
 | [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | 4 | G | G, A, Bb, C, D, E, F, G | ![GNaturalDorian](ModeGNaturalDorian.png) |
 | [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | 2 | A | A, Bb, C, D, E, F, G, A | ![ANaturalPhrygian](ModeANaturalPhrygian.png) |
 | [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeLydian.md) | 7 | A# | A#, B#, C##, D##, E#, F##, G##, A# | ![ASharpLydian](ModeASharpLydian.png) |
-| [2773](https://ianring.com/musictheory/scales/2773) | [Lydian](ModeLydian.md) | 7 | Bb | Bb, C, D, E, F, G, A, Bb | ![BFlatLydian](ModeBFlatLydian.png) |
 | [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | 5 | C | C, D, E, F, G, A, Bb, C | ![CNaturalMixolydian](ModeCNaturalMixolydian.png) |
 ## Relative Brightness
 

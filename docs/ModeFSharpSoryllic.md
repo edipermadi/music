@@ -73,14 +73,11 @@ ii⁰b3, iii⁰, IV, v, vi⁰, VIIb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1455](https://ianring.com/musictheory/scales/1455) | [Soryllic](ModeSoryllic.md) | 3 | F# | F#, G, G#, A, B, C#, D, E, F# | ![FSharpSoryllic](ModeFSharpSoryllic.png) |
-| [1455](https://ianring.com/musictheory/scales/1455) | [Soryllic](ModeSoryllic.md) | 3 | Gb | Gb, G, Ab, A, B, Db, D, E, Gb | ![GFlatSoryllic](ModeGFlatSoryllic.png) |
 | [2775](https://ianring.com/musictheory/scales/2775) | [Godyllic](ModeGodyllic.md) | 8 | G | G, G#, A, B, C#, D, E, F#, G | ![GNaturalGodyllic](ModeGNaturalGodyllic.png) |
 | [3435](https://ianring.com/musictheory/scales/3435) | [Epiphyllic](ModeEpiphyllic.md) | 1 | G# | G#, A, B, C#, D, E, F#, G, G# | ![GSharpEpiphyllic](ModeGSharpEpiphyllic.png) |
-| [3435](https://ianring.com/musictheory/scales/3435) | [Epiphyllic](ModeEpiphyllic.md) | 1 | Ab | Ab, A, B, Db, D, E, Gb, G, Ab | ![AFlatEpiphyllic](ModeAFlatEpiphyllic.png) |
 | [3765](https://ianring.com/musictheory/scales/3765) | [Aerycryllic](ModeAerycryllic.md) | 6 | A | A, B, C#, D, E, F#, G, G#, A | ![ANaturalAerycryllic](ModeANaturalAerycryllic.png) |
 | [1965](https://ianring.com/musictheory/scales/1965) | [Gadyllic](ModeGadyllic.md) | 4 | B | B, C#, D, E, F#, G, G#, A, B | ![BNaturalGadyllic](ModeBNaturalGadyllic.png) |
 | [1515](https://ianring.com/musictheory/scales/1515) | [Solyllic](ModeSolyllic.md) | 2 | C# | C#, D, E, F#, G, G#, A, B, C# | ![CSharpSolyllic](ModeCSharpSolyllic.png) |
-| [1515](https://ianring.com/musictheory/scales/1515) | [Solyllic](ModeSolyllic.md) | 2 | Db | Db, D, E, Gb, G, Ab, A, B, Db | ![DFlatSolyllic](ModeDFlatSolyllic.png) |
 | [2805](https://ianring.com/musictheory/scales/2805) | [Zylyllic](ModeZylyllic.md) | 7 | D | D, E, F#, G, G#, A, B, C#, D | ![DNaturalZylyllic](ModeDNaturalZylyllic.png) |
 | [1725](https://ianring.com/musictheory/scales/1725) | [Mixodyllic](ModeMixodyllic.md) | 5 | E | E, F#, G, G#, A, B, C#, D, E | ![ENaturalMixodyllic](ModeENaturalMixodyllic.png) |
 ## Relative Brightness

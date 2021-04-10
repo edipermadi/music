@@ -71,11 +71,8 @@ I⁺
 |--------|------|------------|-------|-------|--------------|
 | [339](https://ianring.com/musictheory/scales/339) | [Zaptitonic](ModeZaptitonic.md) | -1 | A | A, A#, C#, D#, F, A | ![ANaturalZaptitonic](ModeANaturalZaptitonic.png) |
 | [2217](https://ianring.com/musictheory/scales/2217) | [Kagitonic](ModeKagitonic.md) | 4 | A# | A#, C#, D#, F, A, A# | ![ASharpKagitonic](ModeASharpKagitonic.png) |
-| [2217](https://ianring.com/musictheory/scales/2217) | [Kagitonic](ModeKagitonic.md) | 4 | Bb | Bb, Db, Eb, F, A, Bb | ![BFlatKagitonic](ModeBFlatKagitonic.png) |
 | [789](https://ianring.com/musictheory/scales/789) | [Zogitonic](ModeZogitonic.md) | -1 | C# | C#, D#, F, A, A#, C# | ![CSharpZogitonic](ModeCSharpZogitonic.png) |
-| [789](https://ianring.com/musictheory/scales/789) | [Zogitonic](ModeZogitonic.md) | -1 | Db | Db, Eb, F, A, Bb, Db | ![DFlatZogitonic](ModeDFlatZogitonic.png) |
 | [1221](https://ianring.com/musictheory/scales/1221) | [Epyritonic](ModeEpyritonic.md) | 5 | D# | D#, F, A, A#, C#, D# | ![DSharpEpyritonic](ModeDSharpEpyritonic.png) |
-| [1221](https://ianring.com/musictheory/scales/1221) | [Epyritonic](ModeEpyritonic.md) | 5 | Eb | Eb, F, A, Bb, Db, Eb | ![EFlatEpyritonic](ModeEFlatEpyritonic.png) |
 | [1329](https://ianring.com/musictheory/scales/1329) | [Epygitonic](ModeEpygitonic.md) | 3 | F | F, A, A#, C#, D#, F | ![FNaturalEpygitonic](ModeFNaturalEpygitonic.png) |
 ## Relative Brightness
 

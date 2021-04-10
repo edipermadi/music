@@ -71,7 +71,6 @@ v⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeLadimic.md) | -1 | C# | C#, D, E#, F##, Cb, Dbb, C# | ![CSharpLadimic](ModeCSharpLadimic.png) |
-| [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeLadimic.md) | -1 | Db | Db, Ebb, F, G, A##, B#, Db | ![DFlatLadimic](ModeDFlatLadimic.png) |
 | [3625](https://ianring.com/musictheory/scales/3625) | [Podimic](ModePodimic.md) | 3 | D | D, E#, F##, Cb, Dbb, Ebbb, D | ![DNaturalPodimic](ModeDNaturalPodimic.png) |
 | [965](https://ianring.com/musictheory/scales/965) | [Ionothimic](ModeIonothimic.md) | 6 | F | F, G, A##, B#, C#, D, F | ![FNaturalIonothimic](ModeFNaturalIonothimic.png) |
 | [1265](https://ianring.com/musictheory/scales/1265) | [Pynimic](ModePynimic.md) | 4 | G | G, A##, B#, C#, D, E#, G | ![GNaturalPynimic](ModeGNaturalPynimic.png) |

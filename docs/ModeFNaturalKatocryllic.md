@@ -74,15 +74,11 @@ i⁰b3, III⁺, Vb5
 |--------|------|------------|-------|-------|--------------|
 | [3407](https://ianring.com/musictheory/scales/3407) | [Katocryllic](ModeKatocryllic.md) | -1 | F | F, F#, G, G#, B, C#, D#, E, F | ![FNaturalKatocryllic](ModeFNaturalKatocryllic.png) |
 | [3751](https://ianring.com/musictheory/scales/3751) | [Aerathyllic](ModeAerathyllic.md) | 6 | F# | F#, G, G#, B, C#, D#, E, F, F# | ![FSharpAerathyllic](ModeFSharpAerathyllic.png) |
-| [3751](https://ianring.com/musictheory/scales/3751) | [Aerathyllic](ModeAerathyllic.md) | 6 | Gb | Gb, G, Ab, B, Db, Eb, E, F, Gb | ![GFlatAerathyllic](ModeGFlatAerathyllic.png) |
 | [3923](https://ianring.com/musictheory/scales/3923) | [Stoptyllic](ModeStoptyllic.md) | -1 | G | G, G#, B, C#, D#, E, F, F#, G | ![GNaturalStoptyllic](ModeGNaturalStoptyllic.png) |
 | [4009](https://ianring.com/musictheory/scales/4009) | [Phranyllic](ModePhranyllic.md) | 4 | G# | G#, B, C#, D#, E, F, F#, G, G# | ![GSharpPhranyllic](ModeGSharpPhranyllic.png) |
-| [4009](https://ianring.com/musictheory/scales/4009) | [Phranyllic](ModePhranyllic.md) | 4 | Ab | Ab, B, Db, Eb, E, F, Gb, G, Ab | ![AFlatPhranyllic](ModeAFlatPhranyllic.png) |
 | [1013](https://ianring.com/musictheory/scales/1013) | [Stydyllic](ModeStydyllic.md) | 7 | B | B, C#, D#, E, F, F#, G, G#, B | ![BNaturalStydyllic](ModeBNaturalStydyllic.png) |
 | [1277](https://ianring.com/musictheory/scales/1277) | [Zadyllic](ModeZadyllic.md) | 5 | C# | C#, D#, E, F, F#, G, G#, B, C# | ![CSharpZadyllic](ModeCSharpZadyllic.png) |
-| [1277](https://ianring.com/musictheory/scales/1277) | [Zadyllic](ModeZadyllic.md) | 5 | Db | Db, Eb, E, F, Gb, G, Ab, B, Db | ![DFlatZadyllic](ModeDFlatZadyllic.png) |
 | [1343](https://ianring.com/musictheory/scales/1343) | [Zalyllic](ModeZalyllic.md) | 3 | D# | D#, E, F, F#, G, G#, B, C#, D# | ![DSharpZalyllic](ModeDSharpZalyllic.png) |
-| [1343](https://ianring.com/musictheory/scales/1343) | [Zalyllic](ModeZalyllic.md) | 3 | Eb | Eb, E, F, Gb, G, Ab, B, Db, Eb | ![EFlatZalyllic](ModeEFlatZalyllic.png) |
 | [2719](https://ianring.com/musictheory/scales/2719) | [Zocryllic](ModeZocryllic.md) | 8 | E | E, F, F#, G, G#, B, C#, D#, E | ![ENaturalZocryllic](ModeENaturalZocryllic.png) |
 ## Relative Brightness
 

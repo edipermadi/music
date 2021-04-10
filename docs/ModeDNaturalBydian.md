@@ -75,10 +75,8 @@ VIIb5
 | [1311](https://ianring.com/musictheory/scales/1311) | [Bynian](ModeBynian.md) | -1 | E | E, F, Gb, Abb, Bbbb, C, D, E | ![ENaturalBynian](ModeENaturalBynian.png) |
 | [2703](https://ianring.com/musictheory/scales/2703) | [Galian](ModeGalian.md) | 7 | F | F, Gb, Abb, Bbbb, C, D, E, F | ![FNaturalGalian](ModeFNaturalGalian.png) |
 | [3399](https://ianring.com/musictheory/scales/3399) | [Zonian](ModeZonian.md) | -1 | F# | F#, G, Ab, B#, C##, D##, E#, F# | ![FSharpZonian](ModeFSharpZonian.png) |
-| [3399](https://ianring.com/musictheory/scales/3399) | [Zonian](ModeZonian.md) | -1 | Gb | Gb, Abb, Bbbb, C, D, E, F, Gb | ![GFlatZonian](ModeGFlatZonian.png) |
 | [3747](https://ianring.com/musictheory/scales/3747) | [Myrian](ModeMyrian.md) | 5 | G | G, Ab, B#, C##, D##, E#, F#, G | ![GNaturalMyrian](ModeGNaturalMyrian.png) |
 | [3921](https://ianring.com/musictheory/scales/3921) | [Pythian](ModePythian.md) | -1 | G# | G#, A###, B###, D##, E#, F#, G, G# | ![GSharpPythian](ModeGSharpPythian.png) |
-| [3921](https://ianring.com/musictheory/scales/3921) | [Pythian](ModePythian.md) | -1 | Ab | Ab, B#, C##, D##, E#, F#, G, Ab | ![AFlatPythian](ModeAFlatPythian.png) |
 | [501](https://ianring.com/musictheory/scales/501) | [Katylian](ModeKatylian.md) | 6 | C | C, D, E, F, Gb, Abb, Bbbb, C | ![CNaturalKatylian](ModeCNaturalKatylian.png) |
 ## Relative Brightness
 

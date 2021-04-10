@@ -73,7 +73,6 @@ II⁺, IV, v⁰, vii
 |--------|------|------------|-------|-------|--------------|
 | [1703](https://ianring.com/musictheory/scales/1703) | [Zaptian](ModeZaptian.md) | 5 | D | D, Eb, Fb, G, A, B, C, D | ![DNaturalZaptian](ModeDNaturalZaptian.png) |
 | [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeKagian.md) | -1 | D# | D#, E, F##, G##, A##, B#, C##, D# | ![DSharpKagian](ModeDSharpKagian.png) |
-| [2899](https://ianring.com/musictheory/scales/2899) | [Kagian](ModeKagian.md) | -1 | Eb | Eb, Fb, G, A, B, C, D, Eb | ![EFlatKagian](ModeEFlatKagian.png) |
 | [3497](https://ianring.com/musictheory/scales/3497) | [Phrolian](ModePhrolian.md) | 3 | E | E, F##, G##, A##, B#, C##, D#, E | ![ENaturalPhrolian](ModeENaturalPhrolian.png) |
 | [949](https://ianring.com/musictheory/scales/949) | [Ionagian](ModeIonagian.md) | 6 | G | G, A, B, C, D, Eb, Fb, G | ![GNaturalIonagian](ModeGNaturalIonagian.png) |
 | [1261](https://ianring.com/musictheory/scales/1261) | [Aeodian](ModeAeodian.md) | 4 | A | A, B, C, D, Eb, Fb, G, A | ![ANaturalAeodian](ModeANaturalAeodian.png) |

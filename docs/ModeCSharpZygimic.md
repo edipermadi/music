@@ -71,11 +71,9 @@ Ib5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1145](https://ianring.com/musictheory/scales/1145) | [Zygimic](ModeZygimic.md) | 3 | C# | C#, D##, E#, F#, G, A##, C# | ![CSharpZygimic](ModeCSharpZygimic.png) |
-| [1145](https://ianring.com/musictheory/scales/1145) | [Zygimic](ModeZygimic.md) | 3 | Db | Db, E, F, Gb, Abb, B, Db | ![DFlatZygimic](ModeDFlatZygimic.png) |
 | [655](https://ianring.com/musictheory/scales/655) | [Kataptimic](ModeKataptimic.md) | 6 | E | E, F, Gb, Abb, B, C#, E | ![ENaturalKataptimic](ModeENaturalKataptimic.png) |
 | [2375](https://ianring.com/musictheory/scales/2375) | [Aeolaptimic](ModeAeolaptimic.md) | -1 | F | F, Gb, Abb, B, C#, D##, F | ![FNaturalAeolaptimic](ModeFNaturalAeolaptimic.png) |
 | [3235](https://ianring.com/musictheory/scales/3235) | [Pothimic](ModePothimic.md) | 4 | F# | F#, G, A##, B##, D##, E#, F# | ![FSharpPothimic](ModeFSharpPothimic.png) |
-| [3235](https://ianring.com/musictheory/scales/3235) | [Pothimic](ModePothimic.md) | 4 | Gb | Gb, Abb, B, C#, D##, E#, Gb | ![GFlatPothimic](ModeGFlatPothimic.png) |
 | [3665](https://ianring.com/musictheory/scales/3665) | [Stalimic](ModeStalimic.md) | -1 | G | G, A##, B##, D##, E#, F#, G | ![GNaturalStalimic](ModeGNaturalStalimic.png) |
 | [485](https://ianring.com/musictheory/scales/485) | [Stoptimic](ModeStoptimic.md) | 5 | B | B, C#, D##, E#, F#, G, B | ![BNaturalStoptimic](ModeBNaturalStoptimic.png) |
 ## Relative Brightness

@@ -74,14 +74,11 @@ IIb5, vi⁰b3, VIII⁺
 |--------|------|------------|-------|-------|--------------|
 | [2021](https://ianring.com/musictheory/scales/2021) | [Katycryllic](ModeKatycryllic.md) | 6 | B | B, C#, E, F, F#, G, G#, A, B | ![BNaturalKatycryllic](ModeBNaturalKatycryllic.png) |
 | [1529](https://ianring.com/musictheory/scales/1529) | [Kataryllic](ModeKataryllic.md) | 4 | C# | C#, E, F, F#, G, G#, A, B, C# | ![CSharpKataryllic](ModeCSharpKataryllic.png) |
-| [1529](https://ianring.com/musictheory/scales/1529) | [Kataryllic](ModeKataryllic.md) | 4 | Db | Db, E, F, Gb, G, Ab, A, B, Db | ![DFlatKataryllic](ModeDFlatKataryllic.png) |
 | [703](https://ianring.com/musictheory/scales/703) | [Aerocryllic](ModeAerocryllic.md) | 7 | E | E, F, F#, G, G#, A, B, C#, E | ![ENaturalAerocryllic](ModeENaturalAerocryllic.png) |
 | [2399](https://ianring.com/musictheory/scales/2399) | [Zanyllic](ModeZanyllic.md) | -1 | F | F, F#, G, G#, A, B, C#, E, F | ![FNaturalZanyllic](ModeFNaturalZanyllic.png) |
 | [3247](https://ianring.com/musictheory/scales/3247) | [Aeolonyllic](ModeAeolonyllic.md) | 5 | F# | F#, G, G#, A, B, C#, E, F, F# | ![FSharpAeolonyllic](ModeFSharpAeolonyllic.png) |
-| [3247](https://ianring.com/musictheory/scales/3247) | [Aeolonyllic](ModeAeolonyllic.md) | 5 | Gb | Gb, G, Ab, A, B, Db, E, F, Gb | ![GFlatAeolonyllic](ModeGFlatAeolonyllic.png) |
 | [3671](https://ianring.com/musictheory/scales/3671) | [Aeonyllic](ModeAeonyllic.md) | -1 | G | G, G#, A, B, C#, E, F, F#, G | ![GNaturalAeonyllic](ModeGNaturalAeonyllic.png) |
 | [3883](https://ianring.com/musictheory/scales/3883) | [Kyryllic](ModeKyryllic.md) | 3 | G# | G#, A, B, C#, E, F, F#, G, G# | ![GSharpKyryllic](ModeGSharpKyryllic.png) |
-| [3883](https://ianring.com/musictheory/scales/3883) | [Kyryllic](ModeKyryllic.md) | 3 | Ab | Ab, A, B, Db, E, F, Gb, G, Ab | ![AFlatKyryllic](ModeAFlatKyryllic.png) |
 | [3989](https://ianring.com/musictheory/scales/3989) | [Sythyllic](ModeSythyllic.md) | 8 | A | A, B, C#, E, F, F#, G, G#, A | ![ANaturalSythyllic](ModeANaturalSythyllic.png) |
 ## Relative Brightness
 

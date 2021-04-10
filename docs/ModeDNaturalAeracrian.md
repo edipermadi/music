@@ -78,7 +78,6 @@ i, III⁺, V, vii⁰
 | [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | 3 | A | A, B#, C#, D, E, F, G, A | ![ANaturalAerathian](ModeANaturalAerathian.png) |
 | [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | 6 | C | C, Db, Ebb, Fb, Gbb, Abb, Bbb, C | ![CNaturalSarian](ModeCNaturalSarian.png) |
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | -1 | C# | C#, D, E, F, G, A, B#, C# | ![CSharpZoptian](ModeCSharpZoptian.png) |
-| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | -1 | Db | Db, Ebb, Fb, Gbb, Abb, Bbb, C, Db | ![DFlatZoptian](ModeDFlatZoptian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
