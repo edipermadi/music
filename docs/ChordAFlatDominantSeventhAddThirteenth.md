@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatDominantSeventhAddThirteenth](ChromaticCircleChordAFlatDominantSeventhAddThirteenth.png)
+![AFlatDominantSeventhAddThirteenth](ChromaticCircleChordAFlatDominantSeventhAddThirteenth.svg)
 
 ## Notes
 

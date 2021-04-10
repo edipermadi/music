@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpAugmentedAugmentedSeventh](ChromaticCircleChordASharpAugmentedAugmentedSeventh.png)
+![ASharpAugmentedAugmentedSeventh](ChromaticCircleChordASharpAugmentedAugmentedSeventh.svg)
 
 ## Notes
 

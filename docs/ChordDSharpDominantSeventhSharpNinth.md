@@ -13,7 +13,7 @@ D#
 
 ## Diagram
 
-![DSharpDominantSeventhSharpNinth](ChromaticCircleChordDSharpDominantSeventhSharpNinth.png)
+![DSharpDominantSeventhSharpNinth](ChromaticCircleChordDSharpDominantSeventhSharpNinth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ F
 
 ## Diagram
 
-![FNaturalMajorSixthSuspendedSecondFlatFifth](ChromaticCircleChordFNaturalMajorSixthSuspendedSecondFlatFifth.png)
+![FNaturalMajorSixthSuspendedSecondFlatFifth](ChromaticCircleChordFNaturalMajorSixthSuspendedSecondFlatFifth.svg)
 
 ## Notes
 

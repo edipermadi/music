@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatDiminishedFlatThird](ChromaticCircleChordAFlatDiminishedFlatThird.png)
+![AFlatDiminishedFlatThird](ChromaticCircleChordAFlatDiminishedFlatThird.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ G
 
 ## Diagram
 
-![GNaturalDominantSeventhSharpNinth](ChromaticCircleChordGNaturalDominantSeventhSharpNinth.png)
+![GNaturalDominantSeventhSharpNinth](ChromaticCircleChordGNaturalDominantSeventhSharpNinth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ G
 
 ## Diagram
 
-![GNaturalMajorNinthSuspendedFourth](ChromaticCircleChordGNaturalMajorNinthSuspendedFourth.png)
+![GNaturalMajorNinthSuspendedFourth](ChromaticCircleChordGNaturalMajorNinthSuspendedFourth.svg)
 
 ## Notes
 

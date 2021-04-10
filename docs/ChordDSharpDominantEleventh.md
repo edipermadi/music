@@ -13,7 +13,7 @@ D#
 
 ## Diagram
 
-![DSharpDominantEleventh](ChromaticCircleChordDSharpDominantEleventh.png)
+![DSharpDominantEleventh](ChromaticCircleChordDSharpDominantEleventh.svg)
 
 ## Notes
 

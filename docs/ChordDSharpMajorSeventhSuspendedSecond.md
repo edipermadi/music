@@ -13,7 +13,7 @@ D#
 
 ## Diagram
 
-![DSharpMajorSeventhSuspendedSecond](ChromaticCircleChordDSharpMajorSeventhSuspendedSecond.png)
+![DSharpMajorSeventhSuspendedSecond](ChromaticCircleChordDSharpMajorSeventhSuspendedSecond.svg)
 
 ## Notes
 

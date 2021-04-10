@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatDominantNinthSuspendedFourth](ChromaticCircleChordDFlatDominantNinthSuspendedFourth.png)
+![DFlatDominantNinthSuspendedFourth](ChromaticCircleChordDFlatDominantNinthSuspendedFourth.svg)
 
 ## Notes
 

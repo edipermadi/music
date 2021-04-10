@@ -13,7 +13,7 @@ D
 
 ## Diagram
 
-![DNaturalMajorSeventh](ChromaticCircleChordDNaturalMajorSeventh.png)
+![DNaturalMajorSeventh](ChromaticCircleChordDNaturalMajorSeventh.svg)
 
 ## Notes
 

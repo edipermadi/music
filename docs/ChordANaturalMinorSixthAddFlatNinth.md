@@ -13,7 +13,7 @@ A
 
 ## Diagram
 
-![ANaturalMinorSixthAddFlatNinth](ChromaticCircleChordANaturalMinorSixthAddFlatNinth.png)
+![ANaturalMinorSixthAddFlatNinth](ChromaticCircleChordANaturalMinorSixthAddFlatNinth.svg)
 
 ## Notes
 

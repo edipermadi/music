@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpMajorSixthSuspendedSecondDoubleFlatFifth](ChromaticCircleChordGSharpMajorSixthSuspendedSecondDoubleFlatFifth.png)
+![GSharpMajorSixthSuspendedSecondDoubleFlatFifth](ChromaticCircleChordGSharpMajorSixthSuspendedSecondDoubleFlatFifth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ G
 
 ## Diagram
 
-![GNaturalDominantNinthSuspendedFourth](ChromaticCircleChordGNaturalDominantNinthSuspendedFourth.png)
+![GNaturalDominantNinthSuspendedFourth](ChromaticCircleChordGNaturalDominantNinthSuspendedFourth.svg)
 
 ## Notes
 

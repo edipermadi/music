@@ -13,7 +13,7 @@ D
 
 ## Diagram
 
-![DNaturalDominantSeventhFlatFifthFlatNinth](ChromaticCircleChordDNaturalDominantSeventhFlatFifthFlatNinth.png)
+![DNaturalDominantSeventhFlatFifthFlatNinth](ChromaticCircleChordDNaturalDominantSeventhFlatFifthFlatNinth.svg)
 
 ## Notes
 

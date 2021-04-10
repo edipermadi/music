@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatDominantSeventhSharpNinthSharpEleventh](ChromaticCircleChordEFlatDominantSeventhSharpNinthSharpEleventh.png)
+![EFlatDominantSeventhSharpNinthSharpEleventh](ChromaticCircleChordEFlatDominantSeventhSharpNinthSharpEleventh.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatMinor](ChromaticCircleChordAFlatMinor.png)
+![AFlatMinor](ChromaticCircleChordAFlatMinor.svg)
 
 ## Notes
 

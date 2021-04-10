@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpPhrygianAddSeventh](ChromaticCircleChordFSharpPhrygianAddSeventh.png)
+![FSharpPhrygianAddSeventh](ChromaticCircleChordFSharpPhrygianAddSeventh.svg)
 
 ## Notes
 

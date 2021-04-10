@@ -13,7 +13,7 @@ D#
 
 ## Diagram
 
-![DSharpSuspendedSecondSharpFifth](ChromaticCircleChordDSharpSuspendedSecondSharpFifth.png)
+![DSharpSuspendedSecondSharpFifth](ChromaticCircleChordDSharpSuspendedSecondSharpFifth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatSuspendedFourth](ChromaticCircleChordEFlatSuspendedFourth.png)
+![EFlatSuspendedFourth](ChromaticCircleChordEFlatSuspendedFourth.svg)
 
 ## Notes
 

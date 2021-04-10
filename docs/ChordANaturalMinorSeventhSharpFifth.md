@@ -13,7 +13,7 @@ A
 
 ## Diagram
 
-![ANaturalMinorSeventhSharpFifth](ChromaticCircleChordANaturalMinorSeventhSharpFifth.png)
+![ANaturalMinorSeventhSharpFifth](ChromaticCircleChordANaturalMinorSeventhSharpFifth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatLydianMajorSeventh](ChromaticCircleChordAFlatLydianMajorSeventh.png)
+![AFlatLydianMajorSeventh](ChromaticCircleChordAFlatLydianMajorSeventh.svg)
 
 ## Notes
 

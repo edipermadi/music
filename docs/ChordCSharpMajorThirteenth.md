@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpMajorThirteenth](ChromaticCircleChordCSharpMajorThirteenth.png)
+![CSharpMajorThirteenth](ChromaticCircleChordCSharpMajorThirteenth.svg)
 
 ## Notes
 

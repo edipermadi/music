@@ -13,7 +13,7 @@ F
 
 ## Diagram
 
-![FNaturalMinorMajorNinth](ChromaticCircleChordFNaturalMinorMajorNinth.png)
+![FNaturalMinorMajorNinth](ChromaticCircleChordFNaturalMinorMajorNinth.svg)
 
 ## Notes
 

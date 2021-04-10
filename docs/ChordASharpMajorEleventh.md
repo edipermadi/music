@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpMajorEleventh](ChromaticCircleChordASharpMajorEleventh.png)
+![ASharpMajorEleventh](ChromaticCircleChordASharpMajorEleventh.svg)
 
 ## Notes
 

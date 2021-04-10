@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpMinorAddFourth](ChromaticCircleChordASharpMinorAddFourth.png)
+![ASharpMinorAddFourth](ChromaticCircleChordASharpMinorAddFourth.svg)
 
 ## Notes
 

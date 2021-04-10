@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatLocrian](ChromaticCircleChordGFlatLocrian.png)
+![GFlatLocrian](ChromaticCircleChordGFlatLocrian.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatPowerChord](ChromaticCircleChordBFlatPowerChord.png)
+![BFlatPowerChord](ChromaticCircleChordBFlatPowerChord.svg)
 
 ## Notes
 

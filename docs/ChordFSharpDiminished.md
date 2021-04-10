@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpDiminished](ChromaticCircleChordFSharpDiminished.png)
+![FSharpDiminished](ChromaticCircleChordFSharpDiminished.svg)
 
 ## Notes
 

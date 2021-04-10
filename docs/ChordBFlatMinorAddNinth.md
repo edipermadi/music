@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatMinorAddNinth](ChromaticCircleChordBFlatMinorAddNinth.png)
+![BFlatMinorAddNinth](ChromaticCircleChordBFlatMinorAddNinth.svg)
 
 ## Notes
 

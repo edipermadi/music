@@ -13,7 +13,7 @@ D#
 
 ## Diagram
 
-![DSharpLydian](ChromaticCircleChordDSharpLydian.png)
+![DSharpLydian](ChromaticCircleChordDSharpLydian.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpDominantNinthSuspendedFourth](ChromaticCircleChordFSharpDominantNinthSuspendedFourth.png)
+![FSharpDominantNinthSuspendedFourth](ChromaticCircleChordFSharpDominantNinthSuspendedFourth.svg)
 
 ## Notes
 

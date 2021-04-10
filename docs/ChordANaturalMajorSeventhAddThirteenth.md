@@ -13,7 +13,7 @@ A
 
 ## Diagram
 
-![ANaturalMajorSeventhAddThirteenth](ChromaticCircleChordANaturalMajorSeventhAddThirteenth.png)
+![ANaturalMajorSeventhAddThirteenth](ChromaticCircleChordANaturalMajorSeventhAddThirteenth.svg)
 
 ## Notes
 

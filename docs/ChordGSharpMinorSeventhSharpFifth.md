@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpMinorSeventhSharpFifth](ChromaticCircleChordGSharpMinorSeventhSharpFifth.png)
+![GSharpMinorSeventhSharpFifth](ChromaticCircleChordGSharpMinorSeventhSharpFifth.svg)
 
 ## Notes
 

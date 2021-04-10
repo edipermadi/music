@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpLydianMajorSeventh](ChromaticCircleChordFSharpLydianMajorSeventh.png)
+![FSharpLydianMajorSeventh](ChromaticCircleChordFSharpLydianMajorSeventh.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ E
 
 ## Diagram
 
-![ENaturalPowerChord](ChromaticCircleChordENaturalPowerChord.png)
+![ENaturalPowerChord](ChromaticCircleChordENaturalPowerChord.svg)
 
 ## Notes
 

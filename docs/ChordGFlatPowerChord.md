@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatPowerChord](ChromaticCircleChordGFlatPowerChord.png)
+![GFlatPowerChord](ChromaticCircleChordGFlatPowerChord.svg)
 
 ## Notes
 

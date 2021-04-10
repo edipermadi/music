@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatMinorAddNinth](ChromaticCircleChordEFlatMinorAddNinth.png)
+![EFlatMinorAddNinth](ChromaticCircleChordEFlatMinorAddNinth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatMinorAddEleventh](ChromaticCircleChordDFlatMinorAddEleventh.png)
+![DFlatMinorAddEleventh](ChromaticCircleChordDFlatMinorAddEleventh.svg)
 
 ## Notes
 

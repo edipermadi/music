@@ -53,7 +53,7 @@ F#
 
 | Circle of Fifth | Chromatic Circle |
 |-----------------|------------------|
-| ![FSharpDygic](CircleOfFifthModeFSharpDygic.png) | ![FSharpDygic](ChromaticCircleModeFSharpDygic.png) |
+| ![FSharpDygic](CircleOfFifthModeFSharpDygic.svg) | ![FSharpDygic](ChromaticCircleModeFSharpDygic.svg) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -68,12 +68,12 @@ F#
 
 | Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|-------|-------|-----------------|------------------|
-| [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | F# | F#, A, C#, F, F# | ![FSharpDygic](CircleOfFifthModeFSharpDygic.png) | ![FSharpDygic](ChromaticCircleModeFSharpDygic.png) |
-| [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | Gb | Gb, A, Db, F, Gb | ![GFlatDygic](CircleOfFifthModeGFlatDygic.png) | ![GFlatDygic](ChromaticCircleModeGFlatDygic.png) |
-| [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | A | A, C#, F, F#, A | ![ANaturalAeoloric](CircleOfFifthModeANaturalAeoloric.png) | ![ANaturalAeoloric](ChromaticCircleModeANaturalAeoloric.png) |
-| [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | C# | C#, F, F#, A, C# | ![CSharpGonic](CircleOfFifthModeCSharpGonic.png) | ![CSharpGonic](ChromaticCircleModeCSharpGonic.png) |
-| [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | Db | Db, F, Gb, A, Db | ![DFlatGonic](CircleOfFifthModeDFlatGonic.png) | ![DFlatGonic](ChromaticCircleModeDFlatGonic.png) |
-| [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | F | F, F#, A, C#, F | ![FNaturalDalic](CircleOfFifthModeFNaturalDalic.png) | ![FNaturalDalic](ChromaticCircleModeFNaturalDalic.png) |
+| [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | F# | F#, A, C#, F, F# | ![FSharpDygic](CircleOfFifthModeFSharpDygic.svg) | ![FSharpDygic](ChromaticCircleModeFSharpDygic.svg) |
+| [2185](https://ianring.com/musictheory/scales/2185) | [Dygic](ModeDygic.md) | Gb | Gb, A, Db, F, Gb | ![GFlatDygic](CircleOfFifthModeGFlatDygic.svg) | ![GFlatDygic](ChromaticCircleModeGFlatDygic.svg) |
+| [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | A | A, C#, F, F#, A | ![ANaturalAeoloric](CircleOfFifthModeANaturalAeoloric.svg) | ![ANaturalAeoloric](ChromaticCircleModeANaturalAeoloric.svg) |
+| [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | C# | C#, F, F#, A, C# | ![CSharpGonic](CircleOfFifthModeCSharpGonic.svg) | ![CSharpGonic](ChromaticCircleModeCSharpGonic.svg) |
+| [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | Db | Db, F, Gb, A, Db | ![DFlatGonic](CircleOfFifthModeDFlatGonic.svg) | ![DFlatGonic](ChromaticCircleModeDFlatGonic.svg) |
+| [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | F | F, F#, A, C#, F | ![FNaturalDalic](CircleOfFifthModeFNaturalDalic.svg) | ![FNaturalDalic](ChromaticCircleModeFNaturalDalic.svg) |
 
 ## Chords
 

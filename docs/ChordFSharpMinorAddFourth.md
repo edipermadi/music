@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpMinorAddFourth](ChromaticCircleChordFSharpMinorAddFourth.png)
+![FSharpMinorAddFourth](ChromaticCircleChordFSharpMinorAddFourth.svg)
 
 ## Notes
 

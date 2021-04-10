@@ -5,8 +5,8 @@ GOLINT		:= $(GOPATH)/bin/golint
 RM		:= $(shell which rm)
 TEST_OUT_DIR	:= test_out
 WIKI_DIR	:= $(CURDIR)/docs
-DOT_FILES	:= $(wildcard docs/*.dot)
-DIAGRAM_FILES	:= $(patsubst %.dot,%.png,$(DOT_FILES))
+DOT_IN_FILES	:= $(wildcard docs/*.dot)
+DOT_OUT_FILES	:= $(patsubst %.dot,%.svg,$(DOT_IN_FILES))
 
 .PHONY: build
 build: test docs
@@ -47,11 +47,11 @@ xref:
 	mkdir -p $(WIKI_DIR)
 	WIKI_DIR=$(WIKI_DIR) $(GO) run ./cmd/$@
 
-%.png: %.dot
-	dot -Tpng $< -o $@
+%.svg: %.dot
+	dot -Tsvg $< -o $@
 
 .PHONY: diagrams
-diagrams: $(DIAGRAM_FILES)
+diagrams: $(DOT_OUT_FILES)
 
 .PHONY: docs
 docs: xref

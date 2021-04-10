@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatMinorMajorThirteenth](ChromaticCircleChordEFlatMinorMajorThirteenth.png)
+![EFlatMinorMajorThirteenth](ChromaticCircleChordEFlatMinorMajorThirteenth.svg)
 
 ## Notes
 

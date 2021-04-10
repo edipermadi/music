@@ -13,7 +13,7 @@ G
 
 ## Diagram
 
-![GNaturalSuspendedFourthFlatFifth](ChromaticCircleChordGNaturalSuspendedFourthFlatFifth.png)
+![GNaturalSuspendedFourthFlatFifth](ChromaticCircleChordGNaturalSuspendedFourthFlatFifth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatMajorFlatFifth](ChromaticCircleChordAFlatMajorFlatFifth.png)
+![AFlatMajorFlatFifth](ChromaticCircleChordAFlatMajorFlatFifth.svg)
 
 ## Notes
 

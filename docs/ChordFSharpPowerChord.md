@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpPowerChord](ChromaticCircleChordFSharpPowerChord.png)
+![FSharpPowerChord](ChromaticCircleChordFSharpPowerChord.svg)
 
 ## Notes
 

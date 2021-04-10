@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpDominantSeventhAddFourth](ChromaticCircleChordCSharpDominantSeventhAddFourth.png)
+![CSharpDominantSeventhAddFourth](ChromaticCircleChordCSharpDominantSeventhAddFourth.svg)
 
 ## Notes
 

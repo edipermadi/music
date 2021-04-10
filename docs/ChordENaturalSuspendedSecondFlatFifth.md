@@ -13,7 +13,7 @@ E
 
 ## Diagram
 
-![ENaturalSuspendedSecondFlatFifth](ChromaticCircleChordENaturalSuspendedSecondFlatFifth.png)
+![ENaturalSuspendedSecondFlatFifth](ChromaticCircleChordENaturalSuspendedSecondFlatFifth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ D
 
 ## Diagram
 
-![DNaturalDominantSeventh](ChromaticCircleChordDNaturalDominantSeventh.png)
+![DNaturalDominantSeventh](ChromaticCircleChordDNaturalDominantSeventh.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ D
 
 ## Diagram
 
-![DNaturalMinorNinth](ChromaticCircleChordDNaturalMinorNinth.png)
+![DNaturalMinorNinth](ChromaticCircleChordDNaturalMinorNinth.svg)
 
 ## Notes
 

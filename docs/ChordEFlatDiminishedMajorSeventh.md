@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatDiminishedMajorSeventh](ChromaticCircleChordEFlatDiminishedMajorSeventh.png)
+![EFlatDiminishedMajorSeventh](ChromaticCircleChordEFlatDiminishedMajorSeventh.svg)
 
 ## Notes
 

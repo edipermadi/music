@@ -13,7 +13,7 @@ F
 
 ## Diagram
 
-![FNaturalMinorSeventhDoubleFlatFifth](ChromaticCircleChordFNaturalMinorSeventhDoubleFlatFifth.png)
+![FNaturalMinorSeventhDoubleFlatFifth](ChromaticCircleChordFNaturalMinorSeventhDoubleFlatFifth.svg)
 
 ## Notes
 

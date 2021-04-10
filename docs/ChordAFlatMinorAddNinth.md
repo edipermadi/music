@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatMinorAddNinth](ChromaticCircleChordAFlatMinorAddNinth.png)
+![AFlatMinorAddNinth](ChromaticCircleChordAFlatMinorAddNinth.svg)
 
 ## Notes
 

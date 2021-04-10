@@ -13,7 +13,7 @@ B
 
 ## Diagram
 
-![BNaturalMinorMajorThirteenth](ChromaticCircleChordBNaturalMinorMajorThirteenth.png)
+![BNaturalMinorMajorThirteenth](ChromaticCircleChordBNaturalMinorMajorThirteenth.svg)
 
 ## Notes
 

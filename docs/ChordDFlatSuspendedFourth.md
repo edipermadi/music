@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatSuspendedFourth](ChromaticCircleChordDFlatSuspendedFourth.png)
+![DFlatSuspendedFourth](ChromaticCircleChordDFlatSuspendedFourth.svg)
 
 ## Notes
 

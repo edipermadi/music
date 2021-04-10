@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpDominantSeventhSuspendedSecondFlatFifth](ChromaticCircleChordASharpDominantSeventhSuspendedSecondFlatFifth.png)
+![ASharpDominantSeventhSuspendedSecondFlatFifth](ChromaticCircleChordASharpDominantSeventhSuspendedSecondFlatFifth.svg)
 
 ## Notes
 

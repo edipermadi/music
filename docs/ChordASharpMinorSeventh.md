@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpMinorSeventh](ChromaticCircleChordASharpMinorSeventh.png)
+![ASharpMinorSeventh](ChromaticCircleChordASharpMinorSeventh.svg)
 
 ## Notes
 

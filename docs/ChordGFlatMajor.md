@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatMajor](ChromaticCircleChordGFlatMajor.png)
+![GFlatMajor](ChromaticCircleChordGFlatMajor.svg)
 
 ## Notes
 

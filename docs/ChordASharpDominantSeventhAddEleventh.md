@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpDominantSeventhAddEleventh](ChromaticCircleChordASharpDominantSeventhAddEleventh.png)
+![ASharpDominantSeventhAddEleventh](ChromaticCircleChordASharpDominantSeventhAddEleventh.svg)
 
 ## Notes
 

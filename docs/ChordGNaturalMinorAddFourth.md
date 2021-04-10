@@ -13,7 +13,7 @@ G
 
 ## Diagram
 
-![GNaturalMinorAddFourth](ChromaticCircleChordGNaturalMinorAddFourth.png)
+![GNaturalMinorAddFourth](ChromaticCircleChordGNaturalMinorAddFourth.svg)
 
 ## Notes
 

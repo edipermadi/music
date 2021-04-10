@@ -13,7 +13,7 @@ E
 
 ## Diagram
 
-![ENaturalQuartalAugmented](ChromaticCircleChordENaturalQuartalAugmented.png)
+![ENaturalQuartalAugmented](ChromaticCircleChordENaturalQuartalAugmented.svg)
 
 ## Notes
 

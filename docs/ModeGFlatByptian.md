@@ -56,7 +56,7 @@ II⁺, IV, vi⁰, vii
 
 | Circle of Fifth | Chromatic Circle |
 |-----------------|------------------|
-| ![GFlatByptian](CircleOfFifthModeGFlatByptian.png) | ![GFlatByptian](ChromaticCircleModeGFlatByptian.png) |
+| ![GFlatByptian](CircleOfFifthModeGFlatByptian.svg) | ![GFlatByptian](ChromaticCircleModeGFlatByptian.svg) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -74,15 +74,15 @@ II⁺, IV, vi⁰, vii
 
 | Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|-------|-------|-----------------|------------------|
-| [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | F# | F#, G, A, B, C##, D#, E, F# | ![FSharpByptian](CircleOfFifthModeFSharpByptian.png) | ![FSharpByptian](ChromaticCircleModeFSharpByptian.png) |
-| [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | Gb | Gb, Abb, Bbb, Cb, D, Eb, Fb, Gb | ![GFlatByptian](CircleOfFifthModeGFlatByptian.png) | ![GFlatByptian](ChromaticCircleModeGFlatByptian.png) |
-| [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | G | G, A, B, C##, D#, E, F#, G | ![GNaturalDarian](CircleOfFifthModeGNaturalDarian.png) | ![GNaturalDarian](ChromaticCircleModeGNaturalDarian.png) |
-| [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | A | A, B, C##, D#, E, F#, G, A | ![ANaturalLonian](CircleOfFifthModeANaturalLonian.png) | ![ANaturalLonian](ChromaticCircleModeANaturalLonian.png) |
-| [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | B | B, C##, D#, E, F#, G, A, B | ![BNaturalAerathian](CircleOfFifthModeBNaturalAerathian.png) | ![BNaturalAerathian](ChromaticCircleModeBNaturalAerathian.png) |
-| [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | D | D, Eb, Fb, Gb, Abb, Bbb, Cb, D | ![DNaturalSarian](CircleOfFifthModeDNaturalSarian.png) | ![DNaturalSarian](ChromaticCircleModeDNaturalSarian.png) |
-| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | D# | D#, E, F#, G, A, B, C##, D# | ![DSharpZoptian](CircleOfFifthModeDSharpZoptian.png) | ![DSharpZoptian](ChromaticCircleModeDSharpZoptian.png) |
-| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | Eb | Eb, Fb, Gb, Abb, Bbb, Cb, D, Eb | ![EFlatZoptian](CircleOfFifthModeEFlatZoptian.png) | ![EFlatZoptian](ChromaticCircleModeEFlatZoptian.png) |
-| [3245](https://ianring.com/musictheory/scales/3245) | [Aeracrian](ModeAeracrian.md) | E | E, F#, G, A, B, C##, D#, E | ![ENaturalAeracrian](CircleOfFifthModeENaturalAeracrian.png) | ![ENaturalAeracrian](ChromaticCircleModeENaturalAeracrian.png) |
+| [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | F# | F#, G, A, B, C##, D#, E, F# | ![FSharpByptian](CircleOfFifthModeFSharpByptian.svg) | ![FSharpByptian](ChromaticCircleModeFSharpByptian.svg) |
+| [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | Gb | Gb, Abb, Bbb, Cb, D, Eb, Fb, Gb | ![GFlatByptian](CircleOfFifthModeGFlatByptian.svg) | ![GFlatByptian](ChromaticCircleModeGFlatByptian.svg) |
+| [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | G | G, A, B, C##, D#, E, F#, G | ![GNaturalDarian](CircleOfFifthModeGNaturalDarian.svg) | ![GNaturalDarian](ChromaticCircleModeGNaturalDarian.svg) |
+| [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | A | A, B, C##, D#, E, F#, G, A | ![ANaturalLonian](CircleOfFifthModeANaturalLonian.svg) | ![ANaturalLonian](ChromaticCircleModeANaturalLonian.svg) |
+| [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | B | B, C##, D#, E, F#, G, A, B | ![BNaturalAerathian](CircleOfFifthModeBNaturalAerathian.svg) | ![BNaturalAerathian](ChromaticCircleModeBNaturalAerathian.svg) |
+| [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | D | D, Eb, Fb, Gb, Abb, Bbb, Cb, D | ![DNaturalSarian](CircleOfFifthModeDNaturalSarian.svg) | ![DNaturalSarian](ChromaticCircleModeDNaturalSarian.svg) |
+| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | D# | D#, E, F#, G, A, B, C##, D# | ![DSharpZoptian](CircleOfFifthModeDSharpZoptian.svg) | ![DSharpZoptian](ChromaticCircleModeDSharpZoptian.svg) |
+| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | Eb | Eb, Fb, Gb, Abb, Bbb, Cb, D, Eb | ![EFlatZoptian](CircleOfFifthModeEFlatZoptian.svg) | ![EFlatZoptian](ChromaticCircleModeEFlatZoptian.svg) |
+| [3245](https://ianring.com/musictheory/scales/3245) | [Aeracrian](ModeAeracrian.md) | E | E, F#, G, A, B, C##, D#, E | ![ENaturalAeracrian](CircleOfFifthModeENaturalAeracrian.svg) | ![ENaturalAeracrian](ChromaticCircleModeENaturalAeracrian.svg) |
 
 ## Chords
 

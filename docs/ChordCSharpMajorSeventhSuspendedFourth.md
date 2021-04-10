@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpMajorSeventhSuspendedFourth](ChromaticCircleChordCSharpMajorSeventhSuspendedFourth.png)
+![CSharpMajorSeventhSuspendedFourth](ChromaticCircleChordCSharpMajorSeventhSuspendedFourth.svg)
 
 ## Notes
 

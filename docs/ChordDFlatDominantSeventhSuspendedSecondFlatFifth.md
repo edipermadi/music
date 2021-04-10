@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatDominantSeventhSuspendedSecondFlatFifth](ChromaticCircleChordDFlatDominantSeventhSuspendedSecondFlatFifth.png)
+![DFlatDominantSeventhSuspendedSecondFlatFifth](ChromaticCircleChordDFlatDominantSeventhSuspendedSecondFlatFifth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ C
 
 ## Diagram
 
-![CNaturalMinorAddEleventh](ChromaticCircleChordCNaturalMinorAddEleventh.png)
+![CNaturalMinorAddEleventh](ChromaticCircleChordCNaturalMinorAddEleventh.svg)
 
 ## Notes
 

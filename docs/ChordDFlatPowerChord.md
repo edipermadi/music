@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatPowerChord](ChromaticCircleChordDFlatPowerChord.png)
+![DFlatPowerChord](ChromaticCircleChordDFlatPowerChord.svg)
 
 ## Notes
 

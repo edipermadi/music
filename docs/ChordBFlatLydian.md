@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatLydian](ChromaticCircleChordBFlatLydian.png)
+![BFlatLydian](ChromaticCircleChordBFlatLydian.svg)
 
 ## Notes
 

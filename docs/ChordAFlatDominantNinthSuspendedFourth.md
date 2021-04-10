@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatDominantNinthSuspendedFourth](ChromaticCircleChordAFlatDominantNinthSuspendedFourth.png)
+![AFlatDominantNinthSuspendedFourth](ChromaticCircleChordAFlatDominantNinthSuspendedFourth.svg)
 
 ## Notes
 

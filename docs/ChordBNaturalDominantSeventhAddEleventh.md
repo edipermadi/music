@@ -13,7 +13,7 @@ B
 
 ## Diagram
 
-![BNaturalDominantSeventhAddEleventh](ChromaticCircleChordBNaturalDominantSeventhAddEleventh.png)
+![BNaturalDominantSeventhAddEleventh](ChromaticCircleChordBNaturalDominantSeventhAddEleventh.svg)
 
 ## Notes
 

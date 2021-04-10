@@ -13,7 +13,7 @@ G
 
 ## Diagram
 
-![GNaturalMinorMajorSeventhAddThirteenth](ChromaticCircleChordGNaturalMinorMajorSeventhAddThirteenth.png)
+![GNaturalMinorMajorSeventhAddThirteenth](ChromaticCircleChordGNaturalMinorMajorSeventhAddThirteenth.svg)
 
 ## Notes
 

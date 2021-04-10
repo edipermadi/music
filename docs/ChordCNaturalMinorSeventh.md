@@ -13,7 +13,7 @@ C
 
 ## Diagram
 
-![CNaturalMinorSeventh](ChromaticCircleChordCNaturalMinorSeventh.png)
+![CNaturalMinorSeventh](ChromaticCircleChordCNaturalMinorSeventh.svg)
 
 ## Notes
 

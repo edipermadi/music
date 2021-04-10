@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpMinorAddSharpFourth](ChromaticCircleChordGSharpMinorAddSharpFourth.png)
+![GSharpMinorAddSharpFourth](ChromaticCircleChordGSharpMinorAddSharpFourth.svg)
 
 ## Notes
 

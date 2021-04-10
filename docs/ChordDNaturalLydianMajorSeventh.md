@@ -13,7 +13,7 @@ D
 
 ## Diagram
 
-![DNaturalLydianMajorSeventh](ChromaticCircleChordDNaturalLydianMajorSeventh.png)
+![DNaturalLydianMajorSeventh](ChromaticCircleChordDNaturalLydianMajorSeventh.svg)
 
 ## Notes
 

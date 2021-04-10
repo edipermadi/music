@@ -13,7 +13,7 @@ E
 
 ## Diagram
 
-![ENaturalMinorAddEleventh](ChromaticCircleChordENaturalMinorAddEleventh.png)
+![ENaturalMinorAddEleventh](ChromaticCircleChordENaturalMinorAddEleventh.svg)
 
 ## Notes
 

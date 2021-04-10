@@ -13,7 +13,7 @@ D
 
 ## Diagram
 
-![DNaturalDominantSeventhAddThirteenth](ChromaticCircleChordDNaturalDominantSeventhAddThirteenth.png)
+![DNaturalDominantSeventhAddThirteenth](ChromaticCircleChordDNaturalDominantSeventhAddThirteenth.svg)
 
 ## Notes
 

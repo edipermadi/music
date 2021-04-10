@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpHalfDiminishedSeventh](ChromaticCircleChordGSharpHalfDiminishedSeventh.png)
+![GSharpHalfDiminishedSeventh](ChromaticCircleChordGSharpHalfDiminishedSeventh.svg)
 
 ## Notes
 

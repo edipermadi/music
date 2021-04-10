@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpAugmented](ChromaticCircleChordGSharpAugmented.png)
+![GSharpAugmented](ChromaticCircleChordGSharpAugmented.svg)
 
 ## Notes
 

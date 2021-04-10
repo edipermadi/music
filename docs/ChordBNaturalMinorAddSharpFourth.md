@@ -13,7 +13,7 @@ B
 
 ## Diagram
 
-![BNaturalMinorAddSharpFourth](ChromaticCircleChordBNaturalMinorAddSharpFourth.png)
+![BNaturalMinorAddSharpFourth](ChromaticCircleChordBNaturalMinorAddSharpFourth.svg)
 
 ## Notes
 

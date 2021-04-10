@@ -13,7 +13,7 @@ D#
 
 ## Diagram
 
-![DSharpMinorSeventhFlatNinth](ChromaticCircleChordDSharpMinorSeventhFlatNinth.png)
+![DSharpMinorSeventhFlatNinth](ChromaticCircleChordDSharpMinorSeventhFlatNinth.svg)
 
 ## Notes
 

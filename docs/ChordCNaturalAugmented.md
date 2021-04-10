@@ -13,7 +13,7 @@ C
 
 ## Diagram
 
-![CNaturalAugmented](ChromaticCircleChordCNaturalAugmented.png)
+![CNaturalAugmented](ChromaticCircleChordCNaturalAugmented.svg)
 
 ## Notes
 

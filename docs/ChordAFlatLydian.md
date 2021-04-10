@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatLydian](ChromaticCircleChordAFlatLydian.png)
+![AFlatLydian](ChromaticCircleChordAFlatLydian.svg)
 
 ## Notes
 

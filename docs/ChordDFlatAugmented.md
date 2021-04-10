@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatAugmented](ChromaticCircleChordDFlatAugmented.png)
+![DFlatAugmented](ChromaticCircleChordDFlatAugmented.svg)
 
 ## Notes
 

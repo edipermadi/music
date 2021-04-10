@@ -13,7 +13,7 @@ C
 
 ## Diagram
 
-![CNaturalQuartalAugmented](ChromaticCircleChordCNaturalQuartalAugmented.png)
+![CNaturalQuartalAugmented](ChromaticCircleChordCNaturalQuartalAugmented.svg)
 
 ## Notes
 

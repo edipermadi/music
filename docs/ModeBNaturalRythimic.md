@@ -55,7 +55,7 @@ Ib5, II
 
 | Circle of Fifth | Chromatic Circle |
 |-----------------|------------------|
-| ![BNaturalRythimic](CircleOfFifthModeBNaturalRythimic.png) | ![BNaturalRythimic](ChromaticCircleModeBNaturalRythimic.png) |
+| ![BNaturalRythimic](CircleOfFifthModeBNaturalRythimic.svg) | ![BNaturalRythimic](ChromaticCircleModeBNaturalRythimic.svg) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -71,13 +71,13 @@ Ib5, II
 
 | Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|-------|-------|-----------------|------------------|
-| [371](https://ianring.com/musictheory/scales/371) | [Rythimic](ModeRythimic.md) | B | B, C, D#, E, F, G, B | ![BNaturalRythimic](CircleOfFifthModeBNaturalRythimic.png) | ![BNaturalRythimic](ChromaticCircleModeBNaturalRythimic.png) |
-| [2233](https://ianring.com/musictheory/scales/2233) | [Donimic](ModeDonimic.md) | C | C, D#, E, F, G, A##, C | ![CNaturalDonimic](CircleOfFifthModeCNaturalDonimic.png) | ![CNaturalDonimic](ChromaticCircleModeCNaturalDonimic.png) |
-| [791](https://ianring.com/musictheory/scales/791) | [Aeoloptimic](ModeAeoloptimic.md) | D# | D#, E, F, G, A##, B#, D# | ![DSharpAeoloptimic](CircleOfFifthModeDSharpAeoloptimic.png) | ![DSharpAeoloptimic](ChromaticCircleModeDSharpAeoloptimic.png) |
-| [791](https://ianring.com/musictheory/scales/791) | [Aeoloptimic](ModeAeoloptimic.md) | Eb | Eb, Fb, Gbb, Abb, B, C, Eb | ![EFlatAeoloptimic](CircleOfFifthModeEFlatAeoloptimic.png) | ![EFlatAeoloptimic](ChromaticCircleModeEFlatAeoloptimic.png) |
-| [2443](https://ianring.com/musictheory/scales/2443) | [Panimic](ModePanimic.md) | E | E, F, G, A##, B#, C###, E | ![ENaturalPanimic](CircleOfFifthModeENaturalPanimic.png) | ![ENaturalPanimic](ChromaticCircleModeENaturalPanimic.png) |
-| [3269](https://ianring.com/musictheory/scales/3269) | [Lodimic](ModeLodimic.md) | F | F, G, A##, B#, C###, D##, F | ![FNaturalLodimic](CircleOfFifthModeFNaturalLodimic.png) | ![FNaturalLodimic](ChromaticCircleModeFNaturalLodimic.png) |
-| [1841](https://ianring.com/musictheory/scales/1841) | [Thogimic](ModeThogimic.md) | G | G, A##, B#, C###, D##, E#, G | ![GNaturalThogimic](CircleOfFifthModeGNaturalThogimic.png) | ![GNaturalThogimic](ChromaticCircleModeGNaturalThogimic.png) |
+| [371](https://ianring.com/musictheory/scales/371) | [Rythimic](ModeRythimic.md) | B | B, C, D#, E, F, G, B | ![BNaturalRythimic](CircleOfFifthModeBNaturalRythimic.svg) | ![BNaturalRythimic](ChromaticCircleModeBNaturalRythimic.svg) |
+| [2233](https://ianring.com/musictheory/scales/2233) | [Donimic](ModeDonimic.md) | C | C, D#, E, F, G, A##, C | ![CNaturalDonimic](CircleOfFifthModeCNaturalDonimic.svg) | ![CNaturalDonimic](ChromaticCircleModeCNaturalDonimic.svg) |
+| [791](https://ianring.com/musictheory/scales/791) | [Aeoloptimic](ModeAeoloptimic.md) | D# | D#, E, F, G, A##, B#, D# | ![DSharpAeoloptimic](CircleOfFifthModeDSharpAeoloptimic.svg) | ![DSharpAeoloptimic](ChromaticCircleModeDSharpAeoloptimic.svg) |
+| [791](https://ianring.com/musictheory/scales/791) | [Aeoloptimic](ModeAeoloptimic.md) | Eb | Eb, Fb, Gbb, Abb, B, C, Eb | ![EFlatAeoloptimic](CircleOfFifthModeEFlatAeoloptimic.svg) | ![EFlatAeoloptimic](ChromaticCircleModeEFlatAeoloptimic.svg) |
+| [2443](https://ianring.com/musictheory/scales/2443) | [Panimic](ModePanimic.md) | E | E, F, G, A##, B#, C###, E | ![ENaturalPanimic](CircleOfFifthModeENaturalPanimic.svg) | ![ENaturalPanimic](ChromaticCircleModeENaturalPanimic.svg) |
+| [3269](https://ianring.com/musictheory/scales/3269) | [Lodimic](ModeLodimic.md) | F | F, G, A##, B#, C###, D##, F | ![FNaturalLodimic](CircleOfFifthModeFNaturalLodimic.svg) | ![FNaturalLodimic](ChromaticCircleModeFNaturalLodimic.svg) |
+| [1841](https://ianring.com/musictheory/scales/1841) | [Thogimic](ModeThogimic.md) | G | G, A##, B#, C###, D##, E#, G | ![GNaturalThogimic](CircleOfFifthModeGNaturalThogimic.svg) | ![GNaturalThogimic](ChromaticCircleModeGNaturalThogimic.svg) |
 
 ## Chords
 

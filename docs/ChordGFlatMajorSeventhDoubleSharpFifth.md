@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatMajorSeventhDoubleSharpFifth](ChromaticCircleChordGFlatMajorSeventhDoubleSharpFifth.png)
+![GFlatMajorSeventhDoubleSharpFifth](ChromaticCircleChordGFlatMajorSeventhDoubleSharpFifth.svg)
 
 ## Notes
 

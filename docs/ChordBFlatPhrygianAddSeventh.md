@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatPhrygianAddSeventh](ChromaticCircleChordBFlatPhrygianAddSeventh.png)
+![BFlatPhrygianAddSeventh](ChromaticCircleChordBFlatPhrygianAddSeventh.svg)
 
 ## Notes
 

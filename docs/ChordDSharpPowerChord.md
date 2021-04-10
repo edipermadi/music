@@ -13,7 +13,7 @@ D#
 
 ## Diagram
 
-![DSharpPowerChord](ChromaticCircleChordDSharpPowerChord.png)
+![DSharpPowerChord](ChromaticCircleChordDSharpPowerChord.svg)
 
 ## Notes
 

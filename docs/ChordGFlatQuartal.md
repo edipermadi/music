@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatQuartal](ChromaticCircleChordGFlatQuartal.png)
+![GFlatQuartal](ChromaticCircleChordGFlatQuartal.svg)
 
 ## Notes
 

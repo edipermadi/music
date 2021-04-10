@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatSuspendedSecondFlatFifthAddSharpFifth](ChromaticCircleChordBFlatSuspendedSecondFlatFifthAddSharpFifth.png)
+![BFlatSuspendedSecondFlatFifthAddSharpFifth](ChromaticCircleChordBFlatSuspendedSecondFlatFifthAddSharpFifth.svg)
 
 ## Notes
 

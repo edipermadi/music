@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatLocrian](ChromaticCircleChordAFlatLocrian.png)
+![AFlatLocrian](ChromaticCircleChordAFlatLocrian.svg)
 
 ## Notes
 

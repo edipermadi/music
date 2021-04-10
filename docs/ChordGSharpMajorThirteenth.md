@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpMajorThirteenth](ChromaticCircleChordGSharpMajorThirteenth.png)
+![GSharpMajorThirteenth](ChromaticCircleChordGSharpMajorThirteenth.svg)
 
 ## Notes
 

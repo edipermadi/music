@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpMinorAddFourth](ChromaticCircleChordCSharpMinorAddFourth.png)
+![CSharpMinorAddFourth](ChromaticCircleChordCSharpMinorAddFourth.svg)
 
 ## Notes
 

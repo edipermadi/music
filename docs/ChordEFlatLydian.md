@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatLydian](ChromaticCircleChordEFlatLydian.png)
+![EFlatLydian](ChromaticCircleChordEFlatLydian.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatDominantSeventhSharpNinth](ChromaticCircleChordGFlatDominantSeventhSharpNinth.png)
+![GFlatDominantSeventhSharpNinth](ChromaticCircleChordGFlatDominantSeventhSharpNinth.svg)
 
 ## Notes
 

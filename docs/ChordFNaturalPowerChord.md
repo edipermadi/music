@@ -13,7 +13,7 @@ F
 
 ## Diagram
 
-![FNaturalPowerChord](ChromaticCircleChordFNaturalPowerChord.png)
+![FNaturalPowerChord](ChromaticCircleChordFNaturalPowerChord.svg)
 
 ## Notes
 

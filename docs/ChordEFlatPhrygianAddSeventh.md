@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatPhrygianAddSeventh](ChromaticCircleChordEFlatPhrygianAddSeventh.png)
+![EFlatPhrygianAddSeventh](ChromaticCircleChordEFlatPhrygianAddSeventh.svg)
 
 ## Notes
 

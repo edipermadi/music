@@ -13,7 +13,7 @@ E
 
 ## Diagram
 
-![ENaturalMinorMajorSeventhAddThirteenth](ChromaticCircleChordENaturalMinorMajorSeventhAddThirteenth.png)
+![ENaturalMinorMajorSeventhAddThirteenth](ChromaticCircleChordENaturalMinorMajorSeventhAddThirteenth.svg)
 
 ## Notes
 

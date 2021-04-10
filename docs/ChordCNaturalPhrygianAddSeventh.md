@@ -13,7 +13,7 @@ C
 
 ## Diagram
 
-![CNaturalPhrygianAddSeventh](ChromaticCircleChordCNaturalPhrygianAddSeventh.png)
+![CNaturalPhrygianAddSeventh](ChromaticCircleChordCNaturalPhrygianAddSeventh.svg)
 
 ## Notes
 

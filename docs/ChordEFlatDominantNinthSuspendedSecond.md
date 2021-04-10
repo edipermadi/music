@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatDominantNinthSuspendedSecond](ChromaticCircleChordEFlatDominantNinthSuspendedSecond.png)
+![EFlatDominantNinthSuspendedSecond](ChromaticCircleChordEFlatDominantNinthSuspendedSecond.svg)
 
 ## Notes
 

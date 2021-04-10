@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatMajorSixthSuspendedFourth](ChromaticCircleChordGFlatMajorSixthSuspendedFourth.png)
+![GFlatMajorSixthSuspendedFourth](ChromaticCircleChordGFlatMajorSixthSuspendedFourth.svg)
 
 ## Notes
 

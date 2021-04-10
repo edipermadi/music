@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatDominantNinthFlatThirteenth](ChromaticCircleChordEFlatDominantNinthFlatThirteenth.png)
+![EFlatDominantNinthFlatThirteenth](ChromaticCircleChordEFlatDominantNinthFlatThirteenth.svg)
 
 ## Notes
 

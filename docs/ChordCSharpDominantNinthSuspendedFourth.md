@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpDominantNinthSuspendedFourth](ChromaticCircleChordCSharpDominantNinthSuspendedFourth.png)
+![CSharpDominantNinthSuspendedFourth](ChromaticCircleChordCSharpDominantNinthSuspendedFourth.svg)
 
 ## Notes
 

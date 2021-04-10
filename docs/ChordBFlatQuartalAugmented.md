@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatQuartalAugmented](ChromaticCircleChordBFlatQuartalAugmented.png)
+![BFlatQuartalAugmented](ChromaticCircleChordBFlatQuartalAugmented.svg)
 
 ## Notes
 

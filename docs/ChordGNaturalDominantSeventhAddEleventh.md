@@ -13,7 +13,7 @@ G
 
 ## Diagram
 
-![GNaturalDominantSeventhAddEleventh](ChromaticCircleChordGNaturalDominantSeventhAddEleventh.png)
+![GNaturalDominantSeventhAddEleventh](ChromaticCircleChordGNaturalDominantSeventhAddEleventh.svg)
 
 ## Notes
 

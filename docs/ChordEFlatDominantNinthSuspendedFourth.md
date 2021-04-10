@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatDominantNinthSuspendedFourth](ChromaticCircleChordEFlatDominantNinthSuspendedFourth.png)
+![EFlatDominantNinthSuspendedFourth](ChromaticCircleChordEFlatDominantNinthSuspendedFourth.svg)
 
 ## Notes
 

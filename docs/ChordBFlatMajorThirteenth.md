@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatMajorThirteenth](ChromaticCircleChordBFlatMajorThirteenth.png)
+![BFlatMajorThirteenth](ChromaticCircleChordBFlatMajorThirteenth.svg)
 
 ## Notes
 

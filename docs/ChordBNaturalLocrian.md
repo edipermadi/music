@@ -13,7 +13,7 @@ B
 
 ## Diagram
 
-![BNaturalLocrian](ChromaticCircleChordBNaturalLocrian.png)
+![BNaturalLocrian](ChromaticCircleChordBNaturalLocrian.svg)
 
 ## Notes
 

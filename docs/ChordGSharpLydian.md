@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpLydian](ChromaticCircleChordGSharpLydian.png)
+![GSharpLydian](ChromaticCircleChordGSharpLydian.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpMajorFlatFifth](ChromaticCircleChordGSharpMajorFlatFifth.png)
+![GSharpMajorFlatFifth](ChromaticCircleChordGSharpMajorFlatFifth.svg)
 
 ## Notes
 

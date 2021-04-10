@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatLydian](ChromaticCircleChordGFlatLydian.png)
+![GFlatLydian](ChromaticCircleChordGFlatLydian.svg)
 
 ## Notes
 

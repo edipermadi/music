@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpPowerChord](ChromaticCircleChordGSharpPowerChord.png)
+![GSharpPowerChord](ChromaticCircleChordGSharpPowerChord.svg)
 
 ## Notes
 

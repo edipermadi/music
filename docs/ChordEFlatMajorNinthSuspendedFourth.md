@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatMajorNinthSuspendedFourth](ChromaticCircleChordEFlatMajorNinthSuspendedFourth.png)
+![EFlatMajorNinthSuspendedFourth](ChromaticCircleChordEFlatMajorNinthSuspendedFourth.svg)
 
 ## Notes
 

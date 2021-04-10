@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatMajorSixth](ChromaticCircleChordGFlatMajorSixth.png)
+![GFlatMajorSixth](ChromaticCircleChordGFlatMajorSixth.svg)
 
 ## Notes
 

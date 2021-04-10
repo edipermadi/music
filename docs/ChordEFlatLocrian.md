@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatLocrian](ChromaticCircleChordEFlatLocrian.png)
+![EFlatLocrian](ChromaticCircleChordEFlatLocrian.svg)
 
 ## Notes
 

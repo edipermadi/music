@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatMajorSixthFlatFifth](ChromaticCircleChordBFlatMajorSixthFlatFifth.png)
+![BFlatMajorSixthFlatFifth](ChromaticCircleChordBFlatMajorSixthFlatFifth.svg)
 
 ## Notes
 

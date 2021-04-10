@@ -13,7 +13,7 @@ D#
 
 ## Diagram
 
-![DSharpMinorDoubleFlatFifth](ChromaticCircleChordDSharpMinorDoubleFlatFifth.png)
+![DSharpMinorDoubleFlatFifth](ChromaticCircleChordDSharpMinorDoubleFlatFifth.svg)
 
 ## Notes
 

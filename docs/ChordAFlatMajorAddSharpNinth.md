@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatMajorAddSharpNinth](ChromaticCircleChordAFlatMajorAddSharpNinth.png)
+![AFlatMajorAddSharpNinth](ChromaticCircleChordAFlatMajorAddSharpNinth.svg)
 
 ## Notes
 

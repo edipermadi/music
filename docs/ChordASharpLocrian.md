@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpLocrian](ChromaticCircleChordASharpLocrian.png)
+![ASharpLocrian](ChromaticCircleChordASharpLocrian.svg)
 
 ## Notes
 

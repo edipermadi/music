@@ -13,7 +13,7 @@ D#
 
 ## Diagram
 
-![DSharpDominantSeventhAddSharpFourth](ChromaticCircleChordDSharpDominantSeventhAddSharpFourth.png)
+![DSharpDominantSeventhAddSharpFourth](ChromaticCircleChordDSharpDominantSeventhAddSharpFourth.svg)
 
 ## Notes
 

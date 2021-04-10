@@ -13,7 +13,7 @@ C
 
 ## Diagram
 
-![CNaturalMajorNinthSuspendedSecond](ChromaticCircleChordCNaturalMajorNinthSuspendedSecond.png)
+![CNaturalMajorNinthSuspendedSecond](ChromaticCircleChordCNaturalMajorNinthSuspendedSecond.svg)
 
 ## Notes
 

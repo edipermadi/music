@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpLydian](ChromaticCircleChordCSharpLydian.png)
+![CSharpLydian](ChromaticCircleChordCSharpLydian.svg)
 
 ## Notes
 

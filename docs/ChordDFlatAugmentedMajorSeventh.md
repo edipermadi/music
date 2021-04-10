@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatAugmentedMajorSeventh](ChromaticCircleChordDFlatAugmentedMajorSeventh.png)
+![DFlatAugmentedMajorSeventh](ChromaticCircleChordDFlatAugmentedMajorSeventh.svg)
 
 ## Notes
 

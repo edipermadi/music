@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatMinorSixthAddNinth](ChromaticCircleChordDFlatMinorSixthAddNinth.png)
+![DFlatMinorSixthAddNinth](ChromaticCircleChordDFlatMinorSixthAddNinth.svg)
 
 ## Notes
 

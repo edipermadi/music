@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatQuartalAugmented](ChromaticCircleChordAFlatQuartalAugmented.png)
+![AFlatQuartalAugmented](ChromaticCircleChordAFlatQuartalAugmented.svg)
 
 ## Notes
 

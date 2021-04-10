@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatDominantSeventhAddThirteenth](ChromaticCircleChordDFlatDominantSeventhAddThirteenth.png)
+![DFlatDominantSeventhAddThirteenth](ChromaticCircleChordDFlatDominantSeventhAddThirteenth.svg)
 
 ## Notes
 

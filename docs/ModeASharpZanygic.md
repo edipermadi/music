@@ -58,7 +58,7 @@ ii⁰b3, iii⁰, IVb5, v⁰
 
 | Circle of Fifth | Chromatic Circle |
 |-----------------|------------------|
-| ![ASharpZanygic](CircleOfFifthModeASharpZanygic.png) | ![ASharpZanygic](ChromaticCircleModeASharpZanygic.png) |
+| ![ASharpZanygic](CircleOfFifthModeASharpZanygic.svg) | ![ASharpZanygic](ChromaticCircleModeASharpZanygic.svg) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -80,19 +80,19 @@ ii⁰b3, iii⁰, IVb5, v⁰
 
 | Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|-------|-------|-----------------|------------------|
-| [2991](https://ianring.com/musictheory/scales/2991) | [Zanygic](ModeZanygic.md) | A# | A#, B, C, C#, D#, F, F#, G, A, A# | ![ASharpZanygic](CircleOfFifthModeASharpZanygic.png) | ![ASharpZanygic](ChromaticCircleModeASharpZanygic.png) |
-| [2991](https://ianring.com/musictheory/scales/2991) | [Zanygic](ModeZanygic.md) | Bb | Bb, B, C, Db, Eb, F, Gb, G, A, Bb | ![BFlatZanygic](CircleOfFifthModeBFlatZanygic.png) | ![BFlatZanygic](ChromaticCircleModeBFlatZanygic.png) |
-| [3543](https://ianring.com/musictheory/scales/3543) | [Aeolonygic](ModeAeolonygic.md) | B | B, C, C#, D#, F, F#, G, A, A#, B | ![BNaturalAeolonygic](CircleOfFifthModeBNaturalAeolonygic.png) | ![BNaturalAeolonygic](ChromaticCircleModeBNaturalAeolonygic.png) |
-| [3819](https://ianring.com/musictheory/scales/3819) | [Aeolanygic](ModeAeolanygic.md) | C | C, C#, D#, F, F#, G, A, A#, B, C | ![CNaturalAeolanygic](CircleOfFifthModeCNaturalAeolanygic.png) | ![CNaturalAeolanygic](ChromaticCircleModeCNaturalAeolanygic.png) |
-| [3957](https://ianring.com/musictheory/scales/3957) | [Porygic](ModePorygic.md) | C# | C#, D#, F, F#, G, A, A#, B, C, C# | ![CSharpPorygic](CircleOfFifthModeCSharpPorygic.png) | ![CSharpPorygic](ChromaticCircleModeCSharpPorygic.png) |
-| [3957](https://ianring.com/musictheory/scales/3957) | [Porygic](ModePorygic.md) | Db | Db, Eb, F, Gb, G, A, Bb, B, C, Db | ![DFlatPorygic](CircleOfFifthModeDFlatPorygic.png) | ![DFlatPorygic](ChromaticCircleModeDFlatPorygic.png) |
-| [2013](https://ianring.com/musictheory/scales/2013) | [Mocrygic](ModeMocrygic.md) | D# | D#, F, F#, G, A, A#, B, C, C#, D# | ![DSharpMocrygic](CircleOfFifthModeDSharpMocrygic.png) | ![DSharpMocrygic](ChromaticCircleModeDSharpMocrygic.png) |
-| [2013](https://ianring.com/musictheory/scales/2013) | [Mocrygic](ModeMocrygic.md) | Eb | Eb, F, Gb, G, A, Bb, B, C, Db, Eb | ![EFlatMocrygic](CircleOfFifthModeEFlatMocrygic.png) | ![EFlatMocrygic](ChromaticCircleModeEFlatMocrygic.png) |
-| [1527](https://ianring.com/musictheory/scales/1527) | [Aeolyrygic](ModeAeolyrygic.md) | F | F, F#, G, A, A#, B, C, C#, D#, F | ![FNaturalAeolyrygic](CircleOfFifthModeFNaturalAeolyrygic.png) | ![FNaturalAeolyrygic](ChromaticCircleModeFNaturalAeolyrygic.png) |
-| [2811](https://ianring.com/musictheory/scales/2811) | [Barygic](ModeBarygic.md) | F# | F#, G, A, A#, B, C, C#, D#, F, F# | ![FSharpBarygic](CircleOfFifthModeFSharpBarygic.png) | ![FSharpBarygic](ChromaticCircleModeFSharpBarygic.png) |
-| [2811](https://ianring.com/musictheory/scales/2811) | [Barygic](ModeBarygic.md) | Gb | Gb, G, A, Bb, B, C, Db, Eb, F, Gb | ![GFlatBarygic](CircleOfFifthModeGFlatBarygic.png) | ![GFlatBarygic](ChromaticCircleModeGFlatBarygic.png) |
-| [3453](https://ianring.com/musictheory/scales/3453) | [Katarygic](ModeKatarygic.md) | G | G, A, A#, B, C, C#, D#, F, F#, G | ![GNaturalKatarygic](CircleOfFifthModeGNaturalKatarygic.png) | ![GNaturalKatarygic](ChromaticCircleModeGNaturalKatarygic.png) |
-| [1887](https://ianring.com/musictheory/scales/1887) | [Aerocrygic](ModeAerocrygic.md) | A | A, A#, B, C, C#, D#, F, F#, G, A | ![ANaturalAerocrygic](CircleOfFifthModeANaturalAerocrygic.png) | ![ANaturalAerocrygic](ChromaticCircleModeANaturalAerocrygic.png) |
+| [2991](https://ianring.com/musictheory/scales/2991) | [Zanygic](ModeZanygic.md) | A# | A#, B, C, C#, D#, F, F#, G, A, A# | ![ASharpZanygic](CircleOfFifthModeASharpZanygic.svg) | ![ASharpZanygic](ChromaticCircleModeASharpZanygic.svg) |
+| [2991](https://ianring.com/musictheory/scales/2991) | [Zanygic](ModeZanygic.md) | Bb | Bb, B, C, Db, Eb, F, Gb, G, A, Bb | ![BFlatZanygic](CircleOfFifthModeBFlatZanygic.svg) | ![BFlatZanygic](ChromaticCircleModeBFlatZanygic.svg) |
+| [3543](https://ianring.com/musictheory/scales/3543) | [Aeolonygic](ModeAeolonygic.md) | B | B, C, C#, D#, F, F#, G, A, A#, B | ![BNaturalAeolonygic](CircleOfFifthModeBNaturalAeolonygic.svg) | ![BNaturalAeolonygic](ChromaticCircleModeBNaturalAeolonygic.svg) |
+| [3819](https://ianring.com/musictheory/scales/3819) | [Aeolanygic](ModeAeolanygic.md) | C | C, C#, D#, F, F#, G, A, A#, B, C | ![CNaturalAeolanygic](CircleOfFifthModeCNaturalAeolanygic.svg) | ![CNaturalAeolanygic](ChromaticCircleModeCNaturalAeolanygic.svg) |
+| [3957](https://ianring.com/musictheory/scales/3957) | [Porygic](ModePorygic.md) | C# | C#, D#, F, F#, G, A, A#, B, C, C# | ![CSharpPorygic](CircleOfFifthModeCSharpPorygic.svg) | ![CSharpPorygic](ChromaticCircleModeCSharpPorygic.svg) |
+| [3957](https://ianring.com/musictheory/scales/3957) | [Porygic](ModePorygic.md) | Db | Db, Eb, F, Gb, G, A, Bb, B, C, Db | ![DFlatPorygic](CircleOfFifthModeDFlatPorygic.svg) | ![DFlatPorygic](ChromaticCircleModeDFlatPorygic.svg) |
+| [2013](https://ianring.com/musictheory/scales/2013) | [Mocrygic](ModeMocrygic.md) | D# | D#, F, F#, G, A, A#, B, C, C#, D# | ![DSharpMocrygic](CircleOfFifthModeDSharpMocrygic.svg) | ![DSharpMocrygic](ChromaticCircleModeDSharpMocrygic.svg) |
+| [2013](https://ianring.com/musictheory/scales/2013) | [Mocrygic](ModeMocrygic.md) | Eb | Eb, F, Gb, G, A, Bb, B, C, Db, Eb | ![EFlatMocrygic](CircleOfFifthModeEFlatMocrygic.svg) | ![EFlatMocrygic](ChromaticCircleModeEFlatMocrygic.svg) |
+| [1527](https://ianring.com/musictheory/scales/1527) | [Aeolyrygic](ModeAeolyrygic.md) | F | F, F#, G, A, A#, B, C, C#, D#, F | ![FNaturalAeolyrygic](CircleOfFifthModeFNaturalAeolyrygic.svg) | ![FNaturalAeolyrygic](ChromaticCircleModeFNaturalAeolyrygic.svg) |
+| [2811](https://ianring.com/musictheory/scales/2811) | [Barygic](ModeBarygic.md) | F# | F#, G, A, A#, B, C, C#, D#, F, F# | ![FSharpBarygic](CircleOfFifthModeFSharpBarygic.svg) | ![FSharpBarygic](ChromaticCircleModeFSharpBarygic.svg) |
+| [2811](https://ianring.com/musictheory/scales/2811) | [Barygic](ModeBarygic.md) | Gb | Gb, G, A, Bb, B, C, Db, Eb, F, Gb | ![GFlatBarygic](CircleOfFifthModeGFlatBarygic.svg) | ![GFlatBarygic](ChromaticCircleModeGFlatBarygic.svg) |
+| [3453](https://ianring.com/musictheory/scales/3453) | [Katarygic](ModeKatarygic.md) | G | G, A, A#, B, C, C#, D#, F, F#, G | ![GNaturalKatarygic](CircleOfFifthModeGNaturalKatarygic.svg) | ![GNaturalKatarygic](ChromaticCircleModeGNaturalKatarygic.svg) |
+| [1887](https://ianring.com/musictheory/scales/1887) | [Aerocrygic](ModeAerocrygic.md) | A | A, A#, B, C, C#, D#, F, F#, G, A | ![ANaturalAerocrygic](CircleOfFifthModeANaturalAerocrygic.svg) | ![ANaturalAerocrygic](ChromaticCircleModeANaturalAerocrygic.svg) |
 
 ## Chords
 

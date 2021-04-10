@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatMajorNinthSuspendedSecond](ChromaticCircleChordAFlatMajorNinthSuspendedSecond.png)
+![AFlatMajorNinthSuspendedSecond](ChromaticCircleChordAFlatMajorNinthSuspendedSecond.svg)
 
 ## Notes
 

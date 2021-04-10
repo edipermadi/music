@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpMinorMajorThirteenth](ChromaticCircleChordASharpMinorMajorThirteenth.png)
+![ASharpMinorMajorThirteenth](ChromaticCircleChordASharpMinorMajorThirteenth.svg)
 
 ## Notes
 
