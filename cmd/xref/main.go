@@ -117,8 +117,8 @@ func generateScalesTable(logger *zap.Logger, wikiDir string) {
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
 
 	_, _ = fmt.Fprintf(&buff, "## Index\n\n")
-	_, _ = fmt.Fprintf(&buff, "| Scale | Cardinality | Transposition | Perfection | Imperfection |\n")
-	_, _ = fmt.Fprintf(&buff, "|-------|-------------|---------------|------------|--------------|\n")
+	_, _ = fmt.Fprintf(&buff, "| Scale | Cardinality | Transposition | Perfection | Imperfection | Illustration |\n")
+	_, _ = fmt.Fprintf(&buff, "|-------|-------------|---------------|------------|--------------|--------------|\n")
 
 	for _, givenScale := range scale.AllScales() {
 		var computedTransposition []string
@@ -127,7 +127,7 @@ func generateScalesTable(logger *zap.Logger, wikiDir string) {
 		}
 
 		perfection, imperfection, _ := givenScale.Perfection()
-		_, _ = fmt.Fprintf(&buff, "| [%s](Scale%s.md) | %d | %s | %d | %d | \n", givenScale.String(), givenScale.String(), givenScale.Cardinality(), strings.Join(computedTransposition, ", "), perfection, imperfection)
+		_, _ = fmt.Fprintf(&buff, "| [%s](Scale%s.md) | %d | %s | %d | %d | ![%s](ModeCNatural%s.png) | \n", givenScale, givenScale, givenScale.Cardinality(), strings.Join(computedTransposition, ", "), perfection, imperfection, givenScale, givenScale)
 	}
 
 	if err := compareAndWrite(filename, buff.Bytes()); err != nil {

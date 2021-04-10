@@ -121,7 +121,7 @@ func TestMode_Luminosity(t *testing.T) {
 		require.Equal(t, 2, mode.DFlatPhrygian.Luminosity())
 		require.Equal(t, 1, mode.DFlatLocrian.Luminosity())
 	}
-	
+
 	// natural
 	{
 		require.Equal(t, 7, mode.CNaturalLydian.Luminosity())
