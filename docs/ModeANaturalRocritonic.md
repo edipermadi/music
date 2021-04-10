@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalRocritonic](ModeANaturalRocritonic.md)
+[Rocritonic](ModeRocritonic.md)
 
 ## Number
 

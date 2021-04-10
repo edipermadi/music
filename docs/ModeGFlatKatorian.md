@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GFlatKatorian](ModeGFlatKatorian.md)
+[Katorian](ModeKatorian.md)
 
 ## Number
 
@@ -83,10 +83,8 @@ i⁰b3, VIb5
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [2383](https://ianring.com/musictheory/scales/2383) | [Katorian](ModeKatorian.md) | -1 | F# | F#, G, Ab, Bbb, C, D, E#, F# | ![FSharpKatorian](CircleOfFifthModeFSharpKatorian.svg) | ![FSharpKatorian](ChromaticCircleModeFSharpKatorian.svg) |
-| [2383](https://ianring.com/musictheory/scales/2383) | [Katorian](ModeKatorian.md) | -1 | Gb | Gb, Abb, Bbbb, Cbbb, Dbb, Ebb, F, Gb | ![GFlatKatorian](CircleOfFifthModeGFlatKatorian.svg) | ![GFlatKatorian](ChromaticCircleModeGFlatKatorian.svg) |
 | [3239](https://ianring.com/musictheory/scales/3239) | [Epythian](ModeEpythian.md) | 5 | G | G, Ab, Bbb, C, D, E#, F#, G | ![GNaturalEpythian](CircleOfFifthModeGNaturalEpythian.svg) | ![GNaturalEpythian](ChromaticCircleModeGNaturalEpythian.svg) |
 | [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeKaptian.md) | -1 | G# | G#, A, B#, C##, D###, E##, F##, G# | ![GSharpKaptian](CircleOfFifthModeGSharpKaptian.svg) | ![GSharpKaptian](ChromaticCircleModeGSharpKaptian.svg) |
-| [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeKaptian.md) | -1 | Ab | Ab, Bbb, C, D, E#, F#, G, Ab | ![AFlatKaptian](CircleOfFifthModeAFlatKaptian.svg) | ![AFlatKaptian](ChromaticCircleModeAFlatKaptian.svg) |
 | [3881](https://ianring.com/musictheory/scales/3881) | [Morian](ModeMorian.md) | 3 | A | A, B#, C##, D###, E##, F##, G#, A | ![ANaturalMorian](CircleOfFifthModeANaturalMorian.svg) | ![ANaturalMorian](ChromaticCircleModeANaturalMorian.svg) |
 | [997](https://ianring.com/musictheory/scales/997) | [Rycrian](ModeRycrian.md) | 6 | C | C, D, E#, F#, G, Ab, Bbb, C | ![CNaturalRycrian](CircleOfFifthModeCNaturalRycrian.svg) | ![CNaturalRycrian](ChromaticCircleModeCNaturalRycrian.svg) |
 | [1273](https://ianring.com/musictheory/scales/1273) | [Ronian](ModeRonian.md) | 4 | D | D, E#, F#, G, Ab, Bbb, C, D | ![DNaturalRonian](CircleOfFifthModeDNaturalRonian.svg) | ![DNaturalRonian](ChromaticCircleModeDNaturalRonian.svg) |

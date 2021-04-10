@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GFlatEporic](ModeGFlatEporic.md)
+[Eporic](ModeEporic.md)
 
 ## Number
 
@@ -68,7 +68,7 @@ C
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | -1 | F# | F#, A, C#, E, F# | ![FSharpEporic](ModeFSharpEporic.png) |
+| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | 4 | F# | F#, A, C#, E, F# | ![FSharpEporic](ModeFSharpEporic.png) |
 | [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | 4 | A | A, C#, E, F#, A | ![ANaturalEpathic](ModeANaturalEpathic.png) |
 | [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | -1 | C# | C#, E, F#, A, C# | ![CSharpMynic](ModeCSharpMynic.png) |
 | [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | 3 | E | E, F#, A, C#, E | ![ENaturalRothic](ModeENaturalRothic.png) |
@@ -77,11 +77,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | -1 | F# | F#, A, C#, E, F# | ![FSharpEporic](CircleOfFifthModeFSharpEporic.svg) | ![FSharpEporic](ChromaticCircleModeFSharpEporic.svg) |
-| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | -1 | Gb | Gb, A, Db, E, Gb | ![GFlatEporic](CircleOfFifthModeGFlatEporic.svg) | ![GFlatEporic](ChromaticCircleModeGFlatEporic.svg) |
 | [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | -1 | A | A, C#, E, F#, A | ![ANaturalEpathic](CircleOfFifthModeANaturalEpathic.svg) | ![ANaturalEpathic](ChromaticCircleModeANaturalEpathic.svg) |
 | [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | -1 | C# | C#, E, F#, A, C# | ![CSharpMynic](CircleOfFifthModeCSharpMynic.svg) | ![CSharpMynic](ChromaticCircleModeCSharpMynic.svg) |
-| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | -1 | Db | Db, E, Gb, A, Db | ![DFlatMynic](CircleOfFifthModeDFlatMynic.svg) | ![DFlatMynic](ChromaticCircleModeDFlatMynic.svg) |
-| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | 3 | E | E, F#, A, C#, E | ![ENaturalRothic](CircleOfFifthModeENaturalRothic.svg) | ![ENaturalRothic](ChromaticCircleModeENaturalRothic.svg) |
+| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | -1 | E | E, F#, A, C#, E | ![ENaturalRothic](CircleOfFifthModeENaturalRothic.svg) | ![ENaturalRothic](ChromaticCircleModeENaturalRothic.svg) |
 
 ## Chords
 

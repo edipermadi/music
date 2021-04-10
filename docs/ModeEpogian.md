@@ -17,7 +17,7 @@
 
 ## Luminosity
 
--1
+3
 
 ## Transposition
 

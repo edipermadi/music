@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalKydimic](ModeBNaturalKydimic.md)
+[Kydimic](ModeKydimic.md)
 
 ## Number
 
@@ -21,7 +21,7 @@
 
 ## Luminosity
 
-5
+-1
 
 ## Tonic
 
@@ -83,11 +83,9 @@ Ib5, ii⁰b3
 | [633](https://ianring.com/musictheory/scales/633) | [Kydimic](ModeKydimic.md) | 5 | B | B, C##, D#, E, F, G#, B | ![BNaturalKydimic](CircleOfFifthModeBNaturalKydimic.svg) | ![BNaturalKydimic](ChromaticCircleModeBNaturalKydimic.svg) |
 | [591](https://ianring.com/musictheory/scales/591) | [Gaptimic](ModeGaptimic.md) | -1 | D | D, Eb, Fb, Gbb, Ab, B, D | ![DNaturalGaptimic](CircleOfFifthModeDNaturalGaptimic.svg) | ![DNaturalGaptimic](ChromaticCircleModeDNaturalGaptimic.svg) |
 | [2343](https://ianring.com/musictheory/scales/2343) | [Tharimic](ModeTharimic.md) | -1 | D# | D#, E, F, G#, A##, B###, D# | ![DSharpTharimic](CircleOfFifthModeDSharpTharimic.svg) | ![DSharpTharimic](ChromaticCircleModeDSharpTharimic.svg) |
-| [2343](https://ianring.com/musictheory/scales/2343) | [Tharimic](ModeTharimic.md) | -1 | Eb | Eb, Fb, Gbb, Ab, B, C##, Eb | ![EFlatTharimic](CircleOfFifthModeEFlatTharimic.svg) | ![EFlatTharimic](ChromaticCircleModeEFlatTharimic.svg) |
 | [3219](https://ianring.com/musictheory/scales/3219) | [Ionaphimic](ModeIonaphimic.md) | 6 | E | E, F, G#, A##, B###, C###, E | ![ENaturalIonaphimic](CircleOfFifthModeENaturalIonaphimic.svg) | ![ENaturalIonaphimic](ChromaticCircleModeENaturalIonaphimic.svg) |
 | [3657](https://ianring.com/musictheory/scales/3657) | [Epynimic](ModeEpynimic.md) | -1 | F | F, G#, A##, B###, C###, D##, F | ![FNaturalEpynimic](CircleOfFifthModeFNaturalEpynimic.svg) | ![FNaturalEpynimic](ChromaticCircleModeFNaturalEpynimic.svg) |
 | [969](https://ianring.com/musictheory/scales/969) | [Ionogimic](ModeIonogimic.md) | -1 | G# | G#, A##, B###, C###, D##, E#, G# | ![GSharpIonogimic](CircleOfFifthModeGSharpIonogimic.svg) | ![GSharpIonogimic](ChromaticCircleModeGSharpIonogimic.svg) |
-| [969](https://ianring.com/musictheory/scales/969) | [Ionogimic](ModeIonogimic.md) | -1 | Ab | Ab, B, C##, D#, E, F, Ab | ![AFlatIonogimic](CircleOfFifthModeAFlatIonogimic.svg) | ![AFlatIonogimic](ChromaticCircleModeAFlatIonogimic.svg) |
 
 ## Chords
 

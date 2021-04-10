@@ -13,7 +13,7 @@
 
 ## Mode
 
-[AFlatMolian](ModeAFlatMolian.md)
+[Molian](ModeMolian.md)
 
 ## Number
 
@@ -83,10 +83,8 @@ i⁰b3, ii, IV⁺, VIb5
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | -1 | G# | G#, A, Bb, C, D, E, F##, G# | ![GSharpMolian](CircleOfFifthModeGSharpMolian.svg) | ![GSharpMolian](ChromaticCircleModeGSharpMolian.svg) |
-| [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | -1 | Ab | Ab, Bbb, Cbb, Dbb, Ebb, Fb, G, Ab | ![AFlatMolian](CircleOfFifthModeAFlatMolian.svg) | ![AFlatMolian](ChromaticCircleModeAFlatMolian.svg) |
 | [3243](https://ianring.com/musictheory/scales/3243) | [Staptian](ModeStaptian.md) | 4 | A | A, Bb, C, D, E, F##, G#, A | ![ANaturalStaptian](CircleOfFifthModeANaturalStaptian.svg) | ![ANaturalStaptian](ChromaticCircleModeANaturalStaptian.svg) |
 | [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeMothian.md) | -1 | A# | A#, B#, C##, D##, E###, F###, G##, A# | ![ASharpMothian](CircleOfFifthModeASharpMothian.svg) | ![ASharpMothian](ChromaticCircleModeASharpMothian.svg) |
-| [3669](https://ianring.com/musictheory/scales/3669) | [Mothian](ModeMothian.md) | -1 | Bb | Bb, C, D, E, F##, G#, A, Bb | ![BFlatMothian](CircleOfFifthModeBFlatMothian.svg) | ![BFlatMothian](ChromaticCircleModeBFlatMothian.svg) |
 | [1941](https://ianring.com/musictheory/scales/1941) | [Aeranian](ModeAeranian.md) | 7 | C | C, D, E, F##, G#, A, Bb, C | ![CNaturalAeranian](CircleOfFifthModeCNaturalAeranian.svg) | ![CNaturalAeranian](ChromaticCircleModeCNaturalAeranian.svg) |
 | [1509](https://ianring.com/musictheory/scales/1509) | [Ragian](ModeRagian.md) | 5 | D | D, E, F##, G#, A, Bb, C, D | ![DNaturalRagian](CircleOfFifthModeDNaturalRagian.svg) | ![DNaturalRagian](ChromaticCircleModeDNaturalRagian.svg) |
 | [1401](https://ianring.com/musictheory/scales/1401) | [Pagian](ModePagian.md) | 3 | E | E, F##, G#, A, Bb, C, D, E | ![ENaturalPagian](CircleOfFifthModeENaturalPagian.svg) | ![ENaturalPagian](ChromaticCircleModeENaturalPagian.svg) |

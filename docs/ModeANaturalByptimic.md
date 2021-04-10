@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalByptimic](ModeANaturalByptimic.md)
+[Byptimic](ModeByptimic.md)
 
 ## Number
 

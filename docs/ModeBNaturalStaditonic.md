@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalStaditonic](ModeBNaturalStaditonic.md)
+[Staditonic](ModeStaditonic.md)
 
 ## Number
 
@@ -80,7 +80,6 @@ C
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | 3 | B | B, C#, E, G, A, B | ![BNaturalStaditonic](CircleOfFifthModeBNaturalStaditonic.svg) | ![BNaturalStaditonic](ChromaticCircleModeBNaturalStaditonic.svg) |
 | [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | -1 | C# | C#, E, G, A, B, C# | ![CSharpKataritonic](CircleOfFifthModeCSharpKataritonic.svg) | ![CSharpKataritonic](ChromaticCircleModeCSharpKataritonic.svg) |
-| [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | -1 | Db | Db, E, G, A, B, Db | ![DFlatKataritonic](CircleOfFifthModeDFlatKataritonic.svg) | ![DFlatKataritonic](ChromaticCircleModeDFlatKataritonic.svg) |
 | [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | 4 | E | E, G, A, B, C#, E | ![ENaturalSylitonic](CircleOfFifthModeENaturalSylitonic.svg) | ![ENaturalSylitonic](ChromaticCircleModeENaturalSylitonic.svg) |
 | [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | -1 | G | G, A, B, C#, E, G | ![GNaturalThonitonic](CircleOfFifthModeGNaturalThonitonic.svg) | ![GNaturalThonitonic](ChromaticCircleModeGNaturalThonitonic.svg) |
 | [1173](https://ianring.com/musictheory/scales/1173) | [Phropitonic](ModePhropitonic.md) | 5 | A | A, B, C#, E, G, A | ![ANaturalPhropitonic](CircleOfFifthModeANaturalPhropitonic.svg) | ![ANaturalPhropitonic](ChromaticCircleModeANaturalPhropitonic.svg) |

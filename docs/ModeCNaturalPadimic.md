@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CNaturalPadimic](ModeCNaturalPadimic.md)
+[Padimic](ModePadimic.md)
 
 ## Number
 
@@ -84,11 +84,8 @@ II⁺, iii, IV⁺, VI⁺
 | [1369](https://ianring.com/musictheory/scales/1369) | [Boptimic](ModeBoptimic.md) | -1 | D | D, E#, F#, G#, A#, B#, D | ![DNaturalBoptimic](CircleOfFifthModeDNaturalBoptimic.svg) | ![DNaturalBoptimic](ChromaticCircleModeDNaturalBoptimic.svg) |
 | [683](https://ianring.com/musictheory/scales/683) | [Stogimic](ModeStogimic.md) | 5 | F | F, Gb, Ab, Bb, C, D, F | ![FNaturalStogimic](CircleOfFifthModeFNaturalStogimic.svg) | ![FNaturalStogimic](ChromaticCircleModeFNaturalStogimic.svg) |
 | [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeThynimic.md) | -1 | F# | F#, G#, A#, B#, C##, D###, F# | ![FSharpThynimic](CircleOfFifthModeFSharpThynimic.svg) | ![FSharpThynimic](ChromaticCircleModeFSharpThynimic.svg) |
-| [2389](https://ianring.com/musictheory/scales/2389) | [Thynimic](ModeThynimic.md) | -1 | Gb | Gb, Ab, Bb, C, D, E#, Gb | ![GFlatThynimic](CircleOfFifthModeGFlatThynimic.svg) | ![GFlatThynimic](ChromaticCircleModeGFlatThynimic.svg) |
 | [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | -1 | G# | G#, A#, B#, C##, D###, E##, G# | ![GSharpAeolathimic](CircleOfFifthModeGSharpAeolathimic.svg) | ![GSharpAeolathimic](ChromaticCircleModeGSharpAeolathimic.svg) |
-| [1621](https://ianring.com/musictheory/scales/1621) | [Aeolathimic](ModeAeolathimic.md) | -1 | Ab | Ab, Bb, C, D, E#, F#, Ab | ![AFlatAeolathimic](CircleOfFifthModeAFlatAeolathimic.svg) | ![AFlatAeolathimic](ChromaticCircleModeAFlatAeolathimic.svg) |
 | [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeBythimic.md) | 6 | A# | A#, B#, C##, D###, E##, F###, A# | ![ASharpBythimic](CircleOfFifthModeASharpBythimic.svg) | ![ASharpBythimic](ChromaticCircleModeASharpBythimic.svg) |
-| [1429](https://ianring.com/musictheory/scales/1429) | [Bythimic](ModeBythimic.md) | 6 | Bb | Bb, C, D, E#, F#, G#, Bb | ![BFlatBythimic](CircleOfFifthModeBFlatBythimic.svg) | ![BFlatBythimic](ChromaticCircleModeBFlatBythimic.svg) |
 
 ## Chords
 

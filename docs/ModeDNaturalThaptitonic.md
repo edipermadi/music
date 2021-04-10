@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalThaptitonic](ModeDNaturalThaptitonic.md)
+[Thaptitonic](ModeThaptitonic.md)
 
 ## Number
 

@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DFlatBanitonic](ModeDFlatBanitonic.md)
+[Banitonic](ModeBanitonic.md)
 
 ## Number
 
@@ -79,11 +79,8 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [357](https://ianring.com/musictheory/scales/357) | [Banitonic](ModeBanitonic.md) | 4 | C# | C#, D#, F#, G, A, C# | ![CSharpBanitonic](CircleOfFifthModeCSharpBanitonic.svg) | ![CSharpBanitonic](ChromaticCircleModeCSharpBanitonic.svg) |
-| [357](https://ianring.com/musictheory/scales/357) | [Banitonic](ModeBanitonic.md) | 4 | Db | Db, Eb, Gb, G, A, Db | ![DFlatBanitonic](CircleOfFifthModeDFlatBanitonic.svg) | ![DFlatBanitonic](ChromaticCircleModeDFlatBanitonic.svg) |
 | [1113](https://ianring.com/musictheory/scales/1113) | [Aeronitonic](ModeAeronitonic.md) | -1 | D# | D#, F#, G, A, C#, D# | ![DSharpAeronitonic](CircleOfFifthModeDSharpAeronitonic.svg) | ![DSharpAeronitonic](ChromaticCircleModeDSharpAeronitonic.svg) |
-| [1113](https://ianring.com/musictheory/scales/1113) | [Aeronitonic](ModeAeronitonic.md) | -1 | Eb | Eb, Gb, G, A, Db, Eb | ![EFlatAeronitonic](CircleOfFifthModeEFlatAeronitonic.svg) | ![EFlatAeronitonic](ChromaticCircleModeEFlatAeronitonic.svg) |
 | [651](https://ianring.com/musictheory/scales/651) | [Golitonic](ModeGolitonic.md) | 5 | F# | F#, G, A, C#, D#, F# | ![FSharpGolitonic](CircleOfFifthModeFSharpGolitonic.svg) | ![FSharpGolitonic](ChromaticCircleModeFSharpGolitonic.svg) |
-| [651](https://ianring.com/musictheory/scales/651) | [Golitonic](ModeGolitonic.md) | 5 | Gb | Gb, G, A, Db, Eb, Gb | ![GFlatGolitonic](CircleOfFifthModeGFlatGolitonic.svg) | ![GFlatGolitonic](ChromaticCircleModeGFlatGolitonic.svg) |
 | [2373](https://ianring.com/musictheory/scales/2373) | [Dyptitonic](ModeDyptitonic.md) | -1 | G | G, A, C#, D#, F#, G | ![GNaturalDyptitonic](CircleOfFifthModeGNaturalDyptitonic.svg) | ![GNaturalDyptitonic](ChromaticCircleModeGNaturalDyptitonic.svg) |
 | [1617](https://ianring.com/musictheory/scales/1617) | [Phronitonic](ModePhronitonic.md) | -1 | A | A, C#, D#, F#, G, A | ![ANaturalPhronitonic](CircleOfFifthModeANaturalPhronitonic.svg) | ![ANaturalPhronitonic](ChromaticCircleModeANaturalPhronitonic.svg) |
 

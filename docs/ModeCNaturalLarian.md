@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CNaturalLarian](ModeCNaturalLarian.md)
+[Larian](ModeLarian.md)
 
 ## Number
 
@@ -86,9 +86,7 @@ I⁺, II, III, iv⁰, v⁰, vi, vii
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | 7 | D | D, E, F#, G#, A, B, C, D | ![DNaturalLythian](CircleOfFifthModeDNaturalLythian.svg) | ![DNaturalLythian](ChromaticCircleModeDNaturalLythian.svg) |
 | [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | 5 | E | E, F#, G#, A, B, C, D, E | ![ENaturalStydian](CircleOfFifthModeENaturalStydian.svg) | ![ENaturalStydian](ChromaticCircleModeENaturalStydian.svg) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | F# | F#, G#, A, B, C, D, E, F# | ![FSharpLorian](CircleOfFifthModeFSharpLorian.svg) | ![FSharpLorian](ChromaticCircleModeFSharpLorian.svg) |
-| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | Gb | Gb, Ab, Bbb, Cb, Dbb, Ebb, Fb, Gb | ![GFlatLorian](CircleOfFifthModeGFlatLorian.svg) | ![GFlatLorian](ChromaticCircleModeGFlatLorian.svg) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | G# | G#, A, B, C, D, E, F#, G# | ![GSharpIonadian](CircleOfFifthModeGSharpIonadian.svg) | ![GSharpIonadian](ChromaticCircleModeGSharpIonadian.svg) |
-| [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | Ab | Ab, Bbb, Cb, Dbb, Ebb, Fb, Gb, Ab | ![AFlatIonadian](CircleOfFifthModeAFlatIonadian.svg) | ![AFlatIonadian](ChromaticCircleModeAFlatIonadian.svg) |
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | 6 | A | A, B, C, D, E, F#, G#, A | ![ANaturalBocrian](CircleOfFifthModeANaturalBocrian.svg) | ![ANaturalBocrian](ChromaticCircleModeANaturalBocrian.svg) |
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | 4 | B | B, C, D, E, F#, G#, A, B | ![BNaturalMixolythian](CircleOfFifthModeBNaturalMixolythian.svg) | ![BNaturalMixolythian](ChromaticCircleModeBNaturalMixolythian.svg) |
 

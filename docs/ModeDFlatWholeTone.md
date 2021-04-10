@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DFlatWholeTone](ModeDFlatWholeTone.md)
+[WholeTone](ModeWholeTone.md)
 
 ## Number
 
@@ -76,13 +76,6 @@ I⁺, II⁺, III⁺, IV⁺, V⁺, VI⁺
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | -1 | C# | C#, D#, E#, F##, G##, A##, C# | ![CSharpWholeTone](CircleOfFifthModeCSharpWholeTone.svg) | ![CSharpWholeTone](ChromaticCircleModeCSharpWholeTone.svg) |
-| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | -1 | Db | Db, Eb, F, G, A, B, Db | ![DFlatWholeTone](CircleOfFifthModeDFlatWholeTone.svg) | ![DFlatWholeTone](ChromaticCircleModeDFlatWholeTone.svg) |
-| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | -1 | D# | D#, E#, F##, G##, A##, B##, D# | ![DSharpWholeTone](CircleOfFifthModeDSharpWholeTone.svg) | ![DSharpWholeTone](ChromaticCircleModeDSharpWholeTone.svg) |
-| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | -1 | Eb | Eb, F, G, A, B, C#, Eb | ![EFlatWholeTone](CircleOfFifthModeEFlatWholeTone.svg) | ![EFlatWholeTone](ChromaticCircleModeEFlatWholeTone.svg) |
-| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | -1 | F | F, G, A, B, C#, D#, F | ![FNaturalWholeTone](CircleOfFifthModeFNaturalWholeTone.svg) | ![FNaturalWholeTone](ChromaticCircleModeFNaturalWholeTone.svg) |
-| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | -1 | G | G, A, B, C#, D#, E#, G | ![GNaturalWholeTone](CircleOfFifthModeGNaturalWholeTone.svg) | ![GNaturalWholeTone](ChromaticCircleModeGNaturalWholeTone.svg) |
-| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | -1 | A | A, B, C#, D#, E#, F##, A | ![ANaturalWholeTone](CircleOfFifthModeANaturalWholeTone.svg) | ![ANaturalWholeTone](ChromaticCircleModeANaturalWholeTone.svg) |
-| [1365](https://ianring.com/musictheory/scales/1365) | [WholeTone](ModeWholeTone.md) | -1 | B | B, C#, D#, E#, F##, G##, B | ![BNaturalWholeTone](CircleOfFifthModeBNaturalWholeTone.svg) | ![BNaturalWholeTone](ChromaticCircleModeBNaturalWholeTone.svg) |
 
 ## Chords
 

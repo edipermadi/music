@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CSharpDyritonic](ModeCSharpDyritonic.md)
+[Dyritonic](ModeDyritonic.md)
 
 ## Number
 
@@ -79,9 +79,8 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1099](https://ianring.com/musictheory/scales/1099) | [Dyritonic](ModeDyritonic.md) | -1 | C# | C#, D, E, G, B, C# | ![CSharpDyritonic](CircleOfFifthModeCSharpDyritonic.svg) | ![CSharpDyritonic](ChromaticCircleModeCSharpDyritonic.svg) |
-| [1099](https://ianring.com/musictheory/scales/1099) | [Dyritonic](ModeDyritonic.md) | -1 | Db | Db, D, E, G, B, Db | ![DFlatDyritonic](CircleOfFifthModeDFlatDyritonic.svg) | ![DFlatDyritonic](ChromaticCircleModeDFlatDyritonic.svg) |
-| [2597](https://ianring.com/musictheory/scales/2597) | [Koptitonic](ModeKoptitonic.md) | -1 | D | D, E, G, B, C#, D | ![DNaturalKoptitonic](CircleOfFifthModeDNaturalKoptitonic.svg) | ![DNaturalKoptitonic](ChromaticCircleModeDNaturalKoptitonic.svg) |
-| [1673](https://ianring.com/musictheory/scales/1673) | [Thocritonic](ModeThocritonic.md) | 5 | E | E, G, B, C#, D, E | ![ENaturalThocritonic](CircleOfFifthModeENaturalThocritonic.svg) | ![ENaturalThocritonic](ChromaticCircleModeENaturalThocritonic.svg) |
+| [2597](https://ianring.com/musictheory/scales/2597) | [Koptitonic](ModeKoptitonic.md) | 4 | D | D, E, G, B, C#, D | ![DNaturalKoptitonic](CircleOfFifthModeDNaturalKoptitonic.svg) | ![DNaturalKoptitonic](ChromaticCircleModeDNaturalKoptitonic.svg) |
+| [1673](https://ianring.com/musictheory/scales/1673) | [Thocritonic](ModeThocritonic.md) | -1 | E | E, G, B, C#, D, E | ![ENaturalThocritonic](CircleOfFifthModeENaturalThocritonic.svg) | ![ENaturalThocritonic](ChromaticCircleModeENaturalThocritonic.svg) |
 | [721](https://ianring.com/musictheory/scales/721) | [Aeolacritonic](ModeAeolacritonic.md) | 5 | G | G, B, C#, D, E, G | ![GNaturalAeolacritonic](CircleOfFifthModeGNaturalAeolacritonic.svg) | ![GNaturalAeolacritonic](ChromaticCircleModeGNaturalAeolacritonic.svg) |
 | [301](https://ianring.com/musictheory/scales/301) | [Zythitonic](ModeZythitonic.md) | -1 | B | B, C#, D, E, G, B | ![BNaturalZythitonic](CircleOfFifthModeBNaturalZythitonic.svg) | ![BNaturalZythitonic](ChromaticCircleModeBNaturalZythitonic.svg) |
 

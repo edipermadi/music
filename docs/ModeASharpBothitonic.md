@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ASharpBothitonic](ModeASharpBothitonic.md)
+[Bothitonic](ModeBothitonic.md)
 
 ## Number
 
@@ -79,12 +79,10 @@ I⁺
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | -1 | A# | A#, C, D, E, F#, A# | ![ASharpBothitonic](CircleOfFifthModeASharpBothitonic.svg) | ![ASharpBothitonic](ChromaticCircleModeASharpBothitonic.svg) |
-| [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | -1 | Bb | Bb, C, D, E, Gb, Bb | ![BFlatBothitonic](CircleOfFifthModeBFlatBothitonic.svg) | ![BFlatBothitonic](ChromaticCircleModeBFlatBothitonic.svg) |
 | [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | -1 | C | C, D, E, F#, A#, C | ![CNaturalKataditonic](CircleOfFifthModeCNaturalKataditonic.svg) | ![CNaturalKataditonic](ChromaticCircleModeCNaturalKataditonic.svg) |
 | [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | -1 | D | D, E, F#, A#, C, D | ![DNaturalKoditonic](CircleOfFifthModeDNaturalKoditonic.svg) | ![DNaturalKoditonic](ChromaticCircleModeDNaturalKoditonic.svg) |
 | [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | -1 | E | E, F#, A#, C, D, E | ![ENaturalTholitonic](CircleOfFifthModeENaturalTholitonic.svg) | ![ENaturalTholitonic](ChromaticCircleModeENaturalTholitonic.svg) |
 | [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | F# | F#, A#, C, D, E, F# | ![FSharpBolitonic](CircleOfFifthModeFSharpBolitonic.svg) | ![FSharpBolitonic](ChromaticCircleModeFSharpBolitonic.svg) |
-| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | Gb | Gb, Bb, C, D, E, Gb | ![GFlatBolitonic](CircleOfFifthModeGFlatBolitonic.svg) | ![GFlatBolitonic](ChromaticCircleModeGFlatBolitonic.svg) |
 
 ## Chords
 

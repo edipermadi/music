@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalMixolydyllic](ModeBNaturalMixolydyllic.md)
+[Mixolydyllic](ModeMixolydyllic.md)
 
 ## Number
 
@@ -89,10 +89,8 @@ C
 | [1215](https://ianring.com/musictheory/scales/1215) | [Aeolanyllic](ModeAeolanyllic.md) | 5 | E | E, F, F#, G, G#, A, B, D, E | ![ENaturalAeolanyllic](CircleOfFifthModeENaturalAeolanyllic.svg) | ![ENaturalAeolanyllic](ChromaticCircleModeENaturalAeolanyllic.svg) |
 | [2655](https://ianring.com/musictheory/scales/2655) | [Thocryllic](ModeThocryllic.md) | -1 | F | F, F#, G, G#, A, B, D, E, F | ![FNaturalThocryllic](CircleOfFifthModeFNaturalThocryllic.svg) | ![FNaturalThocryllic](ChromaticCircleModeFNaturalThocryllic.svg) |
 | [3375](https://ianring.com/musictheory/scales/3375) | [Kygyllic](ModeKygyllic.md) | 3 | F# | F#, G, G#, A, B, D, E, F, F# | ![FSharpKygyllic](CircleOfFifthModeFSharpKygyllic.svg) | ![FSharpKygyllic](ChromaticCircleModeFSharpKygyllic.svg) |
-| [3375](https://ianring.com/musictheory/scales/3375) | [Kygyllic](ModeKygyllic.md) | 3 | Gb | Gb, G, Ab, A, B, D, E, F, Gb | ![GFlatKygyllic](CircleOfFifthModeGFlatKygyllic.svg) | ![GFlatKygyllic](ChromaticCircleModeGFlatKygyllic.svg) |
 | [3735](https://ianring.com/musictheory/scales/3735) | [Ionagyllic](ModeIonagyllic.md) | 8 | G | G, G#, A, B, D, E, F, F#, G | ![GNaturalIonagyllic](CircleOfFifthModeGNaturalIonagyllic.svg) | ![GNaturalIonagyllic](ChromaticCircleModeGNaturalIonagyllic.svg) |
 | [3915](https://ianring.com/musictheory/scales/3915) | [Gogyllic](ModeGogyllic.md) | -1 | G# | G#, A, B, D, E, F, F#, G, G# | ![GSharpGogyllic](CircleOfFifthModeGSharpGogyllic.svg) | ![GSharpGogyllic](ChromaticCircleModeGSharpGogyllic.svg) |
-| [3915](https://ianring.com/musictheory/scales/3915) | [Gogyllic](ModeGogyllic.md) | -1 | Ab | Ab, A, B, D, E, F, Gb, G, Ab | ![AFlatGogyllic](CircleOfFifthModeAFlatGogyllic.svg) | ![AFlatGogyllic](ChromaticCircleModeAFlatGogyllic.svg) |
 | [4005](https://ianring.com/musictheory/scales/4005) | [Phradyllic](ModePhradyllic.md) | 6 | A | A, B, D, E, F, F#, G, G#, A | ![ANaturalPhradyllic](CircleOfFifthModeANaturalPhradyllic.svg) | ![ANaturalPhradyllic](ChromaticCircleModeANaturalPhradyllic.svg) |
 
 ## Chords

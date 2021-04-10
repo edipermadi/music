@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalDycrimic](ModeANaturalDycrimic.md)
+[Dycrimic](ModeDycrimic.md)
 
 ## Number
 
@@ -84,11 +84,8 @@ i⁰
 | [1175](https://ianring.com/musictheory/scales/1175) | [Epycrimic](ModeEpycrimic.md) | 6 | B | B, C, Db, Eb, F#, G##, B | ![BNaturalEpycrimic](CircleOfFifthModeBNaturalEpycrimic.svg) | ![BNaturalEpycrimic](ChromaticCircleModeBNaturalEpycrimic.svg) |
 | [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | -1 | C | C, Db, Eb, F#, G##, A##, C | ![CNaturalGocrimic](CircleOfFifthModeCNaturalGocrimic.svg) | ![CNaturalGocrimic](ChromaticCircleModeCNaturalGocrimic.svg) |
 | [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | 4 | C# | C#, D#, E##, Cbbb, Dbbb, Dbb, C# | ![CSharpKatolimic](CircleOfFifthModeCSharpKatolimic.svg) | ![CSharpKatolimic](ChromaticCircleModeCSharpKatolimic.svg) |
-| [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | 4 | Db | Db, Eb, F#, G##, A##, B#, Db | ![DFlatKatolimic](CircleOfFifthModeDFlatKatolimic.svg) | ![DFlatKatolimic](ChromaticCircleModeDFlatKatolimic.svg) |
 | [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | -1 | D# | D#, E##, Cbbb, Dbbb, Dbb, Ebbb, D# | ![DSharpThagimic](CircleOfFifthModeDSharpThagimic.svg) | ![DSharpThagimic](ChromaticCircleModeDSharpThagimic.svg) |
-| [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | -1 | Eb | Eb, F#, G##, A##, B#, C#, Eb | ![EFlatThagimic](CircleOfFifthModeEFlatThagimic.svg) | ![EFlatThagimic](ChromaticCircleModeEFlatThagimic.svg) |
 | [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | 5 | F# | F#, G##, A##, B#, C#, D#, F# | ![FSharpKolimic](CircleOfFifthModeFSharpKolimic.svg) | ![FSharpKolimic](ChromaticCircleModeFSharpKolimic.svg) |
-| [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | 5 | Gb | Gb, A, B, C, Db, Eb, Gb | ![GFlatKolimic](CircleOfFifthModeGFlatKolimic.svg) | ![GFlatKolimic](ChromaticCircleModeGFlatKolimic.svg) |
 
 ## Chords
 

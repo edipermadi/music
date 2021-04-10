@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ASharpPylian](ModeASharpPylian.md)
+[Pylian](ModePylian.md)
 
 ## Number
 
@@ -83,11 +83,9 @@ II⁺, IV, Vb5, vii⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | 6 | A# | A#, B, C, D#, E#, F##, G##, A# | ![ASharpPylian](CircleOfFifthModeASharpPylian.svg) | ![ASharpPylian](ChromaticCircleModeASharpPylian.svg) |
-| [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | 6 | Bb | Bb, Cb, Dbb, Eb, F, G, A, Bb | ![BFlatPylian](CircleOfFifthModeBFlatPylian.svg) | ![BFlatPylian](ChromaticCircleModeBFlatPylian.svg) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | B | B, C, D#, E#, F##, G##, A#, B | ![BNaturalIonathian](CircleOfFifthModeBNaturalIonathian.svg) | ![BNaturalIonathian](ChromaticCircleModeBNaturalIonathian.svg) |
 | [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | 4 | C | C, D#, E#, F##, G##, A#, B, C | ![CNaturalPhraptian](CircleOfFifthModeCNaturalPhraptian.svg) | ![CNaturalPhraptian](ChromaticCircleModeCNaturalPhraptian.svg) |
 | [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | 7 | D# | D#, E#, F##, G##, A#, B, C, D# | ![DSharpBacrian](CircleOfFifthModeDSharpBacrian.svg) | ![DSharpBacrian](ChromaticCircleModeDSharpBacrian.svg) |
-| [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | 7 | Eb | Eb, F, G, A, Bb, Cb, Dbb, Eb | ![EFlatBacrian](CircleOfFifthModeEFlatBacrian.svg) | ![EFlatBacrian](ChromaticCircleModeEFlatBacrian.svg) |
 | [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | 5 | F | F, G, A, Bb, Cb, Dbb, Eb, F | ![FNaturalKatythian](CircleOfFifthModeFNaturalKatythian.svg) | ![FNaturalKatythian](ChromaticCircleModeFNaturalKatythian.svg) |
 | [1341](https://ianring.com/musictheory/scales/1341) | [Madian](ModeMadian.md) | 3 | G | G, A, Bb, Cb, Dbb, Eb, F, G | ![GNaturalMadian](CircleOfFifthModeGNaturalMadian.svg) | ![GNaturalMadian](ChromaticCircleModeGNaturalMadian.svg) |
 | [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeAerygian.md) | -1 | A | A, Bb, Cb, Dbb, Eb, F, G, A | ![ANaturalAerygian](CircleOfFifthModeANaturalAerygian.svg) | ![ANaturalAerygian](ChromaticCircleModeANaturalAerygian.svg) |

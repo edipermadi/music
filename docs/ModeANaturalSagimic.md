@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalSagimic](ModeANaturalSagimic.md)
+[Sagimic](ModeSagimic.md)
 
 ## Number
 
@@ -82,11 +82,9 @@ v⁰, vi
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1579](https://ianring.com/musictheory/scales/1579) | [Sagimic](ModeSagimic.md) | 3 | A | A, Bb, C, D, E##, F##, A | ![ANaturalSagimic](CircleOfFifthModeANaturalSagimic.svg) | ![ANaturalSagimic](ChromaticCircleModeANaturalSagimic.svg) |
 | [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeAelothimic.md) | -1 | A# | A#, B#, C##, E##, F##, G##, A# | ![ASharpAelothimic](CircleOfFifthModeASharpAelothimic.svg) | ![ASharpAelothimic](ChromaticCircleModeASharpAelothimic.svg) |
-| [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeAelothimic.md) | -1 | Bb | Bb, C, D, E##, F##, G##, Bb | ![BFlatAelothimic](CircleOfFifthModeBFlatAelothimic.svg) | ![BFlatAelothimic](ChromaticCircleModeBFlatAelothimic.svg) |
 | [1733](https://ianring.com/musictheory/scales/1733) | [Socrimic](ModeSocrimic.md) | 6 | C | C, D, E##, F##, G##, A#, C | ![CNaturalSocrimic](CircleOfFifthModeCNaturalSocrimic.svg) | ![CNaturalSocrimic](ChromaticCircleModeCNaturalSocrimic.svg) |
 | [1457](https://ianring.com/musictheory/scales/1457) | [Modimic](ModeModimic.md) | 4 | D | D, E##, F##, G##, A#, B#, D | ![DNaturalModimic](CircleOfFifthModeDNaturalModimic.svg) | ![DNaturalModimic](ChromaticCircleModeDNaturalModimic.svg) |
 | [347](https://ianring.com/musictheory/scales/347) | [Barimic](ModeBarimic.md) | -1 | F# | F#, G, A, Bb, C, D, F# | ![FSharpBarimic](CircleOfFifthModeFSharpBarimic.svg) | ![FSharpBarimic](ChromaticCircleModeFSharpBarimic.svg) |
-| [347](https://ianring.com/musictheory/scales/347) | [Barimic](ModeBarimic.md) | -1 | Gb | Gb, Abb, Bbb, Cbb, Dbb, Ebb, Gb | ![GFlatBarimic](CircleOfFifthModeGFlatBarimic.svg) | ![GFlatBarimic](ChromaticCircleModeGFlatBarimic.svg) |
 | [2221](https://ianring.com/musictheory/scales/2221) | [Poptimic](ModePoptimic.md) | 5 | G | G, A, Bb, C, D, E##, G | ![GNaturalPoptimic](CircleOfFifthModeGNaturalPoptimic.svg) | ![GNaturalPoptimic](ChromaticCircleModeGNaturalPoptimic.svg) |
 
 ## Chords

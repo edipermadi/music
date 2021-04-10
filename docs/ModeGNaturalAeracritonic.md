@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalAeracritonic](ModeGNaturalAeracritonic.md)
+[Aeracritonic](ModeAeracritonic.md)
 
 ## Number
 

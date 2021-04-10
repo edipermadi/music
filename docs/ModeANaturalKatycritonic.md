@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalKatycritonic](ModeANaturalKatycritonic.md)
+[Katycritonic](ModeKatycritonic.md)
 
 ## Number
 
@@ -82,9 +82,7 @@ C
 | [589](https://ianring.com/musictheory/scales/589) | [Ionalitonic](ModeIonalitonic.md) | -1 | C | C, D, D#, F#, A, C | ![CNaturalIonalitonic](CircleOfFifthModeCNaturalIonalitonic.svg) | ![CNaturalIonalitonic](ChromaticCircleModeCNaturalIonalitonic.svg) |
 | [1171](https://ianring.com/musictheory/scales/1171) | [Loptitonic](ModeLoptitonic.md) | 5 | D | D, D#, F#, A, C, D | ![DNaturalLoptitonic](CircleOfFifthModeDNaturalLoptitonic.svg) | ![DNaturalLoptitonic](ChromaticCircleModeDNaturalLoptitonic.svg) |
 | [2633](https://ianring.com/musictheory/scales/2633) | [Mixitonic](ModeMixitonic.md) | -1 | D# | D#, F#, A, C, D, D# | ![DSharpMixitonic](CircleOfFifthModeDSharpMixitonic.svg) | ![DSharpMixitonic](ChromaticCircleModeDSharpMixitonic.svg) |
-| [2633](https://ianring.com/musictheory/scales/2633) | [Mixitonic](ModeMixitonic.md) | -1 | Eb | Eb, Gb, A, C, D, Eb | ![EFlatMixitonic](CircleOfFifthModeEFlatMixitonic.svg) | ![EFlatMixitonic](ChromaticCircleModeEFlatMixitonic.svg) |
 | [841](https://ianring.com/musictheory/scales/841) | [Phrothitonic](ModePhrothitonic.md) | -1 | F# | F#, A, C, D, D#, F# | ![FSharpPhrothitonic](CircleOfFifthModeFSharpPhrothitonic.svg) | ![FSharpPhrothitonic](ChromaticCircleModeFSharpPhrothitonic.svg) |
-| [841](https://ianring.com/musictheory/scales/841) | [Phrothitonic](ModePhrothitonic.md) | -1 | Gb | Gb, A, C, D, Eb, Gb | ![GFlatPhrothitonic](CircleOfFifthModeGFlatPhrothitonic.svg) | ![GFlatPhrothitonic](ChromaticCircleModeGFlatPhrothitonic.svg) |
 
 ## Chords
 

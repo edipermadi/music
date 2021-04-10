@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalThonitonic](ModeFNaturalThonitonic.md)
+[Thonitonic](ModeThonitonic.md)
 
 ## Number
 

@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DFlatMinorDiminished](ModeDFlatMinorDiminished.md)
+[MinorDiminished](ModeMinorDiminished.md)
 
 ## Number
 
@@ -73,22 +73,13 @@ i⁰, ii⁰, iii⁰, iv⁰, v⁰, vi⁰, vii⁰, viii⁰
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | -1 | C# | C#, D, E, F, G, G#, A#, B, C# | ![CSharpMinorDiminished](ModeCSharpMinorDiminished.png) |
-| [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | -1 | D | D, E, F, G, G#, A#, B, C#, D | ![DNaturalMajorDiminished](ModeDNaturalMajorDiminished.png) |
+| [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | 7 | D | D, E, F, G, G#, A#, B, C#, D | ![DNaturalMajorDiminished](ModeDNaturalMajorDiminished.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | -1 | C# | C#, D, E, F, G, G#, A#, B, C# | ![CSharpMinorDiminished](CircleOfFifthModeCSharpMinorDiminished.svg) | ![CSharpMinorDiminished](ChromaticCircleModeCSharpMinorDiminished.svg) |
-| [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | -1 | Db | Db, D, E, F, G, Ab, Bb, B, Db | ![DFlatMinorDiminished](CircleOfFifthModeDFlatMinorDiminished.svg) | ![DFlatMinorDiminished](ChromaticCircleModeDFlatMinorDiminished.svg) |
 | [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | -1 | D | D, E, F, G, G#, A#, B, C#, D | ![DNaturalMajorDiminished](CircleOfFifthModeDNaturalMajorDiminished.svg) | ![DNaturalMajorDiminished](ChromaticCircleModeDNaturalMajorDiminished.svg) |
-| [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | -1 | E | E, F, G, G#, A#, B, C#, D, E | ![ENaturalMinorDiminished](CircleOfFifthModeENaturalMinorDiminished.svg) | ![ENaturalMinorDiminished](ChromaticCircleModeENaturalMinorDiminished.svg) |
-| [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | -1 | F | F, G, G#, A#, B, C#, D, E, F | ![FNaturalMajorDiminished](CircleOfFifthModeFNaturalMajorDiminished.svg) | ![FNaturalMajorDiminished](ChromaticCircleModeFNaturalMajorDiminished.svg) |
-| [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | 8 | G | G, G#, A#, B, C#, D, E, F, G | ![GNaturalMinorDiminished](CircleOfFifthModeGNaturalMinorDiminished.svg) | ![GNaturalMinorDiminished](ChromaticCircleModeGNaturalMinorDiminished.svg) |
-| [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | -1 | G# | G#, A#, B, C#, D, E, F, G, G# | ![GSharpMajorDiminished](CircleOfFifthModeGSharpMajorDiminished.svg) | ![GSharpMajorDiminished](ChromaticCircleModeGSharpMajorDiminished.svg) |
-| [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | -1 | Ab | Ab, Bb, B, Db, D, E, F, G, Ab | ![AFlatMajorDiminished](CircleOfFifthModeAFlatMajorDiminished.svg) | ![AFlatMajorDiminished](ChromaticCircleModeAFlatMajorDiminished.svg) |
-| [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | -1 | A# | A#, B, C#, D, E, F, G, G#, A# | ![ASharpMinorDiminished](CircleOfFifthModeASharpMinorDiminished.svg) | ![ASharpMinorDiminished](ChromaticCircleModeASharpMinorDiminished.svg) |
-| [1755](https://ianring.com/musictheory/scales/1755) | [MinorDiminished](ModeMinorDiminished.md) | -1 | Bb | Bb, B, Db, D, E, F, G, Ab, Bb | ![BFlatMinorDiminished](CircleOfFifthModeBFlatMinorDiminished.svg) | ![BFlatMinorDiminished](ChromaticCircleModeBFlatMinorDiminished.svg) |
-| [2925](https://ianring.com/musictheory/scales/2925) | [MajorDiminished](ModeMajorDiminished.md) | 7 | B | B, C#, D, E, F, G, G#, A#, B | ![BNaturalMajorDiminished](CircleOfFifthModeBNaturalMajorDiminished.svg) | ![BNaturalMajorDiminished](ChromaticCircleModeBNaturalMajorDiminished.svg) |
 
 ## Chords
 

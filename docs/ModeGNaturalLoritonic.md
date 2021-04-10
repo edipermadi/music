@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalLoritonic](ModeGNaturalLoritonic.md)
+[Loritonic](ModeLoritonic.md)
 
 ## Number
 
@@ -21,7 +21,7 @@
 
 ## Luminosity
 
--1
+4
 
 ## Tonic
 
@@ -80,10 +80,8 @@ III⁺
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [803](https://ianring.com/musictheory/scales/803) | [Loritonic](ModeLoritonic.md) | 4 | G | G, G#, C, D#, E, G | ![GNaturalLoritonic](CircleOfFifthModeGNaturalLoritonic.svg) | ![GNaturalLoritonic](ChromaticCircleModeGNaturalLoritonic.svg) |
 | [2449](https://ianring.com/musictheory/scales/2449) | [Zacritonic](ModeZacritonic.md) | 5 | G# | G#, C, D#, E, G, G# | ![GSharpZacritonic](CircleOfFifthModeGSharpZacritonic.svg) | ![GSharpZacritonic](ChromaticCircleModeGSharpZacritonic.svg) |
-| [2449](https://ianring.com/musictheory/scales/2449) | [Zacritonic](ModeZacritonic.md) | -1 | Ab | Ab, C, Eb, E, G, Ab | ![AFlatZacritonic](CircleOfFifthModeAFlatZacritonic.svg) | ![AFlatZacritonic](ChromaticCircleModeAFlatZacritonic.svg) |
 | [409](https://ianring.com/musictheory/scales/409) | [Laritonic](ModeLaritonic.md) | -1 | C | C, D#, E, G, G#, C | ![CNaturalLaritonic](CircleOfFifthModeCNaturalLaritonic.svg) | ![CNaturalLaritonic](ChromaticCircleModeCNaturalLaritonic.svg) |
-| [563](https://ianring.com/musictheory/scales/563) | [Thacritonic](ModeThacritonic.md) | -1 | D# | D#, E, G, G#, C, D# | ![DSharpThacritonic](CircleOfFifthModeDSharpThacritonic.svg) | ![DSharpThacritonic](ChromaticCircleModeDSharpThacritonic.svg) |
-| [563](https://ianring.com/musictheory/scales/563) | [Thacritonic](ModeThacritonic.md) | 4 | Eb | Eb, E, G, Ab, C, Eb | ![EFlatThacritonic](CircleOfFifthModeEFlatThacritonic.svg) | ![EFlatThacritonic](ChromaticCircleModeEFlatThacritonic.svg) |
+| [563](https://ianring.com/musictheory/scales/563) | [Thacritonic](ModeThacritonic.md) | 4 | D# | D#, E, G, G#, C, D# | ![DSharpThacritonic](CircleOfFifthModeDSharpThacritonic.svg) | ![DSharpThacritonic](ChromaticCircleModeDSharpThacritonic.svg) |
 | [2329](https://ianring.com/musictheory/scales/2329) | [Styditonic](ModeStyditonic.md) | -1 | E | E, G, G#, C, D#, E | ![ENaturalStyditonic](CircleOfFifthModeENaturalStyditonic.svg) | ![ENaturalStyditonic](ChromaticCircleModeENaturalStyditonic.svg) |
 
 ## Chords

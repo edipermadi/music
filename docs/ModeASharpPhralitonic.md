@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ASharpPhralitonic](ModeASharpPhralitonic.md)
+[Phralitonic](ModePhralitonic.md)
 
 ## Number
 
@@ -79,10 +79,8 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [613](https://ianring.com/musictheory/scales/613) | [Phralitonic](ModePhralitonic.md) | -1 | A# | A#, C, D#, E, G, A# | ![ASharpPhralitonic](CircleOfFifthModeASharpPhralitonic.svg) | ![ASharpPhralitonic](ChromaticCircleModeASharpPhralitonic.svg) |
-| [613](https://ianring.com/musictheory/scales/613) | [Phralitonic](ModePhralitonic.md) | -1 | Bb | Bb, C, Eb, E, G, Bb | ![BFlatPhralitonic](CircleOfFifthModeBFlatPhralitonic.svg) | ![BFlatPhralitonic](ChromaticCircleModeBFlatPhralitonic.svg) |
 | [1177](https://ianring.com/musictheory/scales/1177) | [Garitonic](ModeGaritonic.md) | -1 | C | C, D#, E, G, A#, C | ![CNaturalGaritonic](CircleOfFifthModeCNaturalGaritonic.svg) | ![CNaturalGaritonic](ChromaticCircleModeCNaturalGaritonic.svg) |
-| [659](https://ianring.com/musictheory/scales/659) | [Soptitonic](ModeSoptitonic.md) | -1 | D# | D#, E, G, A#, C, D# | ![DSharpSoptitonic](CircleOfFifthModeDSharpSoptitonic.svg) | ![DSharpSoptitonic](ChromaticCircleModeDSharpSoptitonic.svg) |
-| [659](https://ianring.com/musictheory/scales/659) | [Soptitonic](ModeSoptitonic.md) | 5 | Eb | Eb, E, G, Bb, C, Eb | ![EFlatSoptitonic](CircleOfFifthModeEFlatSoptitonic.svg) | ![EFlatSoptitonic](ChromaticCircleModeEFlatSoptitonic.svg) |
+| [659](https://ianring.com/musictheory/scales/659) | [Soptitonic](ModeSoptitonic.md) | 5 | D# | D#, E, G, A#, C, D# | ![DSharpSoptitonic](CircleOfFifthModeDSharpSoptitonic.svg) | ![DSharpSoptitonic](ChromaticCircleModeDSharpSoptitonic.svg) |
 | [2377](https://ianring.com/musictheory/scales/2377) | [Thoditonic](ModeThoditonic.md) | -1 | E | E, G, A#, C, D#, E | ![ENaturalThoditonic](CircleOfFifthModeENaturalThoditonic.svg) | ![ENaturalThoditonic](ChromaticCircleModeENaturalThoditonic.svg) |
 | [809](https://ianring.com/musictheory/scales/809) | [Dogitonic](ModeDogitonic.md) | -1 | G | G, A#, C, D#, E, G | ![GNaturalDogitonic](CircleOfFifthModeGNaturalDogitonic.svg) | ![GNaturalDogitonic](ChromaticCircleModeGNaturalDogitonic.svg) |
 

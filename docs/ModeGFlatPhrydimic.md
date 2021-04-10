@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GFlatPhrydimic](ModeGFlatPhrydimic.md)
+[Phrydimic](ModePhrydimic.md)
 
 ## Number
 
@@ -81,12 +81,10 @@ i, vi⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [2219](https://ianring.com/musictheory/scales/2219) | [Phrydimic](ModePhrydimic.md) | 5 | F# | F#, G, A, B, C#, D###, F# | ![FSharpPhrydimic](CircleOfFifthModeFSharpPhrydimic.svg) | ![FSharpPhrydimic](ChromaticCircleModeFSharpPhrydimic.svg) |
-| [2219](https://ianring.com/musictheory/scales/2219) | [Phrydimic](ModePhrydimic.md) | 5 | Gb | Gb, Abb, Bbb, Cb, Db, E#, Gb | ![GFlatPhrydimic](CircleOfFifthModeGFlatPhrydimic.svg) | ![GFlatPhrydimic](ChromaticCircleModeGFlatPhrydimic.svg) |
 | [3157](https://ianring.com/musictheory/scales/3157) | [Zyptimic](ModeZyptimic.md) | -1 | G | G, A, B, C#, D###, E##, G | ![GNaturalZyptimic](CircleOfFifthModeGNaturalZyptimic.svg) | ![GNaturalZyptimic](ChromaticCircleModeGNaturalZyptimic.svg) |
 | [1813](https://ianring.com/musictheory/scales/1813) | [Katothimic](ModeKatothimic.md) | -1 | A | A, B, C#, D###, E##, F##, A | ![ANaturalKatothimic](CircleOfFifthModeANaturalKatothimic.svg) | ![ANaturalKatothimic](ChromaticCircleModeANaturalKatothimic.svg) |
 | [1477](https://ianring.com/musictheory/scales/1477) | [Phrylimic](ModePhrylimic.md) | 6 | B | B, C#, D###, E##, F##, G##, B | ![BNaturalPhrylimic](CircleOfFifthModeBNaturalPhrylimic.svg) | ![BNaturalPhrylimic](ChromaticCircleModeBNaturalPhrylimic.svg) |
 | [1393](https://ianring.com/musictheory/scales/1393) | [Mycrimic](ModeMycrimic.md) | 4 | C# | C#, D###, E##, F##, G##, A##, C# | ![CSharpMycrimic](CircleOfFifthModeCSharpMycrimic.svg) | ![CSharpMycrimic](ChromaticCircleModeCSharpMycrimic.svg) |
-| [1393](https://ianring.com/musictheory/scales/1393) | [Mycrimic](ModeMycrimic.md) | 4 | Db | Db, E#, F#, G, A, B, Db | ![DFlatMycrimic](CircleOfFifthModeDFlatMycrimic.svg) | ![DFlatMycrimic](ChromaticCircleModeDFlatMycrimic.svg) |
 | [343](https://ianring.com/musictheory/scales/343) | [Ionorimic](ModeIonorimic.md) | -1 | F | F, Gb, Abb, Bbb, Cb, Db, F | ![FNaturalIonorimic](CircleOfFifthModeFNaturalIonorimic.svg) | ![FNaturalIonorimic](ChromaticCircleModeFNaturalIonorimic.svg) |
 
 ## Chords

@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalMynimic](ModeGNaturalMynimic.md)
+[Mynimic](ModeMynimic.md)
 
 ## Number
 

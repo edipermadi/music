@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FSharpMixitonic](ModeFSharpMixitonic.md)
+[Mixitonic](ModeMixitonic.md)
 
 ## Number
 
@@ -79,11 +79,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [2633](https://ianring.com/musictheory/scales/2633) | [Mixitonic](ModeMixitonic.md) | -1 | F# | F#, A, C, D#, F, F# | ![FSharpMixitonic](CircleOfFifthModeFSharpMixitonic.svg) | ![FSharpMixitonic](ChromaticCircleModeFSharpMixitonic.svg) |
-| [2633](https://ianring.com/musictheory/scales/2633) | [Mixitonic](ModeMixitonic.md) | -1 | Gb | Gb, A, C, Eb, F, Gb | ![GFlatMixitonic](CircleOfFifthModeGFlatMixitonic.svg) | ![GFlatMixitonic](ChromaticCircleModeGFlatMixitonic.svg) |
 | [841](https://ianring.com/musictheory/scales/841) | [Phrothitonic](ModePhrothitonic.md) | -1 | A | A, C, D#, F, F#, A | ![ANaturalPhrothitonic](CircleOfFifthModeANaturalPhrothitonic.svg) | ![ANaturalPhrothitonic](ChromaticCircleModeANaturalPhrothitonic.svg) |
 | [617](https://ianring.com/musictheory/scales/617) | [Katycritonic](ModeKatycritonic.md) | 4 | C | C, D#, F, F#, A, C | ![CNaturalKatycritonic](CircleOfFifthModeCNaturalKatycritonic.svg) | ![CNaturalKatycritonic](ChromaticCircleModeCNaturalKatycritonic.svg) |
 | [589](https://ianring.com/musictheory/scales/589) | [Ionalitonic](ModeIonalitonic.md) | -1 | D# | D#, F, F#, A, C, D# | ![DSharpIonalitonic](CircleOfFifthModeDSharpIonalitonic.svg) | ![DSharpIonalitonic](ChromaticCircleModeDSharpIonalitonic.svg) |
-| [589](https://ianring.com/musictheory/scales/589) | [Ionalitonic](ModeIonalitonic.md) | -1 | Eb | Eb, F, Gb, A, C, Eb | ![EFlatIonalitonic](CircleOfFifthModeEFlatIonalitonic.svg) | ![EFlatIonalitonic](ChromaticCircleModeEFlatIonalitonic.svg) |
 | [1171](https://ianring.com/musictheory/scales/1171) | [Loptitonic](ModeLoptitonic.md) | 5 | F | F, F#, A, C, D#, F | ![FNaturalLoptitonic](CircleOfFifthModeFNaturalLoptitonic.svg) | ![FNaturalLoptitonic](ChromaticCircleModeFNaturalLoptitonic.svg) |
 
 ## Chords

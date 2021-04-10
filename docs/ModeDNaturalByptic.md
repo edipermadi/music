@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalByptic](ModeDNaturalByptic.md)
+[Byptic](ModeByptic.md)
 
 ## Number
 

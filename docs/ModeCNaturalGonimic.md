@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CNaturalGonimic](ModeCNaturalGonimic.md)
+[Gonimic](ModeGonimic.md)
 
 ## Number
 

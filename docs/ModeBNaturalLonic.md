@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalLonic](ModeBNaturalLonic.md)
+[Lonic](ModeLonic.md)
 
 ## Number
 

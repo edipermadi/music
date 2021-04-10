@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalRythian](ModeANaturalRythian.md)
+[Rythian](ModeRythian.md)
 
 ## Number
 
@@ -86,10 +86,8 @@ ii⁰, iv⁰
 | [733](https://ianring.com/musictheory/scales/733) | [Donian](ModeDonian.md) | 7 | C | C, D, Eb, Fb, Gb, Abb, Bbb, C | ![CNaturalDonian](CircleOfFifthModeCNaturalDonian.svg) | ![CNaturalDonian](ChromaticCircleModeCNaturalDonian.svg) |
 | [1207](https://ianring.com/musictheory/scales/1207) | [Aeoloptian](ModeAeoloptian.md) | 5 | D | D, Eb, Fb, Gb, Abb, Bbb, C, D | ![DNaturalAeoloptian](CircleOfFifthModeDNaturalAeoloptian.svg) | ![DNaturalAeoloptian](ChromaticCircleModeDNaturalAeoloptian.svg) |
 | [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | -1 | D# | D#, E, F#, G, A, B#, C##, D# | ![DSharpPanian](CircleOfFifthModeDSharpPanian.svg) | ![DSharpPanian](ChromaticCircleModeDSharpPanian.svg) |
-| [2651](https://ianring.com/musictheory/scales/2651) | [Panian](ModePanian.md) | -1 | Eb | Eb, Fb, Gb, Abb, Bbb, C, D, Eb | ![EFlatPanian](CircleOfFifthModeEFlatPanian.svg) | ![EFlatPanian](ChromaticCircleModeEFlatPanian.svg) |
 | [3373](https://ianring.com/musictheory/scales/3373) | [Lodian](ModeLodian.md) | 3 | E | E, F#, G, A, B#, C##, D#, E | ![ENaturalLodian](CircleOfFifthModeENaturalLodian.svg) | ![ENaturalLodian](ChromaticCircleModeENaturalLodian.svg) |
 | [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | -1 | F# | F#, G, A, B#, C##, D#, E, F# | ![FSharpSolian](CircleOfFifthModeFSharpSolian.svg) | ![FSharpSolian](ChromaticCircleModeFSharpSolian.svg) |
-| [1867](https://ianring.com/musictheory/scales/1867) | [Solian](ModeSolian.md) | -1 | Gb | Gb, Abb, Bbb, C, D, Eb, Fb, Gb | ![GFlatSolian](CircleOfFifthModeGFlatSolian.svg) | ![GFlatSolian](ChromaticCircleModeGFlatSolian.svg) |
 | [2981](https://ianring.com/musictheory/scales/2981) | [Ionolian](ModeIonolian.md) | 6 | G | G, A, B#, C##, D#, E, F#, G | ![GNaturalIonolian](CircleOfFifthModeGNaturalIonolian.svg) | ![GNaturalIonolian](ChromaticCircleModeGNaturalIonolian.svg) |
 
 ## Chords

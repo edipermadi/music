@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalGathitonic](ModeFNaturalGathitonic.md)
+[Gathitonic](ModeGathitonic.md)
 
 ## Number
 

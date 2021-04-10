@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CSharpPoditonic](ModeCSharpPoditonic.md)
+[Poditonic](ModePoditonic.md)
 
 ## Number
 
@@ -79,10 +79,8 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [279](https://ianring.com/musictheory/scales/279) | [Poditonic](ModePoditonic.md) | -1 | C# | C#, D, D#, F, A, C# | ![CSharpPoditonic](CircleOfFifthModeCSharpPoditonic.svg) | ![CSharpPoditonic](ChromaticCircleModeCSharpPoditonic.svg) |
-| [279](https://ianring.com/musictheory/scales/279) | [Poditonic](ModePoditonic.md) | -1 | Db | Db, D, Eb, F, A, Db | ![DFlatPoditonic](CircleOfFifthModeDFlatPoditonic.svg) | ![DFlatPoditonic](ChromaticCircleModeDFlatPoditonic.svg) |
 | [2187](https://ianring.com/musictheory/scales/2187) | [Ionothitonic](ModeIonothitonic.md) | 5 | D | D, D#, F, A, C#, D | ![DNaturalIonothitonic](CircleOfFifthModeDNaturalIonothitonic.svg) | ![DNaturalIonothitonic](ChromaticCircleModeDNaturalIonothitonic.svg) |
 | [3141](https://ianring.com/musictheory/scales/3141) | [Kanitonic](ModeKanitonic.md) | -1 | D# | D#, F, A, C#, D, D# | ![DSharpKanitonic](CircleOfFifthModeDSharpKanitonic.svg) | ![DSharpKanitonic](ChromaticCircleModeDSharpKanitonic.svg) |
-| [3141](https://ianring.com/musictheory/scales/3141) | [Kanitonic](ModeKanitonic.md) | -1 | Eb | Eb, F, A, Db, D, Eb | ![EFlatKanitonic](CircleOfFifthModeEFlatKanitonic.svg) | ![EFlatKanitonic](ChromaticCircleModeEFlatKanitonic.svg) |
 | [1809](https://ianring.com/musictheory/scales/1809) | [Ranitonic](ModeRanitonic.md) | -1 | F | F, A, C#, D, D#, F | ![FNaturalRanitonic](CircleOfFifthModeFNaturalRanitonic.svg) | ![FNaturalRanitonic](ChromaticCircleModeFNaturalRanitonic.svg) |
 | [369](https://ianring.com/musictheory/scales/369) | [Laditonic](ModeLaditonic.md) | 4 | A | A, C#, D, D#, F, A | ![ANaturalLaditonic](CircleOfFifthModeANaturalLaditonic.svg) | ![ANaturalLaditonic](ChromaticCircleModeANaturalLaditonic.svg) |
 

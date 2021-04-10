@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalAeraphic](ModeBNaturalAeraphic.md)
+[Aeraphic](ModeAeraphic.md)
 
 ## Number
 

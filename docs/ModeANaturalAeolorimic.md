@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalAeolorimic](ModeANaturalAeolorimic.md)
+[Aeolorimic](ModeAeolorimic.md)
 
 ## Number
 
@@ -82,10 +82,8 @@ IV, V
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1355](https://ianring.com/musictheory/scales/1355) | [Aeolorimic](ModeAeolorimic.md) | -1 | A | A, Bb, C, D#, E#, F##, A | ![ANaturalAeolorimic](CircleOfFifthModeANaturalAeolorimic.svg) | ![ANaturalAeolorimic](ChromaticCircleModeANaturalAeolorimic.svg) |
 | [2725](https://ianring.com/musictheory/scales/2725) | [Gonimic](ModeGonimic.md) | 5 | A# | A#, B#, C###, D###, E###, Cbbb, A# | ![ASharpGonimic](CircleOfFifthModeASharpGonimic.svg) | ![ASharpGonimic](ChromaticCircleModeASharpGonimic.svg) |
-| [2725](https://ianring.com/musictheory/scales/2725) | [Gonimic](ModeGonimic.md) | 5 | Bb | Bb, C, D#, E#, F##, G##, Bb | ![BFlatGonimic](CircleOfFifthModeBFlatGonimic.svg) | ![BFlatGonimic](ChromaticCircleModeBFlatGonimic.svg) |
 | [1705](https://ianring.com/musictheory/scales/1705) | [Darmic](ModeDarmic.md) | 3 | C | C, D#, E#, F##, G##, A#, C | ![CNaturalDarmic](CircleOfFifthModeCNaturalDarmic.svg) | ![CNaturalDarmic](ChromaticCircleModeCNaturalDarmic.svg) |
 | [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeLonimic.md) | 6 | D# | D#, E#, F##, G##, A#, B#, D# | ![DSharpLonimic](CircleOfFifthModeDSharpLonimic.svg) | ![DSharpLonimic](ChromaticCircleModeDSharpLonimic.svg) |
-| [725](https://ianring.com/musictheory/scales/725) | [Lonimic](ModeLonimic.md) | 6 | Eb | Eb, F, G, A, Bb, C, Eb | ![EFlatLonimic](CircleOfFifthModeEFlatLonimic.svg) | ![EFlatLonimic](ChromaticCircleModeEFlatLonimic.svg) |
 | [1205](https://ianring.com/musictheory/scales/1205) | [Ionycrimic](ModeIonycrimic.md) | 4 | F | F, G, A, Bb, C, D#, F | ![FNaturalIonycrimic](CircleOfFifthModeFNaturalIonycrimic.svg) | ![FNaturalIonycrimic](ChromaticCircleModeFNaturalIonycrimic.svg) |
 | [1325](https://ianring.com/musictheory/scales/1325) | [Phradimic](ModePhradimic.md) | 2 | G | G, A, Bb, C, D#, E#, G | ![GNaturalPhradimic](CircleOfFifthModeGNaturalPhradimic.svg) | ![GNaturalPhradimic](ChromaticCircleModeGNaturalPhradimic.svg) |
 

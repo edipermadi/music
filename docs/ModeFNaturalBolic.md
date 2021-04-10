@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalBolic](ModeFNaturalBolic.md)
+[Bolic](ModeBolic.md)
 
 ## Number
 

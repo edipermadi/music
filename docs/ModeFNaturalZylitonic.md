@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalZylitonic](ModeFNaturalZylitonic.md)
+[Zylitonic](ModeZylitonic.md)
 
 ## Number
 
@@ -81,9 +81,7 @@ C
 | [3345](https://ianring.com/musictheory/scales/3345) | [Zylitonic](ModeZylitonic.md) | -1 | F | F, A, C#, D#, E, F | ![FNaturalZylitonic](CircleOfFifthModeFNaturalZylitonic.svg) | ![FNaturalZylitonic](ChromaticCircleModeFNaturalZylitonic.svg) |
 | [465](https://ianring.com/musictheory/scales/465) | [Zoditonic](ModeZoditonic.md) | 5 | A | A, C#, D#, E, F, A | ![ANaturalZoditonic](CircleOfFifthModeANaturalZoditonic.svg) | ![ANaturalZoditonic](ChromaticCircleModeANaturalZoditonic.svg) |
 | [285](https://ianring.com/musictheory/scales/285) | [Zaritonic](ModeZaritonic.md) | -1 | C# | C#, D#, E, F, A, C# | ![CSharpZaritonic](CircleOfFifthModeCSharpZaritonic.svg) | ![CSharpZaritonic](ChromaticCircleModeCSharpZaritonic.svg) |
-| [285](https://ianring.com/musictheory/scales/285) | [Zaritonic](ModeZaritonic.md) | -1 | Db | Db, Eb, E, F, A, Db | ![DFlatZaritonic](CircleOfFifthModeDFlatZaritonic.svg) | ![DFlatZaritonic](ChromaticCircleModeDFlatZaritonic.svg) |
 | [1095](https://ianring.com/musictheory/scales/1095) | [Phrythitonic](ModePhrythitonic.md) | -1 | D# | D#, E, F, A, C#, D# | ![DSharpPhrythitonic](CircleOfFifthModeDSharpPhrythitonic.svg) | ![DSharpPhrythitonic](ChromaticCircleModeDSharpPhrythitonic.svg) |
-| [1095](https://ianring.com/musictheory/scales/1095) | [Phrythitonic](ModePhrythitonic.md) | -1 | Eb | Eb, E, F, A, Db, Eb | ![EFlatPhrythitonic](CircleOfFifthModeEFlatPhrythitonic.svg) | ![EFlatPhrythitonic](ChromaticCircleModeEFlatPhrythitonic.svg) |
 | [2595](https://ianring.com/musictheory/scales/2595) | [Rolitonic](ModeRolitonic.md) | 4 | E | E, F, A, C#, D#, E | ![ENaturalRolitonic](CircleOfFifthModeENaturalRolitonic.svg) | ![ENaturalRolitonic](ChromaticCircleModeENaturalRolitonic.svg) |
 
 ## Chords

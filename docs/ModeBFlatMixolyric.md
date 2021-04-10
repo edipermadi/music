@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BFlatMixolyric](ModeBFlatMixolyric.md)
+[Mixolyric](ModeMixolyric.md)
 
 ## Number
 
@@ -77,11 +77,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | -1 | A# | A#, C, D, F#, A# | ![ASharpMixolyric](CircleOfFifthModeASharpMixolyric.svg) | ![ASharpMixolyric](ChromaticCircleModeASharpMixolyric.svg) |
-| [277](https://ianring.com/musictheory/scales/277) | [Mixolyric](ModeMixolyric.md) | -1 | Bb | Bb, C, D, Gb, Bb | ![BFlatMixolyric](CircleOfFifthModeBFlatMixolyric.svg) | ![BFlatMixolyric](ChromaticCircleModeBFlatMixolyric.svg) |
 | [1093](https://ianring.com/musictheory/scales/1093) | [Lydic](ModeLydic.md) | -1 | C | C, D, F#, A#, C | ![CNaturalLydic](CircleOfFifthModeCNaturalLydic.svg) | ![CNaturalLydic](ChromaticCircleModeCNaturalLydic.svg) |
 | [1297](https://ianring.com/musictheory/scales/1297) | [Aeolic](ModeAeolic.md) | -1 | D | D, F#, A#, C, D | ![DNaturalAeolic](CircleOfFifthModeDNaturalAeolic.svg) | ![DNaturalAeolic](ChromaticCircleModeDNaturalAeolic.svg) |
 | [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | -1 | F# | F#, A#, C, D, F# | ![FSharpKoptic](CircleOfFifthModeFSharpKoptic.svg) | ![FSharpKoptic](ChromaticCircleModeFSharpKoptic.svg) |
-| [337](https://ianring.com/musictheory/scales/337) | [Koptic](ModeKoptic.md) | -1 | Gb | Gb, Bb, C, D, Gb | ![GFlatKoptic](CircleOfFifthModeGFlatKoptic.svg) | ![GFlatKoptic](ChromaticCircleModeGFlatKoptic.svg) |
 
 ## Chords
 

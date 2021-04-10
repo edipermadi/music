@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FSharpLocrian](ModeFSharpLocrian.md)
+[Locrian](ModeLocrian.md)
 
 ## Number
 
@@ -83,7 +83,6 @@ i⁰, II, iii, iv, V, VI, vii
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | 1 | F# | F#, G, A, B, C, D, E, F# | ![FSharpLocrian](CircleOfFifthModeFSharpLocrian.svg) | ![FSharpLocrian](ChromaticCircleModeFSharpLocrian.svg) |
-| [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | 1 | Gb | Gb, Abb, Bbb, Cb, Dbb, Ebb, Fb, Gb | ![GFlatLocrian](CircleOfFifthModeGFlatLocrian.svg) | ![GFlatLocrian](ChromaticCircleModeGFlatLocrian.svg) |
 | [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeIonian.md) | 6 | G | G, A, B, C, D, E, F#, G | ![GNaturalIonian](CircleOfFifthModeGNaturalIonian.svg) | ![GNaturalIonian](ChromaticCircleModeGNaturalIonian.svg) |
 | [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | 4 | A | A, B, C, D, E, F#, G, A | ![ANaturalDorian](CircleOfFifthModeANaturalDorian.svg) | ![ANaturalDorian](ChromaticCircleModeANaturalDorian.svg) |
 | [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | 2 | B | B, C, D, E, F#, G, A, B | ![BNaturalPhrygian](CircleOfFifthModeBNaturalPhrygian.svg) | ![BNaturalPhrygian](ChromaticCircleModeBNaturalPhrygian.svg) |

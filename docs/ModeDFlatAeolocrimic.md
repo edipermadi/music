@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DFlatAeolocrimic](ModeDFlatAeolocrimic.md)
+[Aeolocrimic](ModeAeolocrimic.md)
 
 ## Number
 
@@ -81,9 +81,7 @@ iv⁰, v⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [3349](https://ianring.com/musictheory/scales/3349) | [Aeolocrimic](ModeAeolocrimic.md) | -1 | C# | C#, D#, E#, Cbbb, Dbbb, Dbb, C# | ![CSharpAeolocrimic](CircleOfFifthModeCSharpAeolocrimic.svg) | ![CSharpAeolocrimic](ChromaticCircleModeCSharpAeolocrimic.svg) |
-| [3349](https://ianring.com/musictheory/scales/3349) | [Aeolocrimic](ModeAeolocrimic.md) | -1 | Db | Db, Eb, F, G##, A##, B#, Db | ![DFlatAeolocrimic](CircleOfFifthModeDFlatAeolocrimic.svg) | ![DFlatAeolocrimic](ChromaticCircleModeDFlatAeolocrimic.svg) |
 | [1861](https://ianring.com/musictheory/scales/1861) | [Phrygimic](ModePhrygimic.md) | -1 | D# | D#, E#, Cbbb, Dbbb, Dbb, Ebbb, D# | ![DSharpPhrygimic](CircleOfFifthModeDSharpPhrygimic.svg) | ![DSharpPhrygimic](ChromaticCircleModeDSharpPhrygimic.svg) |
-| [1861](https://ianring.com/musictheory/scales/1861) | [Phrygimic](ModePhrygimic.md) | -1 | Eb | Eb, F, G##, A##, B#, C#, Eb | ![EFlatPhrygimic](CircleOfFifthModeEFlatPhrygimic.svg) | ![EFlatPhrygimic](ChromaticCircleModeEFlatPhrygimic.svg) |
 | [1489](https://ianring.com/musictheory/scales/1489) | [Gacrimic](ModeGacrimic.md) | 6 | F | F, G##, A##, B#, C#, D#, F | ![FNaturalGacrimic](CircleOfFifthModeFNaturalGacrimic.svg) | ![FNaturalGacrimic](ChromaticCircleModeFNaturalGacrimic.svg) |
 | [349](https://ianring.com/musictheory/scales/349) | [Borimic](ModeBorimic.md) | -1 | A | A, B, C, Db, Eb, F, A | ![ANaturalBorimic](CircleOfFifthModeANaturalBorimic.svg) | ![ANaturalBorimic](ChromaticCircleModeANaturalBorimic.svg) |
 | [1111](https://ianring.com/musictheory/scales/1111) | [Sycrimic](ModeSycrimic.md) | -1 | B | B, C, Db, Eb, F, G##, B | ![BNaturalSycrimic](CircleOfFifthModeBNaturalSycrimic.svg) | ![BNaturalSycrimic](ChromaticCircleModeBNaturalSycrimic.svg) |

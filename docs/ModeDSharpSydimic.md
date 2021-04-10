@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DSharpSydimic](ModeDSharpSydimic.md)
+[Sydimic](ModeSydimic.md)
 
 ## Number
 
@@ -81,12 +81,10 @@ IIIb5, iv⁰
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [3397](https://ianring.com/musictheory/scales/3397) | [Sydimic](ModeSydimic.md) | -1 | D# | D#, E#, Cbbb, Dbbb, Ebbb, Fbbb, D# | ![DSharpSydimic](CircleOfFifthModeDSharpSydimic.svg) | ![DSharpSydimic](ChromaticCircleModeDSharpSydimic.svg) |
-| [3397](https://ianring.com/musictheory/scales/3397) | [Sydimic](ModeSydimic.md) | -1 | Eb | Eb, F, G##, A##, B##, C##, Eb | ![EFlatSydimic](CircleOfFifthModeEFlatSydimic.svg) | ![EFlatSydimic](ChromaticCircleModeEFlatSydimic.svg) |
 | [1873](https://ianring.com/musictheory/scales/1873) | [Dathimic](ModeDathimic.md) | -1 | F | F, G##, A##, B##, C##, D#, F | ![FNaturalDathimic](CircleOfFifthModeFNaturalDathimic.svg) | ![FNaturalDathimic](ChromaticCircleModeFNaturalDathimic.svg) |
 | [373](https://ianring.com/musictheory/scales/373) | [Epagimic](ModeEpagimic.md) | 5 | A | A, B, C#, D, Eb, F, A | ![ANaturalEpagimic](CircleOfFifthModeANaturalEpagimic.svg) | ![ANaturalEpagimic](ChromaticCircleModeANaturalEpagimic.svg) |
 | [1117](https://ianring.com/musictheory/scales/1117) | [Raptimic](ModeRaptimic.md) | -1 | B | B, C#, D, Eb, F, G##, B | ![BNaturalRaptimic](CircleOfFifthModeBNaturalRaptimic.svg) | ![BNaturalRaptimic](ChromaticCircleModeBNaturalRaptimic.svg) |
 | [1303](https://ianring.com/musictheory/scales/1303) | [Epolimic](ModeEpolimic.md) | -1 | C# | C#, D, Eb, F, G##, A##, C# | ![CSharpEpolimic](CircleOfFifthModeCSharpEpolimic.svg) | ![CSharpEpolimic](ChromaticCircleModeCSharpEpolimic.svg) |
-| [1303](https://ianring.com/musictheory/scales/1303) | [Epolimic](ModeEpolimic.md) | -1 | Db | Db, Ebb, Fbb, Gbb, A, B, Db | ![DFlatEpolimic](CircleOfFifthModeDFlatEpolimic.svg) | ![DFlatEpolimic](ChromaticCircleModeDFlatEpolimic.svg) |
 | [2699](https://ianring.com/musictheory/scales/2699) | [Sythimic](ModeSythimic.md) | 6 | D | D, Eb, F, G##, A##, B##, D | ![DNaturalSythimic](CircleOfFifthModeDNaturalSythimic.svg) | ![DNaturalSythimic](ChromaticCircleModeDNaturalSythimic.svg) |
 
 ## Chords

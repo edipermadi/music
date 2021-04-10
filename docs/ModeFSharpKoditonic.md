@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FSharpKoditonic](ModeFSharpKoditonic.md)
+[Koditonic](ModeKoditonic.md)
 
 ## Number
 
@@ -79,11 +79,8 @@ IV⁺
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | -1 | F# | F#, G#, A#, D, E, F# | ![FSharpKoditonic](CircleOfFifthModeFSharpKoditonic.svg) | ![FSharpKoditonic](ChromaticCircleModeFSharpKoditonic.svg) |
-| [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | -1 | Gb | Gb, Ab, Bb, D, E, Gb | ![GFlatKoditonic](CircleOfFifthModeGFlatKoditonic.svg) | ![GFlatKoditonic](ChromaticCircleModeGFlatKoditonic.svg) |
 | [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | -1 | G# | G#, A#, D, E, F#, G# | ![GSharpTholitonic](CircleOfFifthModeGSharpTholitonic.svg) | ![GSharpTholitonic](ChromaticCircleModeGSharpTholitonic.svg) |
-| [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | -1 | Ab | Ab, Bb, D, E, Gb, Ab | ![AFlatTholitonic](CircleOfFifthModeAFlatTholitonic.svg) | ![AFlatTholitonic](ChromaticCircleModeAFlatTholitonic.svg) |
 | [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | A# | A#, D, E, F#, G#, A# | ![ASharpBolitonic](CircleOfFifthModeASharpBolitonic.svg) | ![ASharpBolitonic](ChromaticCircleModeASharpBolitonic.svg) |
-| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | Bb | Bb, D, E, Gb, Ab, Bb | ![BFlatBolitonic](CircleOfFifthModeBFlatBolitonic.svg) | ![BFlatBolitonic](ChromaticCircleModeBFlatBolitonic.svg) |
 | [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | -1 | D | D, E, F#, G#, A#, D | ![DNaturalBothitonic](CircleOfFifthModeDNaturalBothitonic.svg) | ![DNaturalBothitonic](ChromaticCircleModeDNaturalBothitonic.svg) |
 | [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | -1 | E | E, F#, G#, A#, D, E | ![ENaturalKataditonic](CircleOfFifthModeENaturalKataditonic.svg) | ![ENaturalKataditonic](ChromaticCircleModeENaturalKataditonic.svg) |
 

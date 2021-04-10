@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalDathygic](ModeDNaturalDathygic.md)
+[Dathygic](ModeDathygic.md)
 
 ## Number
 
@@ -92,11 +92,9 @@ i, ii⁰, IIIb5, ix⁰
 | [1789](https://ianring.com/musictheory/scales/1789) | [Katagygic](ModeKatagygic.md) | 6 | G | G, A, A#, B, C, C#, D, E, F, G | ![GNaturalKatagygic](CircleOfFifthModeGNaturalKatagygic.svg) | ![GNaturalKatagygic](ChromaticCircleModeGNaturalKatagygic.svg) |
 | [1471](https://ianring.com/musictheory/scales/1471) | [Radygic](ModeRadygic.md) | 4 | A | A, A#, B, C, C#, D, E, F, G, A | ![ANaturalRadygic](CircleOfFifthModeANaturalRadygic.svg) | ![ANaturalRadygic](ChromaticCircleModeANaturalRadygic.svg) |
 | [2783](https://ianring.com/musictheory/scales/2783) | [Gothygic](ModeGothygic.md) | 9 | A# | A#, B, C, C#, D, E, F, G, A, A# | ![ASharpGothygic](CircleOfFifthModeASharpGothygic.svg) | ![ASharpGothygic](ChromaticCircleModeASharpGothygic.svg) |
-| [2783](https://ianring.com/musictheory/scales/2783) | [Gothygic](ModeGothygic.md) | 9 | Bb | Bb, B, C, Db, D, E, F, G, A, Bb | ![BFlatGothygic](CircleOfFifthModeBFlatGothygic.svg) | ![BFlatGothygic](ChromaticCircleModeBFlatGothygic.svg) |
 | [3439](https://ianring.com/musictheory/scales/3439) | [Lythygic](ModeLythygic.md) | 2 | B | B, C, C#, D, E, F, G, A, A#, B | ![BNaturalLythygic](CircleOfFifthModeBNaturalLythygic.svg) | ![BNaturalLythygic](ChromaticCircleModeBNaturalLythygic.svg) |
 | [3767](https://ianring.com/musictheory/scales/3767) | [Bacrygic](ModeBacrygic.md) | 7 | C | C, C#, D, E, F, G, A, A#, B, C | ![CNaturalBacrygic](CircleOfFifthModeCNaturalBacrygic.svg) | ![CNaturalBacrygic](ChromaticCircleModeCNaturalBacrygic.svg) |
 | [3931](https://ianring.com/musictheory/scales/3931) | [Aerygic](ModeAerygic.md) | -1 | C# | C#, D, E, F, G, A, A#, B, C, C# | ![CSharpAerygic](CircleOfFifthModeCSharpAerygic.svg) | ![CSharpAerygic](ChromaticCircleModeCSharpAerygic.svg) |
-| [3931](https://ianring.com/musictheory/scales/3931) | [Aerygic](ModeAerygic.md) | -1 | Db | Db, D, E, F, G, A, Bb, B, C, Db | ![DFlatAerygic](CircleOfFifthModeDFlatAerygic.svg) | ![DFlatAerygic](ChromaticCircleModeDFlatAerygic.svg) |
 
 ## Chords
 

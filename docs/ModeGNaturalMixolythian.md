@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalMixolythian](ModeGNaturalMixolythian.md)
+[Mixolythian](ModeMixolythian.md)
 
 ## Number
 
@@ -84,9 +84,7 @@ i, II⁺, III, IV, v⁰, vi⁰, vii
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | 4 | G | G, Ab, Bb, C, D, E, F, G | ![GNaturalMixolythian](CircleOfFifthModeGNaturalMixolythian.svg) | ![GNaturalMixolythian](ChromaticCircleModeGNaturalMixolythian.svg) |
 | [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | -1 | G# | G#, A#, B#, C##, D##, E#, F##, G# | ![GSharpLarian](CircleOfFifthModeGSharpLarian.svg) | ![GSharpLarian](ChromaticCircleModeGSharpLarian.svg) |
-| [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | -1 | Ab | Ab, Bb, C, D, E, F, G, Ab | ![AFlatLarian](CircleOfFifthModeAFlatLarian.svg) | ![AFlatLarian](ChromaticCircleModeAFlatLarian.svg) |
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | 7 | A# | A#, B#, C##, D##, E#, F##, G#, A# | ![ASharpLythian](CircleOfFifthModeASharpLythian.svg) | ![ASharpLythian](ChromaticCircleModeASharpLythian.svg) |
-| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | 7 | Bb | Bb, C, D, E, F, G, Ab, Bb | ![BFlatLythian](CircleOfFifthModeBFlatLythian.svg) | ![BFlatLythian](ChromaticCircleModeBFlatLythian.svg) |
 | [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | 5 | C | C, D, E, F, G, Ab, Bb, C | ![CNaturalStydian](CircleOfFifthModeCNaturalStydian.svg) | ![CNaturalStydian](ChromaticCircleModeCNaturalStydian.svg) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | D | D, E, F, G, Ab, Bb, C, D | ![DNaturalLorian](CircleOfFifthModeDNaturalLorian.svg) | ![DNaturalLorian](ChromaticCircleModeDNaturalLorian.svg) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | E | E, F, G, Ab, Bb, C, D, E | ![ENaturalIonadian](CircleOfFifthModeENaturalIonadian.svg) | ![ENaturalIonadian](ChromaticCircleModeENaturalIonadian.svg) |

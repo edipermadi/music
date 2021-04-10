@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalPhracrimic](ModeBNaturalPhracrimic.md)
+[Phracrimic](ModePhracrimic.md)
 
 ## Number
 

@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalGyrian](ModeBNaturalGyrian.md)
+[Gyrian](ModeGyrian.md)
 
 ## Number
 
@@ -84,13 +84,10 @@ VIIb5
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1213](https://ianring.com/musictheory/scales/1213) | [Gyrian](ModeGyrian.md) | 4 | B | B, C#, D, Eb, Fb, Gb, A, B | ![BNaturalGyrian](CircleOfFifthModeBNaturalGyrian.svg) | ![BNaturalGyrian](ChromaticCircleModeBNaturalGyrian.svg) |
 | [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | 2 | C# | C#, D, Eb, Fb, Gb, A, B, C# | ![CSharpZalian](CircleOfFifthModeCSharpZalian.svg) | ![CSharpZalian](ChromaticCircleModeCSharpZalian.svg) |
-| [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | 2 | Db | Db, Ebb, Fbb, Gbbb, Abbb, Bbb, Cb, Db | ![DFlatZalian](CircleOfFifthModeDFlatZalian.svg) | ![DFlatZalian](ChromaticCircleModeDFlatZalian.svg) |
 | [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | 7 | D | D, Eb, Fb, Gb, A, B, C#, D | ![DNaturalStolian](CircleOfFifthModeDNaturalStolian.svg) | ![DNaturalStolian](ChromaticCircleModeDNaturalStolian.svg) |
 | [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | -1 | D# | D#, E, F#, G##, A##, B##, C##, D# | ![DSharpBylian](CircleOfFifthModeDSharpBylian.svg) | ![DSharpBylian](ChromaticCircleModeDSharpBylian.svg) |
-| [3403](https://ianring.com/musictheory/scales/3403) | [Bylian](ModeBylian.md) | -1 | Eb | Eb, Fb, Gb, A, B, C#, D, Eb | ![EFlatBylian](CircleOfFifthModeEFlatBylian.svg) | ![EFlatBylian](ChromaticCircleModeEFlatBylian.svg) |
 | [3749](https://ianring.com/musictheory/scales/3749) | [Zothian](ModeZothian.md) | 5 | E | E, F#, G##, A##, B##, C##, D#, E | ![ENaturalZothian](CircleOfFifthModeENaturalZothian.svg) | ![ENaturalZothian](ChromaticCircleModeENaturalZothian.svg) |
 | [1961](https://ianring.com/musictheory/scales/1961) | [Soptian](ModeSoptian.md) | 3 | F# | F#, G##, A##, B##, C##, D#, E, F# | ![FSharpSoptian](CircleOfFifthModeFSharpSoptian.svg) | ![FSharpSoptian](ChromaticCircleModeFSharpSoptian.svg) |
-| [1961](https://ianring.com/musictheory/scales/1961) | [Soptian](ModeSoptian.md) | 3 | Gb | Gb, A, B, C#, D, Eb, Fb, Gb | ![GFlatSoptian](CircleOfFifthModeGFlatSoptian.svg) | ![GFlatSoptian](ChromaticCircleModeGFlatSoptian.svg) |
 | [757](https://ianring.com/musictheory/scales/757) | [Ionyptian](ModeIonyptian.md) | 6 | A | A, B, C#, D, Eb, Fb, Gb, A | ![ANaturalIonyptian](CircleOfFifthModeANaturalIonyptian.svg) | ![ANaturalIonyptian](ChromaticCircleModeANaturalIonyptian.svg) |
 
 ## Chords

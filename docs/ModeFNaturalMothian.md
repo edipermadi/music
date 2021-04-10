@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalMothian](ModeFNaturalMothian.md)
+[Mothian](ModeMothian.md)
 
 ## Number
 
@@ -88,7 +88,6 @@ II⁺, IVb5, vi⁰b3, vii
 | [1401](https://ianring.com/musictheory/scales/1401) | [Pagian](ModePagian.md) | 3 | B | B, C##, D#, E, F, G, A, B | ![BNaturalPagian](CircleOfFifthModeBNaturalPagian.svg) | ![BNaturalPagian](ChromaticCircleModeBNaturalPagian.svg) |
 | [687](https://ianring.com/musictheory/scales/687) | [Aeolythian](ModeAeolythian.md) | 6 | D | D, Eb, Fb, Gbb, Abb, Bbb, Cb, D | ![DNaturalAeolythian](CircleOfFifthModeDNaturalAeolythian.svg) | ![DNaturalAeolythian](ChromaticCircleModeDNaturalAeolythian.svg) |
 | [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | -1 | D# | D#, E, F, G, A, B, C##, D# | ![DSharpMolian](CircleOfFifthModeDSharpMolian.svg) | ![DSharpMolian](ChromaticCircleModeDSharpMolian.svg) |
-| [2391](https://ianring.com/musictheory/scales/2391) | [Molian](ModeMolian.md) | -1 | Eb | Eb, Fb, Gbb, Abb, Bbb, Cb, D, Eb | ![EFlatMolian](CircleOfFifthModeEFlatMolian.svg) | ![EFlatMolian](ChromaticCircleModeEFlatMolian.svg) |
 | [3243](https://ianring.com/musictheory/scales/3243) | [Staptian](ModeStaptian.md) | 4 | E | E, F, G, A, B, C##, D#, E | ![ENaturalStaptian](CircleOfFifthModeENaturalStaptian.svg) | ![ENaturalStaptian](ChromaticCircleModeENaturalStaptian.svg) |
 
 ## Chords

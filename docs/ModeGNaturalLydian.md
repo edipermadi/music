@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalLydian](ModeGNaturalLydian.md)
+[Lydian](ModeLydian.md)
 
 ## Number
 
@@ -86,11 +86,9 @@ I, II, iii, iv⁰, V, vi, vii
 | [1717](https://ianring.com/musictheory/scales/1717) | [Mixolydian](ModeMixolydian.md) | 5 | A | A, B, C#, D, E, F#, G, A | ![ANaturalMixolydian](CircleOfFifthModeANaturalMixolydian.svg) | ![ANaturalMixolydian](ChromaticCircleModeANaturalMixolydian.svg) |
 | [1453](https://ianring.com/musictheory/scales/1453) | [Aeolian](ModeAeolian.md) | 3 | B | B, C#, D, E, F#, G, A, B | ![BNaturalAeolian](CircleOfFifthModeBNaturalAeolian.svg) | ![BNaturalAeolian](ChromaticCircleModeBNaturalAeolian.svg) |
 | [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | 1 | C# | C#, D, E, F#, G, A, B, C# | ![CSharpLocrian](CircleOfFifthModeCSharpLocrian.svg) | ![CSharpLocrian](ChromaticCircleModeCSharpLocrian.svg) |
-| [1387](https://ianring.com/musictheory/scales/1387) | [Locrian](ModeLocrian.md) | 1 | Db | Db, Ebb, Fb, Gb, Abb, Bbb, Cb, Db | ![DFlatLocrian](CircleOfFifthModeDFlatLocrian.svg) | ![DFlatLocrian](ChromaticCircleModeDFlatLocrian.svg) |
 | [2741](https://ianring.com/musictheory/scales/2741) | [Ionian](ModeIonian.md) | 6 | D | D, E, F#, G, A, B, C#, D | ![DNaturalIonian](CircleOfFifthModeDNaturalIonian.svg) | ![DNaturalIonian](ChromaticCircleModeDNaturalIonian.svg) |
 | [1709](https://ianring.com/musictheory/scales/1709) | [Dorian](ModeDorian.md) | 4 | E | E, F#, G, A, B, C#, D, E | ![ENaturalDorian](CircleOfFifthModeENaturalDorian.svg) | ![ENaturalDorian](ChromaticCircleModeENaturalDorian.svg) |
 | [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | 2 | F# | F#, G, A, B, C#, D, E, F# | ![FSharpPhrygian](CircleOfFifthModeFSharpPhrygian.svg) | ![FSharpPhrygian](ChromaticCircleModeFSharpPhrygian.svg) |
-| [1451](https://ianring.com/musictheory/scales/1451) | [Phrygian](ModePhrygian.md) | 2 | Gb | Gb, Abb, Bbb, Cb, Db, Ebb, Fb, Gb | ![GFlatPhrygian](CircleOfFifthModeGFlatPhrygian.svg) | ![GFlatPhrygian](ChromaticCircleModeGFlatPhrygian.svg) |
 
 ## Chords
 

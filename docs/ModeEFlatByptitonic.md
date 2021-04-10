@@ -13,7 +13,7 @@
 
 ## Mode
 
-[EFlatByptitonic](ModeEFlatByptitonic.md)
+[Byptitonic](ModeByptitonic.md)
 
 ## Number
 
@@ -79,10 +79,8 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | -1 | D# | D#, E, F#, A, B, D# | ![DSharpByptitonic](CircleOfFifthModeDSharpByptitonic.svg) | ![DSharpByptitonic](ChromaticCircleModeDSharpByptitonic.svg) |
-| [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | -1 | Eb | Eb, E, Gb, A, B, Eb | ![EFlatByptitonic](CircleOfFifthModeEFlatByptitonic.svg) | ![EFlatByptitonic](ChromaticCircleModeEFlatByptitonic.svg) |
 | [2213](https://ianring.com/musictheory/scales/2213) | [Daritonic](ModeDaritonic.md) | 4 | E | E, F#, A, B, D#, E | ![ENaturalDaritonic](CircleOfFifthModeENaturalDaritonic.svg) | ![ENaturalDaritonic](ChromaticCircleModeENaturalDaritonic.svg) |
 | [1577](https://ianring.com/musictheory/scales/1577) | [Lonitonic](ModeLonitonic.md) | 2 | F# | F#, A, B, D#, E, F# | ![FSharpLonitonic](CircleOfFifthModeFSharpLonitonic.svg) | ![FSharpLonitonic](ChromaticCircleModeFSharpLonitonic.svg) |
-| [1577](https://ianring.com/musictheory/scales/1577) | [Lonitonic](ModeLonitonic.md) | 2 | Gb | Gb, A, B, Eb, E, Gb | ![GFlatLonitonic](CircleOfFifthModeGFlatLonitonic.svg) | ![GFlatLonitonic](ChromaticCircleModeGFlatLonitonic.svg) |
 | [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | 5 | A | A, B, D#, E, F#, A | ![ANaturalIonycritonic](CircleOfFifthModeANaturalIonycritonic.svg) | ![ANaturalIonycritonic](ChromaticCircleModeANaturalIonycritonic.svg) |
 | [1201](https://ianring.com/musictheory/scales/1201) | [Aeracritonic](ModeAeracritonic.md) | 3 | B | B, D#, E, F#, A, B | ![BNaturalAeracritonic](CircleOfFifthModeBNaturalAeracritonic.svg) | ![BNaturalAeracritonic](ChromaticCircleModeBNaturalAeracritonic.svg) |
 

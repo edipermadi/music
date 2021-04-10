@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalPhraptian](ModeDNaturalPhraptian.md)
+[Phraptian](ModePhraptian.md)
 
 ## Number
 
@@ -89,7 +89,6 @@ II, IIIb5, v⁰b3, VII⁺
 | [1359](https://ianring.com/musictheory/scales/1359) | [Aerygian](ModeAerygian.md) | -1 | B | B, C, Db, Ebb, F, G, A, B | ![BNaturalAerygian](CircleOfFifthModeBNaturalAerygian.svg) | ![BNaturalAerygian](ChromaticCircleModeBNaturalAerygian.svg) |
 | [2727](https://ianring.com/musictheory/scales/2727) | [Pylian](ModePylian.md) | 6 | C | C, Db, Ebb, F, G, A, B, C | ![CNaturalPylian](CircleOfFifthModeCNaturalPylian.svg) | ![CNaturalPylian](ChromaticCircleModeCNaturalPylian.svg) |
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | C# | C#, D, E#, F##, G##, A##, B#, C# | ![CSharpIonathian](CircleOfFifthModeCSharpIonathian.svg) | ![CSharpIonathian](ChromaticCircleModeCSharpIonathian.svg) |
-| [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | Db | Db, Ebb, F, G, A, B, C, Db | ![DFlatIonathian](CircleOfFifthModeDFlatIonathian.svg) | ![DFlatIonathian](ChromaticCircleModeDFlatIonathian.svg) |
 
 ## Chords
 

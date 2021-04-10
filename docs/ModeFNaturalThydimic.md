@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalThydimic](ModeFNaturalThydimic.md)
+[Thydimic](ModeThydimic.md)
 
 ## Number
 
@@ -82,10 +82,8 @@ C
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [2191](https://ianring.com/musictheory/scales/2191) | [Thydimic](ModeThydimic.md) | 6 | F | F, Gb, Abb, Bbbb, C, D##, F | ![FNaturalThydimic](CircleOfFifthModeFNaturalThydimic.svg) | ![FNaturalThydimic](ChromaticCircleModeFNaturalThydimic.svg) |
 | [3143](https://ianring.com/musictheory/scales/3143) | [Polimic](ModePolimic.md) | -1 | F# | F#, G, Ab, B#, D##, E#, F# | ![FSharpPolimic](CircleOfFifthModeFSharpPolimic.svg) | ![FSharpPolimic](ChromaticCircleModeFSharpPolimic.svg) |
-| [3143](https://ianring.com/musictheory/scales/3143) | [Polimic](ModePolimic.md) | -1 | Gb | Gb, Abb, Bbbb, C, D##, E#, Gb | ![GFlatPolimic](CircleOfFifthModeGFlatPolimic.svg) | ![GFlatPolimic](ChromaticCircleModeGFlatPolimic.svg) |
 | [3619](https://ianring.com/musictheory/scales/3619) | [Thanimic](ModeThanimic.md) | 4 | G | G, Ab, B#, D##, E#, F#, G | ![GNaturalThanimic](CircleOfFifthModeGNaturalThanimic.svg) | ![GNaturalThanimic](ChromaticCircleModeGNaturalThanimic.svg) |
 | [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModePonimic.md) | -1 | G# | G#, A###, D##, E#, F#, G, G# | ![GSharpPonimic](CircleOfFifthModeGSharpPonimic.svg) | ![GSharpPonimic](ChromaticCircleModeGSharpPonimic.svg) |
-| [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModePonimic.md) | -1 | Ab | Ab, B#, D##, E#, F#, G, Ab | ![AFlatPonimic](CircleOfFifthModeAFlatPonimic.svg) | ![AFlatPonimic](ChromaticCircleModeAFlatPonimic.svg) |
 | [497](https://ianring.com/musictheory/scales/497) | [Kadimic](ModeKadimic.md) | 5 | C | C, D##, E#, F#, G, Ab, C | ![CNaturalKadimic](CircleOfFifthModeCNaturalKadimic.svg) | ![CNaturalKadimic](ChromaticCircleModeCNaturalKadimic.svg) |
 | [287](https://ianring.com/musictheory/scales/287) | [Gynimic](ModeGynimic.md) | -1 | E | E, F, Gb, Abb, Bbbb, C, E | ![ENaturalGynimic](CircleOfFifthModeENaturalGynimic.svg) | ![ENaturalGynimic](ChromaticCircleModeENaturalGynimic.svg) |
 

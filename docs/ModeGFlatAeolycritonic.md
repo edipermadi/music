@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GFlatAeolycritonic](ModeGFlatAeolycritonic.md)
+[Aeolycritonic](ModeAeolycritonic.md)
 
 ## Number
 
@@ -79,12 +79,10 @@ V⁺
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [555](https://ianring.com/musictheory/scales/555) | [Aeolycritonic](ModeAeolycritonic.md) | 4 | F# | F#, G, A, B, D#, F# | ![FSharpAeolycritonic](CircleOfFifthModeFSharpAeolycritonic.svg) | ![FSharpAeolycritonic](ChromaticCircleModeFSharpAeolycritonic.svg) |
-| [555](https://ianring.com/musictheory/scales/555) | [Aeolycritonic](ModeAeolycritonic.md) | 4 | Gb | Gb, G, A, B, Eb, Gb | ![GFlatAeolycritonic](CircleOfFifthModeGFlatAeolycritonic.svg) | ![GFlatAeolycritonic](ChromaticCircleModeGFlatAeolycritonic.svg) |
 | [2325](https://ianring.com/musictheory/scales/2325) | [Pynitonic](ModePynitonic.md) | -1 | G | G, A, B, D#, F#, G | ![GNaturalPynitonic](CircleOfFifthModeGNaturalPynitonic.svg) | ![GNaturalPynitonic](ChromaticCircleModeGNaturalPynitonic.svg) |
 | [1605](https://ianring.com/musictheory/scales/1605) | [Zanitonic](ModeZanitonic.md) | -1 | A | A, B, D#, F#, G, A | ![ANaturalZanitonic](CircleOfFifthModeANaturalZanitonic.svg) | ![ANaturalZanitonic](ChromaticCircleModeANaturalZanitonic.svg) |
 | [1425](https://ianring.com/musictheory/scales/1425) | [Ryphitonic](ModeRyphitonic.md) | 5 | B | B, D#, F#, G, A, B | ![BNaturalRyphitonic](CircleOfFifthModeBNaturalRyphitonic.svg) | ![BNaturalRyphitonic](ChromaticCircleModeBNaturalRyphitonic.svg) |
 | [345](https://ianring.com/musictheory/scales/345) | [Gylitonic](ModeGylitonic.md) | -1 | D# | D#, F#, G, A, B, D# | ![DSharpGylitonic](CircleOfFifthModeDSharpGylitonic.svg) | ![DSharpGylitonic](ChromaticCircleModeDSharpGylitonic.svg) |
-| [345](https://ianring.com/musictheory/scales/345) | [Gylitonic](ModeGylitonic.md) | -1 | Eb | Eb, Gb, G, A, B, Eb | ![EFlatGylitonic](CircleOfFifthModeEFlatGylitonic.svg) | ![EFlatGylitonic](ChromaticCircleModeEFlatGylitonic.svg) |
 
 ## Chords
 

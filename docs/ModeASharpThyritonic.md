@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ASharpThyritonic](ModeASharpThyritonic.md)
+[Thyritonic](ModeThyritonic.md)
 
 ## Number
 
@@ -79,13 +79,10 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1609](https://ianring.com/musictheory/scales/1609) | [Thyritonic](ModeThyritonic.md) | -1 | A# | A#, C#, E, G, G#, A# | ![ASharpThyritonic](CircleOfFifthModeASharpThyritonic.svg) | ![ASharpThyritonic](ChromaticCircleModeASharpThyritonic.svg) |
-| [1609](https://ianring.com/musictheory/scales/1609) | [Thyritonic](ModeThyritonic.md) | -1 | Bb | Bb, Db, E, G, Ab, Bb | ![BFlatThyritonic](CircleOfFifthModeBFlatThyritonic.svg) | ![BFlatThyritonic](ChromaticCircleModeBFlatThyritonic.svg) |
 | [713](https://ianring.com/musictheory/scales/713) | [Thoptitonic](ModeThoptitonic.md) | 5 | C# | C#, E, G, G#, A#, C# | ![CSharpThoptitonic](CircleOfFifthModeCSharpThoptitonic.svg) | ![CSharpThoptitonic](ChromaticCircleModeCSharpThoptitonic.svg) |
-| [713](https://ianring.com/musictheory/scales/713) | [Thoptitonic](ModeThoptitonic.md) | 5 | Db | Db, E, G, Ab, Bb, Db | ![DFlatThoptitonic](CircleOfFifthModeDFlatThoptitonic.svg) | ![DFlatThoptitonic](ChromaticCircleModeDFlatThoptitonic.svg) |
 | [601](https://ianring.com/musictheory/scales/601) | [Bycritonic](ModeBycritonic.md) | -1 | E | E, G, G#, A#, C#, E | ![ENaturalBycritonic](CircleOfFifthModeENaturalBycritonic.svg) | ![ENaturalBycritonic](ChromaticCircleModeENaturalBycritonic.svg) |
 | [587](https://ianring.com/musictheory/scales/587) | [Pathitonic](ModePathitonic.md) | -1 | G | G, G#, A#, C#, E, G | ![GNaturalPathitonic](CircleOfFifthModeGNaturalPathitonic.svg) | ![GNaturalPathitonic](ChromaticCircleModeGNaturalPathitonic.svg) |
 | [2341](https://ianring.com/musictheory/scales/2341) | [Myditonic](ModeMyditonic.md) | 4 | G# | G#, A#, C#, E, G, G# | ![GSharpMyditonic](CircleOfFifthModeGSharpMyditonic.svg) | ![GSharpMyditonic](ChromaticCircleModeGSharpMyditonic.svg) |
-| [2341](https://ianring.com/musictheory/scales/2341) | [Myditonic](ModeMyditonic.md) | 4 | Ab | Ab, Bb, Db, E, G, Ab | ![AFlatMyditonic](CircleOfFifthModeAFlatMyditonic.svg) | ![AFlatMyditonic](ChromaticCircleModeAFlatMyditonic.svg) |
 
 ## Chords
 

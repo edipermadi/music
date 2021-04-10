@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalDaric](ModeGNaturalDaric.md)
+[Daric](ModeDaric.md)
 
 ## Number
 

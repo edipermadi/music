@@ -13,7 +13,7 @@
 
 ## Mode
 
-[AFlatStydian](ModeAFlatStydian.md)
+[Stydian](ModeStydian.md)
 
 ## Number
 
@@ -83,17 +83,12 @@ I, ii⁰, iii⁰, iv, v, VI⁺, VII
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | 5 | G# | G#, A#, B#, C#, D#, E, F#, G# | ![GSharpStydian](CircleOfFifthModeGSharpStydian.svg) | ![GSharpStydian](ChromaticCircleModeGSharpStydian.svg) |
-| [1461](https://ianring.com/musictheory/scales/1461) | [Stydian](ModeStydian.md) | 5 | Ab | Ab, Bb, C, Db, Eb, Fb, Gb, Ab | ![AFlatStydian](CircleOfFifthModeAFlatStydian.svg) | ![AFlatStydian](ChromaticCircleModeAFlatStydian.svg) |
 | [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | A# | A#, B#, C#, D#, E, F#, G#, A# | ![ASharpLorian](CircleOfFifthModeASharpLorian.svg) | ![ASharpLorian](ChromaticCircleModeASharpLorian.svg) |
-| [1389](https://ianring.com/musictheory/scales/1389) | [Lorian](ModeLorian.md) | 3 | Bb | Bb, C, Db, Eb, Fb, Gb, Ab, Bb | ![BFlatLorian](CircleOfFifthModeBFlatLorian.svg) | ![BFlatLorian](ChromaticCircleModeBFlatLorian.svg) |
 | [1371](https://ianring.com/musictheory/scales/1371) | [Ionadian](ModeIonadian.md) | -1 | C | C, Db, Eb, Fb, Gb, Ab, Bb, C | ![CNaturalIonadian](CircleOfFifthModeCNaturalIonadian.svg) | ![CNaturalIonadian](ChromaticCircleModeCNaturalIonadian.svg) |
 | [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | 6 | C# | C#, D#, E, F#, G#, A#, B#, C# | ![CSharpBocrian](CircleOfFifthModeCSharpBocrian.svg) | ![CSharpBocrian](ChromaticCircleModeCSharpBocrian.svg) |
-| [2733](https://ianring.com/musictheory/scales/2733) | [Bocrian](ModeBocrian.md) | 6 | Db | Db, Eb, Fb, Gb, Ab, Bb, C, Db | ![DFlatBocrian](CircleOfFifthModeDFlatBocrian.svg) | ![DFlatBocrian](ChromaticCircleModeDFlatBocrian.svg) |
 | [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | 4 | D# | D#, E, F#, G#, A#, B#, C#, D# | ![DSharpMixolythian](CircleOfFifthModeDSharpMixolythian.svg) | ![DSharpMixolythian](ChromaticCircleModeDSharpMixolythian.svg) |
-| [1707](https://ianring.com/musictheory/scales/1707) | [Mixolythian](ModeMixolythian.md) | 4 | Eb | Eb, Fb, Gb, Ab, Bb, C, Db, Eb | ![EFlatMixolythian](CircleOfFifthModeEFlatMixolythian.svg) | ![EFlatMixolythian](ChromaticCircleModeEFlatMixolythian.svg) |
 | [2901](https://ianring.com/musictheory/scales/2901) | [Larian](ModeLarian.md) | -1 | E | E, F#, G#, A#, B#, C#, D#, E | ![ENaturalLarian](CircleOfFifthModeENaturalLarian.svg) | ![ENaturalLarian](ChromaticCircleModeENaturalLarian.svg) |
 | [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | 7 | F# | F#, G#, A#, B#, C#, D#, E, F# | ![FSharpLythian](CircleOfFifthModeFSharpLythian.svg) | ![FSharpLythian](ChromaticCircleModeFSharpLythian.svg) |
-| [1749](https://ianring.com/musictheory/scales/1749) | [Lythian](ModeLythian.md) | 7 | Gb | Gb, Ab, Bb, C, Db, Eb, Fb, Gb | ![GFlatLythian](CircleOfFifthModeGFlatLythian.svg) | ![GFlatLythian](ChromaticCircleModeGFlatLythian.svg) |
 
 ## Chords
 

@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalSylitonic](ModeDNaturalSylitonic.md)
+[Sylitonic](ModeSylitonic.md)
 
 ## Number
 

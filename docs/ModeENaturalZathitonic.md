@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ENaturalZathitonic](ModeENaturalZathitonic.md)
+[Zathitonic](ModeZathitonic.md)
 
 ## Number
 
@@ -80,12 +80,9 @@ C
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [3153](https://ianring.com/musictheory/scales/3153) | [Zathitonic](ModeZathitonic.md) | -1 | E | E, G#, A#, D, D#, E | ![ENaturalZathitonic](CircleOfFifthModeENaturalZathitonic.svg) | ![ENaturalZathitonic](ChromaticCircleModeENaturalZathitonic.svg) |
 | [453](https://ianring.com/musictheory/scales/453) | [Raditonic](ModeRaditonic.md) | 5 | G# | G#, A#, D, D#, E, G# | ![GSharpRaditonic](CircleOfFifthModeGSharpRaditonic.svg) | ![GSharpRaditonic](ChromaticCircleModeGSharpRaditonic.svg) |
-| [453](https://ianring.com/musictheory/scales/453) | [Raditonic](ModeRaditonic.md) | 5 | Ab | Ab, Bb, D, Eb, E, Ab | ![AFlatRaditonic](CircleOfFifthModeAFlatRaditonic.svg) | ![AFlatRaditonic](ChromaticCircleModeAFlatRaditonic.svg) |
 | [1137](https://ianring.com/musictheory/scales/1137) | [Stonitonic](ModeStonitonic.md) | 3 | A# | A#, D, D#, E, G#, A# | ![ASharpStonitonic](CircleOfFifthModeASharpStonitonic.svg) | ![ASharpStonitonic](ChromaticCircleModeASharpStonitonic.svg) |
-| [1137](https://ianring.com/musictheory/scales/1137) | [Stonitonic](ModeStonitonic.md) | 3 | Bb | Bb, D, Eb, E, Ab, Bb | ![BFlatStonitonic](CircleOfFifthModeBFlatStonitonic.svg) | ![BFlatStonitonic](ChromaticCircleModeBFlatStonitonic.svg) |
 | [327](https://ianring.com/musictheory/scales/327) | [Syptitonic](ModeSyptitonic.md) | -1 | D | D, D#, E, G#, A#, D | ![DNaturalSyptitonic](CircleOfFifthModeDNaturalSyptitonic.svg) | ![DNaturalSyptitonic](ChromaticCircleModeDNaturalSyptitonic.svg) |
 | [2211](https://ianring.com/musictheory/scales/2211) | [Ionythitonic](ModeIonythitonic.md) | 4 | D# | D#, E, G#, A#, D, D# | ![DSharpIonythitonic](CircleOfFifthModeDSharpIonythitonic.svg) | ![DSharpIonythitonic](ChromaticCircleModeDSharpIonythitonic.svg) |
-| [2211](https://ianring.com/musictheory/scales/2211) | [Ionythitonic](ModeIonythitonic.md) | 4 | Eb | Eb, E, Ab, Bb, D, Eb | ![EFlatIonythitonic](CircleOfFifthModeEFlatIonythitonic.svg) | ![EFlatIonythitonic](ChromaticCircleModeEFlatIonythitonic.svg) |
 
 ## Chords
 

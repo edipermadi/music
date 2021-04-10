@@ -13,7 +13,7 @@
 
 ## Mode
 
-[EFlatGocrimic](ModeEFlatGocrimic.md)
+[Gocrimic](ModeGocrimic.md)
 
 ## Number
 
@@ -81,10 +81,8 @@ v⁰
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | -1 | D# | D#, E, F#, G##, A###, B###, D# | ![DSharpGocrimic](CircleOfFifthModeDSharpGocrimic.svg) | ![DSharpGocrimic](ChromaticCircleModeDSharpGocrimic.svg) |
-| [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | -1 | Eb | Eb, Fb, Gb, A, B#, C##, Eb | ![EFlatGocrimic](CircleOfFifthModeEFlatGocrimic.svg) | ![EFlatGocrimic](ChromaticCircleModeEFlatGocrimic.svg) |
 | [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | 4 | E | E, F#, G##, A###, B###, C###, E | ![ENaturalKatolimic](CircleOfFifthModeENaturalKatolimic.svg) | ![ENaturalKatolimic](ChromaticCircleModeENaturalKatolimic.svg) |
 | [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | -1 | F# | F#, G##, A###, B###, C###, D##, F# | ![FSharpThagimic](CircleOfFifthModeFSharpThagimic.svg) | ![FSharpThagimic](ChromaticCircleModeFSharpThagimic.svg) |
-| [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | -1 | Gb | Gb, A, B#, C##, D#, E, Gb | ![GFlatThagimic](CircleOfFifthModeGFlatThagimic.svg) | ![GFlatThagimic](ChromaticCircleModeGFlatThagimic.svg) |
 | [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | 5 | A | A, B#, C##, D#, E, F#, A | ![ANaturalKolimic](CircleOfFifthModeANaturalKolimic.svg) | ![ANaturalKolimic](ChromaticCircleModeANaturalKolimic.svg) |
 | [605](https://ianring.com/musictheory/scales/605) | [Dycrimic](ModeDycrimic.md) | -1 | C | C, D, Eb, Fb, Gb, A, C | ![CNaturalDycrimic](CircleOfFifthModeCNaturalDycrimic.svg) | ![CNaturalDycrimic](ChromaticCircleModeCNaturalDycrimic.svg) |
 | [1175](https://ianring.com/musictheory/scales/1175) | [Epycrimic](ModeEpycrimic.md) | 6 | D | D, Eb, Fb, Gb, A, B#, D | ![DNaturalEpycrimic](CircleOfFifthModeDNaturalEpycrimic.svg) | ![DNaturalEpycrimic](ChromaticCircleModeDNaturalEpycrimic.svg) |

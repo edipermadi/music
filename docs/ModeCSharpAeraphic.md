@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CSharpAeraphic](ModeCSharpAeraphic.md)
+[Aeraphic](ModeAeraphic.md)
 
 ## Number
 
@@ -77,7 +77,6 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | -1 | C# | C#, E, G, B, C# | ![CSharpAeraphic](CircleOfFifthModeCSharpAeraphic.svg) | ![CSharpAeraphic](ChromaticCircleModeCSharpAeraphic.svg) |
-| [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | -1 | Db | Db, E, G, B, Db | ![DFlatAeraphic](CircleOfFifthModeDFlatAeraphic.svg) | ![DFlatAeraphic](ChromaticCircleModeDFlatAeraphic.svg) |
 | [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | 4 | E | E, G, B, C#, E | ![ENaturalByptic](CircleOfFifthModeENaturalByptic.svg) | ![ENaturalByptic](ChromaticCircleModeENaturalByptic.svg) |
 | [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | -1 | G | G, B, C#, E, G | ![GNaturalSaric](CircleOfFifthModeGNaturalSaric.svg) | ![GNaturalSaric](ChromaticCircleModeGNaturalSaric.svg) |
 | [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | 3 | B | B, C#, E, G, B | ![BNaturalZoptic](CircleOfFifthModeBNaturalZoptic.svg) | ![BNaturalZoptic](ChromaticCircleModeBNaturalZoptic.svg) |

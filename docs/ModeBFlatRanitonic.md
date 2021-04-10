@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BFlatRanitonic](ModeBFlatRanitonic.md)
+[Ranitonic](ModeRanitonic.md)
 
 ## Number
 
@@ -79,13 +79,10 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1809](https://ianring.com/musictheory/scales/1809) | [Ranitonic](ModeRanitonic.md) | -1 | A# | A#, D, F#, G, G#, A# | ![ASharpRanitonic](CircleOfFifthModeASharpRanitonic.svg) | ![ASharpRanitonic](ChromaticCircleModeASharpRanitonic.svg) |
-| [1809](https://ianring.com/musictheory/scales/1809) | [Ranitonic](ModeRanitonic.md) | -1 | Bb | Bb, D, Gb, G, Ab, Bb | ![BFlatRanitonic](CircleOfFifthModeBFlatRanitonic.svg) | ![BFlatRanitonic](ChromaticCircleModeBFlatRanitonic.svg) |
 | [369](https://ianring.com/musictheory/scales/369) | [Laditonic](ModeLaditonic.md) | 4 | D | D, F#, G, G#, A#, D | ![DNaturalLaditonic](CircleOfFifthModeDNaturalLaditonic.svg) | ![DNaturalLaditonic](ChromaticCircleModeDNaturalLaditonic.svg) |
 | [279](https://ianring.com/musictheory/scales/279) | [Poditonic](ModePoditonic.md) | -1 | F# | F#, G, G#, A#, D, F# | ![FSharpPoditonic](CircleOfFifthModeFSharpPoditonic.svg) | ![FSharpPoditonic](ChromaticCircleModeFSharpPoditonic.svg) |
-| [279](https://ianring.com/musictheory/scales/279) | [Poditonic](ModePoditonic.md) | -1 | Gb | Gb, G, Ab, Bb, D, Gb | ![GFlatPoditonic](CircleOfFifthModeGFlatPoditonic.svg) | ![GFlatPoditonic](ChromaticCircleModeGFlatPoditonic.svg) |
 | [2187](https://ianring.com/musictheory/scales/2187) | [Ionothitonic](ModeIonothitonic.md) | 5 | G | G, G#, A#, D, F#, G | ![GNaturalIonothitonic](CircleOfFifthModeGNaturalIonothitonic.svg) | ![GNaturalIonothitonic](ChromaticCircleModeGNaturalIonothitonic.svg) |
 | [3141](https://ianring.com/musictheory/scales/3141) | [Kanitonic](ModeKanitonic.md) | -1 | G# | G#, A#, D, F#, G, G# | ![GSharpKanitonic](CircleOfFifthModeGSharpKanitonic.svg) | ![GSharpKanitonic](ChromaticCircleModeGSharpKanitonic.svg) |
-| [3141](https://ianring.com/musictheory/scales/3141) | [Kanitonic](ModeKanitonic.md) | -1 | Ab | Ab, Bb, D, Gb, G, Ab | ![AFlatKanitonic](CircleOfFifthModeAFlatKanitonic.svg) | ![AFlatKanitonic](ChromaticCircleModeAFlatKanitonic.svg) |
 
 ## Chords
 

@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalPhrynitonic](ModeBNaturalPhrynitonic.md)
+[Phrynitonic](ModePhrynitonic.md)
 
 ## Number
 

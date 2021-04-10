@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalIonitonic](ModeANaturalIonitonic.md)
+[Ionitonic](ModeIonitonic.md)
 
 ## Number
 

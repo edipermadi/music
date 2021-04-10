@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalLadimic](ModeBNaturalLadimic.md)
+[Ladimic](ModeLadimic.md)
 
 ## Number
 
@@ -83,11 +83,9 @@ v⁰b3
 | [3155](https://ianring.com/musictheory/scales/3155) | [Ladimic](ModeLadimic.md) | -1 | B | B, C, D#, E#, Cbbb, Cbb, B | ![BNaturalLadimic](CircleOfFifthModeBNaturalLadimic.svg) | ![BNaturalLadimic](ChromaticCircleModeBNaturalLadimic.svg) |
 | [3625](https://ianring.com/musictheory/scales/3625) | [Podimic](ModePodimic.md) | 3 | C | C, D#, E#, Cbbb, Cbb, Dbbb, C | ![CNaturalPodimic](CircleOfFifthModeCNaturalPodimic.svg) | ![CNaturalPodimic](ChromaticCircleModeCNaturalPodimic.svg) |
 | [965](https://ianring.com/musictheory/scales/965) | [Ionothimic](ModeIonothimic.md) | 6 | D# | D#, E#, Cbbb, Cbb, Dbbb, Dbb, D# | ![DSharpIonothimic](CircleOfFifthModeDSharpIonothimic.svg) | ![DSharpIonothimic](ChromaticCircleModeDSharpIonothimic.svg) |
-| [965](https://ianring.com/musictheory/scales/965) | [Ionothimic](ModeIonothimic.md) | 6 | Eb | Eb, F, G##, A#, B, C, Eb | ![EFlatIonothimic](CircleOfFifthModeEFlatIonothimic.svg) | ![EFlatIonothimic](ChromaticCircleModeEFlatIonothimic.svg) |
 | [1265](https://ianring.com/musictheory/scales/1265) | [Pynimic](ModePynimic.md) | 4 | F | F, G##, A#, B, C, D#, F | ![FNaturalPynimic](CircleOfFifthModeFNaturalPynimic.svg) | ![FNaturalPynimic](ChromaticCircleModeFNaturalPynimic.svg) |
 | [335](https://ianring.com/musictheory/scales/335) | [Zanimic](ModeZanimic.md) | -1 | A | A, Bb, Cb, Dbb, Eb, F, A | ![ANaturalZanimic](CircleOfFifthModeANaturalZanimic.svg) | ![ANaturalZanimic](ChromaticCircleModeANaturalZanimic.svg) |
 | [2215](https://ianring.com/musictheory/scales/2215) | [Ranimic](ModeRanimic.md) | 5 | A# | A#, B, C, D#, E#, Cbbb, A# | ![ASharpRanimic](CircleOfFifthModeASharpRanimic.svg) | ![ASharpRanimic](ChromaticCircleModeASharpRanimic.svg) |
-| [2215](https://ianring.com/musictheory/scales/2215) | [Ranimic](ModeRanimic.md) | 5 | Bb | Bb, Cb, Dbb, Eb, F, G##, Bb | ![BFlatRanimic](CircleOfFifthModeBFlatRanimic.svg) | ![BFlatRanimic](ChromaticCircleModeBFlatRanimic.svg) |
 
 ## Chords
 

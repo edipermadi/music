@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalByptitonic](ModeBNaturalByptitonic.md)
+[Byptitonic](ModeByptitonic.md)
 
 ## Number
 

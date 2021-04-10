@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalStaptimic](ModeFNaturalStaptimic.md)
+[Staptimic](ModeStaptimic.md)
 
 ## Number
 
@@ -83,10 +83,8 @@ iii, IV
 | [2469](https://ianring.com/musictheory/scales/2469) | [Staptimic](ModeStaptimic.md) | 5 | F | F, G, A#, B#, C#, D##, F | ![FNaturalStaptimic](CircleOfFifthModeFNaturalStaptimic.svg) | ![FNaturalStaptimic](ChromaticCircleModeFNaturalStaptimic.svg) |
 | [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | 3 | G | G, A#, B#, C#, D##, E#, G | ![GNaturalBocrimic](CircleOfFifthModeGNaturalBocrimic.svg) | ![GNaturalBocrimic](ChromaticCircleModeGNaturalBocrimic.svg) |
 | [717](https://ianring.com/musictheory/scales/717) | [Gythimic](ModeGythimic.md) | 6 | A# | A#, B#, C#, D##, E#, F##, A# | ![ASharpGythimic](CircleOfFifthModeASharpGythimic.svg) | ![ASharpGythimic](ChromaticCircleModeASharpGythimic.svg) |
-| [717](https://ianring.com/musictheory/scales/717) | [Gythimic](ModeGythimic.md) | 6 | Bb | Bb, C, Db, E, F, G, Bb | ![BFlatGythimic](CircleOfFifthModeBFlatGythimic.svg) | ![BFlatGythimic](ChromaticCircleModeBFlatGythimic.svg) |
 | [1203](https://ianring.com/musictheory/scales/1203) | [Pagimic](ModePagimic.md) | 4 | C | C, Db, E, F, G, A#, C | ![CNaturalPagimic](CircleOfFifthModeCNaturalPagimic.svg) | ![CNaturalPagimic](ChromaticCircleModeCNaturalPagimic.svg) |
 | [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeAeolythimic.md) | -1 | C# | C#, D##, E#, F##, G###, A###, C# | ![CSharpAeolythimic](CircleOfFifthModeCSharpAeolythimic.svg) | ![CSharpAeolythimic](ChromaticCircleModeCSharpAeolythimic.svg) |
-| [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeAeolythimic.md) | -1 | Db | Db, E, F, G, A#, B#, Db | ![DFlatAeolythimic](CircleOfFifthModeDFlatAeolythimic.svg) | ![DFlatAeolythimic](ChromaticCircleModeDFlatAeolythimic.svg) |
 | [843](https://ianring.com/musictheory/scales/843) | [Molimic](ModeMolimic.md) | -1 | E | E, F, G, A#, B#, C#, E | ![ENaturalMolimic](CircleOfFifthModeENaturalMolimic.svg) | ![ENaturalMolimic](ChromaticCircleModeENaturalMolimic.svg) |
 
 ## Chords

@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalBylian](ModeBNaturalBylian.md)
+[Bylian](ModeBylian.md)
 
 ## Number
 
@@ -89,7 +89,6 @@ IVb5
 | [1213](https://ianring.com/musictheory/scales/1213) | [Gyrian](ModeGyrian.md) | 4 | G | G, A, Bb, Cb, Dbb, Ebb, F, G | ![GNaturalGyrian](CircleOfFifthModeGNaturalGyrian.svg) | ![GNaturalGyrian](ChromaticCircleModeGNaturalGyrian.svg) |
 | [1327](https://ianring.com/musictheory/scales/1327) | [Zalian](ModeZalian.md) | 2 | A | A, Bb, Cb, Dbb, Ebb, F, G, A | ![ANaturalZalian](CircleOfFifthModeANaturalZalian.svg) | ![ANaturalZalian](ChromaticCircleModeANaturalZalian.svg) |
 | [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | 7 | A# | A#, B, C, D, E#, F##, G##, A# | ![ASharpStolian](CircleOfFifthModeASharpStolian.svg) | ![ASharpStolian](ChromaticCircleModeASharpStolian.svg) |
-| [2711](https://ianring.com/musictheory/scales/2711) | [Stolian](ModeStolian.md) | 7 | Bb | Bb, Cb, Dbb, Ebb, F, G, A, Bb | ![BFlatStolian](CircleOfFifthModeBFlatStolian.svg) | ![BFlatStolian](ChromaticCircleModeBFlatStolian.svg) |
 
 ## Chords
 

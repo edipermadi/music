@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GFlatStaditonic](ModeGFlatStaditonic.md)
+[Staditonic](ModeStaditonic.md)
 
 ## Number
 
@@ -79,9 +79,7 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | 3 | F# | F#, G#, B, D, E, F# | ![FSharpStaditonic](CircleOfFifthModeFSharpStaditonic.svg) | ![FSharpStaditonic](ChromaticCircleModeFSharpStaditonic.svg) |
-| [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | 3 | Gb | Gb, Ab, B, D, E, Gb | ![GFlatStaditonic](CircleOfFifthModeGFlatStaditonic.svg) | ![GFlatStaditonic](ChromaticCircleModeGFlatStaditonic.svg) |
 | [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | -1 | G# | G#, B, D, E, F#, G# | ![GSharpKataritonic](CircleOfFifthModeGSharpKataritonic.svg) | ![GSharpKataritonic](ChromaticCircleModeGSharpKataritonic.svg) |
-| [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | -1 | Ab | Ab, B, D, E, Gb, Ab | ![AFlatKataritonic](CircleOfFifthModeAFlatKataritonic.svg) | ![AFlatKataritonic](ChromaticCircleModeAFlatKataritonic.svg) |
 | [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | 4 | B | B, D, E, F#, G#, B | ![BNaturalSylitonic](CircleOfFifthModeBNaturalSylitonic.svg) | ![BNaturalSylitonic](ChromaticCircleModeBNaturalSylitonic.svg) |
 | [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | -1 | D | D, E, F#, G#, B, D | ![DNaturalThonitonic](CircleOfFifthModeDNaturalThonitonic.svg) | ![DNaturalThonitonic](ChromaticCircleModeDNaturalThonitonic.svg) |
 | [1173](https://ianring.com/musictheory/scales/1173) | [Phropitonic](ModePhropitonic.md) | 5 | E | E, F#, G#, B, D, E | ![ENaturalPhropitonic](CircleOfFifthModeENaturalPhropitonic.svg) | ![ENaturalPhropitonic](ChromaticCircleModeENaturalPhropitonic.svg) |

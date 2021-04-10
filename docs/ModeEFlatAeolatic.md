@@ -13,7 +13,7 @@
 
 ## Mode
 
-[EFlatAeolatic](ModeEFlatAeolatic.md)
+[Aeolatic](ModeAeolatic.md)
 
 ## Number
 
@@ -91,19 +91,15 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [4087](https://ianring.com/musictheory/scales/4087) | [Aeolatic](ModeAeolatic.md) | 9 | D# | D#, E, F, G, G#, A, A#, B, C, C#, D, D# | ![DSharpAeolatic](CircleOfFifthModeDSharpAeolatic.svg) | ![DSharpAeolatic](ChromaticCircleModeDSharpAeolatic.svg) |
-| [4087](https://ianring.com/musictheory/scales/4087) | [Aeolatic](ModeAeolatic.md) | 9 | Eb | Eb, E, F, G, Ab, A, Bb, B, C, Db, D, Eb | ![EFlatAeolatic](CircleOfFifthModeEFlatAeolatic.svg) | ![EFlatAeolatic](ChromaticCircleModeEFlatAeolatic.svg) |
 | [4091](https://ianring.com/musictheory/scales/4091) | [Thydatic](ModeThydatic.md) | 2 | E | E, F, G, G#, A, A#, B, C, C#, D, D#, E | ![ENaturalThydatic](CircleOfFifthModeENaturalThydatic.svg) | ![ENaturalThydatic](ChromaticCircleModeENaturalThydatic.svg) |
 | [4093](https://ianring.com/musictheory/scales/4093) | [Aerycratic](ModeAerycratic.md) | 7 | F | F, G, G#, A, A#, B, C, C#, D, D#, E, F | ![FNaturalAerycratic](CircleOfFifthModeFNaturalAerycratic.svg) | ![FNaturalAerycratic](ChromaticCircleModeFNaturalAerycratic.svg) |
 | [2047](https://ianring.com/musictheory/scales/2047) | [Monatic](ModeMonatic.md) | 5 | G | G, G#, A, A#, B, C, C#, D, D#, E, F, G | ![GNaturalMonatic](CircleOfFifthModeGNaturalMonatic.svg) | ![GNaturalMonatic](ChromaticCircleModeGNaturalMonatic.svg) |
 | [3071](https://ianring.com/musictheory/scales/3071) | [Solatic](ModeSolatic.md) | 10 | G# | G#, A, A#, B, C, C#, D, D#, E, F, G, G# | ![GSharpSolatic](CircleOfFifthModeGSharpSolatic.svg) | ![GSharpSolatic](ChromaticCircleModeGSharpSolatic.svg) |
-| [3071](https://ianring.com/musictheory/scales/3071) | [Solatic](ModeSolatic.md) | 10 | Ab | Ab, A, Bb, B, C, Db, D, Eb, E, F, G, Ab | ![AFlatSolatic](CircleOfFifthModeAFlatSolatic.svg) | ![AFlatSolatic](ChromaticCircleModeAFlatSolatic.svg) |
 | [3583](https://ianring.com/musictheory/scales/3583) | [Zylatic](ModeZylatic.md) | 3 | A | A, A#, B, C, C#, D, D#, E, F, G, G#, A | ![ANaturalZylatic](CircleOfFifthModeANaturalZylatic.svg) | ![ANaturalZylatic](ChromaticCircleModeANaturalZylatic.svg) |
 | [3839](https://ianring.com/musictheory/scales/3839) | [Mixolatic](ModeMixolatic.md) | 8 | A# | A#, B, C, C#, D, D#, E, F, G, G#, A, A# | ![ASharpMixolatic](CircleOfFifthModeASharpMixolatic.svg) | ![ASharpMixolatic](ChromaticCircleModeASharpMixolatic.svg) |
-| [3839](https://ianring.com/musictheory/scales/3839) | [Mixolatic](ModeMixolatic.md) | 8 | Bb | Bb, B, C, Db, D, Eb, E, F, G, Ab, A, Bb | ![BFlatMixolatic](CircleOfFifthModeBFlatMixolatic.svg) | ![BFlatMixolatic](ChromaticCircleModeBFlatMixolatic.svg) |
 | [3967](https://ianring.com/musictheory/scales/3967) | [Soratic](ModeSoratic.md) | 1 | B | B, C, C#, D, D#, E, F, G, G#, A, A#, B | ![BNaturalSoratic](CircleOfFifthModeBNaturalSoratic.svg) | ![BNaturalSoratic](ChromaticCircleModeBNaturalSoratic.svg) |
 | [4031](https://ianring.com/musictheory/scales/4031) | [Godatic](ModeGodatic.md) | 6 | C | C, C#, D, D#, E, F, G, G#, A, A#, B, C | ![CNaturalGodatic](CircleOfFifthModeCNaturalGodatic.svg) | ![CNaturalGodatic](ChromaticCircleModeCNaturalGodatic.svg) |
 | [4063](https://ianring.com/musictheory/scales/4063) | [Eptatic](ModeEptatic.md) | 11 | C# | C#, D, D#, E, F, G, G#, A, A#, B, C, C# | ![CSharpEptatic](CircleOfFifthModeCSharpEptatic.svg) | ![CSharpEptatic](ChromaticCircleModeCSharpEptatic.svg) |
-| [4063](https://ianring.com/musictheory/scales/4063) | [Eptatic](ModeEptatic.md) | 11 | Db | Db, D, Eb, E, F, G, Ab, A, Bb, B, C, Db | ![DFlatEptatic](CircleOfFifthModeDFlatEptatic.svg) | ![DFlatEptatic](ChromaticCircleModeDFlatEptatic.svg) |
 | [4079](https://ianring.com/musictheory/scales/4079) | [Ionatic](ModeIonatic.md) | 4 | D | D, D#, E, F, G, G#, A, A#, B, C, C#, D | ![DNaturalIonatic](CircleOfFifthModeDNaturalIonatic.svg) | ![DNaturalIonatic](ChromaticCircleModeDNaturalIonatic.svg) |
 
 ## Chords

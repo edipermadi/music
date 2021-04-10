@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalZeracrimic](ModeGNaturalZeracrimic.md)
+[Zeracrimic](ModeZeracrimic.md)
 
 ## Number
 

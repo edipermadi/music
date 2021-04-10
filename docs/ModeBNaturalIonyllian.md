@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalIonyllian](ModeBNaturalIonyllian.md)
+[Ionyllian](ModeIonyllian.md)
 
 ## Number
 
@@ -91,18 +91,13 @@ C
 | [3831](https://ianring.com/musictheory/scales/3831) | [Ionyllian](ModeIonyllian.md) | 8 | B | B, C, C#, D#, E, F, F#, G#, A, A#, B | ![BNaturalIonyllian](CircleOfFifthModeBNaturalIonyllian.svg) | ![BNaturalIonyllian](ChromaticCircleModeBNaturalIonyllian.svg) |
 | [3963](https://ianring.com/musictheory/scales/3963) | [Aeoryllian](ModeAeoryllian.md) | 1 | C | C, C#, D#, E, F, F#, G#, A, A#, B, C | ![CNaturalAeoryllian](CircleOfFifthModeCNaturalAeoryllian.svg) | ![CNaturalAeoryllian](ChromaticCircleModeCNaturalAeoryllian.svg) |
 | [4029](https://ianring.com/musictheory/scales/4029) | [Aerycryllian](ModeAerycryllian.md) | 6 | C# | C#, D#, E, F, F#, G#, A, A#, B, C, C# | ![CSharpAerycryllian](CircleOfFifthModeCSharpAerycryllian.svg) | ![CSharpAerycryllian](ChromaticCircleModeCSharpAerycryllian.svg) |
-| [4029](https://ianring.com/musictheory/scales/4029) | [Aerycryllian](ModeAerycryllian.md) | 6 | Db | Db, Eb, E, F, Gb, Ab, A, Bb, B, C, Db | ![DFlatAerycryllian](CircleOfFifthModeDFlatAerycryllian.svg) | ![DFlatAerycryllian](ChromaticCircleModeDFlatAerycryllian.svg) |
 | [2031](https://ianring.com/musictheory/scales/2031) | [Gadyllian](ModeGadyllian.md) | 4 | D# | D#, E, F, F#, G#, A, A#, B, C, C#, D# | ![DSharpGadyllian](CircleOfFifthModeDSharpGadyllian.svg) | ![DSharpGadyllian](ChromaticCircleModeDSharpGadyllian.svg) |
-| [2031](https://ianring.com/musictheory/scales/2031) | [Gadyllian](ModeGadyllian.md) | 4 | Eb | Eb, E, F, Gb, Ab, A, Bb, B, C, Db, Eb | ![EFlatGadyllian](CircleOfFifthModeEFlatGadyllian.svg) | ![EFlatGadyllian](ChromaticCircleModeEFlatGadyllian.svg) |
 | [3063](https://ianring.com/musictheory/scales/3063) | [Solyllian](ModeSolyllian.md) | 9 | E | E, F, F#, G#, A, A#, B, C, C#, D#, E | ![ENaturalSolyllian](CircleOfFifthModeENaturalSolyllian.svg) | ![ENaturalSolyllian](ChromaticCircleModeENaturalSolyllian.svg) |
 | [3579](https://ianring.com/musictheory/scales/3579) | [Zyphyllian](ModeZyphyllian.md) | 2 | F | F, F#, G#, A, A#, B, C, C#, D#, E, F | ![FNaturalZyphyllian](CircleOfFifthModeFNaturalZyphyllian.svg) | ![FNaturalZyphyllian](ChromaticCircleModeFNaturalZyphyllian.svg) |
 | [3837](https://ianring.com/musictheory/scales/3837) | [Garyllian](ModeGaryllian.md) | 7 | F# | F#, G#, A, A#, B, C, C#, D#, E, F, F# | ![FSharpGaryllian](CircleOfFifthModeFSharpGaryllian.svg) | ![FSharpGaryllian](ChromaticCircleModeFSharpGaryllian.svg) |
-| [3837](https://ianring.com/musictheory/scales/3837) | [Garyllian](ModeGaryllian.md) | 7 | Gb | Gb, Ab, A, Bb, B, C, Db, Eb, E, F, Gb | ![GFlatGaryllian](CircleOfFifthModeGFlatGaryllian.svg) | ![GFlatGaryllian](ChromaticCircleModeGFlatGaryllian.svg) |
 | [1983](https://ianring.com/musictheory/scales/1983) | [Soryllian](ModeSoryllian.md) | 5 | G# | G#, A, A#, B, C, C#, D#, E, F, F#, G# | ![GSharpSoryllian](CircleOfFifthModeGSharpSoryllian.svg) | ![GSharpSoryllian](ChromaticCircleModeGSharpSoryllian.svg) |
-| [1983](https://ianring.com/musictheory/scales/1983) | [Soryllian](ModeSoryllian.md) | 5 | Ab | Ab, A, Bb, B, C, Db, Eb, E, F, Gb, Ab | ![AFlatSoryllian](CircleOfFifthModeAFlatSoryllian.svg) | ![AFlatSoryllian](ChromaticCircleModeAFlatSoryllian.svg) |
 | [3039](https://ianring.com/musictheory/scales/3039) | [Godyllian](ModeGodyllian.md) | 10 | A | A, A#, B, C, C#, D#, E, F, F#, G#, A | ![ANaturalGodyllian](CircleOfFifthModeANaturalGodyllian.svg) | ![ANaturalGodyllian](ChromaticCircleModeANaturalGodyllian.svg) |
 | [3567](https://ianring.com/musictheory/scales/3567) | [Epityllian](ModeEpityllian.md) | 3 | A# | A#, B, C, C#, D#, E, F, F#, G#, A, A# | ![ASharpEpityllian](CircleOfFifthModeASharpEpityllian.svg) | ![ASharpEpityllian](ChromaticCircleModeASharpEpityllian.svg) |
-| [3567](https://ianring.com/musictheory/scales/3567) | [Epityllian](ModeEpityllian.md) | 3 | Bb | Bb, B, C, Db, Eb, E, F, Gb, Ab, A, Bb | ![BFlatEpityllian](CircleOfFifthModeBFlatEpityllian.svg) | ![BFlatEpityllian](ChromaticCircleModeBFlatEpityllian.svg) |
 
 ## Chords
 

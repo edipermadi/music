@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalSaric](ModeFNaturalSaric.md)
+[Saric](ModeSaric.md)
 
 ## Number
 

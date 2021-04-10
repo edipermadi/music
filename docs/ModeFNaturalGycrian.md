@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalGycrian](ModeFNaturalGycrian.md)
+[Gycrian](ModeGycrian.md)
 
 ## Number
 
@@ -88,7 +88,6 @@ vi⁰b3
 | [701](https://ianring.com/musictheory/scales/701) | [Mixonyphian](ModeMixonyphian.md) | 6 | C | C, D, Eb, Fb, Gbb, Abb, Bbb, C | ![CNaturalMixonyphian](CircleOfFifthModeCNaturalMixonyphian.svg) | ![CNaturalMixonyphian](ChromaticCircleModeCNaturalMixonyphian.svg) |
 | [1199](https://ianring.com/musictheory/scales/1199) | [Magian](ModeMagian.md) | 4 | D | D, Eb, Fb, Gbb, Abb, Bbb, C, D | ![DNaturalMagian](CircleOfFifthModeDNaturalMagian.svg) | ![DNaturalMagian](ChromaticCircleModeDNaturalMagian.svg) |
 | [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | -1 | D# | D#, E, F, G, A, B#, C##, D# | ![DSharpDadian](CircleOfFifthModeDSharpDadian.svg) | ![DSharpDadian](ChromaticCircleModeDSharpDadian.svg) |
-| [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | -1 | Eb | Eb, Fb, Gbb, Abb, Bbb, C, D, Eb | ![EFlatDadian](CircleOfFifthModeEFlatDadian.svg) | ![EFlatDadian](ChromaticCircleModeEFlatDadian.svg) |
 | [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | 2 | E | E, F, G, A, B#, C##, D#, E | ![ENaturalAeolylian](CircleOfFifthModeENaturalAeolylian.svg) | ![ENaturalAeolylian](ChromaticCircleModeENaturalAeolylian.svg) |
 
 ## Chords

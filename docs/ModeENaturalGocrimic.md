@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ENaturalGocrimic](ModeENaturalGocrimic.md)
+[Gocrimic](ModeGocrimic.md)
 
 ## Number
 
@@ -84,11 +84,8 @@ v⁰
 | [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | 4 | F | F, G, A#, B##, C###, D##, F | ![FNaturalKatolimic](CircleOfFifthModeFNaturalKatolimic.svg) | ![FNaturalKatolimic](ChromaticCircleModeFNaturalKatolimic.svg) |
 | [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | -1 | G | G, A#, B##, C###, D##, E#, G | ![GNaturalThagimic](CircleOfFifthModeGNaturalThagimic.svg) | ![GNaturalThagimic](ChromaticCircleModeGNaturalThagimic.svg) |
 | [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | 5 | A# | A#, B##, C###, D##, E#, F##, A# | ![ASharpKolimic](CircleOfFifthModeASharpKolimic.svg) | ![ASharpKolimic](ChromaticCircleModeASharpKolimic.svg) |
-| [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | 5 | Bb | Bb, C#, D#, E, F, G, Bb | ![BFlatKolimic](CircleOfFifthModeBFlatKolimic.svg) | ![BFlatKolimic](ChromaticCircleModeBFlatKolimic.svg) |
 | [605](https://ianring.com/musictheory/scales/605) | [Dycrimic](ModeDycrimic.md) | -1 | C# | C#, D#, E, F, G, A#, C# | ![CSharpDycrimic](CircleOfFifthModeCSharpDycrimic.svg) | ![CSharpDycrimic](ChromaticCircleModeCSharpDycrimic.svg) |
-| [605](https://ianring.com/musictheory/scales/605) | [Dycrimic](ModeDycrimic.md) | -1 | Db | Db, Eb, Fb, Gbb, Abb, Bb, Db | ![DFlatDycrimic](CircleOfFifthModeDFlatDycrimic.svg) | ![DFlatDycrimic](ChromaticCircleModeDFlatDycrimic.svg) |
 | [1175](https://ianring.com/musictheory/scales/1175) | [Epycrimic](ModeEpycrimic.md) | 6 | D# | D#, E, F, G, A#, B##, D# | ![DSharpEpycrimic](CircleOfFifthModeDSharpEpycrimic.svg) | ![DSharpEpycrimic](ChromaticCircleModeDSharpEpycrimic.svg) |
-| [1175](https://ianring.com/musictheory/scales/1175) | [Epycrimic](ModeEpycrimic.md) | 6 | Eb | Eb, Fb, Gbb, Abb, Bb, C#, Eb | ![EFlatEpycrimic](CircleOfFifthModeEFlatEpycrimic.svg) | ![EFlatEpycrimic](ChromaticCircleModeEFlatEpycrimic.svg) |
 
 ## Chords
 

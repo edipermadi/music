@@ -21,5 +21,5 @@ Perfection Profile - true, false, true, false, true, false
 
 | Number | Mode | Luminosity | Notes | Illustration | Audio |
 |--------|------|------------|-------|--------------|-------|
-| [819](https://ianring.com/musictheory/scales/819) | [Aerythimic](ModeAerythimic.md) | 5 | **C**, Db, **E**, F, **G#**, A, **C** | ![CNaturalAerythimic](ModeCNaturalAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAerythimic.mid?raw=true) | 
+| [819](https://ianring.com/musictheory/scales/819) | [Aerythimic](ModeAerythimic.md) | -1 | **C**, Db, **E**, F, **G#**, A, **C** | ![CNaturalAerythimic](ModeCNaturalAerythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAerythimic.mid?raw=true) | 
 | [2457](https://ianring.com/musictheory/scales/2457) | [Ionythimic](ModeIonythimic.md) | 6 | C, **D#**, E, **F##**, G#, **A##**, C | ![CNaturalIonythimic](ModeCNaturalIonythimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalIonythimic.mid?raw=true) | 

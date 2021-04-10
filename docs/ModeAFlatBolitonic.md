@@ -13,7 +13,7 @@
 
 ## Mode
 
-[AFlatBolitonic](ModeAFlatBolitonic.md)
+[Bolitonic](ModeBolitonic.md)
 
 ## Number
 
@@ -79,12 +79,10 @@ II⁺
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | G# | G#, C, D, E, F#, G# | ![GSharpBolitonic](CircleOfFifthModeGSharpBolitonic.svg) | ![GSharpBolitonic](ChromaticCircleModeGSharpBolitonic.svg) |
-| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | Ab | Ab, C, D, E, Gb, Ab | ![AFlatBolitonic](CircleOfFifthModeAFlatBolitonic.svg) | ![AFlatBolitonic](ChromaticCircleModeAFlatBolitonic.svg) |
 | [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | -1 | C | C, D, E, F#, G#, C | ![CNaturalBothitonic](CircleOfFifthModeCNaturalBothitonic.svg) | ![CNaturalBothitonic](ChromaticCircleModeCNaturalBothitonic.svg) |
 | [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | -1 | D | D, E, F#, G#, C, D | ![DNaturalKataditonic](CircleOfFifthModeDNaturalKataditonic.svg) | ![DNaturalKataditonic](ChromaticCircleModeDNaturalKataditonic.svg) |
 | [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | -1 | E | E, F#, G#, C, D, E | ![ENaturalKoditonic](CircleOfFifthModeENaturalKoditonic.svg) | ![ENaturalKoditonic](ChromaticCircleModeENaturalKoditonic.svg) |
 | [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | -1 | F# | F#, G#, C, D, E, F# | ![FSharpTholitonic](CircleOfFifthModeFSharpTholitonic.svg) | ![FSharpTholitonic](ChromaticCircleModeFSharpTholitonic.svg) |
-| [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | -1 | Gb | Gb, Ab, C, D, E, Gb | ![GFlatTholitonic](CircleOfFifthModeGFlatTholitonic.svg) | ![GFlatTholitonic](ChromaticCircleModeGFlatTholitonic.svg) |
 
 ## Chords
 

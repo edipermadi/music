@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalKaptyllic](ModeANaturalKaptyllic.md)
+[Kaptyllic](ModeKaptyllic.md)
 
 ## Number
 
@@ -21,7 +21,7 @@
 
 ## Luminosity
 
-8
+-1
 
 ## Tonic
 
@@ -82,11 +82,6 @@ i⁰b3, ii⁰, IIIb5, iv⁰, v⁰b3, vi⁰, VIIb5, viii⁰
 | [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | -1 | A | A, A#, B, C#, D#, E, F, G, A | ![ANaturalKaptyllic](CircleOfFifthModeANaturalKaptyllic.svg) | ![ANaturalKaptyllic](ChromaticCircleModeANaturalKaptyllic.svg) |
 | [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | 6 | B | B, C#, D#, E, F, G, A, A#, B | ![BNaturalEpotyllic](CircleOfFifthModeBNaturalEpotyllic.svg) | ![BNaturalEpotyllic](ChromaticCircleModeBNaturalEpotyllic.svg) |
 | [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | -1 | C# | C#, D#, E, F, G, A, A#, B, C# | ![CSharpEpidyllic](CircleOfFifthModeCSharpEpidyllic.svg) | ![CSharpEpidyllic](ChromaticCircleModeCSharpEpidyllic.svg) |
-| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | -1 | Db | Db, Eb, E, F, G, A, Bb, B, Db | ![DFlatEpidyllic](CircleOfFifthModeDFlatEpidyllic.svg) | ![DFlatEpidyllic](ChromaticCircleModeDFlatEpidyllic.svg) |
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | 8 | D# | D#, E, F, G, A, A#, B, C#, D# | ![DSharpKaptyllic](CircleOfFifthModeDSharpKaptyllic.svg) | ![DSharpKaptyllic](ChromaticCircleModeDSharpKaptyllic.svg) |
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | -1 | Eb | Eb, E, F, G, A, Bb, B, Db, Eb | ![EFlatKaptyllic](CircleOfFifthModeEFlatKaptyllic.svg) | ![EFlatKaptyllic](ChromaticCircleModeEFlatKaptyllic.svg) |
-| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | 6 | F | F, G, A, A#, B, C#, D#, E, F | ![FNaturalEpotyllic](CircleOfFifthModeFNaturalEpotyllic.svg) | ![FNaturalEpotyllic](ChromaticCircleModeFNaturalEpotyllic.svg) |
-| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | -1 | G | G, A, A#, B, C#, D#, E, F, G | ![GNaturalEpidyllic](CircleOfFifthModeGNaturalEpidyllic.svg) | ![GNaturalEpidyllic](ChromaticCircleModeGNaturalEpidyllic.svg) |
 
 ## Chords
 

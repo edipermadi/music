@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalKaptian](ModeFNaturalKaptian.md)
+[Kaptian](ModeKaptian.md)
 
 ## Number
 
@@ -84,12 +84,10 @@ IVb5, vi⁰b3
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [3667](https://ianring.com/musictheory/scales/3667) | [Kaptian](ModeKaptian.md) | -1 | F | F, Gb, A, B, C##, D#, E, F | ![FNaturalKaptian](CircleOfFifthModeFNaturalKaptian.svg) | ![FNaturalKaptian](ChromaticCircleModeFNaturalKaptian.svg) |
 | [3881](https://ianring.com/musictheory/scales/3881) | [Morian](ModeMorian.md) | 3 | F# | F#, G##, A##, B###, C###, D##, E#, F# | ![FSharpMorian](CircleOfFifthModeFSharpMorian.svg) | ![FSharpMorian](ChromaticCircleModeFSharpMorian.svg) |
-| [3881](https://ianring.com/musictheory/scales/3881) | [Morian](ModeMorian.md) | 3 | Gb | Gb, A, B, C##, D#, E, F, Gb | ![GFlatMorian](CircleOfFifthModeGFlatMorian.svg) | ![GFlatMorian](ChromaticCircleModeGFlatMorian.svg) |
 | [997](https://ianring.com/musictheory/scales/997) | [Rycrian](ModeRycrian.md) | 6 | A | A, B, C##, D#, E, F, Gb, A | ![ANaturalRycrian](CircleOfFifthModeANaturalRycrian.svg) | ![ANaturalRycrian](ChromaticCircleModeANaturalRycrian.svg) |
 | [1273](https://ianring.com/musictheory/scales/1273) | [Ronian](ModeRonian.md) | 4 | B | B, C##, D#, E, F, Gb, A, B | ![BNaturalRonian](CircleOfFifthModeBNaturalRonian.svg) | ![BNaturalRonian](ChromaticCircleModeBNaturalRonian.svg) |
 | [671](https://ianring.com/musictheory/scales/671) | [Stycrian](ModeStycrian.md) | 7 | D | D, Eb, Fb, Gbb, Abbb, Bbb, Cb, D | ![DNaturalStycrian](CircleOfFifthModeDNaturalStycrian.svg) | ![DNaturalStycrian](ChromaticCircleModeDNaturalStycrian.svg) |
 | [2383](https://ianring.com/musictheory/scales/2383) | [Katorian](ModeKatorian.md) | -1 | D# | D#, E, F, Gb, A, B, C##, D# | ![DSharpKatorian](CircleOfFifthModeDSharpKatorian.svg) | ![DSharpKatorian](ChromaticCircleModeDSharpKatorian.svg) |
-| [2383](https://ianring.com/musictheory/scales/2383) | [Katorian](ModeKatorian.md) | -1 | Eb | Eb, Fb, Gbb, Abbb, Bbb, Cb, D, Eb | ![EFlatKatorian](CircleOfFifthModeEFlatKatorian.svg) | ![EFlatKatorian](ChromaticCircleModeEFlatKatorian.svg) |
 | [3239](https://ianring.com/musictheory/scales/3239) | [Epythian](ModeEpythian.md) | 5 | E | E, F, Gb, A, B, C##, D#, E | ![ENaturalEpythian](CircleOfFifthModeENaturalEpythian.svg) | ![ENaturalEpythian](ChromaticCircleModeENaturalEpythian.svg) |
 
 ## Chords

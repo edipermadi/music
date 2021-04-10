@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalKatagitonic](ModeBNaturalKatagitonic.md)
+[Katagitonic](ModeKatagitonic.md)
 
 ## Number
 
@@ -81,11 +81,8 @@ III⁺
 | [2697](https://ianring.com/musictheory/scales/2697) | [Katagitonic](ModeKatagitonic.md) | 5 | B | B, D, F#, G#, A#, B | ![BNaturalKatagitonic](CircleOfFifthModeBNaturalKatagitonic.svg) | ![BNaturalKatagitonic](ChromaticCircleModeBNaturalKatagitonic.svg) |
 | [849](https://ianring.com/musictheory/scales/849) | [Aerynitonic](ModeAerynitonic.md) | -1 | D | D, F#, G#, A#, B, D | ![DNaturalAerynitonic](CircleOfFifthModeDNaturalAerynitonic.svg) | ![DNaturalAerynitonic](ChromaticCircleModeDNaturalAerynitonic.svg) |
 | [309](https://ianring.com/musictheory/scales/309) | [Palitonic](ModePalitonic.md) | 4 | F# | F#, G#, A#, B, D, F# | ![FSharpPalitonic](CircleOfFifthModeFSharpPalitonic.svg) | ![FSharpPalitonic](ChromaticCircleModeFSharpPalitonic.svg) |
-| [309](https://ianring.com/musictheory/scales/309) | [Palitonic](ModePalitonic.md) | 4 | Gb | Gb, Ab, Bb, B, D, Gb | ![GFlatPalitonic](CircleOfFifthModeGFlatPalitonic.svg) | ![GFlatPalitonic](ChromaticCircleModeGFlatPalitonic.svg) |
 | [1101](https://ianring.com/musictheory/scales/1101) | [Stothitonic](ModeStothitonic.md) | -1 | G# | G#, A#, B, D, F#, G# | ![GSharpStothitonic](CircleOfFifthModeGSharpStothitonic.svg) | ![GSharpStothitonic](ChromaticCircleModeGSharpStothitonic.svg) |
-| [1101](https://ianring.com/musictheory/scales/1101) | [Stothitonic](ModeStothitonic.md) | -1 | Ab | Ab, Bb, B, D, Gb, Ab | ![AFlatStothitonic](CircleOfFifthModeAFlatStothitonic.svg) | ![AFlatStothitonic](ChromaticCircleModeAFlatStothitonic.svg) |
 | [1299](https://ianring.com/musictheory/scales/1299) | [Aerophitonic](ModeAerophitonic.md) | -1 | A# | A#, B, D, F#, G#, A# | ![ASharpAerophitonic](CircleOfFifthModeASharpAerophitonic.svg) | ![ASharpAerophitonic](ChromaticCircleModeASharpAerophitonic.svg) |
-| [1299](https://ianring.com/musictheory/scales/1299) | [Aerophitonic](ModeAerophitonic.md) | -1 | Bb | Bb, B, D, Gb, Ab, Bb | ![BFlatAerophitonic](CircleOfFifthModeBFlatAerophitonic.svg) | ![BFlatAerophitonic](ChromaticCircleModeBFlatAerophitonic.svg) |
 
 ## Chords
 

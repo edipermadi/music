@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CNaturalTholitonic](ModeCNaturalTholitonic.md)
+[Tholitonic](ModeTholitonic.md)
 
 ## Number
 
@@ -81,11 +81,8 @@ III⁺
 | [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | -1 | C | C, D, F#, G#, A#, C | ![CNaturalTholitonic](CircleOfFifthModeCNaturalTholitonic.svg) | ![CNaturalTholitonic](ChromaticCircleModeCNaturalTholitonic.svg) |
 | [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | D | D, F#, G#, A#, C, D | ![DNaturalBolitonic](CircleOfFifthModeDNaturalBolitonic.svg) | ![DNaturalBolitonic](ChromaticCircleModeDNaturalBolitonic.svg) |
 | [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | -1 | F# | F#, G#, A#, C, D, F# | ![FSharpBothitonic](CircleOfFifthModeFSharpBothitonic.svg) | ![FSharpBothitonic](ChromaticCircleModeFSharpBothitonic.svg) |
-| [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | -1 | Gb | Gb, Ab, Bb, C, D, Gb | ![GFlatBothitonic](CircleOfFifthModeGFlatBothitonic.svg) | ![GFlatBothitonic](ChromaticCircleModeGFlatBothitonic.svg) |
 | [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | -1 | G# | G#, A#, C, D, F#, G# | ![GSharpKataditonic](CircleOfFifthModeGSharpKataditonic.svg) | ![GSharpKataditonic](ChromaticCircleModeGSharpKataditonic.svg) |
-| [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | -1 | Ab | Ab, Bb, C, D, Gb, Ab | ![AFlatKataditonic](CircleOfFifthModeAFlatKataditonic.svg) | ![AFlatKataditonic](ChromaticCircleModeAFlatKataditonic.svg) |
 | [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | -1 | A# | A#, C, D, F#, G#, A# | ![ASharpKoditonic](CircleOfFifthModeASharpKoditonic.svg) | ![ASharpKoditonic](ChromaticCircleModeASharpKoditonic.svg) |
-| [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | -1 | Bb | Bb, C, D, Gb, Ab, Bb | ![BFlatKoditonic](CircleOfFifthModeBFlatKoditonic.svg) | ![BFlatKoditonic](ChromaticCircleModeBFlatKoditonic.svg) |
 
 ## Chords
 

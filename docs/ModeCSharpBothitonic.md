@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CSharpBothitonic](ModeCSharpBothitonic.md)
+[Bothitonic](ModeBothitonic.md)
 
 ## Number
 
@@ -79,9 +79,7 @@ I⁺
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | -1 | C# | C#, D#, F, G, A, C# | ![CSharpBothitonic](CircleOfFifthModeCSharpBothitonic.svg) | ![CSharpBothitonic](ChromaticCircleModeCSharpBothitonic.svg) |
-| [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | -1 | Db | Db, Eb, F, G, A, Db | ![DFlatBothitonic](CircleOfFifthModeDFlatBothitonic.svg) | ![DFlatBothitonic](ChromaticCircleModeDFlatBothitonic.svg) |
 | [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | -1 | D# | D#, F, G, A, C#, D# | ![DSharpKataditonic](CircleOfFifthModeDSharpKataditonic.svg) | ![DSharpKataditonic](ChromaticCircleModeDSharpKataditonic.svg) |
-| [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | -1 | Eb | Eb, F, G, A, Db, Eb | ![EFlatKataditonic](CircleOfFifthModeEFlatKataditonic.svg) | ![EFlatKataditonic](ChromaticCircleModeEFlatKataditonic.svg) |
 | [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | -1 | F | F, G, A, C#, D#, F | ![FNaturalKoditonic](CircleOfFifthModeFNaturalKoditonic.svg) | ![FNaturalKoditonic](ChromaticCircleModeFNaturalKoditonic.svg) |
 | [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | -1 | G | G, A, C#, D#, F, G | ![GNaturalTholitonic](CircleOfFifthModeGNaturalTholitonic.svg) | ![GNaturalTholitonic](ChromaticCircleModeGNaturalTholitonic.svg) |
 | [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | A | A, C#, D#, F, G, A | ![ANaturalBolitonic](CircleOfFifthModeANaturalBolitonic.svg) | ![ANaturalBolitonic](ChromaticCircleModeANaturalBolitonic.svg) |

@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalDygic](ModeDNaturalDygic.md)
+[Dygic](ModeDygic.md)
 
 ## Number
 
@@ -80,7 +80,6 @@ C
 | [785](https://ianring.com/musictheory/scales/785) | [Aeoloric](ModeAeoloric.md) | -1 | F | F, A, C#, D, F | ![FNaturalAeoloric](CircleOfFifthModeFNaturalAeoloric.svg) | ![FNaturalAeoloric](ChromaticCircleModeFNaturalAeoloric.svg) |
 | [305](https://ianring.com/musictheory/scales/305) | [Gonic](ModeGonic.md) | 3 | A | A, C#, D, F, A | ![ANaturalGonic](CircleOfFifthModeANaturalGonic.svg) | ![ANaturalGonic](ChromaticCircleModeANaturalGonic.svg) |
 | [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | -1 | C# | C#, D, F, A, C# | ![CSharpDalic](CircleOfFifthModeCSharpDalic.svg) | ![CSharpDalic](ChromaticCircleModeCSharpDalic.svg) |
-| [275](https://ianring.com/musictheory/scales/275) | [Dalic](ModeDalic.md) | -1 | Db | Db, D, F, A, Db | ![DFlatDalic](CircleOfFifthModeDFlatDalic.svg) | ![DFlatDalic](ChromaticCircleModeDFlatDalic.svg) |
 
 ## Chords
 

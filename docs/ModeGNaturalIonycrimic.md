@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalIonycrimic](ModeGNaturalIonycrimic.md)
+[Ionycrimic](ModeIonycrimic.md)
 
 ## Number
 

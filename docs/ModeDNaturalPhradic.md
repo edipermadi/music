@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalPhradic](ModeDNaturalPhradic.md)
+[Phradic](ModePhradic.md)
 
 ## Number
 

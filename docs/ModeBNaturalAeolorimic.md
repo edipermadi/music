@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalAeolorimic](ModeBNaturalAeolorimic.md)
+[Aeolorimic](ModeAeolorimic.md)
 
 ## Number
 

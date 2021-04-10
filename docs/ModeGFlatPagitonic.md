@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GFlatPagitonic](ModeGFlatPagitonic.md)
+[Pagitonic](ModePagitonic.md)
 
 ## Number
 
@@ -21,7 +21,7 @@
 
 ## Luminosity
 
-5
+-1
 
 ## Tonic
 
@@ -72,18 +72,16 @@ C
 | [1163](https://ianring.com/musictheory/scales/1163) | [Pagitonic](ModePagitonic.md) | -1 | F# | F#, G, A, C#, E, F# | ![FSharpPagitonic](ModeFSharpPagitonic.png) |
 | [2629](https://ianring.com/musictheory/scales/2629) | [Aeolythitonic](ModeAeolythitonic.md) | -1 | G | G, A, C#, E, F#, G | ![GNaturalAeolythitonic](ModeGNaturalAeolythitonic.png) |
 | [1681](https://ianring.com/musictheory/scales/1681) | [Ionaditonic](ModeIonaditonic.md) | -1 | A | A, C#, E, F#, G, A | ![ANaturalIonaditonic](ModeANaturalIonaditonic.png) |
-| [361](https://ianring.com/musictheory/scales/361) | [Bocritonic](ModeBocritonic.md) | -1 | C# | C#, E, F#, G, A, C# | ![CSharpBocritonic](ModeCSharpBocritonic.png) |
-| [557](https://ianring.com/musictheory/scales/557) | [Gythitonic](ModeGythitonic.md) | -1 | E | E, F#, G, A, C#, E | ![ENaturalGythitonic](ModeENaturalGythitonic.png) |
+| [361](https://ianring.com/musictheory/scales/361) | [Bocritonic](ModeBocritonic.md) | 4 | C# | C#, E, F#, G, A, C# | ![CSharpBocritonic](ModeCSharpBocritonic.png) |
+| [557](https://ianring.com/musictheory/scales/557) | [Gythitonic](ModeGythitonic.md) | 4 | E | E, F#, G, A, C#, E | ![ENaturalGythitonic](ModeENaturalGythitonic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
-| [1163](https://ianring.com/musictheory/scales/1163) | [Pagitonic](ModePagitonic.md) | -1 | F# | F#, G, A, C#, E, F# | ![FSharpPagitonic](CircleOfFifthModeFSharpPagitonic.svg) | ![FSharpPagitonic](ChromaticCircleModeFSharpPagitonic.svg) |
-| [1163](https://ianring.com/musictheory/scales/1163) | [Pagitonic](ModePagitonic.md) | 5 | Gb | Gb, G, A, Db, E, Gb | ![GFlatPagitonic](CircleOfFifthModeGFlatPagitonic.svg) | ![GFlatPagitonic](ChromaticCircleModeGFlatPagitonic.svg) |
+| [1163](https://ianring.com/musictheory/scales/1163) | [Pagitonic](ModePagitonic.md) | 5 | F# | F#, G, A, C#, E, F# | ![FSharpPagitonic](CircleOfFifthModeFSharpPagitonic.svg) | ![FSharpPagitonic](ChromaticCircleModeFSharpPagitonic.svg) |
 | [2629](https://ianring.com/musictheory/scales/2629) | [Aeolythitonic](ModeAeolythitonic.md) | -1 | G | G, A, C#, E, F#, G | ![GNaturalAeolythitonic](CircleOfFifthModeGNaturalAeolythitonic.svg) | ![GNaturalAeolythitonic](ChromaticCircleModeGNaturalAeolythitonic.svg) |
-| [1681](https://ianring.com/musictheory/scales/1681) | [Ionaditonic](ModeIonaditonic.md) | 5 | A | A, C#, E, F#, G, A | ![ANaturalIonaditonic](CircleOfFifthModeANaturalIonaditonic.svg) | ![ANaturalIonaditonic](ChromaticCircleModeANaturalIonaditonic.svg) |
-| [361](https://ianring.com/musictheory/scales/361) | [Bocritonic](ModeBocritonic.md) | 4 | C# | C#, E, F#, G, A, C# | ![CSharpBocritonic](CircleOfFifthModeCSharpBocritonic.svg) | ![CSharpBocritonic](ChromaticCircleModeCSharpBocritonic.svg) |
-| [361](https://ianring.com/musictheory/scales/361) | [Bocritonic](ModeBocritonic.md) | 4 | Db | Db, E, Gb, G, A, Db | ![DFlatBocritonic](CircleOfFifthModeDFlatBocritonic.svg) | ![DFlatBocritonic](ChromaticCircleModeDFlatBocritonic.svg) |
+| [1681](https://ianring.com/musictheory/scales/1681) | [Ionaditonic](ModeIonaditonic.md) | -1 | A | A, C#, E, F#, G, A | ![ANaturalIonaditonic](CircleOfFifthModeANaturalIonaditonic.svg) | ![ANaturalIonaditonic](ChromaticCircleModeANaturalIonaditonic.svg) |
+| [361](https://ianring.com/musictheory/scales/361) | [Bocritonic](ModeBocritonic.md) | -1 | C# | C#, E, F#, G, A, C# | ![CSharpBocritonic](CircleOfFifthModeCSharpBocritonic.svg) | ![CSharpBocritonic](ChromaticCircleModeCSharpBocritonic.svg) |
 | [557](https://ianring.com/musictheory/scales/557) | [Gythitonic](ModeGythitonic.md) | 4 | E | E, F#, G, A, C#, E | ![ENaturalGythitonic](CircleOfFifthModeENaturalGythitonic.svg) | ![ENaturalGythitonic](ChromaticCircleModeENaturalGythitonic.svg) |
 
 ## Chords

@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalZarimic](ModeANaturalZarimic.md)
+[Zarimic](ModeZarimic.md)
 
 ## Number
 
@@ -73,7 +73,7 @@ vi
 | [3173](https://ianring.com/musictheory/scales/3173) | [Zarimic](ModeZarimic.md) | 4 | A | A, B, C##, D#, E###, F###, A | ![ANaturalZarimic](ModeANaturalZarimic.png) |
 | [1817](https://ianring.com/musictheory/scales/1817) | [Phrythimic](ModePhrythimic.md) | -1 | B | B, C##, D#, E###, F###, G##, B | ![BNaturalPhrythimic](ModeBNaturalPhrythimic.png) |
 | [739](https://ianring.com/musictheory/scales/739) | [Rorimic](ModeRorimic.md) | -1 | D | D, Eb, F##, G#, A, B, D | ![DNaturalRorimic](ModeDNaturalRorimic.png) |
-| [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | -1 | D# | D#, E###, F###, G##, A##, B###, D# | ![DSharpKanimic](ModeDSharpKanimic.png) |
+| [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | 5 | D# | D#, E###, F###, G##, A##, B###, D# | ![DSharpKanimic](ModeDSharpKanimic.png) |
 | [407](https://ianring.com/musictheory/scales/407) | [Zylimic](ModeZylimic.md) | -1 | G | G, Ab, Bbb, Cb, D, Eb, G | ![GNaturalZylimic](ModeGNaturalZylimic.png) |
 | [2251](https://ianring.com/musictheory/scales/2251) | [Zodimic](ModeZodimic.md) | -1 | G# | G#, A, B, C##, D#, E###, G# | ![GSharpZodimic](ModeGSharpZodimic.png) |
 ## Relative Brightness
@@ -82,12 +82,10 @@ vi
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [3173](https://ianring.com/musictheory/scales/3173) | [Zarimic](ModeZarimic.md) | -1 | A | A, B, C##, D#, E###, F###, A | ![ANaturalZarimic](CircleOfFifthModeANaturalZarimic.svg) | ![ANaturalZarimic](ChromaticCircleModeANaturalZarimic.svg) |
 | [1817](https://ianring.com/musictheory/scales/1817) | [Phrythimic](ModePhrythimic.md) | -1 | B | B, C##, D#, E###, F###, G##, B | ![BNaturalPhrythimic](CircleOfFifthModeBNaturalPhrythimic.svg) | ![BNaturalPhrythimic](ChromaticCircleModeBNaturalPhrythimic.svg) |
-| [739](https://ianring.com/musictheory/scales/739) | [Rorimic](ModeRorimic.md) | 5 | D | D, Eb, F##, G#, A, B, D | ![DNaturalRorimic](CircleOfFifthModeDNaturalRorimic.svg) | ![DNaturalRorimic](ChromaticCircleModeDNaturalRorimic.svg) |
-| [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | 5 | D# | D#, E###, F###, G##, A##, B###, D# | ![DSharpKanimic](CircleOfFifthModeDSharpKanimic.svg) | ![DSharpKanimic](ChromaticCircleModeDSharpKanimic.svg) |
-| [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | -1 | Eb | Eb, F##, G#, A, B, C##, Eb | ![EFlatKanimic](CircleOfFifthModeEFlatKanimic.svg) | ![EFlatKanimic](ChromaticCircleModeEFlatKanimic.svg) |
+| [739](https://ianring.com/musictheory/scales/739) | [Rorimic](ModeRorimic.md) | -1 | D | D, Eb, F##, G#, A, B, D | ![DNaturalRorimic](CircleOfFifthModeDNaturalRorimic.svg) | ![DNaturalRorimic](ChromaticCircleModeDNaturalRorimic.svg) |
+| [2417](https://ianring.com/musictheory/scales/2417) | [Kanimic](ModeKanimic.md) | -1 | D# | D#, E###, F###, G##, A##, B###, D# | ![DSharpKanimic](CircleOfFifthModeDSharpKanimic.svg) | ![DSharpKanimic](ChromaticCircleModeDSharpKanimic.svg) |
 | [407](https://ianring.com/musictheory/scales/407) | [Zylimic](ModeZylimic.md) | -1 | G | G, Ab, Bbb, Cb, D, Eb, G | ![GNaturalZylimic](CircleOfFifthModeGNaturalZylimic.svg) | ![GNaturalZylimic](ChromaticCircleModeGNaturalZylimic.svg) |
-| [2251](https://ianring.com/musictheory/scales/2251) | [Zodimic](ModeZodimic.md) | 6 | G# | G#, A, B, C##, D#, E###, G# | ![GSharpZodimic](CircleOfFifthModeGSharpZodimic.svg) | ![GSharpZodimic](ChromaticCircleModeGSharpZodimic.svg) |
-| [2251](https://ianring.com/musictheory/scales/2251) | [Zodimic](ModeZodimic.md) | -1 | Ab | Ab, Bbb, Cb, D, Eb, F##, Ab | ![AFlatZodimic](CircleOfFifthModeAFlatZodimic.svg) | ![AFlatZodimic](ChromaticCircleModeAFlatZodimic.svg) |
+| [2251](https://ianring.com/musictheory/scales/2251) | [Zodimic](ModeZodimic.md) | -1 | G# | G#, A, B, C##, D#, E###, G# | ![GSharpZodimic](CircleOfFifthModeGSharpZodimic.svg) | ![GSharpZodimic](ChromaticCircleModeGSharpZodimic.svg) |
 
 ## Chords
 

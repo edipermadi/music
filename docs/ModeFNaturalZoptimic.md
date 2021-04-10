@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalZoptimic](ModeFNaturalZoptimic.md)
+[Zoptimic](ModeZoptimic.md)
 
 ## Number
 

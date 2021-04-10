@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalPhropitonic](ModeGNaturalPhropitonic.md)
+[Phropitonic](ModePhropitonic.md)
 
 ## Number
 

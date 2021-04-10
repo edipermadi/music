@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalLothimic](ModeGNaturalLothimic.md)
+[Lothimic](ModeLothimic.md)
 
 ## Number
 

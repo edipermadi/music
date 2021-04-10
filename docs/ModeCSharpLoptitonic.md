@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CSharpLoptitonic](ModeCSharpLoptitonic.md)
+[Loptitonic](ModeLoptitonic.md)
 
 ## Number
 
@@ -79,11 +79,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1171](https://ianring.com/musictheory/scales/1171) | [Loptitonic](ModeLoptitonic.md) | 5 | C# | C#, D, F, G#, B, C# | ![CSharpLoptitonic](CircleOfFifthModeCSharpLoptitonic.svg) | ![CSharpLoptitonic](ChromaticCircleModeCSharpLoptitonic.svg) |
-| [1171](https://ianring.com/musictheory/scales/1171) | [Loptitonic](ModeLoptitonic.md) | 5 | Db | Db, D, F, Ab, B, Db | ![DFlatLoptitonic](CircleOfFifthModeDFlatLoptitonic.svg) | ![DFlatLoptitonic](ChromaticCircleModeDFlatLoptitonic.svg) |
 | [2633](https://ianring.com/musictheory/scales/2633) | [Mixitonic](ModeMixitonic.md) | -1 | D | D, F, G#, B, C#, D | ![DNaturalMixitonic](CircleOfFifthModeDNaturalMixitonic.svg) | ![DNaturalMixitonic](ChromaticCircleModeDNaturalMixitonic.svg) |
 | [841](https://ianring.com/musictheory/scales/841) | [Phrothitonic](ModePhrothitonic.md) | -1 | F | F, G#, B, C#, D, F | ![FNaturalPhrothitonic](CircleOfFifthModeFNaturalPhrothitonic.svg) | ![FNaturalPhrothitonic](ChromaticCircleModeFNaturalPhrothitonic.svg) |
 | [617](https://ianring.com/musictheory/scales/617) | [Katycritonic](ModeKatycritonic.md) | 4 | G# | G#, B, C#, D, F, G# | ![GSharpKatycritonic](CircleOfFifthModeGSharpKatycritonic.svg) | ![GSharpKatycritonic](ChromaticCircleModeGSharpKatycritonic.svg) |
-| [617](https://ianring.com/musictheory/scales/617) | [Katycritonic](ModeKatycritonic.md) | 4 | Ab | Ab, B, Db, D, F, Ab | ![AFlatKatycritonic](CircleOfFifthModeAFlatKatycritonic.svg) | ![AFlatKatycritonic](ChromaticCircleModeAFlatKatycritonic.svg) |
 | [589](https://ianring.com/musictheory/scales/589) | [Ionalitonic](ModeIonalitonic.md) | -1 | B | B, C#, D, F, G#, B | ![BNaturalIonalitonic](CircleOfFifthModeBNaturalIonalitonic.svg) | ![BNaturalIonalitonic](ChromaticCircleModeBNaturalIonalitonic.svg) |
 
 ## Chords

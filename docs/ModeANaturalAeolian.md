@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalAeolian](ModeANaturalAeolian.md)
+[Aeolian](ModeAeolian.md)
 
 ## Number
 

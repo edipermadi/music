@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalZoptic](ModeANaturalZoptic.md)
+[Zoptic](ModeZoptic.md)
 
 ## Number
 

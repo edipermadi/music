@@ -13,7 +13,7 @@
 
 ## Mode
 
-[AFlatMinoric](ModeAFlatMinoric.md)
+[Minoric](ModeMinoric.md)
 
 ## Number
 
@@ -73,9 +73,6 @@ I⁺, II⁺, III⁺
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | G# | G#, C, E, G# | ![GSharpMinoric](CircleOfFifthModeGSharpMinoric.svg) | ![GSharpMinoric](ChromaticCircleModeGSharpMinoric.svg) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | Ab | Ab, C, E, Ab | ![AFlatMinoric](CircleOfFifthModeAFlatMinoric.svg) | ![AFlatMinoric](ChromaticCircleModeAFlatMinoric.svg) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | C | C, E, G#, C | ![CNaturalMinoric](CircleOfFifthModeCNaturalMinoric.svg) | ![CNaturalMinoric](ChromaticCircleModeCNaturalMinoric.svg) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | E | E, G#, C, E | ![ENaturalMinoric](CircleOfFifthModeENaturalMinoric.svg) | ![ENaturalMinoric](ChromaticCircleModeENaturalMinoric.svg) |
 
 ## Chords
 

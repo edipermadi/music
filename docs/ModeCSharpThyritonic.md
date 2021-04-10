@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CSharpThyritonic](ModeCSharpThyritonic.md)
+[Thyritonic](ModeThyritonic.md)
 
 ## Number
 
@@ -79,11 +79,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1609](https://ianring.com/musictheory/scales/1609) | [Thyritonic](ModeThyritonic.md) | -1 | C# | C#, E, G, A#, B, C# | ![CSharpThyritonic](CircleOfFifthModeCSharpThyritonic.svg) | ![CSharpThyritonic](ChromaticCircleModeCSharpThyritonic.svg) |
-| [1609](https://ianring.com/musictheory/scales/1609) | [Thyritonic](ModeThyritonic.md) | -1 | Db | Db, E, G, Bb, B, Db | ![DFlatThyritonic](CircleOfFifthModeDFlatThyritonic.svg) | ![DFlatThyritonic](ChromaticCircleModeDFlatThyritonic.svg) |
 | [713](https://ianring.com/musictheory/scales/713) | [Thoptitonic](ModeThoptitonic.md) | 5 | E | E, G, A#, B, C#, E | ![ENaturalThoptitonic](CircleOfFifthModeENaturalThoptitonic.svg) | ![ENaturalThoptitonic](ChromaticCircleModeENaturalThoptitonic.svg) |
 | [601](https://ianring.com/musictheory/scales/601) | [Bycritonic](ModeBycritonic.md) | -1 | G | G, A#, B, C#, E, G | ![GNaturalBycritonic](CircleOfFifthModeGNaturalBycritonic.svg) | ![GNaturalBycritonic](ChromaticCircleModeGNaturalBycritonic.svg) |
 | [587](https://ianring.com/musictheory/scales/587) | [Pathitonic](ModePathitonic.md) | -1 | A# | A#, B, C#, E, G, A# | ![ASharpPathitonic](CircleOfFifthModeASharpPathitonic.svg) | ![ASharpPathitonic](ChromaticCircleModeASharpPathitonic.svg) |
-| [587](https://ianring.com/musictheory/scales/587) | [Pathitonic](ModePathitonic.md) | -1 | Bb | Bb, B, Db, E, G, Bb | ![BFlatPathitonic](CircleOfFifthModeBFlatPathitonic.svg) | ![BFlatPathitonic](ChromaticCircleModeBFlatPathitonic.svg) |
 | [2341](https://ianring.com/musictheory/scales/2341) | [Myditonic](ModeMyditonic.md) | 4 | B | B, C#, E, G, A#, B | ![BNaturalMyditonic](CircleOfFifthModeBNaturalMyditonic.svg) | ![BNaturalMyditonic](ChromaticCircleModeBNaturalMyditonic.svg) |
 
 ## Chords

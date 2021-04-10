@@ -13,7 +13,7 @@
 
 ## Mode
 
-[EFlatLagitonic](ModeEFlatLagitonic.md)
+[Lagitonic](ModeLagitonic.md)
 
 ## Number
 
@@ -79,13 +79,10 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | 3 | D# | D#, E, G#, C, C#, D# | ![DSharpLagitonic](CircleOfFifthModeDSharpLagitonic.svg) | ![DSharpLagitonic](ChromaticCircleModeDSharpLagitonic.svg) |
-| [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | 3 | Eb | Eb, E, Ab, C, Db, Eb | ![EFlatLagitonic](CircleOfFifthModeEFlatLagitonic.svg) | ![EFlatLagitonic](ChromaticCircleModeEFlatLagitonic.svg) |
 | [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | -1 | E | E, G#, C, C#, D#, E | ![ENaturalDolitonic](CircleOfFifthModeENaturalDolitonic.svg) | ![ENaturalDolitonic](ChromaticCircleModeENaturalDolitonic.svg) |
 | [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | 4 | G# | G#, C, C#, D#, E, G# | ![GSharpPoritonic](CircleOfFifthModeGSharpPoritonic.svg) | ![GSharpPoritonic](ChromaticCircleModeGSharpPoritonic.svg) |
-| [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | 4 | Ab | Ab, C, Db, Eb, E, Ab | ![AFlatPoritonic](CircleOfFifthModeAFlatPoritonic.svg) | ![AFlatPoritonic](ChromaticCircleModeAFlatPoritonic.svg) |
 | [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | -1 | C | C, C#, D#, E, G#, C | ![CNaturalAerylitonic](CircleOfFifthModeCNaturalAerylitonic.svg) | ![CNaturalAerylitonic](ChromaticCircleModeCNaturalAerylitonic.svg) |
 | [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | 5 | C# | C#, D#, E, G#, C, C# | ![CSharpZagitonic](CircleOfFifthModeCSharpZagitonic.svg) | ![CSharpZagitonic](ChromaticCircleModeCSharpZagitonic.svg) |
-| [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | 5 | Db | Db, Eb, E, Ab, C, Db | ![DFlatZagitonic](CircleOfFifthModeDFlatZagitonic.svg) | ![DFlatZagitonic](ChromaticCircleModeDFlatZagitonic.svg) |
 
 ## Chords
 

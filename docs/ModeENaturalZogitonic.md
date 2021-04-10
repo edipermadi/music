@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ENaturalZogitonic](ModeENaturalZogitonic.md)
+[Zogitonic](ModeZogitonic.md)
 
 ## Number
 
@@ -80,12 +80,9 @@ IV⁺
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [789](https://ianring.com/musictheory/scales/789) | [Zogitonic](ModeZogitonic.md) | -1 | E | E, F#, G#, C, C#, E | ![ENaturalZogitonic](CircleOfFifthModeENaturalZogitonic.svg) | ![ENaturalZogitonic](ChromaticCircleModeENaturalZogitonic.svg) |
 | [1221](https://ianring.com/musictheory/scales/1221) | [Epyritonic](ModeEpyritonic.md) | 5 | F# | F#, G#, C, C#, E, F# | ![FSharpEpyritonic](CircleOfFifthModeFSharpEpyritonic.svg) | ![FSharpEpyritonic](ChromaticCircleModeFSharpEpyritonic.svg) |
-| [1221](https://ianring.com/musictheory/scales/1221) | [Epyritonic](ModeEpyritonic.md) | 5 | Gb | Gb, Ab, C, Db, E, Gb | ![GFlatEpyritonic](CircleOfFifthModeGFlatEpyritonic.svg) | ![GFlatEpyritonic](ChromaticCircleModeGFlatEpyritonic.svg) |
 | [1329](https://ianring.com/musictheory/scales/1329) | [Epygitonic](ModeEpygitonic.md) | 3 | G# | G#, C, C#, E, F#, G# | ![GSharpEpygitonic](CircleOfFifthModeGSharpEpygitonic.svg) | ![GSharpEpygitonic](ChromaticCircleModeGSharpEpygitonic.svg) |
-| [1329](https://ianring.com/musictheory/scales/1329) | [Epygitonic](ModeEpygitonic.md) | 3 | Ab | Ab, C, Db, E, Gb, Ab | ![AFlatEpygitonic](CircleOfFifthModeAFlatEpygitonic.svg) | ![AFlatEpygitonic](ChromaticCircleModeAFlatEpygitonic.svg) |
 | [339](https://ianring.com/musictheory/scales/339) | [Zaptitonic](ModeZaptitonic.md) | -1 | C | C, C#, E, F#, G#, C | ![CNaturalZaptitonic](CircleOfFifthModeCNaturalZaptitonic.svg) | ![CNaturalZaptitonic](ChromaticCircleModeCNaturalZaptitonic.svg) |
 | [2217](https://ianring.com/musictheory/scales/2217) | [Kagitonic](ModeKagitonic.md) | 4 | C# | C#, E, F#, G#, C, C# | ![CSharpKagitonic](CircleOfFifthModeCSharpKagitonic.svg) | ![CSharpKagitonic](ChromaticCircleModeCSharpKagitonic.svg) |
-| [2217](https://ianring.com/musictheory/scales/2217) | [Kagitonic](ModeKagitonic.md) | 4 | Db | Db, E, Gb, Ab, C, Db | ![DFlatKagitonic](CircleOfFifthModeDFlatKagitonic.svg) | ![DFlatKagitonic](ChromaticCircleModeDFlatKagitonic.svg) |
 
 ## Chords
 

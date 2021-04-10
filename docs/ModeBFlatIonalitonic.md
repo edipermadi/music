@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BFlatIonalitonic](ModeBFlatIonalitonic.md)
+[Ionalitonic](ModeIonalitonic.md)
 
 ## Number
 
@@ -79,10 +79,8 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [589](https://ianring.com/musictheory/scales/589) | [Ionalitonic](ModeIonalitonic.md) | -1 | A# | A#, C, C#, E, G, A# | ![ASharpIonalitonic](CircleOfFifthModeASharpIonalitonic.svg) | ![ASharpIonalitonic](ChromaticCircleModeASharpIonalitonic.svg) |
-| [589](https://ianring.com/musictheory/scales/589) | [Ionalitonic](ModeIonalitonic.md) | -1 | Bb | Bb, C, Db, E, G, Bb | ![BFlatIonalitonic](CircleOfFifthModeBFlatIonalitonic.svg) | ![BFlatIonalitonic](ChromaticCircleModeBFlatIonalitonic.svg) |
 | [1171](https://ianring.com/musictheory/scales/1171) | [Loptitonic](ModeLoptitonic.md) | 5 | C | C, C#, E, G, A#, C | ![CNaturalLoptitonic](CircleOfFifthModeCNaturalLoptitonic.svg) | ![CNaturalLoptitonic](ChromaticCircleModeCNaturalLoptitonic.svg) |
 | [2633](https://ianring.com/musictheory/scales/2633) | [Mixitonic](ModeMixitonic.md) | -1 | C# | C#, E, G, A#, C, C# | ![CSharpMixitonic](CircleOfFifthModeCSharpMixitonic.svg) | ![CSharpMixitonic](ChromaticCircleModeCSharpMixitonic.svg) |
-| [2633](https://ianring.com/musictheory/scales/2633) | [Mixitonic](ModeMixitonic.md) | -1 | Db | Db, E, G, Bb, C, Db | ![DFlatMixitonic](CircleOfFifthModeDFlatMixitonic.svg) | ![DFlatMixitonic](ChromaticCircleModeDFlatMixitonic.svg) |
 | [841](https://ianring.com/musictheory/scales/841) | [Phrothitonic](ModePhrothitonic.md) | -1 | E | E, G, A#, C, C#, E | ![ENaturalPhrothitonic](CircleOfFifthModeENaturalPhrothitonic.svg) | ![ENaturalPhrothitonic](ChromaticCircleModeENaturalPhrothitonic.svg) |
 | [617](https://ianring.com/musictheory/scales/617) | [Katycritonic](ModeKatycritonic.md) | 4 | G | G, A#, C, C#, E, G | ![GNaturalKatycritonic](CircleOfFifthModeGNaturalKatycritonic.svg) | ![GNaturalKatycritonic](ChromaticCircleModeGNaturalKatycritonic.svg) |
 

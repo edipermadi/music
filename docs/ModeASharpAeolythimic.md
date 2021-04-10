@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ASharpAeolythimic](ModeASharpAeolythimic.md)
+[Aeolythimic](ModeAeolythimic.md)
 
 ## Number
 
@@ -81,9 +81,7 @@ v, VI
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeAeolythimic.md) | -1 | A# | A#, B##, C##, D##, E###, Cbbb, A# | ![ASharpAeolythimic](CircleOfFifthModeASharpAeolythimic.svg) | ![ASharpAeolythimic](ChromaticCircleModeASharpAeolythimic.svg) |
-| [2649](https://ianring.com/musictheory/scales/2649) | [Aeolythimic](ModeAeolythimic.md) | -1 | Bb | Bb, C#, D, E, F##, G##, Bb | ![BFlatAeolythimic](CircleOfFifthModeBFlatAeolythimic.svg) | ![BFlatAeolythimic](ChromaticCircleModeBFlatAeolythimic.svg) |
 | [843](https://ianring.com/musictheory/scales/843) | [Molimic](ModeMolimic.md) | -1 | C# | C#, D, E, F##, G##, A#, C# | ![CSharpMolimic](CircleOfFifthModeCSharpMolimic.svg) | ![CSharpMolimic](ChromaticCircleModeCSharpMolimic.svg) |
-| [843](https://ianring.com/musictheory/scales/843) | [Molimic](ModeMolimic.md) | -1 | Db | Db, Ebb, Fb, G, A, Bb, Db | ![DFlatMolimic](CircleOfFifthModeDFlatMolimic.svg) | ![DFlatMolimic](ChromaticCircleModeDFlatMolimic.svg) |
 | [2469](https://ianring.com/musictheory/scales/2469) | [Staptimic](ModeStaptimic.md) | 5 | D | D, E, F##, G##, A#, B##, D | ![DNaturalStaptimic](CircleOfFifthModeDNaturalStaptimic.svg) | ![DNaturalStaptimic](ChromaticCircleModeDNaturalStaptimic.svg) |
 | [1641](https://ianring.com/musictheory/scales/1641) | [Bocrimic](ModeBocrimic.md) | 3 | E | E, F##, G##, A#, B##, C##, E | ![ENaturalBocrimic](CircleOfFifthModeENaturalBocrimic.svg) | ![ENaturalBocrimic](ChromaticCircleModeENaturalBocrimic.svg) |
 | [717](https://ianring.com/musictheory/scales/717) | [Gythimic](ModeGythimic.md) | 6 | G | G, A, Bb, C#, D, E, G | ![GNaturalGythimic](CircleOfFifthModeGNaturalGythimic.svg) | ![GNaturalGythimic](ChromaticCircleModeGNaturalGythimic.svg) |

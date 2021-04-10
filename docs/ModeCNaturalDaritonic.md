@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CNaturalDaritonic](ModeCNaturalDaritonic.md)
+[Daritonic](ModeDaritonic.md)
 
 ## Number
 

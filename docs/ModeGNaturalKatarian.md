@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalKatarian](ModeGNaturalKatarian.md)
+[Katarian](ModeKatarian.md)
 
 ## Number
 
@@ -71,25 +71,23 @@ II, iv, v⁰b3, VIb5, VII⁺
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | 6 | G | G, Ab, Bbb, C, D, Eb, Fb, G | ![GNaturalKatarian](ModeGNaturalKatarian.png) |
+| [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | -1 | G | G, Ab, Bbb, C, D, Eb, Fb, G | ![GNaturalKatarian](ModeGNaturalKatarian.png) |
 | [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | 7 | G# | G#, A, B#, C##, D#, E, F##, G# | ![GSharpStylian](ModeGSharpStylian.png) |
 | [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeEpathian.md) | -1 | A | A, B#, C##, D#, E, F##, G#, A | ![ANaturalEpathian](ModeANaturalEpathian.png) |
 | [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeMythian.md) | 7 | C | C, D, Eb, Fb, G, Ab, Bbb, C | ![CNaturalMythian](ModeCNaturalMythian.png) |
-| [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeSogian.md) | 5 | D | D, Eb, Fb, G, Ab, Bbb, C, D | ![DNaturalSogian](ModeDNaturalSogian.png) |
+| [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeSogian.md) | -1 | D | D, Eb, Fb, G, Ab, Bbb, C, D | ![DNaturalSogian](ModeDNaturalSogian.png) |
 | [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeGogian.md) | 6 | D# | D#, E, F##, G#, A, B#, C##, D# | ![DSharpGogian](ModeDSharpGogian.png) |
-| [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeRothian.md) | -1 | E | E, F##, G#, A, B#, C##, D#, E | ![ENaturalRothian](ModeENaturalRothian.png) |
+| [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeRothian.md) | 3 | E | E, F##, G#, A, B#, C##, D#, E | ![ENaturalRothian](ModeENaturalRothian.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [935](https://ianring.com/musictheory/scales/935) | [Katarian](ModeKatarian.md) | -1 | G | G, Ab, Bbb, C, D, Eb, Fb, G | ![GNaturalKatarian](CircleOfFifthModeGNaturalKatarian.svg) | ![GNaturalKatarian](ChromaticCircleModeGNaturalKatarian.svg) |
 | [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | 7 | G# | G#, A, B#, C##, D#, E, F##, G# | ![GSharpStylian](CircleOfFifthModeGSharpStylian.svg) | ![GSharpStylian](ChromaticCircleModeGSharpStylian.svg) |
-| [2515](https://ianring.com/musictheory/scales/2515) | [Stylian](ModeStylian.md) | -1 | Ab | Ab, Bbb, C, D, Eb, Fb, G, Ab | ![AFlatStylian](CircleOfFifthModeAFlatStylian.svg) | ![AFlatStylian](ChromaticCircleModeAFlatStylian.svg) |
 | [3305](https://ianring.com/musictheory/scales/3305) | [Epathian](ModeEpathian.md) | 4 | A | A, B#, C##, D#, E, F##, G#, A | ![ANaturalEpathian](CircleOfFifthModeANaturalEpathian.svg) | ![ANaturalEpathian](ChromaticCircleModeANaturalEpathian.svg) |
-| [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeMythian.md) | 7 | C | C, D, Eb, Fb, G, Ab, Bbb, C | ![CNaturalMythian](CircleOfFifthModeCNaturalMythian.svg) | ![CNaturalMythian](ChromaticCircleModeCNaturalMythian.svg) |
-| [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeSogian.md) | -1 | D | D, Eb, Fb, G, Ab, Bbb, C, D | ![DNaturalSogian](CircleOfFifthModeDNaturalSogian.svg) | ![DNaturalSogian](ChromaticCircleModeDNaturalSogian.svg) |
+| [925](https://ianring.com/musictheory/scales/925) | [Mythian](ModeMythian.md) | -1 | C | C, D, Eb, Fb, G, Ab, Bbb, C | ![CNaturalMythian](CircleOfFifthModeCNaturalMythian.svg) | ![CNaturalMythian](ChromaticCircleModeCNaturalMythian.svg) |
+| [1255](https://ianring.com/musictheory/scales/1255) | [Sogian](ModeSogian.md) | 5 | D | D, Eb, Fb, G, Ab, Bbb, C, D | ![DNaturalSogian](CircleOfFifthModeDNaturalSogian.svg) | ![DNaturalSogian](ChromaticCircleModeDNaturalSogian.svg) |
 | [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeGogian.md) | 6 | D# | D#, E, F##, G#, A, B#, C##, D# | ![DSharpGogian](CircleOfFifthModeDSharpGogian.svg) | ![DSharpGogian](ChromaticCircleModeDSharpGogian.svg) |
-| [2675](https://ianring.com/musictheory/scales/2675) | [Gogian](ModeGogian.md) | -1 | Eb | Eb, Fb, G, Ab, Bbb, C, D, Eb | ![EFlatGogian](CircleOfFifthModeEFlatGogian.svg) | ![EFlatGogian](ChromaticCircleModeEFlatGogian.svg) |
 | [3385](https://ianring.com/musictheory/scales/3385) | [Rothian](ModeRothian.md) | 3 | E | E, F##, G#, A, B#, C##, D#, E | ![ENaturalRothian](CircleOfFifthModeENaturalRothian.svg) | ![ENaturalRothian](ChromaticCircleModeENaturalRothian.svg) |
 
 ## Chords

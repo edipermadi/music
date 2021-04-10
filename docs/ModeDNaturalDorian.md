@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalDorian](ModeDNaturalDorian.md)
+[Dorian](ModeDorian.md)
 
 ## Number
 

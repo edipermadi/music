@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CNaturalIonian](ModeCNaturalIonian.md)
+[Ionian](ModeIonian.md)
 
 ## Number
 

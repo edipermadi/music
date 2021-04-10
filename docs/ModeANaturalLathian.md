@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalLathian](ModeANaturalLathian.md)
+[Lathian](ModeLathian.md)
 
 ## Number
 
@@ -21,7 +21,7 @@
 
 ## Luminosity
 
--1
+7
 
 ## Tonic
 
@@ -71,9 +71,9 @@ i⁰, iii, V⁺, VIIb5
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [1245](https://ianring.com/musictheory/scales/1245) | [Lathian](ModeLathian.md) | -1 | A | A, B, C, Db, Eb, Fb, G, A | ![ANaturalLathian](ModeANaturalLathian.png) |
-| [1335](https://ianring.com/musictheory/scales/1335) | [Aeralian](ModeAeralian.md) | 5 | B | B, C, Db, Eb, Fb, G, A, B | ![BNaturalAeralian](ModeBNaturalAeralian.png) |
-| [2715](https://ianring.com/musictheory/scales/2715) | [Kynian](ModeKynian.md) | -1 | C | C, Db, Eb, Fb, G, A, B, C | ![CNaturalKynian](ModeCNaturalKynian.png) |
+| [1245](https://ianring.com/musictheory/scales/1245) | [Lathian](ModeLathian.md) | 7 | A | A, B, C, Db, Eb, Fb, G, A | ![ANaturalLathian](ModeANaturalLathian.png) |
+| [1335](https://ianring.com/musictheory/scales/1335) | [Aeralian](ModeAeralian.md) | -1 | B | B, C, Db, Eb, Fb, G, A, B | ![BNaturalAeralian](ModeBNaturalAeralian.png) |
+| [2715](https://ianring.com/musictheory/scales/2715) | [Kynian](ModeKynian.md) | 7 | C | C, Db, Eb, Fb, G, A, B, C | ![CNaturalKynian](ModeCNaturalKynian.png) |
 | [3405](https://ianring.com/musictheory/scales/3405) | [Stynian](ModeStynian.md) | -1 | C# | C#, D#, E, F##, G##, A##, B#, C# | ![CSharpStynian](ModeCSharpStynian.png) |
 | [1875](https://ianring.com/musictheory/scales/1875) | [Epyphian](ModeEpyphian.md) | -1 | D# | D#, E, F##, G##, A##, B#, C#, D# | ![DSharpEpyphian](ModeDSharpEpyphian.png) |
 | [2985](https://ianring.com/musictheory/scales/2985) | [Epacrian](ModeEpacrian.md) | 6 | E | E, F##, G##, A##, B#, C#, D#, E | ![ENaturalEpacrian](ModeENaturalEpacrian.png) |
@@ -86,11 +86,9 @@ i⁰, iii, V⁺, VIIb5
 | [1335](https://ianring.com/musictheory/scales/1335) | [Aeralian](ModeAeralian.md) | -1 | B | B, C, Db, Eb, Fb, G, A, B | ![BNaturalAeralian](CircleOfFifthModeBNaturalAeralian.svg) | ![BNaturalAeralian](ChromaticCircleModeBNaturalAeralian.svg) |
 | [2715](https://ianring.com/musictheory/scales/2715) | [Kynian](ModeKynian.md) | 7 | C | C, Db, Eb, Fb, G, A, B, C | ![CNaturalKynian](CircleOfFifthModeCNaturalKynian.svg) | ![CNaturalKynian](ChromaticCircleModeCNaturalKynian.svg) |
 | [3405](https://ianring.com/musictheory/scales/3405) | [Stynian](ModeStynian.md) | -1 | C# | C#, D#, E, F##, G##, A##, B#, C# | ![CSharpStynian](CircleOfFifthModeCSharpStynian.svg) | ![CSharpStynian](ChromaticCircleModeCSharpStynian.svg) |
-| [3405](https://ianring.com/musictheory/scales/3405) | [Stynian](ModeStynian.md) | -1 | Db | Db, Eb, Fb, G, A, B, C, Db | ![DFlatStynian](CircleOfFifthModeDFlatStynian.svg) | ![DFlatStynian](ChromaticCircleModeDFlatStynian.svg) |
 | [1875](https://ianring.com/musictheory/scales/1875) | [Epyphian](ModeEpyphian.md) | -1 | D# | D#, E, F##, G##, A##, B#, C#, D# | ![DSharpEpyphian](CircleOfFifthModeDSharpEpyphian.svg) | ![DSharpEpyphian](ChromaticCircleModeDSharpEpyphian.svg) |
-| [1875](https://ianring.com/musictheory/scales/1875) | [Epyphian](ModeEpyphian.md) | -1 | Eb | Eb, Fb, G, A, B, C, Db, Eb | ![EFlatEpyphian](CircleOfFifthModeEFlatEpyphian.svg) | ![EFlatEpyphian](ChromaticCircleModeEFlatEpyphian.svg) |
 | [2985](https://ianring.com/musictheory/scales/2985) | [Epacrian](ModeEpacrian.md) | 6 | E | E, F##, G##, A##, B#, C#, D#, E | ![ENaturalEpacrian](CircleOfFifthModeENaturalEpacrian.svg) | ![ENaturalEpacrian](ChromaticCircleModeENaturalEpacrian.svg) |
-| [885](https://ianring.com/musictheory/scales/885) | [Sathian](ModeSathian.md) | 6 | G | G, A, B, C, Db, Eb, Fb, G | ![GNaturalSathian](CircleOfFifthModeGNaturalSathian.svg) | ![GNaturalSathian](ChromaticCircleModeGNaturalSathian.svg) |
+| [885](https://ianring.com/musictheory/scales/885) | [Sathian](ModeSathian.md) | -1 | G | G, A, B, C, Db, Eb, Fb, G | ![GNaturalSathian](CircleOfFifthModeGNaturalSathian.svg) | ![GNaturalSathian](ChromaticCircleModeGNaturalSathian.svg) |
 
 ## Chords
 

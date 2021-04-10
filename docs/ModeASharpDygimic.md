@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ASharpDygimic](ModeASharpDygimic.md)
+[Dygimic](ModeDygimic.md)
 
 ## Number
 
@@ -81,12 +81,10 @@ I⁺, III⁺, V⁺
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | 6 | A# | A#, B#, C##, D###, E##, F##, A# | ![ASharpDygimic](CircleOfFifthModeASharpDygimic.svg) | ![ASharpDygimic](ChromaticCircleModeASharpDygimic.svg) |
-| [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | 6 | Bb | Bb, C, D, E#, F#, G, Bb | ![BFlatDygimic](CircleOfFifthModeBFlatDygimic.svg) | ![BFlatDygimic](ChromaticCircleModeBFlatDygimic.svg) |
 | [1253](https://ianring.com/musictheory/scales/1253) | [Zolimic](ModeZolimic.md) | 4 | C | C, D, E#, F#, G, A#, C | ![CNaturalZolimic](CircleOfFifthModeCNaturalZolimic.svg) | ![CNaturalZolimic](ChromaticCircleModeCNaturalZolimic.svg) |
 | [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeEpogimic.md) | 2 | D | D, E#, F#, G, A#, B#, D | ![DNaturalEpogimic](CircleOfFifthModeDNaturalEpogimic.svg) | ![DNaturalEpogimic](ChromaticCircleModeDNaturalEpogimic.svg) |
 | [679](https://ianring.com/musictheory/scales/679) | [Lanimic](ModeLanimic.md) | 5 | F | F, Gb, Abb, Bb, C, D, F | ![FNaturalLanimic](CircleOfFifthModeFNaturalLanimic.svg) | ![FNaturalLanimic](ChromaticCircleModeFNaturalLanimic.svg) |
 | [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | -1 | F# | F#, G, A#, B#, C##, D###, F# | ![FSharpPaptimic](CircleOfFifthModeFSharpPaptimic.svg) | ![FSharpPaptimic](ChromaticCircleModeFSharpPaptimic.svg) |
-| [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | -1 | Gb | Gb, Abb, Bb, C, D, E#, Gb | ![GFlatPaptimic](CircleOfFifthModeGFlatPaptimic.svg) | ![GFlatPaptimic](ChromaticCircleModeGFlatPaptimic.svg) |
 | [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDalimic.md) | 3 | G | G, A#, B#, C##, D###, E##, G | ![GNaturalDalimic](CircleOfFifthModeGNaturalDalimic.svg) | ![GNaturalDalimic](ChromaticCircleModeGNaturalDalimic.svg) |
 
 ## Chords

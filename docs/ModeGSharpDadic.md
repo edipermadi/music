@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GSharpDadic](ModeGSharpDadic.md)
+[Dadic](ModeDadic.md)
 
 ## Number
 
@@ -75,11 +75,7 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | -1 | G# | G#, A#, D, E, G# | ![GSharpDadic](CircleOfFifthModeGSharpDadic.svg) | ![GSharpDadic](ChromaticCircleModeGSharpDadic.svg) |
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | -1 | Ab | Ab, Bb, D, E, Ab | ![AFlatDadic](CircleOfFifthModeAFlatDadic.svg) | ![AFlatDadic](ChromaticCircleModeAFlatDadic.svg) |
 | [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | -1 | A# | A#, D, E, G#, A# | ![ASharpStathic](CircleOfFifthModeASharpStathic.svg) | ![ASharpStathic](ChromaticCircleModeASharpStathic.svg) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | -1 | Bb | Bb, D, E, Ab, Bb | ![BFlatStathic](CircleOfFifthModeBFlatStathic.svg) | ![BFlatStathic](ChromaticCircleModeBFlatStathic.svg) |
-| [325](https://ianring.com/musictheory/scales/325) | [Dadic](ModeDadic.md) | -1 | D | D, E, G#, A#, D | ![DNaturalDadic](CircleOfFifthModeDNaturalDadic.svg) | ![DNaturalDadic](ChromaticCircleModeDNaturalDadic.svg) |
-| [1105](https://ianring.com/musictheory/scales/1105) | [Stathic](ModeStathic.md) | -1 | E | E, G#, A#, D, E | ![ENaturalStathic](CircleOfFifthModeENaturalStathic.svg) | ![ENaturalStathic](ChromaticCircleModeENaturalStathic.svg) |
 
 ## Chords
 

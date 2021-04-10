@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BFlatEpothimic](ModeBFlatEpothimic.md)
+[Epothimic](ModeEpothimic.md)
 
 ## Number
 
@@ -81,12 +81,10 @@ I⁺, II, III⁺, V⁺
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [853](https://ianring.com/musictheory/scales/853) | [Epothimic](ModeEpothimic.md) | -1 | A# | A#, B#, C##, D##, E##, F##, A# | ![ASharpEpothimic](CircleOfFifthModeASharpEpothimic.svg) | ![ASharpEpothimic](ChromaticCircleModeASharpEpothimic.svg) |
-| [853](https://ianring.com/musictheory/scales/853) | [Epothimic](ModeEpothimic.md) | -1 | Bb | Bb, C, D, E, F#, G, Bb | ![BFlatEpothimic](CircleOfFifthModeBFlatEpothimic.svg) | ![BFlatEpothimic](ChromaticCircleModeBFlatEpothimic.svg) |
 | [1237](https://ianring.com/musictheory/scales/1237) | [Salimic](ModeSalimic.md) | 6 | C | C, D, E, F#, G, A#, C | ![CNaturalSalimic](CircleOfFifthModeCNaturalSalimic.svg) | ![CNaturalSalimic](ChromaticCircleModeCNaturalSalimic.svg) |
 | [1333](https://ianring.com/musictheory/scales/1333) | [Lyptimic](ModeLyptimic.md) | 4 | D | D, E, F#, G, A#, B#, D | ![DNaturalLyptimic](CircleOfFifthModeDNaturalLyptimic.svg) | ![DNaturalLyptimic](ChromaticCircleModeDNaturalLyptimic.svg) |
 | [1357](https://ianring.com/musictheory/scales/1357) | [Katonimic](ModeKatonimic.md) | -1 | E | E, F#, G, A#, B#, C##, E | ![ENaturalKatonimic](CircleOfFifthModeENaturalKatonimic.svg) | ![ENaturalKatonimic](ChromaticCircleModeENaturalKatonimic.svg) |
 | [1363](https://ianring.com/musictheory/scales/1363) | [Gygimic](ModeGygimic.md) | -1 | F# | F#, G, A#, B#, C##, D##, F# | ![FSharpGygimic](CircleOfFifthModeFSharpGygimic.svg) | ![FSharpGygimic](ChromaticCircleModeFSharpGygimic.svg) |
-| [1363](https://ianring.com/musictheory/scales/1363) | [Gygimic](ModeGygimic.md) | -1 | Gb | Gb, Abb, Bb, C, D, E, Gb | ![GFlatGygimic](CircleOfFifthModeGFlatGygimic.svg) | ![GFlatGygimic](ChromaticCircleModeGFlatGygimic.svg) |
 | [2729](https://ianring.com/musictheory/scales/2729) | [Aeragimic](ModeAeragimic.md) | 5 | G | G, A#, B#, C##, D##, E##, G | ![GNaturalAeragimic](CircleOfFifthModeGNaturalAeragimic.svg) | ![GNaturalAeragimic](ChromaticCircleModeGNaturalAeragimic.svg) |
 
 ## Chords

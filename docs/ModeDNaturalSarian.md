@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalSarian](ModeDNaturalSarian.md)
+[Sarian](ModeSarian.md)
 
 ## Number
 
@@ -84,10 +84,8 @@ ii⁰, iii, V⁺, VII
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | 6 | D | D, Eb, Fb, Gb, Abb, Bbb, Cb, D | ![DNaturalSarian](CircleOfFifthModeDNaturalSarian.svg) | ![DNaturalSarian](ChromaticCircleModeDNaturalSarian.svg) |
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | -1 | D# | D#, E, F#, G, A, B, C##, D# | ![DSharpZoptian](CircleOfFifthModeDSharpZoptian.svg) | ![DSharpZoptian](ChromaticCircleModeDSharpZoptian.svg) |
-| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | -1 | Eb | Eb, Fb, Gb, Abb, Bbb, Cb, D, Eb | ![EFlatZoptian](CircleOfFifthModeEFlatZoptian.svg) | ![EFlatZoptian](ChromaticCircleModeEFlatZoptian.svg) |
 | [3245](https://ianring.com/musictheory/scales/3245) | [Aeracrian](ModeAeracrian.md) | 4 | E | E, F#, G, A, B, C##, D#, E | ![ENaturalAeracrian](CircleOfFifthModeENaturalAeracrian.svg) | ![ENaturalAeracrian](ChromaticCircleModeENaturalAeracrian.svg) |
 | [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | 2 | F# | F#, G, A, B, C##, D#, E, F# | ![FSharpByptian](CircleOfFifthModeFSharpByptian.svg) | ![FSharpByptian](ChromaticCircleModeFSharpByptian.svg) |
-| [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | 2 | Gb | Gb, Abb, Bbb, Cb, D, Eb, Fb, Gb | ![GFlatByptian](CircleOfFifthModeGFlatByptian.svg) | ![GFlatByptian](ChromaticCircleModeGFlatByptian.svg) |
 | [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | 7 | G | G, A, B, C##, D#, E, F#, G | ![GNaturalDarian](CircleOfFifthModeGNaturalDarian.svg) | ![GNaturalDarian](ChromaticCircleModeGNaturalDarian.svg) |
 | [1765](https://ianring.com/musictheory/scales/1765) | [Lonian](ModeLonian.md) | 5 | A | A, B, C##, D#, E, F#, G, A | ![ANaturalLonian](CircleOfFifthModeANaturalLonian.svg) | ![ANaturalLonian](ChromaticCircleModeANaturalLonian.svg) |
 | [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | 3 | B | B, C##, D#, E, F#, G, A, B | ![BNaturalAerathian](CircleOfFifthModeBNaturalAerathian.svg) | ![BNaturalAerathian](ChromaticCircleModeBNaturalAerathian.svg) |

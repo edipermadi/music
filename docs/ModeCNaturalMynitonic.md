@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CNaturalMynitonic](ModeCNaturalMynitonic.md)
+[Mynitonic](ModeMynitonic.md)
 
 ## Number
 

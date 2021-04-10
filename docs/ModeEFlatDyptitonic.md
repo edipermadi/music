@@ -13,7 +13,7 @@
 
 ## Mode
 
-[EFlatDyptitonic](ModeEFlatDyptitonic.md)
+[Dyptitonic](ModeDyptitonic.md)
 
 ## Number
 
@@ -79,7 +79,6 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [2373](https://ianring.com/musictheory/scales/2373) | [Dyptitonic](ModeDyptitonic.md) | -1 | D# | D#, F, A, B, D, D# | ![DSharpDyptitonic](CircleOfFifthModeDSharpDyptitonic.svg) | ![DSharpDyptitonic](ChromaticCircleModeDSharpDyptitonic.svg) |
-| [2373](https://ianring.com/musictheory/scales/2373) | [Dyptitonic](ModeDyptitonic.md) | -1 | Eb | Eb, F, A, B, D, Eb | ![EFlatDyptitonic](CircleOfFifthModeEFlatDyptitonic.svg) | ![EFlatDyptitonic](ChromaticCircleModeEFlatDyptitonic.svg) |
 | [1617](https://ianring.com/musictheory/scales/1617) | [Phronitonic](ModePhronitonic.md) | -1 | F | F, A, B, D, D#, F | ![FNaturalPhronitonic](CircleOfFifthModeFNaturalPhronitonic.svg) | ![FNaturalPhronitonic](ChromaticCircleModeFNaturalPhronitonic.svg) |
 | [357](https://ianring.com/musictheory/scales/357) | [Banitonic](ModeBanitonic.md) | 4 | A | A, B, D, D#, F, A | ![ANaturalBanitonic](CircleOfFifthModeANaturalBanitonic.svg) | ![ANaturalBanitonic](ChromaticCircleModeANaturalBanitonic.svg) |
 | [1113](https://ianring.com/musictheory/scales/1113) | [Aeronitonic](ModeAeronitonic.md) | -1 | B | B, D, D#, F, A, B | ![BNaturalAeronitonic](CircleOfFifthModeBNaturalAeronitonic.svg) | ![BNaturalAeronitonic](ChromaticCircleModeBNaturalAeronitonic.svg) |

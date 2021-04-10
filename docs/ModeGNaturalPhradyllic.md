@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalPhradyllic](ModeGNaturalPhradyllic.md)
+[Phradyllic](ModePhradyllic.md)
 
 ## Number
 
@@ -89,11 +89,9 @@ C
 | [765](https://ianring.com/musictheory/scales/765) | [Mixonyphyllic](ModeMixonyphyllic.md) | 7 | C | C, D, D#, E, F, F#, G, A, C | ![CNaturalMixonyphyllic](CircleOfFifthModeCNaturalMixonyphyllic.svg) | ![CNaturalMixonyphyllic](ChromaticCircleModeCNaturalMixonyphyllic.svg) |
 | [1215](https://ianring.com/musictheory/scales/1215) | [Aeolanyllic](ModeAeolanyllic.md) | 5 | D | D, D#, E, F, F#, G, A, C, D | ![DNaturalAeolanyllic](CircleOfFifthModeDNaturalAeolanyllic.svg) | ![DNaturalAeolanyllic](ChromaticCircleModeDNaturalAeolanyllic.svg) |
 | [2655](https://ianring.com/musictheory/scales/2655) | [Thocryllic](ModeThocryllic.md) | -1 | D# | D#, E, F, F#, G, A, C, D, D# | ![DSharpThocryllic](CircleOfFifthModeDSharpThocryllic.svg) | ![DSharpThocryllic](ChromaticCircleModeDSharpThocryllic.svg) |
-| [2655](https://ianring.com/musictheory/scales/2655) | [Thocryllic](ModeThocryllic.md) | -1 | Eb | Eb, E, F, Gb, G, A, C, D, Eb | ![EFlatThocryllic](CircleOfFifthModeEFlatThocryllic.svg) | ![EFlatThocryllic](ChromaticCircleModeEFlatThocryllic.svg) |
 | [3375](https://ianring.com/musictheory/scales/3375) | [Kygyllic](ModeKygyllic.md) | 3 | E | E, F, F#, G, A, C, D, D#, E | ![ENaturalKygyllic](CircleOfFifthModeENaturalKygyllic.svg) | ![ENaturalKygyllic](ChromaticCircleModeENaturalKygyllic.svg) |
 | [3735](https://ianring.com/musictheory/scales/3735) | [Ionagyllic](ModeIonagyllic.md) | 8 | F | F, F#, G, A, C, D, D#, E, F | ![FNaturalIonagyllic](CircleOfFifthModeFNaturalIonagyllic.svg) | ![FNaturalIonagyllic](ChromaticCircleModeFNaturalIonagyllic.svg) |
 | [3915](https://ianring.com/musictheory/scales/3915) | [Gogyllic](ModeGogyllic.md) | -1 | F# | F#, G, A, C, D, D#, E, F, F# | ![FSharpGogyllic](CircleOfFifthModeFSharpGogyllic.svg) | ![FSharpGogyllic](ChromaticCircleModeFSharpGogyllic.svg) |
-| [3915](https://ianring.com/musictheory/scales/3915) | [Gogyllic](ModeGogyllic.md) | -1 | Gb | Gb, G, A, C, D, Eb, E, F, Gb | ![GFlatGogyllic](CircleOfFifthModeGFlatGogyllic.svg) | ![GFlatGogyllic](ChromaticCircleModeGFlatGogyllic.svg) |
 
 ## Chords
 

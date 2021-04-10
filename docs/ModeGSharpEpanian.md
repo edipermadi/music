@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GSharpEpanian](ModeGSharpEpanian.md)
+[Epanian](ModeEpanian.md)
 
 ## Number
 
@@ -83,10 +83,8 @@ iii⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeEpanian.md) | -1 | G# | G#, A, Bb, Cb, Dbb, Ebb, Fb, G# | ![GSharpEpanian](CircleOfFifthModeGSharpEpanian.svg) | ![GSharpEpanian](ChromaticCircleModeGSharpEpanian.svg) |
-| [351](https://ianring.com/musictheory/scales/351) | [Epanian](ModeEpanian.md) | -1 | Ab | Ab, Bbb, Cbb, Dbbb, Dbb, Ebb, Fb, Ab | ![AFlatEpanian](CircleOfFifthModeAFlatEpanian.svg) | ![AFlatEpanian](ChromaticCircleModeAFlatEpanian.svg) |
 | [2223](https://ianring.com/musictheory/scales/2223) | [Konian](ModeKonian.md) | 6 | A | A, Bb, Cb, Dbb, Ebb, Fb, G#, A | ![ANaturalKonian](CircleOfFifthModeANaturalKonian.svg) | ![ANaturalKonian](ChromaticCircleModeANaturalKonian.svg) |
 | [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeStocrian.md) | -1 | A# | A#, B, C, D, E, F###, G##, A# | ![ASharpStocrian](CircleOfFifthModeASharpStocrian.svg) | ![ASharpStocrian](ChromaticCircleModeASharpStocrian.svg) |
-| [3159](https://ianring.com/musictheory/scales/3159) | [Stocrian](ModeStocrian.md) | -1 | Bb | Bb, Cb, Dbb, Ebb, Fb, G#, A, Bb | ![BFlatStocrian](CircleOfFifthModeBFlatStocrian.svg) | ![BFlatStocrian](ChromaticCircleModeBFlatStocrian.svg) |
 | [3627](https://ianring.com/musictheory/scales/3627) | [Kalian](ModeKalian.md) | 4 | B | B, C, D, E, F###, G##, A#, B | ![BNaturalKalian](CircleOfFifthModeBNaturalKalian.svg) | ![BNaturalKalian](ChromaticCircleModeBNaturalKalian.svg) |
 | [3861](https://ianring.com/musictheory/scales/3861) | [Phroptian](ModePhroptian.md) | -1 | C | C, D, E, F###, G##, A#, B, C | ![CNaturalPhroptian](CircleOfFifthModeCNaturalPhroptian.svg) | ![CNaturalPhroptian](ChromaticCircleModeCNaturalPhroptian.svg) |
 | [1989](https://ianring.com/musictheory/scales/1989) | [Dydian](ModeDydian.md) | 7 | D | D, E, F###, G##, A#, B, C, D | ![DNaturalDydian](CircleOfFifthModeDNaturalDydian.svg) | ![DNaturalDydian](ChromaticCircleModeDNaturalDydian.svg) |

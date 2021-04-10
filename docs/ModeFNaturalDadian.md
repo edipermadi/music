@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalDadian](ModeFNaturalDadian.md)
+[Dadian](ModeDadian.md)
 
 ## Number
 
@@ -84,7 +84,6 @@ i⁰b3
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [2647](https://ianring.com/musictheory/scales/2647) | [Dadian](ModeDadian.md) | -1 | F | F, Gb, Abb, Bbb, Cb, D, E, F | ![FNaturalDadian](CircleOfFifthModeFNaturalDadian.svg) | ![FNaturalDadian](ChromaticCircleModeFNaturalDadian.svg) |
 | [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | 2 | F# | F#, G, A, B, C##, D##, E#, F# | ![FSharpAeolylian](CircleOfFifthModeFSharpAeolylian.svg) | ![FSharpAeolylian](ChromaticCircleModeFSharpAeolylian.svg) |
-| [3371](https://ianring.com/musictheory/scales/3371) | [Aeolylian](ModeAeolylian.md) | 2 | Gb | Gb, Abb, Bbb, Cb, D, E, F, Gb | ![GFlatAeolylian](CircleOfFifthModeGFlatAeolylian.svg) | ![GFlatAeolylian](ChromaticCircleModeGFlatAeolylian.svg) |
 | [3733](https://ianring.com/musictheory/scales/3733) | [Gycrian](ModeGycrian.md) | 7 | G | G, A, B, C##, D##, E#, F#, G | ![GNaturalGycrian](CircleOfFifthModeGNaturalGycrian.svg) | ![GNaturalGycrian](ChromaticCircleModeGNaturalGycrian.svg) |
 | [1957](https://ianring.com/musictheory/scales/1957) | [Pyrian](ModePyrian.md) | 5 | A | A, B, C##, D##, E#, F#, G, A | ![ANaturalPyrian](CircleOfFifthModeANaturalPyrian.svg) | ![ANaturalPyrian](ChromaticCircleModeANaturalPyrian.svg) |
 | [1513](https://ianring.com/musictheory/scales/1513) | [Stathian](ModeStathian.md) | 3 | B | B, C##, D##, E#, F#, G, A, B | ![BNaturalStathian](CircleOfFifthModeBNaturalStathian.svg) | ![BNaturalStathian](ChromaticCircleModeBNaturalStathian.svg) |

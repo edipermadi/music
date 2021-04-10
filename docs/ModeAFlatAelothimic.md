@@ -13,7 +13,7 @@
 
 ## Mode
 
-[AFlatAelothimic](ModeAFlatAelothimic.md)
+[Aelothimic](ModeAelothimic.md)
 
 ## Number
 
@@ -81,9 +81,7 @@ iv⁰, v
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeAelothimic.md) | -1 | G# | G#, A#, B#, D##, E#, F##, G# | ![GSharpAelothimic](CircleOfFifthModeGSharpAelothimic.svg) | ![GSharpAelothimic](ChromaticCircleModeGSharpAelothimic.svg) |
-| [2837](https://ianring.com/musictheory/scales/2837) | [Aelothimic](ModeAelothimic.md) | -1 | Ab | Ab, Bb, C, D##, E#, F##, Ab | ![AFlatAelothimic](CircleOfFifthModeAFlatAelothimic.svg) | ![AFlatAelothimic](ChromaticCircleModeAFlatAelothimic.svg) |
 | [1733](https://ianring.com/musictheory/scales/1733) | [Socrimic](ModeSocrimic.md) | 6 | A# | A#, B#, D##, E#, F##, G#, A# | ![ASharpSocrimic](CircleOfFifthModeASharpSocrimic.svg) | ![ASharpSocrimic](ChromaticCircleModeASharpSocrimic.svg) |
-| [1733](https://ianring.com/musictheory/scales/1733) | [Socrimic](ModeSocrimic.md) | 6 | Bb | Bb, C, D##, E#, F##, G#, Bb | ![BFlatSocrimic](CircleOfFifthModeBFlatSocrimic.svg) | ![BFlatSocrimic](ChromaticCircleModeBFlatSocrimic.svg) |
 | [1457](https://ianring.com/musictheory/scales/1457) | [Modimic](ModeModimic.md) | 4 | C | C, D##, E#, F##, G#, A#, C | ![CNaturalModimic](CircleOfFifthModeCNaturalModimic.svg) | ![CNaturalModimic](ChromaticCircleModeCNaturalModimic.svg) |
 | [347](https://ianring.com/musictheory/scales/347) | [Barimic](ModeBarimic.md) | -1 | E | E, F, G, Ab, Bb, C, E | ![ENaturalBarimic](CircleOfFifthModeENaturalBarimic.svg) | ![ENaturalBarimic](ChromaticCircleModeENaturalBarimic.svg) |
 | [2221](https://ianring.com/musictheory/scales/2221) | [Poptimic](ModePoptimic.md) | 5 | F | F, G, Ab, Bb, C, D##, F | ![FNaturalPoptimic](CircleOfFifthModeFNaturalPoptimic.svg) | ![FNaturalPoptimic](ChromaticCircleModeFNaturalPoptimic.svg) |

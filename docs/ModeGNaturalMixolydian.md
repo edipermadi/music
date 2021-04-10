@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalMixolydian](ModeGNaturalMixolydian.md)
+[Mixolydian](ModeMixolydian.md)
 
 ## Number
 

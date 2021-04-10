@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalStaditonic](ModeANaturalStaditonic.md)
+[Staditonic](ModeStaditonic.md)
 
 ## Number
 

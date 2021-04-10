@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalEporic](ModeGNaturalEporic.md)
+[Eporic](ModeEporic.md)
 
 ## Number
 
@@ -68,7 +68,7 @@ C
 
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
-| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | -1 | G | G, A#, D, F, G | ![GNaturalEporic](ModeGNaturalEporic.png) |
+| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | 4 | G | G, A#, D, F, G | ![GNaturalEporic](ModeGNaturalEporic.png) |
 | [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | -1 | A# | A#, D, F, G, A# | ![ASharpEpathic](ModeASharpEpathic.png) |
 | [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | 3 | D | D, F, G, A#, D | ![DNaturalMynic](ModeDNaturalMynic.png) |
 | [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | 3 | F | F, G, A#, D, F | ![FNaturalRothic](ModeFNaturalRothic.png) |
@@ -78,7 +78,6 @@ C
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | 4 | G | G, A#, D, F, G | ![GNaturalEporic](CircleOfFifthModeGNaturalEporic.svg) | ![GNaturalEporic](ChromaticCircleModeGNaturalEporic.svg) |
 | [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | -1 | A# | A#, D, F, G, A# | ![ASharpEpathic](CircleOfFifthModeASharpEpathic.svg) | ![ASharpEpathic](ChromaticCircleModeASharpEpathic.svg) |
-| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | 4 | Bb | Bb, D, F, G, Bb | ![BFlatEpathic](CircleOfFifthModeBFlatEpathic.svg) | ![BFlatEpathic](ChromaticCircleModeBFlatEpathic.svg) |
 | [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | -1 | D | D, F, G, A#, D | ![DNaturalMynic](CircleOfFifthModeDNaturalMynic.svg) | ![DNaturalMynic](ChromaticCircleModeDNaturalMynic.svg) |
 | [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | 3 | F | F, G, A#, D, F | ![FNaturalRothic](CircleOfFifthModeFNaturalRothic.svg) | ![FNaturalRothic](ChromaticCircleModeFNaturalRothic.svg) |
 

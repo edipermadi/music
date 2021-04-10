@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalThaptimic](ModeFNaturalThaptimic.md)
+[Thaptimic](ModeThaptimic.md)
 
 ## Number
 

@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ASharpPhrynic](ModeASharpPhrynic.md)
+[Phrynic](ModePhrynic.md)
 
 ## Number
 
@@ -74,11 +74,6 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | A# | A#, C#, E, G, A# | ![ASharpPhrynic](CircleOfFifthModeASharpPhrynic.svg) | ![ASharpPhrynic](ChromaticCircleModeASharpPhrynic.svg) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | Bb | Bb, Db, E, G, Bb | ![BFlatPhrynic](CircleOfFifthModeBFlatPhrynic.svg) | ![BFlatPhrynic](ChromaticCircleModeBFlatPhrynic.svg) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | C# | C#, E, G, A#, C# | ![CSharpPhrynic](CircleOfFifthModeCSharpPhrynic.svg) | ![CSharpPhrynic](ChromaticCircleModeCSharpPhrynic.svg) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | Db | Db, E, G, Bb, Db | ![DFlatPhrynic](CircleOfFifthModeDFlatPhrynic.svg) | ![DFlatPhrynic](ChromaticCircleModeDFlatPhrynic.svg) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | E | E, G, A#, C#, E | ![ENaturalPhrynic](CircleOfFifthModeENaturalPhrynic.svg) | ![ENaturalPhrynic](ChromaticCircleModeENaturalPhrynic.svg) |
-| [585](https://ianring.com/musictheory/scales/585) | [Phrynic](ModePhrynic.md) | -1 | G | G, A#, C#, E, G | ![GNaturalPhrynic](CircleOfFifthModeGNaturalPhrynic.svg) | ![GNaturalPhrynic](ChromaticCircleModeGNaturalPhrynic.svg) |
 
 ## Chords
 

@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalKataritonic](ModeBNaturalKataritonic.md)
+[Kataritonic](ModeKataritonic.md)
 
 ## Number
 

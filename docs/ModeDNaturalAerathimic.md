@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalAerathimic](ModeDNaturalAerathimic.md)
+[Aerathimic](ModeAerathimic.md)
 
 ## Number
 

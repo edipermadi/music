@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CNaturalPentatonic](ModeCNaturalPentatonic.md)
+[Pentatonic](ModePentatonic.md)
 
 ## Number
 

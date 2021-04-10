@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalStathitonic](ModeDNaturalStathitonic.md)
+[Stathitonic](ModeStathitonic.md)
 
 ## Number
 

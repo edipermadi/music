@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DFlatPhrynitonic](ModeDFlatPhrynitonic.md)
+[Phrynitonic](ModePhrynitonic.md)
 
 ## Number
 
@@ -79,10 +79,8 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1129](https://ianring.com/musictheory/scales/1129) | [Phrynitonic](ModePhrynitonic.md) | 2 | C# | C#, E, F#, G, B, C# | ![CSharpPhrynitonic](CircleOfFifthModeCSharpPhrynitonic.svg) | ![CSharpPhrynitonic](ChromaticCircleModeCSharpPhrynitonic.svg) |
-| [1129](https://ianring.com/musictheory/scales/1129) | [Phrynitonic](ModePhrynitonic.md) | 2 | Db | Db, E, Gb, G, B, Db | ![DFlatPhrynitonic](CircleOfFifthModeDFlatPhrynitonic.svg) | ![DFlatPhrynitonic](ChromaticCircleModeDFlatPhrynitonic.svg) |
 | [653](https://ianring.com/musictheory/scales/653) | [Stathitonic](ModeStathitonic.md) | 5 | E | E, F#, G, B, C#, E | ![ENaturalStathitonic](CircleOfFifthModeENaturalStathitonic.svg) | ![ENaturalStathitonic](ChromaticCircleModeENaturalStathitonic.svg) |
 | [1187](https://ianring.com/musictheory/scales/1187) | [Thalitonic](ModeThalitonic.md) | 3 | F# | F#, G, B, C#, E, F# | ![FSharpThalitonic](CircleOfFifthModeFSharpThalitonic.svg) | ![FSharpThalitonic](ChromaticCircleModeFSharpThalitonic.svg) |
-| [1187](https://ianring.com/musictheory/scales/1187) | [Thalitonic](ModeThalitonic.md) | 3 | Gb | Gb, G, B, Db, E, Gb | ![GFlatThalitonic](CircleOfFifthModeGFlatThalitonic.svg) | ![GFlatThalitonic](ChromaticCircleModeGFlatThalitonic.svg) |
 | [2641](https://ianring.com/musictheory/scales/2641) | [Gathitonic](ModeGathitonic.md) | -1 | G | G, B, C#, E, F#, G | ![GNaturalGathitonic](CircleOfFifthModeGNaturalGathitonic.svg) | ![GNaturalGathitonic](ChromaticCircleModeGNaturalGathitonic.svg) |
 | [421](https://ianring.com/musictheory/scales/421) | [Ionitonic](ModeIonitonic.md) | 4 | B | B, C#, E, F#, G, B | ![BNaturalIonitonic](CircleOfFifthModeBNaturalIonitonic.svg) | ![BNaturalIonitonic](ChromaticCircleModeBNaturalIonitonic.svg) |
 

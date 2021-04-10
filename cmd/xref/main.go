@@ -449,7 +449,7 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
 
 	_, _ = fmt.Fprintf(&buff, "## Parent Scale\n\n[%s](Scale%s.md)\n\n", computedScale, computedScale)
-	_, _ = fmt.Fprintf(&buff, "## Mode\n\n[%s](Mode%s.md)\n\n", givenMode.String(), givenMode.String())
+	_, _ = fmt.Fprintf(&buff, "## Mode\n\n[%s](Mode%s.md)\n\n", givenMode.Type(), givenMode.Type())
 	_, _ = fmt.Fprintf(&buff, "## Number\n\n%d\n\n", givenMode.CanonicalNumber())
 	_, _ = fmt.Fprintf(&buff, "## Luminosity\n\n%d\n\n", givenMode.Luminosity())
 	_, _ = fmt.Fprintf(&buff, "## Tonic\n\n%s\n\n", givenMode.Tonic().Name())
@@ -480,7 +480,7 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 	_, _ = fmt.Fprintf(&buff, "|-----------------|------------------|\n")
 	_, _ = fmt.Fprintf(&buff, "| ![%s](CircleOfFifthMode%s.svg) | ![%s](ChromaticCircleMode%s.svg) |\n", givenMode, givenMode, givenMode, givenMode)
 
-	uniqueRelativeMode := make(map[int]struct{})
+	uniqueRelativeMode1 := make(map[int]struct{})
 	_, _ = fmt.Fprintf(&buff, "## Relative Modes\n\n")
 	_, _ = fmt.Fprintf(&buff, "| Number | Mode | Luminosity | Tonic | Notes | Illustration |\n")
 	_, _ = fmt.Fprintf(&buff, "|--------|------|------------|-------|-------|--------------|\n")
@@ -488,8 +488,8 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 		if idx < givenMode.Cardinality() {
 			for _, relativeMode := range mapModeNumberToModes[givenMode.Number()] {
 				if relativeMode.Tonic().Equal(expectedTonic) {
-					if _, found := uniqueRelativeMode[relativeMode.CanonicalNumber()]; !found{
-						uniqueRelativeMode[relativeMode.CanonicalNumber()] = struct{}{}
+					if _, found := uniqueRelativeMode1[relativeMode.CanonicalNumber()]; !found {
+						uniqueRelativeMode1[relativeMode.CanonicalNumber()] = struct{}{}
 
 						canonicalNumber := relativeMode.CanonicalNumber()
 						computedNoteNames := relativeMode.Notes().Names()
@@ -501,6 +501,7 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 		}
 	}
 
+	uniqueRelativeMode2 := make(map[int]struct{})
 	_, _ = fmt.Fprintf(&buff, "## Relative Brightness\n\n")
 	_, _ = fmt.Fprintf(&buff, "| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |\n")
 	_, _ = fmt.Fprintf(&buff, "|--------|------|------------|-------|-------|-----------------|------------------|\n")
@@ -508,10 +509,13 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 		if idx < givenMode.Cardinality() {
 			for _, relativeMode := range mapModeNumberToModes[givenMode.Number()] {
 				if relativeMode.Tonic().Equal(expectedTonic) {
-					canonicalNumber := relativeMode.CanonicalNumber()
-					computedNoteNames := relativeMode.Notes().Names()
-					modeURL := fmt.Sprintf("https://ianring.com/musictheory/scales/%d", canonicalNumber)
-					_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %d | %s | %s | ![%s](CircleOfFifthMode%s.svg) | ![%s](ChromaticCircleMode%s.svg) |\n", canonicalNumber, modeURL, relativeMode.Type(), relativeMode.Type(), relativeMode.Luminosity(), relativeMode.Tonic().Name(), strings.Join(computedNoteNames, ", "), relativeMode, relativeMode, relativeMode, relativeMode)
+					if _, found := uniqueRelativeMode2[relativeMode.CanonicalNumber()]; !found {
+						uniqueRelativeMode2[relativeMode.CanonicalNumber()] = struct{}{}
+						canonicalNumber := relativeMode.CanonicalNumber()
+						computedNoteNames := relativeMode.Notes().Names()
+						modeURL := fmt.Sprintf("https://ianring.com/musictheory/scales/%d", canonicalNumber)
+						_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %d | %s | %s | ![%s](CircleOfFifthMode%s.svg) | ![%s](ChromaticCircleMode%s.svg) |\n", canonicalNumber, modeURL, relativeMode.Type(), relativeMode.Type(), relativeMode.Luminosity(), relativeMode.Tonic().Name(), strings.Join(computedNoteNames, ", "), relativeMode, relativeMode, relativeMode, relativeMode)
+					}
 				}
 			}
 		}

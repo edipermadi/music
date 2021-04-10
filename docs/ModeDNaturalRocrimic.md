@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalRocrimic](ModeDNaturalRocrimic.md)
+[Rocrimic](ModeRocrimic.md)
 
 ## Number
 

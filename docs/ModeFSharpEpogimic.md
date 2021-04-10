@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FSharpEpogimic](ModeFSharpEpogimic.md)
+[Epogimic](ModeEpogimic.md)
 
 ## Number
 
@@ -81,10 +81,8 @@ I⁺, III⁺, V⁺
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeEpogimic.md) | 2 | F# | F#, G##, A#, B, C##, D##, F# | ![FSharpEpogimic](CircleOfFifthModeFSharpEpogimic.svg) | ![FSharpEpogimic](ChromaticCircleModeFSharpEpogimic.svg) |
-| [1337](https://ianring.com/musictheory/scales/1337) | [Epogimic](ModeEpogimic.md) | 2 | Gb | Gb, A, Bb, Cb, D, E, Gb | ![GFlatEpogimic](CircleOfFifthModeGFlatEpogimic.svg) | ![GFlatEpogimic](ChromaticCircleModeGFlatEpogimic.svg) |
 | [679](https://ianring.com/musictheory/scales/679) | [Lanimic](ModeLanimic.md) | 5 | A | A, Bb, Cb, D, E, F#, A | ![ANaturalLanimic](CircleOfFifthModeANaturalLanimic.svg) | ![ANaturalLanimic](ChromaticCircleModeANaturalLanimic.svg) |
 | [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | -1 | A# | A#, B, C##, D##, E##, Cbbb, A# | ![ASharpPaptimic](CircleOfFifthModeASharpPaptimic.svg) | ![ASharpPaptimic](ChromaticCircleModeASharpPaptimic.svg) |
-| [2387](https://ianring.com/musictheory/scales/2387) | [Paptimic](ModePaptimic.md) | -1 | Bb | Bb, Cb, D, E, F#, G##, Bb | ![BFlatPaptimic](CircleOfFifthModeBFlatPaptimic.svg) | ![BFlatPaptimic](ChromaticCircleModeBFlatPaptimic.svg) |
 | [3241](https://ianring.com/musictheory/scales/3241) | [Dalimic](ModeDalimic.md) | 3 | B | B, C##, D##, E##, Cbbb, Cbb, B | ![BNaturalDalimic](CircleOfFifthModeBNaturalDalimic.svg) | ![BNaturalDalimic](ChromaticCircleModeBNaturalDalimic.svg) |
 | [917](https://ianring.com/musictheory/scales/917) | [Dygimic](ModeDygimic.md) | 6 | D | D, E, F#, G##, A#, B, D | ![DNaturalDygimic](CircleOfFifthModeDNaturalDygimic.svg) | ![DNaturalDygimic](ChromaticCircleModeDNaturalDygimic.svg) |
 | [1253](https://ianring.com/musictheory/scales/1253) | [Zolimic](ModeZolimic.md) | 4 | E | E, F#, G##, A#, B, C##, E | ![ENaturalZolimic](CircleOfFifthModeENaturalZolimic.svg) | ![ENaturalZolimic](ChromaticCircleModeENaturalZolimic.svg) |

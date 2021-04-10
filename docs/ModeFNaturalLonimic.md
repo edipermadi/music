@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalLonimic](ModeFNaturalLonimic.md)
+[Lonimic](ModeLonimic.md)
 
 ## Number
 

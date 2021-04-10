@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalIonycritonic](ModeFNaturalIonycritonic.md)
+[Ionycritonic](ModeIonycritonic.md)
 
 ## Number
 

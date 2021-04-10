@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalKyrygic](ModeFNaturalKyrygic.md)
+[Kyrygic](ModeKyrygic.md)
 
 ## Number
 
@@ -92,10 +92,8 @@ I, IIb5, viii⁰b3, ix
 | [1407](https://ianring.com/musictheory/scales/1407) | [Tharygic](ModeTharygic.md) | 3 | B | B, C, C#, D, D#, E, F, G, A, B | ![BNaturalTharygic](CircleOfFifthModeBNaturalTharygic.svg) | ![BNaturalTharygic](ChromaticCircleModeBNaturalTharygic.svg) |
 | [2751](https://ianring.com/musictheory/scales/2751) | [Sylygic](ModeSylygic.md) | 8 | C | C, C#, D, D#, E, F, G, A, B, C | ![CNaturalSylygic](CircleOfFifthModeCNaturalSylygic.svg) | ![CNaturalSylygic](ChromaticCircleModeCNaturalSylygic.svg) |
 | [3423](https://ianring.com/musictheory/scales/3423) | [Lothygic](ModeLothygic.md) | -1 | C# | C#, D, D#, E, F, G, A, B, C, C# | ![CSharpLothygic](CircleOfFifthModeCSharpLothygic.svg) | ![CSharpLothygic](ChromaticCircleModeCSharpLothygic.svg) |
-| [3423](https://ianring.com/musictheory/scales/3423) | [Lothygic](ModeLothygic.md) | -1 | Db | Db, D, Eb, E, F, G, A, B, C, Db | ![DFlatLothygic](CircleOfFifthModeDFlatLothygic.svg) | ![DFlatLothygic](ChromaticCircleModeDFlatLothygic.svg) |
 | [3759](https://ianring.com/musictheory/scales/3759) | [Darygic](ModeDarygic.md) | 6 | D | D, D#, E, F, G, A, B, C, C#, D | ![DNaturalDarygic](CircleOfFifthModeDNaturalDarygic.svg) | ![DNaturalDarygic](ChromaticCircleModeDNaturalDarygic.svg) |
 | [3927](https://ianring.com/musictheory/scales/3927) | [Monygic](ModeMonygic.md) | -1 | D# | D#, E, F, G, A, B, C, C#, D, D# | ![DSharpMonygic](CircleOfFifthModeDSharpMonygic.svg) | ![DSharpMonygic](ChromaticCircleModeDSharpMonygic.svg) |
-| [3927](https://ianring.com/musictheory/scales/3927) | [Monygic](ModeMonygic.md) | -1 | Eb | Eb, E, F, G, A, B, C, Db, D, Eb | ![EFlatMonygic](CircleOfFifthModeEFlatMonygic.svg) | ![EFlatMonygic](ChromaticCircleModeEFlatMonygic.svg) |
 | [4011](https://ianring.com/musictheory/scales/4011) | [Styrygic](ModeStyrygic.md) | 4 | E | E, F, G, A, B, C, C#, D, D#, E | ![ENaturalStyrygic](CircleOfFifthModeENaturalStyrygic.svg) | ![ENaturalStyrygic](ChromaticCircleModeENaturalStyrygic.svg) |
 
 ## Chords

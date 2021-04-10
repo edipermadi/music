@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BFlatDaric](ModeBFlatDaric.md)
+[Daric](ModeDaric.md)
 
 ## Number
 
@@ -77,11 +77,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | 4 | A# | A#, D, F, G#, A# | ![ASharpDaric](CircleOfFifthModeASharpDaric.svg) | ![ASharpDaric](ChromaticCircleModeASharpDaric.svg) |
-| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | 4 | Bb | Bb, D, F, Ab, Bb | ![BFlatDaric](CircleOfFifthModeBFlatDaric.svg) | ![BFlatDaric](ChromaticCircleModeBFlatDaric.svg) |
 | [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | -1 | D | D, F, G#, A#, D | ![DNaturalLonic](CircleOfFifthModeDNaturalLonic.svg) | ![DNaturalLonic](ChromaticCircleModeDNaturalLonic.svg) |
 | [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | 3 | F | F, G#, A#, D, F | ![FNaturalPhradic](CircleOfFifthModeFNaturalPhradic.svg) | ![FNaturalPhradic](ChromaticCircleModeFNaturalPhradic.svg) |
 | [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | -1 | G# | G#, A#, D, F, G# | ![GSharpBolic](CircleOfFifthModeGSharpBolic.svg) | ![GSharpBolic](ChromaticCircleModeGSharpBolic.svg) |
-| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | -1 | Ab | Ab, Bb, D, F, Ab | ![AFlatBolic](CircleOfFifthModeAFlatBolic.svg) | ![AFlatBolic](ChromaticCircleModeAFlatBolic.svg) |
 
 ## Chords
 

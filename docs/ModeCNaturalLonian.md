@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CNaturalLonian](ModeCNaturalLonian.md)
+[Lonian](ModeLonian.md)
 
 ## Number
 
@@ -86,11 +86,9 @@ II, iv⁰, v, VII⁺
 | [1465](https://ianring.com/musictheory/scales/1465) | [Aerathian](ModeAerathian.md) | 3 | D | D, E#, F#, G, A, Bb, C, D | ![DNaturalAerathian](CircleOfFifthModeDNaturalAerathian.svg) | ![DNaturalAerathian](ChromaticCircleModeDNaturalAerathian.svg) |
 | [695](https://ianring.com/musictheory/scales/695) | [Sarian](ModeSarian.md) | 6 | F | F, Gb, Abb, Bbb, Cbb, Dbb, Ebb, F | ![FNaturalSarian](CircleOfFifthModeFNaturalSarian.svg) | ![FNaturalSarian](ChromaticCircleModeFNaturalSarian.svg) |
 | [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | -1 | F# | F#, G, A, Bb, C, D, E#, F# | ![FSharpZoptian](CircleOfFifthModeFSharpZoptian.svg) | ![FSharpZoptian](ChromaticCircleModeFSharpZoptian.svg) |
-| [2395](https://ianring.com/musictheory/scales/2395) | [Zoptian](ModeZoptian.md) | -1 | Gb | Gb, Abb, Bbb, Cbb, Dbb, Ebb, F, Gb | ![GFlatZoptian](CircleOfFifthModeGFlatZoptian.svg) | ![GFlatZoptian](ChromaticCircleModeGFlatZoptian.svg) |
 | [3245](https://ianring.com/musictheory/scales/3245) | [Aeracrian](ModeAeracrian.md) | 4 | G | G, A, Bb, C, D, E#, F#, G | ![GNaturalAeracrian](CircleOfFifthModeGNaturalAeracrian.svg) | ![GNaturalAeracrian](ChromaticCircleModeGNaturalAeracrian.svg) |
 | [1835](https://ianring.com/musictheory/scales/1835) | [Byptian](ModeByptian.md) | 2 | A | A, Bb, C, D, E#, F#, G, A | ![ANaturalByptian](CircleOfFifthModeANaturalByptian.svg) | ![ANaturalByptian](ChromaticCircleModeANaturalByptian.svg) |
 | [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | 7 | A# | A#, B#, C##, D###, E##, F##, G##, A# | ![ASharpDarian](CircleOfFifthModeASharpDarian.svg) | ![ASharpDarian](ChromaticCircleModeASharpDarian.svg) |
-| [2965](https://ianring.com/musictheory/scales/2965) | [Darian](ModeDarian.md) | 7 | Bb | Bb, C, D, E#, F#, G, A, Bb | ![BFlatDarian](CircleOfFifthModeBFlatDarian.svg) | ![BFlatDarian](ChromaticCircleModeBFlatDarian.svg) |
 
 ## Chords
 

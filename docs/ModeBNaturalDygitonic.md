@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalDygitonic](ModeBNaturalDygitonic.md)
+[Dygitonic](ModeDygitonic.md)
 
 ## Number
 
@@ -80,12 +80,9 @@ C
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [2245](https://ianring.com/musictheory/scales/2245) | [Dygitonic](ModeDygitonic.md) | 5 | B | B, C#, F, F#, A#, B | ![BNaturalDygitonic](CircleOfFifthModeBNaturalDygitonic.svg) | ![BNaturalDygitonic](ChromaticCircleModeBNaturalDygitonic.svg) |
 | [1585](https://ianring.com/musictheory/scales/1585) | [Phraditonic](ModePhraditonic.md) | -1 | C# | C#, F, F#, A#, B, C# | ![CSharpPhraditonic](CircleOfFifthModeCSharpPhraditonic.svg) | ![CSharpPhraditonic](ChromaticCircleModeCSharpPhraditonic.svg) |
-| [1585](https://ianring.com/musictheory/scales/1585) | [Phraditonic](ModePhraditonic.md) | 3 | Db | Db, F, Gb, Bb, B, Db | ![DFlatPhraditonic](CircleOfFifthModeDFlatPhraditonic.svg) | ![DFlatPhraditonic](ChromaticCircleModeDFlatPhraditonic.svg) |
 | [355](https://ianring.com/musictheory/scales/355) | [Aeoloritonic](ModeAeoloritonic.md) | 4 | F | F, F#, A#, B, C#, F | ![FNaturalAeoloritonic](CircleOfFifthModeFNaturalAeoloritonic.svg) | ![FNaturalAeoloritonic](ChromaticCircleModeFNaturalAeoloritonic.svg) |
 | [2225](https://ianring.com/musictheory/scales/2225) | [Gonitonic](ModeGonitonic.md) | -1 | F# | F#, A#, B, C#, F, F# | ![FSharpGonitonic](CircleOfFifthModeFSharpGonitonic.svg) | ![FSharpGonitonic](ChromaticCircleModeFSharpGonitonic.svg) |
-| [2225](https://ianring.com/musictheory/scales/2225) | [Gonitonic](ModeGonitonic.md) | 4 | Gb | Gb, Bb, B, Db, F, Gb | ![GFlatGonitonic](CircleOfFifthModeGFlatGonitonic.svg) | ![GFlatGonitonic](ChromaticCircleModeGFlatGonitonic.svg) |
 | [395](https://ianring.com/musictheory/scales/395) | [Dalitonic](ModeDalitonic.md) | -1 | A# | A#, B, C#, F, F#, A# | ![ASharpDalitonic](CircleOfFifthModeASharpDalitonic.svg) | ![ASharpDalitonic](ChromaticCircleModeASharpDalitonic.svg) |
-| [395](https://ianring.com/musictheory/scales/395) | [Dalitonic](ModeDalitonic.md) | -1 | Bb | Bb, B, Db, F, Gb, Bb | ![BFlatDalitonic](CircleOfFifthModeBFlatDalitonic.svg) | ![BFlatDalitonic](ChromaticCircleModeBFlatDalitonic.svg) |
 
 ## Chords
 

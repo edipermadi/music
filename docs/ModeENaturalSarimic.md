@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ENaturalSarimic](ModeENaturalSarimic.md)
+[Sarimic](ModeSarimic.md)
 
 ## Number
 

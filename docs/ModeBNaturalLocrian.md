@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalLocrian](ModeBNaturalLocrian.md)
+[Locrian](ModeLocrian.md)
 
 ## Number
 

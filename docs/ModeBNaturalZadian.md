@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalZadian](ModeBNaturalZadian.md)
+[Zadian](ModeZadian.md)
 
 ## Number
 
@@ -86,10 +86,8 @@ ii⁰, vii⁰
 | [2653](https://ianring.com/musictheory/scales/2653) | [Sygian](ModeSygian.md) | -1 | C | C, D, Eb, Fb, Gb, A, B, C | ![CNaturalSygian](CircleOfFifthModeCNaturalSygian.svg) | ![CNaturalSygian](ChromaticCircleModeCNaturalSygian.svg) |
 | [1687](https://ianring.com/musictheory/scales/1687) | [Phralian](ModePhralian.md) | 7 | D | D, Eb, Fb, Gb, A, B, C, D | ![DNaturalPhralian](CircleOfFifthModeDNaturalPhralian.svg) | ![DNaturalPhralian](ChromaticCircleModeDNaturalPhralian.svg) |
 | [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | -1 | D# | D#, E, F#, G##, A##, B#, C##, D# | ![DSharpPhrogian](CircleOfFifthModeDSharpPhrogian.svg) | ![DSharpPhrogian](ChromaticCircleModeDSharpPhrogian.svg) |
-| [2891](https://ianring.com/musictheory/scales/2891) | [Phrogian](ModePhrogian.md) | -1 | Eb | Eb, Fb, Gb, A, B, C, D, Eb | ![EFlatPhrogian](CircleOfFifthModeEFlatPhrogian.svg) | ![EFlatPhrogian](ChromaticCircleModeEFlatPhrogian.svg) |
 | [3493](https://ianring.com/musictheory/scales/3493) | [Rathian](ModeRathian.md) | 5 | E | E, F#, G##, A##, B#, C##, D#, E | ![ENaturalRathian](CircleOfFifthModeENaturalRathian.svg) | ![ENaturalRathian](ChromaticCircleModeENaturalRathian.svg) |
 | [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | 3 | F# | F#, G##, A##, B#, C##, D#, E, F# | ![FSharpIonopian](CircleOfFifthModeFSharpIonopian.svg) | ![FSharpIonopian](ChromaticCircleModeFSharpIonopian.svg) |
-| [1897](https://ianring.com/musictheory/scales/1897) | [Ionopian](ModeIonopian.md) | 3 | Gb | Gb, A, B, C, D, Eb, Fb, Gb | ![GFlatIonopian](CircleOfFifthModeGFlatIonopian.svg) | ![GFlatIonopian](ChromaticCircleModeGFlatIonopian.svg) |
 | [749](https://ianring.com/musictheory/scales/749) | [Aeologian](ModeAeologian.md) | 6 | A | A, B, C, D, Eb, Fb, Gb, A | ![ANaturalAeologian](CircleOfFifthModeANaturalAeologian.svg) | ![ANaturalAeologian](ChromaticCircleModeANaturalAeologian.svg) |
 
 ## Chords

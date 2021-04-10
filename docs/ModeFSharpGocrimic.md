@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FSharpGocrimic](ModeFSharpGocrimic.md)
+[Gocrimic](ModeGocrimic.md)
 
 ## Number
 
@@ -81,12 +81,10 @@ v⁰
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | -1 | F# | F#, G, A, B#, C###, D###, F# | ![FSharpGocrimic](CircleOfFifthModeFSharpGocrimic.svg) | ![FSharpGocrimic](ChromaticCircleModeFSharpGocrimic.svg) |
-| [2635](https://ianring.com/musictheory/scales/2635) | [Gocrimic](ModeGocrimic.md) | -1 | Gb | Gb, Abb, Bbb, C, D#, E#, Gb | ![GFlatGocrimic](CircleOfFifthModeGFlatGocrimic.svg) | ![GFlatGocrimic](ChromaticCircleModeGFlatGocrimic.svg) |
 | [3365](https://ianring.com/musictheory/scales/3365) | [Katolimic](ModeKatolimic.md) | 4 | G | G, A, B#, C###, D###, E##, G | ![GNaturalKatolimic](CircleOfFifthModeGNaturalKatolimic.svg) | ![GNaturalKatolimic](ChromaticCircleModeGNaturalKatolimic.svg) |
 | [1865](https://ianring.com/musictheory/scales/1865) | [Thagimic](ModeThagimic.md) | -1 | A | A, B#, C###, D###, E##, F##, A | ![ANaturalThagimic](CircleOfFifthModeANaturalThagimic.svg) | ![ANaturalThagimic](ChromaticCircleModeANaturalThagimic.svg) |
 | [745](https://ianring.com/musictheory/scales/745) | [Kolimic](ModeKolimic.md) | 5 | C | C, D#, E#, F#, G, A, C | ![CNaturalKolimic](CircleOfFifthModeCNaturalKolimic.svg) | ![CNaturalKolimic](ChromaticCircleModeCNaturalKolimic.svg) |
 | [605](https://ianring.com/musictheory/scales/605) | [Dycrimic](ModeDycrimic.md) | -1 | D# | D#, E#, F#, G, A, B#, D# | ![DSharpDycrimic](CircleOfFifthModeDSharpDycrimic.svg) | ![DSharpDycrimic](ChromaticCircleModeDSharpDycrimic.svg) |
-| [605](https://ianring.com/musictheory/scales/605) | [Dycrimic](ModeDycrimic.md) | -1 | Eb | Eb, F, Gb, Abb, Bbb, C, Eb | ![EFlatDycrimic](CircleOfFifthModeEFlatDycrimic.svg) | ![EFlatDycrimic](ChromaticCircleModeEFlatDycrimic.svg) |
 | [1175](https://ianring.com/musictheory/scales/1175) | [Epycrimic](ModeEpycrimic.md) | 6 | F | F, Gb, Abb, Bbb, C, D#, F | ![FNaturalEpycrimic](CircleOfFifthModeFNaturalEpycrimic.svg) | ![FNaturalEpycrimic](ChromaticCircleModeFNaturalEpycrimic.svg) |
 
 ## Chords

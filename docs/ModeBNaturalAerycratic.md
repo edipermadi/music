@@ -13,7 +13,7 @@
 
 ## Mode
 
-[BNaturalAerycratic](ModeBNaturalAerycratic.md)
+[Aerycratic](ModeAerycratic.md)
 
 ## Number
 
@@ -92,20 +92,15 @@ C
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [4093](https://ianring.com/musictheory/scales/4093) | [Aerycratic](ModeAerycratic.md) | 7 | B | B, C#, D, D#, E, F, F#, G, G#, A, A#, B | ![BNaturalAerycratic](CircleOfFifthModeBNaturalAerycratic.svg) | ![BNaturalAerycratic](ChromaticCircleModeBNaturalAerycratic.svg) |
 | [2047](https://ianring.com/musictheory/scales/2047) | [Monatic](ModeMonatic.md) | 5 | C# | C#, D, D#, E, F, F#, G, G#, A, A#, B, C# | ![CSharpMonatic](CircleOfFifthModeCSharpMonatic.svg) | ![CSharpMonatic](ChromaticCircleModeCSharpMonatic.svg) |
-| [2047](https://ianring.com/musictheory/scales/2047) | [Monatic](ModeMonatic.md) | 5 | Db | Db, D, Eb, E, F, Gb, G, Ab, A, Bb, B, Db | ![DFlatMonatic](CircleOfFifthModeDFlatMonatic.svg) | ![DFlatMonatic](ChromaticCircleModeDFlatMonatic.svg) |
 | [3071](https://ianring.com/musictheory/scales/3071) | [Solatic](ModeSolatic.md) | 10 | D | D, D#, E, F, F#, G, G#, A, A#, B, C#, D | ![DNaturalSolatic](CircleOfFifthModeDNaturalSolatic.svg) | ![DNaturalSolatic](ChromaticCircleModeDNaturalSolatic.svg) |
 | [3583](https://ianring.com/musictheory/scales/3583) | [Zylatic](ModeZylatic.md) | 3 | D# | D#, E, F, F#, G, G#, A, A#, B, C#, D, D# | ![DSharpZylatic](CircleOfFifthModeDSharpZylatic.svg) | ![DSharpZylatic](ChromaticCircleModeDSharpZylatic.svg) |
-| [3583](https://ianring.com/musictheory/scales/3583) | [Zylatic](ModeZylatic.md) | 3 | Eb | Eb, E, F, Gb, G, Ab, A, Bb, B, Db, D, Eb | ![EFlatZylatic](CircleOfFifthModeEFlatZylatic.svg) | ![EFlatZylatic](ChromaticCircleModeEFlatZylatic.svg) |
 | [3839](https://ianring.com/musictheory/scales/3839) | [Mixolatic](ModeMixolatic.md) | 8 | E | E, F, F#, G, G#, A, A#, B, C#, D, D#, E | ![ENaturalMixolatic](CircleOfFifthModeENaturalMixolatic.svg) | ![ENaturalMixolatic](ChromaticCircleModeENaturalMixolatic.svg) |
 | [3967](https://ianring.com/musictheory/scales/3967) | [Soratic](ModeSoratic.md) | 1 | F | F, F#, G, G#, A, A#, B, C#, D, D#, E, F | ![FNaturalSoratic](CircleOfFifthModeFNaturalSoratic.svg) | ![FNaturalSoratic](ChromaticCircleModeFNaturalSoratic.svg) |
 | [4031](https://ianring.com/musictheory/scales/4031) | [Godatic](ModeGodatic.md) | 6 | F# | F#, G, G#, A, A#, B, C#, D, D#, E, F, F# | ![FSharpGodatic](CircleOfFifthModeFSharpGodatic.svg) | ![FSharpGodatic](ChromaticCircleModeFSharpGodatic.svg) |
-| [4031](https://ianring.com/musictheory/scales/4031) | [Godatic](ModeGodatic.md) | 6 | Gb | Gb, G, Ab, A, Bb, B, Db, D, Eb, E, F, Gb | ![GFlatGodatic](CircleOfFifthModeGFlatGodatic.svg) | ![GFlatGodatic](ChromaticCircleModeGFlatGodatic.svg) |
 | [4063](https://ianring.com/musictheory/scales/4063) | [Eptatic](ModeEptatic.md) | 11 | G | G, G#, A, A#, B, C#, D, D#, E, F, F#, G | ![GNaturalEptatic](CircleOfFifthModeGNaturalEptatic.svg) | ![GNaturalEptatic](ChromaticCircleModeGNaturalEptatic.svg) |
 | [4079](https://ianring.com/musictheory/scales/4079) | [Ionatic](ModeIonatic.md) | 4 | G# | G#, A, A#, B, C#, D, D#, E, F, F#, G, G# | ![GSharpIonatic](CircleOfFifthModeGSharpIonatic.svg) | ![GSharpIonatic](ChromaticCircleModeGSharpIonatic.svg) |
-| [4079](https://ianring.com/musictheory/scales/4079) | [Ionatic](ModeIonatic.md) | 4 | Ab | Ab, A, Bb, B, Db, D, Eb, E, F, Gb, G, Ab | ![AFlatIonatic](CircleOfFifthModeAFlatIonatic.svg) | ![AFlatIonatic](ChromaticCircleModeAFlatIonatic.svg) |
 | [4087](https://ianring.com/musictheory/scales/4087) | [Aeolatic](ModeAeolatic.md) | 9 | A | A, A#, B, C#, D, D#, E, F, F#, G, G#, A | ![ANaturalAeolatic](CircleOfFifthModeANaturalAeolatic.svg) | ![ANaturalAeolatic](ChromaticCircleModeANaturalAeolatic.svg) |
 | [4091](https://ianring.com/musictheory/scales/4091) | [Thydatic](ModeThydatic.md) | 2 | A# | A#, B, C#, D, D#, E, F, F#, G, G#, A, A# | ![ASharpThydatic](CircleOfFifthModeASharpThydatic.svg) | ![ASharpThydatic](ChromaticCircleModeASharpThydatic.svg) |
-| [4091](https://ianring.com/musictheory/scales/4091) | [Thydatic](ModeThydatic.md) | 2 | Bb | Bb, B, Db, D, Eb, E, F, Gb, G, Ab, A, Bb | ![BFlatThydatic](CircleOfFifthModeBFlatThydatic.svg) | ![BFlatThydatic](ChromaticCircleModeBFlatThydatic.svg) |
 
 ## Chords
 

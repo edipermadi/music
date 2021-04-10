@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalDarmic](ModeDNaturalDarmic.md)
+[Darmic](ModeDarmic.md)
 
 ## Number
 

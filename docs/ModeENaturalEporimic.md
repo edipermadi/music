@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ENaturalEporimic](ModeENaturalEporimic.md)
+[Eporimic](ModeEporimic.md)
 
 ## Number
 

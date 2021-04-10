@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalDaritonic](ModeGNaturalDaritonic.md)
+[Daritonic](ModeDaritonic.md)
 
 ## Number
 
@@ -83,7 +83,6 @@ C
 | [709](https://ianring.com/musictheory/scales/709) | [Ionycritonic](ModeIonycritonic.md) | 5 | C | C, D, F#, G, A, C | ![CNaturalIonycritonic](CircleOfFifthModeCNaturalIonycritonic.svg) | ![CNaturalIonycritonic](ChromaticCircleModeCNaturalIonycritonic.svg) |
 | [1201](https://ianring.com/musictheory/scales/1201) | [Aeracritonic](ModeAeracritonic.md) | 3 | D | D, F#, G, A, C, D | ![DNaturalAeracritonic](CircleOfFifthModeDNaturalAeracritonic.svg) | ![DNaturalAeracritonic](ChromaticCircleModeDNaturalAeracritonic.svg) |
 | [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | -1 | F# | F#, G, A, C, D, F# | ![FSharpByptitonic](CircleOfFifthModeFSharpByptitonic.svg) | ![FSharpByptitonic](ChromaticCircleModeFSharpByptitonic.svg) |
-| [331](https://ianring.com/musictheory/scales/331) | [Byptitonic](ModeByptitonic.md) | -1 | Gb | Gb, G, A, C, D, Gb | ![GFlatByptitonic](CircleOfFifthModeGFlatByptitonic.svg) | ![GFlatByptitonic](ChromaticCircleModeGFlatByptitonic.svg) |
 
 ## Chords
 

@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ENaturalThalitonic](ModeENaturalThalitonic.md)
+[Thalitonic](ModeThalitonic.md)
 
 ## Number
 

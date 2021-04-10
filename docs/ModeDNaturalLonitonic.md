@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalLonitonic](ModeDNaturalLonitonic.md)
+[Lonitonic](ModeLonitonic.md)
 
 ## Number
 

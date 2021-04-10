@@ -13,7 +13,7 @@
 
 ## Mode
 
-[GNaturalPoritonic](ModeGNaturalPoritonic.md)
+[Poritonic](ModePoritonic.md)
 
 ## Number
 
@@ -83,7 +83,6 @@ C
 | [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | 5 | C | C, D, D#, G, B, C | ![CNaturalZagitonic](CircleOfFifthModeCNaturalZagitonic.svg) | ![CNaturalZagitonic](ChromaticCircleModeCNaturalZagitonic.svg) |
 | [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | 3 | D | D, D#, G, B, C, D | ![DNaturalLagitonic](CircleOfFifthModeDNaturalLagitonic.svg) | ![DNaturalLagitonic](ChromaticCircleModeDNaturalLagitonic.svg) |
 | [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | -1 | D# | D#, G, B, C, D, D# | ![DSharpDolitonic](CircleOfFifthModeDSharpDolitonic.svg) | ![DSharpDolitonic](ChromaticCircleModeDSharpDolitonic.svg) |
-| [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | -1 | Eb | Eb, G, B, C, D, Eb | ![EFlatDolitonic](CircleOfFifthModeEFlatDolitonic.svg) | ![EFlatDolitonic](ChromaticCircleModeEFlatDolitonic.svg) |
 
 ## Chords
 

@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DSharpZagitonic](ModeDSharpZagitonic.md)
+[Zagitonic](ModeZagitonic.md)
 
 ## Number
 
@@ -79,12 +79,9 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | 5 | D# | D#, F, F#, A#, D, D# | ![DSharpZagitonic](CircleOfFifthModeDSharpZagitonic.svg) | ![DSharpZagitonic](ChromaticCircleModeDSharpZagitonic.svg) |
-| [2189](https://ianring.com/musictheory/scales/2189) | [Zagitonic](ModeZagitonic.md) | 5 | Eb | Eb, F, Gb, Bb, D, Eb | ![EFlatZagitonic](CircleOfFifthModeEFlatZagitonic.svg) | ![EFlatZagitonic](ChromaticCircleModeEFlatZagitonic.svg) |
 | [1571](https://ianring.com/musictheory/scales/1571) | [Lagitonic](ModeLagitonic.md) | 3 | F | F, F#, A#, D, D#, F | ![FNaturalLagitonic](CircleOfFifthModeFNaturalLagitonic.svg) | ![FNaturalLagitonic](ChromaticCircleModeFNaturalLagitonic.svg) |
 | [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | -1 | F# | F#, A#, D, D#, F, F# | ![FSharpDolitonic](CircleOfFifthModeFSharpDolitonic.svg) | ![FSharpDolitonic](ChromaticCircleModeFSharpDolitonic.svg) |
-| [2833](https://ianring.com/musictheory/scales/2833) | [Dolitonic](ModeDolitonic.md) | -1 | Gb | Gb, Bb, D, Eb, F, Gb | ![GFlatDolitonic](CircleOfFifthModeGFlatDolitonic.svg) | ![GFlatDolitonic](ChromaticCircleModeGFlatDolitonic.svg) |
 | [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | 4 | A# | A#, D, D#, F, F#, A# | ![ASharpPoritonic](CircleOfFifthModeASharpPoritonic.svg) | ![ASharpPoritonic](ChromaticCircleModeASharpPoritonic.svg) |
-| [433](https://ianring.com/musictheory/scales/433) | [Poritonic](ModePoritonic.md) | 4 | Bb | Bb, D, Eb, F, Gb, Bb | ![BFlatPoritonic](CircleOfFifthModeBFlatPoritonic.svg) | ![BFlatPoritonic](ChromaticCircleModeBFlatPoritonic.svg) |
 | [283](https://ianring.com/musictheory/scales/283) | [Aerylitonic](ModeAerylitonic.md) | -1 | D | D, D#, F, F#, A#, D | ![DNaturalAerylitonic](CircleOfFifthModeDNaturalAerylitonic.svg) | ![DNaturalAerylitonic](ChromaticCircleModeDNaturalAerylitonic.svg) |
 
 ## Chords

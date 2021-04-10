@@ -13,7 +13,7 @@
 
 ## Mode
 
-[AFlatGynimic](ModeAFlatGynimic.md)
+[Gynimic](ModeGynimic.md)
 
 ## Number
 
@@ -81,10 +81,8 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [287](https://ianring.com/musictheory/scales/287) | [Gynimic](ModeGynimic.md) | -1 | G# | G#, A, Bb, Cb, Dbb, E, G# | ![GSharpGynimic](CircleOfFifthModeGSharpGynimic.svg) | ![GSharpGynimic](ChromaticCircleModeGSharpGynimic.svg) |
-| [287](https://ianring.com/musictheory/scales/287) | [Gynimic](ModeGynimic.md) | -1 | Ab | Ab, Bbb, Cbb, Dbbb, Dbb, E, Ab | ![AFlatGynimic](CircleOfFifthModeAFlatGynimic.svg) | ![AFlatGynimic](ChromaticCircleModeAFlatGynimic.svg) |
 | [2191](https://ianring.com/musictheory/scales/2191) | [Thydimic](ModeThydimic.md) | 6 | A | A, Bb, Cb, Dbb, E, F###, A | ![ANaturalThydimic](CircleOfFifthModeANaturalThydimic.svg) | ![ANaturalThydimic](ChromaticCircleModeANaturalThydimic.svg) |
 | [3143](https://ianring.com/musictheory/scales/3143) | [Polimic](ModePolimic.md) | -1 | A# | A#, B, C, D##, F###, G##, A# | ![ASharpPolimic](CircleOfFifthModeASharpPolimic.svg) | ![ASharpPolimic](ChromaticCircleModeASharpPolimic.svg) |
-| [3143](https://ianring.com/musictheory/scales/3143) | [Polimic](ModePolimic.md) | -1 | Bb | Bb, Cb, Dbb, E, F###, G##, Bb | ![BFlatPolimic](CircleOfFifthModeBFlatPolimic.svg) | ![BFlatPolimic](ChromaticCircleModeBFlatPolimic.svg) |
 | [3619](https://ianring.com/musictheory/scales/3619) | [Thanimic](ModeThanimic.md) | 4 | B | B, C, D##, F###, G##, A#, B | ![BNaturalThanimic](CircleOfFifthModeBNaturalThanimic.svg) | ![BNaturalThanimic](ChromaticCircleModeBNaturalThanimic.svg) |
 | [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModePonimic.md) | -1 | C | C, D##, F###, G##, A#, B, C | ![CNaturalPonimic](CircleOfFifthModeCNaturalPonimic.svg) | ![CNaturalPonimic](ChromaticCircleModeCNaturalPonimic.svg) |
 | [497](https://ianring.com/musictheory/scales/497) | [Kadimic](ModeKadimic.md) | 5 | E | E, F###, G##, A#, B, C, E | ![ENaturalKadimic](CircleOfFifthModeENaturalKadimic.svg) | ![ENaturalKadimic](ChromaticCircleModeENaturalKadimic.svg) |

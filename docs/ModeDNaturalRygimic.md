@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DNaturalRygimic](ModeDNaturalRygimic.md)
+[Rygimic](ModeRygimic.md)
 
 ## Number
 
@@ -82,9 +82,7 @@ iv⁰, v
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1683](https://ianring.com/musictheory/scales/1683) | [Rygimic](ModeRygimic.md) | 6 | D | D, Eb, F#, G##, A##, B#, D | ![DNaturalRygimic](CircleOfFifthModeDNaturalRygimic.svg) | ![DNaturalRygimic](ChromaticCircleModeDNaturalRygimic.svg) |
 | [2889](https://ianring.com/musictheory/scales/2889) | [Thoptimic](ModeThoptimic.md) | -1 | D# | D#, E##, Cbbb, Dbbb, Dbb, Ebb, D# | ![DSharpThoptimic](CircleOfFifthModeDSharpThoptimic.svg) | ![DSharpThoptimic](ChromaticCircleModeDSharpThoptimic.svg) |
-| [2889](https://ianring.com/musictheory/scales/2889) | [Thoptimic](ModeThoptimic.md) | -1 | Eb | Eb, F#, G##, A##, B#, C##, Eb | ![EFlatThoptimic](CircleOfFifthModeEFlatThoptimic.svg) | ![EFlatThoptimic](ChromaticCircleModeEFlatThoptimic.svg) |
 | [873](https://ianring.com/musictheory/scales/873) | [Bagimic](ModeBagimic.md) | -1 | F# | F#, G##, A##, B#, C##, D#, F# | ![FSharpBagimic](CircleOfFifthModeFSharpBagimic.svg) | ![FSharpBagimic](ChromaticCircleModeFSharpBagimic.svg) |
-| [873](https://ianring.com/musictheory/scales/873) | [Bagimic](ModeBagimic.md) | -1 | Gb | Gb, A, B, C, D, Eb, Gb | ![GFlatBagimic](CircleOfFifthModeGFlatBagimic.svg) | ![GFlatBagimic](ChromaticCircleModeGFlatBagimic.svg) |
 | [621](https://ianring.com/musictheory/scales/621) | [Kyrimic](ModeKyrimic.md) | 5 | A | A, B, C, D, Eb, F#, A | ![ANaturalKyrimic](CircleOfFifthModeANaturalKyrimic.svg) | ![ANaturalKyrimic](ChromaticCircleModeANaturalKyrimic.svg) |
 | [1179](https://ianring.com/musictheory/scales/1179) | [Sonimic](ModeSonimic.md) | -1 | B | B, C, D, Eb, F#, G##, B | ![BNaturalSonimic](CircleOfFifthModeBNaturalSonimic.svg) | ![BNaturalSonimic](ChromaticCircleModeBNaturalSonimic.svg) |
 | [2637](https://ianring.com/musictheory/scales/2637) | [Aeolonimic](ModeAeolonimic.md) | -1 | C | C, D, Eb, F#, G##, A##, C | ![CNaturalAeolonimic](CircleOfFifthModeCNaturalAeolonimic.svg) | ![CNaturalAeolonimic](ChromaticCircleModeCNaturalAeolonimic.svg) |

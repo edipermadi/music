@@ -13,7 +13,7 @@
 
 ## Mode
 
-[DFlatIonathian](ModeDFlatIonathian.md)
+[Ionathian](ModeIonathian.md)
 
 ## Number
 
@@ -83,7 +83,6 @@ I⁺, III, IVb5, vi⁰b3
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | C# | C#, D, E#, F##, G##, A##, B#, C# | ![CSharpIonathian](CircleOfFifthModeCSharpIonathian.svg) | ![CSharpIonathian](ChromaticCircleModeCSharpIonathian.svg) |
-| [3411](https://ianring.com/musictheory/scales/3411) | [Ionathian](ModeIonathian.md) | -1 | Db | Db, Ebb, F, G, A, B, C, Db | ![DFlatIonathian](CircleOfFifthModeDFlatIonathian.svg) | ![DFlatIonathian](ChromaticCircleModeDFlatIonathian.svg) |
 | [3753](https://ianring.com/musictheory/scales/3753) | [Phraptian](ModePhraptian.md) | 4 | D | D, E#, F##, G##, A##, B#, C#, D | ![DNaturalPhraptian](CircleOfFifthModeDNaturalPhraptian.svg) | ![DNaturalPhraptian](ChromaticCircleModeDNaturalPhraptian.svg) |
 | [981](https://ianring.com/musictheory/scales/981) | [Bacrian](ModeBacrian.md) | 7 | F | F, G, A, B, C, Db, Ebb, F | ![FNaturalBacrian](CircleOfFifthModeFNaturalBacrian.svg) | ![FNaturalBacrian](ChromaticCircleModeFNaturalBacrian.svg) |
 | [1269](https://ianring.com/musictheory/scales/1269) | [Katythian](ModeKatythian.md) | 5 | G | G, A, B, C, Db, Ebb, F, G | ![GNaturalKatythian](CircleOfFifthModeGNaturalKatythian.svg) | ![GNaturalKatythian](ChromaticCircleModeGNaturalKatythian.svg) |

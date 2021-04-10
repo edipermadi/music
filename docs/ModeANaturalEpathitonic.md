@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalEpathitonic](ModeANaturalEpathitonic.md)
+[Epathitonic](ModeEpathitonic.md)
 
 ## Number
 

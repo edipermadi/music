@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalZeracrimic](ModeANaturalZeracrimic.md)
+[Zeracrimic](ModeZeracrimic.md)
 
 ## Number
 
@@ -83,10 +83,8 @@ iv, v
 | [1685](https://ianring.com/musictheory/scales/1685) | [Zeracrimic](ModeZeracrimic.md) | 6 | A | A, B, C#, D##, E##, F##, A | ![ANaturalZeracrimic](CircleOfFifthModeANaturalZeracrimic.svg) | ![ANaturalZeracrimic](ChromaticCircleModeANaturalZeracrimic.svg) |
 | [1445](https://ianring.com/musictheory/scales/1445) | [Byptimic](ModeByptimic.md) | 4 | B | B, C#, D##, E##, F##, G##, B | ![BNaturalByptimic](CircleOfFifthModeBNaturalByptimic.svg) | ![BNaturalByptimic](ChromaticCircleModeBNaturalByptimic.svg) |
 | [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | 2 | C# | C#, D##, E##, F##, G##, A##, C# | ![CSharpPhracrimic](CircleOfFifthModeCSharpPhracrimic.svg) | ![CSharpPhracrimic](ChromaticCircleModeCSharpPhracrimic.svg) |
-| [1385](https://ianring.com/musictheory/scales/1385) | [Phracrimic](ModePhracrimic.md) | 2 | Db | Db, E, F#, G, A, B, Db | ![DFlatPhracrimic](CircleOfFifthModeDFlatPhracrimic.svg) | ![DFlatPhracrimic](ChromaticCircleModeDFlatPhracrimic.svg) |
 | [685](https://ianring.com/musictheory/scales/685) | [Aerathimic](ModeAerathimic.md) | 5 | E | E, F#, G, A, B, C#, E | ![ENaturalAerathimic](CircleOfFifthModeENaturalAerathimic.svg) | ![ENaturalAerathimic](ChromaticCircleModeENaturalAerathimic.svg) |
 | [1195](https://ianring.com/musictheory/scales/1195) | [Sarimic](ModeSarimic.md) | 3 | F# | F#, G, A, B, C#, D##, F# | ![FSharpSarimic](CircleOfFifthModeFSharpSarimic.svg) | ![FSharpSarimic](ChromaticCircleModeFSharpSarimic.svg) |
-| [1195](https://ianring.com/musictheory/scales/1195) | [Sarimic](ModeSarimic.md) | 3 | Gb | Gb, Abb, Bbb, Cb, Db, E, Gb | ![GFlatSarimic](CircleOfFifthModeGFlatSarimic.svg) | ![GFlatSarimic](ChromaticCircleModeGFlatSarimic.svg) |
 | [2645](https://ianring.com/musictheory/scales/2645) | [Zoptimic](ModeZoptimic.md) | -1 | G | G, A, B, C#, D##, E##, G | ![GNaturalZoptimic](CircleOfFifthModeGNaturalZoptimic.svg) | ![GNaturalZoptimic](ChromaticCircleModeGNaturalZoptimic.svg) |
 
 ## Chords

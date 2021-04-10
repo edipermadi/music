@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalLydian](ModeFNaturalLydian.md)
+[Lydian](ModeLydian.md)
 
 ## Number
 

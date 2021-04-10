@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ANaturalPhradimic](ModeANaturalPhradimic.md)
+[Phradimic](ModePhradimic.md)
 
 ## Number
 

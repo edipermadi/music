@@ -13,7 +13,7 @@
 
 ## Mode
 
-[FNaturalEpidyllic](ModeFNaturalEpidyllic.md)
+[Epidyllic](ModeEpidyllic.md)
 
 ## Number
 
@@ -73,20 +73,15 @@ i⁰, ii⁰b3, iii⁰, IVb5, v⁰, vi⁰b3, vii⁰, VIIIb5
 | Number | Mode | Luminosity | Tonic | Notes | Illustration |
 |--------|------|------------|-------|-------|--------------|
 | [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | -1 | F | F, G, G#, A, B, C#, D, D#, F | ![FNaturalEpidyllic](ModeFNaturalEpidyllic.png) |
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | 8 | G | G, G#, A, B, C#, D, D#, F, G | ![GNaturalKaptyllic](ModeGNaturalKaptyllic.png) |
-| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | 6 | A | A, B, C#, D, D#, F, G, G#, A | ![ANaturalEpotyllic](ModeANaturalEpotyllic.png) |
+| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | -1 | G | G, G#, A, B, C#, D, D#, F, G | ![GNaturalKaptyllic](ModeGNaturalKaptyllic.png) |
+| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | -1 | A | A, B, C#, D, D#, F, G, G#, A | ![ANaturalEpotyllic](ModeANaturalEpotyllic.png) |
 ## Relative Brightness
 
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | -1 | F | F, G, G#, A, B, C#, D, D#, F | ![FNaturalEpidyllic](CircleOfFifthModeFNaturalEpidyllic.svg) | ![FNaturalEpidyllic](ChromaticCircleModeFNaturalEpidyllic.svg) |
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | -1 | G | G, G#, A, B, C#, D, D#, F, G | ![GNaturalKaptyllic](CircleOfFifthModeGNaturalKaptyllic.svg) | ![GNaturalKaptyllic](ChromaticCircleModeGNaturalKaptyllic.svg) |
+| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | 8 | G | G, G#, A, B, C#, D, D#, F, G | ![GNaturalKaptyllic](CircleOfFifthModeGNaturalKaptyllic.svg) | ![GNaturalKaptyllic](ChromaticCircleModeGNaturalKaptyllic.svg) |
 | [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | -1 | A | A, B, C#, D, D#, F, G, G#, A | ![ANaturalEpotyllic](CircleOfFifthModeANaturalEpotyllic.svg) | ![ANaturalEpotyllic](ChromaticCircleModeANaturalEpotyllic.svg) |
-| [1885](https://ianring.com/musictheory/scales/1885) | [Epidyllic](ModeEpidyllic.md) | -1 | B | B, C#, D, D#, F, G, G#, A, B | ![BNaturalEpidyllic](CircleOfFifthModeBNaturalEpidyllic.svg) | ![BNaturalEpidyllic](ChromaticCircleModeBNaturalEpidyllic.svg) |
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | 8 | C# | C#, D, D#, F, G, G#, A, B, C# | ![CSharpKaptyllic](CircleOfFifthModeCSharpKaptyllic.svg) | ![CSharpKaptyllic](ChromaticCircleModeCSharpKaptyllic.svg) |
-| [1495](https://ianring.com/musictheory/scales/1495) | [Kaptyllic](ModeKaptyllic.md) | -1 | Db | Db, D, Eb, F, G, Ab, A, B, Db | ![DFlatKaptyllic](CircleOfFifthModeDFlatKaptyllic.svg) | ![DFlatKaptyllic](ChromaticCircleModeDFlatKaptyllic.svg) |
-| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | -1 | D# | D#, F, G, G#, A, B, C#, D, D# | ![DSharpEpotyllic](CircleOfFifthModeDSharpEpotyllic.svg) | ![DSharpEpotyllic](ChromaticCircleModeDSharpEpotyllic.svg) |
-| [3445](https://ianring.com/musictheory/scales/3445) | [Epotyllic](ModeEpotyllic.md) | -1 | Eb | Eb, F, G, Ab, A, B, Db, D, Eb | ![EFlatEpotyllic](CircleOfFifthModeEFlatEpotyllic.svg) | ![EFlatEpotyllic](ChromaticCircleModeEFlatEpotyllic.svg) |
 
 ## Chords
 

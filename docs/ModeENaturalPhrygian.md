@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ENaturalPhrygian](ModeENaturalPhrygian.md)
+[Phrygian](ModePhrygian.md)
 
 ## Number
 

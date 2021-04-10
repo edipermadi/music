@@ -13,7 +13,7 @@
 
 ## Mode
 
-[EFlatPolimic](ModeEFlatPolimic.md)
+[Polimic](ModePolimic.md)
 
 ## Number
 
@@ -81,12 +81,10 @@ C
 | Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [3143](https://ianring.com/musictheory/scales/3143) | [Polimic](ModePolimic.md) | -1 | D# | D#, E, F, G##, Db, Ebb, D# | ![DSharpPolimic](CircleOfFifthModeDSharpPolimic.svg) | ![DSharpPolimic](ChromaticCircleModeDSharpPolimic.svg) |
-| [3143](https://ianring.com/musictheory/scales/3143) | [Polimic](ModePolimic.md) | -1 | Eb | Eb, Fb, Gbb, A, B##, C##, Eb | ![EFlatPolimic](CircleOfFifthModeEFlatPolimic.svg) | ![EFlatPolimic](ChromaticCircleModeEFlatPolimic.svg) |
 | [3619](https://ianring.com/musictheory/scales/3619) | [Thanimic](ModeThanimic.md) | 4 | E | E, F, G##, Db, Ebb, Fbb, E | ![ENaturalThanimic](CircleOfFifthModeENaturalThanimic.svg) | ![ENaturalThanimic](ChromaticCircleModeENaturalThanimic.svg) |
 | [3857](https://ianring.com/musictheory/scales/3857) | [Ponimic](ModePonimic.md) | -1 | F | F, G##, Db, Ebb, Fbb, Gbbb, F | ![FNaturalPonimic](CircleOfFifthModeFNaturalPonimic.svg) | ![FNaturalPonimic](ChromaticCircleModeFNaturalPonimic.svg) |
 | [497](https://ianring.com/musictheory/scales/497) | [Kadimic](ModeKadimic.md) | 5 | A | A, B##, C##, D#, E, F, A | ![ANaturalKadimic](CircleOfFifthModeANaturalKadimic.svg) | ![ANaturalKadimic](ChromaticCircleModeANaturalKadimic.svg) |
 | [287](https://ianring.com/musictheory/scales/287) | [Gynimic](ModeGynimic.md) | -1 | C# | C#, D, Eb, Fb, Gbb, A, C# | ![CSharpGynimic](CircleOfFifthModeCSharpGynimic.svg) | ![CSharpGynimic](ChromaticCircleModeCSharpGynimic.svg) |
-| [287](https://ianring.com/musictheory/scales/287) | [Gynimic](ModeGynimic.md) | -1 | Db | Db, Ebb, Fbb, Gbbb, D###, Cbbb, Db | ![DFlatGynimic](CircleOfFifthModeDFlatGynimic.svg) | ![DFlatGynimic](ChromaticCircleModeDFlatGynimic.svg) |
 | [2191](https://ianring.com/musictheory/scales/2191) | [Thydimic](ModeThydimic.md) | 6 | D | D, Eb, Fb, Gbb, A, B##, D | ![DNaturalThydimic](CircleOfFifthModeDNaturalThydimic.svg) | ![DNaturalThydimic](ChromaticCircleModeDNaturalThydimic.svg) |
 
 ## Chords

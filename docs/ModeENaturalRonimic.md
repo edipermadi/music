@@ -13,7 +13,7 @@
 
 ## Mode
 
-[ENaturalRonimic](ModeENaturalRonimic.md)
+[Ronimic](ModeRonimic.md)
 
 ## Number
 
@@ -82,9 +82,7 @@ I, ii⁰
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [437](https://ianring.com/musictheory/scales/437) | [Ronimic](ModeRonimic.md) | 5 | E | E, F#, G#, A, B, C, E | ![ENaturalRonimic](CircleOfFifthModeENaturalRonimic.svg) | ![ENaturalRonimic](ChromaticCircleModeENaturalRonimic.svg) |
 | [1133](https://ianring.com/musictheory/scales/1133) | [Stycrimic](ModeStycrimic.md) | 3 | F# | F#, G#, A, B, C, D##, F# | ![FSharpStycrimic](CircleOfFifthModeFSharpStycrimic.svg) | ![FSharpStycrimic](ChromaticCircleModeFSharpStycrimic.svg) |
-| [1133](https://ianring.com/musictheory/scales/1133) | [Stycrimic](ModeStycrimic.md) | 3 | Gb | Gb, Ab, Bbb, Cb, Dbb, E, Gb | ![GFlatStycrimic](CircleOfFifthModeGFlatStycrimic.svg) | ![GFlatStycrimic](ChromaticCircleModeGFlatStycrimic.svg) |
 | [1307](https://ianring.com/musictheory/scales/1307) | [Katorimic](ModeKatorimic.md) | -1 | G# | G#, A, B, C, D##, E##, G# | ![GSharpKatorimic](CircleOfFifthModeGSharpKatorimic.svg) | ![GSharpKatorimic](ChromaticCircleModeGSharpKatorimic.svg) |
-| [1307](https://ianring.com/musictheory/scales/1307) | [Katorimic](ModeKatorimic.md) | -1 | Ab | Ab, Bbb, Cb, Dbb, E, F#, Ab | ![AFlatKatorimic](CircleOfFifthModeAFlatKatorimic.svg) | ![AFlatKatorimic](ChromaticCircleModeAFlatKatorimic.svg) |
 | [2701](https://ianring.com/musictheory/scales/2701) | [Epythimic](ModeEpythimic.md) | 6 | A | A, B, C, D##, E##, F###, A | ![ANaturalEpythimic](CircleOfFifthModeANaturalEpythimic.svg) | ![ANaturalEpythimic](ChromaticCircleModeANaturalEpythimic.svg) |
 | [1699](https://ianring.com/musictheory/scales/1699) | [Kaptimic](ModeKaptimic.md) | 4 | B | B, C, D##, E##, F###, G##, B | ![BNaturalKaptimic](CircleOfFifthModeBNaturalKaptimic.svg) | ![BNaturalKaptimic](ChromaticCircleModeBNaturalKaptimic.svg) |
 | [2897](https://ianring.com/musictheory/scales/2897) | [Rycrimic](ModeRycrimic.md) | -1 | C | C, D##, E##, F###, G##, A##, C | ![CNaturalRycrimic](CircleOfFifthModeCNaturalRycrimic.svg) | ![CNaturalRycrimic](ChromaticCircleModeCNaturalRycrimic.svg) |

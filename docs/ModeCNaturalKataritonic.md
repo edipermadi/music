@@ -13,7 +13,7 @@
 
 ## Mode
 
-[CNaturalKataritonic](ModeCNaturalKataritonic.md)
+[Kataritonic](ModeKataritonic.md)
 
 ## Number
 
@@ -80,13 +80,9 @@ C
 |--------|------|------------|-------|-------|-----------------|------------------|
 | [1353](https://ianring.com/musictheory/scales/1353) | [Kataritonic](ModeKataritonic.md) | -1 | C | C, D#, F#, G#, A#, C | ![CNaturalKataritonic](CircleOfFifthModeCNaturalKataritonic.svg) | ![CNaturalKataritonic](ChromaticCircleModeCNaturalKataritonic.svg) |
 | [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | 4 | D# | D#, F#, G#, A#, C, D# | ![DSharpSylitonic](CircleOfFifthModeDSharpSylitonic.svg) | ![DSharpSylitonic](ChromaticCircleModeDSharpSylitonic.svg) |
-| [681](https://ianring.com/musictheory/scales/681) | [Sylitonic](ModeSylitonic.md) | 4 | Eb | Eb, Gb, Ab, Bb, C, Eb | ![EFlatSylitonic](CircleOfFifthModeEFlatSylitonic.svg) | ![EFlatSylitonic](ChromaticCircleModeEFlatSylitonic.svg) |
 | [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | -1 | F# | F#, G#, A#, C, D#, F# | ![FSharpThonitonic](CircleOfFifthModeFSharpThonitonic.svg) | ![FSharpThonitonic](ChromaticCircleModeFSharpThonitonic.svg) |
-| [597](https://ianring.com/musictheory/scales/597) | [Thonitonic](ModeThonitonic.md) | -1 | Gb | Gb, Ab, Bb, C, Eb, Gb | ![GFlatThonitonic](CircleOfFifthModeGFlatThonitonic.svg) | ![GFlatThonitonic](ChromaticCircleModeGFlatThonitonic.svg) |
 | [1173](https://ianring.com/musictheory/scales/1173) | [Phropitonic](ModePhropitonic.md) | 5 | G# | G#, A#, C, D#, F#, G# | ![GSharpPhropitonic](CircleOfFifthModeGSharpPhropitonic.svg) | ![GSharpPhropitonic](ChromaticCircleModeGSharpPhropitonic.svg) |
-| [1173](https://ianring.com/musictheory/scales/1173) | [Phropitonic](ModePhropitonic.md) | 5 | Ab | Ab, Bb, C, Eb, Gb, Ab | ![AFlatPhropitonic](CircleOfFifthModeAFlatPhropitonic.svg) | ![AFlatPhropitonic](ChromaticCircleModeAFlatPhropitonic.svg) |
 | [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | 3 | A# | A#, C, D#, F#, G#, A# | ![ASharpStaditonic](CircleOfFifthModeASharpStaditonic.svg) | ![ASharpStaditonic](ChromaticCircleModeASharpStaditonic.svg) |
-| [1317](https://ianring.com/musictheory/scales/1317) | [Staditonic](ModeStaditonic.md) | 3 | Bb | Bb, C, Eb, Gb, Ab, Bb | ![BFlatStaditonic](CircleOfFifthModeBFlatStaditonic.svg) | ![BFlatStaditonic](ChromaticCircleModeBFlatStaditonic.svg) |
 
 ## Chords
 
