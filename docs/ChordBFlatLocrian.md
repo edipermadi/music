@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatLocrian](ChromaticCircleChordBFlatLocrian.png)
+![BFlatLocrian](ChromaticCircleChordBFlatLocrian.svg)
 
 ## Notes
 

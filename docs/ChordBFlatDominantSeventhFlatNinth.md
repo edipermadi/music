@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatDominantSeventhFlatNinth](ChromaticCircleChordBFlatDominantSeventhFlatNinth.png)
+![BFlatDominantSeventhFlatNinth](ChromaticCircleChordBFlatDominantSeventhFlatNinth.svg)
 
 ## Notes
 

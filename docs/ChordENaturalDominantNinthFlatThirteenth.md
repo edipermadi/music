@@ -13,7 +13,7 @@ E
 
 ## Diagram
 
-![ENaturalDominantNinthFlatThirteenth](ChromaticCircleChordENaturalDominantNinthFlatThirteenth.png)
+![ENaturalDominantNinthFlatThirteenth](ChromaticCircleChordENaturalDominantNinthFlatThirteenth.svg)
 
 ## Notes
 

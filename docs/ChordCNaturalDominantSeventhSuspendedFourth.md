@@ -13,7 +13,7 @@ C
 
 ## Diagram
 
-![CNaturalDominantSeventhSuspendedFourth](ChromaticCircleChordCNaturalDominantSeventhSuspendedFourth.png)
+![CNaturalDominantSeventhSuspendedFourth](ChromaticCircleChordCNaturalDominantSeventhSuspendedFourth.svg)
 
 ## Notes
 

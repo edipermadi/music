@@ -13,7 +13,7 @@ A
 
 ## Diagram
 
-![ANaturalMajorAddSharpFourth](ChromaticCircleChordANaturalMajorAddSharpFourth.png)
+![ANaturalMajorAddSharpFourth](ChromaticCircleChordANaturalMajorAddSharpFourth.svg)
 
 ## Notes
 

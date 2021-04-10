@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatDominantEleventh](ChromaticCircleChordGFlatDominantEleventh.png)
+![GFlatDominantEleventh](ChromaticCircleChordGFlatDominantEleventh.svg)
 
 ## Notes
 

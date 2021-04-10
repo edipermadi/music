@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpQuartalAugmented](ChromaticCircleChordGSharpQuartalAugmented.png)
+![GSharpQuartalAugmented](ChromaticCircleChordGSharpQuartalAugmented.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpMajorSeventhAddFourth](ChromaticCircleChordFSharpMajorSeventhAddFourth.png)
+![FSharpMajorSeventhAddFourth](ChromaticCircleChordFSharpMajorSeventhAddFourth.svg)
 
 ## Notes
 

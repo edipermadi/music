@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpMinorSeventhAddSharpEleventh](ChromaticCircleChordCSharpMinorSeventhAddSharpEleventh.png)
+![CSharpMinorSeventhAddSharpEleventh](ChromaticCircleChordCSharpMinorSeventhAddSharpEleventh.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatMajorEleventh](ChromaticCircleChordAFlatMajorEleventh.png)
+![AFlatMajorEleventh](ChromaticCircleChordAFlatMajorEleventh.svg)
 
 ## Notes
 

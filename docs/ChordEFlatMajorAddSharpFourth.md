@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatMajorAddSharpFourth](ChromaticCircleChordEFlatMajorAddSharpFourth.png)
+![EFlatMajorAddSharpFourth](ChromaticCircleChordEFlatMajorAddSharpFourth.svg)
 
 ## Notes
 

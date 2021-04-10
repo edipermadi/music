@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpQuartal](ChromaticCircleChordASharpQuartal.png)
+![ASharpQuartal](ChromaticCircleChordASharpQuartal.svg)
 
 ## Notes
 

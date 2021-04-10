@@ -13,7 +13,7 @@ D#
 
 ## Diagram
 
-![DSharpMajorAddSharpFourth](ChromaticCircleChordDSharpMajorAddSharpFourth.png)
+![DSharpMajorAddSharpFourth](ChromaticCircleChordDSharpMajorAddSharpFourth.svg)
 
 ## Notes
 

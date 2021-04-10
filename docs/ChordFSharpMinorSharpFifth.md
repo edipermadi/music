@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpMinorSharpFifth](ChromaticCircleChordFSharpMinorSharpFifth.png)
+![FSharpMinorSharpFifth](ChromaticCircleChordFSharpMinorSharpFifth.svg)
 
 ## Notes
 

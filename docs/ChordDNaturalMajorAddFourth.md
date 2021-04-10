@@ -13,7 +13,7 @@ D
 
 ## Diagram
 
-![DNaturalMajorAddFourth](ChromaticCircleChordDNaturalMajorAddFourth.png)
+![DNaturalMajorAddFourth](ChromaticCircleChordDNaturalMajorAddFourth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ G
 
 ## Diagram
 
-![GNaturalMinorSixthAddNinth](ChromaticCircleChordGNaturalMinorSixthAddNinth.png)
+![GNaturalMinorSixthAddNinth](ChromaticCircleChordGNaturalMinorSixthAddNinth.svg)
 
 ## Notes
 

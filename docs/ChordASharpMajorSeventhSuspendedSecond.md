@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpMajorSeventhSuspendedSecond](ChromaticCircleChordASharpMajorSeventhSuspendedSecond.png)
+![ASharpMajorSeventhSuspendedSecond](ChromaticCircleChordASharpMajorSeventhSuspendedSecond.svg)
 
 ## Notes
 

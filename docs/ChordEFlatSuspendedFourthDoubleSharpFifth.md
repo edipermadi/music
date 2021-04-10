@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatSuspendedFourthDoubleSharpFifth](ChromaticCircleChordEFlatSuspendedFourthDoubleSharpFifth.png)
+![EFlatSuspendedFourthDoubleSharpFifth](ChromaticCircleChordEFlatSuspendedFourthDoubleSharpFifth.svg)
 
 ## Notes
 

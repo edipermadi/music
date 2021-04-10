@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpMinorSeventhAddThirteenth](ChromaticCircleChordFSharpMinorSeventhAddThirteenth.png)
+![FSharpMinorSeventhAddThirteenth](ChromaticCircleChordFSharpMinorSeventhAddThirteenth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpSuspendedSecondSharpFifth](ChromaticCircleChordCSharpSuspendedSecondSharpFifth.png)
+![CSharpSuspendedSecondSharpFifth](ChromaticCircleChordCSharpSuspendedSecondSharpFifth.svg)
 
 ## Notes
 

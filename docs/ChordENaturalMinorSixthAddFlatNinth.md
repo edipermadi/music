@@ -13,7 +13,7 @@ E
 
 ## Diagram
 
-![ENaturalMinorSixthAddFlatNinth](ChromaticCircleChordENaturalMinorSixthAddFlatNinth.png)
+![ENaturalMinorSixthAddFlatNinth](ChromaticCircleChordENaturalMinorSixthAddFlatNinth.svg)
 
 ## Notes
 

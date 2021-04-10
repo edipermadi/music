@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatPhrygianAddSeventh](ChromaticCircleChordDFlatPhrygianAddSeventh.png)
+![DFlatPhrygianAddSeventh](ChromaticCircleChordDFlatPhrygianAddSeventh.svg)
 
 ## Notes
 

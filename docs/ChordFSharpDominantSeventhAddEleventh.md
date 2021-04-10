@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpDominantSeventhAddEleventh](ChromaticCircleChordFSharpDominantSeventhAddEleventh.png)
+![FSharpDominantSeventhAddEleventh](ChromaticCircleChordFSharpDominantSeventhAddEleventh.svg)
 
 ## Notes
 

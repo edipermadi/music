@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatMinorAddEleventh](ChromaticCircleChordGFlatMinorAddEleventh.png)
+![GFlatMinorAddEleventh](ChromaticCircleChordGFlatMinorAddEleventh.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpDiminished](ChromaticCircleChordCSharpDiminished.png)
+![CSharpDiminished](ChromaticCircleChordCSharpDiminished.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatMajorThirteenth](ChromaticCircleChordDFlatMajorThirteenth.png)
+![DFlatMajorThirteenth](ChromaticCircleChordDFlatMajorThirteenth.svg)
 
 ## Notes
 

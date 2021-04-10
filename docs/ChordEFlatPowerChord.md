@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatPowerChord](ChromaticCircleChordEFlatPowerChord.png)
+![EFlatPowerChord](ChromaticCircleChordEFlatPowerChord.svg)
 
 ## Notes
 

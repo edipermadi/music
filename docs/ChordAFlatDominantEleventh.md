@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatDominantEleventh](ChromaticCircleChordAFlatDominantEleventh.png)
+![AFlatDominantEleventh](ChromaticCircleChordAFlatDominantEleventh.svg)
 
 ## Notes
 

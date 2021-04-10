@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpMinorEleventh](ChromaticCircleChordASharpMinorEleventh.png)
+![ASharpMinorEleventh](ChromaticCircleChordASharpMinorEleventh.svg)
 
 ## Notes
 

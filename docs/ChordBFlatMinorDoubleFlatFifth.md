@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatMinorDoubleFlatFifth](ChromaticCircleChordBFlatMinorDoubleFlatFifth.png)
+![BFlatMinorDoubleFlatFifth](ChromaticCircleChordBFlatMinorDoubleFlatFifth.svg)
 
 ## Notes
 

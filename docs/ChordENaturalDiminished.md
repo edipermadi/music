@@ -13,7 +13,7 @@ E
 
 ## Diagram
 
-![ENaturalDiminished](ChromaticCircleChordENaturalDiminished.png)
+![ENaturalDiminished](ChromaticCircleChordENaturalDiminished.svg)
 
 ## Notes
 

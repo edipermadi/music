@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatMajorSeventhSuspendedFourthDoubleSharpFifth](ChromaticCircleChordDFlatMajorSeventhSuspendedFourthDoubleSharpFifth.png)
+![DFlatMajorSeventhSuspendedFourthDoubleSharpFifth](ChromaticCircleChordDFlatMajorSeventhSuspendedFourthDoubleSharpFifth.svg)
 
 ## Notes
 

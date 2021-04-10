@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatMajorSeventhAddSharpFourth](ChromaticCircleChordDFlatMajorSeventhAddSharpFourth.png)
+![DFlatMajorSeventhAddSharpFourth](ChromaticCircleChordDFlatMajorSeventhAddSharpFourth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatMajorSixthFlatFifth](ChromaticCircleChordEFlatMajorSixthFlatFifth.png)
+![EFlatMajorSixthFlatFifth](ChromaticCircleChordEFlatMajorSixthFlatFifth.svg)
 
 ## Notes
 

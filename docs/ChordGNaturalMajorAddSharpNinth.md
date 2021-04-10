@@ -13,7 +13,7 @@ G
 
 ## Diagram
 
-![GNaturalMajorAddSharpNinth](ChromaticCircleChordGNaturalMajorAddSharpNinth.png)
+![GNaturalMajorAddSharpNinth](ChromaticCircleChordGNaturalMajorAddSharpNinth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpDominantSeventhSuspendedSecondFlatFifth](ChromaticCircleChordGSharpDominantSeventhSuspendedSecondFlatFifth.png)
+![GSharpDominantSeventhSuspendedSecondFlatFifth](ChromaticCircleChordGSharpDominantSeventhSuspendedSecondFlatFifth.svg)
 
 ## Notes
 

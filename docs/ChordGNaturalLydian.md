@@ -13,7 +13,7 @@ G
 
 ## Diagram
 
-![GNaturalLydian](ChromaticCircleChordGNaturalLydian.png)
+![GNaturalLydian](ChromaticCircleChordGNaturalLydian.svg)
 
 ## Notes
 

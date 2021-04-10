@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpPhrygianAddSeventh](ChromaticCircleChordCSharpPhrygianAddSeventh.png)
+![CSharpPhrygianAddSeventh](ChromaticCircleChordCSharpPhrygianAddSeventh.svg)
 
 ## Notes
 

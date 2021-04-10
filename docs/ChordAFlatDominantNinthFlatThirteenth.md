@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatDominantNinthFlatThirteenth](ChromaticCircleChordAFlatDominantNinthFlatThirteenth.png)
+![AFlatDominantNinthFlatThirteenth](ChromaticCircleChordAFlatDominantNinthFlatThirteenth.svg)
 
 ## Notes
 

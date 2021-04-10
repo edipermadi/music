@@ -13,7 +13,7 @@ A
 
 ## Diagram
 
-![ANaturalPowerChord](ChromaticCircleChordANaturalPowerChord.png)
+![ANaturalPowerChord](ChromaticCircleChordANaturalPowerChord.svg)
 
 ## Notes
 

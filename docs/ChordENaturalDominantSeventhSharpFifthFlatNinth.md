@@ -13,7 +13,7 @@ E
 
 ## Diagram
 
-![ENaturalDominantSeventhSharpFifthFlatNinth](ChromaticCircleChordENaturalDominantSeventhSharpFifthFlatNinth.png)
+![ENaturalDominantSeventhSharpFifthFlatNinth](ChromaticCircleChordENaturalDominantSeventhSharpFifthFlatNinth.svg)
 
 ## Notes
 

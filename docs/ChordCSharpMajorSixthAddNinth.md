@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpMajorSixthAddNinth](ChromaticCircleChordCSharpMajorSixthAddNinth.png)
+![CSharpMajorSixthAddNinth](ChromaticCircleChordCSharpMajorSixthAddNinth.svg)
 
 ## Notes
 

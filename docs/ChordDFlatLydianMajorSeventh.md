@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatLydianMajorSeventh](ChromaticCircleChordDFlatLydianMajorSeventh.png)
+![DFlatLydianMajorSeventh](ChromaticCircleChordDFlatLydianMajorSeventh.svg)
 
 ## Notes
 

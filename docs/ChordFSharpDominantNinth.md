@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpDominantNinth](ChromaticCircleChordFSharpDominantNinth.png)
+![FSharpDominantNinth](ChromaticCircleChordFSharpDominantNinth.svg)
 
 ## Notes
 

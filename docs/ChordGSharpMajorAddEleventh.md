@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpMajorAddEleventh](ChromaticCircleChordGSharpMajorAddEleventh.png)
+![GSharpMajorAddEleventh](ChromaticCircleChordGSharpMajorAddEleventh.svg)
 
 ## Notes
 

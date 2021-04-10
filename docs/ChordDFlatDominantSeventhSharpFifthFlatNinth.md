@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatDominantSeventhSharpFifthFlatNinth](ChromaticCircleChordDFlatDominantSeventhSharpFifthFlatNinth.png)
+![DFlatDominantSeventhSharpFifthFlatNinth](ChromaticCircleChordDFlatDominantSeventhSharpFifthFlatNinth.svg)
 
 ## Notes
 

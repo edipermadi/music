@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatMinorMajorNinth](ChromaticCircleChordDFlatMinorMajorNinth.png)
+![DFlatMinorMajorNinth](ChromaticCircleChordDFlatMinorMajorNinth.svg)
 
 ## Notes
 

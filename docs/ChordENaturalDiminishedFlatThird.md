@@ -13,7 +13,7 @@ E
 
 ## Diagram
 
-![ENaturalDiminishedFlatThird](ChromaticCircleChordENaturalDiminishedFlatThird.png)
+![ENaturalDiminishedFlatThird](ChromaticCircleChordENaturalDiminishedFlatThird.svg)
 
 ## Notes
 

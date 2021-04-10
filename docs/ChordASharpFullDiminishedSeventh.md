@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpFullDiminishedSeventh](ChromaticCircleChordASharpFullDiminishedSeventh.png)
+![ASharpFullDiminishedSeventh](ChromaticCircleChordASharpFullDiminishedSeventh.svg)
 
 ## Notes
 

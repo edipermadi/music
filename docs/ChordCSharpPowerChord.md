@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpPowerChord](ChromaticCircleChordCSharpPowerChord.png)
+![CSharpPowerChord](ChromaticCircleChordCSharpPowerChord.svg)
 
 ## Notes
 

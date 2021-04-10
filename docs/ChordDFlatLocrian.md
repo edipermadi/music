@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatLocrian](ChromaticCircleChordDFlatLocrian.png)
+![DFlatLocrian](ChromaticCircleChordDFlatLocrian.svg)
 
 ## Notes
 

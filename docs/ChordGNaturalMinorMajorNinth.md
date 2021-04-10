@@ -13,7 +13,7 @@ G
 
 ## Diagram
 
-![GNaturalMinorMajorNinth](ChromaticCircleChordGNaturalMinorMajorNinth.png)
+![GNaturalMinorMajorNinth](ChromaticCircleChordGNaturalMinorMajorNinth.svg)
 
 ## Notes
 

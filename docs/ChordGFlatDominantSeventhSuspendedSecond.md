@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatDominantSeventhSuspendedSecond](ChromaticCircleChordGFlatDominantSeventhSuspendedSecond.png)
+![GFlatDominantSeventhSuspendedSecond](ChromaticCircleChordGFlatDominantSeventhSuspendedSecond.svg)
 
 ## Notes
 

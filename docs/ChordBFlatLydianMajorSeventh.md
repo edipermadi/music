@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatLydianMajorSeventh](ChromaticCircleChordBFlatLydianMajorSeventh.png)
+![BFlatLydianMajorSeventh](ChromaticCircleChordBFlatLydianMajorSeventh.svg)
 
 ## Notes
 

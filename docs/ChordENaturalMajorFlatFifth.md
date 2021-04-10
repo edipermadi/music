@@ -13,7 +13,7 @@ E
 
 ## Diagram
 
-![ENaturalMajorFlatFifth](ChromaticCircleChordENaturalMajorFlatFifth.png)
+![ENaturalMajorFlatFifth](ChromaticCircleChordENaturalMajorFlatFifth.svg)
 
 ## Notes
 

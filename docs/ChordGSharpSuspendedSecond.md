@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpSuspendedSecond](ChromaticCircleChordGSharpSuspendedSecond.png)
+![GSharpSuspendedSecond](ChromaticCircleChordGSharpSuspendedSecond.svg)
 
 ## Notes
 

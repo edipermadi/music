@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpLydianMajorSeventh](ChromaticCircleChordCSharpLydianMajorSeventh.png)
+![CSharpLydianMajorSeventh](ChromaticCircleChordCSharpLydianMajorSeventh.svg)
 
 ## Notes
 

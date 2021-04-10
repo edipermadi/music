@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpDominantSeventhSuspendedFourth](ChromaticCircleChordASharpDominantSeventhSuspendedFourth.png)
+![ASharpDominantSeventhSuspendedFourth](ChromaticCircleChordASharpDominantSeventhSuspendedFourth.svg)
 
 ## Notes
 

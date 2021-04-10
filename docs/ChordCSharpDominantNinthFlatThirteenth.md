@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpDominantNinthFlatThirteenth](ChromaticCircleChordCSharpDominantNinthFlatThirteenth.png)
+![CSharpDominantNinthFlatThirteenth](ChromaticCircleChordCSharpDominantNinthFlatThirteenth.svg)
 
 ## Notes
 

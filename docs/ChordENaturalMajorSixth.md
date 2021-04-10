@@ -13,7 +13,7 @@ E
 
 ## Diagram
 
-![ENaturalMajorSixth](ChromaticCircleChordENaturalMajorSixth.png)
+![ENaturalMajorSixth](ChromaticCircleChordENaturalMajorSixth.svg)
 
 ## Notes
 

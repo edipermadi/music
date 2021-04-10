@@ -13,7 +13,7 @@ A
 
 ## Diagram
 
-![ANaturalLocrian](ChromaticCircleChordANaturalLocrian.png)
+![ANaturalLocrian](ChromaticCircleChordANaturalLocrian.svg)
 
 ## Notes
 

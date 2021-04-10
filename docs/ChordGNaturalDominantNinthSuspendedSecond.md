@@ -13,7 +13,7 @@ G
 
 ## Diagram
 
-![GNaturalDominantNinthSuspendedSecond](ChromaticCircleChordGNaturalDominantNinthSuspendedSecond.png)
+![GNaturalDominantNinthSuspendedSecond](ChromaticCircleChordGNaturalDominantNinthSuspendedSecond.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ D#
 
 ## Diagram
 
-![DSharpMajor](ChromaticCircleChordDSharpMajor.png)
+![DSharpMajor](ChromaticCircleChordDSharpMajor.svg)
 
 ## Notes
 

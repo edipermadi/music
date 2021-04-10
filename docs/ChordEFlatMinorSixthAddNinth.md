@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatMinorSixthAddNinth](ChromaticCircleChordEFlatMinorSixthAddNinth.png)
+![EFlatMinorSixthAddNinth](ChromaticCircleChordEFlatMinorSixthAddNinth.svg)
 
 ## Notes
 

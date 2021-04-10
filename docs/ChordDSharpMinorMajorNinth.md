@@ -13,7 +13,7 @@ D#
 
 ## Diagram
 
-![DSharpMinorMajorNinth](ChromaticCircleChordDSharpMinorMajorNinth.png)
+![DSharpMinorMajorNinth](ChromaticCircleChordDSharpMinorMajorNinth.svg)
 
 ## Notes
 

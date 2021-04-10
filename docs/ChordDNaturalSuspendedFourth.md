@@ -13,7 +13,7 @@ D
 
 ## Diagram
 
-![DNaturalSuspendedFourth](ChromaticCircleChordDNaturalSuspendedFourth.png)
+![DNaturalSuspendedFourth](ChromaticCircleChordDNaturalSuspendedFourth.svg)
 
 ## Notes
 

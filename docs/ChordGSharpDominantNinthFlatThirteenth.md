@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpDominantNinthFlatThirteenth](ChromaticCircleChordGSharpDominantNinthFlatThirteenth.png)
+![GSharpDominantNinthFlatThirteenth](ChromaticCircleChordGSharpDominantNinthFlatThirteenth.svg)
 
 ## Notes
 

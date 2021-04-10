@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpMinorMajorNinth](ChromaticCircleChordFSharpMinorMajorNinth.png)
+![FSharpMinorMajorNinth](ChromaticCircleChordFSharpMinorMajorNinth.svg)
 
 ## Notes
 

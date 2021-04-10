@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpDiminishedFlatThird](ChromaticCircleChordGSharpDiminishedFlatThird.png)
+![GSharpDiminishedFlatThird](ChromaticCircleChordGSharpDiminishedFlatThird.svg)
 
 ## Notes
 

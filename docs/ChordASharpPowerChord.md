@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpPowerChord](ChromaticCircleChordASharpPowerChord.png)
+![ASharpPowerChord](ChromaticCircleChordASharpPowerChord.svg)
 
 ## Notes
 

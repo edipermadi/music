@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpMinorSixth](ChromaticCircleChordFSharpMinorSixth.png)
+![FSharpMinorSixth](ChromaticCircleChordFSharpMinorSixth.svg)
 
 ## Notes
 

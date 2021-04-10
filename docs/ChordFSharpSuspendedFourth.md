@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpSuspendedFourth](ChromaticCircleChordFSharpSuspendedFourth.png)
+![FSharpSuspendedFourth](ChromaticCircleChordFSharpSuspendedFourth.svg)
 
 ## Notes
 

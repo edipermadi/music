@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatDominantNinthSuspendedFourth](ChromaticCircleChordBFlatDominantNinthSuspendedFourth.png)
+![BFlatDominantNinthSuspendedFourth](ChromaticCircleChordBFlatDominantNinthSuspendedFourth.svg)
 
 ## Notes
 

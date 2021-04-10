@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatFullDiminishedSeventh](ChromaticCircleChordBFlatFullDiminishedSeventh.png)
+![BFlatFullDiminishedSeventh](ChromaticCircleChordBFlatFullDiminishedSeventh.svg)
 
 ## Notes
 

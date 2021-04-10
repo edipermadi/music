@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatDiminishedFlatThird](ChromaticCircleChordEFlatDiminishedFlatThird.png)
+![EFlatDiminishedFlatThird](ChromaticCircleChordEFlatDiminishedFlatThird.svg)
 
 ## Notes
 

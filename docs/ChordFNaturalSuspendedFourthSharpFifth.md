@@ -13,7 +13,7 @@ F
 
 ## Diagram
 
-![FNaturalSuspendedFourthSharpFifth](ChromaticCircleChordFNaturalSuspendedFourthSharpFifth.png)
+![FNaturalSuspendedFourthSharpFifth](ChromaticCircleChordFNaturalSuspendedFourthSharpFifth.svg)
 
 ## Notes
 

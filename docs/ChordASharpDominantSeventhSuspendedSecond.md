@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpDominantSeventhSuspendedSecond](ChromaticCircleChordASharpDominantSeventhSuspendedSecond.png)
+![ASharpDominantSeventhSuspendedSecond](ChromaticCircleChordASharpDominantSeventhSuspendedSecond.svg)
 
 ## Notes
 

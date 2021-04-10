@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatLydian](ChromaticCircleChordDFlatLydian.png)
+![DFlatLydian](ChromaticCircleChordDFlatLydian.svg)
 
 ## Notes
 

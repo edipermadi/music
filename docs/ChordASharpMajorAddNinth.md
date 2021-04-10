@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpMajorAddNinth](ChromaticCircleChordASharpMajorAddNinth.png)
+![ASharpMajorAddNinth](ChromaticCircleChordASharpMajorAddNinth.svg)
 
 ## Notes
 

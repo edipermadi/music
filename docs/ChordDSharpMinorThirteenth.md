@@ -13,7 +13,7 @@ D#
 
 ## Diagram
 
-![DSharpMinorThirteenth](ChromaticCircleChordDSharpMinorThirteenth.png)
+![DSharpMinorThirteenth](ChromaticCircleChordDSharpMinorThirteenth.svg)
 
 ## Notes
 

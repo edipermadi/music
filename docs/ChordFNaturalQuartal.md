@@ -13,7 +13,7 @@ F
 
 ## Diagram
 
-![FNaturalQuartal](ChromaticCircleChordFNaturalQuartal.png)
+![FNaturalQuartal](ChromaticCircleChordFNaturalQuartal.svg)
 
 ## Notes
 

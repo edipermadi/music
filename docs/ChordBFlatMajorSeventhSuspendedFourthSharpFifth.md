@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatMajorSeventhSuspendedFourthSharpFifth](ChromaticCircleChordBFlatMajorSeventhSuspendedFourthSharpFifth.png)
+![BFlatMajorSeventhSuspendedFourthSharpFifth](ChromaticCircleChordBFlatMajorSeventhSuspendedFourthSharpFifth.svg)
 
 ## Notes
 

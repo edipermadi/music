@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatDominantSeventhAddThirteenth](ChromaticCircleChordGFlatDominantSeventhAddThirteenth.png)
+![GFlatDominantSeventhAddThirteenth](ChromaticCircleChordGFlatDominantSeventhAddThirteenth.svg)
 
 ## Notes
 

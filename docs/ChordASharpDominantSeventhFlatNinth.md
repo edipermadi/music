@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpDominantSeventhFlatNinth](ChromaticCircleChordASharpDominantSeventhFlatNinth.png)
+![ASharpDominantSeventhFlatNinth](ChromaticCircleChordASharpDominantSeventhFlatNinth.svg)
 
 ## Notes
 

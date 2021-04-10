@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatMinorAddFourth](ChromaticCircleChordGFlatMinorAddFourth.png)
+![GFlatMinorAddFourth](ChromaticCircleChordGFlatMinorAddFourth.svg)
 
 ## Notes
 

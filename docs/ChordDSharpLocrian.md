@@ -13,7 +13,7 @@ D#
 
 ## Diagram
 
-![DSharpLocrian](ChromaticCircleChordDSharpLocrian.png)
+![DSharpLocrian](ChromaticCircleChordDSharpLocrian.svg)
 
 ## Notes
 

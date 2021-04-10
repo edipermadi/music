@@ -13,7 +13,7 @@ A
 
 ## Diagram
 
-![ANaturalAugmentedMajorSeventh](ChromaticCircleChordANaturalAugmentedMajorSeventh.png)
+![ANaturalAugmentedMajorSeventh](ChromaticCircleChordANaturalAugmentedMajorSeventh.svg)
 
 ## Notes
 

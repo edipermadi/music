@@ -13,7 +13,7 @@ C
 
 ## Diagram
 
-![CNaturalMajorSeventhSuspendedFourthDoubleSharpFifth](ChromaticCircleChordCNaturalMajorSeventhSuspendedFourthDoubleSharpFifth.png)
+![CNaturalMajorSeventhSuspendedFourthDoubleSharpFifth](ChromaticCircleChordCNaturalMajorSeventhSuspendedFourthDoubleSharpFifth.svg)
 
 ## Notes
 

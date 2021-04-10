@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpMajorNinthSuspendedSecond](ChromaticCircleChordFSharpMajorNinthSuspendedSecond.png)
+![FSharpMajorNinthSuspendedSecond](ChromaticCircleChordFSharpMajorNinthSuspendedSecond.svg)
 
 ## Notes
 

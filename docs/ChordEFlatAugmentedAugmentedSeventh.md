@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatAugmentedAugmentedSeventh](ChromaticCircleChordEFlatAugmentedAugmentedSeventh.png)
+![EFlatAugmentedAugmentedSeventh](ChromaticCircleChordEFlatAugmentedAugmentedSeventh.svg)
 
 ## Notes
 

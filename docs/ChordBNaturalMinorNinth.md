@@ -13,7 +13,7 @@ B
 
 ## Diagram
 
-![BNaturalMinorNinth](ChromaticCircleChordBNaturalMinorNinth.png)
+![BNaturalMinorNinth](ChromaticCircleChordBNaturalMinorNinth.svg)
 
 ## Notes
 

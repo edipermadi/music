@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpLocrian](ChromaticCircleChordCSharpLocrian.png)
+![CSharpLocrian](ChromaticCircleChordCSharpLocrian.svg)
 
 ## Notes
 

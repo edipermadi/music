@@ -13,7 +13,7 @@ Gb
 
 ## Diagram
 
-![GFlatPhrygianAddSeventh](ChromaticCircleChordGFlatPhrygianAddSeventh.png)
+![GFlatPhrygianAddSeventh](ChromaticCircleChordGFlatPhrygianAddSeventh.svg)
 
 ## Notes
 

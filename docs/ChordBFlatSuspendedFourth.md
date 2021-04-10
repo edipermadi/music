@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatSuspendedFourth](ChromaticCircleChordBFlatSuspendedFourth.png)
+![BFlatSuspendedFourth](ChromaticCircleChordBFlatSuspendedFourth.svg)
 
 ## Notes
 

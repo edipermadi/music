@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpQuartal](ChromaticCircleChordCSharpQuartal.png)
+![CSharpQuartal](ChromaticCircleChordCSharpQuartal.svg)
 
 ## Notes
 

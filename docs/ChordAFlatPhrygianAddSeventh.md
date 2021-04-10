@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatPhrygianAddSeventh](ChromaticCircleChordAFlatPhrygianAddSeventh.png)
+![AFlatPhrygianAddSeventh](ChromaticCircleChordAFlatPhrygianAddSeventh.svg)
 
 ## Notes
 

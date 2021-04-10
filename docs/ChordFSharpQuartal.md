@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpQuartal](ChromaticCircleChordFSharpQuartal.png)
+![FSharpQuartal](ChromaticCircleChordFSharpQuartal.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ E
 
 ## Diagram
 
-![ENaturalMinorSeventhAddSharpEleventh](ChromaticCircleChordENaturalMinorSeventhAddSharpEleventh.png)
+![ENaturalMinorSeventhAddSharpEleventh](ChromaticCircleChordENaturalMinorSeventhAddSharpEleventh.svg)
 
 ## Notes
 

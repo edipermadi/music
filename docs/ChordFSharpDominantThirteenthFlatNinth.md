@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpDominantThirteenthFlatNinth](ChromaticCircleChordFSharpDominantThirteenthFlatNinth.png)
+![FSharpDominantThirteenthFlatNinth](ChromaticCircleChordFSharpDominantThirteenthFlatNinth.svg)
 
 ## Notes
 

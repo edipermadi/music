@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpMajor](ChromaticCircleChordFSharpMajor.png)
+![FSharpMajor](ChromaticCircleChordFSharpMajor.svg)
 
 ## Notes
 

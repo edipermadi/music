@@ -13,7 +13,7 @@ A#
 
 ## Diagram
 
-![ASharpDominantNinthSuspendedSecond](ChromaticCircleChordASharpDominantNinthSuspendedSecond.png)
+![ASharpDominantNinthSuspendedSecond](ChromaticCircleChordASharpDominantNinthSuspendedSecond.svg)
 
 ## Notes
 

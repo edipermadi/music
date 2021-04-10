@@ -13,7 +13,7 @@ A
 
 ## Diagram
 
-![ANaturalDominantSeventhAddFourth](ChromaticCircleChordANaturalDominantSeventhAddFourth.png)
+![ANaturalDominantSeventhAddFourth](ChromaticCircleChordANaturalDominantSeventhAddFourth.svg)
 
 ## Notes
 

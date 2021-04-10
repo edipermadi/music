@@ -13,7 +13,7 @@ F
 
 ## Diagram
 
-![FNaturalMinorMajorEleventh](ChromaticCircleChordFNaturalMinorMajorEleventh.png)
+![FNaturalMinorMajorEleventh](ChromaticCircleChordFNaturalMinorMajorEleventh.svg)
 
 ## Notes
 

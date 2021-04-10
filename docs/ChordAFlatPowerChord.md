@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatPowerChord](ChromaticCircleChordAFlatPowerChord.png)
+![AFlatPowerChord](ChromaticCircleChordAFlatPowerChord.svg)
 
 ## Notes
 

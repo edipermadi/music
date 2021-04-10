@@ -13,7 +13,7 @@ Bb
 
 ## Diagram
 
-![BFlatMinorAddFourth](ChromaticCircleChordBFlatMinorAddFourth.png)
+![BFlatMinorAddFourth](ChromaticCircleChordBFlatMinorAddFourth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ E
 
 ## Diagram
 
-![ENaturalMinorAddFourth](ChromaticCircleChordENaturalMinorAddFourth.png)
+![ENaturalMinorAddFourth](ChromaticCircleChordENaturalMinorAddFourth.svg)
 
 ## Notes
 

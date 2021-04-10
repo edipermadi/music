@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatLydianMajorSeventh](ChromaticCircleChordEFlatLydianMajorSeventh.png)
+![EFlatLydianMajorSeventh](ChromaticCircleChordEFlatLydianMajorSeventh.svg)
 
 ## Notes
 

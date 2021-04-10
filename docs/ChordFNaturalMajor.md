@@ -13,7 +13,7 @@ F
 
 ## Diagram
 
-![FNaturalMajor](ChromaticCircleChordFNaturalMajor.png)
+![FNaturalMajor](ChromaticCircleChordFNaturalMajor.svg)
 
 ## Notes
 

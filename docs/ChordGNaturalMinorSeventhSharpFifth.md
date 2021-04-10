@@ -13,7 +13,7 @@ G
 
 ## Diagram
 
-![GNaturalMinorSeventhSharpFifth](ChromaticCircleChordGNaturalMinorSeventhSharpFifth.png)
+![GNaturalMinorSeventhSharpFifth](ChromaticCircleChordGNaturalMinorSeventhSharpFifth.svg)
 
 ## Notes
 

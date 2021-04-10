@@ -13,7 +13,7 @@ C#
 
 ## Diagram
 
-![CSharpDominantSeventhSuspendedSecond](ChromaticCircleChordCSharpDominantSeventhSuspendedSecond.png)
+![CSharpDominantSeventhSuspendedSecond](ChromaticCircleChordCSharpDominantSeventhSuspendedSecond.svg)
 
 ## Notes
 

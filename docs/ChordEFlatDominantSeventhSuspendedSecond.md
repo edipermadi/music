@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatDominantSeventhSuspendedSecond](ChromaticCircleChordEFlatDominantSeventhSuspendedSecond.png)
+![EFlatDominantSeventhSuspendedSecond](ChromaticCircleChordEFlatDominantSeventhSuspendedSecond.svg)
 
 ## Notes
 

@@ -53,7 +53,7 @@ G
 
 | Circle of Fifth | Chromatic Circle |
 |-----------------|------------------|
-| ![GNaturalEpogic](CircleOfFifthModeGNaturalEpogic.png) | ![GNaturalEpogic](ChromaticCircleModeGNaturalEpogic.png) |
+| ![GNaturalEpogic](CircleOfFifthModeGNaturalEpogic.svg) | ![GNaturalEpogic](ChromaticCircleModeGNaturalEpogic.svg) |
 ## Relative Modes
 
 | Number | Mode | Tonic | Notes | Illustration |
@@ -67,11 +67,11 @@ G
 
 | Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
 |--------|------|-------|-------|-----------------|------------------|
-| [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | G | G, B, D, D#, G | ![GNaturalEpogic](CircleOfFifthModeGNaturalEpogic.png) | ![GNaturalEpogic](ChromaticCircleModeGNaturalEpogic.png) |
-| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | B | B, D, D#, G, B | ![BNaturalLanic](CircleOfFifthModeBNaturalLanic.png) | ![BNaturalLanic](ChromaticCircleModeBNaturalLanic.png) |
-| [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | D | D, D#, G, B, D | ![DNaturalPyrric](CircleOfFifthModeDNaturalPyrric.png) | ![DNaturalPyrric](ChromaticCircleModeDNaturalPyrric.png) |
-| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | D# | D#, G, B, D, D# | ![DSharpZyphic](CircleOfFifthModeDSharpZyphic.png) | ![DSharpZyphic](ChromaticCircleModeDSharpZyphic.png) |
-| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | Eb | Eb, G, B, D, Eb | ![EFlatZyphic](CircleOfFifthModeEFlatZyphic.png) | ![EFlatZyphic](ChromaticCircleModeEFlatZyphic.png) |
+| [401](https://ianring.com/musictheory/scales/401) | [Epogic](ModeEpogic.md) | G | G, B, D, D#, G | ![GNaturalEpogic](CircleOfFifthModeGNaturalEpogic.svg) | ![GNaturalEpogic](ChromaticCircleModeGNaturalEpogic.svg) |
+| [281](https://ianring.com/musictheory/scales/281) | [Lanic](ModeLanic.md) | B | B, D, D#, G, B | ![BNaturalLanic](CircleOfFifthModeBNaturalLanic.svg) | ![BNaturalLanic](ChromaticCircleModeBNaturalLanic.svg) |
+| [547](https://ianring.com/musictheory/scales/547) | [Pyrric](ModePyrric.md) | D | D, D#, G, B, D | ![DNaturalPyrric](CircleOfFifthModeDNaturalPyrric.svg) | ![DNaturalPyrric](ChromaticCircleModeDNaturalPyrric.svg) |
+| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | D# | D#, G, B, D, D# | ![DSharpZyphic](CircleOfFifthModeDSharpZyphic.svg) | ![DSharpZyphic](ChromaticCircleModeDSharpZyphic.svg) |
+| [2321](https://ianring.com/musictheory/scales/2321) | [Zyphic](ModeZyphic.md) | Eb | Eb, G, B, D, Eb | ![EFlatZyphic](CircleOfFifthModeEFlatZyphic.svg) | ![EFlatZyphic](ChromaticCircleModeEFlatZyphic.svg) |
 
 ## Chords
 

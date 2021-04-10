@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatMajorSixthSuspendedSecond](ChromaticCircleChordEFlatMajorSixthSuspendedSecond.png)
+![EFlatMajorSixthSuspendedSecond](ChromaticCircleChordEFlatMajorSixthSuspendedSecond.svg)
 
 ## Notes
 

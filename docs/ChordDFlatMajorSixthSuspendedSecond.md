@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatMajorSixthSuspendedSecond](ChromaticCircleChordDFlatMajorSixthSuspendedSecond.png)
+![DFlatMajorSixthSuspendedSecond](ChromaticCircleChordDFlatMajorSixthSuspendedSecond.svg)
 
 ## Notes
 

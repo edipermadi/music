@@ -13,7 +13,7 @@ Ab
 
 ## Diagram
 
-![AFlatMajorSeventhSuspendedFourthDoubleSharpFifth](ChromaticCircleChordAFlatMajorSeventhSuspendedFourthDoubleSharpFifth.png)
+![AFlatMajorSeventhSuspendedFourthDoubleSharpFifth](ChromaticCircleChordAFlatMajorSeventhSuspendedFourthDoubleSharpFifth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ C
 
 ## Diagram
 
-![CNaturalMajorAddSharpFourth](ChromaticCircleChordCNaturalMajorAddSharpFourth.png)
+![CNaturalMajorAddSharpFourth](ChromaticCircleChordCNaturalMajorAddSharpFourth.svg)
 
 ## Notes
 

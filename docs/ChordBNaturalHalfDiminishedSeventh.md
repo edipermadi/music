@@ -13,7 +13,7 @@ B
 
 ## Diagram
 
-![BNaturalHalfDiminishedSeventh](ChromaticCircleChordBNaturalHalfDiminishedSeventh.png)
+![BNaturalHalfDiminishedSeventh](ChromaticCircleChordBNaturalHalfDiminishedSeventh.svg)
 
 ## Notes
 

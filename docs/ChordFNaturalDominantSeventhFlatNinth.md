@@ -13,7 +13,7 @@ F
 
 ## Diagram
 
-![FNaturalDominantSeventhFlatNinth](ChromaticCircleChordFNaturalDominantSeventhFlatNinth.png)
+![FNaturalDominantSeventhFlatNinth](ChromaticCircleChordFNaturalDominantSeventhFlatNinth.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ D
 
 ## Diagram
 
-![DNaturalQuartal](ChromaticCircleChordDNaturalQuartal.png)
+![DNaturalQuartal](ChromaticCircleChordDNaturalQuartal.svg)
 
 ## Notes
 

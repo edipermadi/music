@@ -13,7 +13,7 @@ B
 
 ## Diagram
 
-![BNaturalMajorSixthAddNinth](ChromaticCircleChordBNaturalMajorSixthAddNinth.png)
+![BNaturalMajorSixthAddNinth](ChromaticCircleChordBNaturalMajorSixthAddNinth.svg)
 
 ## Notes
 

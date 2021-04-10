@@ -13,7 +13,7 @@ Db
 
 ## Diagram
 
-![DFlatQuartal](ChromaticCircleChordDFlatQuartal.png)
+![DFlatQuartal](ChromaticCircleChordDFlatQuartal.svg)
 
 ## Notes
 

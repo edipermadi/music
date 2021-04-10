@@ -13,7 +13,7 @@ Eb
 
 ## Diagram
 
-![EFlatQuartalAugmented](ChromaticCircleChordEFlatQuartalAugmented.png)
+![EFlatQuartalAugmented](ChromaticCircleChordEFlatQuartalAugmented.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ F#
 
 ## Diagram
 
-![FSharpLocrian](ChromaticCircleChordFSharpLocrian.png)
+![FSharpLocrian](ChromaticCircleChordFSharpLocrian.svg)
 
 ## Notes
 

@@ -13,7 +13,7 @@ B
 
 ## Diagram
 
-![BNaturalDominantSeventhSuspendedSecond](ChromaticCircleChordBNaturalDominantSeventhSuspendedSecond.png)
+![BNaturalDominantSeventhSuspendedSecond](ChromaticCircleChordBNaturalDominantSeventhSuspendedSecond.svg)
 
 ## Notes
 

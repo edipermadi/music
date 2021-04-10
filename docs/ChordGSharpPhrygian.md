@@ -13,7 +13,7 @@ G#
 
 ## Diagram
 
-![GSharpPhrygian](ChromaticCircleChordGSharpPhrygian.png)
+![GSharpPhrygian](ChromaticCircleChordGSharpPhrygian.svg)
 
 ## Notes
 
