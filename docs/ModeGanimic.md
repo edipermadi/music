@@ -15,6 +15,10 @@
 
 [413](https://ianring.com/musictheory/scales/413)
 
+## Luminosity
+
+6
+
 ## Transposition
 
 2, 1, 1, 3, 1, 4

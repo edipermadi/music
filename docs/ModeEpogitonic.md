@@ -15,6 +15,10 @@
 
 [397](https://ianring.com/musictheory/scales/397)
 
+## Luminosity
+
+-1
+
 ## Transposition
 
 2, 1, 4, 1, 4

@@ -7,7 +7,7 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Daric](ScaleDaric.md)
 
@@ -15,13 +15,21 @@
 
 [GNaturalLonic](ModeGNaturalLonic.md)
 
+## Number
+
+329
+
+## Luminosity
+
+-1
+
 ## Tonic
 
 G
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ G
  - 1 Perfect Notes
 
  - 3 Imperfect Notes
+
+ - Perfection Profile - false, false, false, true
 
 ## Notes
 
@@ -56,26 +66,26 @@ G
 | ![GNaturalLonic](CircleOfFifthModeGNaturalLonic.svg) | ![GNaturalLonic](ChromaticCircleModeGNaturalLonic.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | G | G, A#, C#, D#, G | ![GNaturalLonic](ModeGNaturalLonic.png) |
-| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | A# | A#, C#, D#, G, A# | ![ASharpPhradic](ModeASharpPhradic.png) |
-| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | Bb | Bb, Db, Eb, G, Bb | ![BFlatPhradic](ModeBFlatPhradic.png) |
-| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | C# | C#, D#, G, A#, C# | ![CSharpBolic](ModeCSharpBolic.png) |
-| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | Db | Db, Eb, G, Bb, Db | ![DFlatBolic](ModeDFlatBolic.png) |
-| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | D# | D#, G, A#, C#, D# | ![DSharpDaric](ModeDSharpDaric.png) |
-| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | Eb | Eb, G, Bb, Db, Eb | ![EFlatDaric](ModeEFlatDaric.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | -1 | G | G, A#, C#, D#, G | ![GNaturalLonic](ModeGNaturalLonic.png) |
+| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | 3 | A# | A#, C#, D#, G, A# | ![ASharpPhradic](ModeASharpPhradic.png) |
+| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | 3 | Bb | Bb, Db, Eb, G, Bb | ![BFlatPhradic](ModeBFlatPhradic.png) |
+| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | -1 | C# | C#, D#, G, A#, C# | ![CSharpBolic](ModeCSharpBolic.png) |
+| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | -1 | Db | Db, Eb, G, Bb, Db | ![DFlatBolic](ModeDFlatBolic.png) |
+| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | 4 | D# | D#, G, A#, C#, D# | ![DSharpDaric](ModeDSharpDaric.png) |
+| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | 4 | Eb | Eb, G, Bb, Db, Eb | ![EFlatDaric](ModeEFlatDaric.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | G | G, A#, C#, D#, G | ![GNaturalLonic](CircleOfFifthModeGNaturalLonic.svg) | ![GNaturalLonic](ChromaticCircleModeGNaturalLonic.svg) |
-| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | A# | A#, C#, D#, G, A# | ![ASharpPhradic](CircleOfFifthModeASharpPhradic.svg) | ![ASharpPhradic](ChromaticCircleModeASharpPhradic.svg) |
-| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | Bb | Bb, Db, Eb, G, Bb | ![BFlatPhradic](CircleOfFifthModeBFlatPhradic.svg) | ![BFlatPhradic](ChromaticCircleModeBFlatPhradic.svg) |
-| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | C# | C#, D#, G, A#, C# | ![CSharpBolic](CircleOfFifthModeCSharpBolic.svg) | ![CSharpBolic](ChromaticCircleModeCSharpBolic.svg) |
-| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | Db | Db, Eb, G, Bb, Db | ![DFlatBolic](CircleOfFifthModeDFlatBolic.svg) | ![DFlatBolic](ChromaticCircleModeDFlatBolic.svg) |
-| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | D# | D#, G, A#, C#, D# | ![DSharpDaric](CircleOfFifthModeDSharpDaric.svg) | ![DSharpDaric](ChromaticCircleModeDSharpDaric.svg) |
-| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | Eb | Eb, G, Bb, Db, Eb | ![EFlatDaric](CircleOfFifthModeEFlatDaric.svg) | ![EFlatDaric](ChromaticCircleModeEFlatDaric.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [329](https://ianring.com/musictheory/scales/329) | [Lonic](ModeLonic.md) | -1 | G | G, A#, C#, D#, G | ![GNaturalLonic](CircleOfFifthModeGNaturalLonic.svg) | ![GNaturalLonic](ChromaticCircleModeGNaturalLonic.svg) |
+| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | 3 | A# | A#, C#, D#, G, A# | ![ASharpPhradic](CircleOfFifthModeASharpPhradic.svg) | ![ASharpPhradic](ChromaticCircleModeASharpPhradic.svg) |
+| [553](https://ianring.com/musictheory/scales/553) | [Phradic](ModePhradic.md) | 3 | Bb | Bb, Db, Eb, G, Bb | ![BFlatPhradic](CircleOfFifthModeBFlatPhradic.svg) | ![BFlatPhradic](ChromaticCircleModeBFlatPhradic.svg) |
+| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | -1 | C# | C#, D#, G, A#, C# | ![CSharpBolic](CircleOfFifthModeCSharpBolic.svg) | ![CSharpBolic](ChromaticCircleModeCSharpBolic.svg) |
+| [581](https://ianring.com/musictheory/scales/581) | [Bolic](ModeBolic.md) | -1 | Db | Db, Eb, G, Bb, Db | ![DFlatBolic](CircleOfFifthModeDFlatBolic.svg) | ![DFlatBolic](ChromaticCircleModeDFlatBolic.svg) |
+| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | 4 | D# | D#, G, A#, C#, D# | ![DSharpDaric](CircleOfFifthModeDSharpDaric.svg) | ![DSharpDaric](ChromaticCircleModeDSharpDaric.svg) |
+| [1169](https://ianring.com/musictheory/scales/1169) | [Daric](ModeDaric.md) | 4 | Eb | Eb, G, Bb, Db, Eb | ![EFlatDaric](CircleOfFifthModeEFlatDaric.svg) | ![EFlatDaric](ChromaticCircleModeEFlatDaric.svg) |
 
 ## Chords
 

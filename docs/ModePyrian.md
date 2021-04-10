@@ -15,6 +15,10 @@
 
 [1957](https://ianring.com/musictheory/scales/1957)
 
+## Luminosity
+
+5
+
 ## Transposition
 
 2, 3, 2, 1, 1, 1, 2

@@ -15,6 +15,10 @@
 
 [3141](https://ianring.com/musictheory/scales/3141)
 
+## Luminosity
+
+-1
+
 ## Transposition
 
 2, 4, 4, 1, 1

@@ -22,5 +22,5 @@ Perfection Profile - false, true, true, false, true, true
 | Number | Mode | Luminosity | Notes | Illustration | Audio |
 |--------|------|------------|-------|--------------|-------|
 | [455](https://ianring.com/musictheory/scales/455) | [Stadimic](ModeStadimic.md) | 6 | C, Db, **Ebb**, F#, G, **Ab**, C | ![CNaturalStadimic](ModeCNaturalStadimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalStadimic.mid?raw=true) | 
-| [2275](https://ianring.com/musictheory/scales/2275) | [Thodimic](ModeThodimic.md) | -1 | C, **Db**, E#, F#, **G**, A##, C | ![CNaturalThodimic](ModeCNaturalThodimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThodimic.mid?raw=true) | 
-| [3185](https://ianring.com/musictheory/scales/3185) | [Thonimic](ModeThonimic.md) | -1 | **C**, D##, E#, **F#**, G###, A##, **C** | ![CNaturalThonimic](ModeCNaturalThonimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThonimic.mid?raw=true) | 
+| [2275](https://ianring.com/musictheory/scales/2275) | [Thodimic](ModeThodimic.md) | 5 | C, **Db**, E#, F#, **G**, A##, C | ![CNaturalThodimic](ModeCNaturalThodimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThodimic.mid?raw=true) | 
+| [3185](https://ianring.com/musictheory/scales/3185) | [Thonimic](ModeThonimic.md) | 4 | **C**, D##, E#, **F#**, G###, A##, **C** | ![CNaturalThonimic](ModeCNaturalThonimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThonimic.mid?raw=true) | 

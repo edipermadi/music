@@ -15,6 +15,10 @@
 
 [4013](https://ianring.com/musictheory/scales/4013)
 
+## Luminosity
+
+5
+
 ## Transposition
 
 2, 1, 2, 2, 1, 1, 1, 1, 1

@@ -21,7 +21,7 @@ Perfection Profile - true, false, false, false, false, true
 
 | Number | Mode | Luminosity | Notes | Illustration | Audio |
 |--------|------|------------|-------|--------------|-------|
-| [619](https://ianring.com/musictheory/scales/619) | [Parimic](ModeParimic.md) | 5 | **C**, **Db**, **Eb**, F, Gb, **A**, **C** | ![CNaturalParimic](ModeCNaturalParimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalParimic.mid?raw=true) | 
+| [619](https://ianring.com/musictheory/scales/619) | [Parimic](ModeParimic.md) | -1 | **C**, **Db**, **Eb**, F, Gb, **A**, **C** | ![CNaturalParimic](ModeCNaturalParimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalParimic.mid?raw=true) | 
 | [857](https://ianring.com/musictheory/scales/857) | [Aeolydimic](ModeAeolydimic.md) | -1 | **C**, **D#**, **E**, **F#**, G#, A, **C** | ![CNaturalAeolydimic](ModeCNaturalAeolydimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalAeolydimic.mid?raw=true) | 
 | [1427](https://ianring.com/musictheory/scales/1427) | [Lolimic](ModeLolimic.md) | 6 | C, Db, **E**, **F##**, **G#**, **A#**, C | ![CNaturalLolimic](ModeCNaturalLolimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalLolimic.mid?raw=true) | 
 | [1613](https://ianring.com/musictheory/scales/1613) | [Thylimic](ModeThylimic.md) | -1 | **C**, D, Eb, **F#**, **G##**, **A#**, **C** | ![CNaturalThylimic](ModeCNaturalThylimic.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalThylimic.mid?raw=true) | 

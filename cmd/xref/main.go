@@ -265,6 +265,7 @@ func generateModePage(logger *zap.Logger, filename string, givenType modetype.Ty
 
 	_, _ = fmt.Fprintf(&buff, "## Parent Scale\n\n[%s](Scale%s.md)\n\n", computedScale.String(), computedScale.String())
 	_, _ = fmt.Fprintf(&buff, "## Number\n\n[%d](https://ianring.com/musictheory/scales/%d)\n\n", modeNumber, modeNumber)
+	_, _ = fmt.Fprintf(&buff, "## Luminosity\n\n%d\n\n", computedMode.Luminosity())
 	_, _ = fmt.Fprintf(&buff, "## Transposition\n\n%s\n\n", strings.Join(integerSliceToStringSlice(givenType.Transposition()), ", "))
 
 	romanNumeralChords := chordRomanNumeralPattern(computedMode)
@@ -447,22 +448,19 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 	_, _ = fmt.Fprintf(&buff, "- [Modes Index](Modes.md)\n")
 	_, _ = fmt.Fprintf(&buff, "- [Chords Index](Chords.md)\n\n")
 
-	_, _ = fmt.Fprintf(&buff, "## Scale\n\n[%s](Scale%s.md)\n\n", computedScale.String(), computedScale.String())
-
+	_, _ = fmt.Fprintf(&buff, "## Parent Scale\n\n[%s](Scale%s.md)\n\n", computedScale, computedScale)
 	_, _ = fmt.Fprintf(&buff, "## Mode\n\n[%s](Mode%s.md)\n\n", givenMode.String(), givenMode.String())
-
+	_, _ = fmt.Fprintf(&buff, "## Number\n\n%d\n\n", givenMode.CanonicalNumber())
+	_, _ = fmt.Fprintf(&buff, "## Luminosity\n\n%d\n\n", givenMode.Luminosity())
 	_, _ = fmt.Fprintf(&buff, "## Tonic\n\n%s\n\n", givenMode.Tonic().Name())
-
-	_, _ = fmt.Fprintf(&buff, "## Signature\n\n%s\n\n", signature.FromNotes(computedNotes))
-
+	_, _ = fmt.Fprintf(&buff, "## Signature\n\n%s\n\n", strings.Join(signature.FromNotes(computedNotes).Names(), ", "))
 	_, _ = fmt.Fprintf(&buff, "## Transposition\n\n%s\n\n", strings.Join(integerSliceToStringSlice(givenMode.Transposition()), ", "))
-
-	numeralNumeralChords := chordRomanNumeralPattern(givenMode)
-	_, _ = fmt.Fprintf(&buff, "## Chord Pattern\n\n%s\n\n", strings.Join(numeralNumeralChords, ", "))
+	_, _ = fmt.Fprintf(&buff, "## Chord Pattern\n\n%s\n\n", strings.Join(chordRomanNumeralPattern(givenMode), ", "))
 
 	_, _ = fmt.Fprintf(&buff, "## Perfection\n\n")
 	_, _ = fmt.Fprintf(&buff, " - %d Perfect Notes\n\n", perfection)
 	_, _ = fmt.Fprintf(&buff, " - %d Imperfect Notes\n\n", imperfection)
+	_, _ = fmt.Fprintf(&buff, " - Perfection Profile - %s\n\n", strings.Join(boolSliceToStringSlice(perfectionProfile), ", "))
 
 	_, _ = fmt.Fprintf(&buff, "## Notes\n\n")
 	for idx, givenNote := range computedNotes {
@@ -483,8 +481,8 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 	_, _ = fmt.Fprintf(&buff, "| ![%s](CircleOfFifthMode%s.svg) | ![%s](ChromaticCircleMode%s.svg) |\n", givenMode, givenMode, givenMode, givenMode)
 
 	_, _ = fmt.Fprintf(&buff, "## Relative Modes\n\n")
-	_, _ = fmt.Fprintf(&buff, "| Number | Mode | Tonic | Notes | Illustration |\n")
-	_, _ = fmt.Fprintf(&buff, "|--------|------|-------|-------|--------------|\n")
+	_, _ = fmt.Fprintf(&buff, "| Number | Mode | Luminosity | Tonic | Notes | Illustration |\n")
+	_, _ = fmt.Fprintf(&buff, "|--------|------|------------|-------|-------|--------------|\n")
 	for idx, expectedTonic := range givenMode.Notes() {
 		if idx < givenMode.Cardinality() {
 			for _, relativeMode := range mapModeNumberToModes[givenMode.Number()] {
@@ -492,15 +490,15 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 					canonicalNumber := relativeMode.CanonicalNumber()
 					computedNoteNames := relativeMode.Notes().Names()
 					modeURL := fmt.Sprintf("https://ianring.com/musictheory/scales/%d", canonicalNumber)
-					_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %s | %s | ![%s](Mode%s.png) |\n", canonicalNumber, modeURL, relativeMode.Type(), relativeMode.Type(), relativeMode.Tonic().Name(), strings.Join(computedNoteNames, ", "), relativeMode, relativeMode)
+					_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %d | %s | %s | ![%s](Mode%s.png) |\n", canonicalNumber, modeURL, relativeMode.Type(), relativeMode.Type(), relativeMode.Luminosity(), relativeMode.Tonic().Name(), strings.Join(computedNoteNames, ", "), relativeMode, relativeMode)
 				}
 			}
 		}
 	}
 
 	_, _ = fmt.Fprintf(&buff, "## Relative Brightness\n\n")
-	_, _ = fmt.Fprintf(&buff, "| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |\n")
-	_, _ = fmt.Fprintf(&buff, "|--------|------|-------|-------|-----------------|------------------|\n")
+	_, _ = fmt.Fprintf(&buff, "| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |\n")
+	_, _ = fmt.Fprintf(&buff, "|--------|------|------------|-------|-------|-----------------|------------------|\n")
 	for idx, expectedTonic := range givenMode.Notes() {
 		if idx < givenMode.Cardinality() {
 			for _, relativeMode := range mapModeNumberToModes[givenMode.Number()] {
@@ -508,7 +506,7 @@ func generatePitchClassPage(logger *zap.Logger, filename string, givenMode mode.
 					canonicalNumber := relativeMode.CanonicalNumber()
 					computedNoteNames := relativeMode.Notes().Names()
 					modeURL := fmt.Sprintf("https://ianring.com/musictheory/scales/%d", canonicalNumber)
-					_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %s | %s | ![%s](CircleOfFifthMode%s.svg) | ![%s](ChromaticCircleMode%s.svg) |\n", canonicalNumber, modeURL, relativeMode.Type(), relativeMode.Type(), relativeMode.Tonic().Name(), strings.Join(computedNoteNames, ", "), relativeMode, relativeMode, relativeMode, relativeMode)
+					_, _ = fmt.Fprintf(&buff, "| [%d](%s) | [%s](Mode%s.md) | %d | %s | %s | ![%s](CircleOfFifthMode%s.svg) | ![%s](ChromaticCircleMode%s.svg) |\n", canonicalNumber, modeURL, relativeMode.Type(), relativeMode.Type(), relativeMode.Luminosity(), relativeMode.Tonic().Name(), strings.Join(computedNoteNames, ", "), relativeMode, relativeMode, relativeMode, relativeMode)
 				}
 			}
 		}

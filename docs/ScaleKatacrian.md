@@ -21,7 +21,7 @@ Perfection Profile - false, false, true, false, false, true, true
 
 | Number | Mode | Luminosity | Notes | Illustration | Audio |
 |--------|------|------------|-------|--------------|-------|
-| [375](https://ianring.com/musictheory/scales/375) | [Sodian](ModeSodian.md) | 6 | **C**, Db, **Ebb**, **Fb**, Gbb, Abbb, **Bbbb**, **C** | ![CNaturalSodian](ModeCNaturalSodian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalSodian.mid?raw=true) | 
+| [375](https://ianring.com/musictheory/scales/375) | [Sodian](ModeSodian.md) | -1 | **C**, Db, **Ebb**, **Fb**, Gbb, Abbb, **Bbbb**, **C** | ![CNaturalSodian](ModeCNaturalSodian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalSodian.mid?raw=true) | 
 | [1815](https://ianring.com/musictheory/scales/1815) | [Godian](ModeGodian.md) | -1 | **C**, Db, Ebb, **Fb**, **G#**, A, **Bb**, **C** | ![CNaturalGodian](ModeCNaturalGodian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalGodian.mid?raw=true) | 
 | [1905](https://ianring.com/musictheory/scales/1905) | [Katacrian](ModeKatacrian.md) | -1 | **C**, **D##**, E#, **F#**, **G#**, A, Bb, **C** | ![CNaturalKatacrian](ModeCNaturalKatacrian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalKatacrian.mid?raw=true) | 
 | [2235](https://ianring.com/musictheory/scales/2235) | [Bathian](ModeBathian.md) | -1 | C, **Db**, **Eb**, Fb, Gbb, **Abb**, **B**, C | ![CNaturalBathian](ModeCNaturalBathian.png) | [midi](https://github.com/edipermadi/music/blob/main/docs/ModeCNaturalBathian.mid?raw=true) | 

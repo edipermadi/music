@@ -7,7 +7,7 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Saric](ScaleSaric.md)
 
@@ -15,13 +15,21 @@
 
 [DNaturalByptic](ModeDNaturalByptic.md)
 
+## Number
+
+649
+
+## Luminosity
+
+4
+
 ## Tonic
 
 D
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ D
  - 1 Perfect Notes
 
  - 3 Imperfect Notes
+
+ - Perfection Profile - true, false, false, false
 
 ## Notes
 
@@ -56,20 +66,20 @@ D
 | ![DNaturalByptic](CircleOfFifthModeDNaturalByptic.svg) | ![DNaturalByptic](ChromaticCircleModeDNaturalByptic.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | D | D, F, A, B, D | ![DNaturalByptic](ModeDNaturalByptic.png) |
-| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | F | F, A, B, D, F | ![FNaturalSaric](ModeFNaturalSaric.png) |
-| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | A | A, B, D, F, A | ![ANaturalZoptic](ModeANaturalZoptic.png) |
-| [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | B | B, D, F, A, B | ![BNaturalAeraphic](ModeBNaturalAeraphic.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | 4 | D | D, F, A, B, D | ![DNaturalByptic](ModeDNaturalByptic.png) |
+| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | -1 | F | F, A, B, D, F | ![FNaturalSaric](ModeFNaturalSaric.png) |
+| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | 3 | A | A, B, D, F, A | ![ANaturalZoptic](ModeANaturalZoptic.png) |
+| [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | -1 | B | B, D, F, A, B | ![BNaturalAeraphic](ModeBNaturalAeraphic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | D | D, F, A, B, D | ![DNaturalByptic](CircleOfFifthModeDNaturalByptic.svg) | ![DNaturalByptic](ChromaticCircleModeDNaturalByptic.svg) |
-| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | F | F, A, B, D, F | ![FNaturalSaric](CircleOfFifthModeFNaturalSaric.svg) | ![FNaturalSaric](ChromaticCircleModeFNaturalSaric.svg) |
-| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | A | A, B, D, F, A | ![ANaturalZoptic](CircleOfFifthModeANaturalZoptic.svg) | ![ANaturalZoptic](ChromaticCircleModeANaturalZoptic.svg) |
-| [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | B | B, D, F, A, B | ![BNaturalAeraphic](CircleOfFifthModeBNaturalAeraphic.svg) | ![BNaturalAeraphic](ChromaticCircleModeBNaturalAeraphic.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | 4 | D | D, F, A, B, D | ![DNaturalByptic](CircleOfFifthModeDNaturalByptic.svg) | ![DNaturalByptic](ChromaticCircleModeDNaturalByptic.svg) |
+| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | -1 | F | F, A, B, D, F | ![FNaturalSaric](CircleOfFifthModeFNaturalSaric.svg) | ![FNaturalSaric](ChromaticCircleModeFNaturalSaric.svg) |
+| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | 3 | A | A, B, D, F, A | ![ANaturalZoptic](CircleOfFifthModeANaturalZoptic.svg) | ![ANaturalZoptic](ChromaticCircleModeANaturalZoptic.svg) |
+| [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | -1 | B | B, D, F, A, B | ![BNaturalAeraphic](CircleOfFifthModeBNaturalAeraphic.svg) | ![BNaturalAeraphic](ChromaticCircleModeBNaturalAeraphic.svg) |
 
 ## Chords
 

@@ -15,6 +15,10 @@
 
 [1527](https://ianring.com/musictheory/scales/1527)
 
+## Luminosity
+
+7
+
 ## Transposition
 
 1, 1, 2, 1, 1, 1, 1, 2, 2

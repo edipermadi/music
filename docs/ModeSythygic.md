@@ -15,6 +15,10 @@
 
 [2037](https://ianring.com/musictheory/scales/2037)
 
+## Luminosity
+
+7
+
 ## Transposition
 
 2, 2, 1, 1, 1, 1, 1, 1, 2

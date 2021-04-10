@@ -15,6 +15,10 @@
 
 [863](https://ianring.com/musictheory/scales/863)
 
+## Luminosity
+
+-1
+
 ## Transposition
 
 1, 1, 1, 1, 2, 2, 1, 3

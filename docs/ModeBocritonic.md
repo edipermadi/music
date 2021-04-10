@@ -15,6 +15,10 @@
 
 [361](https://ianring.com/musictheory/scales/361)
 
+## Luminosity
+
+4
+
 ## Transposition
 
 3, 2, 1, 2, 4

@@ -7,7 +7,7 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Epathic](ScaleEpathic.md)
 
@@ -15,13 +15,21 @@
 
 [GNaturalRothic](ModeGNaturalRothic.md)
 
+## Number
+
+549
+
+## Luminosity
+
+3
+
 ## Tonic
 
 G
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ G
  - 2 Perfect Notes
 
  - 2 Imperfect Notes
+
+ - Perfection Profile - false, true, true, false
 
 ## Notes
 
@@ -56,20 +66,20 @@ G
 | ![GNaturalRothic](CircleOfFifthModeGNaturalRothic.svg) | ![GNaturalRothic](ChromaticCircleModeGNaturalRothic.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | G | G, A, C, E, G | ![GNaturalRothic](ModeGNaturalRothic.png) |
-| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | A | A, C, E, G, A | ![ANaturalEporic](ModeANaturalEporic.png) |
-| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | C | C, E, G, A, C | ![CNaturalEpathic](ModeCNaturalEpathic.png) |
-| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | E | E, G, A, C, E | ![ENaturalMynic](ModeENaturalMynic.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | 3 | G | G, A, C, E, G | ![GNaturalRothic](ModeGNaturalRothic.png) |
+| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | -1 | A | A, C, E, G, A | ![ANaturalEporic](ModeANaturalEporic.png) |
+| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | 4 | C | C, E, G, A, C | ![CNaturalEpathic](ModeCNaturalEpathic.png) |
+| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | -1 | E | E, G, A, C, E | ![ENaturalMynic](ModeENaturalMynic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | G | G, A, C, E, G | ![GNaturalRothic](CircleOfFifthModeGNaturalRothic.svg) | ![GNaturalRothic](ChromaticCircleModeGNaturalRothic.svg) |
-| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | A | A, C, E, G, A | ![ANaturalEporic](CircleOfFifthModeANaturalEporic.svg) | ![ANaturalEporic](ChromaticCircleModeANaturalEporic.svg) |
-| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | C | C, E, G, A, C | ![CNaturalEpathic](CircleOfFifthModeCNaturalEpathic.svg) | ![CNaturalEpathic](ChromaticCircleModeCNaturalEpathic.svg) |
-| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | E | E, G, A, C, E | ![ENaturalMynic](CircleOfFifthModeENaturalMynic.svg) | ![ENaturalMynic](ChromaticCircleModeENaturalMynic.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | -1 | G | G, A, C, E, G | ![GNaturalRothic](CircleOfFifthModeGNaturalRothic.svg) | ![GNaturalRothic](ChromaticCircleModeGNaturalRothic.svg) |
+| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | -1 | A | A, C, E, G, A | ![ANaturalEporic](CircleOfFifthModeANaturalEporic.svg) | ![ANaturalEporic](ChromaticCircleModeANaturalEporic.svg) |
+| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | 4 | C | C, E, G, A, C | ![CNaturalEpathic](CircleOfFifthModeCNaturalEpathic.svg) | ![CNaturalEpathic](ChromaticCircleModeCNaturalEpathic.svg) |
+| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | 3 | E | E, G, A, C, E | ![ENaturalMynic](CircleOfFifthModeENaturalMynic.svg) | ![ENaturalMynic](ChromaticCircleModeENaturalMynic.svg) |
 
 ## Chords
 

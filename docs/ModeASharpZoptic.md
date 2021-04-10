@@ -7,7 +7,7 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Saric](ScaleSaric.md)
 
@@ -15,13 +15,21 @@
 
 [ASharpZoptic](ModeASharpZoptic.md)
 
+## Number
+
+293
+
+## Luminosity
+
+3
+
 ## Tonic
 
 A#
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ A#
  - 1 Perfect Notes
 
  - 3 Imperfect Notes
+
+ - Perfection Profile - false, false, true, false
 
 ## Notes
 
@@ -56,26 +66,26 @@ A#
 | ![ASharpZoptic](CircleOfFifthModeASharpZoptic.svg) | ![ASharpZoptic](ChromaticCircleModeASharpZoptic.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | A# | A#, C, D#, F#, A# | ![ASharpZoptic](ModeASharpZoptic.png) |
-| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | Bb | Bb, C, Eb, Gb, Bb | ![BFlatZoptic](ModeBFlatZoptic.png) |
-| [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | C | C, D#, F#, A#, C | ![CNaturalAeraphic](ModeCNaturalAeraphic.png) |
-| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | D# | D#, F#, A#, C, D# | ![DSharpByptic](ModeDSharpByptic.png) |
-| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | Eb | Eb, Gb, Bb, C, Eb | ![EFlatByptic](ModeEFlatByptic.png) |
-| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | F# | F#, A#, C, D#, F# | ![FSharpSaric](ModeFSharpSaric.png) |
-| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | Gb | Gb, Bb, C, Eb, Gb | ![GFlatSaric](ModeGFlatSaric.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | 3 | A# | A#, C, D#, F#, A# | ![ASharpZoptic](ModeASharpZoptic.png) |
+| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | 3 | Bb | Bb, C, Eb, Gb, Bb | ![BFlatZoptic](ModeBFlatZoptic.png) |
+| [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | -1 | C | C, D#, F#, A#, C | ![CNaturalAeraphic](ModeCNaturalAeraphic.png) |
+| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | 4 | D# | D#, F#, A#, C, D# | ![DSharpByptic](ModeDSharpByptic.png) |
+| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | 4 | Eb | Eb, Gb, Bb, C, Eb | ![EFlatByptic](ModeEFlatByptic.png) |
+| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | -1 | F# | F#, A#, C, D#, F# | ![FSharpSaric](ModeFSharpSaric.png) |
+| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | -1 | Gb | Gb, Bb, C, Eb, Gb | ![GFlatSaric](ModeGFlatSaric.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | A# | A#, C, D#, F#, A# | ![ASharpZoptic](CircleOfFifthModeASharpZoptic.svg) | ![ASharpZoptic](ChromaticCircleModeASharpZoptic.svg) |
-| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | Bb | Bb, C, Eb, Gb, Bb | ![BFlatZoptic](CircleOfFifthModeBFlatZoptic.svg) | ![BFlatZoptic](ChromaticCircleModeBFlatZoptic.svg) |
-| [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | C | C, D#, F#, A#, C | ![CNaturalAeraphic](CircleOfFifthModeCNaturalAeraphic.svg) | ![CNaturalAeraphic](ChromaticCircleModeCNaturalAeraphic.svg) |
-| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | D# | D#, F#, A#, C, D# | ![DSharpByptic](CircleOfFifthModeDSharpByptic.svg) | ![DSharpByptic](ChromaticCircleModeDSharpByptic.svg) |
-| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | Eb | Eb, Gb, Bb, C, Eb | ![EFlatByptic](CircleOfFifthModeEFlatByptic.svg) | ![EFlatByptic](ChromaticCircleModeEFlatByptic.svg) |
-| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | F# | F#, A#, C, D#, F# | ![FSharpSaric](CircleOfFifthModeFSharpSaric.svg) | ![FSharpSaric](ChromaticCircleModeFSharpSaric.svg) |
-| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | Gb | Gb, Bb, C, Eb, Gb | ![GFlatSaric](CircleOfFifthModeGFlatSaric.svg) | ![GFlatSaric](ChromaticCircleModeGFlatSaric.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | 3 | A# | A#, C, D#, F#, A# | ![ASharpZoptic](CircleOfFifthModeASharpZoptic.svg) | ![ASharpZoptic](ChromaticCircleModeASharpZoptic.svg) |
+| [293](https://ianring.com/musictheory/scales/293) | [Zoptic](ModeZoptic.md) | 3 | Bb | Bb, C, Eb, Gb, Bb | ![BFlatZoptic](CircleOfFifthModeBFlatZoptic.svg) | ![BFlatZoptic](ChromaticCircleModeBFlatZoptic.svg) |
+| [1097](https://ianring.com/musictheory/scales/1097) | [Aeraphic](ModeAeraphic.md) | -1 | C | C, D#, F#, A#, C | ![CNaturalAeraphic](CircleOfFifthModeCNaturalAeraphic.svg) | ![CNaturalAeraphic](ChromaticCircleModeCNaturalAeraphic.svg) |
+| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | 4 | D# | D#, F#, A#, C, D# | ![DSharpByptic](CircleOfFifthModeDSharpByptic.svg) | ![DSharpByptic](ChromaticCircleModeDSharpByptic.svg) |
+| [649](https://ianring.com/musictheory/scales/649) | [Byptic](ModeByptic.md) | 4 | Eb | Eb, Gb, Bb, C, Eb | ![EFlatByptic](CircleOfFifthModeEFlatByptic.svg) | ![EFlatByptic](ChromaticCircleModeEFlatByptic.svg) |
+| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | -1 | F# | F#, A#, C, D#, F# | ![FSharpSaric](CircleOfFifthModeFSharpSaric.svg) | ![FSharpSaric](ChromaticCircleModeFSharpSaric.svg) |
+| [593](https://ianring.com/musictheory/scales/593) | [Saric](ModeSaric.md) | -1 | Gb | Gb, Bb, C, Eb, Gb | ![GFlatSaric](CircleOfFifthModeGFlatSaric.svg) | ![GFlatSaric](ChromaticCircleModeGFlatSaric.svg) |
 
 ## Chords
 

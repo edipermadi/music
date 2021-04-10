@@ -15,6 +15,10 @@
 
 [2469](https://ianring.com/musictheory/scales/2469)
 
+## Luminosity
+
+5
+
 ## Transposition
 
 2, 3, 2, 1, 3, 1

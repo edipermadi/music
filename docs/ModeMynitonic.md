@@ -15,6 +15,10 @@
 
 [677](https://ianring.com/musictheory/scales/677)
 
+## Luminosity
+
+4
+
 ## Transposition
 
 2, 3, 2, 2, 3

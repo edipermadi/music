@@ -7,7 +7,7 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Bolitonic](ScaleBolitonic.md)
 
@@ -15,13 +15,21 @@
 
 [CSharpBolitonic](ModeCSharpBolitonic.md)
 
+## Number
+
+1361
+
+## Luminosity
+
+-1
+
 ## Tonic
 
 C#
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ II⁺
  - 0 Perfect Notes
 
  - 5 Imperfect Notes
+
+ - Perfection Profile - false, false, false, false, false
 
 ## Notes
 
@@ -57,24 +67,24 @@ II⁺
 | ![CSharpBolitonic](CircleOfFifthModeCSharpBolitonic.svg) | ![CSharpBolitonic](ChromaticCircleModeCSharpBolitonic.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | C# | C#, F, G, A, B, C# | ![CSharpBolitonic](ModeCSharpBolitonic.png) |
-| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | Db | Db, F, G, A, B, Db | ![DFlatBolitonic](ModeDFlatBolitonic.png) |
-| [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | F | F, G, A, B, C#, F | ![FNaturalBothitonic](ModeFNaturalBothitonic.png) |
-| [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | G | G, A, B, C#, F, G | ![GNaturalKataditonic](ModeGNaturalKataditonic.png) |
-| [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | A | A, B, C#, F, G, A | ![ANaturalKoditonic](ModeANaturalKoditonic.png) |
-| [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | B | B, C#, F, G, A, B | ![BNaturalTholitonic](ModeBNaturalTholitonic.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | C# | C#, F, G, A, B, C# | ![CSharpBolitonic](ModeCSharpBolitonic.png) |
+| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | Db | Db, F, G, A, B, Db | ![DFlatBolitonic](ModeDFlatBolitonic.png) |
+| [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | -1 | F | F, G, A, B, C#, F | ![FNaturalBothitonic](ModeFNaturalBothitonic.png) |
+| [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | -1 | G | G, A, B, C#, F, G | ![GNaturalKataditonic](ModeGNaturalKataditonic.png) |
+| [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | -1 | A | A, B, C#, F, G, A | ![ANaturalKoditonic](ModeANaturalKoditonic.png) |
+| [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | -1 | B | B, C#, F, G, A, B | ![BNaturalTholitonic](ModeBNaturalTholitonic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | C# | C#, F, G, A, B, C# | ![CSharpBolitonic](CircleOfFifthModeCSharpBolitonic.svg) | ![CSharpBolitonic](ChromaticCircleModeCSharpBolitonic.svg) |
-| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | Db | Db, F, G, A, B, Db | ![DFlatBolitonic](CircleOfFifthModeDFlatBolitonic.svg) | ![DFlatBolitonic](ChromaticCircleModeDFlatBolitonic.svg) |
-| [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | F | F, G, A, B, C#, F | ![FNaturalBothitonic](CircleOfFifthModeFNaturalBothitonic.svg) | ![FNaturalBothitonic](ChromaticCircleModeFNaturalBothitonic.svg) |
-| [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | G | G, A, B, C#, F, G | ![GNaturalKataditonic](CircleOfFifthModeGNaturalKataditonic.svg) | ![GNaturalKataditonic](ChromaticCircleModeGNaturalKataditonic.svg) |
-| [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | A | A, B, C#, F, G, A | ![ANaturalKoditonic](CircleOfFifthModeANaturalKoditonic.svg) | ![ANaturalKoditonic](ChromaticCircleModeANaturalKoditonic.svg) |
-| [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | B | B, C#, F, G, A, B | ![BNaturalTholitonic](CircleOfFifthModeBNaturalTholitonic.svg) | ![BNaturalTholitonic](ChromaticCircleModeBNaturalTholitonic.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | C# | C#, F, G, A, B, C# | ![CSharpBolitonic](CircleOfFifthModeCSharpBolitonic.svg) | ![CSharpBolitonic](ChromaticCircleModeCSharpBolitonic.svg) |
+| [1361](https://ianring.com/musictheory/scales/1361) | [Bolitonic](ModeBolitonic.md) | -1 | Db | Db, F, G, A, B, Db | ![DFlatBolitonic](CircleOfFifthModeDFlatBolitonic.svg) | ![DFlatBolitonic](ChromaticCircleModeDFlatBolitonic.svg) |
+| [341](https://ianring.com/musictheory/scales/341) | [Bothitonic](ModeBothitonic.md) | -1 | F | F, G, A, B, C#, F | ![FNaturalBothitonic](CircleOfFifthModeFNaturalBothitonic.svg) | ![FNaturalBothitonic](ChromaticCircleModeFNaturalBothitonic.svg) |
+| [1109](https://ianring.com/musictheory/scales/1109) | [Kataditonic](ModeKataditonic.md) | -1 | G | G, A, B, C#, F, G | ![GNaturalKataditonic](CircleOfFifthModeGNaturalKataditonic.svg) | ![GNaturalKataditonic](ChromaticCircleModeGNaturalKataditonic.svg) |
+| [1301](https://ianring.com/musictheory/scales/1301) | [Koditonic](ModeKoditonic.md) | -1 | A | A, B, C#, F, G, A | ![ANaturalKoditonic](CircleOfFifthModeANaturalKoditonic.svg) | ![ANaturalKoditonic](ChromaticCircleModeANaturalKoditonic.svg) |
+| [1349](https://ianring.com/musictheory/scales/1349) | [Tholitonic](ModeTholitonic.md) | -1 | B | B, C#, F, G, A, B | ![BNaturalTholitonic](CircleOfFifthModeBNaturalTholitonic.svg) | ![BNaturalTholitonic](ChromaticCircleModeBNaturalTholitonic.svg) |
 
 ## Chords
 

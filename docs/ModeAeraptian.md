@@ -15,6 +15,10 @@
 
 [877](https://ianring.com/musictheory/scales/877)
 
+## Luminosity
+
+-1
+
 ## Transposition
 
 2, 1, 2, 1, 2, 1, 3

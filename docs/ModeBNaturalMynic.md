@@ -7,7 +7,7 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Epathic](ScaleEpathic.md)
 
@@ -15,13 +15,21 @@
 
 [BNaturalMynic](ModeBNaturalMynic.md)
 
+## Number
+
+297
+
+## Luminosity
+
+-1
+
 ## Tonic
 
 B
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ B
  - 2 Perfect Notes
 
  - 2 Imperfect Notes
+
+ - Perfection Profile - false, false, true, true
 
 ## Notes
 
@@ -56,20 +66,20 @@ B
 | ![BNaturalMynic](CircleOfFifthModeBNaturalMynic.svg) | ![BNaturalMynic](ChromaticCircleModeBNaturalMynic.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | B | B, D, E, G, B | ![BNaturalMynic](ModeBNaturalMynic.png) |
-| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | D | D, E, G, B, D | ![DNaturalRothic](ModeDNaturalRothic.png) |
-| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | E | E, G, B, D, E | ![ENaturalEporic](ModeENaturalEporic.png) |
-| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | G | G, B, D, E, G | ![GNaturalEpathic](ModeGNaturalEpathic.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | 3 | B | B, D, E, G, B | ![BNaturalMynic](ModeBNaturalMynic.png) |
+| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | 3 | D | D, E, G, B, D | ![DNaturalRothic](ModeDNaturalRothic.png) |
+| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | -1 | E | E, G, B, D, E | ![ENaturalEporic](ModeENaturalEporic.png) |
+| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | 4 | G | G, B, D, E, G | ![GNaturalEpathic](ModeGNaturalEpathic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | B | B, D, E, G, B | ![BNaturalMynic](CircleOfFifthModeBNaturalMynic.svg) | ![BNaturalMynic](ChromaticCircleModeBNaturalMynic.svg) |
-| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | D | D, E, G, B, D | ![DNaturalRothic](CircleOfFifthModeDNaturalRothic.svg) | ![DNaturalRothic](ChromaticCircleModeDNaturalRothic.svg) |
-| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | E | E, G, B, D, E | ![ENaturalEporic](CircleOfFifthModeENaturalEporic.svg) | ![ENaturalEporic](ChromaticCircleModeENaturalEporic.svg) |
-| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | G | G, B, D, E, G | ![GNaturalEpathic](CircleOfFifthModeGNaturalEpathic.svg) | ![GNaturalEpathic](ChromaticCircleModeGNaturalEpathic.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [297](https://ianring.com/musictheory/scales/297) | [Mynic](ModeMynic.md) | -1 | B | B, D, E, G, B | ![BNaturalMynic](CircleOfFifthModeBNaturalMynic.svg) | ![BNaturalMynic](ChromaticCircleModeBNaturalMynic.svg) |
+| [549](https://ianring.com/musictheory/scales/549) | [Rothic](ModeRothic.md) | 3 | D | D, E, G, B, D | ![DNaturalRothic](CircleOfFifthModeDNaturalRothic.svg) | ![DNaturalRothic](ChromaticCircleModeDNaturalRothic.svg) |
+| [1161](https://ianring.com/musictheory/scales/1161) | [Eporic](ModeEporic.md) | -1 | E | E, G, B, D, E | ![ENaturalEporic](CircleOfFifthModeENaturalEporic.svg) | ![ENaturalEporic](ChromaticCircleModeENaturalEporic.svg) |
+| [657](https://ianring.com/musictheory/scales/657) | [Epathic](ModeEpathic.md) | 4 | G | G, B, D, E, G | ![GNaturalEpathic](CircleOfFifthModeGNaturalEpathic.svg) | ![GNaturalEpathic](ChromaticCircleModeGNaturalEpathic.svg) |
 
 ## Chords
 

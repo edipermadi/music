@@ -7,7 +7,7 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Minoric](ScaleMinoric.md)
 
@@ -15,13 +15,21 @@
 
 [AFlatMinoric](ModeAFlatMinoric.md)
 
+## Number
+
+273
+
+## Luminosity
+
+-1
+
 ## Tonic
 
 Ab
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ I⁺, II⁺, III⁺
  - 0 Perfect Notes
 
  - 3 Imperfect Notes
+
+ - Perfection Profile - false, false, false
 
 ## Notes
 
@@ -55,20 +65,20 @@ I⁺, II⁺, III⁺
 | ![AFlatMinoric](CircleOfFifthModeAFlatMinoric.svg) | ![AFlatMinoric](ChromaticCircleModeAFlatMinoric.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | G# | G#, C, E, G# | ![GSharpMinoric](ModeGSharpMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Ab | Ab, C, E, Ab | ![AFlatMinoric](ModeAFlatMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | C | C, E, G#, C | ![CNaturalMinoric](ModeCNaturalMinoric.png) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | E | E, G#, C, E | ![ENaturalMinoric](ModeENaturalMinoric.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | G# | G#, C, E, G# | ![GSharpMinoric](ModeGSharpMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | Ab | Ab, C, E, Ab | ![AFlatMinoric](ModeAFlatMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | C | C, E, G#, C | ![CNaturalMinoric](ModeCNaturalMinoric.png) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | E | E, G#, C, E | ![ENaturalMinoric](ModeENaturalMinoric.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | G# | G#, C, E, G# | ![GSharpMinoric](CircleOfFifthModeGSharpMinoric.svg) | ![GSharpMinoric](ChromaticCircleModeGSharpMinoric.svg) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | Ab | Ab, C, E, Ab | ![AFlatMinoric](CircleOfFifthModeAFlatMinoric.svg) | ![AFlatMinoric](ChromaticCircleModeAFlatMinoric.svg) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | C | C, E, G#, C | ![CNaturalMinoric](CircleOfFifthModeCNaturalMinoric.svg) | ![CNaturalMinoric](ChromaticCircleModeCNaturalMinoric.svg) |
-| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | E | E, G#, C, E | ![ENaturalMinoric](CircleOfFifthModeENaturalMinoric.svg) | ![ENaturalMinoric](ChromaticCircleModeENaturalMinoric.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | G# | G#, C, E, G# | ![GSharpMinoric](CircleOfFifthModeGSharpMinoric.svg) | ![GSharpMinoric](ChromaticCircleModeGSharpMinoric.svg) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | Ab | Ab, C, E, Ab | ![AFlatMinoric](CircleOfFifthModeAFlatMinoric.svg) | ![AFlatMinoric](ChromaticCircleModeAFlatMinoric.svg) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | C | C, E, G#, C | ![CNaturalMinoric](CircleOfFifthModeCNaturalMinoric.svg) | ![CNaturalMinoric](ChromaticCircleModeCNaturalMinoric.svg) |
+| [273](https://ianring.com/musictheory/scales/273) | [Minoric](ModeMinoric.md) | -1 | E | E, G#, C, E | ![ENaturalMinoric](CircleOfFifthModeENaturalMinoric.svg) | ![ENaturalMinoric](ChromaticCircleModeENaturalMinoric.svg) |
 
 ## Chords
 

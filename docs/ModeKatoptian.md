@@ -15,6 +15,10 @@
 
 [1993](https://ianring.com/musictheory/scales/1993)
 
+## Luminosity
+
+-1
+
 ## Transposition
 
 3, 3, 1, 1, 1, 1, 2

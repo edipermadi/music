@@ -15,6 +15,10 @@
 
 [2001](https://ianring.com/musictheory/scales/2001)
 
+## Luminosity
+
+7
+
 ## Transposition
 
 4, 2, 1, 1, 1, 1, 2

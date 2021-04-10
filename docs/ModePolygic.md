@@ -15,6 +15,10 @@
 
 [511](https://ianring.com/musictheory/scales/511)
 
+## Luminosity
+
+8
+
 ## Transposition
 
 1, 1, 1, 1, 1, 1, 1, 1, 4

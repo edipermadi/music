@@ -7,7 +7,7 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Zacrimic](ScaleZacrimic.md)
 
@@ -15,13 +15,21 @@
 
 [CNaturalThacrimic](ModeCNaturalThacrimic.md)
 
+## Number
+
+1227
+
+## Luminosity
+
+-1
+
 ## Tonic
 
 C
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ i, IV
  - 3 Perfect Notes
 
  - 3 Imperfect Notes
+
+ - Perfection Profile - true, false, true, true, false, false
 
 ## Notes
 
@@ -58,32 +68,32 @@ i, IV
 | ![CNaturalThacrimic](CircleOfFifthModeCNaturalThacrimic.svg) | ![CNaturalThacrimic](ChromaticCircleModeCNaturalThacrimic.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [1227](https://ianring.com/musictheory/scales/1227) | [Thacrimic](ModeThacrimic.md) | C | C, Db, Eb, F#, G, A#, C | ![CNaturalThacrimic](ModeCNaturalThacrimic.png) |
-| [2661](https://ianring.com/musictheory/scales/2661) | [Stydimic](ModeStydimic.md) | C# | C#, D#, E##, F##, G###, A###, C# | ![CSharpStydimic](ModeCSharpStydimic.png) |
-| [2661](https://ianring.com/musictheory/scales/2661) | [Stydimic](ModeStydimic.md) | Db | Db, Eb, F#, G, A#, B#, Db | ![DFlatStydimic](ModeDFlatStydimic.png) |
-| [1689](https://ianring.com/musictheory/scales/1689) | [Lorimic](ModeLorimic.md) | D# | D#, E##, F##, G###, A###, B##, D# | ![DSharpLorimic](ModeDSharpLorimic.png) |
-| [1689](https://ianring.com/musictheory/scales/1689) | [Lorimic](ModeLorimic.md) | Eb | Eb, F#, G, A#, B#, C#, Eb | ![EFlatLorimic](ModeEFlatLorimic.png) |
-| [723](https://ianring.com/musictheory/scales/723) | [Ionadimic](ModeIonadimic.md) | F# | F#, G, A#, B#, C#, D#, F# | ![FSharpIonadimic](ModeFSharpIonadimic.png) |
-| [723](https://ianring.com/musictheory/scales/723) | [Ionadimic](ModeIonadimic.md) | Gb | Gb, Abb, Bb, C, Db, Eb, Gb | ![GFlatIonadimic](ModeGFlatIonadimic.png) |
-| [2409](https://ianring.com/musictheory/scales/2409) | [Zacrimic](ModeZacrimic.md) | G | G, A#, B#, C#, D#, E##, G | ![GNaturalZacrimic](ModeGNaturalZacrimic.png) |
-| [813](https://ianring.com/musictheory/scales/813) | [Larimic](ModeLarimic.md) | A# | A#, B#, C#, D#, E##, F##, A# | ![ASharpLarimic](ModeASharpLarimic.png) |
-| [813](https://ianring.com/musictheory/scales/813) | [Larimic](ModeLarimic.md) | Bb | Bb, C, Db, Eb, F#, G, Bb | ![BFlatLarimic](ModeBFlatLarimic.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [1227](https://ianring.com/musictheory/scales/1227) | [Thacrimic](ModeThacrimic.md) | 6 | C | C, Db, Eb, F#, G, A#, C | ![CNaturalThacrimic](ModeCNaturalThacrimic.png) |
+| [2661](https://ianring.com/musictheory/scales/2661) | [Stydimic](ModeStydimic.md) | -1 | C# | C#, D#, E##, F##, G###, A###, C# | ![CSharpStydimic](ModeCSharpStydimic.png) |
+| [2661](https://ianring.com/musictheory/scales/2661) | [Stydimic](ModeStydimic.md) | 5 | Db | Db, Eb, F#, G, A#, B#, Db | ![DFlatStydimic](ModeDFlatStydimic.png) |
+| [1689](https://ianring.com/musictheory/scales/1689) | [Lorimic](ModeLorimic.md) | 6 | D# | D#, E##, F##, G###, A###, B##, D# | ![DSharpLorimic](ModeDSharpLorimic.png) |
+| [1689](https://ianring.com/musictheory/scales/1689) | [Lorimic](ModeLorimic.md) | -1 | Eb | Eb, F#, G, A#, B#, C#, Eb | ![EFlatLorimic](ModeEFlatLorimic.png) |
+| [723](https://ianring.com/musictheory/scales/723) | [Ionadimic](ModeIonadimic.md) | -1 | F# | F#, G, A#, B#, C#, D#, F# | ![FSharpIonadimic](ModeFSharpIonadimic.png) |
+| [723](https://ianring.com/musictheory/scales/723) | [Ionadimic](ModeIonadimic.md) | 6 | Gb | Gb, Abb, Bb, C, Db, Eb, Gb | ![GFlatIonadimic](ModeGFlatIonadimic.png) |
+| [2409](https://ianring.com/musictheory/scales/2409) | [Zacrimic](ModeZacrimic.md) | -1 | G | G, A#, B#, C#, D#, E##, G | ![GNaturalZacrimic](ModeGNaturalZacrimic.png) |
+| [813](https://ianring.com/musictheory/scales/813) | [Larimic](ModeLarimic.md) | -1 | A# | A#, B#, C#, D#, E##, F##, A# | ![ASharpLarimic](ModeASharpLarimic.png) |
+| [813](https://ianring.com/musictheory/scales/813) | [Larimic](ModeLarimic.md) | 5 | Bb | Bb, C, Db, Eb, F#, G, Bb | ![BFlatLarimic](ModeBFlatLarimic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [1227](https://ianring.com/musictheory/scales/1227) | [Thacrimic](ModeThacrimic.md) | C | C, Db, Eb, F#, G, A#, C | ![CNaturalThacrimic](CircleOfFifthModeCNaturalThacrimic.svg) | ![CNaturalThacrimic](ChromaticCircleModeCNaturalThacrimic.svg) |
-| [2661](https://ianring.com/musictheory/scales/2661) | [Stydimic](ModeStydimic.md) | C# | C#, D#, E##, F##, G###, A###, C# | ![CSharpStydimic](CircleOfFifthModeCSharpStydimic.svg) | ![CSharpStydimic](ChromaticCircleModeCSharpStydimic.svg) |
-| [2661](https://ianring.com/musictheory/scales/2661) | [Stydimic](ModeStydimic.md) | Db | Db, Eb, F#, G, A#, B#, Db | ![DFlatStydimic](CircleOfFifthModeDFlatStydimic.svg) | ![DFlatStydimic](ChromaticCircleModeDFlatStydimic.svg) |
-| [1689](https://ianring.com/musictheory/scales/1689) | [Lorimic](ModeLorimic.md) | D# | D#, E##, F##, G###, A###, B##, D# | ![DSharpLorimic](CircleOfFifthModeDSharpLorimic.svg) | ![DSharpLorimic](ChromaticCircleModeDSharpLorimic.svg) |
-| [1689](https://ianring.com/musictheory/scales/1689) | [Lorimic](ModeLorimic.md) | Eb | Eb, F#, G, A#, B#, C#, Eb | ![EFlatLorimic](CircleOfFifthModeEFlatLorimic.svg) | ![EFlatLorimic](ChromaticCircleModeEFlatLorimic.svg) |
-| [723](https://ianring.com/musictheory/scales/723) | [Ionadimic](ModeIonadimic.md) | F# | F#, G, A#, B#, C#, D#, F# | ![FSharpIonadimic](CircleOfFifthModeFSharpIonadimic.svg) | ![FSharpIonadimic](ChromaticCircleModeFSharpIonadimic.svg) |
-| [723](https://ianring.com/musictheory/scales/723) | [Ionadimic](ModeIonadimic.md) | Gb | Gb, Abb, Bb, C, Db, Eb, Gb | ![GFlatIonadimic](CircleOfFifthModeGFlatIonadimic.svg) | ![GFlatIonadimic](ChromaticCircleModeGFlatIonadimic.svg) |
-| [2409](https://ianring.com/musictheory/scales/2409) | [Zacrimic](ModeZacrimic.md) | G | G, A#, B#, C#, D#, E##, G | ![GNaturalZacrimic](CircleOfFifthModeGNaturalZacrimic.svg) | ![GNaturalZacrimic](ChromaticCircleModeGNaturalZacrimic.svg) |
-| [813](https://ianring.com/musictheory/scales/813) | [Larimic](ModeLarimic.md) | A# | A#, B#, C#, D#, E##, F##, A# | ![ASharpLarimic](CircleOfFifthModeASharpLarimic.svg) | ![ASharpLarimic](ChromaticCircleModeASharpLarimic.svg) |
-| [813](https://ianring.com/musictheory/scales/813) | [Larimic](ModeLarimic.md) | Bb | Bb, C, Db, Eb, F#, G, Bb | ![BFlatLarimic](CircleOfFifthModeBFlatLarimic.svg) | ![BFlatLarimic](ChromaticCircleModeBFlatLarimic.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [1227](https://ianring.com/musictheory/scales/1227) | [Thacrimic](ModeThacrimic.md) | 6 | C | C, Db, Eb, F#, G, A#, C | ![CNaturalThacrimic](CircleOfFifthModeCNaturalThacrimic.svg) | ![CNaturalThacrimic](ChromaticCircleModeCNaturalThacrimic.svg) |
+| [2661](https://ianring.com/musictheory/scales/2661) | [Stydimic](ModeStydimic.md) | -1 | C# | C#, D#, E##, F##, G###, A###, C# | ![CSharpStydimic](CircleOfFifthModeCSharpStydimic.svg) | ![CSharpStydimic](ChromaticCircleModeCSharpStydimic.svg) |
+| [2661](https://ianring.com/musictheory/scales/2661) | [Stydimic](ModeStydimic.md) | 5 | Db | Db, Eb, F#, G, A#, B#, Db | ![DFlatStydimic](CircleOfFifthModeDFlatStydimic.svg) | ![DFlatStydimic](ChromaticCircleModeDFlatStydimic.svg) |
+| [1689](https://ianring.com/musictheory/scales/1689) | [Lorimic](ModeLorimic.md) | -1 | D# | D#, E##, F##, G###, A###, B##, D# | ![DSharpLorimic](CircleOfFifthModeDSharpLorimic.svg) | ![DSharpLorimic](ChromaticCircleModeDSharpLorimic.svg) |
+| [1689](https://ianring.com/musictheory/scales/1689) | [Lorimic](ModeLorimic.md) | -1 | Eb | Eb, F#, G, A#, B#, C#, Eb | ![EFlatLorimic](CircleOfFifthModeEFlatLorimic.svg) | ![EFlatLorimic](ChromaticCircleModeEFlatLorimic.svg) |
+| [723](https://ianring.com/musictheory/scales/723) | [Ionadimic](ModeIonadimic.md) | 6 | F# | F#, G, A#, B#, C#, D#, F# | ![FSharpIonadimic](CircleOfFifthModeFSharpIonadimic.svg) | ![FSharpIonadimic](ChromaticCircleModeFSharpIonadimic.svg) |
+| [723](https://ianring.com/musictheory/scales/723) | [Ionadimic](ModeIonadimic.md) | -1 | Gb | Gb, Abb, Bb, C, Db, Eb, Gb | ![GFlatIonadimic](CircleOfFifthModeGFlatIonadimic.svg) | ![GFlatIonadimic](ChromaticCircleModeGFlatIonadimic.svg) |
+| [2409](https://ianring.com/musictheory/scales/2409) | [Zacrimic](ModeZacrimic.md) | -1 | G | G, A#, B#, C#, D#, E##, G | ![GNaturalZacrimic](CircleOfFifthModeGNaturalZacrimic.svg) | ![GNaturalZacrimic](ChromaticCircleModeGNaturalZacrimic.svg) |
+| [813](https://ianring.com/musictheory/scales/813) | [Larimic](ModeLarimic.md) | -1 | A# | A#, B#, C#, D#, E##, F##, A# | ![ASharpLarimic](CircleOfFifthModeASharpLarimic.svg) | ![ASharpLarimic](ChromaticCircleModeASharpLarimic.svg) |
+| [813](https://ianring.com/musictheory/scales/813) | [Larimic](ModeLarimic.md) | -1 | Bb | Bb, C, Db, Eb, F#, G, Bb | ![BFlatLarimic](CircleOfFifthModeBFlatLarimic.svg) | ![BFlatLarimic](ChromaticCircleModeBFlatLarimic.svg) |
 
 ## Chords
 

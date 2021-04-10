@@ -15,6 +15,10 @@
 
 [2919](https://ianring.com/musictheory/scales/2919)
 
+## Luminosity
+
+-1
+
 ## Transposition
 
 1, 1, 3, 1, 2, 1, 2, 1

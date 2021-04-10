@@ -15,6 +15,10 @@
 
 [589](https://ianring.com/musictheory/scales/589)
 
+## Luminosity
+
+-1
+
 ## Transposition
 
 2, 1, 3, 3, 3

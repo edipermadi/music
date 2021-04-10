@@ -15,6 +15,10 @@
 
 [1973](https://ianring.com/musictheory/scales/1973)
 
+## Luminosity
+
+6
+
 ## Transposition
 
 2, 2, 1, 2, 1, 1, 1, 2

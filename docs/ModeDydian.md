@@ -15,6 +15,10 @@
 
 [1989](https://ianring.com/musictheory/scales/1989)
 
+## Luminosity
+
+7
+
 ## Transposition
 
 2, 4, 1, 1, 1, 1, 2

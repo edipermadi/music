@@ -15,6 +15,10 @@
 
 [1817](https://ianring.com/musictheory/scales/1817)
 
+## Luminosity
+
+-1
+
 ## Transposition
 
 3, 1, 4, 1, 1, 2

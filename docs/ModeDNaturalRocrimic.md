@@ -7,7 +7,7 @@
 - [Modes Index](Modes.md)
 - [Chords Index](Chords.md)
 
-## Scale
+## Parent Scale
 
 [Epathimic](ScaleEpathimic.md)
 
@@ -15,13 +15,21 @@
 
 [DNaturalRocrimic](ModeDNaturalRocrimic.md)
 
+## Number
+
+1197
+
+## Luminosity
+
+3
+
 ## Tonic
 
 D
 
 ## Signature
 
-[CNaturalMajor]
+C
 
 ## Transposition
 
@@ -36,6 +44,8 @@ i, VI
  - 5 Perfect Notes
 
  - 1 Imperfect Notes
+
+ - Perfection Profile - true, false, true, true, true, true
 
 ## Notes
 
@@ -58,24 +68,24 @@ i, VI
 | ![DNaturalRocrimic](CircleOfFifthModeDNaturalRocrimic.svg) | ![DNaturalRocrimic](ChromaticCircleModeDNaturalRocrimic.svg) |
 ## Relative Modes
 
-| Number | Mode | Tonic | Notes | Illustration |
-|--------|------|-------|-------|--------------|
-| [1197](https://ianring.com/musictheory/scales/1197) | [Rocrimic](ModeRocrimic.md) | D | D, E, F, G, A, B#, D | ![DNaturalRocrimic](ModeDNaturalRocrimic.png) |
-| [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | E | E, F, G, A, B#, C##, E | ![ENaturalEporimic](ModeENaturalEporimic.png) |
-| [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | F | F, G, A, B#, C##, D##, F | ![FNaturalThaptimic](ModeFNaturalThaptimic.png) |
-| [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | G | G, A, B#, C##, D##, E#, G | ![GNaturalLothimic](ModeGNaturalLothimic.png) |
-| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | A | A, B#, C##, D##, E#, F##, A | ![ANaturalEpathimic](ModeANaturalEpathimic.png) |
-| [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | C | C, D, E, F, G, A, C | ![CNaturalMynimic](ModeCNaturalMynimic.png) |
+| Number | Mode | Luminosity | Tonic | Notes | Illustration |
+|--------|------|------------|-------|-------|--------------|
+| [1197](https://ianring.com/musictheory/scales/1197) | [Rocrimic](ModeRocrimic.md) | 3 | D | D, E, F, G, A, B#, D | ![DNaturalRocrimic](ModeDNaturalRocrimic.png) |
+| [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | 1 | E | E, F, G, A, B#, C##, E | ![ENaturalEporimic](ModeENaturalEporimic.png) |
+| [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | 6 | F | F, G, A, B#, C##, D##, F | ![FNaturalThaptimic](ModeFNaturalThaptimic.png) |
+| [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | 4 | G | G, A, B#, C##, D##, E#, G | ![GNaturalLothimic](ModeGNaturalLothimic.png) |
+| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | 2 | A | A, B#, C##, D##, E#, F##, A | ![ANaturalEpathimic](ModeANaturalEpathimic.png) |
+| [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | 5 | C | C, D, E, F, G, A, C | ![CNaturalMynimic](ModeCNaturalMynimic.png) |
 ## Relative Brightness
 
-| Number | Mode | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
-|--------|------|-------|-------|-----------------|------------------|
-| [1197](https://ianring.com/musictheory/scales/1197) | [Rocrimic](ModeRocrimic.md) | D | D, E, F, G, A, B#, D | ![DNaturalRocrimic](CircleOfFifthModeDNaturalRocrimic.svg) | ![DNaturalRocrimic](ChromaticCircleModeDNaturalRocrimic.svg) |
-| [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | E | E, F, G, A, B#, C##, E | ![ENaturalEporimic](CircleOfFifthModeENaturalEporimic.svg) | ![ENaturalEporimic](ChromaticCircleModeENaturalEporimic.svg) |
-| [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | F | F, G, A, B#, C##, D##, F | ![FNaturalThaptimic](CircleOfFifthModeFNaturalThaptimic.svg) | ![FNaturalThaptimic](ChromaticCircleModeFNaturalThaptimic.svg) |
-| [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | G | G, A, B#, C##, D##, E#, G | ![GNaturalLothimic](CircleOfFifthModeGNaturalLothimic.svg) | ![GNaturalLothimic](ChromaticCircleModeGNaturalLothimic.svg) |
-| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | A | A, B#, C##, D##, E#, F##, A | ![ANaturalEpathimic](CircleOfFifthModeANaturalEpathimic.svg) | ![ANaturalEpathimic](ChromaticCircleModeANaturalEpathimic.svg) |
-| [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | C | C, D, E, F, G, A, C | ![CNaturalMynimic](CircleOfFifthModeCNaturalMynimic.svg) | ![CNaturalMynimic](ChromaticCircleModeCNaturalMynimic.svg) |
+| Number | Mode | Luminosity | Tonic | Notes | Circle Of Fifth | Chromatic Circle |
+|--------|------|------------|-------|-------|-----------------|------------------|
+| [1197](https://ianring.com/musictheory/scales/1197) | [Rocrimic](ModeRocrimic.md) | 3 | D | D, E, F, G, A, B#, D | ![DNaturalRocrimic](CircleOfFifthModeDNaturalRocrimic.svg) | ![DNaturalRocrimic](ChromaticCircleModeDNaturalRocrimic.svg) |
+| [1323](https://ianring.com/musictheory/scales/1323) | [Eporimic](ModeEporimic.md) | 1 | E | E, F, G, A, B#, C##, E | ![ENaturalEporimic](CircleOfFifthModeENaturalEporimic.svg) | ![ENaturalEporimic](ChromaticCircleModeENaturalEporimic.svg) |
+| [2709](https://ianring.com/musictheory/scales/2709) | [Thaptimic](ModeThaptimic.md) | 6 | F | F, G, A, B#, C##, D##, F | ![FNaturalThaptimic](CircleOfFifthModeFNaturalThaptimic.svg) | ![FNaturalThaptimic](ChromaticCircleModeFNaturalThaptimic.svg) |
+| [1701](https://ianring.com/musictheory/scales/1701) | [Lothimic](ModeLothimic.md) | 4 | G | G, A, B#, C##, D##, E#, G | ![GNaturalLothimic](CircleOfFifthModeGNaturalLothimic.svg) | ![GNaturalLothimic](ChromaticCircleModeGNaturalLothimic.svg) |
+| [1449](https://ianring.com/musictheory/scales/1449) | [Epathimic](ModeEpathimic.md) | 2 | A | A, B#, C##, D##, E#, F##, A | ![ANaturalEpathimic](CircleOfFifthModeANaturalEpathimic.svg) | ![ANaturalEpathimic](ChromaticCircleModeANaturalEpathimic.svg) |
+| [693](https://ianring.com/musictheory/scales/693) | [Mynimic](ModeMynimic.md) | 5 | C | C, D, E, F, G, A, C | ![CNaturalMynimic](CircleOfFifthModeCNaturalMynimic.svg) | ![CNaturalMynimic](ChromaticCircleModeCNaturalMynimic.svg) |
 
 ## Chords
 
