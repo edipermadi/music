@@ -139,7 +139,7 @@ func (n Notes) Checksum() int {
 	var value int
 
 	for _, givenNote := range n {
-		value |= (1 << givenNote.AbsoluteOffset())
+		value |= 1 << givenNote.AbsoluteOffset()
 	}
 
 	return value
